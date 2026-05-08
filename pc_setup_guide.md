@@ -45,7 +45,27 @@
 
 ---
 
-## 4. 📂 파일 동기화 및 협업 (Sync & Productivity)
+## 5. 🛠️ MCP (Model Context Protocol) 및 AI 도구 고도화
+
+AI 에이전트의 능력을 확장하기 위한 설정입니다.
+
+### 🧩 MCP 서버 설정 (`mcp_config.json`)
+- **FileSystem**: 로컬 파일 시스템 제어 (`d:\Kevincity Share`)
+- **Brave Search**: 실시간 웹 검색 기반 데이터 수집
+- **GitHub**: 코드 및 지식 저장소 자동 관리
+- **Stitch (Google)**: 디자인-투-코드 자동화 엔동
+
+### 📓 NotebookLM (구글 지식 분석)
+- **용도**: 복잡한 지식 베이스(`knowledge Base`) 심층 분석 및 인사이트 도출
+- **방법**: `knowledge Base` 내의 .md 파일들을 NotebookLM 소스로 업로드하여 활용
+
+### 🎨 Google Stitch (스티치)
+- **용도**: AI 네이티브 UI 디자인 및 프런트엔드 코드 생성
+- **작동**: `stitch-mcp`를 통해 생성된 디자인을 VS Code로 즉시 가져오기
+
+---
+
+## 6. 📂 파일 동기화 및 협업 (Sync & Productivity)
 
 - **SyncTrayzor (Syncthing)**: `000_factory_core` 등 핵심 프로젝트 폴더 동기화
 - **카카오톡**: PC 버전 설치
