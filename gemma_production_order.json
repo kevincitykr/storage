@@ -1,0 +1,39 @@
+{
+  "project_id": "a_003_playlist_hook",
+  "project_name": "Rainy Night Melodies - Silent AI Hook",
+  "actor_role": "Visual Production Director (Gemma 4)",
+  "mission_statement": "Create a series of 4 highly consistent, high-fidelity visual prompts for a 1-minute silent playlist intro. Focus on cinematic quality and 'Masterpiece' aesthetics.",
+  "production_protocol": {
+    "step_1_contextual_grounding": "Analyze the emotional core: Solitude, warmth, nighttime, rain, high-art noir.",
+    "step_2_visual_consistency_locking": {
+      "art_style": "19th-century Oil Painting (Impressionist influence), visible brushstrokes, high-end digital polish.",
+      "lighting_schema": "Dual-tone contrast: Cyan streetlights vs. Warm Amber interior lamp light.",
+      "character_profile": "Lonesome traveler, 30s, vintage brown wool coat, melancholic but serene expression.",
+      "mandatory_elements": ["Raindrops on glass", "Soft bokeh", "Film grain"]
+    },
+    "step_3_prompt_generation": "Generate 4 distinct prompts. Each prompt must start with: 'An oil painting masterpiece in the style of [Master Style Guide], showing...'. Ensure the character identity details are repeated EXACTLY in each prompt to lock identity."
+  },
+  "scene_storyboard": [
+    {
+      "id": 1,
+      "description": "The traveler looking out of a rain-streaked window at a blurred neon city.",
+      "emotion": "Anticipation / Melancholy"
+    },
+    {
+      "id": 2,
+      "description": "Extreme closeup of a steaming coffee cup next to an old, weathered book on a mahogany table.",
+      "emotion": "Warmth / Solitude"
+    },
+    {
+      "id": 3,
+      "description": "A wide shot from inside the cafe, showing the silhouette of the traveler and blurred figures passing by outside in the rain.",
+      "emotion": "Distance / Mystery"
+    },
+    {
+      "id": 4,
+      "description": "The traveler closing their eyes and tilting their head slightly, reflecting the warm amber light of the cafe.",
+      "emotion": "Serenity / Delivery"
+    }
+  ],
+  "output_format": "JSON array of image prompts optimized for DALL-E 3 or Midjourney v7."
+}

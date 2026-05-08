@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quantum Production Hub | Connect AI LAB</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="model-badge">Active Engine: gemma-4-8b (e4b) [Premium]</div>
+            <h1>Quantum <br>Production Hub</h1>
+            <p style="color: var(--text-dim);">Rainy Night Melodies - Visual Production Assets</p>
+        </header>
+
+        <main class="grid" id="scene-grid">
+            <!-- app.js를 통해 동적으로 카드가 생성될 공간입니다. -->
+            <div class="loading-state">
+                <p>로컬 프로덕션 데이터를 불러오는 중...</p>
+            </div>
+        </main>
+
+        <div class="status-bar">
+            <span>Server: localhost:1234</span>
+            <span id="timestamp">Production Time: 2026-04-14</span>
+            <span>Connect AI LAB &copy; 2026</span>
+        </div>
+    </div>
+
+    <!-- 로직 스크립트 연결 -->
+    <script src="data.js"></script>
+    <script src="app.js"></script>
+</body>
+</html>

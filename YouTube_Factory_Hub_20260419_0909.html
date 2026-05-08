@@ -1,0 +1,281 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YOUTUBE FACTORY EMPIRE - 2604:19 09:09 (Dual Mind Channels)</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;700;900&family=Space+Grotesk:wght@300;500;700;900&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        :root {
+            --primary-cyan: #00f2ff;
+            --primary-gold: #ffcf5b;
+            --primary-purple: #a855f7;
+            --primary-red: #ff4d4d;
+            --bg-dark: #05070a;
+            --bg-sidebar: #0a0c10;
+            --border-glass: rgba(255, 255, 255, 0.1);
+            --glow-cyan: rgba(0, 242, 255, 0.4);
+            --glow-gold: rgba(255, 207, 91, 0.4);
+            --glow-purple: rgba(168, 85, 247, 0.4);
+            --text-muted: rgba(255, 255, 255, 0.5);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Pretendard', sans-serif; }
+        body { background-color: var(--bg-dark); color: #fff; display: flex; height: 100vh; overflow: hidden; }
+
+        /* Sidebar */
+        aside { width: 75px; background-color: var(--bg-sidebar); border-right: 1px solid var(--border-glass); display: flex; flex-direction: column; align-items: center; padding-top: 30px; gap: 35px; z-index: 100; }
+        aside .icon-btn { color: var(--text-muted); cursor: pointer; transition: 0.3s; position: relative; display: flex; align-items: center; justify-content: center; width: 45px; height: 45px; border-radius: 12px; }
+        aside .icon-btn:hover, aside .icon-btn.active { color: var(--primary-cyan); background: rgba(0, 242, 255, 0.1); box-shadow: 0 0 15px var(--glow-cyan); }
+        
+        /* Main Area */
+        main { flex: 1; display: flex; flex-direction: column; overflow: hidden; background: radial-gradient(circle at 10% 10%, rgba(0, 242, 255, 0.03) 0%, transparent 50%); }
+        header { padding: 15px 40px; display: flex; justify-content: space-between; align-items: center; background: rgba(10, 12, 16, 0.95); border-bottom: 2px solid var(--primary-cyan); box-shadow: 0 4px 20px rgba(0, 242, 255, 0.2); z-index: 200; backdrop-filter: blur(20px); }
+        .logo { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 900; letter-spacing: 3px; }
+        .logo span { color: var(--primary-cyan); text-shadow: 0 0 10px var(--glow-cyan); }
+
+        .view-scroller { flex: 1; overflow-y: auto; scroll-behavior: smooth; }
+        .view-section { min-height: 100vh; padding: 60px 80px; border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
+        
+        /* Grid System */
+        .master-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 30px; }
+        .master-card { background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 20px; padding: 30px; position: relative; height: 310px; backdrop-filter: blur(20px); transition: 0.4s; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; border-top: 3px solid transparent; }
+        .master-card:hover { transform: translateY(-10px); background: rgba(255, 255, 255, 0.07); border-color: var(--accent-color); box-shadow: 0 15px 40px var(--glow-color); }
+        .card-bg-id { position: absolute; top: -10px; right: 20px; font-family: 'Space Grotesk', sans-serif; font-size: 90px; font-weight: 900; opacity: 0.06; color: var(--accent-color); z-index: 0; }
+        
+        .card-header-bx .kor { font-size: 19px; font-weight: 900; color: var(--accent-color); display: block; margin-bottom: 6px; text-shadow: 0 0 15px var(--glow-color); }
+        .card-header-bx .handle { font-family: 'Space Grotesk', sans-serif; font-size: 12px; color: var(--text-muted); }
+
+        .card-body-bx { font-size: 13px; color: rgba(255,255,255,0.8); line-height: 1.8; margin-top: 15px; }
+        .card-footer-btns { display: flex; gap: 8px; margin-top: auto; padding-top: 15px; }
+        .action-btn { flex: 1; padding: 10px 0; background: rgba(0, 0, 0, 0.5); border: 1px solid var(--accent-color); color: var(--accent-color); border-radius: 8px; text-decoration: none; font-size: 10px; font-weight: 900; display: flex; align-items: center; justify-content: center; gap: 4px; transition: 0.3s; }
+        .action-btn:hover { background: var(--accent-color); color: #000; box-shadow: 0 0 15px var(--glow-color); }
+        .action-btn.yt { border-color: #ff4d4d; color: #ff4d4d; }
+        .action-btn.studio { border-color: var(--primary-cyan); color: var(--primary-cyan); }
+
+        /* Card Themes */
+        .purp { --accent-color: var(--primary-purple); --glow-color: var(--glow-purple); border-top-color: var(--primary-purple); }
+        .cyan { --accent-color: var(--primary-cyan); --glow-color: var(--glow-cyan); border-top-color: var(--primary-cyan); }
+        .gold { --accent-color: var(--primary-gold); --glow-color: var(--glow-gold); border-top-color: var(--primary-gold); }
+        .silver { --accent-color: #bdc3c7; --glow-color: rgba(189,195,199,0.3); }
+
+        td { padding: 20px 30px; border-bottom: 1px solid rgba(255,255,255,0.03); font-size: 14px; }
+
+        /* Console Window */
+        .console-fixed { position: fixed; bottom: 0; left: 75px; right: 0; height: 180px; background: rgba(5, 7, 10, 0.95); border-top: 1px solid var(--primary-cyan); z-index: 500; display: flex; flex-direction: column; backdrop-filter: blur(20px); }
+        .console-header { background: rgba(0, 242, 255, 0.1); padding: 5px 20px; font-size: 11px; font-weight: 900; color: var(--primary-cyan); display: flex; justify-content: space-between; border-bottom: 1px solid rgba(0, 242, 255, 0.2); }
+        .console-body { flex: 1; padding: 10px 20px; font-family: 'Consolas', monospace; font-size: 12px; color: #00ff00; overflow-y: auto; line-height: 1.5; }
+        .pipeline-step { display: inline-flex; align-items: center; gap: 5px; margin-right: 20px; opacity: 0.5; }
+        .pipeline-step.active { opacity: 1; color: var(--primary-gold); }
+    </style>
+</head>
+
+<body>
+    <aside>
+        <div class="icon-btn active"><span class="material-icons">grid_view</span></div>
+        <div class="icon-btn"><span class="material-icons">list_alt</span></div>
+        <div class="nav-divider"></div>
+        <a href="../003_onhwa_mindnote/dashboard_005.html" target="_blank" class="factory-link">
+            <div class="icon-btn"><span class="material-icons">psychology</span></div>
+        </a>
+    </aside>
+
+    <main>
+        <header>
+            <div class="logo">FACTORY <span>EMPIRE HUB</span></div>
+            <div id="clock" style="font-family:'Space Grotesk'; font-size:12px; color:var(--primary-cyan); font-weight:900;">ACTIVE: 2026-04-19 09:09:00</div>
+        </header>
+
+        <div class="view-scroller">
+            <section class="view-section">
+                <div class="master-grid">
+                    <!-- 11. Mind Architect (신규 추가) -->
+                    <div class="master-card gold" style="border-width: 4px; box-shadow: 0 0 40px var(--glow-gold);">
+                        <div class="card-bg-id">MA</div>
+                        <div class="card-header-bx">
+                            <span class="kor">심리 설계소 (Mind Architect)</span>
+                            <span class="handle">@Mind_Architect | NEW MAIN</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b style="color:var(--primary-gold)">sohwe124@gmail.com</b><br>
+                            STATUS: <b style="color:var(--primary-cyan)">ACTIVE & UPLOADING</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('psychology', '심리 설계소')" class="action-btn" style="background:var(--primary-gold); color:#000;">RUN BOT</button>
+                            <a href="../003_onhwa_mindnote/dashboard_005.html" target="_blank" class="action-btn">DASH</a>
+                            <a href="https://www.youtube.com/@Mind_Architect" target="_blank" class="action-btn yt">YT</a>
+                        </div>
+                    </div>
+
+                    <!-- 04. Onhwa Mindnote (기존 유지) -->
+                    <div class="master-card silver">
+                        <div class="card-bg-id">04</div>
+                        <div class="card-header-bx">
+                            <span class="kor">온화한 심리노트</span>
+                            <span class="handle">@Onhwa_Mindnote</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b>kevincitykr005@gmail.com</b><br>
+                            STATUS: <b style="color:var(--primary-red)">SUSPENDED (WAITING APPEAL)</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('psychology', '온화한 심리노트')" class="action-btn">RUN BOT</button>
+                            <a href="https://www.youtube.com/@Onhwa_Mindnote" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 02. Melodist Seoul -->
+                    <div class="master-card purp">
+                        <div class="card-bg-id">02</div>
+                        <div class="card-header-bx"><span class="kor">Melodist Seoul</span><span class="handle">@MelodistSeoul</span></div>
+                        <div class="card-body-bx">MAIL: <b>kevincitykr002@gmail.com</b></div>
+                        <div class="card-footer-btns">
+                            <a href="#" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@MelodistSeoul" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 10. Beat City -->
+                    <div class="master-card cyan">
+                        <div class="card-bg-id">10</div>
+                        <div class="card-header-bx"><span class="kor">Beat City (비트 시티)</span><span class="handle">@BeatCity_Music</span></div>
+                        <div class="card-body-bx">MAIL: <b>kevincitykr004@gmail.com</b></div>
+                        <div class="card-footer-btns">
+                            <a href="#" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@BeatCity_Music" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 09. Money Rush -->
+                    <div class="master-card cyan">
+                        <div class="card-bg-id">09</div>
+                        <div class="card-header-bx"><span class="kor">머니러쉬 (Money Rush)</span><span class="handle">@AIAstra0</span></div>
+                        <div class="card-body-bx">MAIL: <b>kevincitykr003@gmail.com</b></div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('economy', '머니러쉬')" class="action-btn" style="border-color:var(--primary-cyan);">RUN BOT</button>
+                            <a href="https://www.youtube.com/@AIAstra0" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- ... (그 외 모든 카드 동일 유지) ... -->
+                    <div class="master-card silver"><div class="card-bg-id">ST</div><div class="card-header-bx"><span class="kor">전략 기획실</span></div><div class="card-body-bx">MAIL: <b>SYSTEM ADMIN</b></div><div class="card-footer-btns"><a href="#" class="action-btn">PANEL</a><a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a></div></div>
+                    <div class="master-card gold"><div class="card-bg-id">01</div><div class="card-header-bx"><span class="kor">황혼의 반격</span></div><div class="card-body-bx">MAIL: <b>kevincity0127@gmail.com</b></div><div class="card-footer-btns"><a href="#" class="action-btn">PORTAL</a><a href="https://www.youtube.com/@Life_Reversal" target="_blank" class="action-btn yt">YT</a><a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a></div></div>
+                    <div class="master-card cyan"><div class="card-bg-id">02</div><div class="card-header-bx"><span class="kor">케빈의 하루</span></div><div class="card-body-bx">MAIL: <b>kkseob0116@gmail.com</b></div><div class="card-footer-btns"><a href="#" class="action-btn">PORTAL</a><a href="https://www.youtube.com/@StoryTeller_Kevin" target="_blank" class="action-btn yt">YT</a><a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a></div></div>
+                    <div class="master-card purp"><div class="card-bg-id">03</div><div class="card-header-bx"><span class="kor">마음결 처방전</span></div><div class="card-body-bx">MAIL: <b>gsgim116@gmail.com</b></div><div class="card-footer-btns"><a href="#" class="action-btn">PORTAL</a><a href="https://www.youtube.com/@MindTexture" target="_blank" class="action-btn yt">YT</a><a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a></div></div>
+                    <div class="master-card cyan"><div class="card-bg-id">05</div><div class="card-header-bx"><span class="kor">자본주의 생존자들</span></div><div class="card-body-bx">MAIL: <b>kkseob0116@gmail.com</b></div><div class="card-footer-btns"><button onclick="runBot('economy', '자본주의 생존자들')" class="action-btn">RUN BOT</button><a href="https://www.youtube.com/@LogEconomy_KR" target="_blank" class="action-btn yt">YT</a><a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a></div></div>
+                    <div class="master-card silver" style="border-top-color:#ff6b6b;"><div class="card-bg-id">06</div><div class="card-header-bx"><span class="kor">무지개 다리</span></div><div class="card-body-bx">MAIL: <b>kevincityjr@gmail.com</b></div><div class="card-footer-btns"><a href="#" class="action-btn">PORTAL</a><a href="https://www.youtube.com/@Nijinohashi_JP" target="_blank" class="action-btn yt">YT</a><a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a></div></div>
+                    <div class="master-card gold"><div class="card-bg-id">07</div><div class="card-header-bx"><span class="kor">덩치와쪼꼬미 쇼핑몰</span></div><div class="card-body-bx">MAIL: <b>sohwe124@gmail.com</b></div><div class="card-footer-btns"><a href="#" class="action-btn">PORTAL</a><a href="https://www.youtube.com/@dungchi_jjoggomi" target="_blank" class="action-btn yt">YT</a><a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a></div></div>
+                    <div class="master-card gold" style="border-left: 5px solid var(--primary-gold);"><div class="card-bg-id">08</div><div class="card-header-bx"><span class="kor">야담 상회</span></div><div class="card-body-bx">MAIL: <b>kevincitykr001@gmail.com</b></div><div class="card-footer-btns"><a href="#" class="action-btn">PORTAL</a><a href="https://www.youtube.com/@Yadam_Sanghoe" target="_blank" class="action-btn yt">YT</a><a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a></div></div>
+                </div>
+            </section>
+
+            <!-- SECTION 2: DATASHEET VIEW -->
+            <section class="view-section" id="v7-table">
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr><th>ID</th><th>채널명</th><th>비즈니스 메일</th><th>상태</th></tr>
+                        </thead>
+                        <tbody>
+                            <tr style="background: rgba(255, 207, 91, 0.1);"><td>MA</td><td>심리 설계소 (Mind Architect)</td><td>sohwe124@gmail.com</td><td>ACTIVE</td></tr>
+                            <tr><td>04</td><td>온화한 심리노트</td><td>kevincitykr005@gmail.com</td><td>SUSPENDED</td></tr>
+                            <tr><td>02</td><td>Melodist Seoul</td><td>kevincitykr002@gmail.com</td><td>ACTIVE</td></tr>
+                            <tr><td>10</td><td>Beat City (비트 시티)</td><td>kevincitykr004@gmail.com</td><td>READY</td></tr>
+                            <tr><td>09</td><td>머니러쉬 (Money Rush)</td><td>kevincitykr003@gmail.com</td><td>LIVE</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- FIXED CONSOLE -->
+    <div class="console-fixed" id="console">
+        <div class="console-header">
+            <div id="status-text">SYSTEM READY (IDLE)</div>
+            <div id="pipeline-tracker">
+                <span class="pipeline-step" id="step-trend">TREND SEARCH</span>
+                <span class="pipeline-step" id="step-script">SCRIPT (NLM)</span>
+                <span class="pipeline-step" id="step-render">RENDERING</span>
+                <span class="pipeline-step" id="step-manual">MANUAL REVIEW</span>
+            </div>
+        </div>
+        <div class="console-body" id="console-body">
+            [SYS] Waiting for command...
+        </div>
+    </div>
+
+    <script>
+        let isPolling = false;
+
+        function updateClock() { document.getElementById('clock').innerText = `ACTIVE: ${new Date().toLocaleString()}`; }
+        setInterval(updateClock, 1000);
+
+        async function runBot(type, topic) {
+            if(!confirm(`[${topic}] ${type} 자동화 제작을 시작할까요?\n(업로드 없이 영상 생성까지만 진행합니다)`)) return;
+            
+            try {
+                const response = await fetch(`http://127.0.0.1:5000/api/run_bot?type=${type}&topic=${encodeURIComponent(topic)}`, {
+                    method: 'POST'
+                });
+                const data = await response.json();
+                if(data.ok) {
+                    startPolling();
+                } else {
+                    alert(data.msg);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('서버 연결 실패. 안실장_서버.py를 확인하세요.');
+            }
+        }
+
+        function startPolling() {
+            if(isPolling) return;
+            isPolling = true;
+            pollStatus();
+        }
+
+        async function pollStatus() {
+            try {
+                const response = await fetch('http://127.0.0.1:5000/api/status');
+                const data = await response.json();
+                
+                // 로그 업데이트
+                const body = document.getElementById('console-body');
+                body.innerHTML = data.logs.join('<br>');
+                body.scrollTop = body.scrollHeight;
+
+                // 상태 표시
+                const statusText = document.getElementById('status-text');
+                if(data.is_running) {
+                    statusText.innerText = `RUNNING: ${data.current_type} (${data.current_topic})`;
+                    statusText.style.color = 'var(--primary-gold)';
+                    document.getElementById('step-script').classList.add('active');
+                } else {
+                    statusText.innerText = 'IDLE (READY FOR NEXT JOB)';
+                    statusText.style.color = 'var(--primary-cyan)';
+                    if(data.last_result !== "아직 실행 결과가 없습니다.") {
+                        document.getElementById('step-manual').classList.add('active');
+                    }
+                    isPolling = false;
+                    return; // 중단
+                }
+            } catch (e) { console.error(e); }
+            
+            if(isPolling) setTimeout(pollStatus, 1000);
+        }
+
+        // 초기 상태 로드
+        pollStatus();
+    </script>
+</body>
+</html>

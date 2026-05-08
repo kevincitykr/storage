@@ -1,0 +1,77 @@
+{
+  "factory_status": "EXPANSION_PHASE",
+  "total_slots": 13,
+  "active_slots": 10,
+  "accounts": [
+    {
+      "id": "01",
+      "channel_name": "황혼의 반격",
+      "email": "kevincity0127@gmail.com",
+      "youtube_api": { "status": "ACTIVE", "key": "AIzaSyAo3cbJdaFi_upe5NmD09HM2RNPGakIVwQ", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "DALL-E", "status": "PENDING", "key": "" }
+    },
+    {
+      "id": "02",
+      "channel_name": "Melodist Seoul / 케빈의 하루",
+      "email": "kkseob0116@gmail.com",
+      "youtube_api": { "status": "ACTIVE", "key": "AIzaSyBvDNNFJqWJxs2ktJzQ_GsVKU_rm0DNe3k", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "STABLE_DIFFUSION_LOCAL", "status": "READY", "key": "LOCAL" }
+    },
+    {
+      "id": "03",
+      "channel_name": "마음결 처방전",
+      "email": "gsgim116@gmail.com",
+      "youtube_api": { "status": "ACTIVE", "key": "AIzaSyBo_mSzeOg_bHoY8eGziO6SaaEXObhPZwU", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "DALL-E", "status": "PENDING", "key": "" }
+    },
+    {
+      "id": "04",
+      "channel_name": "온화한 심리노트",
+      "email": "kevincitykr005@gmail.com",
+      "youtube_api": { "status": "ACTIVE", "key": "AIzaSyAj-kjDlGzWieJ4Cn3jm-xAYqf-OTd3Xqs", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "STABLE_DIFFUSION_LOCAL", "status": "READY", "key": "LOCAL" }
+    },
+    {
+      "id": "05",
+      "channel_name": "자본주의 생존자들",
+      "email": "kkseob0116@gmail.com",
+      "youtube_api": { "status": "ACTIVE", "key": "AIzaSyBvDNNFJqWJxs2ktJzQ_GsVKU_rm0DNe3k", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "DALL-E", "status": "PENDING", "key": "" }
+    },
+    {
+      "id": "06",
+      "channel_name": "무지개 다리",
+      "email": "kevincityjr@gmail.com",
+      "youtube_api": { "status": "ACTIVE", "key": "AIzaSyBRWO8sfPOyfGBcOfIGU6cOqVZuRpnJfyU", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "DALL-E", "status": "PENDING", "key": "" }
+    },
+    {
+      "id": "07",
+      "channel_name": "덩치와쪼꼬미",
+      "email": "sohwe124@gmail.com",
+      "youtube_api": { "status": "ACTIVE", "key": "AIzaSyAj-kjDlGzWieJ4Cn3jm-xAYqf-OTd3Xqs", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "DALL-E", "status": "PENDING", "key": "" }
+    },
+    {
+      "id": "08",
+      "channel_name": "야담 상회",
+      "email": "kevincitykr001@gmail.com",
+      "youtube_api": { "status": "PENDING", "key": "", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "DALL-E", "status": "PENDING", "key": "" }
+    },
+    {
+      "id": "09",
+      "channel_name": "머니러쉬",
+      "email": "kevincitykr003@gmail.com",
+      "youtube_api": { "status": "PENDING", "key": "", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "DALL-E", "status": "PENDING", "key": "" }
+    },
+    {
+      "id": "10",
+      "channel_name": "비트 시티",
+      "email": "kevincitykr004@gmail.com",
+      "youtube_api": { "status": "PENDING", "key": "", "quota_reset": "00:00 PST" },
+      "image_api": { "type": "DALL-E", "status": "PENDING", "key": "" }
+    }
+  ]
+}

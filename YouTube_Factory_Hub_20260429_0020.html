@@ -1,0 +1,329 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YOUTUBE FACTORY EMPIRE - 2604:29 00:20 (LATAM Expansion Update)</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;700;900&family=Space+Grotesk:wght@300;500;700;900&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        :root {
+            --primary-cyan: #00f2ff;
+            --primary-gold: #ffcf5b;
+            --primary-purple: #a855f7;
+            --primary-red: #ff4d4d;
+            --primary-latam: #00e676; /* Vibrant Green for LATAM */
+            --bg-dark: #05070a;
+            --bg-sidebar: #0a0c10;
+            --border-glass: rgba(255, 255, 255, 0.1);
+            --glow-cyan: rgba(0, 242, 255, 0.4);
+            --glow-gold: rgba(255, 207, 91, 0.4);
+            --glow-purple: rgba(168, 85, 247, 0.4);
+            --glow-latam: rgba(0, 230, 118, 0.4);
+            --text-muted: rgba(255, 255, 255, 0.5);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Pretendard', sans-serif; }
+        body { background-color: var(--bg-dark); color: #fff; display: flex; height: 100vh; overflow: hidden; }
+
+        /* Sidebar */
+        aside { width: 75px; background-color: var(--bg-sidebar); border-right: 1px solid var(--border-glass); display: flex; flex-direction: column; align-items: center; padding-top: 30px; gap: 35px; z-index: 100; }
+        aside .icon-btn { color: var(--text-muted); cursor: pointer; transition: 0.3s; position: relative; display: flex; align-items: center; justify-content: center; width: 45px; height: 45px; border-radius: 12px; }
+        aside .icon-btn:hover, aside .icon-btn.active { color: var(--primary-cyan); background: rgba(0, 242, 255, 0.1); box-shadow: 0 0 15px var(--glow-cyan); }
+        aside .icon-btn.latam-btn { color: var(--primary-latam); }
+        aside .icon-btn.latam-btn:hover { background: rgba(0, 230, 118, 0.1); box-shadow: 0 0 15px var(--glow-latam); }
+        
+        /* Main Area */
+        main { flex: 1; display: flex; flex-direction: column; overflow: hidden; background: radial-gradient(circle at 10% 10%, rgba(0, 242, 255, 0.03) 0%, transparent 50%); }
+        header { padding: 15px 40px; display: flex; justify-content: space-between; align-items: center; background: rgba(10, 12, 16, 0.95); border-bottom: 2px solid var(--primary-cyan); box-shadow: 0 4px 20px rgba(0, 242, 255, 0.2); z-index: 200; backdrop-filter: blur(20px); }
+        .logo { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 900; letter-spacing: 3px; }
+        .logo span { color: var(--primary-cyan); text-shadow: 0 0 10px var(--glow-cyan); }
+        .logo .latam-tag { font-size: 10px; background: var(--primary-latam); color: #000; padding: 2px 6px; border-radius: 4px; vertical-align: middle; margin-left: 10px; letter-spacing: 1px; box-shadow: 0 0 10px var(--glow-latam); }
+
+        .view-scroller { flex: 1; overflow-y: auto; scroll-behavior: smooth; }
+        .view-section { min-height: 100vh; padding: 40px 60px; border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
+        
+        /* Grid System */
+        .master-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 30px; }
+        .master-card { background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 20px; padding: 30px; position: relative; height: 330px; backdrop-filter: blur(20px); transition: 0.4s; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; border-top: 3px solid transparent; }
+        .master-card:hover { transform: translateY(-10px); background: rgba(255, 255, 255, 0.07); border-color: var(--accent-color); box-shadow: 0 15px 40px var(--glow-color); }
+        .card-bg-id { position: absolute; top: -10px; right: 20px; font-family: 'Space Grotesk', sans-serif; font-size: 90px; font-weight: 900; opacity: 0.06; color: var(--accent-color); z-index: 0; }
+        
+        .card-header-bx .kor { font-size: 19px; font-weight: 900; color: var(--accent-color); display: block; margin-bottom: 6px; text-shadow: 0 0 15px var(--glow-color); }
+        .card-header-bx .handle { font-family: 'Space Grotesk', sans-serif; font-size: 12px; color: var(--text-muted); }
+
+        .card-body-bx { font-size: 13px; color: rgba(255,255,255,0.8); line-height: 1.8; margin-top: 15px; }
+        .card-footer-btns { display: flex; gap: 8px; margin-top: auto; padding-top: 15px; }
+        .action-btn { flex: 1; padding: 10px 0; background: rgba(0, 0, 0, 0.5); border: 1px solid var(--accent-color); color: var(--accent-color); border-radius: 8px; text-decoration: none; font-size: 10px; font-weight: 900; display: flex; align-items: center; justify-content: center; gap: 4px; transition: 0.3s; }
+        .action-btn:hover { background: var(--accent-color); color: #000; box-shadow: 0 0 15px var(--glow-color); }
+        .action-btn.yt { border-color: #ff4d4d; color: #ff4d4d; }
+        .action-btn.studio { border-color: var(--primary-cyan); color: var(--primary-cyan); }
+        .action-btn.latam-action { border-color: var(--primary-latam); color: var(--primary-latam); }
+        .action-btn.latam-action:hover { background: var(--primary-latam); color: #000; }
+
+        /* Card Themes */
+        .purp { --accent-color: var(--primary-purple); --glow-color: var(--glow-purple); border-top-color: var(--primary-purple); }
+        .cyan { --accent-color: var(--primary-cyan); --glow-color: var(--glow-cyan); border-top-color: var(--primary-cyan); }
+        .gold { --accent-color: var(--primary-gold); --glow-color: var(--glow-gold); border-top-color: var(--primary-gold); }
+        .silver { --accent-color: #bdc3c7; --glow-color: rgba(189,195,199,0.3); }
+        .latam-card { --accent-color: var(--primary-latam); --glow-color: var(--glow-latam); border-top-color: var(--primary-latam); }
+
+        /* LATAM Strategy Panel */
+        .latam-panel { background: rgba(0, 230, 118, 0.05); border: 1px solid rgba(0, 230, 118, 0.2); border-radius: 20px; padding: 30px; margin-bottom: 40px; backdrop-filter: blur(20px); box-shadow: 0 0 30px rgba(0, 230, 118, 0.1); }
+        .latam-panel-header { display: flex; align-items: center; gap: 15px; margin-bottom: 20px; }
+        .latam-panel-header h2 { font-family: 'Space Grotesk', sans-serif; font-size: 24px; color: var(--primary-latam); text-shadow: 0 0 15px var(--glow-latam); }
+        .latam-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 20px; }
+        .latam-strategy-item { background: rgba(0, 0, 0, 0.3); padding: 20px; border-radius: 12px; border: 1px solid rgba(255,255,255,0.05); }
+        .latam-strategy-item h3 { font-size: 16px; color: var(--primary-latam); margin-bottom: 10px; display: flex; align-items: center; gap: 8px; }
+        .latam-strategy-item p { font-size: 12px; color: rgba(255,255,255,0.7); line-height: 1.6; }
+
+        /* Console Window */
+        .console-fixed { position: fixed; bottom: 0; left: 75px; right: 0; height: 180px; background: rgba(5, 7, 10, 0.95); border-top: 1px solid var(--primary-cyan); z-index: 500; display: flex; flex-direction: column; backdrop-filter: blur(20px); }
+        .console-header { background: rgba(0, 242, 255, 0.1); padding: 5px 20px; font-size: 11px; font-weight: 900; color: var(--primary-cyan); display: flex; justify-content: space-between; border-bottom: 1px solid rgba(0, 242, 255, 0.2); }
+        .console-body { flex: 1; padding: 10px 20px; font-family: 'Consolas', monospace; font-size: 12px; color: #00ff00; overflow-y: auto; line-height: 1.5; }
+        .pipeline-step { display: inline-flex; align-items: center; gap: 5px; margin-right: 20px; opacity: 0.5; }
+        .pipeline-step.active { opacity: 1; color: var(--primary-gold); }
+    </style>
+</head>
+
+<body>
+    <aside>
+        <div class="icon-btn active"><span class="material-icons">grid_view</span></div>
+        <div class="icon-btn latam-btn" onclick="document.getElementById('latam-section').scrollIntoView();"><span class="material-icons">language</span></div>
+        <div class="nav-divider"></div>
+        <a href="../003_onhwa_mindnote/dashboard_005.html" target="_blank" class="factory-link">
+            <div class="icon-btn"><span class="material-icons">psychology</span></div>
+        </a>
+    </aside>
+
+    <main>
+        <header>
+            <div class="logo">FACTORY <span>EMPIRE HUB</span> <span class="latam-tag">LATAM UPDATE</span></div>
+            <div id="clock" style="font-family:'Space Grotesk'; font-size:12px; color:var(--primary-cyan); font-weight:900;">ACTIVE: 2026-04-29 00:20:00</div>
+        </header>
+
+        <div class="view-scroller">
+            <!-- LATAM STRATEGY SECTION -->
+            <section class="view-section" id="latam-section" style="min-height: auto; padding-bottom: 20px;">
+                <div class="latam-panel">
+                    <div class="latam-panel-header">
+                        <span class="material-icons" style="color: var(--primary-latam); font-size: 32px;">public</span>
+                        <h2>브라질 & 멕시코 유튜브 음악 채널 성장 전략 (수노팩토리)</h2>
+                    </div>
+                    <div class="latam-grid">
+                        <div class="latam-strategy-item">
+                            <h3><span class="material-icons">translate</span> 1. 철저한 현지화</h3>
+                            <p>브라질(PT-BR)과 멕시코(ES-MX) 타겟 다국어 메타데이터 적용. 현지 유행 키워드(Música para relaxar 등) 활용.</p>
+                        </div>
+                        <div class="latam-strategy-item">
+                            <h3><span class="material-icons">audiotrack</span> 2. 타겟 장르 최적화</h3>
+                            <p>브라질: 보사노바 풍, 브라질 바이브 Lo-fi. <br>멕시코: 라틴 비트(Dembow) 가미된 Chill 음악.</p>
+                        </div>
+                        <div class="latam-strategy-item">
+                            <h3><span class="material-icons">palette</span> 3. 비주얼 & 쇼츠</h3>
+                            <p>현지 랜드마크(리우, 멕시코시티) 비주얼 활용. 중독성 있는 15~30초 구간 쇼츠 매쉬업 제작.</p>
+                        </div>
+                        <div class="latam-strategy-item">
+                            <h3><span class="material-icons">smart_toy</span> 4. 자동화(Factory)</h3>
+                            <p>GPT 연동 메타데이터 자동 생성 파이프라인 구축. 현지 피크 시간대(오후 6~9시) 예약 업로드.</p>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+            <!-- MAIN CHANNELS SECTION -->
+            <section class="view-section" style="padding-top: 0;">
+                <div class="master-grid">
+                    <!-- 02. Melodist Seoul (수노팩토리 LATAM 타겟) -->
+                    <div class="master-card latam-card" style="border-width: 4px; box-shadow: 0 0 30px var(--glow-latam);">
+                        <div class="card-bg-id">02</div>
+                        <div class="card-header-bx">
+                            <span class="kor">Melodist Seoul (LATAM)</span>
+                            <span class="handle">@MelodistSeoul | SUNO FACTORY</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b>kevincitykr002@gmail.com</b><br>
+                            TARGET: <b style="color:var(--primary-latam)">Brazil (PT-BR) / Mexico (ES-MX)</b><br>
+                            GENRE: <b style="color:var(--primary-gold)">Bossa Nova / Latin Lo-fi</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('latam_music', 'Melodist Seoul')" class="action-btn latam-action">RUN LATAM BOT</button>
+                            <a href="https://www.youtube.com/@MelodistSeoul" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 10. Beat City (수노팩토리 LATAM 타겟) -->
+                    <div class="master-card latam-card" style="border-width: 4px; box-shadow: 0 0 30px var(--glow-latam);">
+                        <div class="card-bg-id">10</div>
+                        <div class="card-header-bx">
+                            <span class="kor">Beat City (LATAM)</span>
+                            <span class="handle">@BeatCity_Music | SUNO FACTORY</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b>kevincitykr004@gmail.com</b><br>
+                            TARGET: <b style="color:var(--primary-latam)">Brazil / Mexico</b><br>
+                            GENRE: <b style="color:var(--primary-cyan)">Reggaeton Chill / Dembow Beats</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('latam_music', 'Beat City')" class="action-btn latam-action">RUN LATAM BOT</button>
+                            <a href="https://www.youtube.com/@BeatCity_Music" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 11. Mind Architect (기존) -->
+                    <div class="master-card gold">
+                        <div class="card-bg-id">MA</div>
+                        <div class="card-header-bx">
+                            <span class="kor">심리 설계소 (Mind Architect)</span>
+                            <span class="handle">@Mind_Architect</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b>sohwe124@gmail.com</b><br>
+                            STATUS: <b style="color:var(--primary-cyan)">ACTIVE & UPLOADING</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('psychology', '심리 설계소')" class="action-btn" style="background:var(--primary-gold); color:#000;">RUN BOT</button>
+                            <a href="../003_onhwa_mindnote/dashboard_005.html" target="_blank" class="action-btn">DASH</a>
+                            <a href="https://www.youtube.com/@Mind_Architect" target="_blank" class="action-btn yt">YT</a>
+                        </div>
+                    </div>
+
+                    <!-- 09. Money Rush (기존) -->
+                    <div class="master-card cyan">
+                        <div class="card-bg-id">09</div>
+                        <div class="card-header-bx">
+                            <span class="kor">머니러쉬 (Money Rush)</span>
+                            <span class="handle">@AIAstra0</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b>kevincitykr003@gmail.com</b><br>
+                            STATUS: <b style="color:var(--primary-cyan)">ACTIVE</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('economy', '머니러쉬')" class="action-btn">RUN BOT</button>
+                            <a href="https://www.youtube.com/@AIAstra0" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 05. 자본주의 생존자들 -->
+                    <div class="master-card cyan">
+                        <div class="card-bg-id">05</div>
+                        <div class="card-header-bx">
+                            <span class="kor">자본주의 생존자들</span>
+                            <span class="handle">@LogEconomy_KR</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b>kkseob0116@gmail.com</b><br>
+                            STATUS: <b style="color:var(--primary-cyan)">ACTIVE</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('economy', '자본주의 생존자들')" class="action-btn">RUN BOT</button>
+                            <a href="https://www.youtube.com/@LogEconomy_KR" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 04. Onhwa Mindnote -->
+                    <div class="master-card silver">
+                        <div class="card-bg-id">04</div>
+                        <div class="card-header-bx">
+                            <span class="kor">온화한 심리노트</span>
+                            <span class="handle">@Onhwa_Mindnote</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b>kevincitykr005@gmail.com</b><br>
+                            STATUS: <b style="color:var(--primary-red)">SUSPENDED</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <a href="https://www.youtube.com/@Onhwa_Mindnote" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <!-- FIXED CONSOLE -->
+    <div class="console-fixed" id="console">
+        <div class="console-header">
+            <div id="status-text">SYSTEM READY (IDLE)</div>
+            <div id="pipeline-tracker">
+                <span class="pipeline-step" id="step-trend">TREND SEARCH</span>
+                <span class="pipeline-step" id="step-script">SCRIPT (NLM)</span>
+                <span class="pipeline-step" id="step-render">RENDERING</span>
+                <span class="pipeline-step" id="step-manual">MANUAL REVIEW</span>
+            </div>
+        </div>
+        <div class="console-body" id="console-body">
+            [SYS] Waiting for command...
+        </div>
+    </div>
+
+    <script>
+        let isPolling = false;
+
+        function updateClock() { document.getElementById('clock').innerText = `ACTIVE: ${new Date().toLocaleString()}`; }
+        setInterval(updateClock, 1000);
+
+        async function runBot(type, topic) {
+            if(!confirm(`[${topic}] ${type} 자동화 제작을 시작할까요?\n(업로드 없이 영상 생성까지만 진행합니다)`)) return;
+            
+            try {
+                const response = await fetch(`http://127.0.0.1:5000/api/run_bot?type=${type}&topic=${encodeURIComponent(topic)}`, {
+                    method: 'POST'
+                });
+                const data = await response.json();
+                if(data.ok) {
+                    startPolling();
+                } else {
+                    alert(data.msg);
+                }
+            } catch (error) {
+                console.error('Error:', error);
+                alert('서버 연결 실패. 안실장_서버.py를 확인하세요.');
+            }
+        }
+
+        function startPolling() {
+            if(isPolling) return;
+            isPolling = true;
+            pollStatus();
+        }
+
+        async function pollStatus() {
+            try {
+                const response = await fetch('http://127.0.0.1:5000/api/status');
+                const data = await response.json();
+                
+                const body = document.getElementById('console-body');
+                body.innerHTML = data.logs.join('<br>');
+                body.scrollTop = body.scrollHeight;
+
+                const statusText = document.getElementById('status-text');
+                if(data.is_running) {
+                    statusText.innerText = `RUNNING: ${data.current_type} (${data.current_topic})`;
+                    statusText.style.color = 'var(--primary-gold)';
+                    document.getElementById('step-script').classList.add('active');
+                } else {
+                    statusText.innerText = 'IDLE (READY FOR NEXT JOB)';
+                    statusText.style.color = 'var(--primary-cyan)';
+                    isPolling = false;
+                    return;
+                }
+            } catch (e) { console.error(e); }
+            
+            if(isPolling) setTimeout(pollStatus, 1000);
+        }
+
+        pollStatus();
+    </script>
+</body>
+
+</html>
