@@ -1,0 +1,25 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+시작하기
+[0] (224,442)<div aria-label='kevincityjr@gmail.com 항목이 선택되었습니다. 계정 전환' class='Ahygpe m8wwGd EPPJc cd29Sd xNLKcb' role='link'>kevincityjr@gmail.com />
+	kevincityjr@gmail.com
+[1] (681,443)<input aria-label='비밀번호 입력' class='whsOnd zHQkBf' />
+비밀번호 입력
+[2] (523,512)<div  />
+	[3] (523,512)<input class='VfPpkd-muHVFf-bMcfAe' />
+[4] (568,512)<div >비밀번호 표시 />
+[5] (822,650)<button class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 BqKGqe Jskylb TrZEUc lw1w4b' />
+	[6] (822,650)<span >다음 />
+[7] (745,650)<button class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 BqKGqe eR0mzb TrZEUc lw1w4b'>다른 방법 시도 />
+	다른 방법 시도
+[8] (161,776)<div class='VfPpkd-TkwUic' role='combobox' />
+	한국어
+	[9] (161,776)<div  />
+[10] (734,776)<a class='AVAq4d TrZEUc' href='https://support.google.com/accounts?hl=ko&p=account_iph'>도움말 />
+[11] (795,776)<a class='AVAq4d TrZEUc' href='https://accounts.google.com/TOS?loc=KR&hl=ko&privacy=true'>개인정보처리방침 />
+[12] (852,776)<a class='AVAq4d TrZEUc' href='https://accounts.google.com/TOS?loc=KR&hl=ko'>약관 />
+시작하기
+
+</current_dom>

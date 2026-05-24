@@ -1,0 +1,68 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div  />
+		[2] (500,31)<header  />
+		[3] (500,531)<main  />
+			[4] (500,531)<div class='notion-scroller vertical' scrollable='true' />
+				[5] (493,156)<div  />
+					[6] (493,156)<div  />
+						[7] (493,156)<div  />
+							[8] (493,122)<div  />
+								[9] (493,122)<div  />
+									[10] (492,122)<div  />
+							[11] (493,216)<div  />
+								[12] (493,216)<div  />
+									[13] (493,216)<div  />
+										[14] (493,216)<h1 >영식이 에이전트 스킬 + 유튜브 API />
+				[15] (493,314)<div  />
+					[16] (493,314)<div  />
+						[17] (493,314)<div  />
+							[18] (493,326)<div  />
+								[19] (493,326)<h4 >스킬 />
+				[20] (493,397)<div  />
+					[21] (493,397)<div  />
+						[22] (493,397)<div  />
+							[23] (493,408)<div  />
+								[24] (493,408)<h4  />
+									[25] (237,407)<span >1. 디렉토리 구조 생성 />
+				[26] (493,467)<div  />
+					[27] (493,467)<div  />
+						[28] (493,467)<div  />
+							[29] (493,467)<div  />
+								[30] (493,467)<div  />
+									[31] (493,467)<div >터미널에서 에이전트 코어와 메모리를 보관할 폴더를 일괄 생성합니다. />
+				[32] (493,572)<div  />
+					[33] (493,572)<div  />
+						[34] (493,572)<div role='figure' />
+							[35] (493,572)<div  />
+								[36] (493,572)<div  />
+									[37] (493,572)<div  />
+										[38] (493,572)<div  />
+											[39] (493,572)<div >> Plain Text 코드를 불러오는 중... />
+				[40] (493,658)<div  />
+					[41] (493,658)<div  />
+				[42] (493,708)<div  />
+					[43] (493,708)<div  />
+						[44] (493,708)<div  />
+							[45] (493,720)<div  />
+								[46] (493,720)<h4  />
+									[47] (412,719)<span >2. 에이전트 스킬 설정: .agent/skills/agent-youngsik/SKILL.md />
+				[48] (493,778)<div  />
+					[49] (493,778)<div  />
+						[50] (493,778)<div  />
+							[51] (493,778)<div  />
+								[52] (493,778)<div  />
+									[53] (493,778)<div >이름 및 역할을 본인의 채널 성향에 맞춰 수정하여 사용하세요. />
+				[54] (493,883)<div  />
+					[55] (493,883)<div  />
+						[56] (493,883)<div role='figure' />
+							[57] (493,883)<div  />
+								[58] (493,883)<div  />
+									[59] (493,883)<div  />
+										[60] (493,883)<div  />
+											[61] (493,883)<div >> Plain Text 코드를 불러오는 중... />
+
+</current_dom>

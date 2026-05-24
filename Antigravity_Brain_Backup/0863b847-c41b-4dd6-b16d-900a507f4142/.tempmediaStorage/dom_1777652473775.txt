@@ -1,0 +1,390 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,38)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (115,40)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (357,37)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='제트 터보 송풍기' role='searchbox' />
+[3] (579,40)<div  />
+	[4] (579,37)<img  />
+[5] (605,37)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (672,37)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (644,37)<span  />
+	[8] (681,37)<div  />
+		[9] (681,37)<b >AliExpress 앱을 다운로드하세요 />
+[10] (738,37)<div  />
+	[11] (738,37)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[12] (721,37)<span  />
+		[13] (745,37)<div  />
+			[14] (745,26)<span >김해시/
+KO
+/ />
+			[15] (742,44)<b >KRW />
+				[16] (749,45)<span  />
+[17] (793,37)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[18] (777,37)<span  />
+	[19] (802,37)<div  />
+		[20] (802,26)<span >Hi, sohwe />
+		[21] (799,44)<b >계정 />
+			[22] (806,45)<span  />
+[23] (844,37)<div  />
+	[24] (846,37)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[25] (833,37)<span  />
+		[26] (855,37)<div  />
+			[27] (855,23)<div  />
+				[28] (850,24)<span >21 />
+			[29] (855,46)<b >장바구니 />
+[30] (42,360)<div class='slider--slider--VKj5hty' scrollable='true' />
+	[31] (42,141)<div  />
+		[32] (42,141)<img  />
+	[33] (42,231)<div  />
+		[34] (42,231)<img  />
+	[35] (42,320)<div  />
+		[36] (42,320)<img  />
+	[37] (42,409)<div  />
+		[38] (42,409)<img  />
+	[39] (42,499)<div  />
+		[40] (42,499)<img  />
+	[41] (42,588)<div  />
+		[42] (42,588)<img  />
+[43] (188,360)<div  />
+	[44] (188,360)<div  />
+남자 여름 바지 골프 기능성 작업복 팬츠
+[45] (391,147)<a class='reviewer--sliderItem--cwGn8yq' href='//ko.aliexpress.com/store/1104930366' />
+	[46] (327,149)<img  />
+	[47] (358,149)<span >미루나무 스토어 />
+	[48] (384,149)<span >( />
+	[49] (390,149)<img  />
+	[50] (399,149)<strong >4.8 />
+	[51] (408,149)<span >| />
+	[52] (434,149)<span >누적판매 900+ />
+	[53] (458,149)<span >) />
+원가
+₩21,900
+[54] (363,183)<span  />
+15%
+₩18,615
+5% 추가 코인 할인
+[55] (489,280)<div  />
+	[56] (484,280)<div  />
+		[57] (484,280)<div  />
+			[58] (341,280)<img  />
+			[59] (499,280)<div >₩30,000 구매 시 ₩4,100 할인 />
+	[60] (647,280)<span  />
+색상
+:
+워크데이_네이비
+[61] (338,400)<div  />
+[62] (376,400)<div  />
+[63] (413,400)<div  />
+사이즈
+:
+34
+[64] (338,506)<div  />
+	[65] (338,506)<span >30 />
+[66] (376,506)<div  />
+	[67] (376,506)<span >32 />
+[68] (413,506)<div  />
+	[69] (413,506)<span >34 />
+[70] (451,506)<div  />
+	[71] (451,506)<span >36 />
+[72] (488,506)<div  />
+	[73] (488,506)<span >38 />
+연관 상품
+[74] (340,970)<div  />
+	[75] (77,915)<div class='slick-slide slick-active slick-current' />
+		[76] (77,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005007385660541.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=4b1ddcf6-0faa-4edc-ad11-632850598a1a&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:4b1ddcf6-0faa-4edc-ad11-632850598a1a,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22317%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2121708%2123852%21%21%2121708%2123852%21%402141131717776524679202643ede97%2112000040529375664%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007385660541%7C_p_origin_prod%3A' />
+			[77] (77,848)<div  />
+				[78] (77,848)<div  />
+				[79] (97,891)<div  />
+					[80] (97,891)<div  />
+						[81] (97,891)<span  />
+			[82] (77,998)<div  />
+				[83] (77,951)<div aria-label='[엔케이아울렛] 1+1 B-윈드원턱무지바지 남자 남성 벨트 베이직 빅사이즈 아웃도어 작업복 등산복 등산바지 작업바지' class='_2BLrX' role='heading' title='[엔케이아울렛] 1+1 B-윈드원턱무지바지 남자 남성 벨트 베이직 빅사이즈 아웃도어 작업복 등산복 등산바지 작업바지'>[엔케이아울렛] 1+1 B-윈드원턱무지바지 남자 남성 벨트 베이직 빅사이즈 아웃도어 작업복 등산복 등산바지 작업바지 />
+					[엔케이아울렛] 1+1 B-윈드원턱무지바지 남자 남성 벨트 베이직 빅사이즈 아웃도어 작업복 등산복 등산바지 작업바지
+				[84] (77,981)<div aria-label='₩23,852' class='_23lt5' />
+					[85] (60,982)<div  />
+						[86] (43,982)<span >₩ />
+						[87] (52,982)<span >23 />
+						[88] (60,982)<span >, />
+						[89] (71,982)<span >852 />
+				4.7
+	[90] (181,915)<div class='slick-slide slick-active' />
+		[91] (181,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005008262128751.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=4b1ddcf6-0faa-4edc-ad11-632850598a1a&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:4b1ddcf6-0faa-4edc-ad11-632850598a1a,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22585%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2145000%2145000%21%21%2145000%2145000%21%402141131717776524679202643ede97%2112000044404922483%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008262128751%7C_p_origin_prod%3A' />
+			[92] (181,848)<div  />
+				[93] (181,848)<div  />
+				[94] (202,891)<div  />
+					[95] (202,891)<div  />
+						[96] (202,891)<span  />
+			[97] (181,998)<div  />
+				[98] (181,951)<div aria-label='[국내발송] 나이키 DRI-FIT 파크 팬츠 (FJ3017-451)' class='_2BLrX' role='heading' title='[국내발송] 나이키 DRI-FIT 파크 팬츠 (FJ3017-451)' />
+					[99] (180,973)<h3 >[국내발송] 나이키 DRI-FIT 파크 팬츠 (FJ3017-451) />
+				[100] (181,981)<div aria-label='₩45,000' class='_23lt5' />
+					[101] (164,982)<div  />
+						[102] (147,982)<span >₩ />
+						[103] (157,982)<span >45 />
+						[104] (164,982)<span >, />
+						[105] (175,982)<span >000 />
+				4.4
+	[106] (285,915)<div class='slick-slide slick-active' />
+		[107] (285,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005008868812995.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=4b1ddcf6-0faa-4edc-ad11-632850598a1a&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:4b1ddcf6-0faa-4edc-ad11-632850598a1a,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%221566%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2124056%2124056%21%21%2124056%2124056%21%402141131717776524679202643ede97%2112000047023375803%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008868812995%7C_p_origin_prod%3A' />
+			[108] (285,848)<div  />
+				[109] (285,848)<div  />
+				[110] (306,891)<div  />
+					[111] (306,891)<div  />
+						[112] (306,891)<span  />
+			[113] (285,998)<div  />
+				[114] (285,951)<div aria-label='모렉스 1+1 남성 등산 벨트 바지 아웃도어 작업복 일자 슬랙스 170' class='_2BLrX' role='heading' title='모렉스 1+1 남성 등산 벨트 바지 아웃도어 작업복 일자 슬랙스 170'>모렉스 1+1 남성 등산 벨트 바지 아웃도어 작업복 일자 슬랙스 170 />
+					모렉스 1+1 남성 등산 벨트 바지 아웃도어 작업복 일자 슬랙스 170
+				[115] (285,981)<div aria-label='₩24,056' class='_23lt5' />
+					[116] (269,982)<div  />
+						[117] (252,982)<span >₩ />
+						[118] (261,982)<span >24 />
+						[119] (269,982)<span >, />
+						[120] (279,982)<span >056 />
+				4.6
+	[121] (390,915)<div class='slick-slide slick-active' />
+		[122] (390,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005011614723515.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=4b1ddcf6-0faa-4edc-ad11-632850598a1a&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:4b1ddcf6-0faa-4edc-ad11-632850598a1a,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%2294%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2136701%2130709%21%21%2136701%2130709%21%402141131717776524679202643ede97%2112000056063214602%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005011614723515%7C_p_origin_prod%3A' />
+			[123] (390,848)<div  />
+				[124] (390,848)<div  />
+				[125] (410,891)<div  />
+					[126] (410,891)<div  />
+						[127] (410,891)<span  />
+			[128] (390,998)<div  />
+				[129] (390,951)<div aria-label='[초특가][3장] BFL 거침없이 남성 트레이닝 밴딩 바지(KP4WO2LP016M)' class='_2BLrX' role='heading' title='[초특가][3장] BFL 거침없이 남성 트레이닝 밴딩 바지(KP4WO2LP016M)'>[초특가][3장] BFL 거침없이 남성 트레이닝 밴딩 바지(KP4WO2LP016M) />
+					[초특가][3장] BFL 거침없이 남성 트레이닝 밴딩 바지(KP4WO2LP016M)
+				[130] (390,981)<div aria-label='₩30,709' class='_23lt5' />
+					[131] (366,982)<span >-16% />
+					[132] (401,982)<div  />
+						[133] (384,982)<span >₩ />
+						[134] (393,982)<span >30 />
+						[135] (401,982)<span >, />
+						[136] (412,982)<span >709 />
+					₩36,701
+				94 판매
+	[137] (494,915)<div class='slick-slide slick-active' />
+		[138] (494,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005008387456739.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=4b1ddcf6-0faa-4edc-ad11-632850598a1a&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:4b1ddcf6-0faa-4edc-ad11-632850598a1a,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%221667%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2127800%2126966%21%21%2127800%2126966%21%402141131717776524679202643ede97%2112000044814275668%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008387456739%7C_p_origin_prod%3A' />
+			[139] (494,848)<div  />
+				[140] (494,848)<div  />
+				[141] (514,891)<div  />
+					[142] (514,891)<div  />
+						[143] (514,891)<span  />
+			[144] (494,951)<div aria-label='[제이씨월드] WI쿨무지바지 (1+1) _ 남성용 여름 데일리 팬츠 무지 심플 빅사이즈' class='_2BLrX' role='heading' title='[제이씨월드] WI쿨무지바지 (1+1) _ 남성용 여름 데일리 팬츠 무지 심플 빅사이즈'>[제이씨월드] WI쿨무지바지 (1+1) _ 남성용 여름 데일리 팬츠 무지 심플 빅사이즈 />
+				[제이씨월드] WI쿨무지바지 (1+1) _ 남성용 여름 데일리 팬츠 무지 심플 빅사이즈
+			[145] (477,982)<div >966 />
+				[146] (460,982)<span >₩ />
+				[147] (469,982)<span >26 />
+				[148] (477,982)<span >, />
+				966
+			₩27,800
+			4.6
+	[149] (598,915)<div class='slick-slide slick-active' />
+		[150] (598,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005012150642861.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.14452.491826.0&scm_id=1007.14452.491826.0&scm-url=1007.14452.491826.0&pvid=64e2267a-913b-42dd-9eef-06cb1aa0188c&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.14452.491826.0,pvid:64e2267a-913b-42dd-9eef-06cb1aa0188c,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2141435%219530%21%21%21186.69%2142.94%21%402141131717776524679202643ede97%2112000057622137590%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005012150642861%7C_p_origin_prod%3A&search_p4p_id=20260501092107962469744249572143173_0' />
+			[151] (598,848)<div  />
+				[152] (598,848)<div  />
+				[153] (618,891)<div  />
+					[154] (618,891)<div  />
+						[155] (618,891)<span  />
+			[156] (598,998)<div  />
+				[157] (598,951)<div aria-label='남성 캐주얼 스트라이프 자수 파자마 세트 긴팔 턴다운 칼라 셔츠와 긴 바지 라운지웨어 봄 가을 홈웨어' class='_2BLrX' role='heading' title='남성 캐주얼 스트라이프 자수 파자마 세트 긴팔 턴다운 칼라 셔츠와 긴 바지 라운지웨어 봄 가을 홈웨어'>남성 캐주얼 스트라이프 자수 파자마 세트 긴팔 턴다운 칼라 셔츠와 긴 바지 라운지웨어 봄 가을 홈웨어 />
+					[158] (571,951)<img  />
+					남성 캐주얼 스트라이프 자수 파자마 세트 긴팔 턴다운 칼라 셔츠와 긴 바지 라운지웨어 봄 가을 홈웨어
+				[159] (598,981)<div aria-label='₩9,530' class='_23lt5' />
+					[160] (574,982)<span >-77% />
+					[161] (606,982)<div  />
+						[162] (592,982)<span >₩ />
+						[163] (598,982)<span >9 />
+						[164] (603,982)<span >, />
+						[165] (614,982)<span >530 />
+					₩41,435
+				₩30,000 구매 시 ₩4,100 할인
+		[166] (633,767)<div >광고 />
+[167] (652,935)<button class='slick-arrow slick-next slick-next-default' />
+[168] (768,135)<a class='store-detail--wrap--IhR4e1j' href='//ko.aliexpress.com/store/1104930366' />
+	[169] (690,135)<div >판매자 />
+	[170] (812,135)<div  />
+		[171] (791,135)<span >미루나무 스토어 />
+		[172] (833,135)<span >(거래 업체) />
+		[173] (854,135)<span  />
+AliExpress의 약속
+[174] (768,277)<div  />
+	[175] (768,277)<div  />
+		[176] (768,235)<div  />
+			[177] (703,234)<span  />
+				[178] (703,234)<span  />
+					[179] (703,234)<strong >무료 배송 />
+			[180] (723,234)<span >· />
+			[181] (733,234)<span  />
+				[182] (733,234)<img  />
+			[183] (755,234)<span  />
+				[184] (755,234)<span >한국 발송 />
+		[185] (768,263)<div  />
+			[186] (756,261)<span  />
+				[187] (756,262)<span  />
+					[188] (756,264)<strong >배송: 5월 05일- 07일,목요일 이전에 받기 />
+		[189] (768,305)<div  />
+			[190] (703,292)<span  />
+				[191] (703,294)<span >택배회사: />
+			[192] (727,292)<span  />
+				[193] (726,295)<img  />
+			[194] (755,292)<span  />
+				[195] (755,294)<span >CJLogistics />
+			[196] (784,292)<span  />
+				[197] (782,295)<img  />
+			[198] (815,292)<span  />
+				[199] (815,294)<span >Korea ePOST />
+			[200] (694,317)<span  />
+				[201] (693,320)<img  />
+			[202] (714,317)<span  />
+				[203] (714,319)<span >Hanjin />
+			[204] (733,317)<span  />
+				[205] (733,320)<img  />
+			[206] (779,317)<span  />
+				[207] (779,319)<span >Lotte Global Logistics />
+			[208] (829,317)<span  />
+				[209] (829,319)<span >,etc. />
+[210] (768,369)<div  />
+	[211] (682,357)<img  />
+	[212] (768,369)<div  />
+		[213] (768,357)<div  />
+			[214] (706,357)<span >서비스 약속 />
+		[215] (768,380)<div  />
+			[216] (715,381)<div  />
+				[217] (715,381)<div >7일 이내 무료 반품 />
+			[218] (764,381)<div  />
+				[219] (764,381)<div >개인 정보 보호 />
+	[220] (854,370)<span  />
+수량
+[221] (684,464)<div  />
+[222] (701,464)<input class='comet-v2-input-number-input' />
+[223] (717,464)<div  />
+	[224] (717,465)<span  />
+재고수량 50
+[225] (768,546)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large buy-now--buynow--OH44OI8 comet-v2-btn-important' />
+	[226] (768,546)<span >바로 구매 />
+[227] (768,607)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large add-to-cart--addtocart--Qhoji3M add-to-cart--hasBuyNow--QxW176q comet-v2-btn-important' />
+	[228] (768,608)<span >장바구니 담기 />
+[229] (706,669)<a class='share-and-wish--store--Zsc9uDn' href='//ko.aliexpress.com/store/1104930366' />
+	[230] (706,669)<span  />
+[231] (768,669)<div  />
+	[232] (768,669)<span  />
+[233] (830,669)<div  />
+	[234] (830,669)<span  />
+[235] (879,917)<a aria-label='survey' class='survey--wrap--wg1Og56' href='https://survey.aliexpress.com/uone/sg/survey/09hOVpomv' />
+[236] (946,587)<div class='infinite-scroll-component comet-v2-infinite-scroll' scrollable='true' />
+	알뜰마트
+	무료 배송까지
+	3
+	개 더 담기
+	[237] (909,272)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[238] (909,272)<span  />
+			[239] (909,272)<span  />
+	[240] (921,301)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008660314411.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2074786%21KRW%2036000%21%21KRW%2036000%21%21%21%40210156fc17776524683342646e67ad%2112000046135626885%21ct%21KR%214595490757%21%215%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[241] (921,301)<span  />
+			[242] (921,334)<div >품절 임박 />
+	₩36,000
+	[243] (906,395)<div  />
+		[244] (906,396)<span  />
+	[245] (921,395)<input aria-label='number' class='comet-v2-input-number-input' />
+	[246] (937,395)<div  />
+		[247] (937,396)<span  />
+	[248] (952,272)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[249] (952,272)<span  />
+			[250] (952,272)<span  />
+	[251] (964,301)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005009355572334.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207036%21KRW%202150%21%21KRW%202150%21%21%21%40210156fc17776524683342646e67ad%2112000048851956318%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[252] (964,301)<span  />
+			[253] (964,334)<div >품절 임박 />
+	₩2,150
+	[254] (949,395)<div  />
+		[255] (949,396)<span  />
+	[256] (965,395)<input aria-label='number' class='comet-v2-input-number-input' />
+	[257] (980,395)<div  />
+		[258] (980,396)<span  />
+	[259] (909,443)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[260] (909,443)<span  />
+			[261] (909,443)<span  />
+	[262] (921,472)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005007173650980.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%205515%21KRW%202400%21%21KRW%202400%21%21%21%40210156fc17776524683342646e67ad%2112000042253953998%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[263] (921,472)<span  />
+			[264] (921,505)<div >6개 남음 />
+	₩2,400
+	[265] (906,566)<div  />
+		[266] (906,568)<span  />
+	[267] (921,566)<input aria-label='number' class='comet-v2-input-number-input' />
+	[268] (937,566)<div  />
+		[269] (937,568)<span  />
+	[270] (952,443)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[271] (952,443)<span  />
+			[272] (952,443)<span  />
+	[273] (964,472)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008521349459.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%203862%21KRW%201650%21%21KRW%201650%21%21%21%40210156fc17776524683342646e67ad%2112000045544167512%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[274] (964,472)<span  />
+			[275] (964,505)<div >품절 임박 />
+	₩1,650
+	[276] (949,566)<div  />
+		[277] (949,568)<span  />
+	[278] (965,566)<input aria-label='number' class='comet-v2-input-number-input' />
+	[279] (980,566)<div  />
+		[280] (980,568)<span  />
+	[281] (909,615)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[282] (909,615)<span  />
+			[283] (909,615)<span  />
+	[284] (921,643)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005005770724463.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%209219%21KRW%202500%21%21KRW%202500%21%21%21%40210156fc17776524683342646e67ad%2112000034291787603%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[285] (921,643)<span  />
+			[286] (921,676)<div >품절 임박 />
+	₩2,500
+	[287] (906,738)<div  />
+		[288] (906,739)<span  />
+	[289] (921,738)<input aria-label='number' class='comet-v2-input-number-input' />
+	[290] (937,738)<div  />
+		[291] (937,739)<span  />
+	[292] (952,615)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[293] (952,615)<span  />
+			[294] (952,615)<span  />
+	[295] (964,643)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005007010550225.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207084%21KRW%203400%21%21KRW%203400%21%21%21%40210156fc17776524683342646e67ad%2112000039050871250%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[296] (964,643)<span  />
+			[297] (964,676)<div >품절 임박 />
+	₩3,400
+	[298] (949,738)<div  />
+		[299] (949,739)<span  />
+	[300] (965,738)<input aria-label='number' class='comet-v2-input-number-input' />
+	[301] (980,738)<div  />
+		[302] (980,739)<span  />
+	[303] (909,786)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[304] (909,786)<span  />
+			[305] (909,786)<span  />
+	[306] (921,814)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008660171757.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2027161%21KRW%208650%21%21KRW%208650%21%21%21%40210156fc17776524683342646e67ad%2112000046136151160%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[307] (921,814)<span  />
+			[308] (921,847)<div >품절 임박 />
+	₩8,650
+	[309] (906,909)<div  />
+		[310] (906,910)<span  />
+	[311] (921,909)<input aria-label='number' class='comet-v2-input-number-input' />
+	[312] (937,909)<div  />
+		[313] (937,910)<span  />
+	[314] (952,786)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[315] (952,786)<span  />
+			[316] (952,786)<span  />
+	[317] (964,814)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008830774016.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2027428%21KRW%2011150%21%21KRW%2011150%21%21%21%40210156fc17776524683342646e67ad%2112000046865093685%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[318] (964,814)<span  />
+			[319] (964,847)<div >품절 임박 />
+	₩11,150
+	[320] (949,909)<div  />
+		[321] (949,910)<span  />
+	[322] (965,909)<input aria-label='number' class='comet-v2-input-number-input' />
+	[323] (980,909)<div  />
+		[324] (980,910)<span  />
+	[325] (909,957)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[326] (909,957)<span  />
+			[327] (909,957)<span  />
+	[328] (921,986)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005005265418112.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2011503%21KRW%203650%21%21KRW%203650%21%21%21%40210156fc17776524683342646e67ad%2112000032435352812%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[329] (921,986)<span  />
+	[330] (952,957)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[331] (952,957)<span  />
+			[332] (952,957)<span  />
+	[333] (964,986)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005009928052981.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%206225%21KRW%202900%21%21KRW%202900%21%21%21%40210156fc17776524683342646e67ad%2112000050601640678%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[334] (964,986)<span  />
+₩0
+결제하기
+[335] (946,120)<a class='cart-summary-tocart' href='https://www.aliexpress.com/p/shoppingcart/index.html'>카트로 가기 />
+[336] (972,59)<button class='sesame-floating-action-legacy' />
+
+</current_dom>

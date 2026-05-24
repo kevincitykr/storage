@@ -1,0 +1,353 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,30)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,30)<yt-icon  />
+		[2] (19,30)<span  />
+			[3] (19,30)<div  />
+[4] (61,30)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (61,30)<div  />
+		[6] (61,29)<ytd-logo  />
+			[7] (61,30)<yt-icon  />
+				[8] (62,30)<span  />
+					[9] (62,30)<div  />
+KR
+[10] (470,30)<div  />
+	[11] (465,30)<form  />
+		[12] (465,30)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (599,30)<div  />
+		[14] (599,30)<ytd-text-input-assistant  />
+			[15] (599,30)<button class='ytdTextInputAssistantButton' />
+				[16] (599,30)<img  />
+[17] (626,30)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (626,30)<span  />
+		[19] (626,30)<span  />
+			[20] (626,30)<div  />
+[21] (662,30)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (662,30)<yt-touch-feedback-shape  />
+		[23] (662,30)<div  />
+[24] (920,30)<a class='yt-simple-endpoint style-scope ytd-topbar-menu-button-renderer' />
+	[25] (920,30)<yt-icon-button  />
+		[26] (920,30)<button aria-label='설정' class='style-scope yt-icon-button' id='button' />
+			[27] (920,30)<yt-icon  />
+				[28] (920,30)<span  />
+					[29] (920,30)<div  />
+[30] (959,30)<a aria-label='로그인' class='yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--call-to-action yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Dko%26next%3Dhttps%253A%252F%252Fwww.youtube.com%252Fwatch%253Fv%253Dcz80v5NbZsM&hl=ko&ec=65620' />
+	로그인
+	[31] (959,30)<yt-touch-feedback-shape  />
+		[32] (959,30)<div  />
+[33] (387,840)<div  />
+	[34] (387,840)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[35] (387,835)<div  />
+		[36] (387,840)<div  />
+		[37] (32,840)<div  />
+			[38] (32,840)<div  />
+[39] (40,873)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[40] (68,873)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[41] (110,873)<div  />
+	[42] (110,873)<div  />
+		[43] (110,873)<div aria-label='0 분 29 초/27 분 0 초' class='ytp-time-contents' role='button' />
+			[44] (98,872)<span  />
+			[45] (108,872)<span  />
+			[46] (121,872)<span  />
+[47] (630,873)<button aria-label='자동재생 사용 설정' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[48] (630,873)<div  />
+		[49] (630,873)<div  />
+[50] (655,873)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[51] (655,886)<div  />
+[52] (680,873)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[53] (705,873)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[54] (730,873)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+"저작권 없어요" 뉴스 정치 쇼츠 만들어 3억 번 캥거루족 30대 여자
+[55] (37,976)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@humaninside1' />
+	[56] (34,975)<yt-img-shadow  />
+		[57] (34,975)<img  />
+[58] (74,967)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@humaninside1'>휴먼인사이드 />
+구독자 2.23만명
+[59] (124,976)<button aria-label='휴먼인사이드을(를) 구독합니다.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	구독
+	[60] (124,976)<yt-touch-feedback-shape  />
+		[61] (124,976)<div  />
+[62] (586,976)<button aria-label='다른 사용자 222명과 함께 이 동영상에 좋아요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--segmented-start yt-spec-button-shape-next--enable-backdrop-filter-experiment'>222 />
+	222
+	[63] (586,976)<yt-touch-feedback-shape  />
+		[64] (586,976)<div  />
+[65] (621,976)<button aria-label='동영상에 싫어요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[66] (621,976)<yt-touch-feedback-shape  />
+		[67] (621,976)<div  />
+[68] (660,976)<button aria-label='공유' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>공유 />
+	공유
+	[69] (660,976)<yt-touch-feedback-shape  />
+		[70] (660,976)<div  />
+[71] (706,976)<button aria-label='재생목록에 저장' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>저장 />
+	저장
+	[72] (706,976)<yt-touch-feedback-shape  />
+		[73] (706,976)<div  />
+[74] (741,976)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[75] (741,976)<yt-touch-feedback-shape  />
+		[76] (741,976)<div  />
+[77] (864,125)<div  />
+	[78] (805,125)<a class='yt-lockup-view-model__content-image' href='/watch?v=v4q3fuOlJRA' />
+		[79] (803,122)<yt-thumbnail-view-model  />
+			[80] (803,122)<div  />
+				[81] (803,122)<img  />
+			[82] (835,157)<yt-thumbnail-overlay-badge-view-model  />
+				[83] (836,157)<yt-thumbnail-badge-view-model  />
+					[84] (836,157)<badge-shape  />
+						[85] (836,157)<div >9:55 />
+	[86] (910,125)<div  />
+		[87] (910,125)<yt-lockup-metadata-view-model  />
+			[88] (910,125)<div  />
+				[89] (910,93)<h3  />
+					[90] (910,93)<a aria-label='시청자는 뷰봇, 수익은 조작, 인터뷰 프로그램까지 출연... 돈으로 '성공'을 조작하는 일부 고액 강의들 | 추적60분 KBS 260206 방송 9분 55초' class='yt-lockup-metadata-view-model__title' href='/watch?v=v4q3fuOlJRA' />
+						[91] (904,114)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>시청자는 뷰봇, 수익은 조작, 인터뷰 프로그램까지 출연... 돈으로 '성공'을 조작하는 일부 고액 강의들 | 추적60분 KBS 260206 방송 />
+				[92] (910,146)<div  />
+					[93] (910,147)<yt-content-metadata-view-model  />
+						[94] (910,126)<div  />
+							[95] (869,126)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>KBS 추적60분 />
+						[96] (910,147)<div  />
+							[97] (870,147)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 7.6만회 />
+							[98] (893,147)<span >• />
+							[99] (908,147)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>10시간 전 />
+						[100] (910,168)<div  />
+							[101] (865,168)<div  />
+								[102] (865,168)<yt-badge-view-model  />
+									[103] (865,168)<badge-shape  />
+										[104] (865,168)<div >새 동영상 />
+			[105] (964,85)<div  />
+				[106] (964,85)<button-view-model  />
+					[107] (964,85)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[108] (964,85)<yt-touch-feedback-shape  />
+							[109] (964,85)<div  />
+[110] (864,236)<div  />
+	[111] (805,236)<a class='yt-lockup-view-model__content-image' href='/watch?v=ToJO0Umf-6c' />
+		[112] (803,236)<yt-thumbnail-view-model  />
+			[113] (803,236)<div  />
+				[114] (803,236)<img  />
+			[115] (833,271)<yt-thumbnail-overlay-badge-view-model  />
+				[116] (834,271)<yt-thumbnail-badge-view-model  />
+					[117] (834,271)<badge-shape  />
+						[118] (834,271)<div >28:28 />
+	[119] (910,236)<div  />
+		[120] (910,229)<yt-lockup-metadata-view-model  />
+			[121] (910,229)<div  />
+				[122] (910,207)<h3  />
+					[123] (910,207)<a aria-label='＂남편 되게 위험한 사람이에요＂ 상담가가 급발진 부부에게 진심으로 경고하는 이유💥｜이혼숙려캠프｜JTBC 241031 방송 28분' class='yt-lockup-metadata-view-model__title' href='/watch?v=ToJO0Umf-6c' />
+						[124] (903,228)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>＂남편 되게 위험한 사람이에요＂ 상담가가 급발진 부부에게 진심으로 경고하는 이유💥｜이혼숙려캠프｜JTBC 241031 방송 />
+				[125] (910,250)<div  />
+					[126] (910,251)<yt-content-metadata-view-model  />
+						[127] (910,240)<div  />
+							[128] (869,240)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>JTBC Voyage />
+						[129] (910,261)<div  />
+							[130] (871,261)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 282만회 />
+							[131] (894,261)<span >• />
+							[132] (906,261)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1년 전 />
+			[133] (964,199)<div  />
+				[134] (964,199)<button-view-model  />
+					[135] (964,199)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[136] (964,199)<yt-touch-feedback-shape  />
+							[137] (964,199)<div  />
+[138] (864,348)<div  />
+	[139] (805,348)<a class='yt-lockup-view-model__content-image' href='/watch?v=uAkA0dWrm3I' />
+		[140] (803,345)<yt-thumbnail-view-model  />
+			[141] (803,345)<div  />
+				[142] (803,345)<img  />
+			[143] (835,380)<yt-thumbnail-overlay-badge-view-model  />
+				[144] (836,380)<yt-thumbnail-badge-view-model  />
+					[145] (836,380)<badge-shape  />
+						[146] (836,380)<div >6:12 />
+	[147] (910,348)<div  />
+		[148] (910,348)<yt-lockup-metadata-view-model  />
+			[149] (910,348)<div  />
+				[150] (910,316)<h3  />
+					[151] (910,316)<a aria-label='유튜브 AI 영상? 진짜 딸깍으로 영상 만드는게 뭔지 보여드립니다!｜루시 6분 12초' class='yt-lockup-metadata-view-model__title' href='/watch?v=uAkA0dWrm3I' />
+						[152] (902,326)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>유튜브 AI 영상? 진짜 딸깍으로 영상 만드는게 뭔지 보여드립니다!｜루시 />
+				[153] (910,369)<div  />
+					[154] (910,370)<yt-content-metadata-view-model  />
+						[155] (910,349)<div  />
+							[156] (866,349)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>LUCY(루시) />
+						[157] (910,370)<div  />
+							[158] (870,370)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 1.4천회 />
+							[159] (893,370)<span >• />
+							[160] (904,370)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>6일 전 />
+						[161] (910,391)<div  />
+							[162] (865,391)<div  />
+								[163] (865,391)<yt-badge-view-model  />
+									[164] (865,391)<badge-shape  />
+										[165] (865,391)<div >새 동영상 />
+			[166] (964,307)<div  />
+				[167] (964,307)<button-view-model  />
+					[168] (964,307)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[169] (964,307)<yt-touch-feedback-shape  />
+							[170] (964,307)<div  />
+[171] (864,459)<div  />
+	[172] (805,459)<a class='yt-lockup-view-model__content-image' href='/watch?v=NXBBDoxKKLY' />
+		[173] (803,459)<yt-thumbnail-view-model  />
+			[174] (803,459)<div  />
+				[175] (803,459)<img  />
+			[176] (831,494)<yt-thumbnail-overlay-badge-view-model  />
+				[177] (832,494)<yt-thumbnail-badge-view-model  />
+					[178] (832,494)<badge-shape  />
+						[179] (832,494)<div >1:14:05 />
+	[180] (910,459)<div  />
+		[181] (910,451)<yt-lockup-metadata-view-model  />
+			[182] (910,451)<div  />
+				[183] (910,430)<h3  />
+					[184] (910,430)<a aria-label='나야. 재계 서열 1위🔥 말빨로 대통령과 빅딜 체결하는 남다른 포스 진양철 회장님 어록👍｜이성민 명대사｜재벌집 막내아들｜JTBC 221216 방송 외 1시간 14분' class='yt-lockup-metadata-view-model__title' href='/watch?v=NXBBDoxKKLY' />
+						[185] (902,461)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>나야. 재계 서열 1위🔥 말빨로 대통령과 빅딜 체결하는 남다른 포스 진양철 회장님 어록👍｜이성민 명대사｜재벌집 막내아들｜JTBC 221216 방송 외 />
+				[186] (910,472)<div  />
+					[187] (910,474)<yt-content-metadata-view-model  />
+						[188] (910,463)<div  />
+							[189] (872,463)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>DRAMA Voyage />
+						[190] (910,484)<div  />
+							[191] (869,484)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 86만회 />
+							[192] (891,484)<span >• />
+							[193] (902,484)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1년 전 />
+			[194] (964,422)<div  />
+				[195] (964,422)<button-view-model  />
+					[196] (964,422)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[197] (964,422)<yt-touch-feedback-shape  />
+							[198] (964,422)<div  />
+[199] (864,567)<div  />
+	[200] (805,567)<a class='yt-lockup-view-model__content-image' href='/watch?v=ZnDQJFAjdaw' />
+		[201] (803,567)<yt-thumbnail-view-model  />
+			[202] (803,567)<div  />
+				[203] (803,567)<img  />
+			[204] (831,603)<yt-thumbnail-overlay-badge-view-model  />
+				[205] (832,603)<yt-thumbnail-badge-view-model  />
+					[206] (832,603)<badge-shape  />
+						[207] (832,603)<div >1:05:03 />
+	[208] (910,567)<div  />
+		[209] (910,560)<yt-lockup-metadata-view-model  />
+			[210] (910,560)<div  />
+				[211] (910,539)<h3  />
+					[212] (910,539)<a aria-label='[#참사랑] "효율적인 육아는 없어요!" 감정 0% 연구원 TJ 부부 오열하게 만든 3세 딸의 한마디💦 | #금쪽같은내새끼 228회 1시간 5분' class='yt-lockup-metadata-view-model__title' href='/watch?v=ZnDQJFAjdaw' />
+						[213] (903,559)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>[#참사랑] "효율적인 육아는 없어요!" 감정 0% 연구원 TJ 부부 오열하게 만든 3세 딸의 한마디💦 | #금쪽같은내새끼 228회 />
+				[214] (910,581)<div  />
+					[215] (910,582)<yt-content-metadata-view-model  />
+						[216] (910,571)<div  />
+							[217] (870,571)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>채널A WORLD />
+						[218] (910,593)<div  />
+							[219] (869,593)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 22만회 />
+							[220] (891,593)<span >• />
+							[221] (905,593)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1개월 전 />
+			[222] (964,530)<div  />
+				[223] (964,530)<button-view-model  />
+					[224] (964,530)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[225] (964,530)<yt-touch-feedback-shape  />
+							[226] (964,530)<div  />
+[227] (864,679)<div  />
+	[228] (805,679)<a class='yt-lockup-view-model__content-image' href='/watch?v=IXbw7hW03b4&pp=ugUEEgJrbw%3D%3D' />
+		[229] (803,676)<yt-thumbnail-view-model  />
+			[230] (803,676)<div  />
+				[231] (803,676)<img  />
+			[232] (833,711)<yt-thumbnail-overlay-badge-view-model  />
+				[233] (834,711)<yt-thumbnail-badge-view-model  />
+					[234] (834,711)<badge-shape  />
+						[235] (834,711)<div >12:37 />
+	[236] (910,679)<div  />
+		[237] (910,679)<yt-lockup-metadata-view-model  />
+			[238] (910,679)<div  />
+				[239] (910,647)<h3  />
+					[240] (910,647)<a aria-label='"트럼프·일론 머스크도 음모론자야?" 분노한 전한길에 이준석 '되치기' / KNN 12분 37초' class='yt-lockup-metadata-view-model__title' href='/watch?v=IXbw7hW03b4&pp=ugUEEgJrbw%3D%3D' />
+						[241] (901,657)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>"트럼프·일론 머스크도 음모론자야?" 분노한 전한길에 이준석 '되치기' / KNN />
+				[242] (910,700)<div  />
+					[243] (910,701)<yt-content-metadata-view-model  />
+						[244] (910,680)<div  />
+							[245] (866,680)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>KNN NEWS />
+						[246] (910,701)<div  />
+							[247] (868,701)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 7만회 />
+							[248] (887,701)<span >• />
+							[249] (903,701)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>19시간 전 />
+						[250] (910,722)<div  />
+							[251] (865,722)<div  />
+								[252] (865,722)<yt-badge-view-model  />
+									[253] (865,722)<badge-shape  />
+										[254] (865,722)<div >새 동영상 />
+			[255] (964,639)<div  />
+				[256] (964,639)<button-view-model  />
+					[257] (964,639)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[258] (964,639)<yt-touch-feedback-shape  />
+							[259] (964,639)<div  />
+[260] (864,793)<div  />
+	[261] (805,793)<a class='yt-lockup-view-model__content-image' href='/watch?v=OffHo0Cq54g' />
+		[262] (803,790)<yt-thumbnail-view-model  />
+			[263] (803,790)<div  />
+				[264] (803,790)<img  />
+			[265] (833,825)<yt-thumbnail-overlay-badge-view-model  />
+				[266] (834,825)<yt-thumbnail-badge-view-model  />
+					[267] (834,825)<badge-shape  />
+						[268] (834,825)<div >39:21 />
+	[269] (910,793)<div  />
+		[270] (910,793)<yt-lockup-metadata-view-model  />
+			[271] (910,793)<div  />
+				[272] (910,761)<h3  />
+					[273] (910,761)<a aria-label='"이란 고위인사 48명 사망‥모든 게 계획보다 빨라" - [LIVE] MBC 뉴스투데이 2026년 03월 02일 39분' class='yt-lockup-metadata-view-model__title' href='/watch?v=OffHo0Cq54g' />
+						[274] (903,771)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>"이란 고위인사 48명 사망‥모든 게 계획보다 빨라" - [LIVE] MBC 뉴스투데이 2026년 03월 02일 />
+				[275] (910,814)<div  />
+					[276] (910,815)<yt-content-metadata-view-model  />
+						[277] (910,794)<div  />
+							[278] (866,794)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>MBCNEWS />
+						[279] (910,815)<div  />
+							[280] (870,815)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 8.6만회 />
+							[281] (893,815)<span >• />
+							[282] (926,815)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>스트리밍 시간: 1시간 전 />
+						[283] (910,837)<div  />
+							[284] (865,837)<div  />
+								[285] (865,837)<yt-badge-view-model  />
+									[286] (865,837)<badge-shape  />
+										[287] (865,837)<div >새 동영상 />
+			[288] (964,753)<div  />
+				[289] (964,753)<button-view-model  />
+					[290] (964,753)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[291] (964,753)<yt-touch-feedback-shape  />
+							[292] (964,753)<div  />
+[293] (864,907)<div  />
+	[294] (805,907)<a class='yt-lockup-view-model__content-image' href='/watch?v=8rnY9qMd8Qw' />
+		[295] (803,904)<yt-thumbnail-view-model  />
+			[296] (803,904)<div  />
+				[297] (803,904)<img  />
+			[298] (833,940)<yt-thumbnail-overlay-badge-view-model  />
+				[299] (834,940)<yt-thumbnail-badge-view-model  />
+					[300] (834,940)<badge-shape  />
+						[301] (834,940)<div >25:44 />
+	[302] (910,907)<div  />
+		[303] (910,907)<yt-lockup-metadata-view-model  />
+			[304] (910,907)<div  />
+				[305] (910,876)<h3  />
+					[306] (910,876)<a aria-label='"oo계의 에루샤"..요즘은 '이것'도 계급? | SBS 뉴스토리 25분' class='yt-lockup-metadata-view-model__title' href='/watch?v=8rnY9qMd8Qw' />
+						[307] (903,875)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>"oo계의 에루샤"..요즘은 '이것'도 계급? | SBS 뉴스토리 />
+				[308] (910,929)<div  />
+					[309] (910,930)<yt-content-metadata-view-model  />
+						[310] (910,908)<div  />
+							[311] (868,908)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>SBS 뉴스 />
+								[312] (880,908)<span  />
+									[313] (881,908)<span  />
+										[314] (881,909)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+											[315] (881,909)<span  />
+												[316] (881,909)<div  />
+						[317] (910,930)<div  />
+							[318] (870,930)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>조회수 6.5만회 />
+							[319] (893,930)<span >• />
+							[320] (923,930)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>스트리밍 시간: 2일 전 />
+						[321] (910,951)<div  />
+							[322] (865,951)<div  />
+								[323] (865,951)<yt-badge-view-model  />
+									[324] (865,951)<badge-shape  />
+										[325] (865,951)<div >새 동영상 />
+			[326] (964,867)<div  />
+				[327] (964,867)<button-view-model  />
+					[328] (964,867)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[329] (964,867)<yt-touch-feedback-shape  />
+							[330] (964,867)<div  />
+[331] (910,990)<h3  />
+	[332] (910,990)<a aria-label='부채는 쌓이고 집은 안팔리고..일본과 같은 전조 현상. (박은정 감정평가사 몰아보기) 44분' class='yt-lockup-metadata-view-model__title' href='/watch?v=LuwujOR6i48&pp=ugUEEgJrb9IHCQm-CgGHKiGM7w%3D%3D'>부채는 쌓이고 집은 안팔리고..일본과 같은 전조 현상. (박은정 감정평가사 몰아보기) />
+		부채는 쌓이고 집은 안팔리고..일본과 같은 전조 현상. (박은정 감정평가사 몰아보기)
+[333] (964,981)<div  />
+	[334] (964,981)<button-view-model  />
+		[335] (964,981)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+			[336] (964,981)<yt-touch-feedback-shape  />
+				[337] (964,981)<div  />
+
+</current_dom>

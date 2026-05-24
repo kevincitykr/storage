@@ -1,0 +1,114 @@
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (335,125)<a class='inline shrink-0' href='/search/%EB%A1%9C%EB%93%9C%EC%9E%90%EC%A0%84%EA%B1%B0' />
+	[6] (335,125)<span >로드자전거 />
+		[7] (318,125)<span >16
+. />
+[8] (384,125)<a class='inline shrink-0' href='/search/%EB%8B%8C%EC%9E%90%EA%B3%A0' />
+	[9] (384,125)<span >닌자고 />
+		[10] (374,125)<span >17
+. />
+[11] (423,125)<a class='inline shrink-0' href='/search/%ED%9E%88%EB%A1%9C' />
+	[12] (423,125)<span >히로 />
+		[13] (416,125)<span >18
+. />
+[14] (461,125)<a class='inline shrink-0' href='/search/4070' />
+	[15] (461,125)<span >4070 />
+		[16] (452,125)<span >19
+. />
+[17] (498,125)<a class='inline shrink-0' href='/search/itx' />
+	[18] (498,125)<span >itx />
+		[19] (494,125)<span >20
+. />
+[20] (666,69)<a href='/product/228324710?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 인텔 i7-13700K / RTX5060 작업용 게이밍 컴퓨터 급처 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228324710' />
+	[37] (886,369)<img  />
+만나서 직거래
+신정4동
+상품 상태
+중고, 구성품 없음
+[38] (499,268)<button aria-label='찜 하기' />
+[39] (594,268)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] bg-white border border-gray-400 text-gray-900 active:border-gray-900 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16 max-md:ml-2' />
+	[40] (594,268)<span >채팅하기 />
+[41] (748,268)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] text-white bg-gray-900 border active:border-gray-700 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16' />
+	[42] (748,268)<span >구매하기 />
+새 상품은 어떠세요?
+[43] (283,652)<a aria-label='배너 - 1번째 상품 파워게이밍PC 14400F+RTX5060TI 보러가기' class='w-fit flex-1' href='https://ader.naver.com/v1/JfdvtnjVr2Oj27D8hzc-6ErWPlx07heDuDAiMQqIp1g1IngJ1tURuZfXGzy61mqPm6tnPrdsyIKhHSMMMlqXfVQGuqrgKus9RMwyYkWjosNY9rJfcGg3HiCwcWRPulbue8HW9rgJVtiPe0QGwUss8uOLcZUM4RbFoDIMNvo0r-3syf04X7rVSio2qFel9zSKzO7c8Ebe1rV3dZxTebTzl8b4Yyr2FWS1ZTWXmiSw_YTqEXf-efuFIiYMTTc8HPGKlvdZjReJ6HLFyGTNftmqcyxte6qJvwaCqfWyotq8fkI7x_pbOZtH5uQ6xr1GSDWHmG_M-93eUBwORhaMilj4yQ==?c=m_joongna.ch6&t=0' />
+	[44] (283,652)<div  />
+		[45] (219,652)<div  />
+			[46] (219,652)<div  />
+		[47] (326,652)<div  />
+			[48] (326,615)<div  />
+				[49] (326,595)<span >파워게이밍PC 14400F+RTX5060TI />
+				[50] (326,645)<div  />
+					[51] (326,645)<div  />
+						[52] (294,645)<span >1,548,000 />
+						[53] (327,646)<span >원 />
+			[54] (326,687)<div  />
+				[55] (326,687)<span >광고 |
+스탠다드피씨 />
+[56] (500,652)<a aria-label='배너 - 2번째 상품 강력한 성능 게이밍PC i5 14400F 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/70NMHaeYc5-TqL0qJXhkkgWimrQBolcGMThm0KKlAaLGFlVdWypKor0mygkTXYo4zfoXqmczRChMTtCDLlOG1tcMwRo6gNAiFfcIOCEb-IJCgmGPPpelsRzIM1aQCEWFyz1tPxLHISKm6KXExdMMEK-ByYBaMuykpV7hFi3vsbuMLV-Q270ChqdybW72fA21jeQxUvH9xvLMJC1d12as34BQjox9MXEeZvF1CSDm3-nbIBWg6REfnzcm7W7wm1pFjC-IQl1C4vNwzbWZ9Ef2EP-YocDRKuvHAK26P4HG2FC7-XZyOBcULsS5kIxfPZnVrFsnx6CXG-Q4QkKrps-gKw==?c=m_joongna.ch6&t=0' />
+	[57] (500,652)<div  />
+		[58] (436,652)<div  />
+			[59] (436,652)<div  />
+		[60] (543,652)<div  />
+			[61] (543,615)<div  />
+				[62] (543,595)<span >강력한 성능 게이밍PC i5 14400F />
+				[63] (543,645)<div  />
+					[64] (543,645)<div  />
+						[65] (511,645)<span >1,378,000 />
+						[66] (543,646)<span >원 />
+			[67] (543,687)<div  />
+				[68] (543,687)<span >광고 |
+스탠다드피씨 />
+[69] (717,652)<a aria-label='배너 - 3번째 상품 RTX5060 고사양 게이밍컴퓨터 PC방 조립PC 배그 롤 발로란트 게임용 본체 EZ01 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/QCr8bieRwVTLjzXm7d_O-kaMsDHc8iSL0RNY7rOIlT5Y1asjwSrbLQdHnyjJy2vtZcgpvPKohhOBqoNoqLed47Dm8m9ywPP6IOP2uSUvGce3E6f2VXyz1CwoCZokKJr7o1y-TOgMIOoYspEjQizxn9YoEgnP9Q93qyVhsTFq0j0ZuDbQS1pmyMddc6TmpSfNo63mJzTus5dL7zGikTyd-_VVV5h3lU4gHI2TkzFydjYDVpQ3aMKgUhcHQx_LbGBZ_jd6sJdQLjuMaJ14dbp8RE6co9DxwGumtVQrtYBkTPFnfCbPaXtblDFT9q18lGos?c=m_joongna.ch6&NaPm=1' />
+	[70] (717,652)<div  />
+		[71] (653,652)<div  />
+			[72] (653,652)<div  />
+		[73] (760,652)<div  />
+			[74] (760,615)<div  />
+				[75] (760,595)<span >RTX5060 고사양 게이밍컴퓨터 PC방 조립PC 배그 롤 발로란트 게임용 본체 EZ01 />
+				[76] (760,645)<div  />
+					[77] (760,645)<div  />
+						[78] (728,645)<span >1,298,000 />
+						[79] (761,646)<span >원 />
+			[80] (760,687)<div  />
+				[81] (760,687)<span >광고 |
+이지컴플러스 />
+상품 정보
+[82] (351,1330)<div class='z-auto rounded-none static scroll-bar md:overflow-scroll max-md:overflow-hidden' scrollable='true' />
+	개인정보(거래정보)를 주고받는 행위는 사기에 노출
+	될 수 있으므로 즉시
+	중고나라로 신고
+	해 주세요
+[83] (683,984)<a class='flex flex-col md:gap-9 max-md:gap-6' href='/store/146232' />
+	[84] (683,886)<div  />
+		[85] (683,874)<div  />
+			[86] (569,874)<h2 >가게 정보 />
+		[87] (683,918)<div  />
+	제온마스터

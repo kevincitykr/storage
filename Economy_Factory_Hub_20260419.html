@@ -1,0 +1,174 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ECONOMY FACTORY HUB - Wealth Empire</title>
+    <link href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;700;900&family=Space+Grotesk:wght@300;500;700;900&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        :root {
+            --economy-gold: #d4af37;
+            --economy-blue: #1e3a5f;
+            --bg-dark: #05080c;
+            --bg-sidebar: #0a0e14;
+            --border-gold: rgba(212, 175, 55, 0.3);
+            --glow-gold: rgba(212, 175, 55, 0.4);
+            --text-muted: rgba(255, 255, 255, 0.4);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Pretendard', sans-serif; }
+        body { background-color: var(--bg-dark); color: #e0e0e0; display: flex; height: 100vh; overflow: hidden; }
+
+        aside { width: 75px; background-color: var(--bg-sidebar); border-right: 1px solid var(--border-gold); display: flex; flex-direction: column; align-items: center; padding-top: 30px; gap: 35px; z-index: 100; }
+        aside .icon-btn { color: var(--text-muted); cursor: pointer; transition: 0.3s; display: flex; align-items: center; justify-content: center; width: 45px; height: 45px; border-radius: 12px; }
+        aside .icon-btn:hover, aside .icon-btn.active { color: var(--economy-gold); background: rgba(212, 175, 55, 0.1); box-shadow: 0 0 15px var(--glow-gold); }
+        
+        main { flex: 1; display: flex; flex-direction: column; overflow: hidden; background: radial-gradient(circle at 0% 0%, rgba(212, 175, 55, 0.05) 0%, transparent 50%); }
+        header { padding: 15px 40px; display: flex; justify-content: space-between; align-items: center; background: rgba(10, 14, 20, 0.95); border-bottom: 2px solid var(--economy-gold); box-shadow: 0 4px 25px rgba(212, 175, 55, 0.2); z-index: 200; backdrop-filter: blur(20px); }
+        .logo { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 900; letter-spacing: 3px; color: #fff; }
+        .logo span { color: var(--economy-gold); text-shadow: 0 0 10px var(--glow-gold); }
+
+        .view-scroller { flex: 1; overflow-y: auto; scroll-behavior: smooth; padding-bottom: 200px; }
+        .view-section { padding: 40px 60px; }
+        
+        .master-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 30px; }
+        .master-card { background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-gold); border-radius: 20px; padding: 30px; position: relative; height: 320px; backdrop-filter: blur(20px); transition: 0.4s; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; border-top: 4px solid var(--economy-gold); }
+        .master-card:hover { transform: translateY(-10px); background: rgba(255, 255, 255, 0.05); border-color: #fff; box-shadow: 0 20px 45px var(--glow-gold); }
+        .card-bg-id { position: absolute; top: -10px; right: 20px; font-family: 'Space Grotesk', sans-serif; font-size: 90px; font-weight: 900; opacity: 0.06; color: var(--economy-gold); z-index: 0; }
+        
+        .card-header-bx .kor { font-size: 19px; font-weight: 900; color: var(--economy-gold); display: block; margin-bottom: 6px; }
+        .card-body-bx { font-size: 13px; color: rgba(255,255,255,0.7); line-height: 1.8; margin-top: 15px; }
+        .card-footer-btns { display: flex; gap: 8px; margin-top: auto; padding-top: 15px; }
+        .action-btn { flex: 1; padding: 12px 0; background: #000; border: 1px solid var(--economy-gold); color: var(--economy-gold); border-radius: 10px; text-decoration: none; font-size: 11px; font-weight: 900; display: flex; align-items: center; justify-content: center; gap: 6px; transition: 0.3s; cursor: pointer; }
+        .action-btn:hover { background: var(--economy-gold); color: #000; box-shadow: 0 0 15px var(--glow-gold); }
+
+        /* Progress Bar */
+        .progress-container { flex: 1; margin: 0 40px; background: rgba(255,255,255,0.05); height: 6px; border-radius: 3px; overflow: hidden; position: relative; border: 1px solid rgba(212, 175, 55, 0.2); }
+        .progress-bar { height: 100%; background: linear-gradient(90deg, var(--economy-gold), #fff); width: 0%; transition: 0.5s cubic-bezier(0.4, 0, 0.2, 1); box-shadow: 0 0 10px var(--glow-gold); }
+        .status-badge { font-size: 10px; color: var(--economy-gold); padding: 2px 8px; border: 1px solid var(--economy-gold); border-radius: 4px; margin-left: 10px; font-weight: 900; }
+    </style>
+</head>
+<body>
+    <aside>
+        <div class="icon-btn active"><span class="material-icons">trending_up</span></div>
+        <div class="icon-btn"><span class="material-icons">account_balance_wallet</span></div>
+    </aside>
+
+    <main>
+        <header>
+            <div class="logo">ECONOMY <span>FACTORY EMPIRE</span></div>
+            <div id="clock" style="font-family:'Space Grotesk'; font-size:12px; color:var(--economy-gold); font-weight:900;">ACTIVE</div>
+        </header>
+
+        <div class="view-scroller">
+            <section class="view-section">
+                <div class="master-grid">
+                    <div class="master-card">
+                        <div class="card-bg-id">MR</div>
+                        <div class="card-header-bx"><span class="kor">머니러쉬 (Money Rush)</span></div>
+                        <div class="card-body-bx">STATUS: <b style="color:var(--economy-gold)">LIVE</b><br>AI BOT: Wealth Trend Analysis v2</div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('economy', '머니러쉬')" class="action-btn">GENERATE SCRIPT</button>
+                            <a href="https://www.youtube.com/@AIAstra0" target="_blank" class="action-btn">YT</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card">
+                        <div class="card-bg-id">CS</div>
+                        <div class="card-header-bx"><span class="kor">자본주의 생존자들</span></div>
+                        <div class="card-body-bx">STATUS: <b style="color:var(--economy-gold)">ACTIVE</b><br>THEME: Macro Economics</div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('economy', '자본주의 생존자들')" class="action-btn">GENERATE SCRIPT</button>
+                            <a href="https://www.youtube.com/@LogEconomy_KR" target="_blank" class="action-btn">YT</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card">
+                        <div class="card-bg-id">LR</div>
+                        <div class="card-header-bx"><span class="kor">황혼의 반격</span></div>
+                        <div class="card-body-bx">STATUS: <b style="color:#fff">STANDBY</b><br>THEME: Life Reversal</div>
+                        <div class="card-footer-btns">
+                            <button onclick="runBot('economy', '황혼의 반격')" class="action-btn">GENERATE SCRIPT</button>
+                            <a href="https://www.youtube.com/@Life_Reversal" target="_blank" class="action-btn">YT</a>
+                        </div>
+                    </div>
+                </div>
+            </section>
+        </div>
+    </main>
+
+    <div class="console-fixed" id="console">
+        <div class="console-header">
+            <div style="display:flex; align-items:center;">
+                <span id="status-text">ECONOMY CONTROL READY</span>
+                <span id="status-label" class="status-badge" style="display:none;">IDLE</span>
+            </div>
+            <div class="progress-container">
+                <div class="progress-bar" id="progress-bar"></div>
+            </div>
+            <div id="pipeline-tracker">
+                <span class="pipeline-step" id="step-script">STRATEGY (NLM)</span>
+                <span class="pipeline-step" id="step-render">VISUAL PROMPT</span>
+                <span class="pipeline-step" id="step-manual">MANUAL REVIEW</span>
+            </div>
+        </div>
+        <div class="console-body" id="console-body">
+            [SYSTEM] Awaiting economic automation command...
+        </div>
+    </div>
+
+    <script>
+        let isPolling = false;
+        function updateClock() { document.getElementById('clock').innerText = new Date().toLocaleString(); }
+        setInterval(updateClock, 1000);
+
+        async function runBot(type, topic) {
+            if(!confirm(`[${topic}] 경제 자동화 제작을 시작할까요?`)) return;
+            try {
+                const response = await fetch(`http://127.0.0.1:5000/api/run_bot?type=${type}&topic=${encodeURIComponent(topic)}`, { method: 'POST' });
+                const data = await response.json();
+                if(data.ok) startPolling(); else alert(data.msg);
+            } catch (error) { alert('서버 연결 실패. 안실장_서버.py를 확인하세요.'); }
+        }
+
+        function startPolling() { if(isPolling) return; isPolling = true; pollStatus(); }
+        async function pollStatus() {
+            try {
+                const response = await fetch('http://127.0.0.1:5000/api/status');
+                const data = await response.json();
+                const body = document.getElementById('console-body');
+                body.innerHTML = data.logs.join('<br>');
+                body.scrollTop = body.scrollHeight;
+                
+                const statusText = document.getElementById('status-text');
+                const statusLabel = document.getElementById('status-label');
+                const progressBar = document.getElementById('progress-bar');
+                
+                // 진행률 업데이트
+                progressBar.style.width = `${data.progress}%`;
+                statusLabel.innerText = data.status_text;
+                statusLabel.style.display = 'inline-block';
+
+                if(data.is_running) {
+                    statusText.innerText = `RUNNING: ${data.current_topic} (${data.progress}%)`;
+                    if(data.progress > 10) document.getElementById('step-script').classList.add('active');
+                    if(data.progress > 80) document.getElementById('step-render').classList.add('active');
+                } else {
+                    statusText.innerText = 'ECONOMY CONTROL READY';
+                    if(data.last_result !== "아직 실행 결과가 없습니다.") {
+                        document.getElementById('step-manual').classList.add('active');
+                        progressBar.style.width = '100%';
+                    } else {
+                        statusLabel.style.display = 'none';
+                        progressBar.style.width = '0%';
+                    }
+                    isPolling = false; return;
+                }
+            } catch (e) {}
+            if(isPolling) setTimeout(pollStatus, 1000);
+        }
+        pollStatus();
+    </script>
+</body>
+</html>

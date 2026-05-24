@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+전문가용 그래픽카드
+그래픽카드
+[0] (353,230)<input id='Search_free' />
+무료배송
+[1] (418,230)<input id='Search_Event' />
+행사제품보기
+총
+618
+건
+[2] (307,307)<input id='SearchKeyword' />
+[3] (363,309)<a href='javascript:search_keyword();' />
+[4] (433,307)<select  />
+[5] (259,806)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[6] (65,466)<a class='imgbox' href='javascript:detail_show('1234579')' title='[제품코드:1234579]' />
+	[7] (221,501)<a class='imgbox' href='javascript:detail_show('1234579')'>RTX 5060 Ti / PCIe5.0 / 정격파워600W 이상 / 전원 포트: 8핀 x1 / 가로(길이): 227mm / 베이스클럭: 2407MHz / 부스트클럭: 2602MHz / OC클럭: 2617MHz / 스트림 프로세서: 4608개 / GDDR7 / 출력단자: HDMI2.1 , DP2.1 / 지원정보: 8K 지원 , HDR 지원 , HDCP 2.3 / 사용전력: 180W / 2팬 / 두께: 41mm / 제로팬(0-dB기술) / 백플레이트 / DrMOS / RTX5060 Ti />
+		[8] (221,421)<b >[MSI] 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 8GB [1234579] />
+	무료배송
+	특가
+	후기
+	기타
+	댓글
+	판매가격
+	589,000
+	[9] (451,527)<a class='buttons' href='javascript:select_basket('1234579','N',1);' id='basket1234579' />
+		[10] (451,527)<span >담기 />
+	[11] (65,756)<a class='imgbox' href='javascript:detail_show('1242692')' title='[제품코드:1242692]' />
+	[12] (221,791)<a class='imgbox' href='javascript:detail_show('1242692')'>RTX 5060 / PCIe5.0x16at x8 / 정격파워550W 이상 / 전원 포트: 8핀 x1 / 가로길이: 197mm / 베이스클럭: 2280MHz / 부스트클럭: 2527MHz / OC클럭: 2535MHz / 스트림 프로세서: 3840개 / GDDR7 / 출력단자: HDMI2.1 , DP2.1 / 지원정보: 8K 지원 , HDR 지원 , HDCP 2.3 / 사용전력: 145W / 2팬 / 두께: 41mm / 제로팬0dB기술 / 백플레이트 / DrMOS / RTX5060 />
+		[13] (221,711)<b >[MSI] 지포스 RTX 5060 벤투스 2X OC D7 8GB [1242692] />
+	쿠폰
+	무료배송
+	후기
+	기타
+	댓글
+	판매가격
+	519,000
+	[14] (451,817)<a class='buttons' href='javascript:select_basket('1242692','N',1);' id='basket1242692' />
+		[15] (451,817)<span >담기 />
+	[MSI] 지포스 RTX 5070 벤투스 2X OC D7 12GB [1219561]
+총 견적금액
+2,205,150
+원
+[16] (536,307)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[17] (565,307)<input  />
+[18] (594,307)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[19] (658,307)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[20] (658,308)<span >전체수량변경 />
+[21] (546,418)<label  />
+	[22] (528,417)<span  />
+		[23] (528,418)<input  />
+	[24] (554,417)<span >전체선택 />
+[25] (713,417)<a class='wbtn' href='javascript:add_wish_list();' />
+	[26] (713,418)<span >관심상품추가 />
+[27] (774,417)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[28] (774,418)<span >장바구니담기 />
+[29] (833,417)<a class='wbtn' />
+	[30] (833,418)<span >견적서출력 />
+[31] (891,417)<a class='wbtn' href='javascript:speck_form();' />
+	[32] (891,418)<span >사양검토요청 />
+[33] (942,417)<a class='wbtn' href='javascript:sess_init();'>초기화 />
+	초기화
+[34] (529,509)<label  />
+	[35] (529,508)<span  />
+		[36] (528,511)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[37] (563,508)<span >인텔 병행수입 />
+[38] (640,561)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[39] (873,540)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[40] (896,540)<input class='change__ea' id='Amount_1108547' />
+[41] (919,540)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[42] (529,656)<label  />
+	[43] (529,656)<span  />
+		[44] (528,658)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[45] (546,656)<span >PC용 />
+[46] (640,695)<a class='proname' href='javascript:detail_show('1038507')'>[삼성전자] 삼성 DDR5 PC5-44800 [32GB] (5600) />
+판매가격
+1,455,000
+[47] (873,674)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[48] (896,674)<input class='change__ea' id='Amount_1038507' />
+[49] (919,674)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />
+[50] (529,777)<label  />
+	[51] (529,776)<span  />
+		[52] (528,779)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[53] (565,776)<span >인텔 소켓 1700 />
+[54] (640,816)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[55] (690,817)<i  />
+판매가격
+174,150
+[56] (873,795)<a href='javascript:ea_down2('global_form','2','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',2)' />
+[57] (896,795)<input class='change__ea' id='Amount_1118926' />
+[58] (919,795)<a href='javascript:ea_up('global_form','2','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',2);' />
+
+</current_dom>

@@ -1,0 +1,210 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,52)<button id='back-button' />
+	[1] (38,49)<span >arrow_back />
+[2] (155,52)<input class='sans-flex round w-500' id='tab-title' />
+[3] (464,52)<button class=' sans-flex round w-500 md-body-small selected ' id='canvas'>Editor />
+[4] (544,52)<button class=' sans-flex round w-500 md-body-small ' id='app'>App />
+Saved
+[5] (849,52)<button class=' selected icon round w-500 sans-flex ' />
+	[6] (849,52)<span >more_vert />
+[7] (900,52)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (900,52)<span >settings />
+[9] (956,52)<button id='toggle-user-menu' />
+	[10] (956,52)<span >person />
+[11] (526,553)<div  />
+[12] (39,352)<section  />
+	[13] (39,352)<div  />
+	[14] (39,305)<header  />
+		[15] (36,305)<span >Organize Series Metadata />
+		[16] (87,305)<bb-node-run-control  />
+			[17] (87,305)<button class='node-controls' />
+				[18] (87,305)<span  />
+		[19] (103,304)<button id='connection-trigger' />
+	[20] (39,368)<div  />
+		[21] (39,366)<div  />
+			[22] (39,366)<div  />
+				[23] (39,366)<p >Extract and organize all narrative elements, including scene topics, dialogue scripts, NanoBanana image prompts, and Veo 3.1 video and audio guide... />
+[24] (188,337)<section  />
+	[25] (188,337)<div  />
+	[26] (188,305)<header  />
+		[27] (136,305)<span >photo_spark />
+		[28] (186,305)<span >Generate Sia Character Images />
+		[29] (237,305)<bb-node-run-control  />
+		[30] (252,304)<button id='connection-trigger' />
+	[31] (188,352)<div  />
+		[32] (188,351)<div  />
+			[33] (188,351)<div  />
+				[34] (188,351)<p >Generate four distinct character images for each scene based on the 'series_metadata'. />
+[35] (338,345)<section  />
+	[36] (338,345)<div  />
+	[37] (338,305)<header  />
+		[38] (285,305)<span >videocam_auto />
+		[39] (335,305)<span >Generate Sia Scene Videos />
+		[40] (386,305)<bb-node-run-control  />
+		[41] (401,304)<button id='connection-trigger' />
+	[42] (338,360)<div  />
+		[43] (338,359)<div  />
+			[44] (338,359)<div  />
+				[45] (338,359)<p >Create four cinematic video clips for the 'Sia' series, one for each scene, using the detailed Veo 3.1 video and audio guidelines from the 'series... />
+[46] (188,567)<section  />
+	[47] (188,567)<div  />
+	[48] (188,527)<header  />
+		[49] (136,527)<span >audio_magic_eraser />
+		[50] (186,527)<span >Synthesize Sia Voiceovers />
+		[51] (237,527)<bb-node-run-control  />
+		[52] (252,526)<button id='connection-trigger' />
+	[53] (188,582)<div  />
+		[54] (188,580)<div  />
+			[55] (188,580)<div  />
+				[56] (188,580)<p >Convert the dialogue scripts for each of the four scenes from the 'series_metadata' into high-quality audio voiceovers. />
+[57] (188,781)<section  />
+	[58] (188,781)<div  />
+	[59] (188,748)<header  />
+		[60] (136,748)<span >audio_magic_eraser />
+		[61] (186,748)<span >Generate Background Sounds />
+		[62] (237,748)<bb-node-run-control  />
+		[63] (252,748)<button id='connection-trigger' />
+	[64] (188,796)<div  />
+		[65] (188,795)<div  />
+			[66] (188,795)<div  />
+				[67] (188,795)<p >Generate specific atmospheric music and sound effects for each of the four scenes based on the 'series_metadata'. />
+[68] (487,352)<section  />
+	[69] (487,352)<div  />
+	[70] (487,305)<header  />
+		[71] (435,305)<span >web />
+		[72] (485,305)<span >Compile Production Resources Webpage />
+		[73] (535,305)<bb-node-run-control  />
+		[74] (551,304)<button id='connection-trigger' />
+	[75] (487,368)<div  />
+		[76] (487,366)<div  />
+			[77] (487,366)<div  />
+				[78] (487,366)<p >Assemble all generated production resources—including the structured 'series_metadata' (topics, scripts, image/video/audio guidelines), 'sia_chara... />
+[79] (50,183)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[80] (8,183)<span >chat_mirror />
+[81] (196,183)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[82] (153,183)<span >spark />
+[83] (324,183)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[84] (290,183)<span >responsive_layout />
+[85] (470,183)<button class=' selected icon round w-500 sans-flex ' />
+	[86] (417,183)<span >add_box />
+	[87] (486,183)<span >Add Assets />
+[88] (597,209)<button >Pick File />
+[89] (644,262)<button >Create New Document />
+[90] (263,871)<bb-expanding-textarea >send />
+	[91] (263,871)<div  />
+		[92] (213,871)<div  />
+			[93] (213,871)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[94] (456,871)<button aria-label='Submit' id='submit' />
+	[95] (406,871)<bb-speech-to-text  />
+		[96] (406,871)<button  />
+			[97] (406,871)<span >mic />
+	send
+[98] (472,635)<button id='zoom-to-fit' />
+	[99] (472,635)<span >fit_screen />
+[100] (472,715)<button id='zoom-in' />
+	[101] (472,715)<span >add />
+[102] (472,776)<button id='zoom-out' />
+	[103] (472,776)<span >remove />
+undo
+redo
+Opal can make mistakes, so double-check it
+[104] (611,160)<button class='sans-flex w-500 round'>Preview />
+[105] (723,160)<button class=' sans-flex w-500 round '>Console />
+Step
+[106] (919,160)<button class=' sans-flex w-500 round '>Theme />
+web
+[107] (776,259)<input class='sans-flex round w-500 md-title-medium' id='node-title' />
+[108] (698,363)<button class=' selected icon round w-500 sans-flex ' />
+	[109] (585,363)<span >web />
+	[110] (705,363)<span >Webpage with auto-layout />
+	[111] (810,363)<span >arrow_drop_down />
+[112] (946,363)<button id='tools' />
+	[113] (946,363)<span >home_repair_service />
+[114] (946,470)<button id='edit-button' />
+	[115] (946,470)<span >pen_spark />
+[116] (763,721)<span id='editor' scrollable='true'>The webpage should serve as a comprehensive "All-in-One Resource Output" for the 'Sia' 4-part production, presenting each scene's resources clearly and professionally, embodying a sleek, modern, and slightly futuristic digital aesthetic with subtle nods to the 'Digital Glitch' concept.
+
+**Layout Organization:**
+
+1.  **Overall Page Structure:**
+    *   **Header:** A prominent, clean header at the top of the page displaying the main title "Sia 4-Part Production: All-in-One Resource Output". Below it, a subtitle "OPAL System Production Resources".
+    *   **Main Content Area:** This area will be divided into four distinct, vertically stacked sections, one for each of the four scenes (Scene 1 to Scene 4). Each scene section should be clearly delineated and visually separated.
+    *   **Footer:** A minimalist footer at the bottom containing system notes or copyright information.
+
+2.  **Scene Section Layout (Repeated for each of the four scenes):**
+    *   Each scene section will begin with a clear, bold **Scene Title** (e.g., "📺 Scene 1: [반전] 커피 향을 모르는 인플루언서").
+    *   Below the title, a logical grouping of resources for that scene will be presented using a flexible grid layout (e.g., 2-column on desktop, stacking to 1-column on mobile).
+    *   **Metadata Block:** This block will contain all textual metadata:
+        *   **Script:** The dialogue script for the scene.
+        *   **Image Prompt:** The NanoBanana image prompt.
+        *   **Video/Audio Guidelines:** The Veo 3.1 video and audio guidelines.
+        *   These text elements should be clearly labeled and presented in a readable block, perhaps within a card-like container.
+    *   **Visual Media Block:** This block will display the visual assets:
+        *   **Character Image:** The `sia_character_image` for the scene, prominently displayed.
+        *   **Scene Video:** The `sia_scene_video` embedded as a playable element, positioned to draw attention.
+        *   On wider screens, the image and video can be side-by-side; on smaller screens, they should stack for optimal viewing.
+    *   **Audio Media Block:** This block will house the audio assets:
+        *   **Voiceover:** The `sia_voiceovers` embedded as an audio player.
+        *   **Background Sounds:** The `sia_background_sounds` embedded as an audio player.
+        *   These audio players should be clearly labeled and positioned logically.
+
+3.  **Hierarchy and Grouping:**
+    *   The page title is the highest hierarchy. Scene titles are secondary. Resource labels within each scene are tertiary.
+    *   Content should be grouped semantically: all text-based metadata together, all visual media together, and all audio media together within each scene section.
+    *   Ample vertical spacing between scene sections and within logical content blocks (metadata, visual, audio) will improve readability and organization.
+
+4.  **Responsive Design:**
+    *   The layout must be fully responsive, designed with a mobile-first approach.
+    *   Grid systems and flexible containers should ensure content reflows gracefully across all screen sizes.
+    *   Images and videos must be adaptive, scaling appropriately without distortion.
+    *   Typography should adjust for optimal readability on different devices.
+
+**Style Design Language:**
+
+1.  **Aesthetic Goal:** The aesthetic goal is **Sleek Digital and Professional**, with a "Wow Factor" that subtly incorporates the "Digital Glitch" concept. It should feel premium, technical, and highly organized, reflecting advanced AI production.
+
+2.  **Visual Design Approach:**
+    *   **Modern & Stylish:** Clean lines, strong visual hierarchy, and a polished, contemporary look.
+    *   **Expressive (Digital):** Use of subtle geometric patterns, gradients, or faint 'glitch' visual effects in the background or as dividers to hint at the digital nature of the content without being overwhelming.
+    *   **Professional:** Structured, trustworthy aesthetics, conveying a high-quality production.
+    *   **Generous Whitespace:** Ample padding and margins to create a sense of openness and reduce visual clutter, enhancing focus on each resource.
+
+3.  **Color Scheme Suggestions:**
+    *   **Primary Palette:** A dark, sophisticated base. Think deep charcoal, near-black, or very dark blue as background colors.
+    *   **Accent Colors:** Vibrant, cool-toned accents that evoke technology and the 'glitch' concept. Electric purple, deep teal, or a striking cyan for highlights, interactive elements, or text labels.
+    *   **Text Colors:** Light gray or off-white for body text against dark backgrounds to ensure high readability. Pure white for important titles and headings.
+    *   **Subtle Gradients:** Consider subtle, soft gradients for backgrounds or section dividers that hint at digital energy.
+
+4.  **Typography Style:**
+    *   **Headings (Page & Scene Titles):** A modern, bold sans-serif font (e.g., Montserrat, Poppins) that conveys strength and clarity.
+    *   **Body Text:** A clean, highly readable sans-serif font (e.g., Open Sans, Lato, Inter) for all script, prompt, and guideline text.
+    *   **Technical/Prompts:** For the 'Image Prompt' and 'Video/Audio Guidelines', use a slightly condensed or monospaced font (e.g., IBM Plex Mono, Fira Code) to give a technical, code-like feel, while maintaining readability.
+
+5.  **Spacing and Layout Principles:**
+    *   **Structured Grid:** Implement a consistent, flexible grid for content alignment within each scene section.
+    *   **Vertical Rhythm:** Maintain consistent vertical spacing between elements to create a harmonious flow.
+    *   **Card-like containers:** Textual metadata and media blocks can be enclosed in subtle card-like containers with slightly rounded corners and a dark, translucent background for better distinction against the main page background.
+
+**Component Guidelines:**
+
+*   **Media Players:** Use standard HTML5 `<video>` and `<audio>` elements with clear, accessible controls. Ensure they are styled to match the overall aesthetic.
+*   **Labels:** All inputs (Script, Image Prompt, Video, Voiceover, Background Sound, etc.) must have clear, descriptive labels.
+*   **Interactive Elements:** Basic play/pause, volume controls for media. No complex interactive elements are required beyond standard media player functionality.
+*   **Visual Delimiters:** Use subtle dividers, borders, or slightly different background shades to visually separate each scene's resources and the main content blocks within them.
+*   **Character Consistency:** The design should implicitly reinforce the "EXACT SAME FACE" and "Digital Glitch" concept through its precision, consistency, and subtle thematic elements.
+
+series_metadata: />
+[117] (763,957)<details id='advanced-settings' />
+	[118] (763,958)<summary >Advanced settings />
+		[119] (570,958)<span  />
+	[120] (579,1008)<label class='  ' />
+	[121] (695,1011)<button class=' selected round w-500 sans-flex ' />
+		[122] (683,1011)<span  />
+		[123] (752,1011)<span  />
+[124] (756,905)<button id='close' />
+	[125] (756,905)<span  />
+
+</current_dom>

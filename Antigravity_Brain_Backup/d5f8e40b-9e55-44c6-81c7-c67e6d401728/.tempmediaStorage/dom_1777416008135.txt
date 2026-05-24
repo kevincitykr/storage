@@ -1,0 +1,35 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (33,33)<a class='MV3Tnb' href='https://about.google/?fg=1&utm_source=google-KR&utm_medium=referral&utm_campaign=hp-header'>Google 정보 />
+[1] (73,33)<a class='MV3Tnb' href='https://store.google.com/KR?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=ko-KR'>스토어 />
+[2] (881,31)<a aria-label='Gmail ' class='gb_4' href='https://mail.google.com/mail/?authuser=0&ogbl'>Gmail />
+[3] (907,31)<a aria-label='이미지 검색 ' class='gb_4' href='https://www.google.com/imghp?hl=ko&authuser=0&ogbl'>이미지 />
+[4] (934,31)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=hp&authuser=0' role='button' />
+[5] (959,31)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[6] (984,31)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/&ec=futura_exp_og_si_72776762_e' role='button' />
+[7] (333,440)<button aria-label='파일 및 도구 추가' class='UbbAWe' />
+	[8] (333,440)<span  />
+[9] (453,441)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' title='검색' />
+[10] (571,441)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[11] (571,441)<span  />
+[12] (592,441)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[13] (613,441)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[14] (651,441)<button class='plR5qb Y5MKCd' role='link' />
+	[15] (651,441)<div  />
+		[16] (637,441)<span  />
+		[17] (657,441)<span >AI 모드 />
+[18] (460,521)<input aria-label='Google 검색' class='gNO89b' role='button' />
+[19] (531,523)<input aria-label='I’m Feeling Lucky' class='RNmpXc' />
+대한민국
+[20] (25,973)<a class='pHiOh' href='https://www.google.com/intl/ko_kr/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1'>광고 />
+[21] (61,973)<a class='pHiOh' href='https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1'>비즈니스 />
+[22] (108,973)<a class='pHiOh' href='https://google.com/search/howsearchworks/?fg=1'>검색의 원리 />
+[23] (897,973)<a class='pHiOh' href='https://policies.google.com/privacy?hl=ko&fg=1'>개인정보처리방침 />
+[24] (946,973)<a class='pHiOh' href='https://policies.google.com/terms?hl=ko&fg=1'>약관 />
+[25] (975,973)<div class='CcNe6e' role='button' />
+	[26] (975,973)<div >설정 />
+
+</current_dom>

@@ -1,0 +1,82 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (268,-42)<div class='scroll_ctgr' scrollable='true' />
+	인텔 소켓 1200
+	인텔 소켓 1151-V2
+	[1] (267,113)<dd class='ls_div ' id='ls_div3209' />
+		[2] (227,113)<label >인텔 소켓 1151 />
+	인텔 소켓 1150/1155
+	인텔 소켓 2066
+	서버/워크스테이션
+	산업용 메인보드
+메인보드
+[3] (353,230)<input id='Search_free' />
+무료배송
+[4] (418,230)<input id='Search_Event' />
+행사제품보기
+총
+2
+건
+[5] (307,307)<input id='SearchKeyword' />
+[6] (363,309)<a href='javascript:search_keyword();' />
+[7] (433,307)<select  />
+[8] (259,806)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[9] (65,466)<a class='imgbox' href='javascript:detail_show('1118926')' title='[제품코드:1118926]' />
+	[10] (221,568)<a class='imgbox' href='javascript:detail_show('1118926')'>인텔(소켓1700) / 인텔 B760 / M-ATX (24.4x24.4cm) / 전원부: 12+1+1페이즈 / 페이즈당75A / Vcore출력합계: 900A / 메모리 DDR5 / 7800MHz (PC5-62400) / 4개 / 메모리 용량: 최대 256GB / XMP3.0 / 확장슬롯 VGA 연결: PCIe5.0 x16 / PCIe버전: PCIe5.0, PCIe3.0 / PCIex16: 1개 / PCIex4: 1개 / 저장장치 M.2: 3개 / SATA3: 4개 / M.2 연결: PCIe4.0, NVMe , SATA / 후면단자 HDMI / DP / USB 3.2 / USB 3.1 / USB 2.0 / RJ-45 / S/PDIF / 오디오잭 / 랜/오디오 유선랜 칩셋: Realtek 8125BG / 2.5기가비트 / RJ-45: 1개 / 오디오 칩셋: Realtek ALC897 / 7.1채널(8ch) / 내부I/O I/O 헤더: USB 3.0 헤더 , USB 2.0 헤더 , USB3.1 Type C 헤더, RGB 12V 4핀 헤더 , ARGB 5V 3핀 헤더 , TPM 헤더 / 시스템팬 4핀: 4개 / USB2.0 헤더: 2개 / USB3.0 헤더: 1개 />
+		[11] (221,421)<b >[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) [1118926] />
+	후기
+	판매가격
+	174,150
+	[12] (451,593)<a class='buttons' href='javascript:check_delete_product_ls('1118926','N')' id='basket1118926' />
+		[13] (451,593)<span >해제 />
+	[14] (65,890)<a class='imgbox' href='javascript:detail_show('1215125')' title='[제품코드:1215125]' />
+	[15] (221,858)<b >[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) 🌸가정愛달 가좍이되🌸[1215125] />
+	인텔(소켓1700) / 인텔 B760 / M-ATX (24.4x24.4cm) / 전원부: 12+1+1페이즈 / 페이즈당75A / Vcore출력합계: 900A / 메모리 DDR5 / 7800MHz (PC5-62400) / 4개 / 메모리 용량: 최대 256GB / XMP3.0 / 확장슬롯 VGA 연결: PCIe5.0 x16 / PCIe버전: PCIe5.0, PCIe3.0 / PCIex16: 1개 / PCIex4: 1개 / 저장장치 M.2: 3개 / SATA3: 4개 / M.2 연결: PCIe4.0, NVMe , SATA / 후면단자 HDMI / DP / USB 3.2 / USB 3.1 / USB 2.0 / RJ-45 / S/PDIF / 오디오잭 / 랜/오디오 유선랜 칩셋: Realtek 8125BG / 2.5기가비트 / RJ-45: 1개 / 오디오 칩셋: Realtek ALC897 / 7.1채널(8ch) / 내부I/O I/O 헤더: USB 3.0 헤더 , USB 2.0 헤더 , USB3.1 Type C 헤더, RGB 12V 4핀 헤더 , ARGB 5V 3핀 헤더 , TPM 헤더 / 시스템팬 4핀: 4개 / USB2.0 헤더: 2개 / USB3.0 헤더: 1개
+	판매가격
+총 견적금액
+750,150
+원
+[16] (536,307)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[17] (565,307)<input  />
+[18] (594,307)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[19] (658,307)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[20] (658,308)<span >전체수량변경 />
+[21] (546,418)<label  />
+	[22] (528,417)<span  />
+		[23] (528,418)<input  />
+	[24] (554,417)<span >전체선택 />
+[25] (713,417)<a class='wbtn' href='javascript:add_wish_list();' />
+	[26] (713,418)<span >관심상품추가 />
+[27] (774,417)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[28] (774,418)<span >장바구니담기 />
+[29] (833,417)<a class='wbtn' />
+	[30] (833,418)<span >견적서출력 />
+[31] (891,417)<a class='wbtn' href='javascript:speck_form();' />
+	[32] (891,418)<span >사양검토요청 />
+[33] (942,417)<a class='wbtn' href='javascript:sess_init();'>초기화 />
+	초기화
+[34] (529,509)<label  />
+	[35] (529,508)<span  />
+		[36] (528,511)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[37] (563,508)<span >인텔 병행수입 />
+[38] (640,561)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[39] (873,540)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[40] (896,540)<input class='change__ea' id='Amount_1108547' />
+[41] (919,540)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[42] (529,656)<label  />
+	[43] (529,656)<span  />
+		[44] (528,658)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[45] (565,656)<span >인텔 소켓 1700 />
+[46] (640,696)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[47] (690,697)<i  />
+판매가격
+174,150
+[48] (873,675)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[49] (896,675)<input class='change__ea' id='Amount_1118926' />
+[50] (919,675)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />
+
+</current_dom>

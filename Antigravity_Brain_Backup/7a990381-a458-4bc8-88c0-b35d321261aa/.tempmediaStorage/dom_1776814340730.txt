@@ -1,0 +1,47 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (86,32)<div role='button' />
+	[1] (86,32)<a href='/3a4e5da5-0d40-4bab-b386-0f118f722ce9' />
+		[2] (86,32)<div  />
+			[3] (29,32)<div  />
+				[4] (29,32)<div  />
+					[5] (29,32)<div  />
+						[6] (29,32)<img  />
+			[7] (100,32)<div >Windly 사용가이드 />
+/
+[8] (247,32)<div role='button' />
+	[9] (247,32)<a href='/78c05555-533c-4ad0-8a28-d9a255c955a8' />
+		[10] (247,32)<div  />
+			[11] (186,32)<div  />
+				[12] (186,32)<div  />
+					[13] (186,32)<div  />
+						[14] (186,32)<img  />
+			[15] (260,32)<div >AI 전세계 상품 수집 />
+[16] (816,32)<div aria-label='검색' class='search-button css-nkjb6j' role='button' />
+	[17] (826,32)<span >검색 />
+[18] (884,32)<div class='share-button css-ax50c0 e1pzqsz00' role='button' />
+	[19] (895,32)<span >공유 />
+[20] (949,43)<label aria-label='다크모드를 켭니다' />
+	[21] (949,32)<div  />
+	[22] (937,32)<div  />
+🌎
+[23] (492,409)<div  />
+	[24] (492,409)<h1  />
+		[25] (295,409)<span >AI 전세계 상품 수집 />
+AI 전세계 상품 수집 기능을 통해 전세계 쇼핑몰 어디든 판매하고 싶은 상품을 쉽고, 간편하게 수집할 수 있어요.
+국가와 사이트 제한 없이 나만의 차별성 있는 상품을 수집해 보세요!
+[26] (445,638)<a class='notion-link-token notion-enable-hover' href='https://bit.ly/4b7XSPf' />
+	[27] (445,638)<span >AI 전세계 상품 수집 기능을 사용하는 셀러들의 생생한 후기 보러가기(링크) />
+[28] (142,707)<div aria-label='펼치기' role='button' />
+[29] (506,707)<div  />
+	[30] (391,707)<span >좌측 세모(
+)를 클릭한 후, 항목을 선택하면 해당 위치로 이동해요! />
+		[31] (237,705)<img  />
+		[32] (615,705)<img  />
+AI 전세계 상품 수집이란?
+중국, 일본 등 국가와 사이트 제한 없이 판매하고 싶은 상품을 수집할 수 있는 기능이에요.
+따라서 브랜드 공식 홈페이지를 비롯하여 해외 사이트뿐만 아니라 한국 사이트에서도 상품을 소싱할 수 있어요.
+
+</current_dom>

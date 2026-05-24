@@ -1,0 +1,109 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 맞춤설정
+[0] (24,45)<ytcp-icon-button aria-label='메뉴 접기' class='ytcpAppHeaderCollapseExpandIcon' role='button' />
+	[1] (24,45)<yt-icon  />
+[2] (81,51)<a class='style-scope ytcp-home-button' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='home-button' title='YouTube 스튜디오 대시보드' />
+	[3] (81,43)<img  />
+[4] (500,46)<input class='style-scope ytcp-omnisearch' id='query-input' placeholder='채널에서 검색하기' />
+[5] (821,45)<ytcp-icon-button aria-label='도움말' class='ytcpAppHeaderHelpIcon' role='button' />
+	[6] (821,45)<yt-icon  />
+[7] (847,45)<ytcp-icon-button aria-label='Ask Studio' role='button' />
+	[8] (847,45)<yt-icon  />
+[9] (872,45)<ytcp-icon-button aria-label='알림' role='button' />
+	[10] (872,45)<yt-icon  />
+[11] (921,45)<button aria-label='만들기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--outline ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>만들기 />
+	만들기
+	[12] (921,45)<yt-touch-feedback-shape  />
+		[13] (921,45)<div  />
+[14] (973,45)<button aria-label='Account' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[15] (973,45)<yt-img-shadow  />
+		[16] (973,45)<img  />
+내 채널
+Melodist Seoul
+[17] (83,614)<ytcp-animatable class='top-section sync-on-transition style-scope ytcp-navigation-drawer' scrollable='true' />
+	[18] (83,425)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='menu-item-0' role='menuitem' />
+		[19] (83,425)<tp-yt-paper-icon-item class='dashboard style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-0' role='none' />
+			[20] (23,425)<div  />
+				[21] (23,425)<yt-icon  />
+			[22] (65,425)<div >대시보드 />
+	[23] (83,494)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/videos/upload' id='menu-item-1' role='menuitem' />
+		[24] (83,494)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-1' role='none' />
+			[25] (23,494)<div  />
+				[26] (23,494)<yt-icon  />
+			[27] (60,494)<div >콘텐츠 />
+	[28] (83,563)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/analytics/tab-overview/period-default' id='menu-item-2' role='menuitem' />
+		[29] (83,563)<tp-yt-paper-icon-item class='analytics style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-2' role='none' />
+			[30] (23,563)<div  />
+				[31] (23,563)<yt-icon  />
+			[32] (56,563)<div >분석 />
+	[33] (83,632)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/comments/inbox' id='menu-item-3' role='menuitem' />
+		[34] (83,632)<tp-yt-paper-icon-item class='comments style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-3' role='none' />
+			[35] (23,632)<div  />
+				[36] (23,632)<yt-icon  />
+			[37] (65,632)<div >커뮤니티 />
+	[38] (83,701)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/translations' id='menu-item-4' role='menuitem' />
+		[39] (83,701)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-4' role='none' />
+			[40] (23,701)<div  />
+				[41] (23,701)<yt-icon  />
+			[42] (56,701)<div >자막 />
+	[43] (83,770)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/copyright' id='menu-item-5' role='menuitem' />
+		[44] (83,770)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-5' role='none' />
+			[45] (23,770)<div  />
+				[46] (23,770)<yt-icon  />
+			[47] (71,770)<div >콘텐츠 감지 />
+	수익 창출
+	맞춤설정
+	오디오 보관함
+[48] (83,885)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='settings-item' role='button' />
+	[49] (23,885)<div  />
+		[50] (23,885)<yt-icon  />
+	[51] (56,885)<div >설정 />
+[52] (83,954)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='send-feedback-item' role='button' />
+	[53] (23,954)<div  />
+		[54] (23,954)<yt-icon  />
+	[55] (71,954)<div >의견 보내기 />
+[56] (583,546)<main class='style-scope ytcp-entity-page' id='main' scrollable='true' />
+	채널 맞춤설정
+	[57] (203,226)<tp-yt-paper-tab class='style-scope ytcp-primary-action-bar iron-selected' role='tab' />
+		[58] (203,226)<div  />
+			[59] (203,226)<ytcp-ve class='style-scope ytcp-primary-action-bar' role='none' />
+				[60] (203,226)<span >프로필 />
+	[61] (260,226)<tp-yt-paper-tab class='style-scope ytcp-primary-action-bar' role='tab' />
+		[62] (260,226)<div  />
+			[63] (260,226)<ytcp-ve class='style-scope ytcp-primary-action-bar' role='none' />
+				[64] (260,226)<span >홈 탭 />
+	[65] (864,216)<button aria-label='채널 보기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>채널 보기 />
+		채널 보기
+		[66] (864,216)<yt-touch-feedback-shape  />
+			[67] (864,216)<div  />
+	취소
+	게시
+	배너 이미지
+	이 이미지가 채널 상단에 표시됩니다.
+	모든 기기에 최적화된 이미지가 표시되도록 2048x1152픽셀 이상, 6MB 이하의 이미지를 사용하세요.
+	[68] (409,466)<button aria-label='변경' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>변경 />
+		변경
+		[69] (409,466)<yt-touch-feedback-shape  />
+			[70] (409,466)<div  />
+	[71] (452,466)<button aria-label='삭제' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>삭제 />
+		삭제
+		[72] (452,466)<yt-touch-feedback-shape  />
+			[73] (452,466)<div  />
+	사진
+	프로필 사진은 동영상 및 댓글 옆과 같이 YouTube에서 채널을 나타내는 위치에 표시됩니다.
+	98x98픽셀 이상, 4MB 이하의 사진이 권장됩니다.
+  PNG 또는 GIF(애니메이션 GIF 제외) 파일을 사용하세요. 사진이 YouTube 커뮤니티 가이드를 준수해야 합니다.
+	[74] (409,835)<button aria-label='변경' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>변경 />
+		변경
+		[75] (409,835)<yt-touch-feedback-shape  />
+			[76] (409,835)<div  />
+	[77] (452,835)<button aria-label='삭제' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>삭제 />
+		삭제
+		[78] (452,835)<yt-touch-feedback-shape  />
+			[79] (452,835)<div  />
+	이름
+
+</current_dom>

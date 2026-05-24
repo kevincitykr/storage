@@ -1,0 +1,355 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 콘텐츠
+[0] (24,45)<ytcp-icon-button aria-label='메뉴 접기' class='ytcpAppHeaderCollapseExpandIcon' role='button' />
+	[1] (24,45)<yt-icon  />
+		[2] (24,45)<span  />
+			[3] (24,45)<div  />
+[4] (81,51)<a class='style-scope ytcp-home-button' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='home-button' title='YouTube 스튜디오 대시보드' />
+	[5] (81,43)<img  />
+[6] (500,46)<input class='style-scope ytcp-omnisearch' id='query-input' placeholder='채널에서 검색하기' />
+[7] (821,45)<ytcp-icon-button aria-label='도움말' class='ytcpAppHeaderHelpIcon' role='button' />
+	[8] (821,45)<yt-icon  />
+		[9] (821,45)<span  />
+			[10] (821,45)<div  />
+[11] (847,45)<ytcp-icon-button aria-label='Ask Studio' role='button' />
+	[12] (847,45)<yt-icon  />
+		[13] (847,45)<span  />
+			[14] (847,45)<div  />
+[15] (872,45)<ytcp-icon-button aria-label='알림' role='button' />
+	[16] (872,45)<yt-icon  />
+		[17] (872,45)<span  />
+			[18] (872,45)<div  />
+[19] (921,45)<button aria-label='만들기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--outline ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>만들기 />
+	만들기
+	[20] (921,45)<yt-touch-feedback-shape  />
+		[21] (921,45)<div  />
+[22] (973,45)<button aria-label='Account' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[23] (973,45)<yt-img-shadow  />
+		[24] (973,45)<img  />
+내 채널
+Melodist Seoul
+[25] (83,614)<ytcp-animatable class='top-section sync-on-transition style-scope ytcp-navigation-drawer' scrollable='true' />
+	[26] (83,425)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='menu-item-0' role='menuitem' />
+		[27] (83,425)<tp-yt-paper-icon-item class='dashboard style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-0' role='none' />
+			[28] (23,425)<div  />
+				[29] (23,425)<yt-icon  />
+					[30] (23,425)<span  />
+						[31] (23,425)<div  />
+			[32] (65,425)<div >대시보드 />
+	[33] (83,494)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/videos/upload' id='menu-item-1' role='menuitem' />
+		[34] (83,494)<tp-yt-paper-icon-item class='iron-selected style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-1' role='none' />
+			[35] (23,494)<div  />
+				[36] (23,494)<yt-icon  />
+					[37] (23,494)<span  />
+						[38] (23,494)<div  />
+			[39] (60,494)<div >콘텐츠 />
+	[40] (83,563)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/analytics/tab-overview/period-default' id='menu-item-2' role='menuitem' />
+		[41] (83,563)<tp-yt-paper-icon-item class='analytics style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-2' role='none' />
+			[42] (23,563)<div  />
+				[43] (23,563)<yt-icon  />
+					[44] (23,563)<span  />
+						[45] (23,563)<div  />
+			[46] (56,563)<div >분석 />
+	[47] (83,632)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/comments/inbox' id='menu-item-3' role='menuitem' />
+		[48] (83,632)<tp-yt-paper-icon-item class='comments style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-3' role='none' />
+			[49] (23,632)<div  />
+				[50] (23,632)<yt-icon  />
+					[51] (23,632)<span  />
+						[52] (23,632)<div  />
+			[53] (65,632)<div >커뮤니티 />
+	[54] (83,701)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/translations' id='menu-item-4' role='menuitem' />
+		[55] (83,701)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-4' role='none' />
+			[56] (23,701)<div  />
+				[57] (23,701)<yt-icon  />
+					[58] (23,701)<span  />
+						[59] (23,701)<div  />
+			[60] (56,701)<div >자막 />
+	[61] (83,770)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/copyright' id='menu-item-5' role='menuitem' />
+		[62] (83,770)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-5' role='none' />
+			[63] (23,770)<div  />
+				[64] (23,770)<yt-icon  />
+					[65] (23,770)<span  />
+						[66] (23,770)<div  />
+			[67] (71,770)<div >콘텐츠 감지 />
+	수익 창출
+	맞춤설정
+	오디오 보관함
+[68] (83,885)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='settings-item' role='button' />
+	[69] (23,885)<div  />
+		[70] (23,885)<yt-icon  />
+			[71] (23,885)<span  />
+				[72] (23,885)<div  />
+	[73] (56,885)<div >설정 />
+[74] (83,954)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='send-feedback-item' role='button' />
+	[75] (23,954)<div  />
+		[76] (23,954)<yt-icon  />
+			[77] (23,954)<span  />
+				[78] (23,954)<div  />
+	[79] (71,954)<div >의견 보내기 />
+[80] (583,546)<main class='style-scope ytcp-entity-page' id='main' scrollable='true' />
+	[81] (205,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='inspiration-tab' role='tab' />
+		[82] (205,147)<div  />
+			[83] (205,147)<ytcp-ve class='style-scope ytcp-content-section' role='none'>아이디어 />
+	[84] (265,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-uploads-tab' role='tab' />
+		[85] (265,147)<div >동영상 />
+	[86] (322,147)<tp-yt-paper-tab class='style-scope ytcp-content-section iron-selected' id='video-list-shorts-tab' role='tab' />
+		[87] (322,147)<div  />
+			[88] (322,147)<ytcp-ve class='style-scope ytcp-content-section' role='none'>Shorts />
+	[89] (380,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-live-tab' role='tab' />
+		[90] (380,147)<div  />
+			[91] (380,147)<ytcp-ve class='style-scope ytcp-content-section' role='none'>라이브 />
+	[92] (437,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='content-list-post-tab' role='tab' />
+		[93] (437,147)<div  />
+			[94] (437,147)<ytcp-ve class='style-scope ytcp-content-section' role='none'>게시물 />
+	[95] (497,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='playlist-list-tab' role='tab' />
+		[96] (497,147)<div  />
+			[97] (497,147)<ytcp-ve class='style-scope ytcp-content-section' role='none'>재생목록 />
+	[98] (559,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='podcast-list-tab' role='tab' />
+		[99] (559,147)<div  />
+			[100] (559,147)<ytcp-ve class='style-scope ytcp-content-section' role='none'>팟캐스트 />
+	[101] (618,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='courses-list-tab' role='tab' />
+		[102] (618,147)<div  />
+			[103] (618,147)<ytcp-ve class='style-scope ytcp-content-section' role='none'>강의 />
+	[104] (678,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='content-list-promotions-tab' role='tab' />
+		[105] (678,147)<div  />
+			[106] (678,147)<ytcp-ve class='style-scope ytcp-content-section' role='none' />
+				[107] (678,147)<div  />
+					[108] (678,147)<span >프로모션 />
+	[109] (749,147)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-collabs-tab' role='tab' />
+		[110] (749,147)<div  />
+			[111] (749,147)<ytcp-ve class='style-scope ytcp-content-section' role='none'>컬래버레이션 />
+	[112] (580,218)<ytcp-filter-bar  />
+		[113] (193,218)<yt-icon  />
+			[114] (193,218)<span  />
+				[115] (193,218)<div  />
+		[116] (604,218)<ytcp-chip-bar  />
+			[117] (604,218)<div  />
+				[118] (604,218)<input class='text-input style-scope ytcp-chip-bar' id='text-input' placeholder='필터' />
+	[119] (193,292)<ytcp-checkbox-lit  />
+		[120] (193,287)<div  />
+			[121] (193,287)<div  />
+				[122] (193,287)<div  />
+					[123] (193,287)<div  />
+	Shorts 동영상
+	공개 상태
+	제한사항
+	[124] (704,286)<button aria-label='정렬 기준: 날짜' class='header-name remove-default-style style-scope ytcp-table-header' id='date-header-name' />
+		[125] (698,286)<span >날짜 />
+		[126] (713,286)<yt-icon  />
+			[127] (713,286)<span  />
+				[128] (713,286)<div  />
+	[129] (810,286)<button aria-label='정렬 기준: 조회수' class='header-name remove-default-style style-scope ytcp-table-header' id='views-header-name' />
+		[130] (810,286)<span >조회수 />
+	댓글
+	좋아요(싫어요 대비)
+	0:56
+	[Playlist] Quiet Contemplation 감성 하이라이트 #2
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	예약됨
+	없음
+	2026. 5. 8.
+	예약 날짜
+	0
+	0
+	–
+	0:56
+	[Playlist] Quiet Contemplation 감성 하이라이트 #1
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	예약됨
+	없음
+	2026. 5. 8.
+	예약 날짜
+	0
+	0
+	–
+	0:56
+	[Playlist] 2PM Breeze 감성 하이라이트 #3
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	예약됨
+	없음
+	2026. 5. 7.
+	예약 날짜
+	0
+	0
+	–
+	[131] (193,387)<ytcp-checkbox-lit  />
+		[132] (193,353)<div  />
+			[133] (193,353)<div  />
+				[134] (193,353)<div  />
+					[135] (193,353)<div  />
+	[136] (253,385)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/82R8BWGX_r8/edit' id='thumbnail-anchor' />
+		[137] (253,385)<div  />
+			[138] (253,385)<ytcp-thumbnail  />
+				[139] (253,385)<div  />
+					[140] (253,385)<ytcp-img-with-fallback  />
+						[141] (253,385)<div  />
+							[142] (253,385)<img  />
+					[143] (279,414)<div  />
+						[144] (279,414)<div >0:56 />
+	[145] (393,359)<a aria-label='[Playlist] 2PM Breeze 감성 하이라이트 #2' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/82R8BWGX_r8/edit' id='video-title' />
+		[146] (377,359)<span >[Playlist] 2PM Breeze 감성 하이라이트 #2 />
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	[147] (548,356)<div  />
+		[148] (517,356)<yt-icon  />
+			[149] (517,356)<span  />
+				[150] (517,356)<div  />
+		[151] (540,356)<span >예약됨 />
+	없음
+	2026. 5. 7.
+	예약 날짜
+	0
+	[152] (861,388)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/82R8BWGX_r8/comments'>0 />
+	–
+	[153] (193,507)<ytcp-checkbox-lit  />
+		[154] (193,474)<div  />
+			[155] (193,474)<div  />
+				[156] (193,474)<div  />
+					[157] (193,474)<div  />
+	[158] (253,505)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/7GYq72WUvY0/edit' id='thumbnail-anchor' />
+		[159] (253,505)<div  />
+			[160] (253,505)<ytcp-thumbnail  />
+				[161] (253,505)<div  />
+					[162] (253,505)<ytcp-img-with-fallback  />
+						[163] (253,505)<div  />
+							[164] (253,505)<img  />
+					[165] (279,534)<div  />
+						[166] (279,534)<div >0:56 />
+	[167] (393,479)<a aria-label='[Playlist] 2PM Breeze 감성 하이라이트 #1' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/7GYq72WUvY0/edit' id='video-title' />
+		[168] (377,479)<span >[Playlist] 2PM Breeze 감성 하이라이트 #1 />
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	[169] (548,477)<div  />
+		[170] (517,477)<yt-icon  />
+			[171] (517,477)<span  />
+				[172] (517,477)<div  />
+		[173] (540,477)<span >예약됨 />
+	없음
+	2026. 5. 7.
+	예약 날짜
+	0
+	[174] (861,509)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/7GYq72WUvY0/comments'>0 />
+	–
+	[175] (193,628)<ytcp-checkbox-lit  />
+		[176] (193,594)<div  />
+			[177] (193,594)<div  />
+				[178] (193,594)<div  />
+					[179] (193,594)<div  />
+	[180] (253,626)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/NAa_6n5GIJY/edit' id='thumbnail-anchor' />
+		[181] (253,626)<div  />
+			[182] (253,626)<ytcp-thumbnail  />
+				[183] (253,626)<div  />
+					[184] (253,626)<ytcp-img-with-fallback  />
+						[185] (253,626)<div  />
+							[186] (253,626)<img  />
+					[187] (279,655)<div  />
+						[188] (279,655)<div >0:56 />
+	[189] (393,600)<a aria-label='[Playlist] 10AM Coffee 감성 하이라이트 #3' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/NAa_6n5GIJY/edit' id='video-title' />
+		[190] (379,600)<span >[Playlist] 10AM Coffee 감성 하이라이트 #3 />
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	[191] (548,597)<div  />
+		[192] (517,597)<yt-icon  />
+			[193] (517,597)<span  />
+				[194] (517,597)<div  />
+		[195] (540,597)<span >예약됨 />
+	없음
+	2026. 5. 6.
+	예약 날짜
+	0
+	[196] (861,629)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/NAa_6n5GIJY/comments'>0 />
+	–
+	[197] (193,749)<ytcp-checkbox-lit  />
+		[198] (193,715)<div  />
+			[199] (193,715)<div  />
+				[200] (193,715)<div  />
+					[201] (193,715)<div  />
+	[202] (253,746)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/vhyHJb0ReoI/edit' id='thumbnail-anchor' />
+		[203] (253,746)<div  />
+			[204] (253,746)<ytcp-thumbnail  />
+				[205] (253,746)<div  />
+					[206] (253,746)<ytcp-img-with-fallback  />
+						[207] (253,746)<div  />
+							[208] (253,746)<img  />
+					[209] (279,775)<div  />
+						[210] (279,775)<div >0:56 />
+	[211] (393,721)<a aria-label='[Playlist] 10AM Coffee 감성 하이라이트 #2' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/vhyHJb0ReoI/edit' id='video-title' />
+		[212] (379,721)<span >[Playlist] 10AM Coffee 감성 하이라이트 #2 />
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	[213] (548,718)<div  />
+		[214] (517,718)<yt-icon  />
+			[215] (517,718)<span  />
+				[216] (517,718)<div  />
+		[217] (540,718)<span >예약됨 />
+	없음
+	2026. 5. 6.
+	예약 날짜
+	0
+	[218] (861,750)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/vhyHJb0ReoI/comments'>0 />
+	–
+	[219] (193,869)<ytcp-checkbox-lit  />
+		[220] (193,835)<div  />
+			[221] (193,835)<div  />
+				[222] (193,835)<div  />
+					[223] (193,835)<div  />
+	[224] (253,867)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/WVmM1zTQ6Z4/edit' id='thumbnail-anchor' />
+		[225] (253,867)<div  />
+			[226] (253,867)<ytcp-thumbnail  />
+				[227] (253,867)<div  />
+					[228] (253,867)<ytcp-img-with-fallback  />
+						[229] (253,867)<div  />
+							[230] (253,867)<img  />
+					[231] (279,896)<div  />
+						[232] (279,896)<div >0:56 />
+	[233] (393,841)<a aria-label='[Playlist] 10AM Coffee 감성 하이라이트 #1' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/WVmM1zTQ6Z4/edit' id='video-title' />
+		[234] (379,841)<span >[Playlist] 10AM Coffee 감성 하이라이트 #1 />
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	[235] (548,838)<div  />
+		[236] (517,838)<yt-icon  />
+			[237] (517,838)<span  />
+				[238] (517,838)<div  />
+		[239] (540,838)<span >예약됨 />
+	없음
+	2026. 5. 6.
+	예약 날짜
+	0
+	[240] (861,871)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/WVmM1zTQ6Z4/comments'>0 />
+	–
+	[241] (193,956)<div  />
+		[242] (193,956)<div  />
+			[243] (193,956)<div  />
+				[244] (193,956)<div  />
+	[245] (393,962)<a aria-label='[Playlist] Morning Commute 감성 하이라이트 #3' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/9BI7bsIosLc/edit' id='video-title' />
+		[246] (390,962)<span >[Playlist] Morning Commute 감성 하이라이트 #3 />
+	🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing
+	[247] (548,959)<div  />
+		[248] (517,959)<yt-icon  />
+			[249] (517,959)<span  />
+				[250] (517,959)<div  />
+		[251] (540,959)<span >예약됨 />
+	없음
+	2026. 5. 5.
+	예약 날짜
+	0
+	0
+	–
+
+</current_dom>

@@ -1,0 +1,3 @@
+- [x] Install SyncTrayzor using winget
+- [x] Verify installation
+- [x] Provide instructions for use

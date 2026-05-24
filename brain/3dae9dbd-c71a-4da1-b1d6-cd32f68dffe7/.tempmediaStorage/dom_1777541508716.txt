@@ -1,0 +1,42 @@
+We have updated our
+[0] (526,51)<a href='https://ai.google.dev/gemini-api/terms'>Terms of Service />
+[1] (634,51)<button class='dismiss custom-theme ms-button-primary'>Dismiss />
+[2] (39,156)<button aria-label='Toggle navigation menu' class='mat-mdc-tooltip-trigger floating-toggle-button ng-tns-c3997297598-1 banner-visible ng-trigger ng-trigger-fadeInOut ms-button-icon ms-button-primary ng-star-inserted' />
+	[3] (39,156)<span >menu />
+[4] (-1,500)<div class='nav-content v3-left-nav nesting-enabled ng-tns-c3997297598-1 ng-trigger ng-trigger-parent collapsed' scrollable='true' />
+	expand_more
+[5] (500,551)<div class='layout-main ng-tns-c3872533921-0' scrollable='true' />
+	프로젝트
+	[6] (479,213)<a aria-label='프로젝트 이해' class='custom-link ms-button-borderless' href='https://ai.google.dev/gemini-api/docs/api-key#google-cloud-projects'>프로젝트 이해 />
+		[7] (434,213)<span >docs />
+	[8] (647,213)<button aria-label='새 프로젝트 만들기' class='mat-mdc-tooltip-trigger ms-button-borderless ms-button-large mat-mdc-tooltip-disabled ng-star-inserted'>새 프로젝트 만들기 />
+		[9] (585,213)<span >add />
+	[10] (828,213)<button class='mat-mdc-tooltip-trigger ms-button-large ms-button-primary mat-mdc-tooltip-disabled'>프로젝트 가져오기 />
+		[11] (769,213)<span >cloud_download />
+	search
+	[12] (219,305)<input aria-label='프로젝트 검색' class='has-icon ng-untouched ng-pristine ng-valid ng-star-inserted' id='input-F4AF8874-351F-4B13-B74C-415ECB732E66' placeholder='프로젝트 검색' />
+	[13] (492,481)<div class='project-table-container' scrollable='true' />
+		프로젝트
+		키
+		[14] (467,406)<th class='mat-sort-header mat-mdc-header-cell mdc-data-table__header-cell cdk-header-cell cdk-column-Created-On mat-column-Created-On ng-star-inserted' role='columnheader' />
+			[15] (467,405)<div class='mat-sort-header-container mat-focus-indicator' role='button' />
+				[16] (438,405)<div >생성일 />
+				[17] (472,405)<div  />
+		결제 등급
+		상태
+		[18] (191,494)<button class='project-table-link ms-button-link'>Gemini ProjectKevin-2026-04-30 />
+		gen-lang-client-0450804655
+		[19] (364,494)<button aria-label='API 키 보기' class='project-table-link api-key-count-button ms-button-link ng-star-inserted'>키 1개 />
+		2026. 4. 30.
+		[20] (580,494)<button class='xap-inline-dialog link ms-button-link ng-star-inserted'>결제 설정 />
+		무료 등급
+		[21] (802,509)<button aria-label='프로젝트 ID 복사' class='xap-copy-to-clipboard ms-button-borderless ms-button-icon' />
+			[22] (802,509)<span >content_copy />
+		[23] (845,509)<button aria-label='지출 보기' class='ms-button-borderless ms-button-icon' />
+			[24] (845,509)<span >paid />
+		[25] (888,509)<button aria-label='사용량 보기' class='ms-button-borderless ms-button-icon' />
+			[26] (888,509)<span >bar_chart />
+		more_vert
+	여기에 프로젝트가 표시되지 않나요?
+	가져온 프로젝트만 여기에 표시됩니다. 프로젝트가 표시되지 않으면 이 페이지에서 Google Cloud의 프로젝트를 가져올 수 있습니다.
+	[27] (635,997)<a href='https://ai.google.dev/gemini-api/docs/api-key#import-projects'>자세히 알아보기 />

@@ -1,0 +1,31 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (60,39)<a class='logo-link' href='/' />
+	[1] (60,39)<img  />
+[2] (184,39)<a href='/pricing' />
+	[3] (184,39)<p >가격·기능 />
+[4] (309,39)<li  />
+	[5] (309,39)<a href='#' />
+		[6] (296,39)<p >지원자료 />
+[7] (445,39)<a href='https://guide.windly.cc/windly-community' />
+	[8] (445,39)<p >셀러커뮤니티 />
+[9] (568,39)<a href='https://guide.windly.cc/windly-partner-company' />
+	[10] (568,39)<p >파트너사 />
+[11] (790,39)<a href='https://hub.windly.cc/accounts/login?ctaEntryPoint=landing' />
+	[12] (790,39)<button class='MuiButtonBase-root MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeSmall MuiButton-textSizeSmall MuiButton-colorPrimary login-cta mui-1rfe7k3' />
+		[13] (790,39)<p >로그인 />
+[14] (908,39)<a class='mui-1u4gepp' href='https://hub.windly.cc/accounts/register?ctaEntryPoint=landing' />
+	[15] (908,39)<button class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButton-colorPrimary MuiButton-fullWidth free-cta mui-f2lkkw'>무료로 시작하기 />
+구매대행
+부터
+위탁판매
+까지
+쇼핑몰 관리, 이제 AI로 쉽고
+빠르게
+7만명의 셀러가 선택한 윈들리로 매출을 극대화하세요.
+[16] (500,532)<a class='free-trial mui-1u4gepp' href='https://hub.windly.cc/accounts/register?ctaEntryPoint=landing' />
+	[17] (500,532)<button class='MuiButtonBase-root MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-fullWidth MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeLarge MuiButton-containedSizeLarge MuiButton-colorPrimary MuiButton-fullWidth free-cta mui-1lc6tsu'>무료로 시작하기 />
+
+</current_dom>

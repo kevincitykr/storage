@@ -1,0 +1,118 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (495,500)<div  />
+	[1] (495,36)<button class='_top-banner-large-content_z6lgp_39' />
+		[2] (385,36)<img  />
+		[3] (505,36)<span  />
+			[4] (498,36)<span >앱을 다운로드하고 더 편리한 번개장터를 만나보세요! />
+	[5] (964,36)<button class='_top-banner-large-close_z6lgp_57' />
+	[6] (124,123)<a href='/' />
+		[7] (124,123)<img  />
+	[8] (345,123)<form  />
+		[9] (353,123)<input class='_input_au7f1_17' placeholder='상품명이나 상점명을 검색해주세요' />
+	[10] (856,123)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxClassNames_flexShrink__7nn0kn30' href='/login?header=true' />
+		[11] (856,123)<button class='_button_1cw4e_1 _variant-normal_1cw4e_53 _size-M_1cw4e_93' />
+			[12] (856,123)<span >로그인/회원가입 />
+	[13] (119,215)<button  />
+		[14] (119,215)<div  />
+			[15] (127,215)<span >카테고리 />
+	[16] (195,215)<a href='/categories/700' />
+		[17] (195,214)<span >스포츠/레저 />
+	[18] (262,215)<a href='/categories/910' />
+		[19] (262,214)<span >스타굿즈 />
+	[20] (317,215)<a href='/categories/600' />
+		[21] (317,214)<span >디지털 />
+	[22] (367,215)<a href='/categories/930' />
+		[23] (367,214)<span >키덜트 />
+	[24] (422,215)<a href='/categories/310' />
+		[25] (422,214)<span >여성의류 />
+	[26] (809,215)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 _outlink-item_j2slt_1' href='https://mercari.bunjang.co.kr' />
+		[27] (803,215)<span >메루카리 />
+	[28] (872,215)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 _outlink-item_j2slt_1' href='https://seller.bunjang.co.kr' />
+		[29] (866,215)<span >판매자센터 />
+	[30] (960,873)<div  />
+		[31] (960,873)<img  />
+	[32] (960,996)<div  />
+		[33] (960,996)<img  />
+	[34] (163,336)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+		[35] (112,336)<span >카테고리 />
+		[36] (230,336)<div  />
+	[37] (163,417)<fieldset  />
+		[38] (163,417)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp' />
+			[39] (104,417)<span >디지털 />
+	[40] (163,527)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+		[41] (112,527)<span >상품옵션 />
+		[42] (230,527)<div  />
+	카테고리를 먼저 선택해 주세요.
+	[43] (163,726)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+		[44] (102,726)<span >가격 />
+		[45] (230,726)<div  />
+	최소
+	[46] (156,832)<input class='TextField_inputStyle__7b6rfem TextField_inputStyle_size_s__7b6rfen TextField_inputStyle_disabled_false__7b6rfeq' placeholder='0' />
+	원
+	최대
+	[47] (156,936)<input class='TextField_inputStyle__7b6rfem TextField_inputStyle_size_s__7b6rfen TextField_inputStyle_disabled_false__7b6rfeq' placeholder='0' />
+	원
+	추가
+	'13700 4070' 검색결과
+	[48] (472,340)<button class='bgzt-ui-tooltip-trigger Tooltip_tooltipTriggerStyle__1s6ha560' />
+	상품
+	13
+	[49] (727,450)<button class='_sortTab_1hbq6_21' />
+		[50] (727,450)<span >정확도순 />
+	[51] (771,450)<button class='_sortTab_1hbq6_21' />
+		[52] (771,449)<span >최신순 />
+	[53] (820,450)<button class='_sortTab_1hbq6_21' />
+		[54] (820,449)<span >낮은 가격순 />
+	[55] (878,450)<button class='_sortTab_1hbq6_21' />
+		[56] (878,449)<span >높은 가격순 />
+	[57] (355,751)<a class='_container_15rjm_1' href='/products/400172659' />
+		[58] (355,688)<div  />
+			[59] (355,688)<img  />
+			[60] (411,525)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+		[61] (355,896)<div  />
+		[62] (355,920)<p >2,450,000원 />
+		[63] (355,940)<div  />
+		[64] (355,958)<p >초고사양 인텔 케이밍 컴퓨터 13700k rtx 4070 ti 팝니다. />
+		[65] (355,981)<div  />
+		1시간 전
+		8
+		1
+	[66] (512,751)<a class='_container_15rjm_1' href='/products/403504502' />
+		[67] (512,688)<div  />
+			[68] (512,688)<img  />
+			[69] (568,525)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+		[70] (512,896)<div  />
+		[71] (512,920)<p >1,800,000원 />
+		[72] (512,940)<div  />
+		[73] (512,958)<p >13700f 4070ti 본체 팔아요 />
+		[74] (512,981)<div  />
+		2일 전
+		1
+		1
+	[75] (669,751)<a class='_container_15rjm_1' href='/products/402860468' />
+		[76] (669,688)<div  />
+			[77] (669,688)<img  />
+			[78] (725,525)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+		[79] (669,896)<div  />
+		[80] (669,920)<p >1,900,000원 />
+		[81] (669,940)<div  />
+		[82] (669,958)<p >게이밍PC(13700kf/4070s/2TB/16G) />
+		[83] (669,981)<div  />
+		2일 전
+		2
+	[84] (825,751)<a class='_container_15rjm_1' href='/products/393168948' />
+		[85] (825,688)<div  />
+			[86] (825,688)<img  />
+			[87] (882,525)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+		[88] (825,896)<div  />
+		[89] (825,920)<p >4,500,000원 />
+		[90] (825,940)<div  />
+		[91] (825,958)<p >I7 13700K 갤럭시 RTX4070Ti 슈퍼 />
+		[92] (825,981)<div  />
+		2달 전
+		1
+
+</current_dom>

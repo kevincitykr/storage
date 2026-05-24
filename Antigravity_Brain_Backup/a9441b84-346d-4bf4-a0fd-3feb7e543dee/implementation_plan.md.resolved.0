@@ -1,0 +1,43 @@
+# Implementation Plan - YouTube Radio Dashboard & Grandfather Story
+
+## Goal Description
+Enhance the existing React application to support the "Google Opal Generator" workflow. This includes adding a "Topic Dashboard" with real-time trend monitoring, and implementing the "69-year-old Grandfather's Commute Vlog" story as requested.
+
+## User Review Required
+> [!IMPORTANT]
+> **Missing Script**: The script for the "69-year-old Grandfather" was not found in the current files. I will use a **placeholder script** initially or ask you to provide the specific text.
+> **Design Reference**: `topic_dashboard_v2.html` is missing. I will implement a clean "Card UI" based on general best practices and the [App.jsx](file:///C:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/0122%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%9D%BC%EB%94%94%EC%98%A4%20%EB%A7%8C%EB%93%A4%EA%B8%B0/src/App.jsx) existing style.
+
+## Proposed Changes
+
+### Data Layer
+#### [NEW] [stories.js](file:///C:/Upload2601공유폴더/0122 유튜브라디오 만들기/src/data/stories.js)
+- Extract the hardcoded "Kim Sung-sook" story from [App.jsx](file:///C:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/0122%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%9D%BC%EB%94%94%EC%98%A4%20%EB%A7%8C%EB%93%A4%EA%B8%B0/src/App.jsx).
+- Add the new "Grandfather's Commute Vlog" story structure (placeholder if needed).
+
+### UI/Logic Layer
+#### [MODIFY] [App.jsx](file:///C:/Upload2601공유폴더/0122 유튜브라디오 만들기/src/App.jsx)
+- **New State**: Add `dashboard` as the initial `step`.
+- **New View**: Implement `DashboardView` component (internal or separate file) that shows:
+    - **Top 100 Real-time Topics**: A box that updates every 10 seconds (mocked).
+    - **Topic Selection**: Clicking a topic acts as "Benchmarking" and prompts to generate a story.
+- **Workflow Update**:
+    - `Dashboard` -> `Topic Selection` -> `Story Generation` (Simulated) -> `Edit/Review` -> `Preview`.
+- **Refactor**: Replace hardcoded `dramaChunks` with imports from `stories.js`.
+
+### Assets
+- Ensure [App.css](file:///C:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/0122%20%EC%9C%A0%ED%8A%9C%EB%B8%8C%EB%9D%BC%EB%94%94%EC%98%A4%20%EB%A7%8C%EB%93%A4%EA%B8%B0/src/App.css) supports the new Dashboard grid layout.
+
+## Verification Plan
+
+### Automated Tests
+- None existing.
+
+### Manual Verification
+1.  **Dashboard Load**: Open app, verify "Topic Dashboard" appears first.
+2.  **Real-time Update**: Watch the "Top 100" box to see if content changes/flashes every 10 seconds.
+3.  **Grandfather Story**:
+    - Select "69-year-old Grandfather" topic (or equivalent).
+    - Verify the "Analysis" and "Story Generation" steps run.
+    - Verify the generated chapters match the (placeholder) Grandfather script.
+4.  **Playback**: Click "Broadcast" and verify TTS reads the new story.

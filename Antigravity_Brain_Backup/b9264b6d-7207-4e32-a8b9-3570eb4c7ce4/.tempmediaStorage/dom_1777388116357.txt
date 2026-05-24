@@ -1,0 +1,61 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Repository files navigation
+[0] (136,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (115,27)<span  />
+	[2] (144,27)<span >README />
+[3] (210,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[4] (183,27)<span  />
+	[5] (217,27)<span >MIT license />
+[6] (678,26)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[7] (397,196)<a href='/wonseokjung/connect-ai/blob/main/assets/icon.png' />
+	[8] (397,136)<img  />
+Connect AI v2 (P-Reinforce)
+[9] (111,260)<a aria-label='Permalink: Connect AI v2 (P-Reinforce)' class='anchor' href='#connect-ai-v2-p-reinforce' id='user-content-connect-ai-v2-p-reinforce' />
+100% Local · 100% Offline · Autonomous Knowledge Engine
+VS Code / Cursor 확장 프로그램으로, 당신의 낡은 IDE를 최상위 에이전트 대학(A.U)의 심장으로 진화시킵니다.
+[10] (256,399)<a href='https://camo.githubusercontent.com/9b30d4aba56a44cf14512fbdb84b135d1184279670a21d35841c7399343acecc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d322e312e33302d626c7565' />
+	[11] (256,395)<img  />
+[12] (317,399)<a href='https://camo.githubusercontent.com/f8df3091bbe1149f398a5369b2c39e896766f9f6efba3477c63e9b4aa940ef14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d677265656e' />
+	[13] (317,395)<img  />
+[14] (402,399)<a href='https://camo.githubusercontent.com/c9f409211413fc295c88f7ea705f30e717d43da26d47d9450385ff0555fcfb98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e746567726174696f6e2d4167656e745f556e69766572736974792d707572706c65' />
+	[15] (402,395)<img  />
+[16] (516,399)<a href='https://camo.githubusercontent.com/393b353dff3a57a9cfdfa3f0cfe45dd892329eb0610fe2be88fe9024212a169c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656e67696e652d4f6c6c616d612532302537432532304c4d25323053747564696f2d6f72616e6765' />
+	[17] (516,395)<img  />
+🌟 Overview: The P-Reinforce Architecture
+[18] (111,487)<a aria-label='Permalink: 🌟 Overview: The P-Reinforce Architecture' class='anchor' href='#-overview-the-p-reinforce-architecture' id='user-content--overview-the-p-reinforce-architecture' />
+Connect AI v2.1.30은 단순한 코딩 에이전트를 넘어섭니다.
+P-Reinforce 아키텍처
+를 기반으로 설계된 이 에이전트는 사용자의 모든 정보와 지시를 받아들여
+스스로 의미를 분석하고, 폴더를 생성하고, 마크다운 위키 파일로 정리하여 클라우드에 자동 백업
+하는 자율 지식 정원사(Autonomous Gardener)입니다.
+⚡ Core Features
+[19] (111,687)<a aria-label='Permalink: ⚡ Core Features' class='anchor' href='#-core-features' id='user-content--core-features' />
+1. 🧠 Agent University (A.U) 완벽 연동
+[20] (111,755)<a aria-label='Permalink: 1. 🧠 Agent University (A.U) 완벽 연동' class='anchor' href='#1--agent-university-au-완벽-연동' id='user-content-1--agent-university-au-완벽-연동' />
+Agent University 웹 플랫폼과 실시간으로 통신합니다.
+웹에서 버튼 한 번 누르는 즉시, 로컬 VS Code의
+4825
+포트를 통해 프리미엄 브레인 팩(Premium Brain Pack) 지식이 로컬 인공지능 뇌(
+~/.connect-ai-brain
+)에 자동 주입되어 신경망을 확장합니다.
+2. 📂 자율 지식 구조화 (Zero-Interaction Styling)
+[21] (111,908)<a aria-label='Permalink: 2. 📂 자율 지식 구조화 (Zero-Interaction Styling)' class='anchor' href='#2--자율-지식-구조화-zero-interaction-styling' id='user-content-2--자율-지식-구조화-zero-interaction-styling' />
+유저가 던져주는 원시 데이터(Raw Data)를 에이전트가 스스로 판단해
+10_Wiki
+,
+00_Raw
+,
+🚀 Skills
+와 같은 완벽한 P-Reinforce 템플릿 규격의 Markdown 파일로 분할-조립하여 저장합니다.
+Languages
+[22] (761,49)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/wonseokjung/connect-ai/search?l=typescript' />
+	[23] (757,49)<span >TypeScript />
+	[24] (789,49)<span >98.4% />
+[25] (841,49)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/wonseokjung/connect-ai/search?l=html' />
+	[26] (839,49)<span >HTML />
+	[27] (861,49)<span >1.6% />
+
+</current_dom>

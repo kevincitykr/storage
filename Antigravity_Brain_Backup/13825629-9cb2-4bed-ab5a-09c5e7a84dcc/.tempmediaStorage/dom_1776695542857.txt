@@ -1,0 +1,13 @@
+회원 전용 콘텐츠
+이 채널에 가입하여 다음 동영상과 같은 회원 전용 콘텐츠를 이용하고 더 많은 특별한 혜택을 누려보세요.
+[0] (19,31)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,31)<yt-icon  />
+[2] (484,31)<div  />
+	[3] (480,31)<form  />
+		[4] (480,31)<input class='ytSearchboxComponentInput yt-searchbox-input title' role='combobox' />
+	[5] (624,31)<div  />
+		[6] (624,31)<ytd-text-input-assistant  />
+			[7] (624,31)<button class='ytdTextInputAssistantButton' />
+				[8] (624,31)<img  />
+[9] (651,31)<button aria-label='Search' class='ytSearchboxComponentSearchButton' />
+	[10] (651,31)<span  />

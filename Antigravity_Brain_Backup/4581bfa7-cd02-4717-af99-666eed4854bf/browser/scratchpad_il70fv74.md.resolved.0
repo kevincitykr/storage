@@ -1,0 +1,11 @@
+# Task: Verify and Click Windly 'Domestic Consignment' (국내위탁판매) Button
+
+## Status
+- [ ] Check active page for Windly buttons
+- [ ] Traverse Shadow DOM if buttons are not visible in regular DOM
+- [ ] Attempt to click '국내위탁판매' button
+- [ ] Report result
+
+## Observations
+- Active Page: 6844FD9FF5EAFE348A81774035FDAA3F (아이스 7부 밴딩팬츠)
+- Other relevant pages: 892187463E6F22534232919E9A5DB169 (미니싸이클)

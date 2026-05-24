@@ -1,0 +1,126 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (349,23)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[1] (536,23)<button class='btn_search'>검색 />
+	검색
+[2] (581,23)<a class='btn_esti_02 btn_srch_reset' href='javascript:;' id='searchProductReset'>검색 초기화 />
+	[3] (562,23)<span  />
+B760M DDR5
+에 대한 검색결과입니다.
+[4] (201,148)<label >전체
+(135) />
+	(135)
+[5] (291,148)<label >메인보드
+(135) />
+	(135)
+[6] (202,380)<a >인기상품순 />
+[7] (261,380)<a >신상품순 />
+[8] (321,380)<a >낮은 가격순 />
+[9] (380,380)<a >높은 가격순 />
+[10] (439,380)<a >상품명순 />
+[11] (586,382)<button class='btn__search-detail' id='searchDetailButton'>결과 내 검색 />
+[12] (392,1066)<div class='scroll_box' scrollable='true' />
+	상품에 대한 품목 및 최저가에 대한 리스트입니다.
+	상품의견
+	비교
+	MSI MAG B760 토마호크 WIFI
+	인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / ATX (30.5x24.4cm) / 전원부:14페이즈 / 페이즈당75A / Vcore출력합계:900A / [메모리] / 7000MHz (PC5-56000) / 4개 / 메모리 용량:최대 192GB / XMP3.0 / [확장슬롯] / PCIe버전:PCIe5.0;PCIe4.0;PCIe3.0 / PCIex16:1개 / PCIex16(at x4):1개 / PCIex1:1개 / [저장장치] / M.2:3개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe;SATA / [후면단자] / HDMI / DP / USB3.x 20Gbps / USB3.x 10Gbps / USB 2.0 / RJ-45 / S/PDIF / 오디오잭 / USB A타입:8개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek 8125BG / 2.5Gbps / RJ-45:1개 / Intel 계열 / 무선랜(Wi-Fi) / 블루투스 / 오디오 칩셋:Realtek ALC897 / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB3.0 헤더;USB2.0 헤더;USB3.1 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:5개 / [특징] / DrMOS / 전원부 방열판 / M.2 히트싱크 / UEFI
+	다나와유통
+	세이프업+
+	상품의견
+	238,700
+	원
+	담기
+	비교
+	MSI PRO B760M-A WIFI
+	인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe4.0 x16 / M-ATX (24.4x24.4cm) / 전원부:12+1+1페이즈 / [메모리] / 6800MHz (PC5-54400) / 4개 / XMP3.0 / [확장슬롯] / PCIe버전:PCIe4.0;PCIe3.0 / PCIex16:1개 / PCIex16(at x4):1개 / PCIex1:1개 / [저장장치] / M.2:2개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe;SATA / [후면단자] / HDMI / DP / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입:6개 / [랜/오디오] / 유선랜 칩셋:Realtek RTL8125BG / 2.5Gbps / RJ-45:1개 / Intel / 무선랜(Wi-Fi) / 블루투스 / 오디오 칩셋:Realtek ALC897 / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB3.0 헤더;USB2.0 헤더;USB3.0 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:2개 / I/O 헤더:TPM 헤더 / [특징] / 전원부 방열판 / UEFI
+	상품의견
+	160,390
+	원
+	담기
+	비교
+	MSI PRO B760M-P
+	인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe4.0 x16 / M-ATX (24.4x24.4cm) / 전원부:8페이즈 / [메모리] / 6800MHz (PC5-54400) / 4개 / 메모리 용량:최대 192GB / XMP / [확장슬롯] / PCIe버전:PCIe4.0 / PCIex16:1개 / PCIex1:2개 / [저장장치] / M.2:2개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / DP / D-SUB / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입:5개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek RTL8111H / 1Gbps / RJ-45:1개 / 오디오 칩셋:Realtek ALC897 / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB3.0 헤더;USB2.0 헤더;RGB 12V 4핀 헤더 / 시스템팬 4핀:2개 / [특징] / M.2 히트싱크 / UEFI
+	상품의견
+	137,720
+	원
+	담기
+	비교
+	[13] (329,422)<a >GIGABYTE B760M AORUS ELITE GEN5 제이씨현 />
+	[14] (384,446)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / M-ATX (24.4x24.4cm) / 전원부:12+1+1페이즈 / 페이즈당60A / Vcore출력합계:720A / [메모리] / 5600MHz (PC4-44800) / 4개 / 메모리 용량:최대 256GB / XMP3.0 / [확장슬롯] / PCIe버전:PCIe5.0;PCIe4.0 / PCIex16:1개 / PCIex16(at x4):1개 / [저장장치] / M.2:2개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / DP / USB3.x 20Gbps / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / S/PDIF / 오디오잭 / USB A타입:8개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek / 2.5Gbps / RJ-45:1개 / 오디오 칩셋:Realtek ALC1220 / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:썬더볼트 헤더;USB3.0 헤더;USB2.0 헤더;USB3.1 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:3개 / I/O 헤더:TPM 헤더;프론트오디오AAFP 헤더 / [특징] / DrMOS / 전원부 방열판 / M.2 히트싱크 / 일체형IO실드 / LED라이트 / UEFI />
+	[15] (253,479)<a class='icon_style btn_review'>상품의견 />
+	180,350
+	원
+	[16] (578,471)<a class='btn_choice2 wishAction'>담기 />
+	[17] (187,534)<a class='btn_compare'>비교 />
+		비교
+	[18] (313,543)<a >ASUS TUF Gaming B760M-PLUS II 코잇 />
+	[19] (384,568)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / M-ATX (24.4x24.4cm) / 전원부:12+1+1페이즈 / 페이즈당50A / Vcore출력합계:600A / [메모리] / 7800MHz (PC5-62400) / 4개 / 메모리 용량:최대 192GB / XMP / [확장슬롯] / PCIe버전:PCIe5.0;PCIe4.0;PCIe3.0 / PCIex16:1개 / PCIex4:1개 / PCIex1:1개 / [저장장치] / M.2:3개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / DP / USB3.x 20Gbps / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / S/PDIF / 오디오잭 / USB A타입:7개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek / 2.5Gbps / RJ-45:1개 / 오디오 칩셋:Realtek / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:썬더볼트4 헤더;USB4 헤더;USB3.0 헤더;USB2.0 헤더;USB3.1 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더;CPU추가팬(OPT) 헤더;펌프전용 헤더 / 시스템팬 4핀:3개 / I/O 헤더:디버그LED;프론트오디오AAFP 헤더;침입감지 헤더 / [특징] / DrMOS / 전원부 방열판 / M.2 히트싱크 / UEFI />
+	[20] (257,601)<div class='ninety_help distribution' />
+		[21] (256,601)<span >다나와유통 />
+	[22] (295,601)<div class='ninety_help' />
+		[23] (294,601)<span >세이프업+ />
+	[24] (329,601)<a class='icon_style btn_review'>상품의견 />
+	178,160
+	원
+	[25] (578,593)<a class='btn_choice2 wishAction'>담기 />
+	[26] (187,656)<a class='btn_compare'>비교 />
+		비교
+	[27] (324,665)<a >ASUS ROG STRIX B760-G GAMING WIFI 코잇 />
+	[28] (384,690)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / M-ATX (24.4x24.4cm) / 전원부:12+1+1페이즈 / 페이즈당60A / Vcore출력합계:720A / [메모리] / 7800MHz (PC5-62400) / 4개 / 메모리 용량:최대 192GB / XMP / [확장슬롯] / PCIe버전:PCIe5.0;PCIe4.0 / PCIex16:1개 / PCIex16(at x4):1개 / PCIex1:2개 / [저장장치] / M.2:2개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / DP / USB3.x 20Gbps / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / BIOS플래시백 / USB A타입:7개 / USB C타입:2개 / [랜/오디오] / 유선랜 칩셋:Intel / 2.5Gbps / RJ-45:1개 / 무선랜(Wi-Fi) / 블루투스 / 오디오 칩셋:SupremeFX S1220A / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB4 헤더;USB3.0 헤더;USB2.0 헤더;USB3.1 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더;CPU추가팬(OPT) 헤더 / 시스템팬 4핀:2개 / I/O 헤더:디버그LED / [특징] / DrMOS / 전원부 방열판 / M.2 히트싱크 / LED라이트 / UEFI />
+	[29] (257,723)<div class='ninety_help distribution' />
+		[30] (256,723)<span >다나와유통 />
+	[31] (295,723)<div class='ninety_help' />
+		[32] (294,723)<span >세이프업+ />
+	[33] (329,723)<a class='icon_style btn_review'>상품의견 />
+	235,500
+	원
+	[34] (578,715)<a class='btn_choice2 wishAction'>담기 />
+	[35] (187,778)<a class='btn_compare'>비교 />
+		비교
+	[36] (300,787)<a >ASRock B760M Pro RS D5 에즈윈 />
+	[37] (384,812)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / M-ATX (24.4x24.4cm) / 전원부:7+1+1페이즈 / 페이즈당50A / Vcore출력합계:350A / [메모리] / 7200MHz (PC5-57600) / 4개 / 메모리 용량:최대 192GB / XMP3.0 / [확장슬롯] / PCIe버전:PCIe5.0;PCIe3.0 / PCIex16:1개 / PCIex16(at x4):1개 / CrossFire / [저장장치] / M.2:3개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / DP / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입:5개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek RTL8125BG / 2.5Gbps / RJ-45:1개 / M.2 Key-E(모듈별매) / 오디오 칩셋:Realtek ALC897 / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:썬더볼트4 헤더;USB3.0 헤더;USB2.0 헤더;USB3.0 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:4개 / I/O 헤더:TPM 헤더 / [특징] / DrMOS / 전원부 방열판 / M.2 히트싱크 / LED라이트 / UEFI />
+	[38] (257,845)<div class='ninety_help distribution' />
+		[39] (256,845)<span >다나와유통 />
+	[40] (295,845)<div class='ninety_help' />
+		[41] (294,845)<span >세이프업+ />
+	[42] (329,845)<a class='icon_style btn_review'>상품의견 />
+	152,480
+	원
+	[43] (578,836)<a class='btn_choice2 wishAction'>담기 />
+	[44] (187,900)<a class='btn_compare'>비교 />
+		비교
+	[45] (332,909)<a >GIGABYTE B760M AORUS ELITE GEN5 피씨디렉트 />
+	[46] (384,934)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / M-ATX (24.4x24.4cm) / 전원부:12+1+1페이즈 / 페이즈당60A / Vcore출력합계:720A / [메모리] / 5600MHz (PC5-44800) / 4개 / 메모리 용량:최대 256GB / XMP3.0 / [확장슬롯] / PCIe버전:PCIe5.0;PCIe4.0 / PCIex16:1개 / PCIex16(at x4):1개 / [저장장치] / M.2:2개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / DP / USB3.x 20Gbps / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / S/PDIF / 오디오잭 / USB A타입:8개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek / 2.5Gbps / RJ-45:1개 / 오디오 칩셋:Realtek ALC1220 / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:썬더볼트 헤더;USB3.0 헤더;USB2.0 헤더;USB3.1 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:3개 / I/O 헤더:TPM 헤더;프론트오디오AAFP 헤더 / [특징] / DrMOS / 전원부 방열판 / M.2 히트싱크 / 일체형IO실드 / LED라이트 / UEFI />
+	[47] (253,967)<a class='icon_style btn_review'>상품의견 />
+	186,970
+	원
+	[48] (578,958)<a class='btn_choice2 wishAction'>담기 />
+[49] (673,20)<a href='javascript:;'>현금 최저가 />
+[50] (776,20)<a href='javascript:;'>카드 최저가 />
+[51] (651,70)<a href='javascript:;' role='button'>견적카트 />
+[52] (741,70)<a class='btn__estimate-login checkLogin' href='javascript:;'>로그인하여 저장한 견적들을 확인해보세요. />
+[53] (724,784)<div class='pd_list_area' scrollable='true' />
+	사운드바
+	스피커
+	[54] (721,141)<a class='pd_item_title' href='#'>PC헤드셋 />
+	[55] (721,195)<a class='pd_item_title' href='#'>이어폰 />
+	[56] (721,250)<a class='pd_item_title' href='#'>공유기/무선랜 />
+	[57] (721,305)<a class='pd_item_title' href='#'>IP공유기/허브 />
+	[58] (721,360)<a class='pd_item_title' href='#'>프린터/복합기 />
+	[59] (721,415)<a class='pd_item_title' href='#'>컴퓨터 의자 />
+	[60] (721,470)<a class='pd_item_title' href='#'>케이블 />
+	[61] (721,525)<a class='pd_item_title' href='#'>컨트롤러 />
+	[62] (721,580)<a class='pd_item_title' href='#'>멀티탭 />
+	저장장치 및 멀티미디어
+	[63] (763,653)<a class='btn_close_cell' />
+	[64] (721,705)<a class='pd_item_title' href='#'>ODD />
+	[65] (721,760)<a class='pd_item_title' href='#'>외장HDD/SSD />
+	[66] (721,815)<a class='pd_item_title' href='#'>USB />
+	[67] (721,869)<a class='pd_item_title' href='#'>메모리카드/리더기 />
+	[68] (721,924)<a class='pd_item_title' href='#'>사운드카드 />
+	[69] (721,979)<a class='pd_item_title' href='#'>캡처보드/웹캠 />
+
+</current_dom>

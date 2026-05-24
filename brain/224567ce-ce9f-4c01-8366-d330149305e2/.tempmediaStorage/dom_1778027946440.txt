@@ -1,0 +1,42 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,52)<button class='Header--icon--3kXBo7u' role='link' />
+	[1] (150,52)<img  />
+[2] (850,52)<div  />
+	[3] (796,52)<img  />
+	[4] (860,52)<div >Download the AliExpress app />
+[5] (250,553)<div  />
+	[6] (250,105)<div class='slick-slide slick-active slick-current' />
+		[7] (250,553)<img  />
+		첫 주문 시 무료배송
+	고객님의 개인 정보 보호가 최우선입니다.
+[8] (109,826)<div  />
+	[9] (65,826)<button >1 />
+	[10] (94,826)<button >2 />
+	[11] (122,826)<button >3 />
+	[12] (151,826)<button >4 />
+[13] (750,553)<div class='_3xUy2' scrollable='true' />
+	등록/로그인
+	귀하의 정보는 안전하게 보관됩니다
+	[14] (736,351)<input aria-label='이메일 주소/휴대폰 번호' class='cosmos-input' />
+	이메일 주소/휴대폰 번호
+	계속하기
+	[15] (745,521)<button aria-label='비밀번호 또는 이메일 찾기'>비밀번호 또는 이메일 찾기 />
+	[16] (745,588)<label class='_3XmG8'>다음으로 로그인 />
+	[17] (745,673)<button aria-label='passkey' class='_1aswi' />
+		[18] (632,674)<a class='_1unVQ _277dh' />
+		[19] (745,674)<span >Passkey />
+	[20] (745,765)<button aria-label='google' class='_1aswi' />
+		[21] (632,766)<a class='_1unVQ _2vtTC' />
+		[22] (745,766)<span >google />
+	[23] (745,857)<button aria-label='kakao' class='_1aswi' />
+		[24] (632,858)<a class='_1unVQ _1vNAL' />
+		[25] (745,858)<span >kakao />
+	[26] (739,952)<span  />
+		[27] (739,952)<button >다른 방법 />
+	[28] (762,952)<button  />
+		[29] (762,949)<img  />
+
+</current_dom>

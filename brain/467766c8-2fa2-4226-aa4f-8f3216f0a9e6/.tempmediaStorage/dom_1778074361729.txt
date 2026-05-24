@@ -1,0 +1,111 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,76)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjJqLuS46SUAxWRLtAFHaK9GboQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,75)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,75)<div  />
+	[3] (561,75)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,75)<span  />
+	[5] (577,75)<span  />
+[6] (593,75)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,75)<span  />
+[8] (619,75)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,75)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,75)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,75)<div  />
+		[12] (670,75)<span  />
+[13] (911,75)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' />
+[14] (943,75)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,75)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dsite:daangn.com%2B%25EB%25AF%25B8%25EC%2582%25AC%2Bi7%2B4070%2B%25EB%25B3%25B8%25EC%25B2%25B2&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (156,164)<a class='XVMlrc C6AK7c' href='/search?q=site:daangn.com+%EB%AF%B8%EC%82%AC+i7+4070+%EB%B3%B8%EC%B2%B4&sca_esv=63ede5267938485e&sxsrf=ANbL-n7y55ljHMY5Rl0LRfUK_DhH1dTjmg:1778074354902&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hLydvryr-XXXVgiXVOl-7WGVKvy0QYz6-jDPD95DDL5g2xQZljCfJMSqUVop6DL8uKOsLWEzIPC9FbbzBaIKgC_0itqkaWX330POzTViXBg58leXH4&aep=1&ntc=1&sa=X&ved=2ahUKEwjJqLuS46SUAxWRLtAFHaK9GboQ2J8OegQIDxAD' />
+	[17] (156,164)<div  />
+		[18] (156,177)<div  />
+			[19] (156,169)<span  />
+				[20] (156,169)<span >AI 모드 />
+[21] (194,164)<a class='C6AK7c' role='link' />
+	전체
+[22] (226,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7y55ljHMY5Rl0LRfUK_DhH1dTjmg:1778074354902&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hLydvryr-XXXVgiXVOl-7WGVKvy0QYz6-jDPD95DDL5g2xQZljCfJMSqUVop6DL8uKOsLWEzIPC9FbbzBaIKgC_0itqkaWX330POzTViXBg58leXH4&q=site:daangn.com+%EB%AF%B8%EC%82%AC+i7+4070+%EB%B3%B8%EC%B2%B4&ved=1t:220175&ictx=111' />
+	[23] (226,164)<div  />
+		[24] (226,177)<span >쇼핑 />
+[25] (263,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7y55ljHMY5Rl0LRfUK_DhH1dTjmg:1778074354902&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hLydvryr-XXXVgiXVOl-7WGVKvy0QYz6-jDPD95DDL5g2xQZljCfJMSqUVop6DL8uKOsLWEzIPC9FbbzBaIKgC_0itqkaWX330POzTViXBg58leXH4&q=site:daangn.com+%EB%AF%B8%EC%82%AC+i7+4070+%EB%B3%B8%EC%B2%B4&sa=X&ved=2ahUKEwjJqLuS46SUAxWRLtAFHaK9GboQtKgLegQIFBAB' />
+	[26] (263,164)<div  />
+		[27] (263,177)<span >이미지 />
+[28] (304,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7y55ljHMY5Rl0LRfUK_DhH1dTjmg:1778074354902&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hLydvryr-XXXVgiXVOl-7WGVKvy0QYz6-jDPD95DDL5g2xQZljCfJMSqUVop6DL8uKOsLWEzIPC9FbbzBaIKgC_0itqkaWX330POzTViXBg58leXH4&q=site:daangn.com+%EB%AF%B8%EC%82%AC+i7+4070+%EB%B3%B8%EC%B2%B4&sa=X&ved=2ahUKEwjJqLuS46SUAxWRLtAFHaK9GboQtKgLegQIExAB' />
+	[29] (304,164)<div  />
+		[30] (304,177)<span >동영상 />
+[31] (354,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7y55ljHMY5Rl0LRfUK_DhH1dTjmg:1778074354902&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hLydvryr-XXXVgiXVOl-7WGVKvy0QYz6-jDPD95DDL5g2xQZljCfJMSqUVop6DL8uKOsLWEzIPC9FbbzBaIKgC_0itqkaWX330POzTViXBg58leXH4&q=site:daangn.com+%EB%AF%B8%EC%82%AC+i7+4070+%EB%B3%B8%EC%B2%B4&sa=X&ved=2ahUKEwjJqLuS46SUAxWRLtAFHaK9GboQs6gLegQIEhAB' />
+	[32] (354,164)<div  />
+		[33] (354,177)<span >짧은 동영상 />
+[34] (400,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7y55ljHMY5Rl0LRfUK_DhH1dTjmg:1778074354902&q=site:daangn.com+%EB%AF%B8%EC%82%AC+i7+4070+%EB%B3%B8%EC%B2%B4&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hLydvryr-XXXVgiXVOl-7WGVKvy0QYz6-jDPD95DDL5g2xQZljCfJMSqUVop6DL8uKOsLWEzIPC9FbbzBaIKgC_0itqkaWX330POzTViXBg58leXH4&sa=X&ved=2ahUKEwjJqLuS46SUAxWRLtAFHaK9GboQ0pQJegQIERAB' />
+	[35] (400,164)<div  />
+		[36] (400,177)<span >뉴스 />
+[37] (443,164)<div class='mTpL7c' role='button' />
+	[38] (443,164)<div  />
+		[39] (443,177)<div  />
+			[40] (437,169)<span >더보기 />
+			[41] (455,169)<span  />
+[42] (491,164)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[43] (491,164)<div  />
+		[44] (491,177)<div  />
+			[45] (485,169)<span >도구 />
+			[46] (499,169)<span  />
+검색결과
+다음에 대한 검색 결과 표시 중
+[47] (380,258)<a href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7y55ljHMY5Rl0LRfUK_DhH1dTjmg:1778074354902&q=site:daangn.com+%EB%AF%B8%EC%82%AC+i7+4070+%EB%B3%B8%EC%B2%B4&spell=1&sa=X&ved=2ahUKEwjJqLuS46SUAxWRLtAFHaK9GboQkeECKAB6BAgOEAE' id='fprsl' role='button'>site:daangn.com 미사 i7 4070 />
+	[48] (457,258)<em >본체 />
+처음에 검색한 결과
+[49] (296,294)<a href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7y55ljHMY5Rl0LRfUK_DhH1dTjmg:1778074354902&q=site:daangn.com+%EB%AF%B8%EC%82%AC+i7+4070+%EB%B3%B8%EC%B2%B2&nfpr=1&sa=X&ved=2ahUKEwjJqLuS46SUAxWRLtAFHaK9GboQvgUoAXoECA4QAg' role='button'>site:daangn.com 미사 i7 4070 본첲 />
+웹 검색결과
+[50] (301,384)<a class='zReHs' href='https://www.daangn.com/kr/buy-sell/%ED%99%94%EC%9D%B4%ED%8A%B8-%EA%B0%90%EC%84%B1-pc-%EB%B3%B8%EC%B2%B4-i7-13700f-rtx-4070-sie8nqizs7vt/' />
+	[51] (301,412)<h3 >화이트 감성 PC 본체 (i7-13700F, RTX 4070) | 디지털기기 />
+	[52] (247,361)<div  />
+		[53] (247,361)<div  />
+			[54] (151,361)<span  />
+				[55] (151,361)<div  />
+					[56] (151,361)<img  />
+			[57] (260,361)<div  />
+				[58] (260,348)<div  />
+					[59] (260,348)<span >당근 />
+				[60] (260,375)<div  />
+					[61] (260,375)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[62] (302,374)<span class='ylgVCe ob9lvb' role='text'>› buy-sell › 화이트-감성-pc-... />
+[63] (365,374)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[64] (365,374)<span  />
+		[65] (365,375)<span  />
+5일 전
+—
+23년 6월 구매 제품입니다 -
+CPU: Intel i7-13700F
+- RAM: 16GB - SSD: Samsung SSD 980 500GB - 그래픽카드: MSI RTX 4070 전반적으로 상태 좋습니다 ...
+₩1,600,000
+·
+재고 있음
+[66] (283,627)<a class='zReHs' href='https://www.daangn.com/kr/buy-sell/%EC%BB%A4%EC%8A%A4%ED%85%80-pc-%EB%B3%B8%EC%B2%B4-i7-13700k-rtx-4070%EA%B3%A0%EC%84%B1%EB%8A%A5%EC%BB%B4%ED%93%A8%ED%84%B0-7av4eixfeify/' />
+	[67] (283,655)<h3 >커스텀 PC 본체 i7-13700K RTX 4070고성능컴퓨터 />
+	[68] (248,604)<div  />
+		[69] (248,604)<div  />
+			[70] (151,604)<span  />
+				[71] (151,604)<div  />
+					[72] (151,604)<img  />
+			[73] (261,604)<div  />
+				[74] (261,591)<div  />
+					[75] (261,591)<span >당근 />
+				[76] (261,618)<div  />
+					[77] (261,618)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[78] (303,617)<span class='ylgVCe ob9lvb' role='text'>› buy-sell › 커스텀-pc-본체-i... />
+[79] (367,617)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[80] (367,617)<span  />
+		[81] (367,618)<span  />
+2026. 3. 12.
+—
+커스텀 PC 본체 i7-13700K RTX 4070고성능컴퓨터
+. 디지털기기 · 8시간 후. 1,300,000원. 커스텀 PC 본체입니다 사양: - Z790 AORUS ELITE 메인보드 ...
+₩1,300,000
+이미지
+
+</current_dom>

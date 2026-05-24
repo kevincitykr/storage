@@ -1,0 +1,165 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+최근 검색어
+[3] (587,154)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[4] (587,154)<span >전체삭제 />
+	[5] (587,166)<div  />
+[6] (333,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[7] (333,227)<span >14700K ... />
+[8] (418,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[9] (418,227)<span >13700F ... />
+최근 가게 검색어
+최근 검색 내역이 없습니다.
+11
+.
+노트북
+12
+.
+4080 super
+13
+.
+5070ti
+14
+.
+레고 커스텀
+15
+.
+스위치 oled
+[10] (666,69)<a href='/search/14700K%204070?openChat=true' />
+	[11] (666,69)<div  />
+		[12] (649,69)<div  />
+			[13] (649,69)<img  />
+		[14] (675,69)<span >채팅하기 />
+[15] (732,69)<a href='/product/form?type=regist' />
+	[16] (732,69)<div  />
+		[17] (715,69)<div  />
+			[18] (715,69)<img  />
+		[19] (741,69)<span >판매하기 />
+[20] (790,69)<a href='/mystore' />
+	[21] (790,69)<div  />
+		[22] (781,69)<div  />
+			[23] (781,69)<img  />
+		[24] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[25] (904,329)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[26] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[27] (886,369)<img  />
+검색 상품 가격 요약
+평균 가격
+2,871,428원
+가장 높은 가격
+4,999,999원
+가장 낮은 가격
+1,900,000원
+[28] (664,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[29] (664,342)<span >추천순 />
+[30] (701,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[31] (701,342)<span >최신순 />
+[32] (746,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[33] (746,342)<span >낮은가격순 />
+[34] (799,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[35] (799,342)<span >높은가격순 />
+[36] (239,630)<div  />
+	[37] (239,606)<a class='w-full' href='/product/225434907' />
+		[38] (239,606)<div  />
+			[39] (239,529)<div  />
+				[40] (239,529)<div  />
+			[41] (239,744)<div  />
+				[42] (239,726)<div  />
+					[43] (239,706)<span >인텔 14700k 64g 1tb 4070 12g 게임 및 영상편집 pc 판매합니다 />
+					[44] (239,756)<div  />
+						[45] (239,756)<div  />
+							[46] (209,756)<span >2,800,000 />
+							[47] (243,757)<span >원 />
+				[48] (239,799)<div  />
+					[49] (239,799)<div  />
+						[50] (188,799)<div  />
+							[51] (188,799)<div  />
+								[52] (193,799)<span >2 />
+[53] (369,744)<div  />
+	[54] (369,726)<div  />
+		[55] (369,706)<span >14700k rtx 4070super 게이밍 컴퓨터 본체 />
+		[56] (369,756)<div  />
+			[57] (369,756)<div  />
+				[58] (340,756)<span >2,200,000 />
+				[59] (374,757)<span >원 />
+	[60] (369,799)<div  />
+		[61] (369,799)<div  />
+			[62] (318,799)<div  />
+				[63] (318,799)<div  />
+					[64] (324,799)<span >2 />
+			[65] (331,799)<div  />
+			[66] (350,799)<span >8시간 전 />
+[67] (500,743)<div  />
+	[68] (500,726)<div  />
+		[69] (500,706)<span >HP 2024 오멘 슬림 16 코어i7 인텔 14세대 지포스 RTX 4060 />
+		[70] (500,756)<div  />
+			[71] (500,756)<div  />
+				[72] (470,756)<span >1,969,000 />
+				[73] (503,757)<span >원 />
+	[74] (500,798)<div  />
+		[75] (500,798)<span >광고 |
+쿠팡 />
+[76] (631,630)<div  />
+	[77] (631,606)<a class='w-full' href='/product/228185217' />
+		[78] (631,606)<div  />
+			[79] (631,529)<div  />
+				[80] (631,529)<div  />
+				[81] (677,631)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[82] (631,744)<div  />
+				[83] (631,726)<div  />
+					[84] (631,706)<span >[14700K/4070S/P41 4TB/64GB/Z790eliteAX] 본체 데스크탑 컴퓨터 PC 게이밍 영상편집 />
+					[85] (631,756)<div  />
+						[86] (631,756)<div  />
+							[87] (601,756)<span >2,750,000 />
+							[88] (634,757)<span >원 />
+				[89] (631,799)<div  />
+					[90] (631,799)<div  />
+						[91] (580,799)<div  />
+							[92] (580,799)<div  />
+								[93] (585,799)<span >2 />
+						[94] (592,799)<div  />
+						[95] (613,799)<span >16시간 전 />
+[96] (761,630)<div  />
+	[97] (761,630)<a class='w-full' href='/product/228145169' />
+		[98] (761,630)<div  />
+			[99] (761,529)<div  />
+				[100] (761,529)<div  />
+				[101] (807,631)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[102] (761,769)<div  />
+				[103] (761,726)<div  />
+					[104] (761,706)<span >RTX 4070 Ti SUPER /i7-14700k고사양 게이밍 컴퓨터 />
+					[105] (761,756)<div  />
+						[106] (761,756)<div  />
+							[107] (731,756)<span >1,900,000 />
+							[108] (764,757)<span >원 />
+				[109] (761,824)<div  />
+					[110] (761,799)<div  />
+						[111] (720,799)<div  />
+							[112] (711,799)<div  />
+								[113] (716,799)<span >6 />
+							[114] (730,799)<div  />
+								[115] (736,799)<span >6 />
+						[116] (743,799)<div  />
+						[117] (757,799)<span >1일 전 />
+					[118] (761,845)<div  />
+						[119] (718,845)<div  />
+							[120] (718,845)<span >무료배송 />
+[121] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[122] (854,907)<div  />
+		[123] (903,907)<div  />
+[124] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[125] (902,799)<span  />
+
+</current_dom>

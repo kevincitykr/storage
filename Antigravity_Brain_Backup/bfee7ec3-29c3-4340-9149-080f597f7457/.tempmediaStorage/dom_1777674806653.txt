@@ -1,0 +1,241 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (40,41)<div  />
+		[2] (29,41)<div  />
+			[3] (29,40)<button class='normal css-1rv5af9 e2kkri01' />
+				[4] (29,40)<span  />
+		[5] (60,41)<div >해구대 />
+			해구대
+	[6] (67,469)<div class='e1sk302d6 e1gzd8jw0 css-1f7d5cm ex82sv80' scrollable='true' />
+		[7] (65,94)<div  />
+			[8] (65,93)<a href='https://global.windly.cc/view3/main' />
+				[9] (65,93)<div  />
+					[10] (65,93)<div  />
+						[11] (15,93)<div  />
+						[12] (26,93)<div >홈 />
+							홈
+		[13] (65,244)<div  />
+			[14] (65,156)<div  />
+				[15] (41,156)<div  />
+					[16] (41,156)<div  />
+						[17] (48,156)<div >상품 수집 및 검색 />
+							상품 수집 및 검색
+			[18] (65,202)<div  />
+				[19] (65,202)<a href='https://global.windly.cc/view3/product-import' />
+					[20] (65,202)<div  />
+						[21] (65,202)<div  />
+							[22] (43,202)<div >상품 수집 />
+								상품 수집
+			[23] (65,246)<a href='https://global.windly.cc/view3/global-sourcing' />
+				[24] (65,246)<div  />
+					[25] (65,246)<div  />
+						[26] (57,246)<div >AI 전세계 상품 수집 />
+							AI 전세계 상품 수집
+			[27] (65,290)<div  />
+				[28] (65,290)<a href='https://global.windly.cc/view3/search-product' />
+					[29] (65,290)<div  />
+						[30] (65,290)<div  />
+							[31] (52,290)<div >1688 상품 검색 />
+								1688 상품 검색
+			[32] (65,334)<div  />
+				[33] (65,334)<a href='https://global.windly.cc/view3/recommended-product' />
+					[34] (65,334)<div  />
+						[35] (65,334)<div  />
+							[36] (62,334)<div >인기 상품 추천 />
+								인기 상품 추천
+								[37] (84,334)<div >New />
+									New
+		[38] (65,463)<div  />
+			[39] (65,396)<div  />
+				[40] (30,396)<div  />
+					[41] (30,396)<div  />
+						[42] (36,396)<div >상품 관리 />
+							상품 관리
+			[43] (65,442)<a class='active' href='/view2/interested-product' />
+				[44] (65,442)<div  />
+					[45] (65,442)<div  />
+						[46] (42,442)<div >수집상품 />
+							수집상품
+			[47] (65,486)<a href='/view2/registered-product' />
+				[48] (65,486)<div  />
+					[49] (65,486)<div  />
+						[50] (42,486)<div >등록상품 />
+							등록상품
+			[51] (65,530)<div  />
+				[52] (65,530)<a href='https://global.windly.cc/view3/stock-sync' />
+					[53] (65,530)<div  />
+						[54] (65,530)<div  />
+							[55] (49,530)<div >재고 업데이트 />
+								재고 업데이트
+		[56] (65,637)<div  />
+			[57] (65,593)<div  />
+				[58] (30,593)<div  />
+					[59] (30,593)<div  />
+						[60] (36,593)<div >상품 분석 />
+							상품 분석
+			[61] (65,639)<a href='https://global.windly.cc/view3/keyword-rank' />
+				[62] (65,639)<div  />
+					[63] (65,639)<div  />
+						[64] (50,639)<div >상품 순위 분석 />
+							상품 순위 분석
+			[65] (65,683)<div  />
+				[66] (65,683)<a href='/view2/inflow-analysis' />
+					[67] (65,683)<div  />
+						[68] (65,683)<div  />
+							[69] (46,683)<div >유입수 분석 />
+								유입수 분석
+		[70] (65,856)<div  />
+			[71] (65,745)<div  />
+				[72] (33,745)<div  />
+					[73] (33,745)<div  />
+						[74] (40,745)<div >판매 관리 />
+							판매 관리
+							[75] (54,738)<div  />
+			[76] (65,791)<div  />
+				[77] (65,791)<a href='https://global.windly.cc/view3/order-management?orderStatus=ACCEPT' />
+					[78] (65,791)<div  />
+						[79] (65,791)<div  />
+							[80] (43,791)<div >주문 관리 />
+								주문 관리
+								[81] (59,785)<div  />
+			[82] (65,835)<div  />
+				[83] (65,835)<a href='https://global.windly.cc/view3/customer-support' />
+					[84] (65,835)<div  />
+						[85] (65,835)<div  />
+							[86] (43,835)<div >문의 관리 />
+								문의 관리
+								[87] (59,829)<div  />
+			취소/교환/반품 관리
+			배송대행지
+			통관고유부호 조회
+	[88] (67,907)<button class='css-13zuw62 e14cppar4' />
+		실시간 삭제
+	[89] (67,969)<div >플랜 결제하기 />
+		플랜 결제하기
+	[90] (138,500)<div  />
+		[91] (133,59)<button class='normal css-1rv5af9 e2kkri01' />
+			[92] (133,59)<span  />
+	[93] (948,940)<div >문의 />
+		문의
+	[94] (165,31)<button class='normal css-1rv5af9 e2kkri01' />
+		[95] (165,31)<span  />
+	상품코드 235462520
+	[96] (707,31)<div  />
+		[97] (706,31)<div  />
+			[98] (701,31)<span >AI 비서 윈비 />
+			[99] (726,31)<div  />
+	[100] (777,31)<div  />
+		[101] (777,31)<div >업로드 마켓 />
+			업로드 마켓
+			[102] (795,31)<div >2 />
+	[103] (823,31)<div  />
+		[104] (823,31)<button class='secondary css-1omn4pn e2kkri01' />
+			[105] (823,31)<span  />
+	[106] (846,31)<div  />
+		[107] (846,31)<button class='secondary css-1c3erwm e2kkri01' />
+			[108] (846,31)<span  />
+	[109] (869,31)<div  />
+		[110] (869,31)<button class='secondary css-1c3erwm e2kkri01' />
+			[111] (869,31)<span  />
+	[112] (896,31)<div  />
+		[113] (896,31)<button class='secondary image-multi-translate css-1c3erwm e2kkri01' />
+			[114] (896,31)<span  />
+	[115] (919,31)<div  />
+		[116] (919,31)<button class='secondary css-1c3erwm e2kkri01' />
+			[117] (919,31)<span  />
+	[118] (942,31)<div  />
+		[119] (942,31)<button class='secondary css-1c3erwm e2kkri01' />
+			[120] (942,31)<span  />
+	[121] (969,31)<div  />
+		[122] (969,31)<button class='secondary css-psiqzn e2kkri01' />
+			[123] (969,31)<span  />
+	[124] (241,97)<button class='normal e1wroz0r2 css-105eahe e2kkri01' />
+		[125] (241,99)<span >기본 정보 />
+	[126] (279,97)<button class='normal e1wroz0r2 css-kb329g e2kkri01' />
+		[127] (279,99)<span >이미지 />
+	[128] (310,97)<button class='normal e1wroz0r2 css-kb329g e2kkri01' />
+		[129] (310,99)<span >옵션 />
+	[130] (340,97)<button class='normal e1wroz0r2 css-kb329g e2kkri01' />
+		[131] (340,99)<span >판매가 />
+	[132] (379,97)<button class='normal e1wroz0r2 css-kb329g e2kkri01' />
+		[133] (379,99)<span >상품 속성 />
+	[134] (425,97)<button class='normal e1wroz0r2 css-kb329g e2kkri01' />
+		[135] (425,99)<span >상세페이지 />
+	[136] (474,97)<button class='normal e1wroz0r2 css-kb329g e2kkri01' />
+		[137] (474,99)<span >업로드 설정 />
+	실시간 상품 에러체크
+	[138] (901,97)<div  />
+		[139] (901,97)<label class='css-4g6ai3 ep94o7g2' />
+			[140] (901,97)<div  />
+				[141] (901,97)<div  />
+	[142] (567,561)<div class='erkl3ow4 e1gzd8jw0 css-1eir9fu ex82sv80' scrollable='true' />
+		상품 수집 시 윈들리 AI가 상품명, 옵션명, 태그를 자동 추천할 수 있어요. 자동 추천을 켜고 싶다면 자세한 사항은
+		[143] (571,159)<a class='css-2n2489 e111dmxs0' href='https://guide.windly.cc/ai-rec-settings'>사용 가이드 />
+			사용 가이드
+		를 참고해주세요.
+		[144] (901,160)<div  />
+		상품명
+		[145] (595,263)<div  />
+			[146] (595,263)<button class='normal css-mylvdg e2kkri01' />
+				[147] (595,263)<span >AI 상품명 추천 />
+		[148] (679,263)<div  />
+			[149] (679,263)<button class='normal css-mylvdg e2kkri01' />
+				[150] (679,263)<span >AI 상품 리스크 진단 />
+		[151] (781,263)<button class='normal css-mylvdg e2kkri01' />
+			[152] (781,263)<span >원본 상품명으로 초기화 />
+		[153] (862,263)<button class='normal css-mylvdg e2kkri01' />
+			[154] (862,263)<span >상품명 키워드 추천 />
+		원본 상품명
+		연세우유 더클래식 멸균우유 180ml 24팩+저당 검은콩&고칼슘 두유 190ml 24팩
+		스마트스토어 (기본 상품명)
+		[155] (614,405)<input class='e15wt8t02 css-1wofsx4 e7pwzwn2' />
+		48
+		/
+		100
+		쿠팡
+		[156] (614,486)<input class='css-23fa9p e7pwzwn2' />
+		48
+		/
+		100
+		상품 카테고리
+		[157] (644,556)<button class='normal css-mylvdg e2kkri01' />
+			[158] (644,556)<span >AI 카테고리 추천 />
+		[159] (723,556)<button class='normal css-mylvdg e2kkri01' />
+			[160] (723,556)<span >카테고리/태그 검색 />
+		[161] (796,556)<button class='normal css-mylvdg e2kkri01' />
+			[162] (796,556)<span >카테고리 복사 />
+		[163] (862,556)<button class='normal css-mylvdg e2kkri01' />
+			[164] (862,556)<span >카테고리 붙여넣기 />
+		스마트스토어 카테고리
+		쿠팡 카테고리
+		상품 태그
+		[165] (764,789)<button class='normal css-mylvdg e2kkri01' />
+			[166] (764,789)<span >AI 태그 추천 />
+		[167] (823,789)<div  />
+			[168] (823,789)<button class='normal css-mylvdg e2kkri01' />
+				[169] (823,789)<span >태그 검색 />
+		[170] (875,789)<div  />
+			태그 삭제
+		스마트스토어 상품 태그 0/10
+		[171] (434,832)<div  />
+		[172] (618,871)<input class='css-23fa9p e7pwzwn2' placeholder='태그 작성 후 엔터(Enter) 키로 입력하세요' />
+		[173] (887,871)<div  />
+			[174] (887,871)<button class='css-1tfibyr e189aj9n0' />
+		쿠팡 상품 태그 0/20
+		[175] (412,914)<div  />
+		[176] (618,952)<input class='css-23fa9p e7pwzwn2' placeholder='태그 작성 후 엔터(Enter) 키로 입력하세요' />
+		[177] (887,952)<div  />
+			[178] (887,952)<button class='css-1tfibyr e189aj9n0' />
+[179] (789,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[180] (789,875)<span >홈 />
+[181] (862,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[182] (862,851)<div  />
+		[183] (868,839)<div  />
+	[184] (862,876)<span >대화 />
+[185] (935,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[186] (935,875)<span >설정 />
+
+</current_dom>

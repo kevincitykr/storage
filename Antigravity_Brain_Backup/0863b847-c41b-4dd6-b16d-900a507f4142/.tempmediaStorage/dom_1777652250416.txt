@@ -1,0 +1,62 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+메모리
+무료배송
+행사제품보기
+총
+0
+건
+[0] (328,119)<input id='SearchKeyword' />
+[1] (378,120)<a href='javascript:search_keyword();' />
+[2] (440,119)<select  />
+해당 필터로 검색된 상품이 없습니다.
+다른 필터로 다시 검색해주세요
+총 견적금액
+832,150
+원
+[3] (532,119)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[4] (558,119)<input  />
+[5] (584,119)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[6] (640,119)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[7] (640,120)<span >전체수량변경 />
+[8] (541,216)<label  />
+	[9] (525,214)<span  />
+		[10] (525,215)<input  />
+	[11] (548,214)<span >전체선택 />
+[12] (690,214)<a class='wbtn' href='javascript:add_wish_list();' />
+	[13] (690,215)<span >관심상품추가 />
+[14] (745,214)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[15] (745,215)<span >장바구니담기 />
+[16] (797,214)<a class='wbtn' />
+	[17] (797,215)<span >견적서출력 />
+[18] (848,214)<a class='wbtn' href='javascript:speck_form();' />
+	[19] (848,215)<span >사양검토요청 />
+[20] (893,214)<a class='wbtn' href='javascript:sess_init();' />
+	[21] (893,215)<span >초기화 />
+[22] (526,294)<label  />
+	[23] (526,293)<span  />
+		[24] (525,295)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[25] (556,293)<span >인텔 병행수입 />
+[26] (624,338)<a class='proname' href='javascript:detail_show('1082818')'>[INTEL] [병행] 코어 i7-14700K (14세대/ 랩터레이크 리프레시/ 3.4GHz) [벌크/쿨러 미포함] />
+판매가격
+658,000
+[27] (832,320)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[28] (852,320)<input class='change__ea' id='Amount_1082818' />
+[29] (873,320)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[30] (895,320)<span class='delete' />
+[31] (526,421)<label  />
+	[32] (526,419)<span  />
+		[33] (525,422)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[34] (558,419)<span >인텔 소켓 1700 />
+[35] (624,454)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[36] (669,455)<i  />
+판매가격
+174,150
+[37] (832,436)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[38] (852,436)<input class='change__ea' id='Amount_1118926' />
+[39] (873,436)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[40] (895,436)<span class='delete' />
+
+</current_dom>

@@ -1,0 +1,72 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+가격대
+[0] (200,83)<input  />
+원 ~
+[1] (395,83)<input  />
+원
+최소구매수량
+[2] (200,147)<input  />
+개 ~
+[3] (395,147)<input  />
+개
+[4] (621,29)<button class='radio' />
+[5] (679,27)<label >원산지 전체 />
+[6] (735,29)<button class='radio' />
+[7] (794,27)<label >국산/국내산 />
+[8] (850,29)<button class='radio' />
+[9] (908,27)<label >국외산 />
+[10] (621,118)<button class='radio' />
+[11] (679,117)<label >배송 전체 />
+[12] (735,118)<button class='radio' />
+[13] (794,117)<label >국내배송 />
+[14] (850,118)<button class='radio' />
+[15] (908,117)<label >해외배송 />
+[16] (619,210)<button class='checkbox' />
+[17] (677,206)<label >최저가인증 />
+[18] (732,210)<button class='checkbox' />
+[19] (789,206)<label >우수공급사 />
+[20] (845,210)<button class='checkbox' />
+[21] (902,206)<label >빠른배송 />
+[22] (210,306)<input id='lKwdInp' />
+[23] (448,379)<input class='submit' />
+[24] (579,379)<input class='init' id='lSerInit' />
+총
+869
+건이 검색되었습니다
+[25] (51,582)<a href='itemList.php?sfc=ttl&sf=ttl&sw=%BB%FE%BF%C0%B9%CC&image_file=&so=rd#lCnt'>도매꾹랭킹순 />
+[26] (103,584)<img alt='도매꾹 랭킹안내' title='도매꾹 랭킹안내' />
+[27] (169,582)<a href='itemList.php?sfc=ttl&sf=ttl&sw=%BB%FE%BF%C0%B9%CC&image_file=&so=sd#lCnt'>신규공급사순 />
+[28] (257,582)<a href='itemList.php?sfc=ttl&sf=ttl&sw=%BB%FE%BF%C0%B9%CC&image_file=&so=da#lCnt'>최근등록순 />
+[29] (339,582)<a href='itemList.php?sfc=ttl&sf=ttl&sw=%BB%FE%BF%C0%B9%CC&image_file=&so=ha#lCnt'>인기상품순 />
+[30] (421,582)<a href='itemList.php?sfc=ttl&sf=ttl&sw=%BB%FE%BF%C0%B9%CC&image_file=&so=aa#lCnt'>낮은가격순 />
+[31] (502,582)<a href='itemList.php?sfc=ttl&sf=ttl&sw=%BB%FE%BF%C0%B9%CC&image_file=&so=ad#lCnt'>높은가격순 />
+[32] (597,582)<a href='itemList.php?sfc=ttl&sf=ttl&sw=%BB%FE%BF%C0%B9%CC&image_file=&so=qa#lCnt'>적은판매단위순 />
+[33] (704,582)<a href='itemList.php?sfc=ttl&sf=ttl&sw=%BB%FE%BF%C0%B9%CC&image_file=&so=qd#lCnt'>많은판매단위순 />
+[34] (961,584)<div  />
+	[35] (953,584)<span >50개씩 보기 />
+[36] (853,582)<button title='리스트형'>리스트형 />
+[37] (885,582)<button title='갤러리형'>갤러리형 />
+포토포커스
+[38] (104,838)<a class='thumb' href='/48995055?from=lstGen' />
+	[39] (104,838)<img  />
+[해외]
+[40] (413,806)<a class='title' href='/48995055?from=lstGen'>샤오미 미지아 6세대 선풍기 써큘레이터 스마트 에어 선풍기 탁상 스탠드형 BPLDS06DM />
+83,500
+원
+낱개구매가능
+무료배송
+해외직배송
+흥정가능
+[41] (911,784)<a href='?sw=ws15763935566&sf=id'>싸요싸cheaper />
+(ws15763935566)
+8
+등급
+[42] (912,982)<button class='otherButton'>공급사의 />
+	[43] (927,980)<b >다른상품 />
+[44] (953,928)<div  />
+	[45] (953,928)<img  />
+
+</current_dom>

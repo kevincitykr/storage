@@ -1,0 +1,94 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (325,125)<a class='inline shrink-0' href='/search/%EB%98%90%EB%B4%87' />
+	[6] (325,125)<span >또봇 />
+		[7] (318,125)<span >16
+. />
+[8] (360,125)<a class='inline shrink-0' href='/search/%EA%B1%B4%EB%8B%B4' />
+	[9] (360,125)<span >건담 />
+		[10] (353,125)<span >17
+. />
+[11] (402,125)<a class='inline shrink-0' href='/search/%EB%B6%89%EC%9D%80%EC%82%AC%EB%A7%89' />
+	[12] (402,125)<span >붉은사막 />
+		[13] (389,125)<span >18
+. />
+[14] (452,125)<a class='inline shrink-0' href='/search/%EC%95%88%EC%8A%A4%EB%A6%AC%EC%9B%80' />
+	[15] (452,125)<span >안스리움 />
+		[16] (439,125)<span >19
+. />
+[17] (499,125)<a class='inline shrink-0' href='/search/%EC%84%B8%EC%9D%B4%EC%BD%94' />
+	[18] (499,125)<span >세이코 />
+		[19] (489,125)<span >20
+. />
+[20] (666,69)<a href='/product/226595875?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[37] (886,369)<img  />
+개인정보(거래정보)를 주고받는 행위는 사기에 노출
+될 수 있으므로 즉시
+중고나라로 신고
+해 주세요
+RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑 판매합니다. (윈도우 포함/모니터 별매)
+내용: 2024년 6월에 구매한 주연테크 리오나인 메쉬박스(CG337F47S) 화이트 모델입니다.
+단순 기본 모델이 아니라, 구매 시 비용을 더 들여서 풀업그레이드한 사양이라 바로 가져가서 쓰시기만 하면 됩니다.
+상세 사양:
+* CPU: 인텔 i7-13700F
+* 그래픽카드: NVIDIA RTX 4070 Super (웬만한 게임 풀옵션 가능)
+* RAM: DDR5 32GB (16GB+16GB 업그레이드 완료)
+* SSD: 1TB (기본에서 용량 업그레이드 완료)
+* OS: 윈도우 11 Home 정품 설치 (포맷 후 바로 사용 가능)
+* 색상: 깔끔한 화이트 메쉬 박스 디자인
+특이사항:
+* 실사용 기간이 짧아 상태 매우 깨끗합니다.
+* 정품 윈도우가 깔려 있어 초보자분들도 전원만 꽂으면 바로 사용 가능합니다.
+* 화이트 감성이라 인테리어용으로도 예뻐요.
+신뢰지수
+497
+1,000
+안심결제
+1
+거래후기
+1
+단골
+0
+[38] (589,357)<a href='/product/226595875' />
+	[39] (589,357)<div  />
+		[40] (589,299)<div  />
+			[41] (589,299)<div  />
+		[42] (589,462)<div  />
+			[43] (589,462)<div  />
+				[44] (589,442)<span >RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) />
+				[45] (589,492)<div  />
+					[46] (589,492)<div  />
+						[47] (573,492)<span >1,600,000 />
+						[48] (606,494)<span >원 />
+
+</current_dom>

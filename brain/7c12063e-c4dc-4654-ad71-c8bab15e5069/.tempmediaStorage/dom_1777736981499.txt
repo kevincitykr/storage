@@ -1,0 +1,71 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+CLASSIC VERSIONS
+Version 2.19 for windows® x86/x64
+AMD Ryzen AI 7/PRO 450G/E, AI 5/PRO 440G/E & 435G/E (Kraken Point 2).
+AMD Ryzen AI 9 HX 470.
+Fix AMD Ryzen 5 5500U (Lucienne) reported as 7350U (Cezanne).
+Preliminary support of Intel Wildcat Lake.
+CQDIMM (4-ranks CUDIMM) memory support.
+Fix DLL hijacking vulnerability thanks to Kwangyun Kem.
+New Chinese translation thanks to Shinjo Kurumi.
+setup • english
+32 and 64-bit version
+zip • english
+32 or 64-bit version
+setup • chinese
+32 and 64-bit version
+zip • chinese
+32 or 64-bit version
+CUSTOM VERSIONS
+Customized version for windows®
+Version 2.19
+ASUS ROG
+32 and 64-bit versions
+SETUP
+ZIP
+Gigabyte AORUS
+32 and 64-bit versions
+SETUP
+ZIP
+Gigabyte
+32 and 64-bit versions
+SETUP
+ZIP
+COOLER MASTER
+32 and 64-bit versions
+SETUP
+ZIP
+MSI Gaming
+32 and 64-bit versions
+SETUP
+ZIP
+Asrock Phantom
+32 and 64-bit versions
+SETUP
+ZIP
+Asrock Taichi
+32 and 64-bit versions
+SETUP
+ZIP
+LATEST VALIDATION
+DESKTOP-67HA53G
+May 02nd, 2026
+Reached 4311 MHz with a Intel Core i7 8700
+MB: Asus PRIME Z370-P - RAM: 16384MB Unknown
+DESKTOP-PC4QVG3
+May 02nd, 2026
+Reached 5000 MHz with a Intel Core i5 12600K
+MB: MSI MPG Z690 EDGE WIFI DDR4 (MS-7D31) - RAM: 32768MB G.Skill
+Anonymous
+May 02nd, 2026
+Reached 3168 MHz with a AMD Ryzen 5 Mobile 3500U
+MB: LENOVO LNVNB161216 - RAM: 20480MB Unknown
+285K2
+May 02nd, 2026
+Reached 5300 MHz with a Intel Core Ultra 9 285K
+MB: MSI PRO Z890-A WIFI (MS-7E32) - RAM: 65536MB Corsair
+
+</current_dom>

@@ -1,0 +1,141 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+최근 검색어
+[3] (587,154)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[4] (587,154)<span >전체삭제 />
+	[5] (587,166)<div  />
+[6] (333,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[7] (333,227)<span >13700F ... />
+최근 가게 검색어
+최근 검색 내역이 없습니다.
+6
+.
+ddr5 32gb
+7
+.
+안스리움
+8
+.
+전기자전거
+9
+.
+샤넬
+10
+.
+4080
+[8] (666,69)<a href='/search/13700F%204070?openChat=true' />
+	[9] (666,69)<div  />
+		[10] (649,69)<div  />
+			[11] (649,69)<img  />
+		[12] (675,69)<span >채팅하기 />
+[13] (732,69)<a href='/product/form?type=regist' />
+	[14] (732,69)<div  />
+		[15] (715,69)<div  />
+			[16] (715,69)<img  />
+		[17] (741,69)<span >판매하기 />
+[18] (790,69)<a href='/mystore' />
+	[19] (790,69)<div  />
+		[20] (781,69)<div  />
+			[21] (781,69)<img  />
+		[22] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+선택한 필터
+전체
+판매완료 상품 제외
+초기화
+검색 상품 가격 요약
+평균 가격
+1,700,000원
+가장 높은 가격
+1,800,000원
+가장 낮은 가격
+1,600,000원
+[23] (664,486)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[24] (664,486)<span >추천순 />
+[25] (701,486)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[26] (701,486)<span >최신순 />
+[27] (746,486)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[28] (746,486)<span >낮은가격순 />
+[29] (799,486)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[30] (799,486)<span >높은가격순 />
+[31] (239,774)<div  />
+	[32] (239,774)<a class='w-full' href='/product/226595875' />
+		[33] (239,774)<div  />
+			[34] (239,673)<div  />
+				[35] (239,673)<div  />
+				[36] (284,775)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[37] (239,913)<div  />
+				[38] (239,870)<div  />
+					[39] (239,849)<span >RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) />
+					[40] (239,900)<div  />
+						[41] (239,900)<div  />
+							[42] (208,900)<span >1,600,000 />
+							[43] (241,901)<span >원 />
+				[44] (239,967)<div  />
+					[45] (239,943)<div  />
+						[46] (197,943)<div  />
+							[47] (188,943)<div  />
+								[48] (193,943)<span >9 />
+							[49] (207,943)<div  />
+								[50] (213,943)<span >7 />
+					[51] (239,989)<div  />
+						[52] (195,989)<div  />
+							[53] (195,989)<span >무료배송 />
+[54] (369,774)<div  />
+	[55] (369,774)<a class='w-full' href='/product/223868233' />
+		[56] (369,774)<div  />
+			[57] (369,673)<div  />
+				[58] (369,673)<div  />
+				[59] (415,775)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[60] (369,913)<div  />
+				[61] (369,870)<div  />
+					[62] (369,849)<span >[PC] 주연테크 리오나인터보 CG237F47T i7-13700F RTX4070Ti 게이밍PC />
+					[63] (369,900)<div  />
+						[64] (369,900)<div  />
+							[65] (339,900)<span >1,800,000 />
+							[66] (372,901)<span >원 />
+				[67] (369,967)<div  />
+					[68] (369,943)<div  />
+						[69] (328,943)<div  />
+							[70] (319,943)<div  />
+								[71] (324,943)<span >3 />
+							[72] (337,943)<div  />
+								[73] (343,943)<span >1 />
+						[74] (349,943)<div  />
+						[75] (366,943)<span >10일 전 />
+					[76] (369,989)<div  />
+						[77] (325,989)<div  />
+							[78] (325,989)<span >무료배송 />
+[79] (500,774)<div  />
+	[80] (500,748)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=8501160855&itemId=24608820937&vendorItemId=92610184402&traceid=V0-153-30e68e94cb3373ed&requestid=20260504053259263032589494&token=31850C%7CMIXED' />
+		[81] (500,748)<div  />
+			[82] (500,673)<div  />
+				[83] (500,673)<div  />
+			[84] (500,887)<div  />
+				[85] (500,870)<div  />
+					[86] (500,849)<span >게이밍컴퓨터 조립PC 데스크탑 본체 />
+					[87] (500,900)<div  />
+						[88] (500,900)<div  />
+							[89] (465,900)<span >546,000 />
+							[90] (494,901)<span >원 />
+				광고 |
+				쿠팡
+[91] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[92] (854,907)<div  />
+		[93] (903,907)<div  />
+[94] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[95] (902,799)<span  />
+
+</current_dom>

@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (64,46)<a href='../main/main.htm' />
+	[1] (64,46)<img  />
+[2] (266,46)<div class='search_bar' />
+	[3] (246,46)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (382,46)<button aria-label='검색' class='search28_3A' />
+[5] (813,46)<a class='satur_bnr coFF' href='../indepage/saturday_detail.htm'>토요일 컴퓨존 정상 영업 중 />
+	[6] (858,46)<i  />
+[7] (891,46)<a href='javascript:void(0);'>로그인 />
+[8] (930,46)<a href='../member/member_kind.htm'>회원가입 />
+[9] (972,46)<a href='javascript:void(0);'>상담센터 />
+[10] (26,121)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[11] (70,124)<a href='javascript:void(0);'>조립PC />
+[12] (104,124)<a href='javascript:void(0);'>견적 />
+[13] (122,226)<a href='../online/online_main.htm?bannerid=GNBBannerOnlineMain'>온라인 견적 />
+[14] (132,290)<a href='../estimate/choose.htm?bannerid=GNBBannerEstimate'>간편 조립PC 견적 />
+[15] (134,355)<a href='javascript:window.open('../estimate/estimate_server.htm?bannerid=GNBBannerEstimateServer');'>빠른 서버 견적내기 />
+[16] (245,298)<a href='../get_price/get_price.htm?bannerid=GNBBannerGetPrice' />
+	[17] (245,277)<span  />
+		[18] (245,277)<img  />
+	[19] (245,339)<p >맞춰줘! 가격 />
+[20] (330,298)<a href='../exc_event/discount_PC.htm' />
+	[21] (330,277)<span  />
+		[22] (330,277)<img  />
+	[23] (330,339)<p >깎아줘! PC />
+[24] (414,298)<a href='../cscenter/bulk_purchase.htm?bannerid=GNBBannerBulkPurchase' />
+	[25] (414,277)<span  />
+		[26] (414,277)<img  />
+	[27] (414,339)<p >대량구매 견적 />
+[28] (330,441)<a href='../event_zone/eventzone_view.htm?EventNo=49952' />
+	[29] (330,441)<p >간단한 클릭만으로 나만의 조립PC 구성하는 방법 />
+[30] (141,124)<a href='../hotsale/hotsale.htm?bannerid=GNBBannerHotsale'>파격할인 />
+[31] (187,124)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[32] (236,124)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[33] (280,124)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[34] (337,124)<a href='javascript:void(0);'>컴퓨존추천 />
+[35] (384,124)<a href='javascript:void(0);'>전용관 />
+[36] (421,124)<a href='javascript:void(0);'>매거진 />
+[37] (462,124)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[38] (500,124)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[39] (547,124)<a href='javascript:void(0);'>컴퓨존 라이브 />
+[40] (673,121)<div  />
+	[41] (606,121)<p >공식 />
+	[42] (677,121)<div  />
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+		[43] (677,121)<div >HP 브랜드스토어 />
+		LG gram & 브랜드스토어
+		Microsoft 브랜드스토어
+		AMD 브랜드스토어
+		Intel 브랜드스토어
+		RAZER 브랜드스토어
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+	[44] (744,121)<i  />
+[45] (909,106)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[46] (909,135)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[47] (938,129)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[48] (974,129)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[49] (37,504)<a class='small_rolling_prev left_rolling_prev' href='#' />
+[50] (50,504)<a class='small_rolling_next left_rolling_next' href='#' />
+[51] (44,392)<a href='../event_zone/eventzone_view.htm?EventNo=60913&bannerid=CateLeftWingRollingBanner' />
+	[52] (44,389)<img  />
+[53] (44,667)<a href='https://www.compuzone.co.kr/product/free_delivery.htm?bannerid=CateLeftWingFixBanner' />
+	[54] (44,665)<img  />
+[55] (44,896)<a href='https://www.compuzone.co.kr/exc_event/attendance_check.htm?bannerid=CateLeftWingFixBanner' />
+	[56] (44,894)<img  />
+[57] (961,713)<a href='javascript:void(0);' />
+	[58] (952,713)<span  />
+		[59] (952,713)<img  />
+	[60] (971,713)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+HP노트북
+마스터팩
+[61] (961,829)<a href='../event_zone/eventzone_view.htm?EventNo=60202&bannerid=QuickMenuRolling' />
+	[62] (961,829)<img  />
+	[63] (961,856)<p >Dell
+배민5만원 />
+[64] (944,900)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+3
+/
+5
+[65] (978,900)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[66] (946,947)<a href='javascript:void(0);' />
+	[67] (946,947)<img  />
+[68] (976,947)<a href='javascript:void(0);' />
+	[69] (976,947)<img  />
+[비밀링크] 쉿! 컴퓨존만 쓰던 제품 풉니다.
+행사기간 : 2026-04-22 ~ 2026-06-22
+
+</current_dom>

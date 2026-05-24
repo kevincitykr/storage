@@ -1,0 +1,329 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (23,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (23,40)<yt-icon  />
+		[2] (23,40)<span  />
+			[3] (23,40)<div  />
+[4] (76,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (76,40)<div  />
+		[6] (76,39)<ytd-logo  />
+			[7] (76,40)<yt-icon  />
+				[8] (77,40)<span  />
+					[9] (77,40)<div  />
+KR
+[10] (462,40)<div  />
+	[11] (457,40)<form  />
+		[12] (457,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (624,40)<div  />
+		[14] (624,40)<ytd-text-input-assistant  />
+			[15] (624,40)<button class='ytdTextInputAssistantButton' />
+				[16] (624,40)<img  />
+[17] (658,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (658,40)<span  />
+		[19] (658,40)<span  />
+			[20] (658,40)<div  />
+[21] (702,40)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (702,40)<yt-touch-feedback-shape  />
+		[23] (702,40)<div  />
+[24] (873,40)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (873,40)<yt-touch-feedback-shape  />
+		[26] (873,40)<div  />
+[27] (922,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (922,39)<yt-icon-badge-shape  />
+		[29] (922,40)<div  />
+			[30] (922,40)<div  />
+				[31] (922,40)<span  />
+					[32] (922,40)<span  />
+						[33] (922,40)<div  />
+[34] (960,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[35] (960,40)<yt-img-shadow  />
+		[36] (960,40)<img  />
+[37] (31,108)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[38] (65,108)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[39] (118,108)<div  />
+	[40] (118,108)<div  />
+		[41] (118,108)<div aria-label='0 분 20 초/25 분 15 초' class='ytp-time-contents' role='button' />
+			[42] (103,107)<span >0:20 />
+			[43] (116,107)<span >/ />
+			[44] (131,107)<span >25:15 />
+[45] (479,108)<button aria-label='자동재생 사용 중지' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[46] (479,108)<div  />
+		[47] (479,108)<div  />
+[48] (510,108)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[49] (510,125)<div  />
+[50] (541,108)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[51] (572,108)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[52] (604,108)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+[Melodist Seoul] 드라이브 갈 때 딱! 기분 전환 100% 보장 🚗
+[53] (27,248)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@MelodistSeoul' />
+	[54] (23,246)<yt-img-shadow  />
+		[55] (23,246)<img  />
+[56] (80,235)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@MelodistSeoul'>Melodist Seoul />
+구독자 34명
+[57] (148,248)<a aria-label='분석' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' href='/analytics#;fi=v-zA3X977Q_Vw' />
+	분석
+	[58] (148,248)<yt-touch-feedback-shape  />
+		[59] (148,248)<div  />
+[60] (205,248)<a aria-label='동영상 수정' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextEnableBackdropFilterExperiment' href='https://studio.youtube.com/video/zA3X977Q_Vw/edit' />
+	동영상 수정
+	[61] (205,248)<yt-touch-feedback-shape  />
+		[62] (205,248)<div  />
+[63] (310,248)<button aria-label='다른 사용자 1명과 함께 이 동영상에 좋아요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextSegmentedStart ytSpecButtonShapeNextEnableBackdropFilterExperiment'>1 />
+	1
+	[64] (310,248)<yt-touch-feedback-shape  />
+		[65] (310,248)<div  />
+[66] (348,248)<button aria-label='동영상에 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextSegmentedEnd ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[67] (348,248)<yt-touch-feedback-shape  />
+		[68] (348,248)<div  />
+[69] (396,248)<button aria-label='공유' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>공유 />
+	공유
+	[70] (396,248)<yt-touch-feedback-shape  />
+		[71] (396,248)<div  />
+[72] (477,248)<a aria-label='프로모션 만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' href='https://studio.youtube.com/channel/UC_V52QvV-3O-HIjON4Ck0jA/content/promotions?d=pcd&videoId=zA3X977Q_Vw&promotionEntryPoint=PROMOTION_ENTRY_POINT_VIDEO_WATCH_PAGE' />
+	프로모션 만들기
+	[73] (477,248)<yt-touch-feedback-shape  />
+		[74] (477,248)<div  />
+[75] (566,248)<button aria-label='질문하기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment'>질문하기 />
+	질문하기
+	[76] (566,248)<yt-touch-feedback-shape  />
+		[77] (566,248)<div  />
+[78] (618,248)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[79] (618,248)<yt-touch-feedback-shape  />
+		[80] (618,248)<div  />
+[81] (320,370)<div  />
+	[82] (320,370)<div  />
+		[83] (320,327)<ytd-watch-info-text  />
+			[84] (320,327)<div  />
+				[85] (136,327)<yt-formatted-string  />
+					[86] (41,327)<span >조회수 24회 />
+					[87] (67,327)<span  />
+					[88] (85,327)<span >1개월 전 />
+					[89] (104,327)<span  />
+					[90] (126,327)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/%EA%B0%90%EC%84%B1%ED%9E%99%ED%95%A9'>#감성힙합 />
+					[91] (146,327)<span  />
+					[92] (167,327)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/%EA%B0%90%EC%84%B1%EC%9D%8C%EC%95%85'>#감성음악 />
+					[93] (188,327)<span  />
+					[94] (221,327)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/hashtag/relaxingmusic'>#RelaxingMusic />
+		[95] (320,385)<ytd-text-inline-expander  />
+			[96] (320,385)<div >… />
+				[97] (50,356)<span  />
+					[98] (50,356)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/melodistseoul'>#MelodistSeoul />
+				[99] (83,356)<span  />
+				[100] (112,356)<span  />
+					[101] (112,356)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/%ED%94%8C%EB%A0%88%EC%9D%B4%EB%A6%AC%EC%8A%A4%ED%8A%B8'>#플레이리스트 />
+				[102] (141,356)<span  />
+				[103] (160,356)<span  />
+					[104] (160,356)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/playlist'>#Playlist />
+				[105] (178,356)<span  />
+				[106] (199,356)<span  />
+					[107] (199,356)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/%EA%B0%90%EC%84%B1%EC%9D%8C%EC%95%85'>#감성음악 />
+				[108] (220,356)<span  />
+				[109] (240,356)<span  />
+					[110] (240,356)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/hashtag/%EA%B0%90%EC%84%B1%ED%9E%99%ED%95%A9'>#감성힙합 />
+				드라이브 갈 때 딱! 기분 전환 100% 보장 🚗
+				[111] (183,413)<span  />
+				…
+			[112] (201,413)<tp-yt-paper-button class='button style-scope ytd-text-inline-expander' id='expand' role='button'>...더보기 />
+댓글
+2
+개
+[113] (107,496)<tp-yt-paper-menu-button class='style-scope yt-dropdown-menu' role='group' />
+	[114] (107,496)<div  />
+		[115] (107,496)<tp-yt-paper-button aria-label='댓글 정렬' class='dropdown-trigger style-scope yt-dropdown-menu' id='label' role='button' />
+			[116] (86,496)<yt-icon  />
+				[117] (86,496)<span  />
+					[118] (86,496)<div  />
+			[119] (117,496)<div >정렬 기준 />
+[120] (326,572)<div  />
+	[121] (55,569)<yt-formatted-string class='style-scope ytd-comment-simplebox-renderer' id='simplebox-placeholder' role='textbox'>댓글 추가... />
+[122] (22,665)<button aria-label='@MelodistSeoul' class='style-scope ytd-comment-view-model' id='author-thumbnail-button' />
+	[123] (22,662)<yt-img-shadow  />
+		[124] (22,662)<img  />
+@MelodistSeoul님이 고정함
+[125] (79,688)<a class='yt-simple-endpoint style-scope ytd-author-comment-badge-renderer' href='/@MelodistSeoul' id='name' />
+	[126] (79,688)<ytd-channel-name  />
+		[127] (79,688)<div  />
+			[128] (79,688)<div  />
+				[129] (79,688)<yt-formatted-string >@MelodistSeoul />
+[130] (127,688)<a class='yt-simple-endpoint style-scope ytd-comment-view-model' href='/watch?v=zA3X977Q_Vw&lc=Ugxxi6YuNdJf6B4J-s94AaABAg&pp=0gcJCSIANpG00pGi'>4주 전 />
+안녕하세요! Melodist Seoul 채널에 오신 것을 환영합니다.
+최신 고음질 봄맞이 플레이리스트와 함께 설레는 봄의 감성을 느껴보세요.
+저희의 음악이 마음에 드셨다면 '구독'과 '좋아요'로 응원 부탁드립니다. 
+여러분의 응원이 더 좋은 음악을 만드는 큰 힘이 됩니다!
+Welcome to Melodist Seoul!
+Experience the essence of spring with our latest high-fidelity playlist.
+If you enjoy the music, please SUBSCRIBE and LIKE to support our channel. 
+Your support keeps us going!
+[131] (66,843)<tp-yt-paper-button class='style-scope ytd-expander' id='more' role='button' />
+	[132] (66,843)<span >자세히 보기 />
+[133] (49,889)<button aria-label='나와 사용자 0명이 이 댓글을 좋아함' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeS ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[134] (49,889)<yt-touch-feedback-shape  />
+		[135] (49,889)<div  />
+[136] (70,889)<button aria-label='댓글 싫어요 표시' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeS ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[137] (70,889)<yt-touch-feedback-shape  />
+		[138] (70,889)<div  />
+[139] (92,889)<button aria-label='하트' class='style-scope yt-icon-button' id='button' />
+	[140] (92,889)<yt-icon  />
+		[141] (92,889)<span  />
+			[142] (92,889)<div  />
+[143] (124,889)<button aria-label='답글' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeS ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	답글
+	[144] (124,889)<yt-touch-feedback-shape  />
+		[145] (124,889)<div  />
+[146] (616,648)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+	[147] (616,648)<yt-icon  />
+		[148] (616,648)<span  />
+			[149] (616,648)<div  />
+[150] (22,967)<button aria-label='@MelodistSeoul' class='style-scope ytd-comment-view-model' id='author-thumbnail-button' />
+	[151] (22,964)<yt-img-shadow  />
+		[152] (22,964)<img  />
+[153] (79,953)<a class='yt-simple-endpoint style-scope ytd-author-comment-badge-renderer' href='/@MelodistSeoul' id='name' />
+	[154] (79,953)<ytd-channel-name  />
+		[155] (79,953)<div  />
+			[156] (79,953)<div  />
+				[157] (79,953)<yt-formatted-string >@MelodistSeoul />
+[158] (127,953)<a class='yt-simple-endpoint style-scope ytd-comment-view-model' href='/watch?v=zA3X977Q_Vw&lc=UgyKoogOYnX6h0WXvu94AaABAg'>4주 전 />
+안녕하세요! Melodist Seoul 채널에 오신 것을 환영합니다.
+최신 고음질 봄맞이 플레이리스트와 함께 설레는 봄의 감성을 느껴보세요.
+저희의 음악이 마음에 드셨다면 '구독'과 '좋아요'로 응원 부탁드립니다. 
+여러분의 응원이 더 좋은 음악을 만드는 큰 힘이 됩니다!
+[159] (616,950)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+	[160] (616,950)<yt-icon  />
+		[161] (616,950)<span  />
+			[162] (616,950)<div  />
+[163] (810,538)<div class='style-scope ytd-watch-flexy' id='related' scrollable='true' />
+	[164] (667,145)<button class='ytChipShapeButtonReset' role='tab' />
+		[165] (667,145)<div >모두 />
+			모두
+			[166] (667,145)<yt-touch-feedback-shape  />
+				[167] (667,145)<div  />
+	[168] (736,145)<button class='ytChipShapeButtonReset' role='tab' />
+		[169] (736,145)<div >Melodist Seoul 제공 />
+			Melodist Seoul 제공
+			[170] (736,145)<yt-touch-feedback-shape  />
+				[171] (736,145)<div  />
+	[172] (819,145)<button class='ytChipShapeButtonReset' role='tab' />
+		[173] (819,145)<div >관련 콘텐츠 />
+			관련 콘텐츠
+			[174] (819,145)<yt-touch-feedback-shape  />
+				[175] (819,145)<div  />
+	[176] (870,145)<button class='ytChipShapeButtonReset' role='tab' />
+		[177] (870,145)<div >추천 />
+			추천
+			[178] (870,145)<yt-touch-feedback-shape  />
+				[179] (870,145)<div  />
+	최근에 업로드된 동영상
+	[180] (948,153)<button aria-label='다음' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+		[181] (948,153)<yt-touch-feedback-shape  />
+			[182] (948,153)<div  />
+	[183] (807,305)<div  />
+		[184] (751,305)<a class='ytLockupViewModelContentImage' href='/watch?v=0HQMQXyEwfo' />
+			[185] (749,305)<yt-thumbnail-view-model  />
+				[186] (749,305)<div  />
+					[187] (749,305)<img  />
+				[188] (749,409)<yt-thumbnail-bottom-overlay-view-model  />
+					[189] (749,423)<div  />
+						[190] (749,423)<div  />
+					[191] (823,409)<div  />
+						[192] (823,406)<yt-thumbnail-badge-view-model  />
+							[193] (823,406)<badge-shape  />
+								[194] (809,406)<div  />
+									[195] (809,406)<span  />
+										[196] (809,406)<div  />
+								[197] (828,406)<div >4:50:28 />
+		[198] (908,305)<div  />
+			[199] (908,305)<yt-lockup-metadata-view-model  />
+				[200] (908,305)<div  />
+					[201] (908,212)<h3  />
+						[202] (908,212)<a aria-label='[Melodist Seoul] 커피 향과 함께 스며드는 리듬 ☕카페 윈체를 위한, 정유형사장의 성공을 기원하며... 4시간 50분' class='ytLockupMetadataViewModelTitle' href='/watch?v=0HQMQXyEwfo' />
+							[203] (908,241)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>[Melodist Seoul] 커피 향과 함께 스며드는 리듬 ☕카페 윈체를 위한, 정유형사장의 성공을 기원하며... />
+					[204] (908,269)<div  />
+						[205] (908,271)<yt-content-metadata-view-model  />
+							[206] (908,256)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+								[207] (878,256)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>Melodist Seoul />
+							[208] (908,285)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+								[209] (874,285)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 104회 />
+								[210] (899,285)<span >• />
+								[211] (917,285)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>1개월 전 />
+				[212] (952,400)<div  />
+					[213] (952,400)<button-view-model  />
+						[214] (952,400)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+							[215] (952,400)<yt-touch-feedback-shape  />
+								[216] (952,400)<div  />
+	[217] (807,560)<div  />
+		[218] (751,560)<a class='ytLockupViewModelContentImage' href='/watch?v=7zi2N4-2WxI&t=1889s' />
+			[219] (749,560)<yt-thumbnail-view-model  />
+				[220] (749,560)<div  />
+					[221] (749,560)<img  />
+				[222] (749,664)<yt-thumbnail-bottom-overlay-view-model  />
+					[223] (749,678)<div  />
+						[224] (670,678)<div  />
+					[225] (823,664)<div  />
+						[226] (823,661)<yt-thumbnail-badge-view-model  />
+							[227] (823,661)<badge-shape  />
+								[228] (809,661)<div  />
+									[229] (809,661)<span  />
+										[230] (809,661)<div  />
+								[231] (828,661)<div >2:30:40 />
+		[232] (908,560)<div  />
+			[233] (908,560)<yt-lockup-metadata-view-model  />
+				[234] (908,560)<div  />
+					[235] (908,467)<h3  />
+						[236] (908,467)<a aria-label='[Melodist Seoul] 우연히 들었는데... 어깨가 들썩~ 2시간 30분' class='ytLockupMetadataViewModelTitle' href='/watch?v=7zi2N4-2WxI&t=1889s' />
+							[237] (908,467)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>[Melodist Seoul] 우연히 들었는데... 어깨가 들썩~ />
+					[238] (908,524)<div  />
+						[239] (908,526)<yt-content-metadata-view-model  />
+							[240] (908,511)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+								[241] (878,511)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>Melodist Seoul />
+							[242] (908,540)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+								[243] (872,540)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 78회 />
+								[244] (895,540)<span >• />
+								[245] (913,540)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>1개월 전 />
+				[246] (952,655)<div  />
+					[247] (952,655)<button-view-model  />
+						[248] (952,655)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+							[249] (952,655)<yt-touch-feedback-shape  />
+								[250] (952,655)<div  />
+	[251] (807,814)<div  />
+		[252] (751,814)<a class='ytLockupViewModelContentImage' href='/watch?v=J4gk9zfi-IA' />
+			[253] (749,814)<yt-thumbnail-view-model  />
+				[254] (749,814)<div  />
+					[255] (749,814)<img  />
+				[256] (749,919)<yt-thumbnail-bottom-overlay-view-model  />
+					[257] (823,919)<div  />
+						[258] (823,916)<yt-thumbnail-badge-view-model  />
+							[259] (823,916)<badge-shape  />
+								[260] (809,916)<div  />
+									[261] (809,916)<span  />
+										[262] (809,916)<div  />
+								[263] (828,916)<div >1:06:15 />
+		[264] (908,814)<div  />
+			[265] (908,814)<yt-lockup-metadata-view-model  />
+				[266] (908,814)<div  />
+					[267] (908,722)<h3  />
+						[268] (908,722)<a aria-label='[Playlist]🍬 요즘 감성 한 스푼.. 첫 곡 듣자마자 무한반복 확정 ☀️ 1시간 6분' class='ytLockupMetadataViewModelTitle' href='/watch?v=J4gk9zfi-IA' />
+							[269] (906,736)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text'>[Playlist]🍬 요즘 감성 한 스푼.. 첫 곡 듣자마자 무한반복 확정 ☀️ />
+					[270] (908,793)<div  />
+						[271] (908,795)<yt-content-metadata-view-model  />
+							[272] (908,766)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+								[273] (866,766)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>wonleaf />
+							[274] (908,795)<div class='ytContentMetadataViewModelMetadataRow' role='group' />
+								[275] (872,795)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>조회수 80회 />
+								[276] (895,795)<span >• />
+								[277] (915,795)<span class='ytAttributedStringHost ytContentMetadataViewModelMetadataText ytAttributedStringWhiteSpacePreWrap ytAttributedStringLinkInheritColor' role='text'>11시간 전 />
+							[278] (908,824)<div class='ytContentMetadataViewModelMetadataRow ytContentMetadataViewModelMetadataRowMetadataRowWrap' role='group' />
+								[279] (870,824)<div  />
+									[280] (870,824)<yt-badge-view-model  />
+										[281] (870,824)<badge-shape  />
+											[282] (870,824)<div >새 동영상 />
+				[283] (952,910)<div  />
+					[284] (952,910)<button-view-model  />
+						[285] (952,910)<button aria-label='추가 작업' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconButton ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+							[286] (952,910)<yt-touch-feedback-shape  />
+								[287] (952,910)<div  />
+	AI 영상 1위 툴 뒤집혔다?!⚡해피호스 1.0 vs 시댄스 2.0 모델 완전 분석!
+
+</current_dom>

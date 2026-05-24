@@ -1,0 +1,86 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+DESKTOP-2T9HMFI
+[0] (664,28)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (647,28)<span  />
+	[2] (664,28)<span >Korean />
+	[3] (684,30)<span  />
+[4] (721,28)<a class='dropdown-toggle' href='#' />
+	[5] (705,28)<span  />
+	[6] (722,28)<span >도움말 />
+	[7] (739,30)<span  />
+[8] (773,28)<a class='dropdown-toggle' href='#' />
+	[9] (760,28)<span  />
+	[10] (774,28)<span >동작 />
+	[11] (787,30)<span  />
+[12] (750,78)<a  />
+	[13] (720,78)<span  />
+	[14] (735,78)<span >설정 />
+[15] (750,111)<a  />
+	[16] (720,111)<span  />
+	[17] (735,110)<span >고급 />
+[18] (750,169)<a  />
+	[19] (720,169)<span  />
+	[20] (757,168)<span >기기 아이디 보기 />
+[21] (750,201)<a  />
+	[22] (720,201)<span  />
+	[23] (735,201)<span >기록 />
+[24] (750,234)<a href='/rest/debug/support' />
+	[25] (720,234)<span  />
+	[26] (744,233)<span >지원 묶음 />
+[27] (750,292)<a  />
+	[28] (720,292)<span  />
+	[29] (739,291)<span >재시작 />
+[30] (750,324)<a  />
+	[31] (720,324)<span  />
+	[32] (735,324)<span >종료 />
+GUI 인증: 사용자 이름과 비밀번호를 설정하십시오
+GUI 인증을 위한 사용자 이름과 비밀번호가 설정되지 않았습니다. 이들을 설정하는 것을 고려해 주십시오.
+현재 컴퓨터의 다른 사용자로부터 Syncthing과 이를 통한 파일 접속을 차단하려면 인증을 설정하는 것이 좋습니다.
+설정
+[33] (228,272)<button class='btn btn-sm btn-default pull-left' />
+	[34] (220,273)<span  />
+	[35] (232,272)<span >확인 />
+폴더
+[36] (468,436)<button class='btn btn-sm btn-default' />
+	[37] (453,437)<span  />
+	[38] (472,436)<span >폴더 추가 />
+현재 기기
+[39] (652,430)<button class='btn panel-heading' />
+	[40] (652,430)<h4  />
+		[41] (521,430)<identicon  />
+		[42] (661,430)<div >DESKTOP-2T9HMFI />
+수신 속도
+[43] (774,474)<a class='toggler ng-binding' href='#'>(0 B) />
+	[44] (765,474)<span >0 B/s />
+송신 속도
+[45] (774,504)<a class='toggler ng-binding' href='#'>(0 B) />
+	[46] (765,504)<span >0 B/s />
+현재 기기 상태(합계)
+0
+0
+~0 B
+대기자
+[47] (787,565)<a class='ng-binding text-success'>3/3 />
+탐지
+[48] (787,596)<a class='ng-binding'>4/5 />
+가동 시간
+14분
+아이디
+[49] (775,657)<a class='ng-binding'>73K7NTN />
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+[50] (630,818)<button class='btn btn-sm btn-default ng-scope' />
+	[51] (607,818)<span  />
+	[52] (634,818)<span >모두 일시 중지 />
+[53] (698,818)<button class='btn btn-sm btn-default' />
+	[54] (674,818)<span  />
+	[55] (703,818)<span >최근 변경 항목 />
+[56] (765,818)<button class='btn btn-sm btn-default' />
+	[57] (742,818)<span  />
+	[58] (769,818)<span >다른 기기 추가 />
+
+</current_dom>

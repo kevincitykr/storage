@@ -1,0 +1,35 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Opal
+Experiment
+[0] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[1] (949,40)<span >settings />
+[2] (978,40)<button id='toggle-user-menu' />
+	[3] (978,40)<span >person />
+[4] (500,540)<bb-project-listing scrollable='true' />
+	Build, edit and share mini-AI apps using natural language
+	Your Opal apps
+	[5] (699,340)<input class='sans-flex round w-500' placeholder='Search...' />
+	[6] (754,340)<button id='clear-button' />
+		[7] (752,340)<span >close />
+	[8] (821,340)<button class='md-title-small sans-flex w-400 round' id='create-new-button-inline'>Create New />
+		[9] (792,340)<span  />
+	[10] (210,652)<div class=' board mine ' />
+		[11] (210,652)<img  />
+		[12] (145,486)<button class=' overflow-pin ' />
+			[13] (145,486)<span  />
+		[14] (278,492)<button class='overflow-menu' />
+			[15] (278,492)<span >more_vert />
+		[16] (213,771)<div  />
+			[17] (213,736)<h4 >Seoul Night View />
+			[18] (213,802)<p >Generate a beautiful 16:9 night view of Seoul. />
+	Gallery
+	[19] (840,975)<button  />
+		[20] (825,975)<span >search />
+		[21] (847,975)<span >Search />
+[22] (712,928)<button id='close' />
+	[23] (712,928)<span  />
+
+</current_dom>

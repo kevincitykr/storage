@@ -1,0 +1,36 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+AI MONETIZE
+[0] (91,534)<ul class='nav-links' scrollable='true'>🖊️ 구글/네이버 생성기
+🚀
+                외부 채널 연결 />
+	🖊️ 구글/네이버 생성기
+	[1] (87,237)<li >🌿 티스토리 (건강/생활) />
+	[2] (87,320)<li >📊 분석 대시보드 />
+	[3] (87,403)<li >📂 최근 작성 내역 />
+	🚀
+                외부 채널 연결
+	[4] (87,586)<li class='nav-item'>📝 구글 블로거 />
+	[5] (87,670)<li class='nav-item'>🌿 티스토리 홈 />
+	[6] (87,753)<li class='nav-item'>📱 쓰레드(SNS) />
+	[7] (87,858)<li >⚙️ 계정 및 설정 />
+[8] (91,930)<div >🔓 프리미엄 업그레이드 />
+⚙️ 계정 및 API 설정
+[9] (347,156)<label >구글 블로거 ID />
+[10] (347,207)<input id='setting-blogger-id' placeholder='Blogger Blog ID (예: 6577533901683534947)' />
+[11] (347,312)<label >구글 블로거 API 토큰 (Access Token) />
+[12] (313,363)<input id='setting-blogger-token' placeholder='ya29.으로 시작하는 토큰 붙여넣기' />
+[13] (422,363)<button class='copy-btn'>토큰 받기 ➔ />
+[14] (347,547)<label >티스토리 계정명 (App ID) />
+[15] (347,598)<input id='setting-tistory-name' placeholder='예: kevincity' />
+[16] (347,704)<label >티스토리 Access Token />
+[17] (347,755)<input id='setting-tistory-token' placeholder='티스토리 API 토큰' />
+[18] (305,885)<button class='generate-btn'>✨ 설정
+                                저장하기 />
+[19] (967,931)<div id='help-fab' title='사용법 가이드' />
+	[20] (967,931)<span >❓ />
+[21] (916,751)<div class='help-body' scrollable='true' />
+
+</current_dom>

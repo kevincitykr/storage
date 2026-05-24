@@ -1,0 +1,136 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (989,25)<a class='link__cw-gnb enuri' href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>에누리 />
+[1] (134,125)<a href='https://www.danawa.com'>비교하고 잘 사는, 다나와 />
+	비교하고 잘 사는, 다나와
+	[2] (129,125)<img  />
+[3] (602,125)<fieldset >통합 검색 />
+	통합 검색
+	[4] (564,125)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[5] (771,125)<button class='search__delete on'>삭제 />
+		삭제
+	[6] (809,125)<button class='search__submit'>검색 />
+		검색
+	[7] (588,214)<a  />
+		[8] (481,214)<span >지포스 rtx 4060ti 16gb />
+	[9] (811,213)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[10] (588,259)<a  />
+		[11] (462,259)<span >rtx4060 ti 16gb />
+	[12] (811,257)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[13] (588,303)<a  />
+		[14] (496,303)<span >지포스 rtx 4060ti aero 16gb />
+	[15] (811,301)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[16] (588,347)<a  />
+		[17] (493,347)<span >기가바이트 rtx 4060ti 16gb />
+	[18] (811,345)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[19] (588,391)<a  />
+		[20] (470,391)<span >rtx4060ti d6 16gb />
+	[21] (811,389)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[22] (588,435)<a  />
+		[23] (487,435)<span >rtx geforce 4060ti 16gb />
+	[24] (811,434)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[25] (588,479)<a  />
+		[26] (498,479)<span >msi rtx 4060 ti 16gb ventus />
+	[27] (811,478)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[28] (588,523)<a  />
+		[29] (555,523)<span >msi 지포스 rtx 4060 ti 벤투스 2x 블랙 oc d6 16gb />
+	[30] (811,522)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[31] (588,567)<a  />
+		[32] (566,567)<span >MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB />
+	[33] (811,566)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[34] (588,611)<a  />
+		[35] (647,611)<span >ASUS ROG STRIX 지포스 RTX 4060 Ti O16G GAMING OC D6 16GB 인텍앤컴퍼니 />
+	[36] (811,610)<a class='btn_word_move' role='button'>검색어 입력 영역에 입력 />
+		검색어 입력 영역에 입력
+	[37] (422,675)<a class='com_gnb auto_function_switch'>자동완성 끄기 />
+	[38] (803,675)<a class='com_gnb auto_function_close'>닫기 />
+[39] (96,231)<button class='btn_cate_all btn_cate' />
+	[40] (89,230)<span >전체 카테고리 />
+[41] (100,309)<a class='category__list__btn' href='#categoryHoverLayer22' role='menuitem'>싱글라이프 />
+[42] (100,365)<a class='category__list__btn' href='#categoryHoverLayer10' role='menuitem'>가전 · TV />
+[43] (100,422)<a class='category__list__btn' href='#categoryHoverLayer11' role='menuitem'>컴퓨터 · 노트북 · 조립PC />
+[44] (100,478)<a class='category__list__btn' href='#categoryHoverLayer12' role='menuitem'>태블릿 · 모바일 · 디카 />
+[45] (100,534)<a class='category__list__btn' href='#categoryHoverLayer13' role='menuitem'>스포츠 · 골프 />
+[46] (100,591)<a class='category__list__btn' href='#categoryHoverLayer14' role='menuitem'>자동차 · 용품 · 공구 />
+[47] (100,647)<a class='category__list__btn' href='#categoryHoverLayer15' role='menuitem'>가구 · 조명 />
+[48] (100,704)<a class='category__list__btn' href='#categoryHoverLayer16' role='menuitem'>식품 · 유아 · 완구 />
+[49] (100,760)<a class='category__list__btn' href='#categoryHoverLayer17' role='menuitem'>생활 · 주방 · 건강 />
+[50] (100,817)<a class='category__list__btn' href='#categoryHoverLayer18' role='menuitem'>패션 · 잡화 · 뷰티 />
+[51] (100,873)<a class='category__list__btn' href='#categoryHoverLayer19' role='menuitem'>반려동물 · 취미 · 사무 />
+[52] (100,929)<a class='category__list__btn' href='#categoryHoverLayer21' role='menuitem'>로켓배송관 />
+[53] (240,231)<a class='link_nav' href='https://auto.danawa.com/?logger_kw=dnw_gnb_auto'>자동차 />
+[54] (311,231)<a class='link_nav' href='https://shop.danawa.com/shopmain/?logger_kw=dnw_gnb_pcmain'>조립PC />
+PC견적
+협찬 제로 리뷰
+답나와
+소모품 다나와
+쇼핑기획전
+커뮤니티
+이벤트
+/
+체험단
+서비스
+더보기
+[55] (273,586)<a href='https://dpg.danawa.com/news'>뉴스룸 />
+[56] (336,586)<a href='#' role='button'>주요이슈 />
+컴퓨터
+테크
+자동차
+게임
+신상소식
+[57] (269,649)<button class='button__tab'>먹거리 />
+[58] (332,649)<button class='button__tab'>패션/의류 />
+게임
+스마트기기
+PC/노트북
+[59] (292,754)<a href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=6001857' />
+	[60] (292,754)<span  />
+		[61] (292,754)<img  />
+[62] (425,754)<a class='link_title' href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=6001857'>한 장으로 끝내는 떡볶이·짜장 소스…심플리, 슬라이스 소스 4종 출시 />
+[63] (292,891)<a href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=6001848' />
+	[64] (292,891)<span  />
+		[65] (292,891)<img  />
+[66] (425,891)<a class='link_title' href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=6001848'>메가MGC커피, 호빵맨 홀케이크 출시…가정의 달 겨냥한 첫 F&B 협업 />
+[67] (638,720)<a class='link__item' href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=6001845'>하림 푸디버디, 성장기 아이 위한 ‘마시는 프로틴’ 출시…사과·샤인머스캣 2종 />
+[68] (638,771)<a class='link__item' href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=6001838'>풀무원, ‘톡 털어 먹는 나또’로 간편 영양 시장 공략 />
+[69] (638,823)<a class='link__item' href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=6000838'>더 글렌리벳, 캐스크 스트렝스 ‘스몰배치2’ 3종 한정 출시 />
+[70] (638,874)<a class='link__item' href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=6000837'>연세유업, ‘깨먹는 재미’ 입혔다…잘파세대 겨냥 초콜릿 디저트 확대 />
+[71] (638,925)<a class='link__item' href='https://dpg.danawa.com/news/view?boardSeq=61&listSeq=5999938'>뉴욕식 토핑에 K-핫도그 접목…풀무원푸드머스, ‘오픈도그’ 2종 출시 />
+현재
+6
+/
+전체
+6
+이전
+다음
+자동재생 적용
+쇼핑노트
+[72] (1002,716)<a class='rb_anchor' href='https://g.tivan.naver.com/gfa/e_k7u7TgkFGIB-80OZ7c7O_n2bLt-Xc6QNuA-abH2MTOC6jzHNFQ_45VwAYN1Iau_B9e10IWWO0oNBt74prJeqbEK50p-N1g89TDby9p_wn-We18cCZhoWxp1f18e7ygG94RuAvMByTKHB6FXdvd9UCjdRIEXHkifyFBs_VnqxtWbgOWxow8TZ4jW1TIcAy9apvbAw5bEJRNEnlDJxJOVvEaGH-0CROY9IWdV--ZI5A10AOkE2yB08AsP9-E5Y1Y52B7nbw2S88hXxFHmswDeHqeaLVUeEcbxPmYBUSppPgS2AMEQlR1kjecy9H_01MREnwOZARPXVpuzOe6dmEKrHbBOECHq6CA_6bSsZnm5PtwaaCGHTYFJ6ea5jT3okW8S3JzLvond8OeXm0HLIzMRZgArctm2eV55iZFSrjqweEw8gtvk8nOOi2rGMZ-T2rplzkk4XTJkx77TAWjqXMHj1gdRIOJPpiWfE6Khl-R-PnDxE8BNba0FidAtQhIjjhmY8rgJawbCBvxC8ow_6_kE77aiDcfdULYPxjQ2FZ7IumWsIhEbsWdGkh6c6A8W-Xt7sfD5ghvLrgzjl8j1ncPfqLeB3v35mDK7roZCPsDAlawLl0joZWg_k0AiJyI3nDuYe-UwCSg-yAt-k7eUkVhQwUWTGr64gLdivZeuQbaUiKpmcx9zOWGxbPS653Gr3aN5gwywn6q1urKFsTIaffaW5Vwsym3WjrrfQ0tD7rAnY87Mf9oky2cdmOMzyiqaHwn-iY57r_yOiQku7oQ1uBnDfukFND4dgZyig34A8fGKl8ZVh0aoesfKwHtPbiyhiDV-NWICTZBL6AJTE4Tfdxl7fCkG2cYVObAWZk4oYvpMA5QHm6_SS_MX3I_1eCdTl5hVThpqx71QhcvhlzMnt5ya0cLyl9MwlBMF5KNJ3vq0t03g487d2JNJodqdLwqqK2xl8z5PI5bZuozipeV4zYE6wBA4HaMz7keC_RtbxHWggG2GhaqAypnuOaniQOJ_stJcs-AQhWhQ141cWQC1r_0qQrXuSVTscDgWLgADeQbEhRddcLLyt6-ZKUhOxGD8560p4s1OHypsPF4UwU4omWGqPI5S1IbjHE9t8HRCgFBkehovabhbTzXj76Zz2y2Al6msXRN3P_m3pPDSr8pCaJKpBgyXun7lo0IGE__uBvLph6d4frQ8YzbSYpCsI9rmCecrTW3kWFpQnJyOUg6OmCOaVsV1ELU0EKGbPxPzQWuszwsrfO7uGgIkGGG5qHz1zFb1rHZIImYMoviKBdigZWM3E6PRhQeU51cgLnj4HBe6fQ0V8uVjZCRkN3qyzjrrQ_CtHVd2lJkAK5CB5dpMPl8igTlWurDyURTboI4FL9_S1xaRyeDzf9oRvEgXDFTnwsc/' />
+	[73] (951,582)<strong >7호선 초역세권•3660세대 메가시티 />
+	[74] (1002,715)<div  />
+		[75] (909,715)<div  />
+			[76] (909,715)<img  />
+		[77] (1103,715)<div  />
+			[78] (1103,715)<p >일부 청약 미달 세대 선착순 참여 의향서 접수 개시 />
+	[79] (1002,848)<div  />
+		[80] (1002,848)<div  />
+			[81] (835,848)<div  />
+				[82] (835,848)<img  />
+			[83] (911,848)<span >옥정중앙역 디에트르 />
+			[84] (1119,848)<span >더 알아보기 />
+			[85] (1170,848)<span  />
+[86] (1186,560)<button class='ad_mark' />
+	[87] (1186,559)<span >AD />
+
+</current_dom>

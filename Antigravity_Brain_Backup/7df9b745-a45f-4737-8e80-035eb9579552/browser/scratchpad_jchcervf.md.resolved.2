@@ -1,0 +1,16 @@
+# Syncthing Investigation Task List
+
+- [x] Open http://localhost:8384
+- [x] Inspect 'Kevincity Share' folder status: '동기화 준비' (Preparing to Sync)
+- [x] Check if folder is 'Scanning': Yes, logs show active indexing of files in D:\20260412 kevincity share.
+- [x] Check logs for errors (Actions -> Logs): No errors found, just many "Created or updated directory" messages indicating indexing.
+- [ ] Check 'upload2601' device status
+- [x] Investigate low speed (1 B/s): It's due to indexing/scanning phase, not transferring yet.
+- [ ] Check for conflicts or failed items
+
+### Findings
+- Folder 'Kevincity Share' (ID: rlpuk-xkiiv) is in 'Preparing to Sync' state.
+- Logs show it is actively scanning subdirectories (e.g., Windows\WinSxS) in the folder.
+- There is a 'New Folder' request from 'upload2601' for 'kevincity share' (ID: embcu-ntnsc). This might be a duplicate or reverse share.
+- 'upload2601' device is currently 'Syncing' (9%) but actual transfer speed is 0 B/s because it's still calculating the index.
+- Out of sync items: ~66,000 items, ~10.9 GiB.

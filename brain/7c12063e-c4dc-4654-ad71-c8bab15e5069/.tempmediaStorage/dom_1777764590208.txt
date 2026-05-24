@@ -1,0 +1,127 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (496,33)<a href='https://globalexpress.rakuten.co.jp/campaign/beginner/?scid=rmp_ko_ich_top_unpaid&lang=ko' />
+	[1] (496,33)<p  />
+[2] (25,86)<a href='https://network.mobile.rakuten.co.jp/'>モバイル />
+[3] (60,86)<a href='https://ranking.rakuten.co.jp/?l-id=top_normal_grayheader02'>ランキング />
+[4] (104,86)<a href='https://event.rakuten.co.jp/superdeal/?l-id=top_normal_grayheader01'>スーパーDEAL />
+[5] (144,86)<a href='https://brandavenue.rakuten.co.jp/'>Fashion />
+[6] (175,86)<a href='https://travel.rakuten.co.jp/'>トラベル />
+[7] (202,86)<a href='https://www.rakuten-card.co.jp/'>カード />
+[8] (226,86)<a href='https://r10.to/hrSGTl'>証券 />
+[9] (247,86)<a href='https://www.rakuten-bank.co.jp/'>銀行 />
+[10] (274,86)<a href='https://books.rakuten.co.jp/'>ブックス />
+[11] (307,86)<a href='https://books.rakuten.co.jp/e-book/'>電子書籍 />
+[12] (337,86)<a href='https://fril.jp/'>ラクマ />
+[13] (368,86)<a href='https://www.rebates.jp/'>リーベイツ />
+[14] (401,86)<a href='https://24.rakuten.co.jp/'>楽天24 />
+[15] (448,86)<a href='https://fast-delivery-mart.rakuten.co.jp/'>楽天24エクスプレス />
+[16] (499,86)<a href='https://biccamera.rakuten.co.jp/?scid=wi_ich_top_header'>楽天ビック />
+[17] (543,86)<a href='https://netsuper.rakuten.co.jp/'>ネットスーパー />
+[18] (581,86)<a href='https://room.rakuten.co.jp/'>ROOM />
+サービス一覧
+Global
+[19] (936,86)<a href='https://www.rakuten.co.jp/ec/?camp=701100000004kPu&scid=wi_ich_top_01'>楽天に出店 />
+[20] (970,86)<a href='https://ichiba.faq.rakuten.net?l-id=top_normal_grayheader_help'>ヘルプ />
+[21] (496,148)<div  />
+	[22] (40,148)<a class='logo--2UFRP' href='https://www.rakuten.co.jp/?l-id=pc_header_logo' />
+		[23] (40,146)<div  />
+	[24] (429,148)<input class='input-text--3BgYg' id='common-header-search-input' placeholder='キーワード検索' />
+	[25] (790,148)<a aria-label='検索' class='link--2nWEr' href='https://search.rakuten.co.jp/search/mall' />
+		[26] (790,148)<div  />
+			[27] (790,148)<div  />
+				[28] (790,148)<div  />
+	[29] (824,148)<a aria-label='Display notifications button to hover' class='button--1P0_8 size-m--2Dbpu size-m-padding--2kqkH border-radius--2FZc6 type-icon-link--2qBh8 icon-link-size--CGp80' href='https://t3.basket.step.rakuten.co.jp/rms/mall/bs/cartall/?l-id=pc_header_func_cart' />
+		[30] (824,139)<span  />
+			[31] (824,139)<div  />
+		[32] (824,163)<span >買い物かご />
+	[33] (853,148)<span class='reference--2DB4E' role='button' />
+		[34] (853,148)<div  />
+			[35] (853,148)<button aria-label='お知らせ' class='button--1P0_8 size-m--2Dbpu size-m-padding--2kqkH border-radius--2FZc6 type-icon-link--2qBh8 icon-link-size--CGp80' />
+				[36] (853,139)<span  />
+					[37] (853,139)<div  />
+				[38] (853,163)<span >お知らせ />
+	[39] (879,148)<a aria-label='閲覧履歴' class='button--1P0_8 size-m--2Dbpu size-m-padding--2kqkH border-radius--2FZc6 type-icon-link--2qBh8 icon-link-size--CGp80' href='https://ashiato.rakuten.co.jp/rms/ashiato/page?l-id=pc_header_func_bh' />
+		[40] (879,139)<span  />
+			[41] (879,139)<div  />
+		[42] (879,163)<span >閲覧履歴 />
+	[43] (908,148)<a aria-label='お気に入り' class='button--1P0_8 size-m--2Dbpu size-m-padding--2kqkH border-radius--2FZc6 type-icon-link--2qBh8 icon-link-size--CGp80' href='https://my.bookmark.rakuten.co.jp/?l-id=pc_header_func_bookmark' />
+		[44] (908,139)<span  />
+			[45] (908,139)<div  />
+		[46] (908,163)<span >お気に入り />
+	[47] (936,148)<a aria-label='購入履歴' class='button--1P0_8 size-m--2Dbpu size-m-padding--2kqkH border-radius--2FZc6 type-icon-link--2qBh8 icon-link-size--CGp80' href='https://order.my.rakuten.co.jp/?l-id=pc_header_func_ph' />
+		[48] (936,139)<span  />
+			[49] (936,139)<div  />
+		[50] (936,163)<span >購入履歴 />
+	[51] (966,148)<a aria-label='myクーポン' class='button--1P0_8 size-m--2Dbpu size-m-padding--2kqkH border-radius--2FZc6 type-icon-link--2qBh8 icon-link-size--CGp80' href='https://coupon.rakuten.co.jp/myCoupon/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4?l-id=pc_header_func_coupon' />
+		[52] (966,139)<span  />
+			[53] (966,139)<div  />
+		[54] (966,163)<span >myクーポン />
+[55] (496,217)<div  />
+	[56] (496,217)<a href='https://cdn.rex.contents.rakuten.co.jp/webcx-redirect-module/1.3.0/index.html?clientId=d40535ac09aac0ef32f8a23b8bb8e04bc2e8f9d6b0981fa98a16d0382f558d83&version=2.73.0&sessionId=b315a973-deb8-40e8-910a-fab5b1bcbbbd&screen=WB&issueId=F01184-001738&campaignId=17dd5130-da20-4f55-b6f6-509ccb71cdfb&contentId=fb1b4e47-bb1a-42dd-81be-10ef7c65ef5a&replacementId=2cef6577-3ec0-11f1-ae25-00505699bfcf&impressionId=84a3aaec-4e6d-4bbf-9826-30c897e21b4d&selector=mkdiv_header_pitari&redirect=aHR0cHM6Ly9yZC5yYWt1dGVuLmNvLmpwL3JhdD9SMj1odHRwcyUzQSUyRiUyRmFjLmViaXMubmUuanAlMkZ0cl9zZXQucGhwJTNGYXJndW1lbnQlM0RaTWhQRTRHUCUyNmFpJTNEcmdwX21ub18wMTEzNDMmYWNjPTEmYWlkPTEmZXR5cGU9cmVkaXJlY3Qmc3NjPXRvcCZwZ249aWNoaWJhX3RvcCZjb21waWQ9JTVCJTIybW9iaWxlX3JkJTIyJTVEJnBncz1wY190b3BfaGVhZGVyX2hlYWRlcmJvdHRvbWJhbm5lcg==&origin=aHR0cHM6Ly93d3cucmFrdXRlbi5jby5qcA==' />
+		[57] (496,217)<p  />
+[58] (496,279)<div  />
+	ようこそ楽天市場へ
+	会員登録で楽天ポイントが貯まる、使える。
+	[59] (755,279)<a aria-label='楽天会員登録(無料)' class='button--1P0_8 size-s--CM10o size-s-padding--JNRtI border-radius--2FZc6 no-padding--2a5z- type-link--27vAs variant-crimson--3f-iI' href='https://login.account.rakuten.com/sso/register?client_id=rakuten_ichiba_top_web&service_id=s245&response_type=code&scope=openid&redirect_uri=https%3A%2F%2Fwww.rakuten.co.jp%2F' />
+		[60] (725,279)<span  />
+			[61] (725,279)<div  />
+		[62] (760,279)<span >楽天会員登録(無料) />
+	[63] (822,279)<a aria-label='ログイン' class='button--1P0_8 size-xs--1BS4t size-xs-padding--2Hr8c border-radius--2FZc6 type-primary--3XUZe' href='https://login.account.rakuten.com/sso/authorize?client_id=rakuten_ichiba_top_web&service_id=s245&response_type=code&scope=openid&redirect_uri=https%3A%2F%2Fwww.rakuten.co.jp%2F' />
+		[64] (810,279)<span  />
+			[65] (810,279)<div  />
+		[66] (827,279)<span >ログイン />
+[67] (65,941)<button class='button--vEe1I' />
+	[68] (65,941)<div  />
+		[69] (80,941)<div  />
+			[70] (80,941)<div  />
+				[71] (77,941)<span >Rakuten AIで探す />
+[72] (496,482)<li  />
+	[73] (496,479)<a href='https://rd.rakuten.co.jp/rat/?R2=https%3A%2F%2Fevent.rakuten.co.jp%2Fgift%2Fsocialgift%2F%3Fl-id%3Dtop_normal_bigbnr_pc_BFDIZJBC_162775_0&acc=1&aid=1&cp.sid=2&cp.tid=5&cp.oid=162775_PC_BIG&cp.cid=128930&dmy=01grgFhP73Yzrs7aBsfIttukrcTAhS01grgFhP73Yzrs7aBsfIttukrcTAhS' />
+		[74] (496,479)<div  />
+			[75] (496,479)<img  />
+[76] (161,481)<div  />
+[77] (831,481)<div  />
+[78] (345,773)<li  />
+	[79] (345,770)<a href='https://rd.rakuten.co.jp/rat/?R2=https%3A%2F%2Fevent.rakuten.co.jp%2Fbeginner%2Fen%3Fl-id%3Dtop_normal_flashbnr_10_BIDHFEEJ_136392_1&acc=1&aid=1&cp.sid=2&cp.tid=2&cp.oid=136392_PC_JS&cp.cid=36190&dmy=01grgFhP73Yzrs7aBsfIttukrcTAhS01grgFhP73Yzrs7aBsfIttukrcTAhS' />
+		[80] (345,770)<div  />
+			[81] (345,770)<img  />
+[82] (453,773)<li  />
+	[83] (453,770)<a href='https://rd.rakuten.co.jp/rat/?R2=https%3A%2F%2Fevent.rakuten.co.jp%2Fcampaign%2Fnewpurchaser%2F%3Fl-id%3Dtop_normal_flashbnr_10_EBDFHDFF_162791_3&acc=1&aid=1&cp.sid=2&cp.tid=2&cp.oid=162791_PC_JS&cp.cid=69609&dmy=01grgFhP73Yzrs7aBsfIttukrcTAhS01grgFhP73Yzrs7aBsfIttukrcTAhS' />
+		[84] (453,770)<div  />
+			[85] (453,770)<img  />
+[86] (560,773)<li  />
+	[87] (560,770)<a href='https://rd.rakuten.co.jp/rat/?R2=https%3A%2F%2Fevent.rakuten.co.jp%2Fmother%2Fcoupon%2F5%2F%3Fl-id%3Dtop_normal_flashbnr_10_GCHEGHBD_163277_2&acc=1&aid=1&cp.sid=2&cp.tid=2&cp.oid=163277_PC_JS&cp.cid=70098&dmy=01grgFhP73Yzrs7aBsfIttukrcTAhS01grgFhP73Yzrs7aBsfIttukrcTAhS' />
+		[88] (560,770)<div  />
+			[89] (560,770)<img  />
+[90] (668,773)<li  />
+	[91] (668,770)<a href='https://rd.rakuten.co.jp/rat/?R2=https%3A%2F%2Fevent.rakuten.co.jp%2Fsuperdeal%2F%3Fl-id%3Dtop_normal_flashbnr_10_HICFCGDE_162769_5&acc=1&aid=1&cp.sid=2&cp.tid=2&cp.oid=162769_PC_JS&cp.cid=70025&dmy=01grgFhP73Yzrs7aBsfIttukrcTAhS01grgFhP73Yzrs7aBsfIttukrcTAhS' />
+		[92] (668,770)<div  />
+			[93] (668,770)<img  />
+[94] (775,773)<li  />
+	[95] (775,770)<a href='https://rd.rakuten.co.jp/rat/?R2=https%3A%2F%2Fevent.rakuten.co.jp%2Fgenre%2Ftimesale%2F%3Fl-id%3Dtop_normal_flashbnr_10_FGCAEAGE_162479_0&acc=1&aid=1&cp.sid=2&cp.tid=2&cp.oid=162479_PC_JS&cp.cid=127888&dmy=01grgFhP73Yzrs7aBsfIttukrcTAhS01grgFhP73Yzrs7aBsfIttukrcTAhS' />
+		[96] (775,770)<div  />
+			[97] (775,770)<img  />
+[98] (295,773)<div  />
+	[99] (295,770)<span  />
+[100] (827,773)<div  />
+	[101] (827,770)<span  />
+0
+[102] (542,891)<li >1 />
+[103] (551,891)<li >2 />
+[104] (561,891)<li >3 />
+[105] (570,891)<li >4 />
+[106] (579,891)<li >5 />
+[107] (589,891)<li >6 />
+楽天スーパーDEAL
+[108] (788,964)<a class='ri-ttl-sub-link' href='https://event.rakuten.co.jp/superdeal/?l-id=top_normal_superdeal_top01'>スーパーDEALをもっと見る />
+[109] (212,750)<a href='https://event.rakuten.co.jp/campaign/point-up/everyday/point/?l-id=top_normal_leftcolumn_20260201_SPU' />
+	[110] (212,750)<img  />
+[111] (212,887)<a href='https://rd.rakuten.co.jp/rat?R2=https%3A%2F%2Ffast-delivery-mart.rakuten.co.jp%2F&acc=1&aid=1&etype=redirect&ssc=top&pgn=ichiba_top&compid=%5B%22sokuhai_rd%22%5D&pgs=pc_top_sidenavi' />
+	[112] (212,887)<img  />
+ジャンル
+[113] (257,982)<a href='https://www.rakuten.co.jp/category/?l-id=top_normal_gmenu_d_list'>一覧 />
+
+</current_dom>

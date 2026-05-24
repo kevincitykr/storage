@@ -1,0 +1,74 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+kevincityHQ
+[0] (705,37)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (683,38)<span  />
+	[2] (705,37)<span >Korean />
+	[3] (729,41)<span  />
+[4] (777,37)<a class='dropdown-toggle' href='#' />
+	[5] (756,38)<span  />
+	[6] (778,37)<span >도움말 />
+	[7] (799,41)<span  />
+[8] (841,37)<a class='dropdown-toggle' href='#' />
+	[9] (825,38)<span  />
+	[10] (842,37)<span >동작 />
+	[11] (859,41)<span  />
+GUI 인증: 사용자 이름과 비밀번호를 설정하십시오
+GUI 인증을 위한 사용자 이름과 비밀번호가 설정되지 않았습니다. 이들을 설정하는 것을 고려해 주십시오.
+현재 컴퓨터의 다른 사용자로부터 Syncthing과 이를 통한 파일 접속을 차단하려면 인증을 설정하는 것이 좋습니다.
+[12] (840,358)<button class='btn btn-sm btn-default pull-right' />
+	[13] (831,360)<span  />
+	[14] (845,357)<span >설정 />
+[15] (160,358)<button class='btn btn-sm btn-default pull-left' />
+	[16] (150,360)<span  />
+	[17] (165,357)<span >확인 />
+폴더
+[18] (310,566)<button class='btn panel-heading' />
+	[19] (306,537)<div  />
+	[20] (310,565)<h4  />
+		[21] (147,566)<div  />
+			[22] (147,565)<span  />
+		[23] (452,565)<div  />
+			[24] (434,565)<span >탐색 />
+			[25] (462,565)<span >(98%) />
+		[26] (289,565)<div  />
+			[27] (206,565)<span >Kevincity Share />
+[28] (316,656)<button class='btn btn-sm btn-default ng-scope' />
+	[29] (287,658)<span  />
+	[30] (321,656)<span >모두 일시 중지 />
+[31] (393,656)<button class='btn btn-sm btn-default ng-scope' />
+	[32] (370,658)<span  />
+	[33] (398,656)<span >모두 재탐색 />
+[34] (460,656)<button class='btn btn-sm btn-default' />
+	[35] (441,658)<span  />
+	[36] (465,656)<span >폴더 추가 />
+현재 기기
+[37] (690,566)<button class='btn panel-heading' />
+	[38] (690,565)<h4  />
+		[39] (526,565)<identicon  />
+		[40] (701,565)<div >kevincityHQ />
+수신 속도
+[41] (834,624)<a class='toggler ng-binding' href='#'>(171 B) />
+	[42] (817,624)<span >50 B/s />
+송신 속도
+[43] (834,664)<a class='toggler ng-binding' href='#'>(185 B) />
+	[44] (817,664)<span >55 B/s />
+현재 기기 상태(합계)
+4,605
+595
+~110 GiB
+대기자
+[45] (858,745)<a class='ng-binding text-success'>3/3 />
+탐지
+[46] (858,785)<a class='ng-binding'>4/5 />
+가동 시간
+0분
+아이디
+[47] (842,866)<a class='ng-binding'>UW5V5CO />
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+
+</current_dom>

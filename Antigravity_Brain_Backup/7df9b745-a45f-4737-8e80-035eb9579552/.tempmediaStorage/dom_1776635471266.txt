@@ -1,0 +1,95 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+GUI 인증: 사용자 이름과 비밀번호를 설정하십시오
+GUI 인증을 위한 사용자 이름과 비밀번호가 설정되지 않았습니다. 이들을 설정하는 것을 고려해 주십시오.
+현재 컴퓨터의 다른 사용자로부터 Syncthing과 이를 통한 파일 접속을 차단하려면 인증을 설정하는 것이 좋습니다.
+[0] (840,243)<button class='btn btn-sm btn-default pull-right' />
+	[1] (831,245)<span  />
+	[2] (845,242)<span >설정 />
+[3] (160,243)<button class='btn btn-sm btn-default pull-left' />
+	[4] (150,245)<span  />
+	[5] (165,242)<span >확인 />
+폴더
+[6] (310,451)<button class='btn panel-heading' />
+	[7] (310,450)<h4  />
+		[8] (147,451)<div  />
+			[9] (147,450)<span  />
+		[10] (455,450)<div  />
+			[11] (454,450)<span >최신 상태 />
+		[12] (293,450)<div  />
+			[13] (206,450)<span >Kevincity Share />
+폴더 아이디
+rlpuk-xkiiv
+폴더 경로
+D:\20260412 kevincity share
+전체 기기 상태
+40,807
+121,611
+~121 GiB
+현재 기기 상태
+4,605
+595
+~110 GiB
+[14] (445,665)<a  />
+	[15] (445,666)<i >무시 양식으로 축소됨 />
+폴더 유형
+송수신
+재탐색
+1시간
+활성화됨
+파일 수신 순서
+무작위
+공유된 기기
+[16] (456,826)<a class='ng-binding ng-scope'>upload2601 />
+	[17] (483,821)<sup >1 />
+최근 탐색
+2026-04-20 06:50:59
+[18] (353,933)<button class='btn btn-sm btn-default ng-scope' />
+	[19] (334,934)<span  />
+	[20] (359,932)<span >일시 중지 />
+[21] (411,933)<button class='btn btn-sm btn-default' />
+	[22] (397,934)<span  />
+	[23] (416,932)<span >재탐색 />
+[24] (459,933)<button class='btn btn-sm btn-default' />
+	[25] (450,934)<span  />
+	[26] (465,932)<span >편집 />
+현재 기기
+[27] (690,451)<button class='btn panel-heading' />
+	[28] (690,450)<h4  />
+		[29] (526,450)<identicon  />
+		[30] (701,450)<div >kevincityHQ />
+수신 속도
+[31] (830,509)<a class='toggler ng-binding' href='#'>(9.53 MiB) />
+	[32] (806,509)<span >0 B/s />
+송신 속도
+[33] (830,549)<a class='toggler ng-binding' href='#'>(11.8 MiB) />
+	[34] (806,549)<span >0 B/s />
+현재 기기 상태(합계)
+4,605
+595
+~110 GiB
+대기자
+[35] (858,630)<a class='ng-binding text-success'>3/3 />
+탐지
+[36] (858,670)<a class='ng-binding'>4/5 />
+가동 시간
+8시간 12분
+아이디
+[37] (842,751)<a class='ng-binding'>UW5V5CO />
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+[38] (690,954)<button class='btn panel-heading' />
+	[39] (526,925)<div  />
+	[40] (690,954)<h4  />
+		[41] (526,954)<identicon  />
+		[42] (799,954)<div  />
+			[43] (754,953)<span >동기화 />
+			[44] (806,953)<span >(9%, 110 GiB) />
+			[45] (853,954)<span  />
+				[46] (853,952)<span  />
+		[47] (635,954)<div >upload2601 />
+
+</current_dom>

@@ -1,0 +1,262 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (372,38)<a class='impression-logged' href='/np/campaigns/82?adType=DA&eventId=dggzFgfMLIrywRt1' />
+	[1] (372,38)<img  />
+[2] (628,38)<a class='impression-logged' href='https://shop.coupang.com/A00067881/243826?source=brandstore_display_ads&adType=DA&eventId=4zHLnpWKju5Mddzb' />
+	[3] (628,38)<img  />
+[4] (818,97)<a href='https://wing.coupang.com/tenants/vendor-signup/signup?utm_source=button_pc_coupang_top_right_cta&utm_medium=non_paid&utm_campaign=seller_registration'>판매자 가입 />
+[5] (788,97)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+[6] (760,97)<a href='https://login.coupang.com/login/memberJoinFrm.pang' title='회원가입'>회원가입 />
+[7] (735,97)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fnp%252Fsearch%253Fq%253DHP%252BOmen%252B16L%252BRTX%252B5060%252BTi%252B16GB%2526channel%253Duser%2526component%253D%2526eventCategory%253DSRP%2526trid%253D%2526strategy%253D%2526filterSetByUser%253Dtrue' title='로그인'>로그인 />
+[8] (182,97)<a class='bookmark' id='wa-bookmark'>즐겨찾기 />
+[9] (213,97)<a class='dropdown_menu_flag'>입점신청 />
+	[10] (225,99)<i  />
+[11] (190,178)<div  />
+	[12] (190,163)<div  />
+		[13] (190,153)<div  />
+		[14] (190,163)<div  />
+		[15] (190,173)<div  />
+	[16] (190,202)<div >카테고리 />
+[17] (274,167)<a class='fw-mr-[25px] fw-inline-block fw-flex-none' href='https://www.coupang.com' />
+	[18] (274,167)<img  />
+[19] (364,167)<a class='select--category__current rlux:fw-text-bluegray-800' href='#' id='sbSelector_18225766'>전체 />
+[20] (562,168)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800 is-speech' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[21] (731,167)<a class='speech-mic fw-mr-[12px] fw-hidden fw-flex-none fw-cursor-pointer' />
+[22] (747,167)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[23] (747,167)<img  />
+[24] (784,167)<a href='https://mc.coupang.com/ssr/desktop/order/list' id='wa-mycoupang-link' />
+	[25] (784,159)<img  />
+	[26] (784,192)<div >마이쿠팡 />
+[27] (819,167)<a href='//cart.coupang.com/cartView.pang' id='wa-cart-link' />
+	[28] (819,159)<img  />
+	[29] (828,142)<em >0 />
+	[30] (819,192)<div >장바구니 />
+[31] (227,226)<a class='gnb-menu-btn gnb-menu-btn-left' />
+[32] (256,226)<a href='https://www.coupangplay.com/catalog' />
+	[33] (241,226)<img  />
+	[34] (262,226)<span >쿠팡플레이 />
+[35] (304,226)<a href='https://www.coupang.com/np/campaigns/82' />
+	[36] (292,226)<img  />
+	[37] (310,226)<span >로켓배송 />
+[38] (353,226)<a href='https://www.coupang.com/np/categories/393760' />
+	[39] (338,226)<img  />
+	[40] (358,226)<span >로켓프레시 />
+[41] (405,226)<a href='https://pages.coupang.com/p/168131' />
+	[42] (389,226)<img  />
+	[43] (407,226)<span >가정의 달 />
+	[44] (424,225)<i  />
+[45] (460,226)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[46] (443,226)<img  />
+	[47] (462,226)<span >다시 구매 />
+	[48] (478,225)<i  />
+[49] (510,226)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[50] (498,226)<img  />
+	[51] (515,226)<span >쿠팡비즈 />
+[52] (555,226)<a href='https://www.coupang.com/np/coupangglobal' />
+	[53] (543,226)<img  />
+	[54] (561,226)<span >로켓직구 />
+[55] (601,226)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[56] (589,226)<img  />
+	[57] (606,226)<span >골드박스 />
+[58] (649,226)<a href='https://pages.coupang.com/p/136938' />
+	[59] (634,226)<img  />
+	[60] (655,226)<span >이달의신상 />
+[61] (700,226)<a href='https://www.coupang.com/np/omp' />
+	[62] (685,226)<img  />
+	[63] (706,226)<span >판매자특가 />
+[64] (754,226)<a href='https://www.coupang.com/np/campaigns/83' />
+	[65] (736,226)<img  />
+	[66] (760,226)<span >와우회원할인 />
+[67] (793,226)<img  />
+이벤트/쿠폰
+반품마켓
+착한상점
+기획전
+쿠팡트래블
+[68] (828,226)<a class='gnb-menu-btn gnb-menu-btn-right gnb-menu-btn-active' />
+	[69] (828,226)<span  />
+장바구니
+0
+최근본상품
+0
+/
+[70] (167,264)<a href='/np/search?q=HP+Omen+16L+RTX+5060+Ti+16GB&channel=user&eventCategory=SRP&trid=&strategy=&filterSetByUser=true'>전체 />
+'
+HP Omen 16L RTX 5060 Ti 16GB
+'
+필터
+[71] (216,355)<label  />
+	[72] (181,355)<i  />
+	[73] (205,355)<span  />
+		[74] (199,355)<img  />
+만 보기
+[75] (219,428)<label  />
+	[76] (186,429)<i  />
+	[77] (206,429)<span  />
+		[78] (206,429)<img  />
+	[79] (228,428)<span >만 보기 />
+만 보기
+[80] (216,528)<label  />
+	[81] (181,529)<i  />
+	[82] (200,527)<span >무료배송 />
+카테고리
+[83] (183,613)<label  />
+	[84] (183,613)<a href='https://www.coupang.com'>전체 />
+[85] (189,644)<label  />
+	[86] (189,644)<a href='https://www.coupang.com/np/coupangglobal'>로켓직구 />
+[87] (191,675)<label  />
+	[88] (191,675)<a href='https://www.coupang.com/np/categories/178255'>가전디지털 />
+[89] (189,705)<label  />
+	[90] (189,705)<a href='https://www.coupang.com/np/categories/510691'>쿠팡수입 />
+[91] (191,736)<label  />
+	[92] (191,736)<a href='https://www.coupang.com/np/categories/184555'>홈인테리어 />
+문구/오피스
+결혼준비
+[93] (216,764)<div >+ 더보기 />
+브랜드
+[94] (216,846)<label  />
+	[95] (181,847)<i  />
+	[96] (193,846)<span >HP />
+상품 상태
+[97] (216,929)<label  />
+	[98] (181,929)<i  />
+	[99] (198,928)<span >새 상품 />
+[100] (216,955)<label  />
+	[101] (181,956)<i  />
+	[102] (201,954)<span >박스 훼손 />
+[103] (216,981)<label  />
+	[104] (181,982)<i  />
+	[105] (194,981)<span >반품 />
+'
+HP Omen 16L RTX 5060 Ti 16GB
+'
+에 대한 검색결과
+[106] (312,369)<label class='fw-group fw-relative fw-max-w-fit fw-inline-flex fw-items-center fw-justify-start fw-tap-highlight-transparent fw-select-none' />
+	[107] (312,369)<input class='fw-ui-hidden-input group-data-[readonly=true]:fw-cursor-default' />
+	배송비 포함
+[108] (373,370)<label >쿠팡 랭킹순 />
+[109] (393,369)<div  />
+[110] (422,370)<label >낮은가격순 />
+[111] (461,370)<label >높은가격순 />
+[112] (498,370)<label >판매량순 />
+[113] (529,370)<label >최신순 />
+[114] (557,494)<div  />
+	[115] (557,494)<div  />
+		[116] (557,494)<div  />
+			[117] (557,494)<div  />
+				[118] (359,494)<div  />
+					[119] (318,494)<div  />
+						[120] (318,494)<img  />
+					[121] (398,494)<div  />
+						[122] (396,494)<div  />
+							[123] (396,494)<img  />
+				[124] (606,494)<div  />
+					[125] (606,455)<div  />
+						[126] (600,457)<span >HP 2025 오멘 코어Ultra7 인텔 14세대 지포스 RTX 5060, Snow White, 32GB, 512GB, Free DOS, TG03-0008KL />
+					[127] (606,519)<div  />
+						[128] (464,517)<div  />
+							[129] (464,514)<div  />
+								[130] (456,517)<div  />
+									[131] (456,517)<img  />
+								[132] (475,517)<div  />
+									[133] (475,517)<img  />
+						[134] (521,517)<div  />
+							[135] (502,518)<span >내일(일) />
+							[136] (538,518)<span >도착 보장 />
+					[137] (606,556)<div  />
+						[138] (474,557)<div  />
+							[139] (469,557)<div  />
+								[140] (469,557)<span  />
+									[141] (466,557)<em  />
+							[142] (498,557)<div  />
+								[143] (498,560)<span >(5) />
+				[144] (797,494)<div  />
+					[145] (797,494)<div  />
+						[146] (797,494)<img  />
+					[147] (797,557)<div  />
+						[148] (794,557)<div  />
+							[149] (793,558)<span >광고 />
+						[150] (805,556)<div  />
+							[151] (805,556)<img  />
+[152] (346,896)<li  />
+	[153] (346,889)<a class='impression-logged' href='/vp/products/8849796383?itemId=25797315988&vendorItemId=92784984723&sourceType=srp_product_ads&clickEventId=7f7c28c0-45b0-11f1-ab1b-b0d39d3dc8e8&korePlacement=15&koreSubPlacement=1&clickEventId=7f7c28c0-45b0-11f1-ab1b-b0d39d3dc8e8&korePlacement=15&koreSubPlacement=1' />
+		[154] (346,746)<figure  />
+			[155] (346,746)<img  />
+		[156] (346,877)<div  />
+		[157] (346,918)<div >HP 2025 오멘 16L 코어Ultra7 지포스 RTX 5060 Ti, Mica Silver, 32GB, 1TB, Free DOS, TG03-0004KL />
+		[158] (346,979)<div  />
+			[159] (346,983)<div  />
+				[160] (346,970)<div  />
+					[161] (319,970)<div  />
+						[162] (319,969)<span >2,599,000원 />
+				[163] (346,998)<div  />
+					[164] (299,998)<div  />
+						[165] (297,998)<div >5% />
+							5%
+					[166] (329,998)<div >와우 가입 쿠폰 />
+[167] (487,896)<li  />
+	[168] (487,889)<a href='/vp/products/9487317961?itemId=28252489291&vendorItemId=95205853302&q=HP Omen 16L RTX 5060 Ti 16GB&searchId=7937ddef1101804&sourceType=search&itemsCount=60&searchRank=1&rank=1' />
+		[169] (487,746)<figure  />
+			[170] (487,746)<img  />
+		[171] (487,877)<div  />
+		[172] (487,918)<div >HP 2026 오멘 16L 라이젠7 라이젠 8000 시리즈 지포스 RTX 5060 Ti, Shadow Black, TG03-0014kl, 1TB, 16GB, Free DOS />
+		2,877,550원
+		5%
+		와우 가입 쿠폰
+		[173] (437,639)<span  />
+[174] (628,896)<li  />
+	[175] (628,889)<a href='/vp/products/9467975629?itemId=28178232166&vendorItemId=95132912376&q=HP Omen 16L RTX 5060 Ti 16GB&searchId=7937ddef1101804&sourceType=search&itemsCount=60&searchRank=2&rank=2' />
+		[176] (628,746)<figure  />
+			[177] (628,746)<img  />
+		[178] (628,975)<div  />
+			[179] (628,877)<div  />
+			[180] (628,918)<div  />
+				[181] (628,918)<div >TG03 게이밍 데스크톱 PC | 인텔 울트라 7 265F 프로세서 엔비디아 지포스
+GDDR7 RAM 1TB NVMe SSD />
+					[182] (576,898)<mark >HP />
+					[183] (593,898)<mark >OMEN />
+					[184] (612,898)<mark >16L />
+					[185] (628,938)<mark >RTX />
+					[186] (645,938)<mark >5060 />
+					[187] (658,938)<mark >Ti />
+					[188] (672,938)<mark >16GB />
+			[189] (628,974)<div  />
+				[190] (628,964)<div  />
+					[191] (588,964)<del >3,278,200원 />
+				[192] (628,986)<div  />
+					[193] (628,986)<div  />
+						[194] (579,986)<div >19
+% />
+						[195] (617,986)<div  />
+							[196] (617,986)<span >2,622,600원 />
+			[197] (578,639)<span  />
+[198] (768,896)<li  />
+	[199] (768,889)<a href='/vp/products/9473796720?itemId=28200472285&vendorItemId=95154783718&q=HP Omen 16L RTX 5060 Ti 16GB&searchId=7937ddef1101804&sourceType=search&itemsCount=60&searchRank=3&rank=3' />
+		[200] (768,746)<figure  />
+			[201] (768,746)<img  />
+		[202] (768,975)<div  />
+			[203] (768,877)<div  />
+			[204] (768,918)<div  />
+				[205] (768,918)<div >게이밍 PC
+인텔 20코어 i7-14700F 비츠 i9-12900K 32GB RAM 2TB NVMe SSD WiFi 6E R />
+					[206] (716,898)<mark >HP />
+					[207] (734,898)<mark >OMEN />
+					[208] (752,898)<mark >16L />
+					[209] (800,898)<mark >RTX />
+					[210] (720,918)<mark >5060 />
+					[211] (733,918)<mark >TI />
+					[212] (747,918)<mark >16GB />
+			[213] (768,974)<div  />
+				[214] (768,964)<div  />
+					[215] (728,964)<del >4,581,800원 />
+				[216] (768,986)<div  />
+					[217] (768,986)<div  />
+						[218] (719,986)<div >19
+% />
+						[219] (758,986)<div  />
+							[220] (758,986)<span >3,665,500원 />
+			[221] (718,639)<span  />
+
+</current_dom>

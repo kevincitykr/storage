@@ -1,0 +1,18 @@
+# Task: Extract Product Info from Joonggonara
+
+## Plan
+1. [ ] Navigate to https://web.joongna.com/product/228324710
+2. [ ] Extract:
+    - Product Title
+    - Price
+    - CPU
+    - GPU
+    - RAM
+    - SSD/HDD capacity
+    - Mainboard
+    - Power Supply
+    - Other specs/notes
+3. [ ] Format and return the information.
+
+## Findings
+- URL: https://web.joongna.com/product/228324710

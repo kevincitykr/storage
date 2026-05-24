@@ -1,0 +1,138 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (71,53)<a class='pc-header--logoImg--mDbiT4k' href='https://ko.aliexpress.com' />
+[1] (586,53)<div  />
+	[2] (526,53)<span  />
+	[3] (594,53)<div >AliExpress 앱을 다운로드하세요 />
+[4] (735,53)<div  />
+	[5] (735,53)<div  />
+		[6] (737,53)<div  />
+			[7] (695,53)<span  />
+			[8] (740,53)<div  />
+				[9] (729,53)<span >Other/
+KO
+/ />
+				[10] (762,53)<span >KRW />
+			[11] (780,53)<span  />
+[12] (851,53)<div  />
+	[13] (823,53)<span  />
+	[14] (859,53)<div  />
+		[15] (852,50)<span >Hi, sohwe />
+		[16] (878,52)<span  />
+[17] (927,53)<div  />
+	[18] (930,53)<a href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[19] (903,53)<span  />
+		[20] (938,53)<div  />
+			[21] (928,53)<span >장바구니 />
+			[22] (956,53)<span >21 />
+[23] (47,148)<a class='comet-breadcrumb-link' href='https://www.aliexpress.com'>홈 />
+>
+[24] (81,148)<a class='comet-breadcrumb-link' href='//www.aliexpress.com/account/index.html'>내 계정 />
+>
+[25] (119,148)<a class='comet-breadcrumb-link' href='//www.aliexpress.com/p/order/index.html'>주문 />
+내 계정
+[26] (140,301)<div  />
+	[27] (53,301)<div >개요 />
+[28] (140,361)<div  />
+	[29] (53,361)<div >주문 />
+[30] (140,421)<div  />
+	[31] (53,421)<div >지불 />
+[32] (140,481)<div  />
+	[33] (64,481)<div >환불/반품 />
+[34] (140,541)<div  />
+	[35] (57,541)<div >피드백 />
+[36] (140,601)<div  />
+	[37] (53,601)<div >설정 />
+[38] (140,661)<div  />
+	[39] (68,661)<div >배송지 주소 />
+[40] (140,721)<div  />
+	[41] (68,721)<div >메시지 센터 />
+[42] (140,810)<div  />
+	[43] (63,810)<div >친구 초대 />
+[44] (140,898)<div  />
+	[45] (62,898)<div >고객센터 />
+[46] (140,958)<div  />
+	[47] (68,958)<div >보고서 관리 />
+[48] (297,237)<div >전체 />
+[49] (367,237)<div >결제대기중 (0) />
+[50] (462,237)<div >배송준비중 (7) />
+[51] (546,237)<div >배송중 (9) />
+[52] (610,237)<div >완료됨 />
+[53] (921,239)<div >삭제된 주문 />
+	[54] (900,240)<span  />
+[55] (617,331)<div  />
+	[56] (333,331)<span  />
+		[57] (333,331)<span  />
+			[58] (367,331)<span  />
+		주문
+	[59] (497,331)<input class='comet-input' placeholder='주문 ID, 상품 또는 스토어 이름 입력' />
+	[60] (630,331)<button class='comet-btn comet-btn-primary comet-btn-icon-only comet-input-search-button' />
+		[61] (630,331)<span  />
+	[62] (875,331)<span  />
+		[63] (875,331)<span  />
+			[64] (868,331)<input class='comet-input comet-input-readonly' />
+			[65] (936,331)<span  />
+		모든 기간
+배송 예정
+주문일:
+2026년 5월 6일
+주문 ID
+:
+1120462344360757
+복사
+[66] (920,461)<a href='https://www.aliexpress.com/p/order/detail.html?orderId=1120462344360757' />
+	[67] (912,461)<span >주문 상세 />
+	[68] (943,459)<span  />
+[69] (327,549)<a href='//www.aliexpress.com/store/1103645095' />
+	[70] (322,549)<span >하루세끼쌀 스토어 />
+	[71] (366,547)<span  />
+[72] (382,549)<a class='order-item-store-message' href='//msg.aliexpress.com/msgDetail.htm?from=orderDetail&digest=293f0917ddc5a146cc93670a78f22c481b4d5d515bf74a215abeba44f64b382d0045547e25c187424434d6848700472a' />
+	[73] (382,548)<span  />
+[74] (332,686)<a href='//www.aliexpress.com/item/1005008549059947.html' />
+	[75] (327,686)<div  />
+[76] (498,603)<a href='//www.aliexpress.com/item/1005008549059947.html' />
+	[77] (498,602)<span >[하루세끼쌀 ]햅쌀 수향미 골든퀸3호 20kg(10kg+10kg) />
+10+10
+₩
+7
+7
+,
+7
+9
+8
+x
+1
+[78] (410,762)<span >한국에서 발송 />
+	한국에서 발송
+·
+[79] (465,762)<span  />
+	[80] (465,762)<font >무료 반품 />
+총 금액:
+₩
+7
+6
+,
+4
+4
+8
+배송 중
+주문일:
+2026년 5월 5일
+주문 ID
+:
+1120450790000757
+복사
+주문 상세
+[81] (387,978)<a href='//www.aliexpress.com/store/1104810081' />
+	[82] (382,978)<span >Shop1104810081 Store />
+Eva
+[83] (971,620)<span  />
+[84] (912,679)<li >상품을 받지 못함 />
+[85] (912,730)<li >환불을 받지 못함 />
+[86] (912,780)<li >주문 상태 확인 />
+[87] (912,830)<li >주문 취소 />
+[88] (912,886)<p >물어보세요 />
+
+</current_dom>

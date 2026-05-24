@@ -1,0 +1,119 @@
+# ALI K-VENUE 윈들리 자동 소싱 시스템 - 현재 상태 정리
+
+## 시스템 구조
+
+### 핵심 파일 위치
+- **메인 봇**: [final_sourcing_bot.py](file:///D:/20260412%20kevincity%20share/500.윈들리/알리익스프레스%20수집%200422/final_sourcing_bot.py)
+- **실행 배치**: [알리_KVENUE_올인원_수집기.bat](file:///D:/20260412%20kevincity%20share/500.윈들리/알리익스프레스%20수집%200422/알리_KVENUE_올인원_수집기.bat)
+- **금지어 목록**: [forbidden_master_list.json](file:///D:/20260412%20kevincity%20share/500.윈들리/forbidden_master_list.json)
+- **브라우저 프로필**: `D:\...\알리익스프레스 수집 0422\chrome_user_data\`
+
+### 의존성
+- Python 3.12
+- playwright (`pip install playwright && playwright install`)
+- pyautogui (`pip install pyautogui`)
+
+---
+
+## 현재 동작 흐름 (v8.1)
+
+### 1:1 통합 모드
+```
+[수량/URL 입력]
+    ↓
+[Playwright로 K-Venue 목록 페이지 로드]
+    ↓
+[상품 후보 탐색 (a[href*="/item/"] 셀렉터)]
+    ↓
+[상세페이지 로드 → 금지어 검사]
+    ↓ (합격 시)
+[즉시 subprocess로 진짜 크롬에서 같은 URL 열기]
+    ↓
+[Alt+Tab으로 크롬 전환 → pyautogui.click(1775, 200)]
+    ↓
+[15초 대기 → Ctrl+W로 탭 닫기]
+    ↓
+[다음 상품으로]
+```
+
+---
+
+## 정상 작동하는 부분
+
+| 기능 | 상태 | 비고 |
+|------|------|------|
+| K-Venue 목록 로드 | ✅ 정상 | Playwright persistent context |
+| 상품 링크 수집 | ✅ 정상 | 50개 이상 수집 확인 |
+| 상세페이지 검사 | ✅ 정상 | 금지어 필터링 작동 |
+| 캡챠 감지/대기 | ✅ 정상 | 사용자가 수동 해결 후 재개 |
+| 알리 로그인 유지 | ✅ 정상 | chrome_user_data 폴더 사용 |
+
+---
+
+## 현재 문제점 (미해결)
+
+### 🔴 핵심 문제: 윈들리 수집 버튼 클릭이 실제로 작동하지 않음
+
+**원인 분석:**
+1. Playwright의 Chromium은 가짜 크롬이라 Chrome 웹스토어에서 확장 프로그램 설치 불가
+2. `--load-extension` 플래그 사용 시 브라우저 크래시 발생
+3. 현재 해결책: 진짜 크롬(subprocess)으로 URL을 열고 pyautogui로 클릭
+
+**미확인 사항:**
+- `Alt+Tab` 후 진짜 크롬 창이 정확히 포커스되는지
+- (1775, 200) 좌표가 진짜 크롬에서도 윈들리 버튼 위치인지
+- 윈들리 버튼이 로드되기 전에 클릭하고 있을 가능성
+
+### 🟡 윈들리 버튼의 정체
+- CSS 셀렉터: `button.sesame-floating-action-legacy`
+- 사용자 제공 좌표: (1775, 200) — 파란색 다운로드 화살표 아이콘
+- 클릭 후 "수집 완료"까지 약 4~5초 소요 (사용자 증언)
+
+---
+
+## 시도했으나 실패한 접근법
+
+| 방법 | 결과 | 원인 |
+|------|------|------|
+| Playwright persistent context + `--load-extension` | ❌ 크래시 | Playwright가 `--disable-extensions` 기본 설정 |
+| `ignore_default_args=["--disable-extensions"]` + `--load-extension` | ❌ 크래시 | 경로 충돌 또는 보안 문제 |
+| 웹스토어에서 수동 설치 | ❌ 실패 | Playwright Chromium을 진짜 크롬으로 인식 안 함 |
+| `connect_over_cdp` (리모트 디버깅) | ❌ 연결 실패 | `ECONNREFUSED` — 타이밍/포트 문제 |
+| 확장 폴더를 로컬로 복사 후 로드 | ❌ 크래시 | 동일한 Playwright 제한 |
+
+---
+
+## 가능한 해결 방향
+
+### 방안 1: Selenium + undetected-chromedriver (추천)
+```python
+# 진짜 크롬을 그대로 사용, 확장 프로그램 자동 로드
+from selenium import webdriver
+import undetected_chromedriver as uc
+
+options = uc.ChromeOptions()
+# 사용자의 실제 프로필 사용 → 윈들리 이미 설치됨
+options.add_argument(r"--user-data-dir=C:\Users\ksohw\AppData\Local\Google\Chrome\User Data")
+driver = uc.Chrome(options=options)
+```
+- 장점: 진짜 크롬 사용, 모든 확장 프로그램 자동 로드
+- 단점: undetected-chromedriver 설치 필요
+
+### 방안 2: 현재 방식 개선 (subprocess + pyautogui)
+- `Alt+Tab` 대신 `win32gui`로 크롬 창을 정확히 찾아서 포커스
+- 이미지 인식(`pyautogui.locateOnScreen`)으로 버튼 위치 자동 탐지
+- 대기 시간 충분히 확보
+
+### 방안 3: 완전 PyAutoGUI 방식
+- Playwright를 아예 쓰지 않음
+- 사용자의 진짜 크롬에서 모든 작업 수행
+- 키보드/마우스 자동화로 페이지 이동, 텍스트 복사, 버튼 클릭
+
+---
+
+## 환경 정보
+- OS: Windows
+- Python: 3.12
+- Playwright: chromium-1208
+- 브라우저: Chrome (실제 설치됨)
+- 윈들리 확장 ID: `kopggmlhnhalanhapdmflfmboikpjjmn` (v4.2.34)

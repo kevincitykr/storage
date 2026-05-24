@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (145,46)<a class='link' href='https://www.naver.com' />
+	[1] (145,46)<i  />
+[2] (374,40)<fieldset  />
+	[3] (335,46)<input class='box_window' id='nx_query' placeholder='검색어를 입력해 주세요.' role='combobox' />
+	[4] (570,46)<button class='bt_search' />
+		[5] (567,46)<i  />
+	[6] (525,46)<a class='bt_setkr' href='#' id='ke_kbd_btn' role='button' />
+		[7] (523,46)<i  />
+	[8] (541,44)<a class='bt_atcp _btn_arw' href='#' id='nautocomplete' role='button' />
+		[9] (541,47)<i  />
+[10] (343,136)<div class='api_flicking_wrap _conveyer_root' role='tablist' scrollable='true' />
+	[11] (149,136)<a class='tab' href='?ssc=tab.nx.all&where=nexearch&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab' />
+		[12] (149,138)<i  />
+	[13] (189,136)<a class='tab' href='?ssc=tab.cafe.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>카페 />
+		[14] (178,138)<i  />
+	[15] (239,136)<a class='tab' href='?ssc=tab.blog.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>블로그 />
+	[16] (288,136)<a class='tab' href='?ssc=tab.image.all&where=image&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>이미지 />
+	[17] (331,136)<a class='tab' href='?ssc=tab.clip.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>클립 />
+	[18] (375,136)<a class='tab' href='?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>지식iN />
+	[19] (432,136)<a class='tab' href='?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>인플루언서 />
+	[20] (490,136)<a class='tab' href='?ssc=tab.video.all&where=video&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>동영상 />
+	쇼핑
+	뉴스
+	숏텐츠
+	어학사전
+	지도
+	도서
+	지식백과
+	학술정보
+[21] (537,136)<a class='btn' href='#' role='button' />
+	[22] (537,136)<span  />
+		[23] (538,136)<i  />
+[24] (569,136)<a class='nav_more _more_btn' href='#' role='button' />
+	[25] (569,138)<i  />
+[26] (957,137)<a class='spnew2_bf bt_share naver-splugin' href='#' id='spiButton2' role='button'>공유 />
+중고나라 i7-13700 본체 카페검색 결과
+[27] (494,235)<a class='item' href='?cafe_where=&prdtype=0&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4&sm=mtb_opt&ssc=tab.cafe.all&st=rel&stnm=rel' role='option'>관련도순 />
+[28] (543,235)<a class='item' href='?cafe_where=&prdtype=0&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4&sm=mtb_opt&ssc=tab.cafe.all&st=date&stnm=rel' role='option'>최신순 />
+[29] (164,235)<a aria-label='검색옵션 열기' class='btn_option _search_option_open_btn' href='javascript:;' role='button'>옵션 />
+	[30] (175,236)<i  />
+[31] (560,313)<a class='btn_save _keep_trigger' href='#' role='button' />
+	[32] (560,307)<i  />
+[33] (156,313)<a class='user_thumb' href='https://cafe.naver.com/joonggonara' />
+[34] (188,313)<a class='name' href='https://cafe.naver.com/joonggonara'>중고나라 />
+1주 전
+[35] (307,365)<a class='title_link' href='https://cafe.naver.com/joonggonara/1128737098?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI4NzM3MDk4LCJpc3N1ZWRBdCI6MTc3ODEwMTIwNTA2OH0.Z67IhhTNfxbkaS8EYBXGTjGqHs8dRYx6R4Ebt7GMGwE&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20i7-13700%20%eb%b3%b8%ec%b2%b4&tc=naver_search'>/RTX3070 Ti/SSD 1TB /램 16GB/Z790 칩셋/게임용PC />
+	[36] (172,365)<mark >i7-13700 />
+[37] (354,443)<a class='dsc_link' href='https://cafe.naver.com/joonggonara/1128737098?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI4NzM3MDk4LCJpc3N1ZWRBdCI6MTc3ODEwMTIwNTA2OH0.Z67IhhTNfxbkaS8EYBXGTjGqHs8dRYx6R4Ebt7GMGwE&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20i7-13700%20%eb%b3%b8%ec%b2%b4&tc=naver_search'>상태
+, 구성품 없음 거래 방법 직거래, 택배거래 거래 희망지역 한강로동 판매자 정보 WIZMAIN 상품 더보기 〉 채팅하기 구매하기 상품 상세
+/ RTX3070 Ti / SSD 1TB / Z790 칩셋 게임용, 영상편집 PC ● CPU: 인텔 코어
+2.1GHz~5.2Ghz / P8... 나도 상품 등록하기 〉 거래 전 주의 사항 -
+중고나라
+앱에서 등록된 상품으로, 앱에서 안심결제가 가능합니다. - 사기 예방을... />
+	[38] (182,408)<mark >중고 />
+	[39] (421,442)<mark >i7-13700 />
+	[40] (398,477)<mark >i7-13700 />
+	중고나라
+[41] (560,559)<a class='btn_save _keep_trigger' href='#' role='button' />
+	[42] (560,553)<i  />
+[43] (156,559)<a class='user_thumb' href='https://cafe.naver.com/joonggonara' />
+[44] (188,559)<a class='name' href='https://cafe.naver.com/joonggonara'>중고나라 />
+2026.02.20.
+[45] (220,611)<a class='title_link' href='https://cafe.naver.com/joonggonara/1125486911?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI1NDg2OTExLCJpc3N1ZWRBdCI6MTc3ODEwMTIwNTA2OH0.zsXO5qPQm3qStKq9BxxObAInWZBdbpu1TvgsXvOKlK8&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20i7-13700%20%eb%b3%b8%ec%b2%b4&tc=naver_search'>PC
+RTX 3060 />
+	[46] (177,610)<mark >본체 />
+	[47] (216,610)<mark >i7-13700 />
+[48] (354,689)<a class='dsc_link' href='https://cafe.naver.com/joonggonara/1125486911?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI1NDg2OTExLCJpc3N1ZWRBdCI6MTc3ODEwMTIwNTA2OH0.zsXO5qPQm3qStKq9BxxObAInWZBdbpu1TvgsXvOKlK8&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20i7-13700%20%eb%b3%b8%ec%b2%b4&tc=naver_search'>상품 정보 더보기 〉 상품 정보 PC
+RTX 3060 1,100,000원 시세조회 결제 혜택 N 토스페이 최대 4천원 즉시할인 페이코 최대 2만원 즉시할인 KB국민카드 12개월 5% 특별 할부 수수료 결제 혜택 받기 〉 상품 상태
+, 구성품 없음 거래 방법... 나도 상품 등록하기 〉 거래 전 주의 사항 -
+중고나라
+앱에서 등록된 상품으로, 앱에서 안심결제가 가능합니다. - 사기 예방을... />
+	[49] (313,654)<mark >본체 />
+	[50] (347,654)<mark >i7-13700 />
+	[51] (369,723)<mark >중고 />
+	중고나라
+[52] (560,805)<a class='btn_save _keep_trigger' href='#' role='button' />
+	[53] (560,798)<i  />
+[54] (156,805)<a class='user_thumb' href='https://cafe.naver.com/joonggonara' />
+[55] (188,805)<a class='name' href='https://cafe.naver.com/joonggonara'>중고나라 />
+2025.07.03.
+[56] (233,857)<a class='title_link' href='https://cafe.naver.com/joonggonara/1110556792?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTEwNTU2NzkyLCJpc3N1ZWRBdCI6MTc3ODEwMTIwNTA2OH0.Qhg3jqh-Jkk3xbGqjvQFFDaGoGbeRwM1_N4ac_O6DFg&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20i7-13700%20%eb%b3%b8%ec%b2%b4&tc=naver_search'>[앱 상품]게이밍 반 />
+	[57] (255,856)<mark >본체 />
+	[58] (294,856)<mark >I7-13700 />
+[59] (354,934)<a class='dsc_link' href='https://cafe.naver.com/joonggonara/1110556792?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTEwNTU2NzkyLCJpc3N1ZWRBdCI6MTc3ODEwMTIwNTA2OH0.Qhg3jqh-Jkk3xbGqjvQFFDaGoGbeRwM1_N4ac_O6DFg&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20i7-13700%20%eb%b3%b8%ec%b2%b4&tc=naver_search'>상품 정보 상품명 게이밍 반
+가격 1,200,000 원 거래방법 직거래 택배거래 거래 희망 지역 영주제2동 판매자정보 Sang33 상품 상세 컴퓨터 사양 CPU
+KF + 딥쿨 LT720 (수냉쿨러) Mainboard... 가격은
+에서 적정 가격대를 맞췄습니다. 추가로 메모리가 삼성x하이닉스로 구성되어있는데 사용하는 데에는 문제 없습니다. 그리고 따로 검정색 방열판을 구매해서 메모리에... />
+	[60] (285,899)<mark >본체 />
+	[61] (319,899)<mark >I7-13700 />
+	[62] (494,934)<mark >I7 />
+	[63] (517,934)<mark >13700 />
+	[64] (366,968)<mark >중고나라 />
+[65] (742,272)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001' />
+	[66] (637,272)<div  />
+		[67] (637,272)<img  />
+	[68] (753,272)<div  />
+		[69] (753,259)<strong >좋아하는 건 누구나 남기고 싶으니까 />
+		[70] (753,285)<p >클립 올리면 매주 쌓이는 Npay 포인트 />
+[71] (742,373)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2604-shopping-004&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F69b749ff027d292a723a040c%3FlayerId%3DL_260324110101827%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2604-shopping-004' />
+	[72] (637,374)<div  />
+		[73] (637,374)<img  />
+	[74] (753,374)<div  />
+		[75] (753,361)<strong >가정의달+세일 />
+		[76] (753,386)<p >선물에 진심, 혜택에 진심 N+스토어 />
+[77] (742,475)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2509-shopping-007&target=https%3A%2F%2Fshopping.naver.com%2Fns%2Fhome%2Fkurlynmart%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2509-shopping-007' />
+	[78] (637,475)<div  />
+		[79] (637,475)<img  />
+	[80] (753,475)<div  />
+		[81] (753,462)<strong >네이버에서 컬리를 />
+		[82] (753,488)<p >멤버십 2만원 이상 무료배송 />
+[83] (742,577)<a class='spnew_bf item' href='https://naver.me/FWTmTscE' />
+	[84] (637,577)<div  />
+		[85] (637,577)<img  />
+	[86] (753,577)<div  />
+		[87] (753,564)<strong >네이버가 더 편해지는 순간 />
+		[88] (753,590)<p >웨일 브라우저 알아보기 />
+
+</current_dom>

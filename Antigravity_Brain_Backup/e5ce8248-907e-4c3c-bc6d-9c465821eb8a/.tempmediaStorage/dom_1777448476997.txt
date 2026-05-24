@@ -1,0 +1,136 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+Default Gemini Project
+검색
+1
+API 및 서비스
+사용 설정된 API 및 서비스
+라이브러리
+사용자 인증 정보
+OAuth 동의 화면
+페이지 사용 동의
+API/서비스 세부정보
+API 사용중지
+[0] (567,556)<div class='cfc-flex-layout-column cfc-scroll-vertical' scrollable='true' />
+	YouTube Data API v3
+	The YouTube Data API v3 is an API that provides access to YouTube data, such as videos, playlists, and channels.
+	제공: Google
+	서비스 이름
+	youtube.googleapis.com
+	유형
+	공개 API
+	상태
+	사용 설정됨
+	문서
+	Learn more
+	탐색
+	API 탐색기에서 사용해 보기
+	지원
+	유지보수 및 지원
+	측정항목
+	할당량 및 시스템 한도
+	사용자 인증 정보
+	[1] (563,912)<cfc-virtual-viewport class='cfc-virtual-scroll-viewport cfc-panel-body cfc-panel-body-flex cfc-panel-disable-border-bottom cfc-virtual-scroll-orientation-vertical' role='presentation' scrollable='true' />
+		설정
+		그래프 선택
+		그래프 4개
+		1시간
+		6시간
+		12시간
+		1일
+		2일
+		4일
+		7일
+		14일
+		30일
+		필터:
+		Versions
+		v1 및 v3
+		Credentials
+		Gemini API Key, Gemini API Key, Antigravity Master Key, 미지정, 익명 및 Google Cloud 콘솔 API 키
+		Methods
+		옵션 93개 선택됨
+		그래프
+		응답 코드별 트래픽
+		응답 코드별 트래픽
+		이 차트는 하나 이상의 그리드로 설명되어 있습니다. 그리드 행은 시계열을 나타냅니다. 그리드 열은 타임스탬프를 나타냅니다. 기본적으로 차트는 대부분의 열을 숨깁니다. 활성화된 열 옆에 숨겨진 열을 표시하려면 열 머리글에 액세스할 때까지 이전 항목 읽기(위쪽 화살표) 키를 사용한 다음 활성화 버튼(enter) 키를 사용합니다.
+		이 차트의 데이터는 2026년 3월 30일 월요일 오후 4시 41분 4초 UTC+9에서 2026년 4월 29일 수요일 오후 4시 41분 4초 UTC+9까지의 기간에 걸쳐 있습니다.
+		X축 커서의 고정을 해제하면 차트 위로 마우스를 가져가는 동안 커서가 마우스를 따라갈 수 있습니다.
+  도움말이나 범례에 반영된 값이 X축 커서의 위치와 연결되어 있음을 나타내기 위해 키보드 탐색을
+사용하는 동안 X축 커서가 항상 고정됩니다.
+		차트 {CHART_TITLE}의 테이블 {LAYER_TITLE}에 대한 데이터 채우기
+		차트 {CHART_TITLE}의 데이터 {LAYER_TITLE}에 대한 그리드입니다. 화살표 키를 사용하여 이 그리드를 탐색합니다. Page Up 및 Page Down 키는 포커스를 10행씩 위아래로 이동합니다. Home 및 End 키는 현재 행의 첫 번째 및 마지막 셀로 포커스를 이동합니다. Ctrl+Home 및 Ctrl+End 키는 그리드의 첫 번째 및 마지막 셀로 포커스를 이동합니다.
+		오디오
+		후속 열이 생략된 경우 열 머리글을 활성화하면 표시된 다음 열까지
+  모든 후속 열이 표시됩니다.
+		후속 행이 생략된 경우 행 헤더를 활성화하면 표시된 다음 행까지
+  모든 후속 행이 표시됩니다.
+		그리드 셀을 활성화하면 이 데이터 포인트에서 도움말이 열립니다.
+		각 데이터 계열의 이름과 값입니다. 나열된 값은 일반적으로 데이터 계열의 가장 최근 값입니다. 차트에서 키보드 탐색을 사용할 때 나열된 값은 초점을 맞춘 시간의 값입니다.
+리소스 선택
+[2] (657,196)<button class='mdc-button mat-mdc-button-base gmat-mdc-button purview-picker-create-project-button mat-mdc-button mat-primary cm-button ng-star-inserted cdk-focused cdk-mouse-focused'>새 프로젝트 />
+	새 프로젝트
+[3] (695,196)<button aria-label='작업 더보기 리소스 선택' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-action-bar-menu-button mat-primary cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[4] (695,197)<cfc-icon  />
+		[5] (695,197)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+[6] (331,243)<button class='mdc-button mat-mdc-button-base gmat-mdc-button cfc-width-full cfc-purview-picker-org-button mdc-button--outlined mat-mdc-outlined-button mat-primary cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='p6ntest-organization-switcher-menu' />
+	조직 선택기에서 선택
+	조직 없음
+[7] (500,307)<div  />
+	[8] (500,307)<div  />
+		[9] (337,307)<div  />
+			[10] (348,307)<label class='mdc-floating-label mat-mdc-floating-label ng-star-inserted' id='mat-mdc-form-field-label-0' />
+				[11] (348,307)<mat-label >프로젝트 및 폴더 검색 />
+		[12] (312,307)<div  />
+			[13] (311,307)<cm-icon  />
+		[14] (506,307)<div  />
+			[15] (506,307)<input aria-label='프로젝트 및 폴더 검색' class='cm-input gmat-mdc-input mat-mdc-input-element cfc-purview-picker-modal-search-input ng-pristine ng-valid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored ng-touched' id='mat-input-1' />
+[16] (309,349)<div class='mdc-tab mat-mdc-tab mat-focus-indicator mdc-tab--active cm-mat-focus-indicator ng-star-inserted mdc-tab-indicator--active' id='mat-tab-group-0-label-0' role='tab' />
+	[17] (309,349)<span  />
+		[18] (309,349)<span >최근 />
+[19] (354,349)<div class='mdc-tab mat-mdc-tab mat-focus-indicator cm-mat-focus-indicator ng-star-inserted' id='mat-tab-group-0-label-1' role='tab' />
+	[20] (354,349)<span  />
+		[21] (354,349)<span  />
+			[22] (354,349)<span >별표표시됨 />
+[23] (398,349)<div class='mdc-tab mat-mdc-tab mat-focus-indicator cm-mat-focus-indicator ng-star-inserted' id='mat-tab-group-0-label-2' role='tab' />
+	[24] (398,349)<span  />
+		[25] (398,349)<span >전체 />
+[26] (500,387)<tr  />
+	이름
+	유형
+	ID
+[27] (500,421)<tr class='cfctest-table-body-row cfc-table-body-row cfc-outline-focus-indicator ng-star-inserted' id='cfc-table-caption-0-row-0' role='row' />
+	[28] (301,421)<td class='cfc-outline-focus-indicator cfc-table-cell-container cfc-table-cell-container-for-col-0 cfctest-table-body-column cfc-table-column-no-padding cfc-table-column-forced-left-padding ng-star-inserted' role='gridcell'>현재 />
+		[29] (305,421)<cm-icon  />
+		현재
+	[30] (390,421)<td class='cfc-outline-focus-indicator cfc-table-cell-container cfc-table-cell-container-for-col-1 cfctest-table-body-column ng-star-inserted' role='gridcell' />
+		[31] (390,421)<div  />
+			[32] (324,421)<purview-reference-icon  />
+				[33] (324,421)<cfc-resource-icon  />
+					[34] (324,421)<cm-icon class='cm-icon--vertical-align-cap-middle ng-star-inserted' role='img' />
+			[35] (369,421)<a class='cfc-purview-picker-list-name-link ng-star-inserted'>Default Gemini Project />
+			[36] (413,421)<cfc-ancestry-breadcrumb-tooltip  />
+				[37] (413,421)<cfc-help-button  />
+					[38] (413,420)<button aria-label='Default Gemini Project의 상위 항목 정보' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-help-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+						[39] (413,421)<cm-icon  />
+	[40] (500,421)<td class='cfc-outline-focus-indicator cfc-table-cell-container cfc-table-cell-container-for-col-2 cfctest-table-body-column ng-star-inserted' role='gridcell' />
+		[41] (492,419)<purview-reference-label >프로젝트 />
+	[42] (604,421)<td class='cfc-outline-focus-indicator cfc-table-cell-container cfc-table-cell-container-for-col-3 cfctest-table-body-column ng-star-inserted' role='gridcell' />
+		[43] (584,419)<span >gen-lang-client-0490519756 />
+	[44] (694,421)<td class='cfc-outline-focus-indicator cfc-table-cell-container cfc-table-cell-container-for-col-4 cfctest-table-body-column ng-star-inserted' role='gridcell' />
+		[45] (694,421)<project-star  />
+			[46] (694,420)<mat-button-toggle class='mat-button-toggle cfc-button-toggle-icon cfc-color-primary mat-button-toggle-standalone cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device mat-button-toggle-animations-enabled' id='mat-button-toggle-0' role='presentation' />
+				[47] (694,420)<button aria-label='Default Gemini Project에 별표 추가' class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-0-button' role='button' />
+					[48] (694,420)<span  />
+						[49] (694,421)<cfc-icon  />
+							[50] (694,421)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+[51] (691,803)<button class='mdc-button mat-mdc-button-base gmat-mdc-button mat-mdc-button mat-secondary cm-button'>취소 />
+	취소
+
+</current_dom>

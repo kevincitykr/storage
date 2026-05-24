@@ -1,0 +1,19 @@
+Kakao
+[0] (467,333)<input class='tf_g' id='loginId--1' placeholder='카카오메일 아이디, 이메일, 전화번호 ' />
+[1] (650,336)<button class='btn_clear' />
+	[2] (650,336)<span >입력 내용 지우기 />
+TIP
+카카오메일이 있다면 메일 아이디만 입력해 보세요.
+[3] (467,490)<input class='tf_g' id='password--2' placeholder='비밀번호' />
+[4] (652,489)<button class='btn_view hide_on' />
+	[5] (652,489)<span >비밀번호 보기 />
+[6] (389,594)<label class='lab_choice' id='label-staySignedIn'>로그인 상태 유지 />
+	[7] (346,594)<span  />
+[8] (449,594)<button class='btn_help' />
+	[9] (449,594)<span >도움말 보기 />
+[10] (500,720)<button class='btn_g highlight submit'>로그인 />
+또는
+[11] (500,883)<button class='btn_g'>QR코드 로그인 />
+[12] (357,983)<a class='link_join' href='/weblogin/create_account?continue=https%3A%2F%2Fkauth.kakao.com%2Foauth%2Fauthorize%3Fclient_id%3D85049409d359d55bcd989753cdaf3a93%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Fthirdparty.aliexpress.com%252Fkakaocallback.htm%26state%3DmHpber7zMz0TQgPeLdj2l1F4XOCikpxoyUSKXrTXZQWHcD4fVi2GdXBIFAu7a6nm0np11%252FdTEKz7rG6aMpvXvkUNEM0TSa5byxTSODuJiPX%252FDNF%252FEgi9cBxOQC0bBNPuxln9lUydYG3ejTx1mWSmIuEjjdOoe2DDHBpKVQsVM%252FstTsGlWy%252FTB32pQVCXrn%252BHGejcvBi5%252B0vu%252FGdFhr1dPQ%253D%253D%26through_account%3Dtrue%26auth_tran_id%3De0PJSKIY9UTfhjh27-hsvyOcB_hq_CNgk0fY_tygCg0MXgAAAZ36oO0P&lang=ko&showHeader=false'>회원가입 />
+[13] (571,983)<a class='link_user' href='/weblogin/find_account?continue=https%3A%2F%2Fkauth.kakao.com%2Foauth%2Fauthorize%3Fclient_id%3D85049409d359d55bcd989753cdaf3a93%26response_type%3Dcode%26redirect_uri%3Dhttp%253A%252F%252Fthirdparty.aliexpress.com%252Fkakaocallback.htm%26state%3DmHpber7zMz0TQgPeLdj2l1F4XOCikpxoyUSKXrTXZQWHcD4fVi2GdXBIFAu7a6nm0np11%252FdTEKz7rG6aMpvXvkUNEM0TSa5byxTSODuJiPX%252FDNF%252FEgi9cBxOQC0bBNPuxln9lUydYG3ejTx1mWSmIuEjjdOoe2DDHBpKVQsVM%252FstTsGlWy%252FTB32pQVCXrn%252BHGejcvBi5%252B0vu%252FGdFhr1dPQ%253D%253D%26through_account%3Dtrue%26auth_tran_id%3De0PJSKIY9UTfhjh27-hsvyOcB_hq_CNgk0fY_tygCg0MXgAAAZ36oO0P&lang=ko&showHeader=false'>계정 찾기 />
+[14] (633,983)<a class='link_user' href='/weblogin/find_password?continue=%2Flogin%3Fcontinue%3Dhttps%253A%252F%252Fkauth.kakao.com%252Foauth%252Fauthorize%253Fclient_id%253D85049409d359d55bcd989753cdaf3a93%2526response_type%253Dcode%2526redirect_uri%253Dhttp%25253A%25252F%25252Fthirdparty.aliexpress.com%25252Fkakaocallback.htm%2526state%253DmHpber7zMz0TQgPeLdj2l1F4XOCikpxoyUSKXrTXZQWHcD4fVi2GdXBIFAu7a6nm0np11%25252FdTEKz7rG6aMpvXvkUNEM0TSa5byxTSODuJiPX%25252FDNF%25252FEgi9cBxOQC0bBNPuxln9lUydYG3ejTx1mWSmIuEjjdOoe2DDHBpKVQsVM%25252FstTsGlWy%25252FTB32pQVCXrn%25252BHGejcvBi5%25252B0vu%25252FGdFhr1dPQ%25253D%25253D%2526through_account%253Dtrue%2526auth_tran_id%253De0PJSKIY9UTfhjh27-hsvyOcB_hq_CNgk0fY_tygCg0MXgAAAZ36oO0P&lang=ko&showHeader=false'>비밀번호 찾기 />

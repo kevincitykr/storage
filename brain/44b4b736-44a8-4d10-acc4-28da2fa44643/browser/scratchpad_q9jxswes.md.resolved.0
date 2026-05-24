@@ -1,0 +1,19 @@
+# Task: Extract 6 city images from Opal
+
+## Plan
+1. Navigate to Opal URL (Done)
+2. Identify the 6 city images.
+3. Extract Base64 data for each.
+4. Output the strings.
+
+## Findings
+- Navigated to `https://opal.google/edit/1BcgE9roFC40A6VDq-3L91GW9B0nPnFp6`.
+- Found nodes: "Generate Seoul Night View Image", "Output", "Output 1".
+- The version history shows only one version from 10:43 PM.
+- The "Step" and "Console" tabs for the image node appear empty in the current run.
+- The "App" view shows a prompt asking for a description.
+
+## Next Steps
+- Look for generated images in iframes or shadow DOM.
+- Try to run the "Generate Seoul Night View Image" node if no images are found.
+- Check if images are stored in "Assets".

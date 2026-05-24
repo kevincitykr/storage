@@ -1,0 +1,118 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (335,125)<a class='inline shrink-0' href='/search/%EB%8D%94%EC%BA%90%EC%8B%9C%EB%AF%B8%EC%96%B4' />
+	[6] (335,125)<span >더캐시미어 />
+		[7] (318,125)<span >16
+. />
+[8] (384,125)<a class='inline shrink-0' href='/search/%EC%95%84%EC%9D%B4%ED%8F%B0' />
+	[9] (384,125)<span >아이폰 />
+		[10] (374,125)<span >17
+. />
+[11] (437,125)<a class='inline shrink-0' href='/search/%EB%8B%8C%ED%85%90%EB%8F%84%20%EC%8A%A4%EC%9C%84%EC%B9%98' />
+	[12] (437,125)<span >닌텐도 스위치 />
+		[13] (416,125)<span >18
+. />
+[14] (498,125)<a class='inline shrink-0' href='/search/%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0' />
+	[15] (498,125)<span >전기자전거 />
+		[16] (481,125)<span >19
+. />
+[17] (548,125)<a class='inline shrink-0' href='/search/%EB%A1%9C%EB%B4%87%ED%98%BC' />
+	[18] (548,125)<span >로봇혼 />
+		[19] (538,125)<span >20
+. />
+[20] (666,69)<a href='/product/227583121?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 인텔 i9-13900 RTX 4070 Ti 게이밍 본체 급처 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/227583121' />
+	[37] (886,369)<img  />
+[38] (904,462)<button aria-label='최근 본 상품 [구함] 이환 민트 티켓 구합니다 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[39] (886,502)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228224591' />
+	[40] (886,502)<img  />
+[41] (904,594)<button aria-label='최근 본 상품 i7 14700kf , 4070 ti 완본체 급처 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[42] (886,634)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228107090' />
+	[43] (886,634)<img  />
+1,548,000
+원
+광고 |
+스탠다드피씨
+509,000
+원
+광고 |
+씨엠컴퓨터
+1,378,000
+원
+광고 |
+스탠다드피씨
+상품 정보
+개인정보(거래정보)를 주고받는 행위는 사기에 노출
+될 수 있으므로 즉시
+[44] (443,350)<a href='jnapps3://?applink=report&targetType=&reportedStore=4324938&reportedProductSeq=227583121' />
+	[45] (443,350)<u >중고나라로 신고 />
+해 주세요
+인텔 i9-13900 cpu, RTX 4070 Ti 그래픽카드를 탑재한 게이밍 본체입니다.
+하이닉스 16gb  DDR5 메모리2개와 B760M 메인보드로 구성되어 웬만한 작업들은 원활하게 잘 돌아갑니다.
+수냉쿨러 장착되어 있고,1tb ssd 장착되어 있습니다.
+케이스는 다크프레시 빅타워 케이스입니다.
+고사양 게임을 즐기시는 분들께 강력 추천드려요.
+돈이 급해서 그러니 오늘 하루만 급처해봅니다.
+[46] (683,306)<a class='flex flex-col md:gap-9 max-md:gap-6' href='/store/4324938' />
+	[47] (683,240)<div  />
+		[48] (683,228)<div  />
+			[49] (569,228)<h2 >가게 정보 />
+		[50] (683,272)<div  />
+	[51] (683,364)<div  />
+		[52] (683,364)<div  />
+			[53] (573,364)<div  />
+				[54] (573,364)<span >자유의언덕 />
+			[55] (802,364)<div  />
+				[56] (802,364)<img  />
+신뢰지수
+412
+1,000
+안심결제
+1
+[57] (683,600)<div class='outline-none flex flex-col justify-start items-center flex-nowrap flex-1 gap-0.5' role='button' />
+	[58] (683,581)<span >거래후기 />
+	[59] (683,616)<span >1 />
+단골
+1
+[60] (589,834)<a href='/product/227583121' />
+	[61] (589,834)<div  />
+		[62] (589,777)<div  />
+			[63] (589,777)<div  />
+		[64] (589,940)<div  />
+			[65] (589,940)<div  />
+				[66] (589,920)<span >인텔 i9-13900 RTX 4070 Ti 게이밍 본체 급처 />
+				[67] (589,970)<div  />
+					[68] (589,970)<div >1,700,000 />
+						1,700,000
+						[69] (605,971)<span >원 />
+
+</current_dom>

@@ -1,0 +1,8 @@
+# Syncthing Troubleshooting Checklist
+
+- [ ] Navigate to http://localhost:8384
+- [ ] Open 'Actions' (작업) -> 'Logs' (로그)
+- [ ] Check logs for errors ('upload2601', 'error', 'failed', 'connection reset', 'timed out')
+- [ ] Expand 'Kevincity Share' folder
+- [ ] Check for 'Failed Items' (실패한 항목)
+- [ ] Report findings

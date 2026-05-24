@@ -1,0 +1,171 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+생활가전
+주방가전
+계절가전
+게임ㆍ드론ㆍ완구
+스포츠ㆍ레저
+중고ㆍ리퍼비시
+[0] (103,95)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[1] (262,95)<li  />
+[2] (420,95)<li  />
+[3] (579,95)<li  />
+[4] (737,95)<li  />
+PC구성
+[5] (187,210)<li class='cate_tab_all cate0 cate_tab_iworks' id='cate_tab_iwork'>아이웍스PC />
+[6] (240,210)<li class='cate_tab_all cate1 cate_tab1012' id='cate_tab1012'>CPU />
+[7] (288,210)<li class='cate_tab_all cate2 cate_tab1013' id='cate_tab1013'>메인보드 />
+[8] (340,210)<li class='cate_tab_all cate3 cate_tab1014 ON' id='cate_tab1014'>메모리 />
+[9] (396,210)<li class='cate_tab_all cate4 cate_tab1016' id='cate_tab1016'>그래픽카드 />
+[10] (447,210)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[11] (487,210)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[12] (531,210)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[13] (573,210)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[14] (631,210)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[15] (693,210)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[16] (740,210)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[17] (796,210)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[18] (857,210)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[19] (924,210)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+[20] (268,323)<dd class='ls_div ' id='ls_div0' />
+	[21] (207,323)<label >전체 />
+[22] (268,371)<dd class='ls_div on' id='ls_div2036' />
+	[23] (209,371)<label >PC용 />
+[24] (268,420)<dd class='ls_div ' id='ls_div2037' />
+	[25] (216,420)<label >노트북용 />
+[26] (268,468)<dd class='ls_div ' id='ls_div2038' />
+	[27] (211,468)<label >서버용 />
+[28] (268,517)<dd class='ls_div ' id='ls_div2474' />
+	[29] (235,517)<label >XMP/EXPO 메모리 />
+필터
+[30] (934,346)<a href='javascript:reset_opt();' />
+	[31] (934,346)<span >초기화 />
+[32] (672,505)<div class='scroll_opt' scrollable='true' />
+	[33] (948,409)<a class='btn_toggle' href='javascript:open_opt(4408);' id='btn_toggle4408' />
+	제조사
+	[34] (466,416)<input class='ch_bx' id='chk_52573' />
+	[35] (520,415)<label >삼성전자 />
+	[36] (578,416)<input class='ch_bx' id='chk_86785' />
+	[37] (632,415)<label >SK hynix />
+	[38] (690,416)<input class='ch_bx' id='chk_100004' />
+	[39] (745,415)<label >에센코어 />
+	[40] (803,416)<input class='ch_bx' id='chk_52590' />
+	[41] (857,415)<label >마이크론 />
+	타무즈
+	Kingston
+	ANACOMDA
+	BIWIN
+	Transcend
+	Team Group
+	DLI
+	이메이션
+	ADATA
+	트레브
+	커널앤코어
+	OLOy
+	G.SKILL
+	GeIL
+	AFOX
+	HIKSEMI
+	Apacer
+	PATRIOT
+	CYNEX
+	PNY
+	TeraByte
+	GUDGA
+	Wodposit
+	디오테라
+	AGI
+	메모리종류
+	[42] (466,482)<input class='ch_bx' id='chk_83415' />
+	[43] (520,482)<label >DDR5 />
+	[44] (578,482)<input class='ch_bx' id='chk_10818' />
+	[45] (632,482)<label >DDR4 />
+	[46] (690,482)<input class='ch_bx' id='chk_10815' />
+	[47] (745,482)<label >DDR3 />
+	메모리용량
+	[48] (466,549)<input class='ch_bx' id='chk_109634' />
+	[49] (520,548)<label >256GB />
+	[50] (578,549)<input class='ch_bx' id='chk_109668' />
+	[51] (632,548)<label >4GB />
+	[52] (690,549)<input class='ch_bx' id='chk_10805' />
+	[53] (745,548)<label >128GB />
+	[54] (803,549)<input class='ch_bx' id='chk_95848' />
+	[55] (857,548)<label >96GB />
+	64GB
+	48GB
+	32GB
+	24GB
+	16GB
+	8GB
+	메모리클럭
+	[56] (466,616)<input class='ch_bx' id='chk_85055' />
+	[57] (520,615)<label >6400MHz (PC5-51200) />
+	[58] (578,616)<input class='ch_bx' id='chk_84550' />
+	[59] (632,615)<label >6000MHz (PC5-48000) />
+	[60] (690,616)<input class='ch_bx' id='chk_84654' />
+	[61] (745,615)<label >5600MHz (PC5-44800) />
+	[62] (803,616)<input class='ch_bx' id='chk_84519' />
+	[63] (857,615)<label >5200MHz (PC5-41600) />
+	4800MHz (PC5-38400)
+	4000MHz (PC4-32000)
+	3600MHz (PC4-28800)
+	3200MHz (PC4-25600)
+	2666MHz (PC4-21300)
+	2400MHz (PC4-19200)
+	2133MHz (PC4-17000)
+	1600MHz (PC3-12800)
+	1066MHz (PC3-8500)
+	메모리개수
+	1개
+	2개 묶음
+	4개 묶음
+	방열판유/무
+	방열판 유
+	방열판 무
+	부가기능
+	클럭드라이버
+메모리
+[64] (353,731)<input id='Search_free' />
+무료배송
+[65] (418,731)<input id='Search_Event' />
+행사제품보기
+총
+2
+건
+[66] (307,808)<input id='SearchKeyword' />
+[67] (363,810)<a href='javascript:search_keyword();' />
+[68] (433,808)<select  />
+[69] (65,967)<a class='imgbox' href='javascript:detail_show('990235')' title='[제품코드:990235]' />
+[70] (223,948)<a class='imgbox' href='javascript:detail_show('990235')'>DDR5 / 16GB / 5600MHz (PC5-44800) / 방열판 무 / PC용 / 최신 생산 주차 />
+	[71] (223,922)<b >[삼성전자] 삼성 DDR5 PC5-44800 [16GB] (5600)[990235] />
+판매가격
+355,000
+담기
+총 견적금액
+750,150
+원
+[72] (536,808)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[73] (565,808)<input  />
+[74] (594,808)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[75] (658,808)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[76] (658,809)<span >전체수량변경 />
+[77] (546,919)<label  />
+	[78] (528,918)<span  />
+		[79] (528,919)<input  />
+	[80] (554,918)<span >전체선택 />
+[81] (713,918)<a class='wbtn' href='javascript:add_wish_list();' />
+	[82] (713,919)<span >관심상품추가 />
+[83] (774,918)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[84] (774,919)<span >장바구니담기 />
+[85] (833,918)<a class='wbtn' />
+	[86] (833,919)<span >견적서출력 />
+[87] (891,918)<a class='wbtn' href='javascript:speck_form();' />
+	[88] (891,919)<span >사양검토요청 />
+초기화
+인텔 병행수입
+
+</current_dom>

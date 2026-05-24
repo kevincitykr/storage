@@ -1,0 +1,16 @@
+# Task: Automate Workflow on Anti-Gravity Dashboard
+
+## Plan
+1. [ ] Navigate to http://127.0.0.1:5000 and verify elements.
+2. [ ] Click 'Start Automation Workflow'.
+3. [ ] Monitor console for '제작 완료!'.
+4. [ ] Verify 'Latest AI Script' is populated.
+5. [ ] Capture final screenshot.
+
+## Progress
+- [x] Navigate to http://127.0.0.1:5000 and verify elements.
+- Found "Anti-Gravity Control Center" and "Start Automation Workflow" button after refresh.
+- [x] Click 'Start Automation Workflow'.
+- [x] Monitor console for '제작 완료!'.
+- [ ] Verify 'Latest AI Script' is populated. (Currently: "대본 생성 대기 중..." - Waiting for backend to reflect data)
+- [ ] Capture final screenshot.

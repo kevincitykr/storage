@@ -1,0 +1,64 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (72,53)<a href='../main/main.htm' />
+	[1] (72,53)<img  />
+[2] (299,53)<div class='search_bar' />
+	[3] (277,53)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (430,53)<button aria-label='검색' class='search28_3A' />
+로그인
+[5] (921,53)<a href='../member/member_kind.htm'>회원가입 />
+[6] (968,53)<a href='javascript:void(0);'>상담센터 />
+[7] (29,140)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[8] (64,140)<a class='prev24_6C nav_prev_btn' href='javascript:void(0);' />
+[9] (96,144)<a href='javascript:void(0);'>조립PC />
+[10] (134,144)<a href='javascript:void(0);'>견적 />
+[11] (176,144)<a href='../hotsale/hotsale.htm?bannerid=GNBBannerHotsale'>파격할인 />
+[12] (228,144)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[13] (283,144)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[14] (333,144)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[15] (397,144)<a href='javascript:void(0);'>컴퓨존추천 />
+[16] (449,144)<a href='javascript:void(0);'>전용관 />
+[17] (491,144)<a href='javascript:void(0);'>매거진 />
+[18] (538,144)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[19] (579,144)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[20] (632,144)<a href='javascript:void(0);'>컴퓨존 라이브 />
+공식
+[21] (930,150)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[22] (971,150)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[23] (956,666)<a href='javascript:void(0);' />
+	[24] (946,666)<span  />
+		[25] (946,666)<img  />
+	[26] (968,666)<p >챗봇 />
+[27] (670,881)<button class='menu-btn' id='bot-menu' />
+[28] (794,881)<input id='bot-input' placeholder='궁금한 내용을 여기에 입력해 주세요.' />
+[29] (881,881)<button class='send-btn' id='bot-send' />
+어린이날
+드론 특가
+조립PC
+야르하네
+HP노트북
+마스터팩
+Dell
+배민5만원
+황야의
+아스널
+[30] (956,801)<a href='../event_zone/eventzone_view.htm?EventNo=60847&bannerid=QuickMenuRolling' />
+	[31] (956,801)<img  />
+	[32] (956,831)<p >어린이날
+드론 특가 />
+야르하네
+[33] (937,883)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+5
+/
+5
+[34] (975,883)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[35] (940,938)<a href='javascript:void(0);' />
+	[36] (940,938)<img  />
+[37] (973,938)<a href='javascript:void(0);' />
+	[38] (973,938)<img  />
+어린이날 기념 드론 특가 할인 이벤트
+행사기간 : 2026-04-13 ~ 2026-05-10
+
+</current_dom>

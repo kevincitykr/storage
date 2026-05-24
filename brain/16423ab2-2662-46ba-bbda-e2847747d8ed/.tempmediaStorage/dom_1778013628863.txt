@@ -1,0 +1,70 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (181,30)<button class='Sidebar_btn_tab__cK2KB' role='tab'>카페정보 />
+[1] (246,30)<button class='Sidebar_btn_tab__cK2KB' role='tab'>나의활동 />
+[2] (174,121)<a class='Sidebar_thumb__Qdq8s' href='https://cafe.naver.com/joonggonara' />
+[3] (221,96)<a class='Sidebar_nickname__EAtDX' href='https://cafe.naver.com/f-e/cafes/10050146/members/MokGI1z_orABW9EK8LpfFo6WVvnUzJvKl-gGIbFuTRw'>중고나라운영진1 />
+매니저
+[4] (227,123)<a class='Sidebar_link__gAh1M' href='https://cafe.naver.com/f-e/cafes/10050146/introduction/history'>2003.12.10.
+개설 />
+[5] (214,147)<a class='Sidebar_link__gAh1M' href='https://cafe.naver.com/CafeProfileView.nhn?clubid=10050146'>카페소개 />
+[6] (214,210)<a class='Sidebar_link__gAh1M' href='https://cafe.naver.com/f-e/cafes/10050146/introduction/ranking'>카페등급 />
+	카페등급
+	[7] (161,208)<span  />
+	[8] (175,208)<em >숲 />
+[9] (187,243)<button class='Sidebar_link__gAh1M Sidebar_link_member__hahZP' title='멤버목록 비공개 카페' />
+	[10] (161,243)<span >카페멤버수 />
+		카페멤버수
+	[11] (195,243)<em >19,428,438 />
+[12] (264,243)<a class='Sidebar_link_invite___V0jY' href='https://cafe.naver.com/joonggonara?iframe_url=/CafeInviteCheck.nhn?m=check&clubid=10050146'>초대 />
+대표
+인기
+카페
+[13] (214,384)<button class='Sidebar_btn__8YLxw'>카페 가입하기 />
+[14] (214,452)<button class='Sidebar_btn_talk__rBSal'>카페 채팅 />
+[15] (201,516)<input class='input_text' title='카페글 검색어 입력' />
+[16] (266,514)<button class='btn'>검색 />
+[17] (186,568)<a class='Sidebar_link__gAh1M Sidebar_isSelected__3xsnZ' href='/f-e/cafes/10050146/menus/0' role='menuitem'>전체글보기 />
+226,606,419
+[18] (182,602)<a class='Sidebar_link__gAh1M' href='/f-e/cafes/10050146/popular' role='menuitem'>인기글 />
+[19] (205,658)<a class='Sidebar_link__gAh1M' href='https://tracking.joongna.com/i7wnxt' role='menuitem'>💸 빠르게 상품 팔기 />
+[20] (209,693)<a class='Sidebar_link__gAh1M' href='https://tracking.joongna.com/ir0gte' role='menuitem'>📊 중고 시세 확인하기 />
+[21] (209,727)<a class='Sidebar_link__gAh1M' href='/f-e/cafes/10050146/menus/2769' role='menuitem'>상품등록 및 판매 팁✅ />
+[22] (216,762)<a class='Sidebar_link__gAh1M' href='https://vvd.bz/hCWg' role='menuitem'>갤럭시 기획전 바로가기↗️ />
+[23] (213,835)<a class='Sidebar_link__gAh1M' href='https://cafe.naver.com/joonggonara/1117147411' role='menuitem'>[필독] 중고나라 상품등록 변경안내 />
+[24] (200,887)<a class='Sidebar_link__gAh1M' href='https://web.joongna.com/signin?loginType=cafe&callbackUrl=%2Fcafe-help%2Fguide' role='menuitem'>중고나라 고객센터 />
+[25] (193,921)<a class='Sidebar_link__gAh1M' href='https://vvd.bz/cK3S' role='menuitem'>셀러 회원 신청 />
+[26] (193,956)<a class='Sidebar_link__gAh1M' href='https://vvd.bz/dkXU' role='menuitem'>광고/제휴 문의 />
+[27] (195,990)<a class='Sidebar_link__gAh1M' href='https://vvd.bz/W0d' role='menuitem'>네이버 쪽지함> />
+[28] (725,26)<a class='BaseButton btn_prev BaseButton--skinGray size_default' href='https://cafe.naver.com/joonggonara?iframe_url=%2FArticleRead.nhn%3Fclubid%3D10050146%26articleid%3D1126967281' role='button' />
+	[29] (729,26)<span >이전글 />
+[30] (785,26)<a class='BaseButton btn_next BaseButton--skinGray size_default' href='https://cafe.naver.com/joonggonara?iframe_url=%2FArticleRead.nhn%3Fclubid%3D10050146%26articleid%3D1126967186' role='button' />
+	[31] (789,26)<span >다음글 />
+[32] (835,26)<a class='BaseButton BaseButton--skinGray size_default' href='https://cafe.naver.com/f-e/ArticleList.nhn?search.clubid=10050146&search.menuid=2751&search.boardtype=L' role='button' />
+	[33] (835,26)<span >목록 />
+[34] (341,127)<a class='link_board' href='https://cafe.naver.com/f-e/ArticleList.nhn?search.clubid=10050146&search.menuid=2751&search.boardtype=L'>데스크탑/본체 />
+RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함)
+[35] (323,240)<a class='thumb' href='/ca-fe/cafes/10050146/members/vqc5rXlb4zThsOMy24iLMwciX73zVbf26TfMkiL_BYY' />
+	[36] (323,240)<img  />
+	[37] (334,213)<span >인기멤버 />
+[38] (366,228)<button class='nickname' id='writerInfovqc5rXlb4zThsOMy24iLMwciX73zVbf26TfMkiL_BYY'>아에에이오우 />
+본인인증 회원
+[39] (477,228)<a class='link_talk' href='#'>1:1 채팅 />
+2026.03.22. 12:30
+조회 39
+[40] (753,245)<a class='button_comment' href='#' role='button'>댓글 />
+	[41] (772,245)<strong >0 />
+[42] (802,245)<a class='button_url' href='#' role='button'>URL 복사 />
+[43] (827,243)<a class='button_more' href='#' id='articleTool' role='button' title='더보기' />
+[44] (572,592)<img  />
+[45] (572,870)<a href='https://tracking.joongna.com/5prrwd?productseq=226595875' id='more-button' />
+	[46] (572,870)<span  />
+		[47] (572,870)<span  />
+			[48] (572,870)<span  />
+				[49] (564,870)<span >상품 정보 더보기 />
+				[50] (616,870)<span >〉 />
+상품 정보
+
+</current_dom>

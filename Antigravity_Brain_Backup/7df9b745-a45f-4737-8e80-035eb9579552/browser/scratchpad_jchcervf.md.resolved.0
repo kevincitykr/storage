@@ -1,0 +1,9 @@
+# Syncthing Investigation Task List
+
+- [ ] Open http://localhost:8384
+- [ ] Inspect 'Kevincity Share' folder status
+- [ ] Check if folder is 'Scanning'
+- [ ] Check logs for errors (Actions -> Logs)
+- [ ] Check 'upload2601' device status
+- [ ] Investigate low speed (1 B/s)
+- [ ] Check for conflicts or failed items

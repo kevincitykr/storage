@@ -1,0 +1,61 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+AI MONETIZE
+[0] (91,534)<ul class='nav-links' scrollable='true'>🚀
+                외부 채널 연결
+⚙️ 계정 및 설정 />
+	[1] (87,209)<li >🖊️ 구글/네이버 생성기 />
+	[2] (87,293)<li >🌿 티스토리 (건강/생활) />
+	[3] (87,376)<li >📊 분석 대시보드 />
+	[4] (87,459)<li >📂 최근 작성 내역 />
+	🚀
+                외부 채널 연결
+	[5] (87,642)<li class='nav-item'>📝 구글 블로거 />
+	[6] (87,725)<li class='nav-item'>🌿 티스토리 홈 />
+	[7] (87,809)<li class='nav-item'>📱 쓰레드(SNS) />
+	⚙️ 계정 및 설정
+[8] (91,930)<div >🔓 프리미엄 업그레이드 />
+안녕하세요, 수익형 블로거님! 👋
+오늘은 어떤 고수익 글을 써볼까요?
+Pro Member
+예상 수익 (30일)
+₩428,500
+▲ 12.4% vs 상반기
+누적 발행 글
+124개
+▲ 8개 이번 주
+평균 체류 시간
+2m 45s
+▼ 0.5s vs 어제
+수익화 확률 (Top)
+94%
+정부지원금 뉴스 기반
+🔥 실시간 핫토픽
+글로벌/IT 주요 뉴스
+[9] (328,645)<button class='copy-btn' id='refresh-topics'>새로고침 />
+⚙️ 포스팅 상세 설정
+[10] (586,581)<label >주제 또는 뉴스 링크 />
+[11] (586,632)<input id='topic' placeholder='뉴스 URL 또는 키워드 입력' />
+[12] (517,689)<label >스타일 />
+[13] (474,732)<button class='option-btn active'>구글 SEO />
+[14] (517,732)<button class='option-btn'>정보 요약 />
+[15] (655,689)<label >강조 />
+[16] (655,739)<textarea id='extra' placeholder='예: '표로 정리해'' />
+[17] (512,802)<label >📸 히어로 URL />
+[18] (512,853)<input id='hero-image-url' placeholder='https://...' />
+[19] (649,852)<button class='generate-btn' id='generate-btn'>매그넘 생성 ➔ />
+	매그넘 생성 ➔
+🤖 무한 오토파일럿
+OFF
+🍯 티스토리 황금 키워드
+건강/생활 고수익 주제
+[20] (844,633)<label >티스토리 전용 입력 />
+[21] (844,673)<input id='tistory-topic-input' placeholder='주제명 자동 입력' />
+[22] (844,729)<button class='generate-btn'>티스토리용 생성 ➔ />
+[23] (958,931)<div id='help-fab' title='사용법 가이드' />
+	[24] (958,931)<span >❓ />
+[25] (906,751)<div class='help-body' scrollable='true' />
+
+</current_dom>

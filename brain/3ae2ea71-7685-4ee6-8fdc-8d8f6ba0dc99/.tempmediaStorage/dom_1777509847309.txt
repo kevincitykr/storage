@@ -1,0 +1,167 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 콘텐츠
+[0] (500,46)<input class='style-scope ytcp-omnisearch' id='query-input' placeholder='채널에서 검색하기' />
+내 최근 동영상
+[1] (656,124)<a class='style-scope ytcp-omnisearch' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/videos' id='show-all-link' />
+	[2] (656,124)<ytcp-button class='style-scope ytcp-omnisearch' />
+		[3] (656,124)<ytcp-button-shape  />
+			[4] (656,124)<button aria-label='모두 보기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>모두 보기 />
+				모두 보기
+				[5] (656,124)<yt-touch-feedback-shape  />
+					[6] (656,124)<div  />
+[7] (500,229)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/8lcoKhh4jwM/edit' id='video-result-0' />
+	[8] (500,229)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[9] (500,229)<div  />
+			[10] (456,228)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[11] (460,228)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[12] (355,228)<div  />
+						[13] (355,228)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[14] (355,228)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/8lcoKhh4jwM/edit' id='thumbnail-anchor' />
+								[15] (355,228)<div  />
+									[16] (355,228)<ytcp-thumbnail  />
+										[17] (355,228)<div  />
+											[18] (355,228)<ytcp-img-with-fallback  />
+												[19] (355,228)<div  />
+													[20] (355,228)<img  />
+											[21] (381,257)<div  />
+												[22] (381,257)<div >0:56 />
+					[23] (493,217)<div  />
+						[24] (499,200)<div  />
+							[25] (499,211)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[26] (499,203)<a aria-label='[Playlist] Way Home 감성 하이라이트 #3' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/8lcoKhh4jwM/edit' id='video-title' />
+									[27] (477,203)<span >[Playlist] Way Home 감성 하이라이트 #3 />
+						[28] (499,243)<div  />
+							[29] (499,243)<div >🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing />
+			[30] (656,228)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 30. />
+				[31] (652,231)<div >업로드 날짜 />
+[32] (500,351)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/kjYo2dbwwbM/edit' id='video-result-1' />
+	[33] (500,351)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[34] (500,351)<div  />
+			[35] (456,351)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[36] (460,351)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[37] (355,351)<div  />
+						[38] (355,351)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[39] (355,351)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/kjYo2dbwwbM/edit' id='thumbnail-anchor' />
+								[40] (355,351)<div  />
+									[41] (355,351)<ytcp-thumbnail  />
+										[42] (355,351)<div  />
+											[43] (355,351)<ytcp-img-with-fallback  />
+												[44] (355,351)<div  />
+													[45] (355,351)<img  />
+											[46] (381,379)<div  />
+												[47] (381,379)<div >0:56 />
+					[48] (493,339)<div  />
+						[49] (499,322)<div  />
+							[50] (499,333)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[51] (499,325)<a aria-label='[Playlist] Way Home 감성 하이라이트 #2' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/kjYo2dbwwbM/edit' id='video-title' />
+									[52] (477,325)<span >[Playlist] Way Home 감성 하이라이트 #2 />
+						[53] (499,365)<div  />
+							[54] (499,365)<div >🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing />
+			[55] (656,351)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 30. />
+				[56] (652,353)<div >업로드 날짜 />
+[57] (500,473)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/vgQYPm56X6I/edit' id='video-result-2' />
+	[58] (500,473)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[59] (500,473)<div  />
+			[60] (456,473)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[61] (460,473)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[62] (355,473)<div  />
+						[63] (355,473)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[64] (355,473)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/vgQYPm56X6I/edit' id='thumbnail-anchor' />
+								[65] (355,473)<div  />
+									[66] (355,473)<ytcp-thumbnail  />
+										[67] (355,473)<div  />
+											[68] (355,473)<ytcp-img-with-fallback  />
+												[69] (355,473)<div  />
+													[70] (355,473)<img  />
+											[71] (381,501)<div  />
+												[72] (381,501)<div >0:56 />
+					[73] (493,461)<div  />
+						[74] (499,444)<div  />
+							[75] (499,455)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[76] (499,447)<a aria-label='[Playlist] Way Home 감성 하이라이트 #1' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/vgQYPm56X6I/edit' id='video-title' />
+									[77] (477,447)<span >[Playlist] Way Home 감성 하이라이트 #1 />
+						[78] (499,487)<div  />
+							[79] (499,487)<div >🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing />
+			[80] (656,473)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 30. />
+				[81] (652,475)<div >업로드 날짜 />
+[82] (500,595)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/dxsScxE_mf4/edit' id='video-result-3' />
+	[83] (500,595)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[84] (500,595)<div  />
+			[85] (456,595)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[86] (460,595)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[87] (355,595)<div  />
+						[88] (355,595)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[89] (355,595)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/dxsScxE_mf4/edit' id='thumbnail-anchor' />
+								[90] (355,595)<div  />
+									[91] (355,595)<ytcp-thumbnail  />
+										[92] (355,595)<div  />
+											[93] (355,595)<ytcp-img-with-fallback  />
+												[94] (355,595)<div  />
+													[95] (355,595)<img  />
+											[96] (381,623)<div  />
+												[97] (381,623)<div >0:56 />
+					[98] (493,583)<div  />
+						[99] (499,566)<div  />
+							[100] (499,577)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[101] (499,569)<a aria-label='[Playlist] Quiet Contemplation 감성 하이라이트 #3' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/dxsScxE_mf4/edit' id='video-title' />
+									[102] (495,569)<span >[Playlist] Quiet Contemplation 감성 하이라이트 #3 />
+						[103] (499,609)<div  />
+							[104] (499,609)<div >🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing />
+			[105] (656,595)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 30. />
+				[106] (652,597)<div >업로드 날짜 />
+[107] (500,717)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/mSMc6PyxgvM/edit' id='video-result-4' />
+	[108] (500,717)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[109] (500,717)<div  />
+			[110] (456,717)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[111] (460,717)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[112] (355,717)<div  />
+						[113] (355,717)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[114] (355,717)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/mSMc6PyxgvM/edit' id='thumbnail-anchor' />
+								[115] (355,717)<div  />
+									[116] (355,717)<ytcp-thumbnail  />
+										[117] (355,717)<div  />
+											[118] (355,717)<ytcp-img-with-fallback  />
+												[119] (355,717)<div  />
+													[120] (355,717)<img  />
+											[121] (381,745)<div  />
+												[122] (381,745)<div >0:56 />
+					[123] (493,705)<div  />
+						[124] (499,688)<div  />
+							[125] (499,699)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[126] (499,691)<a aria-label='[Playlist] Quiet Contemplation 감성 하이라이트 #2' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/mSMc6PyxgvM/edit' id='video-title' />
+									[127] (495,691)<span >[Playlist] Quiet Contemplation 감성 하이라이트 #2 />
+						[128] (499,731)<div  />
+							[129] (499,731)<div >🎧 풀버전 연속듣기는 채널에서 확인하세요!
+
+#Shorts #Lofi #Relaxing />
+			[130] (656,717)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 30. />
+				[131] (652,719)<div >업로드 날짜 />
+만들기
+내 채널
+Melodist Seoul
+[132] (83,614)<ytcp-animatable class='top-section sync-on-transition style-scope ytcp-navigation-drawer' scrollable='true' />
+	대시보드
+	콘텐츠
+	분석
+	커뮤니티
+	자막
+	콘텐츠 감지
+	수익 창출
+	맞춤설정
+	오디오 보관함
+설정
+의견 보내기
+[133] (583,546)<main class='style-scope ytcp-entity-page' id='main' scrollable='true' />
+
+</current_dom>

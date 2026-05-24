@@ -1,0 +1,99 @@
+console.cloud.google.com 에서는 서비스 제공 및 서비스 품질 개선과 트래픽 분석을 위해 Google 쿠키를 사용합니다.
+[0] (645,953)<a aria-label='Google에서 쿠키를 사용하는 방법을 자세히 알아보세요. 새 탭에서 열립니다.' class='glue-cookie-notification-bar__more' href='https://policies.google.com/technologies/cookies?hl=ko'>자세히 알아보세요 />
+[1] (964,953)<button class='glue-cookie-notification-bar__accept'>확인 />
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+[2] (18,35)<button aria-label='탐색 메뉴 (.)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[3] (18,35)<cm-icon  />
+[4] (78,35)<a aria-label='Google Cloud Platform 홈' class='cfc-logo-anchor mat-focus-indicator' href='/?project=gen-lang-client-0937252527' />
+[5] (179,35)<button aria-label='현재 Gemini Project에서 작업 중입니다. 프로젝트, 폴더 또는 조직을 전환하려면 Enter 키를 누르세요.' class='mdc-button mat-mdc-button-base gmat-mdc-button ng-tns-c1277316461-2 mat-mdc-button cfc-switcher-button new-switcher-button mat-unthemed cm-button' />
+	Gemini Project
+[6] (520,35)<div class='pcc-combobox' role='combobox' />
+	[7] (531,35)<input aria-label='쿼리를 입력하여 리소스, 문서, 제품 등 검색' class='cm-input gmat-mdc-input mat-mdc-input-element pcc-search-input ng-untouched ng-pristine ng-valid cdk-text-field-autofill-monitored' id='mat-input-0' placeholder='리소스, 문서, 제품 등 검색(/)' />
+검색
+[8] (880,35)<button aria-label='Gemini AI 채팅 열기 (Alt G)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='pcc-duet-chat-container' />
+	[9] (880,35)<cm-icon  />
+[10] (932,35)<button aria-label='읽지 않은 알림 1개 알림 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[11] (932,35)<div  />
+		[12] (932,35)<div  />
+			[13] (932,26)<div >1 />
+[14] (958,35)<button aria-label='설정 및 유틸리티' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='pcc-utilities-menu-trigger' />
+	[15] (958,35)<cm-icon  />
+[16] (984,35)<button aria-label='계정: 김광섭 (sohwe124@gmail.com)' class='cfc-accountchooser-link mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+[17] (500,535)<cfc-virtual-viewport class='cfc-virtual-scroll-viewport cfc-panel-body cfc-panel-body-flex cfc-panel-disable-border-bottom cfc-virtual-scroll-orientation-vertical' role='presentation' scrollable='true' />
+	시작하기
+	작업 중인 프로젝트:
+	[18] (282,370)<button aria-label='Gemini Project에서 작업 중입니다. 프로젝트, 폴더 또는 조직을 전환하려면 Enter 키를 누르세요.' class='mdc-button mat-mdc-button-base gmat-mdc-button brief-scope-change-button has-scope mat-mdc-button mat-primary cm-button cfc-tooltip ng-star-inserted' />
+		Gemini Project
+	프로젝트 번호:
+	1034000460683
+	[19] (286,433)<button aria-label='Copy Project number to clipboard: 1034000460683' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-easy-copy-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+		[20] (286,433)<cm-icon  />
+	프로젝트 ID:
+	gen-lang-client-0937252527
+	[21] (492,433)<button aria-label='Copy Project ID to clipboard: gen-lang-client-0937252527' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-easy-copy-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+		[22] (492,433)<cm-icon  />
+	[23] (159,488)<a class='ng-star-inserted' href='/home/dashboard?project=gen-lang-client-0937252527'>대시보드 />
+	[24] (212,488)<a class='ng-star-inserted' href='/cloud-hub/home?project=gen-lang-client-0937252527'>Cloud Hub />
+	[25] (200,607)<a class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-primary cm-button ng-star-inserted' href='/agent-platform/studio/settings/api-keys?project=gen-lang-client-0937252527' />
+		[26] (156,607)<cm-icon  />
+		[27] (208,607)<span >Gemini API 키 만들기 />
+	[28] (318,607)<a class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-primary cm-button ng-star-inserted' href='/agent-platform/studio/agent-designer?project=gen-lang-client-0937252527' />
+		[29] (286,607)<cm-icon  />
+		[30] (325,607)<span >에이전트 만들기 />
+	[31] (414,607)<a class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-primary cm-button ng-star-inserted' href='/compute/instancesAdd?project=gen-lang-client-0937252527' />
+		[32] (392,607)<cm-icon  />
+		[33] (421,607)<span >VM 만들기 />
+	[34] (527,607)<a class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-primary cm-button ng-star-inserted' href='/bigquery?project=gen-lang-client-0937252527' />
+		[35] (478,607)<cm-icon  />
+		[36] (534,607)<span >BigQuery에서 쿼리 실행 />
+	[37] (192,682)<a class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-primary cm-button ng-star-inserted' href='/run/overview?project=gen-lang-client-0937252527' />
+		[38] (156,682)<cm-icon  />
+		[39] (200,682)<span >애플리케이션 배포 />
+	[40] (312,682)<a class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-primary cm-button ng-star-inserted' href='/storage/create-bucket?project=gen-lang-client-0937252527' />
+		[41] (270,682)<cm-icon  />
+		[42] (319,682)<span >스토리지 버킷 만들기 />
+	[43] (771,561)<gs-marketing-card  />
+		[44] (771,561)<a class='ng-star-inserted' href='http://developers.google.com/program/?utm_source=gcp&utm_medium=welcome-card&utm_campaign=FY25-global-gcp-onboarding-console-gdp-standard-premium&utm_content=gdp&utm_term=gdp' />
+			[45] (771,561)<div  />
+				[46] (771,521)<div  />
+					[47] (771,521)<span >Google Developer Program에 가입하여 무료로 새로운 기술과 개발 도구에 대해 알아보세요. />
+				[48] (771,653)<div  />
+					[49] (745,653)<div >지금 참여하기 />
+					[50] (824,653)<div  />
+						[51] (824,653)<cm-icon  />
+	빠른 액세스
+	[52] (225,885)<a class='gmat-card quick-access-card mat-focus-indicator only-defaults cfc-tooltip ng-star-inserted' href='/apis?project=gen-lang-client-0937252527' />
+		[53] (225,886)<div  />
+			[54] (229,886)<div  />
+				[55] (161,886)<div  />
+					[56] (161,884)<cm-icon  />
+				[57] (200,886)<div  />
+					[58] (198,884)<div >API 및 서비스 />
+	[59] (405,885)<a class='gmat-card quick-access-card mat-focus-indicator only-defaults cfc-tooltip ng-star-inserted' href='/iam-admin?project=gen-lang-client-0937252527' />
+		[60] (405,886)<div  />
+			[61] (409,886)<div  />
+				[62] (340,886)<div  />
+					[63] (340,884)<cm-icon  />
+				[64] (381,886)<div  />
+					[65] (379,884)<div >IAM 및 관리자 />
+	[66] (585,885)<a class='gmat-card quick-access-card mat-focus-indicator only-defaults cfc-tooltip ng-star-inserted' href='/billing?project=gen-lang-client-0937252527' />
+		[67] (585,886)<div  />
+			[68] (589,886)<div  />
+				[69] (520,886)<div  />
+					[70] (520,884)<cm-icon  />
+				[71] (542,886)<div  />
+					[72] (539,884)<div >결제 />
+	[73] (764,885)<a class='gmat-card quick-access-card mat-focus-indicator only-defaults cfc-tooltip ng-star-inserted' href='/compute?project=gen-lang-client-0937252527' />
+		[74] (764,886)<div  />
+			[75] (768,886)<div  />
+				[76] (700,886)<div  />
+					[77] (700,884)<cm-icon  />
+				[78] (749,886)<div  />
+					[79] (746,884)<div >Compute Engine />
+이제 문서, 리소스 메타데이터, 튜토리얼, API 키를 검색할 수 있습니다.
+[80] (546,104)<button aria-label='설명 닫기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-callout-close-button cfc-button-small ng-tns-c3730881416-3 mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+	[81] (546,104)<cfc-icon  />
+		[82] (546,104)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />

@@ -1,0 +1,10 @@
+# Syncthing Configuration Task
+
+- [ ] Go to http://localhost:8384
+- [x] Find the folder 'Kevincity Share' (D:\20260412 kevincity share)
+- [x] Expand the folder and click 'Edit' (편집)
+- [x] Go to 'Sharing' (공유) tab
+- [x] Check 'upload2601'
+- [x] Click 'Save' (저장)
+- [x] Verify 'Shared With' (공유 대상) shows 'upload2601'
+- [x] Check connection status of 'upload2601'

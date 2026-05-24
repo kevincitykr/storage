@@ -1,0 +1,228 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (666,69)<a href='/search/4070%20%EC%8A%88%ED%8D%BC?minPrice=1400000&maxPrice=1650000&openChat=true' />
+	[7] (666,69)<div  />
+		[8] (649,69)<div  />
+			[9] (649,69)<img  />
+		[10] (675,69)<span >채팅하기 />
+[11] (732,69)<a href='/product/form?type=regist' />
+	[12] (732,69)<div  />
+		[13] (715,69)<div  />
+			[14] (715,69)<img  />
+		[15] (741,69)<span >판매하기 />
+[16] (790,69)<a href='/mystore' />
+	[17] (790,69)<div  />
+		[18] (781,69)<div  />
+			[19] (781,69)<img  />
+		[20] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[21] (904,329)<button aria-label='최근 본 상품 그램 15 판매합니다. 미개봉 새상품 15ZD80T-GX56K 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[22] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228196645' />
+	[23] (886,369)<img  />
+[24] (904,462)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[25] (886,502)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[26] (886,502)<img  />
+추천순
+최신순
+낮은가격순
+높은가격순
+[27] (239,342)<div  />
+	[28] (239,318)<a class='w-full' href='/product/228234218' />
+		[29] (239,318)<div  />
+			[30] (239,242)<div  />
+				[31] (239,242)<div  />
+				[32] (284,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[33] (239,457)<div  />
+				[34] (239,438)<div  />
+					[35] (239,418)<span >급처 i9-9900k RTX 4070 SUPER / 32GB 게이밍 컴퓨터 />
+					[36] (239,468)<div  />
+						[37] (239,468)<div  />
+							[38] (208,468)<span >1,400,000 />
+							[39] (241,470)<span >원 />
+				[40] (239,511)<div  />
+					[41] (239,511)<div  />
+						[42] (188,511)<div  />
+							[43] (188,511)<div  />
+								[44] (193,511)<span >4 />
+						[45] (200,511)<div  />
+						[46] (219,511)<span >5시간 전 />
+[47] (369,342)<div  />
+	[48] (369,318)<a class='w-full' href='/product/227575281' />
+		[49] (369,318)<div  />
+			[50] (369,242)<div  />
+				[51] (369,242)<div  />
+				[52] (415,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[53] (369,457)<div  />
+				[54] (369,438)<div  />
+					[55] (369,418)<span >7800x3d, 4070ti or 4070 super, 32기가 램 완본체 사요 />
+					[56] (369,468)<div  />
+						[57] (369,468)<div  />
+							[58] (339,468)<span >1,400,000 />
+							[59] (372,470)<span >원 />
+				[60] (369,511)<div  />
+					[61] (369,511)<div  />
+						[62] (327,511)<div  />
+							[63] (318,511)<div  />
+								[64] (324,511)<span >2 />
+							[65] (337,511)<div  />
+								[66] (343,511)<span >1 />
+						[67] (349,511)<div  />
+						[68] (366,511)<span >20일 전 />
+[69] (500,342)<div  />
+	[70] (500,317)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=8748170067&itemId=25429803491&vendorItemId=94731358578&traceid=V0-153-1658ba83295ec26e&requestid=20260506165524155040604773&token=31850C%7CGM' />
+		[71] (500,317)<div  />
+			[72] (500,242)<div  />
+				[73] (500,242)<div  />
+			[74] (500,455)<div  />
+				[75] (500,438)<div  />
+					[76] (500,418)<span >MSI 지포스 RTX 5070 게이밍 트리오 OC 화이트 D7 12GB 트라이프로져4 />
+					[77] (500,468)<div  />
+						[78] (500,468)<div  />
+							[79] (470,468)<span >1,099,000 />
+							[80] (502,470)<span >원 />
+				[81] (500,510)<div  />
+					[82] (500,510)<span >광고 |
+쿠팡 />
+[83] (631,342)<div  />
+	[84] (631,342)<a class='w-full' href='/product/226595875' />
+		[85] (631,342)<div  />
+			[86] (631,242)<div  />
+				[87] (631,242)<div  />
+				[88] (677,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[89] (631,481)<div  />
+				[90] (631,438)<div  />
+					[91] (631,418)<span >RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) />
+					[92] (631,468)<div  />
+						[93] (631,468)<div  />
+							[94] (600,468)<span >1,600,000 />
+							[95] (633,470)<span >원 />
+				[96] (631,536)<div  />
+					[97] (631,511)<div  />
+						[98] (590,511)<div  />
+							[99] (580,511)<div  />
+								[100] (586,511)<span >9 />
+							[101] (599,511)<div  />
+								[102] (605,511)<span >7 />
+					[103] (631,557)<div  />
+						[104] (587,557)<div  />
+							[105] (587,557)<span >무료배송 />
+[106] (761,342)<div  />
+	[107] (761,318)<a class='w-full' href='/product/225920419' />
+		[108] (761,318)<div  />
+			[109] (761,242)<div  />
+				[110] (761,242)<div  />
+				[111] (807,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[112] (761,457)<div  />
+				[113] (761,438)<div  />
+					[114] (761,418)<span >게이밍 데스크탑 PC(7500F, 4070super, ram 48gb) />
+					[115] (761,468)<div  />
+						[116] (761,468)<div  />
+							[117] (731,468)<span >1,600,000 />
+							[118] (764,470)<span >원 />
+				[119] (761,511)<div  />
+					[120] (761,511)<div  />
+						[121] (724,511)<div  />
+							[122] (713,511)<div  />
+								[123] (718,511)<span >13 />
+							[124] (736,511)<div  />
+								[125] (741,511)<span >19 />
+[126] (239,808)<div  />
+	[127] (239,808)<a class='w-full' href='/product/222647858' />
+		[128] (239,808)<div  />
+			[129] (239,732)<div  />
+				[130] (239,732)<div  />
+				[131] (284,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[132] (239,947)<div  />
+				[133] (239,928)<div  />
+					[134] (239,908)<span >7800x3d rtx4070ti super 게이밍 본체 />
+					[135] (239,959)<div  />
+						[136] (239,959)<div  />
+							[137] (208,959)<span >1,450,000 />
+							[138] (241,960)<span >원 />
+				24
+				56
+[139] (369,808)<div  />
+	[140] (369,808)<a class='w-full' href='/product/221975672' />
+		[141] (369,808)<div  />
+			[142] (369,732)<div  />
+				[143] (369,732)<div  />
+				[144] (415,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[145] (369,947)<div  />
+				[146] (369,928)<div  />
+					[147] (369,908)<span >라이젠 7800X3D + 4070SUPER 게이밍본체 />
+					[148] (369,959)<div  />
+						[149] (369,959)<div  />
+							[150] (339,959)<span >1,500,000 />
+							[151] (372,960)<span >원 />
+				11
+				12
+[152] (500,808)<div  />
+	[153] (500,808)<a class='w-full' href='/product/213254091' />
+		[154] (500,808)<div  />
+			[155] (500,732)<div  />
+				[156] (500,732)<div  />
+				[157] (546,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[158] (500,947)<div  />
+				[159] (500,928)<div  />
+					[160] (500,908)<span >14600kf 4070ti super 모든거 다처분함 />
+					[161] (500,959)<div  />
+						[162] (500,959)<div  />
+							[163] (470,959)<span >1,500,000 />
+							[164] (502,960)<span >원 />
+				61
+				90
+[165] (631,808)<div  />
+	[166] (631,794)<a class='w-full' href='/product/217488773' />
+		[167] (631,794)<div  />
+			[168] (631,732)<div  />
+				[169] (631,732)<div  />
+				[170] (677,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[171] (631,933)<div  />
+				[172] (631,914)<div  />
+					[173] (631,894)<span >4070super 9600X 게이밍pc />
+					[174] (631,930)<div  />
+						[175] (631,930)<div  />
+							[176] (601,930)<span >1,430,000 />
+							[177] (633,931)<span >원 />
+				[178] (631,973)<div  />
+					[179] (631,973)<div  />
+						[180] (594,973)<div  />
+							[181] (582,973)<div  />
+								[182] (588,973)<span >20 />
+							[183] (606,973)<div  />
+								[184] (611,973)<span >17 />
+[185] (761,808)<div  />
+	[186] (761,807)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=8242804629&itemId=23720388315&vendorItemId=90745235272&traceid=V0-153-7cc3970a4f437730&requestid=20260506165524155040604773&token=31850C%7CGM' />
+		[187] (761,807)<div  />
+			[188] (761,732)<div  />
+				[189] (761,732)<div  />
+			[190] (761,946)<div  />
+				[191] (761,928)<div  />
+					[192] (761,908)<span >주연테크 2024 MARINE 라이젠5 라이젠 7000 시리즈 지포스 RTX 4070 Ti SUPER />
+					[193] (761,959)<div  />
+						[194] (761,959)<div  />
+							[195] (732,959)<span >2,098,000 />
+							[196] (766,960)<span >원 />
+				광고 |
+				쿠팡
+[197] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[198] (854,907)<div  />
+		[199] (903,907)<div  />
+[200] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[201] (902,799)<span  />
+
+</current_dom>

@@ -1,0 +1,156 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (64,59)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwj45f212JGUAxWnm68BHaMbDH4QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (341,58)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (563,58)<div  />
+	[3] (561,58)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,58)<span  />
+	[5] (578,58)<span  />
+[6] (594,58)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (594,58)<span  />
+[8] (620,58)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (647,58)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (677,58)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (673,58)<div  />
+		[12] (673,58)<span  />
+[13] (910,58)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (942,58)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,58)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dwonseokjung%2Bstitch%2BMCP&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (151,128)<a class='XVMlrc C6AK7c' href='/search?q=wonseokjung+stitch+MCP&sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n6b88Uk9iWB6KEWd-j0f__4X31Azw:1777418641574&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LBl8SswGuQ7XDhfE8LRE8EkBl7wJByt3b9HQZEPxaFnwSix2bEYokDJbyH0GvGs8M-QOIHl_iFJ26YhDYC772D5Fhy4xa5Ef72Y0Uvro211P9r960Y&aep=1&ntc=1&sa=X&ved=2ahUKEwj45f212JGUAxWnm68BHaMbDH4Q2J8OegQIExAI' />
+	[17] (151,128)<div  />
+		[18] (151,137)<div  />
+			[19] (151,131)<span >AI 모드 />
+[20] (189,128)<a class='C6AK7c' role='link' />
+	전체
+[21] (226,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n6b88Uk9iWB6KEWd-j0f__4X31Azw:1777418641574&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LBl8SswGuQ7XDhfE8LRE8EkBl7wJByt3b9HQZEPxaFnwSix2bEYokDJbyH0GvGs8M-QOIHl_iFJ26YhDYC772D5Fhy4xa5Ef72Y0Uvro211P9r960Y&q=wonseokjung+stitch+MCP&sa=X&ved=2ahUKEwj45f212JGUAxWnm68BHaMbDH4QtKgLegQIGRAB' />
+	[22] (226,128)<div  />
+		[23] (226,137)<span >이미지 />
+[24] (268,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n6b88Uk9iWB6KEWd-j0f__4X31Azw:1777418641574&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LBl8SswGuQ7XDhfE8LRE8EkBl7wJByt3b9HQZEPxaFnwSix2bEYokDJbyH0GvGs8M-QOIHl_iFJ26YhDYC772D5Fhy4xa5Ef72Y0Uvro211P9r960Y&q=wonseokjung+stitch+MCP&sa=X&ved=2ahUKEwj45f212JGUAxWnm68BHaMbDH4QtKgLegQIGBAB' />
+	[25] (268,128)<div  />
+		[26] (268,137)<span >동영상 />
+[27] (305,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n6b88Uk9iWB6KEWd-j0f__4X31Azw:1777418641574&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LBl8SswGuQ7XDhfE8LRE8EkBl7wJByt3b9HQZEPxaFnwSix2bEYokDJbyH0GvGs8M-QOIHl_iFJ26YhDYC772D5Fhy4xa5Ef72Y0Uvro211P9r960Y&q=wonseokjung+stitch+MCP&ved=1t:220175&ictx=111' />
+	[28] (305,128)<div  />
+		[29] (305,137)<span >쇼핑 />
+[30] (352,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n6b88Uk9iWB6KEWd-j0f__4X31Azw:1777418641574&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LBl8SswGuQ7XDhfE8LRE8EkBl7wJByt3b9HQZEPxaFnwSix2bEYokDJbyH0GvGs8M-QOIHl_iFJ26YhDYC772D5Fhy4xa5Ef72Y0Uvro211P9r960Y&q=wonseokjung+stitch+MCP&sa=X&ved=2ahUKEwj45f212JGUAxWnm68BHaMbDH4Qs6gLegQIFhAB' />
+	[31] (352,128)<div  />
+		[32] (352,137)<span >짧은 동영상 />
+[33] (399,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n6b88Uk9iWB6KEWd-j0f__4X31Azw:1777418641574&q=wonseokjung+stitch+MCP&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LBl8SswGuQ7XDhfE8LRE8EkBl7wJByt3b9HQZEPxaFnwSix2bEYokDJbyH0GvGs8M-QOIHl_iFJ26YhDYC772D5Fhy4xa5Ef72Y0Uvro211P9r960Y&sa=X&ved=2ahUKEwj45f212JGUAxWnm68BHaMbDH4Q0pQJegQIFRAB' />
+	[34] (399,128)<div  />
+		[35] (399,137)<span >뉴스 />
+[36] (442,128)<div class='mTpL7c' role='button' />
+	[37] (442,128)<div  />
+		[38] (442,137)<div  />
+			[39] (436,131)<span >더보기 />
+			[40] (455,131)<span  />
+[41] (491,128)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,128)<div  />
+		[43] (491,137)<div  />
+			[44] (485,131)<span >도구 />
+			[45] (499,131)<span  />
+검색결과
+이것을 찾으셨나요?
+[46] (307,202)<a href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n6b88Uk9iWB6KEWd-j0f__4X31Azw:1777418641574&q=wonseok+jung+stitch+MCP&spell=1&sa=X&ved=2ahUKEwj45f212JGUAxWnm68BHaMbDH4QBSgAegQIEhAB'>stitch MCP />
+	[47] (277,202)<em >wonseok jung />
+AI 개요
+[48] (858,241)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+[49] (181,283)<a class='GI370e' href='https://www.google.com/search?q=Google+Stitch+MCP&mstk=AUtExfCk-pbqDSrFIBo4QDELsU7zcOX4Rj8i01t8jP8qWY0TnYvYeHmBaTYy94PtWgn9ZovCV8rCP8c2OW4kgpq5r1QYoC4cRhsu5dq0gAXi533LJ89yrY5hjKEJ3SaQphy-c7kwhP9VjZleBsxWKpWzX2FuxIrGvM6jUBBbr_RbJ2dRTKEaXo303O_pegct_Ay6kq66LBHxnW1_oUgyYKItS0fxhDF_qtNhZdb5PxdyKg77VLPACcetrqelvdeoYWMr1BgfKSj9G1TYFSAs-cbUKDNK&csui=3&ved=2ahUKEwi45ZO22JGUAxVVn68BHRw_IsQQgK4QegQIARAB' />
+	[50] (181,283)<span >Google Stitch MCP />
+(Model Context Protocol)는 구글의 Stitch 디자인 플랫폼과 AI 기반 개발 환경(IDE)을 연결하여, 고충실도 UI 디자인을 실제 작동하는 React/Tailwind 애플리케이션 코드로 자동 변환하는 기술입니다.
+[51] (304,339)<button aria-label='Google Codelabs - 관련 링크 보기' class='rBl3me IWyTpf pjvauc' />
+	Google Codelabs
+이 기술을 통해 디자이너와 개발자 간의 격차를 줄이고, 디자인에서 코드까지의 과정을 자동화할 수 있습니다.
+[52] (221,411)<button aria-label='Threads 외 1개 - 관련 링크 보기' class='rBl3me IWyTpf pjvauc' />
+	Threads
+	+1
+주요 내용 및 기능
+시각적 디자인-코드 전환:
+Stitch에서 자연어로 생성한 웹 디자인을 Antigravity IDE와 같은 환경으로 가져와 실제 작동하는 코드로 구현합니다.
+MCP 브리지 구성:
+Stitch API 키를 사용하여 Antigravity IDE 내에서 MCP 서버를 구성, 에이전트가 디자인 DNA를 직접 가져오게 합니다.
+자동화된 워크플로우:
+디자인 토큰을 수동으로 내보낼 필요 없이, AI 에이전트가 디자인 토큰과 레이아웃 메타데이터를 기반으로 React/Tailwind 코드를 스캐폴딩하고 생성합니다.
+실시간 수정 및 반영:
+생성된 코드와 원본 Stitch 디자인을 비교하며 버튼 패딩, 글꼴 두께 등 시각적 요소를 AI를 통해 즉시 수정할 수 있습니다.
+Google Codelabs
++1
+실습 및 설정 (Antigravity IDE 기반)
+준비물: Google Stitch 계정 및 API 키, Antigravity IDE, Node.js v18 이상.
+Stitch 디자인 생성:
+stitch.withgoogle.com
+에서 Gemini를 사용하여 UI 디자인을 생성하고 프로젝트 이름을 지정합니다.
+Antigravity 설정: Antigravity IDE의 에이전트 관리자에서 Stitch MCP를 검색하여 설치하고, Stitch API 키를 구성합니다.
+[53] (722,357)<a aria-label='Antigravity 및 Stitch MCP를 사용한 디자인-코드. 새 탭에서 열립니다.' class='NDNGvf' href='https://codelabs.developers.google.com/design-to-code-with-antigravity-stitch?hl=ko' />
+Antigravity 및 Stitch MCP를 사용한 디자인-코드
+이 페이지의 내용 * 소개 실습할 내용 학습할 내용 필요한 항목 시작하기 전에 * Google Stitch에...
+Google Codelabs
+[54] (847,415)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-kUHxafjYONW-vr0PnP6IoQw_20' role='button' />
+Google Stitch MCP Just Made Claude Code 10x Better
+2026. 3. 24. —
+and agent skills that means right now i use this in clot cod...
+11m
+[55] (841,483)<div  />
+	[56] (841,483)<div  />
+YouTube
+·
+MG
+13/ 구글의 "Stitch MCP Server"가 공개되면서 IDE 환경 내에서 ...
+2026. 1. 24. —
+1.7K Views. 7 Likes. @choi.openai quoted @choi.openai: 구글 St...
+Threads
+[57] (500,605)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[58] (345,605)<div  />
+		[59] (345,605)<div >더보기 />
+			더보기
+			[60] (361,605)<span  />
+웹 검색결과
+[61] (218,733)<a class='zReHs' href='https://kr.linkedin.com/posts/sangrok-jung-9ab787311_%EC%98%A4%EB%A7%88%EC%9D%B4%EC%98%A4%ED%94%88%EC%BD%94%EB%93%9C%EC%97%90-%EA%B5%AC%EA%B8%80-stitch-mcp%EB%A5%BC-%EC%84%A4%EC%B9%98%ED%95%98%EB%A9%B4-%EC%9E%90%EC%97%B0%EC%96%B4%EB%A1%9C-ui-%EB%94%94%EC%9E%90%EC%9D%B8%EC%9D%84-activity-7419641565649793024-Av70' />
+	[62] (218,757)<h3 >SangRok Jung님의 업데이트 />
+	[63] (202,718)<div  />
+		[64] (202,718)<div  />
+			[65] (146,718)<span  />
+				[66] (146,718)<div  />
+					[67] (146,718)<img  />
+			[68] (215,718)<div  />
+				[69] (215,708)<div  />
+					[70] (215,708)<span >LinkedIn · SangRok Jung />
+				[71] (215,730)<div  />
+					[72] (206,730)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>반응 20개 이상  ·  3개월 전 />
+[73] (281,728)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[74] (281,728)<span  />
+		[75] (281,730)<span  />
+오마이오픈코드에 구글
+Stitch MCP
+를 설치하면 자연어로 UI 디자인을 바로 생성할 수 있다는 거 알고 계셨나요? 프론트엔드 코드까지 자동으로 만들어 ...
+누락된 검색어:
+wonseokjung
+‎| 필수 포함 항목:
+[76] (345,840)<a href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n6b88Uk9iWB6KEWd-j0f__4X31Azw:1777418641574&q=%22wonseokjung%22+stitch+MCP&sa=X&ved=2ahUKEwj45f212JGUAxWnm68BHaMbDH4Q5t4CegQIIhAB' />
+	[77] (345,840)<span >wonseokjung />
+[78] (262,924)<a class='zReHs' href='https://www.facebook.com/jinho.jung/posts/%ED%8C%81-%EA%B5%AC%EA%B8%80-stitch-mcp-antigravity-%EC%97%B0%EB%8F%99%ED%95%98%EA%B8%B0%EA%B5%AC%EA%B8%80-stitch-mcp-%EA%B0%80-%EA%B3%B5%EA%B0%9C%EB%90%98%EC%97%88%EC%8A%B5%EB%8B%88%EB%8B%A4antigravity-%EC%97%90%EC%84%9C-%EC%97%B0%EB%8F%99-%EA%B0%80%EB%8A%A5%ED%95%A9%EB%8B%88%EB%8B%A40-/10162446265955838/' />
+	[79] (262,946)<h3 >[팁] 구글 Stitch MCP, Antigravity 연동하기 ... />
+	[80] (197,907)<div  />
+		[81] (197,907)<div  />
+			[82] (146,907)<span  />
+				[83] (146,907)<div  />
+					[84] (146,907)<img  />
+			[85] (210,907)<div  />
+				[86] (210,897)<div  />
+					[87] (210,897)<span >Facebook · Jinho Jung />
+				[88] (210,918)<div  />
+					[89] (206,918)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>반응 50개 이상  ·  3개월 전 />
+[90] (270,917)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[91] (270,917)<span  />
+		[92] (270,918)<span  />
+[팁] 구글
+Stitch MCP
+, Antigravity 연동하기 구글
+Stitch MCP
+가 공개되었습니다. Antigravity 에서 연동 가능합니다. 0. 설치 가이드 읽기(중요) https ...
+
+</current_dom>

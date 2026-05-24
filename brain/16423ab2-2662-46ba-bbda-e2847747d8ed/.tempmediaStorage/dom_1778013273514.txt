@@ -1,0 +1,175 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,46)<a class='link' href='https://www.naver.com' />
+	[1] (150,46)<i  />
+[2] (379,40)<fieldset  />
+	[3] (340,46)<input class='box_window' id='nx_query' placeholder='검색어를 입력해 주세요.' role='combobox' />
+	[4] (575,46)<button class='bt_search' />
+		[5] (572,46)<i  />
+	[6] (530,46)<a class='bt_setkr' href='#' id='ke_kbd_btn' role='button' />
+		[7] (528,46)<i  />
+	[8] (546,44)<a class='bt_atcp _btn_arw' href='#' id='nautocomplete' role='button' />
+		[9] (546,47)<i  />
+[10] (943,46)<a class='gnb_btn_login' href='https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3D%25EC%25A4%2591%25EA%25B3%25A0%25EB%2582%2598%25EB%259D%25BC%2Bi7-13700F%2BRTX%2B4070%2B%26nso%3Dso%253Add%252Cp%253Aall' id='gnb_login_button' />
+	[11] (943,46)<span >로그인 />
+[12] (975,45)<a class='gnb_service' href='javascript:;' />
+	[13] (975,46)<span  />
+[14] (348,136)<div class='api_flicking_wrap _conveyer_root' role='tablist' scrollable='true' />
+	[15] (164,136)<a class='tab' href='?ssc=tab.blog.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add' role='tab'>블로그 />
+	[16] (208,136)<a class='tab' href='?ssc=tab.cafe.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add' role='tab'>카페 />
+	[17] (251,136)<a class='tab' href='?ssc=tab.image.all&where=image&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add' role='tab'>이미지 />
+	[18] (294,136)<a class='tab' href='?ssc=tab.clip.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add' role='tab'>클립 />
+	[19] (338,136)<a class='tab' href='?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add' role='tab'>지식iN />
+	[20] (396,136)<a class='tab' href='?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add' role='tab'>인플루언서 />
+	[21] (453,136)<a class='tab' href='?ssc=tab.video.all&where=video&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add' role='tab'>동영상 />
+	[22] (497,136)<a class='tab' href='https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070' role='tab'>쇼핑 />
+	뉴스
+	숏텐츠
+	어학사전
+	지도
+	도서
+	지식백과
+	학술정보
+[23] (542,136)<a class='btn' href='#' role='button' />
+	[24] (542,136)<span  />
+		[25] (543,136)<i  />
+[26] (574,136)<a class='nav_more _more_btn' href='#' role='button' />
+	[27] (574,138)<i  />
+[28] (967,137)<a class='spnew2_bf bt_share naver-splugin' href='#' id='spiButton2' role='button'>공유 />
+중고나라 i7-13700F RTX 4070 검색 결과
+[29] (557,269)<button class='spnew_bf bt_close _search_option_close_btn' />
+정렬
+[30] (203,262)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Ar%2Cp%3Aall&nso_open=1' role='tab'>관련도순 />
+[31] (249,262)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3Aall&nso_open=1' role='tab'>최신순 />
+기간
+[32] (193,324)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3Aall&nso_open=1' role='tab'>전체 />
+[33] (228,324)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3A1h&nso_open=1' role='tab'>1시간 />
+[34] (261,324)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3A1d&nso_open=1' role='tab'>1일 />
+[35] (288,324)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3A1w&nso_open=1' role='tab'>1주 />
+[36] (321,324)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3A1m&nso_open=1' role='tab'>1개월 />
+[37] (358,324)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3A3m&nso_open=1' role='tab'>3개월 />
+[38] (396,324)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3A6m&nso_open=1' role='tab'>6개월 />
+[39] (428,324)<a class='txt' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso=so%3Add%2Cp%3A1y&nso_open=1' role='tab'>1년 />
+[40] (473,324)<a class='txt txt_option _calendar_select_trigger' href='#' role='tab'>직접입력 />
+	[41] (494,325)<i  />
+[42] (185,391)<a class='btn_clear spnew_bf' href='?ssc=tab.nx.all&where=nexearch&sm=tab_opt&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700F+RTX+4070&nso_open=1' role='button'>옵션 초기화 />
+[43] (525,391)<a class='link_help' href='https://help.naver.com/support/alias/search/integration/intergration_84.naver'>검색옵션 가이드 />
+	[44] (559,393)<i  />
+[45] (320,515)<a class='fender-ui_228e3bd1 fuEeTheWo1xOLE_hhlBU' href='https://theinfocenter.co.kr/%EC%A0%95%EB%B3%B4/%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%98%B8%EA%B0%B1-%ED%83%88%EC%B6%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-pc-%EA%B0%80%EC%84%B1%EB%B9%84-%EB%81%9D%ED%8C%90%EC%99%95-%EA%B3%A0%EB%A5%B4%EB%8A%94/' />
+	[46] (320,515)<div  />
+		[47] (320,515)<div  />
+			[48] (161,515)<div  />
+				[49] (161,515)<div  />
+					[50] (161,515)<div  />
+						[51] (161,515)<img  />
+			[52] (330,515)<div  />
+				[53] (330,515)<span  />
+					[54] (330,515)<div  />
+						[55] (212,515)<span >theinfocenter.co.kr />
+						[56] (254,515)<span >› />
+						[57] (373,515)<span >컴퓨터-호갱-탈출-데스크탑-pc-가성비-끝판왕-고르는 />
+[58] (564,515)<button aria-label='옵션 메뉴 열기' class='sds-comps-horizontal-layout sds-comps-inline-layout sds-comps-button sds-comps-icon-button fender-ui_e68fe790 _keep_trigger' />
+[59] (359,567)<a class='fender-ui_228e3bd1 Vs01_8vbOgzyFOyfPRes' href='https://theinfocenter.co.kr/%EC%A0%95%EB%B3%B4/%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%98%B8%EA%B0%B1-%ED%83%88%EC%B6%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-pc-%EA%B0%80%EC%84%B1%EB%B9%84-%EB%81%9D%ED%8C%90%EC%99%95-%EA%B3%A0%EB%A5%B4%EB%8A%94/' />
+	[60] (359,567)<span >컴퓨터, 호갱 탈출! 데스크탑 PC 가성비 끝판왕 고르는 초간단 가이드 - 노하우팁 />
+[61] (359,647)<a class='fender-ui_228e3bd1 NrNsKK5xRK0ahHLzIJLL' href='https://theinfocenter.co.kr/%EC%A0%95%EB%B3%B4/%EC%BB%B4%ED%93%A8%ED%84%B0-%ED%98%B8%EA%B0%B1-%ED%83%88%EC%B6%9C-%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91-pc-%EA%B0%80%EC%84%B1%EB%B9%84-%EB%81%9D%ED%8C%90%EC%99%95-%EA%B3%A0%EB%A5%B4%EB%8A%94/' />
+	[62] (359,647)<span  />
+		[63] (181,612)<span  />
+			[64] (179,612)<span >2025.06.21. />
+		[65] (358,681)<span >데스크탑 컴퓨터를 구매하기 전 가장 먼저 해야 할 일은 바로 자신의 사용 목적을 명확히 하는 것입니다. 단순히 “좋은 컴퓨터”를 사겠다고 생각하면 불필요하게 비싼 사양을 구매하거나, 반대로 필요한 성능에 미치지 못하는 PC를 구매하게 될 수 있습니다. 컴퓨터 가격을 합리적으로 책정하기 위해서는 용도별로 어떤 부품에 투자해야 하는지 아는 것이 중요합니다. 데스크탑... />
+[66] (283,764)<a class='fender-ui_228e3bd1 fuEeTheWo1xOLE_hhlBU' href='https://quasarzone.com/bbs/qf_hwjoin/views/2162401%3Cbr%3E%ED%95%B4%EB%8B%B9%EB%A7%81%ED%81%AC%EC%97%90%EC%84%9C' />
+	[67] (283,764)<div  />
+		[68] (283,764)<div  />
+			[69] (161,764)<div  />
+				[70] (161,764)<div  />
+					[71] (161,764)<div  />
+						[72] (161,764)<img  />
+			[73] (192,764)<div  />
+				[74] (192,764)<span >퀘이사존 />
+			[75] (314,764)<div  />
+				[76] (216,764)<span  />
+				[77] (316,764)<span  />
+					[78] (316,764)<div  />
+						[79] (254,764)<span >quasarzone.com />
+						[80] (293,764)<span >› />
+						[81] (355,764)<span >2162401<br>해당링크에서 />
+[82] (564,764)<button aria-label='옵션 메뉴 열기' class='sds-comps-horizontal-layout sds-comps-inline-layout sds-comps-button sds-comps-icon-button fender-ui_e68fe790 _keep_trigger' />
+[83] (318,816)<a class='fender-ui_228e3bd1 Vs01_8vbOgzyFOyfPRes' href='https://quasarzone.com/bbs/qf_hwjoin/views/2162401%3Cbr%3E%ED%95%B4%EB%8B%B9%EB%A7%81%ED%81%AC%EC%97%90%EC%84%9C' />
+	[84] (318,816)<span >내가 보기위한
+가 확인용 (CPU 라이젠 추가) > PC조립/견적 />
+		[85] (242,815)<mark >중고 />
+[86] (359,896)<a class='fender-ui_228e3bd1 NrNsKK5xRK0ahHLzIJLL' href='https://quasarzone.com/bbs/qf_hwjoin/views/2162401%3Cbr%3E%ED%95%B4%EB%8B%B9%EB%A7%81%ED%81%AC%EC%97%90%EC%84%9C' />
+	[87] (359,896)<span  />
+		[88] (181,861)<span  />
+			[89] (179,861)<span >2024.08.30. />
+		[90] (358,930)<span >4 퀘존 장터 및 쿨엔조이 최근거래완료 3개월 이내 거래목록없을시
+최근거래완료... 5
+12700K 26
+28
+13700 30
+13700KF 32
+13700K 34
+14700F 35
+14700 38
+14700KF 41
+14700K 43 i9-9900... 44
+60
+S 70
+RTX4070
+Ti 80
+RTX4070
+TiS 95
+RTX
+4080 110
+RTX
+4080S 130
+RTX
+4090 240 SSD 저장장치 [m.2 , sata3... />
+			[91] (538,861)<mark >중고나라 />
+			[92] (240,896)<mark >i7- />
+			[93] (321,896)<mark >i7-13700F />
+			[94] (369,896)<mark >i7- />
+			[95] (428,896)<mark >i7- />
+			[96] (497,896)<mark >i7- />
+			[97] (358,913)<mark >i7- />
+			[98] (215,930)<mark >i7- />
+			[99] (273,930)<mark >i7- />
+			[100] (342,930)<mark >i7- />
+			[101] (480,930)<mark >RTX4070 />
+			[102] (541,930)<mark >RTX4070 />
+			RTX4070
+			RTX4070
+			RTX
+			RTX
+			RTX
+[103] (359,998)<a class='fender-ui_228e3bd1 m0Zz4Ue7YwgX4__6D9Du' href='https://quasarzone.com/bbs/qf_hwjoin/views/2162401%253Cbr%253E%ED%95%B4%EB%8B%B9%EB%A7%81%ED%81%AC%EC%97%90%EC%84%9C' />
+	[104] (359,998)<span >내가 보기위한
+가 확인용 (CPU 라이젠 추가) > PC조립/견적 />
+		[105] (227,998)<mark >중고 />
+[106] (747,272)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001' />
+	[107] (642,272)<div  />
+		[108] (642,272)<img  />
+	[109] (758,272)<div  />
+		[110] (758,259)<strong >좋아하는 건 누구나 남기고 싶으니까 />
+		[111] (758,285)<p >클립 올리면 매주 쌓이는 Npay 포인트 />
+[112] (747,373)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2604-shopping-004&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F69b749a21598d745dca2155c%3FlayerId%3DL_260324103322314%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2604-shopping-004' />
+	[113] (642,374)<div  />
+		[114] (642,374)<img  />
+	[115] (758,374)<div  />
+		[116] (758,361)<strong >가정의달+세일 />
+		[117] (758,386)<p >선물에 진심, 혜택에 진심 N+스토어 />
+[118] (747,475)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2509-shopping-007&target=https%3A%2F%2Fshopping.naver.com%2Fns%2Fhome%2Fkurlynmart%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2509-shopping-007' />
+	[119] (642,475)<div  />
+		[120] (642,475)<img  />
+	[121] (758,475)<div  />
+		[122] (758,462)<strong >네이버에서 컬리를 />
+		[123] (758,488)<p >멤버십 2만원 이상 무료배송 />
+[124] (747,577)<a class='spnew_bf item' href='https://naver.me/FWTmTscE' />
+	[125] (642,577)<div  />
+		[126] (642,577)<img  />
+	[127] (758,577)<div  />
+		[128] (758,564)<strong >네이버가 더 편해지는 순간 />
+		[129] (758,590)<p >웨일 브라우저 알아보기 />
+
+</current_dom>

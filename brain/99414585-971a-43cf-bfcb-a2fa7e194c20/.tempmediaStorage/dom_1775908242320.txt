@@ -1,0 +1,167 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div  />
+		[2] (500,35)<header  />
+			[3] (101,35)<div class='x87ps6o xt0e3qv x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm' role='button' />
+				토큰값 0원! 구글 Gemma 4로 나만의 AI 코딩 에이전트 육성하기 EP.2 (안티그래비티 바이브 + Gemma 4)
+			[4] (820,35)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[5] (848,35)<div aria-label='소셜 미디어에 사이트 공유' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[6] (876,35)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[7] (901,35)<div aria-label='추가 작업' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+			[8] (956,35)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd x19zyb68 x16lehos xdxgbl4 xayv9eh x19b482l' role='button'>지금 시작하기 />
+		[9] (500,535)<main  />
+			[10] (500,535)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+				curl
+				<
+				http://localhost:11434/api/generate
+				>
+				-d
+				"{
+				\\
+				"
+				model
+				\
+				\
+				":
+				\\
+				"
+				gemma4:e2b
+				\
+				\
+				",
+				\\
+				"
+				prompt
+				\
+				\
+				":
+				\\
+				"
+				ai멘토 제이는 누구야?
+				\
+				\
+				",
+				\\
+				"
+				stream
+				\
+				\
+				": false}"
+				[11] (495,180)<div  />
+					[12] (495,180)<div  />
+						[13] (495,180)<div  />
+							[14] (495,180)<div  />
+								[15] (495,180)<div  />
+									[16] (495,180)<div  />
+				[17] (495,222)<div  />
+					[18] (495,222)<div  />
+				[19] (495,264)<div  />
+					[20] (495,264)<div  />
+						[21] (495,264)<div  />
+							[22] (495,264)<div  />
+								[23] (495,264)<div  />
+									[24] (495,264)<div  />
+				[25] (495,327)<div  />
+					[26] (495,327)<div  />
+						[27] (495,327)<div  />
+							[28] (495,327)<div  />
+								[29] (495,327)<div  />
+									[30] (495,327)<div  />
+				[31] (495,390)<div  />
+					[32] (495,390)<div  />
+						[33] (495,390)<div  />
+							[34] (495,390)<div  />
+								[35] (495,390)<div  />
+									[36] (495,390)<div >antigravity.config.json />
+				[37] (495,797)<div  />
+					[38] (495,797)<div  />
+						[39] (495,797)<div role='figure' />
+							[40] (495,797)<div  />
+								[41] (495,797)<div  />
+									[42] (495,797)<div  />
+										[43] (495,797)<div >, />
+											[44] (256,507)<span >{ />
+											[45] (258,539)<span  />
+											[46] (286,539)<span >"models" />
+											[47] (310,539)<span >: />
+											[48] (316,539)<span  />
+											[49] (321,539)<span >{ />
+											[50] (264,571)<span  />
+											[51] (294,571)<span >"local" />
+											[52] (316,571)<span >: />
+											[53] (321,571)<span  />
+											[54] (327,571)<span >{ />
+											[55] (269,604)<span  />
+											[56] (313,604)<span >"provider" />
+											[57] (343,604)<span >: />
+											[58] (349,604)<span  />
+											[59] (403,604)<span >"openai-compatible" />
+											[60] (458,604)<span >, />
+											[61] (269,636)<span  />
+											[62] (310,636)<span >"baseUrl" />
+											[63] (338,636)<span >: />
+											[64] (343,636)<span  />
+											[65] (420,636)<span >"http://localhost:11434/v1" />
+											[66] (497,636)<span >, />
+											[67] (269,668)<span  />
+											[68] (305,668)<span >"model" />
+											[69] (327,668)<span >: />
+											[70] (332,668)<span  />
+											[71] (368,668)<span >"gemma4:e2b" />
+											[72] (403,668)<span >, />
+											[73] (269,700)<span  />
+											[74] (308,700)<span >"apiKey" />
+											[75] (332,700)<span >: />
+											[76] (338,700)<span  />
+											[77] (362,700)<span >"ollama" />
+											[78] (387,700)<span >, />
+											[79] (269,732)<span  />
+											[80] (321,732)<span >"temperature" />
+											[81] (360,732)<span >: />
+											[82] (365,732)<span  />
+											[83] (376,732)<span >0.1 />
+											[84] (387,732)<span >, />
+											[85] (269,765)<span  />
+											[86] (316,765)<span >"maxTokens" />
+											[87] (349,765)<span >: />
+											[88] (354,765)<span  />
+											[89] (368,765)<span >4096 />
+											[90] (382,765)<span >, />
+											[91] (269,797)<span  />
+											[92] (327,797)<span >"contextWindow" />
+											[93] (371,797)<span >: />
+											[94] (376,797)<span  />
+											[95] (395,797)<span >128000 />
+											[96] (264,829)<span  />
+											[97] (278,829)<span >} />
+											[98] (258,861)<span  />
+											[99] (267,861)<span >} />
+											[100] (272,861)<span >, />
+											[101] (258,894)<span  />
+											[102] (302,894)<span >"defaultModel" />
+											[103] (343,894)<span >: />
+											[104] (349,894)<span  />
+											[105] (371,894)<span >"local" />
+											[106] (393,894)<span >, />
+											[107] (258,926)<span  />
+											[108] (291,926)<span >"fallback" />
+											[109] (321,926)<span >: />
+											[110] (327,926)<span  />
+											[111] (332,926)<span >{ />
+											[112] (264,958)<span  />
+											[113] (299,958)<span >"enabled" />
+											[114] (327,958)<span >: />
+											[115] (332,958)<span  />
+											[116] (346,958)<span >true />
+											[117] (360,958)<span >, />
+											[118] (264,990)<span  />
+											[119] (294,990)<span >"model" />
+											[120] (316,990)<span >: />
+											[121] (321,990)<span  />
+											[122] (371,990)<span >"claude-opus-4-6" />
+											,
+
+</current_dom>

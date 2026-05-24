@@ -1,0 +1,48 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (397,27)<tr  />
+	[1] (152,28)<a aria-label='README.md, (File)' class='Link--primary' href='/wonseokjung/notebooklm-mcp/blob/main/README.md' title='README.md'>README.md />
+	[2] (464,28)<a class='Link--secondary' href='/wonseokjung/notebooklm-mcp/commit/8233a050a12c198c18d01cf6d930668d2d4ae088' title='i18n: Translate CLI output and server messages to Korean'>i18n: Translate CLI output and server messages to Korean />
+[3] (397,74)<tr  />
+	[4] (156,74)<a aria-label='pyproject.toml, (File)' class='Link--primary' href='/wonseokjung/notebooklm-mcp/blob/main/pyproject.toml' title='pyproject.toml'>pyproject.toml />
+	[5] (423,74)<a class='Link--secondary' href='/wonseokjung/notebooklm-mcp/commit/43b30fd12d5e7ca6774ffd3a1a1f9153a9d726d3' title='chore: release v0.1.15 (docs updated)'>chore: release v0.1.15 (docs updated) />
+[6] (397,120)<tr  />
+	[7] (141,120)<a aria-label='uv.lock, (File)' class='Link--primary' href='/wonseokjung/notebooklm-mcp/blob/main/uv.lock' title='uv.lock'>uv.lock />
+	[8] (433,120)<a class='Link--secondary' href='/wonseokjung/notebooklm-mcp/commit/8c294b13a44693ca3a3ed7fb7592729bfb0d99f4' title='v0.1.14: Critical Fixes & Missing Constants
+
+Includes missing source constants from v0.1.13 and critical stability fixes for research polling.'>v0.1.14: Critical Fixes & Missing Constants />
+Repository files navigation
+[9] (136,190)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[10] (115,190)<span  />
+	[11] (144,190)<span >README />
+[12] (201,190)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[13] (183,190)<span  />
+	[14] (209,190)<span >License />
+[15] (678,189)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+Connect AI LAB 제이 AI 멘토: 1인 기업 수익화 정석
+[16] (111,276)<a aria-label='Permalink: Connect AI LAB 제이 AI 멘토: 1인 기업 수익화 정석' class='anchor' href='#connect-ai-lab-제이-ai-멘토-1인-기업-수익화-정석' id='user-content-connect-ai-lab-제이-ai-멘토-1인-기업-수익화-정석' />
+[17] (219,657)<a href='/wonseokjung/notebooklm-mcp/blob/main/docs/media/jay_profile.jpg' />
+	[18] (219,496)<img  />
+[19] (167,702)<a href='https://www.youtube.com/@CONNECT-AI-LAB'>유튜브 채널 바로가기 />
+|
+[20] (252,702)<a href='https://www.aicitybuilders.com/'>공식 홈페이지 />
+🏆 글로벌 AI 교육 1위, 제이가 만드는 1인 기업 자동화의 정석
+[21] (111,757)<a aria-label='Permalink: 🏆 글로벌 AI 교육 1위, 제이가 만드는 1인 기업 자동화의 정석' class='anchor' href='#-글로벌-ai-교육-1위-제이가-만드는-1인-기업-자동화의-정석' id='user-content--글로벌-ai-교육-1위-제이가-만드는-1인-기업-자동화의-정석' />
+Connect AI LAB 제이 AI 멘토
+에 오신 것을 환영합니다.
+이 프로젝트는
+글로벌 AI 교육 1위
+이자
+1인 기업가
+들의 멘토인 **제이(Jay)**가 직접 개발하고 있는 NotebookLM 자동화 시스템입니다.
+[22] (167,918)<a href='https://www.youtube.com/watch?v=Gts_7nuf9dQ' />
+	[23] (167,919)<img  />
+NotebookLM
+(notebooklm.google.com)을 프로그래밍 방식으로 제어하여, 여러분의 지식 비즈니스를 완전 자동화할 수 있도록 돕습니다.
+Languages
+Python
+100.0%
+
+</current_dom>

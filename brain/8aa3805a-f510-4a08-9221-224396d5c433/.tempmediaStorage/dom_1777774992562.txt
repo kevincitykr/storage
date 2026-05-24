@@ -1,0 +1,206 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (117,52)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (204,54)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (444,51)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='낚시 쿨러 아이스박스' role='searchbox' />
+[3] (646,54)<div  />
+	[4] (646,51)<img  />
+[5] (693,51)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (772,51)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (763,51)<span  />
+	[8] (787,51)<span  />
+[9] (830,51)<div  />
+	[10] (830,51)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[11] (821,51)<span  />
+		[12] (841,51)<span  />
+[13] (888,51)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[14] (879,51)<span  />
+	[15] (902,51)<span  />
+[16] (937,51)<div  />
+	[17] (941,51)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[18] (941,51)<span  />
+		[19] (952,39)<span >21 />
+[20] (149,572)<div class='ep_eq' scrollable='true' />
+	[21] (143,180)<div  />
+		[22] (75,180)<span >할인/혜택 />
+		[23] (234,180)<span  />
+	[24] (143,227)<span aria-label='filterCode:bigsale' class='jz_j0 ie_ig' />
+		[25] (54,227)<input class='jz_ar' id='filterCode:bigsale' />
+		[26] (152,227)<label class='jz_it'>세일 />
+			세일
+	[27] (143,322)<div  />
+		[28] (82,322)<span >배송/서비스 />
+		[29] (234,322)<span  />
+	[30] (143,368)<span aria-label='filterCode:xdaydelivery' class='jz_j0 ie_ig' />
+		[31] (54,368)<input class='jz_ar' id='filterCode:xdaydelivery' />
+		[32] (152,368)<label class='jz_it'>5-10일 배송 />
+			5-10일 배송
+	[33] (143,410)<span aria-label='filterCode:choice_atm' class='jz_j0 ie_ig' />
+		[34] (54,410)<input class='jz_ar' id='filterCode:choice_atm' />
+		[35] (152,410)<label class='jz_it'>Choice />
+			Choice
+	[36] (143,505)<div  />
+		[37] (75,505)<span >품질/신뢰 />
+		[38] (234,505)<span  />
+	[39] (143,551)<span aria-label='filterCode:4StarRating' class='jz_j0 ie_ig' />
+		[40] (54,551)<input class='jz_ar' id='filterCode:4StarRating' />
+		[41] (152,551)<label class='jz_it' />
+			이상
+	[42] (143,593)<span aria-label='filterCode:PremiumQuality' class='jz_j0 ie_ig' />
+		[43] (54,593)<input class='jz_ar' id='filterCode:PremiumQuality' />
+		[44] (152,593)<label class='jz_it'>프리미엄 품질 />
+			프리미엄 품질
+	[45] (143,689)<div  />
+		[46] (74,689)<span >발송 국가 />
+		[47] (234,689)<span  />
+	[48] (143,735)<span aria-label='-1' class='ip_iq' />
+		[49] (54,735)<input class='ip_ar' id='-1' />
+		[50] (152,735)<label class='ip_it'>모든 />
+	[51] (143,776)<span aria-label='KR' class='ip_iq' />
+		[52] (54,776)<input class='ip_ar ip_is' id='KR' />
+		[53] (152,776)<label class='ip_it' />
+			대한민국
+	[54] (143,818)<span aria-label='CN' class='ip_iq' />
+		[55] (54,818)<input class='ip_ar' id='CN' />
+		[56] (152,818)<label class='ip_it' />
+			중국
+	[57] (143,914)<div  />
+		[58] (65,914)<span >가격대 />
+		[59] (234,914)<span  />
+	₩
+	[60] (82,963)<input class='comet-input' placeholder='최소' />
+	-
+	₩
+	[61] (159,963)<input class='comet-input' placeholder='최대' />
+	[62] (213,963)<span >OK />
+에 따라 분류
+:
+[63] (759,171)<div  />
+	[64] (759,171)<span >가장 일치하는 내용 />
+[65] (859,171)<div  />
+	[66] (859,171)<span >주문 />
+[67] (921,171)<div  />
+	[68] (915,171)<span >가격 />
+	[69] (935,171)<div  />
+		[70] (934,173)<div  />
+		[71] (941,173)<div  />
+발송 국가
+:
+대한민국
+[72] (446,262)<span  />
+[73] (510,262)<span >모두 삭제 />
+종료시간 :
+5월 7일 23:59
+[74] (402,689)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005010481912372.html?algo_pvid=d7f9e2fa-61b4-4880-971c-2ad20e32af75&algo_exp_id=d7f9e2fa-61b4-4880-971c-2ad20e32af75-0&pdp_ext_f=%7B%22order%22%3A%22240%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%216500%216500%21%21%216500%216500%21%402102f0cc17777749843167093e080a%2112000052553961347%21sea%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A7f325c34%3Bm03_new_user%3A-29895&curPageLogUid=IaWNj51gS94Y&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010481912372%7C_p_origin_prod%3A' />
+	[75] (402,603)<div  />
+		[76] (402,603)<div  />
+			[77] (402,591)<div  />
+				[78] (402,591)<div  />
+			[79] (402,771)<div  />
+				[80] (383,771)<div  />
+				[81] (396,771)<div  />
+				[82] (409,771)<div  />
+				[83] (422,771)<div  />
+		[84] (473,690)<div  />
+			[85] (473,690)<div  />
+				[86] (473,690)<span  />
+	[87] (402,868)<div  />
+		[88] (402,798)<div aria-label='슈퍼스타 몽키스패너 10인치 ST-AW250' class='lw_an' role='heading' title='슈퍼스타 몽키스패너 10인치 ST-AW250' />
+			[89] (399,814)<h3 >슈퍼스타 몽키스패너 10인치 ST-AW250 />
+		[90] (402,839)<div aria-label='₩6,500' class='lw_el' />
+			[91] (332,841)<div  />
+				[92] (307,841)<span >₩ />
+				[93] (318,841)<span >6 />
+				[94] (326,841)<span >, />
+				[95] (346,841)<span >500 />
+		[96] (402,878)<div  />
+			[97] (340,879)<div  />
+				[98] (307,879)<img  />
+				[99] (318,879)<img  />
+				[100] (329,879)<img  />
+				[101] (340,879)<img  />
+				[102] (351,879)<img  />
+				[103] (368,879)<span >4.9 />
+			[104] (407,879)<span  />
+				[105] (383,881)<span  />
+				[106] (412,879)<span >240 판매 />
+		[107] (402,923)<div  />
+[108] (626,689)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005009754153883.html?algo_pvid=d7f9e2fa-61b4-4880-971c-2ad20e32af75&algo_exp_id=d7f9e2fa-61b4-4880-971c-2ad20e32af75-1&pdp_ext_f=%7B%22order%22%3A%22545%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%2138940%2138940%21%21%2138940%2138940%21%402102f0cc17777749843167093e080a%2112000050061513903%21sea%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A7f325c34%3Bm03_new_user%3A-29895&curPageLogUid=R5vttVVR6XOn&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009754153883%7C_p_origin_prod%3A' />
+	[109] (626,591)<div  />
+		[110] (626,591)<div  />
+		[111] (698,705)<div  />
+			[112] (698,705)<div  />
+				[113] (698,705)<span  />
+		[114] (722,438)<div  />
+			[115] (722,438)<span  />
+	[116] (626,856)<div  />
+		[117] (626,786)<div aria-label='초강력 무선 에어건 Areo X10 130000rpm' class='lw_an' role='heading' title='초강력 무선 에어건 Areo X10 130000rpm' />
+			[118] (625,802)<h3 >초강력 무선 에어건 Areo X10 130000rpm />
+		[119] (626,827)<div aria-label='₩38,940' class='lw_el' />
+			[120] (561,829)<div  />
+				[121] (531,829)<span >₩ />
+				[122] (547,829)<span >38 />
+				[123] (561,829)<span >, />
+				[124] (581,829)<span >940 />
+		[125] (626,866)<div  />
+			[126] (564,867)<div  />
+				[127] (531,867)<img  />
+				[128] (542,867)<img  />
+				[129] (553,867)<img  />
+				[130] (564,867)<img  />
+				[131] (576,867)<img  />
+				[132] (592,867)<span >4.6 />
+			[133] (635,867)<span  />
+				[134] (607,869)<span  />
+				[135] (640,867)<span >500+ 판매 />
+		[136] (626,911)<div  />
+			[137] (626,895)<div  />
+				[138] (533,895)<img  />
+				[139] (623,895)<span >₩30,000 구매 시 ₩4,100 할인 />
+			[140] (626,926)<div  />
+				[141] (588,926)<span >코인으로 추가 5% 할인 />
+		[142] (626,948)<div  />
+[143] (851,689)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005009734581136.html?algo_pvid=d7f9e2fa-61b4-4880-971c-2ad20e32af75&algo_exp_id=d7f9e2fa-61b4-4880-971c-2ad20e32af75-2&pdp_ext_f=%7B%22order%22%3A%2280%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%2110800%2110476%21%21%2110800%2110476%21%402102f0cc17777749843167093e080a%2112000049986031121%21sea%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A7f325c34%3Bm03_new_user%3A-29895&curPageLogUid=hLPwo9kV7dkR&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009734581136%7C_p_origin_prod%3A' />
+	[144] (851,603)<div  />
+		[145] (851,603)<div  />
+			[146] (851,591)<div  />
+				[147] (851,591)<div  />
+			[148] (851,771)<div  />
+				[149] (838,771)<div  />
+				[150] (851,771)<div  />
+				[151] (864,771)<div  />
+		[152] (922,690)<div  />
+			[153] (922,690)<div  />
+				[154] (922,690)<span  />
+	[155] (851,868)<div  />
+		[156] (851,798)<div aria-label='HPT 금속용 5인치 원형톱날 SB-S125 금속톱날 철재용 절단석 팁쏘 125mm' class='lw_an' role='heading' title='HPT 금속용 5인치 원형톱날 SB-S125 금속톱날 철재용 절단석 팁쏘 125mm' />
+			[157] (850,829)<h3 >HPT 금속용 5인치 원형톱날 SB-S125 금속톱날 철재용 절단석 팁쏘 125mm />
+		[158] (851,839)<div aria-label='₩10,476' class='lw_el' />
+			[159] (786,841)<div  />
+				[160] (755,841)<span >₩ />
+				[161] (772,841)<span >10 />
+				[162] (786,841)<span >, />
+				[163] (805,841)<span >476 />
+			[164] (849,841)<div  />
+				[165] (849,841)<span >₩10,800 />
+		[166] (851,878)<div  />
+			[167] (788,879)<div  />
+				[168] (755,879)<img  />
+				[169] (766,879)<img  />
+				[170] (778,879)<img  />
+				[171] (789,879)<img  />
+				[172] (800,879)<img  />
+				[173] (816,879)<span >4.7 />
+			[174] (852,879)<span  />
+				[175] (831,881)<span  />
+				[176] (857,879)<span >80 판매 />
+		[177] (851,923)<div  />
+			[178] (851,907)<div  />
+				[179] (757,907)<img  />
+				[180] (847,907)<span >₩30,000 구매 시 ₩4,100 할인 />
+			[181] (851,938)<div  />
+				[182] (813,938)<span >코인으로 추가 5% 할인 />
+
+</current_dom>

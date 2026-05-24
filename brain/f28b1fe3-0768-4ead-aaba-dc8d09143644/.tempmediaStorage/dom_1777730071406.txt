@@ -1,0 +1,121 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+자동선택
+전체
+PC용
+노트북용
+[0] (268,134)<dd class='ls_div ' id='ls_div2038' />
+	[1] (211,134)<label >서버용 />
+[2] (268,183)<dd class='ls_div ' id='ls_div2474' />
+	[3] (235,183)<label >XMP/EXPO 메모리 />
+필터
+초기화
+[4] (672,171)<div class='scroll_opt' scrollable='true' />
+	메모리용량
+	256GB
+	4GB
+	128GB
+	96GB
+	64GB
+	48GB
+	32GB
+	24GB
+	16GB
+	8GB
+	[5] (948,109)<a class='btn_toggle' href='javascript:open_opt(1316);' id='btn_toggle1316' />
+	메모리클럭
+	[6] (466,115)<input class='ch_bx' id='chk_85055' />
+	[7] (520,114)<label >6400MHz (PC5-51200) />
+	[8] (578,115)<input class='ch_bx' id='chk_84550' />
+	[9] (632,114)<label >6000MHz (PC5-48000) />
+	[10] (690,115)<input class='ch_bx' id='chk_84654' />
+	[11] (745,114)<label >5600MHz (PC5-44800) />
+	[12] (803,115)<input class='ch_bx' id='chk_84519' />
+	[13] (857,114)<label >5200MHz (PC5-41600) />
+	4800MHz (PC5-38400)
+	4000MHz (PC4-32000)
+	3600MHz (PC4-28800)
+	3200MHz (PC4-25600)
+	2666MHz (PC4-21300)
+	2400MHz (PC4-19200)
+	2133MHz (PC4-17000)
+	1600MHz (PC3-12800)
+	1066MHz (PC3-8500)
+	메모리개수
+	[14] (466,182)<input class='ch_bx' id='chk_10801' />
+	[15] (520,181)<label >1개 />
+	[16] (578,182)<input class='ch_bx' id='chk_10802' />
+	[17] (632,181)<label >2개 묶음 />
+	[18] (690,182)<input class='ch_bx' id='chk_10803' />
+	[19] (745,181)<label >4개 묶음 />
+	방열판유/무
+	[20] (466,249)<input class='ch_bx' id='chk_10852' />
+	[21] (520,248)<label >방열판 유 />
+	[22] (578,249)<input class='ch_bx' id='chk_10851' />
+	[23] (632,248)<label >방열판 무 />
+	부가기능
+	클럭드라이버
+메모리
+[24] (353,397)<input id='Search_free' />
+무료배송
+[25] (418,397)<input id='Search_Event' />
+행사제품보기
+총
+1
+건
+[26] (307,474)<input id='SearchKeyword' />
+[27] (363,476)<a href='javascript:search_keyword();' />
+[28] (433,474)<select  />
+[29] (65,633)<a class='imgbox' href='javascript:detail_show('1296969')' title='[제품코드:1296969]' />
+[30] (223,629)<a class='imgbox' href='javascript:detail_show('1296969')'>DDR5 / 24GB / 5600MHz (PC5-44800) / 1개 / 방열판 무 />
+	[31] (223,615)<b >[삼성전자] 삼성 DDR5 PC5-44800 [24GB] (5600)[1296969] />
+판매가격
+438,500
+[32] (453,633)<a class='buttons' href='javascript:select_basket('1296969','N',1);' id='basket1296969' />
+	[33] (453,633)<span >담기 />
+총 견적금액
+750,150
+원
+[34] (536,474)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[35] (565,474)<input  />
+[36] (594,474)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[37] (658,474)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[38] (658,475)<span >전체수량변경 />
+[39] (546,585)<label  />
+	[40] (528,584)<span  />
+		[41] (528,585)<input  />
+	[42] (554,584)<span >전체선택 />
+[43] (713,584)<a class='wbtn' href='javascript:add_wish_list();' />
+	[44] (713,585)<span >관심상품추가 />
+[45] (774,584)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[46] (774,585)<span >장바구니담기 />
+[47] (833,584)<a class='wbtn' />
+	[48] (833,585)<span >견적서출력 />
+[49] (891,584)<a class='wbtn' href='javascript:speck_form();' />
+	[50] (891,585)<span >사양검토요청 />
+초기화
+[51] (529,676)<label  />
+	[52] (529,675)<span  />
+		[53] (528,678)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[54] (563,675)<span >인텔 병행수입 />
+[55] (640,728)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[56] (873,707)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[57] (896,707)<input class='change__ea' id='Amount_1108547' />
+[58] (919,707)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[59] (529,823)<label  />
+	[60] (529,822)<span  />
+		[61] (528,825)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[62] (565,822)<span >인텔 소켓 1700 />
+[63] (640,863)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[64] (690,864)<i  />
+판매가격
+174,150
+[65] (873,842)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[66] (896,842)<input class='change__ea' id='Amount_1118926' />
+[67] (919,842)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />
+
+</current_dom>

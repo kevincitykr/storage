@@ -1,0 +1,288 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (53,57)<a href='/' />
+	[1] (45,57)<img  />
+[2] (142,54)<a class='select--category__current rlux:fw-text-bluegray-800' href='#' id='sbSelector_44993962'>전체 />
+[3] (567,55)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800 is-speech' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[4] (963,54)<a class='speech-mic fw-mr-[12px] fw-hidden fw-flex-none fw-cursor-pointer' />
+[5] (979,54)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[6] (979,54)<img  />
+[7] (830,155)<div  />
+[8] (214,909)<div  />
+	카테고리
+	전체
+	가전디지털
+	[9] (189,126)<label  />
+		[10] (189,126)<a href='https://www.coupang.com/np/coupangglobal'>로켓직구 />
+	메모리용량
+	[11] (216,210)<label  />
+		[12] (181,210)<i  />
+		[13] (203,209)<span >32GB 이상 />
+	[14] (216,236)<label  />
+		[15] (181,237)<i  />
+		[16] (196,235)<span >16GB />
+	8GB
+	4GB 이하
+	컴퓨터 종류
+	[17] (216,371)<label  />
+		[18] (181,372)<i  />
+		[19] (201,370)<span >브랜드PC />
+	[20] (216,397)<label  />
+		[21] (181,398)<i  />
+		[22] (198,397)<span >조립PC />
+	그래픽(VGA)
+	[23] (216,480)<label  />
+		[24] (181,480)<i  />
+		[25] (211,479)<span >지포스 RTX 3050 />
+	운영체제
+	[26] (216,562)<label  />
+		[27] (181,563)<i  />
+		[28] (208,561)<span >WIN11 Home />
+	[29] (216,588)<label  />
+		[30] (181,589)<i  />
+		[31] (197,588)<span >미포함 />
+	저장장치 종류
+	[32] (216,671)<label  />
+		[33] (181,671)<i  />
+		[34] (194,670)<span >SSD />
+	CPU
+	[35] (216,753)<label  />
+		[36] (181,754)<i  />
+		[37] (197,752)<span >코어i7 />
+	[38] (216,779)<label  />
+		[39] (181,780)<i  />
+		[40] (197,779)<span >코어i5 />
+	[41] (216,806)<label  />
+		[42] (181,807)<i  />
+		[43] (199,805)<span >라이젠5 />
+	CPU브랜드
+	[44] (216,888)<label  />
+		[45] (181,889)<i  />
+		[46] (195,887)<span >AMD />
+	[47] (216,914)<label  />
+		[48] (181,915)<i  />
+		[49] (194,914)<span >인텔 />
+	CPU세대
+	[50] (216,997)<label  />
+		[51] (181,998)<i  />
+		[52] (204,996)<span >인텔 12세대 />
+무료배송
+5/6(수)
+도착 예정
+18% 할인
+광고
+[53] (346,412)<li  />
+	[54] (346,406)<a href='/vp/products/8866246284?itemId=25858334864&vendorItemId=92844677775&q=i7-14700F RTX 4060 Ti 16GB 조립PC&searchId=4d262b32760042&sourceType=search&itemsCount=60&searchRank=0&rank=0' />
+		[55] (346,254)<figure  />
+			[56] (346,254)<img  />
+		[57] (346,507)<div  />
+			[58] (346,384)<div  />
+			[59] (346,425)<div >보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터, WIN11 Home, 1TB, 32GB, 지포스 RTX 5060 Ti, i7-14700F />
+			[60] (346,481)<div  />
+				[61] (346,472)<div  />
+					[62] (306,472)<del >2,799,000원 />
+				[63] (346,494)<div  />
+					[64] (346,494)<div  />
+						[65] (297,494)<div >22
+% />
+						[66] (336,494)<div  />
+							[67] (336,493)<span >2,179,000원 />
+			[68] (346,530)<div  />
+				[69] (346,520)<div  />
+					[70] (318,524)<div  />
+						[71] (318,524)<div  />
+							[72] (310,524)<img  />
+							[73] (339,524)<img  />
+					[74] (373,524)<div  />
+						[75] (361,524)<span >내일(일) />
+						[76] (385,524)<span >도착 보장 />
+				[77] (346,544)<div  />
+					[78] (301,546)<span >무료배송 />
+			[79] (346,565)<div  />
+				[80] (317,567)<div  />
+					[81] (309,567)<div  />
+						[82] (293,567)<div  />
+						[83] (301,567)<div  />
+						[84] (309,567)<div  />
+						[85] (316,567)<div  />
+						[86] (324,567)<div  />
+					[87] (337,567)<div  />
+						[88] (337,568)<span >(
+136
+) />
+			[89] (346,594)<div  />
+				[90] (323,599)<span  />
+					[91] (296,599)<img  />
+					[92] (328,599)<span >최대 50,000원 적립 />
+			[93] (346,631)<div  />
+				[94] (305,631)<strong >단 2개 남음 />
+				[95] (344,631)<span >빨리 주문하세요! />
+			[96] (297,147)<span  />
+[97] (487,412)<li  />
+	[98] (487,406)<a class='impression-logged view-logged' href='/vp/products/8866246284?itemId=25858334864&vendorItemId=92844677775&sourceType=srp_product_ads&clickEventId=deb3f6a0-45b1-11f1-8505-a99032acfdc9&korePlacement=15&koreSubPlacement=1&clickEventId=deb3f6a0-45b1-11f1-8505-a99032acfdc9&korePlacement=15&koreSubPlacement=1' />
+		[99] (487,254)<figure  />
+			[100] (487,254)<img  />
+		[101] (487,525)<div  />
+			[102] (487,384)<div  />
+			[103] (487,425)<div >보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터, WIN11 Home, 1TB, 32GB, 지포스 RTX 5060 Ti, i7-14700F />
+			[104] (487,481)<div  />
+				[105] (487,472)<div  />
+					[106] (447,472)<del >2,799,000원 />
+				[107] (487,494)<div  />
+					[108] (487,494)<div  />
+						[109] (438,494)<div >22
+% />
+						[110] (477,494)<div  />
+							[111] (477,493)<span >2,179,000원 />
+			[112] (487,530)<div  />
+				[113] (487,520)<div  />
+					[114] (459,524)<div  />
+						[115] (459,524)<div  />
+							[116] (451,524)<img  />
+							[117] (480,524)<img  />
+					[118] (514,524)<div  />
+						[119] (501,524)<span >내일(일) />
+						[120] (525,524)<span >도착 보장 />
+				[121] (487,544)<div  />
+					[122] (442,546)<span >무료배송 />
+			[123] (487,565)<div  />
+				[124] (458,567)<div  />
+					[125] (449,567)<div  />
+						[126] (434,567)<div  />
+						[127] (441,567)<div  />
+						[128] (449,567)<div  />
+						[129] (457,567)<div  />
+						[130] (465,567)<div  />
+					[131] (478,567)<div  />
+						[132] (478,568)<span >(
+136
+) />
+			[133] (487,594)<div  />
+				[134] (464,599)<span  />
+					[135] (437,599)<img  />
+					[136] (468,599)<span >최대 50,000원 적립 />
+			[137] (487,631)<div  />
+				[138] (445,631)<strong >단 2개 남음 />
+				[139] (484,631)<span >빨리 주문하세요! />
+			[140] (487,667)<div  />
+				[141] (532,667)<span >AD />
+				[142] (541,667)<span  />
+[143] (628,412)<li  />
+	[144] (628,406)<a href='/vp/products/9474258117?itemId=28202156855&vendorItemId=95198338809&q=i7-14700F RTX 4060 Ti 16GB 조립PC&searchId=4d262b32760042&sourceType=search&itemsCount=60&searchRank=2&rank=2' />
+		[145] (628,254)<figure  />
+			[146] (628,254)<img  />
+		[147] (628,497)<div  />
+			[148] (628,384)<div  />
+			[149] (628,425)<div >왕가PC 게이밍 데스크탑 윈도우 포함 울트라 250KF 270K/ RTX5060Ti 5070Ti 5080 하이엔드 전문가 조립컴퓨터 본체 AI 딥러닝 배그 검은사막 아이온2 롤, 왕가PC 프라임(PRIME) P07번 />
+			[150] (628,482)<div  />
+				[151] (628,473)<div  />
+					[152] (577,473)<span >할인 />
+					[153] (602,473)<del >3,940,000원 />
+				[154] (628,496)<div  />
+					[155] (628,496)<div  />
+						[156] (579,496)<div >16
+% />
+						[157] (617,496)<div  />
+							[158] (617,495)<span >3,297,000원 />
+			[159] (628,533)<div  />
+				[160] (628,522)<div  />
+					[161] (599,527)<div  />
+						[162] (599,527)<div  />
+							[163] (591,527)<img  />
+							[164] (621,527)<img  />
+					[165] (654,527)<div  />
+						[166] (642,527)<span >내일(일) />
+						[167] (666,527)<span >도착 보장 />
+				[168] (628,546)<div  />
+					[169] (582,548)<span >무료배송 />
+			[170] (628,575)<div  />
+				[171] (604,580)<span  />
+					[172] (578,580)<img  />
+					[173] (609,580)<span >최대 50,000원 적립 />
+			[174] (628,613)<div  />
+				[175] (586,613)<strong >단 2개 남음 />
+				[176] (625,613)<span >빨리 주문하세요! />
+			[177] (578,147)<span  />
+[178] (768,412)<li  />
+	[179] (768,406)<a href='/vp/products/8866246284?itemId=25858334939&vendorItemId=92844679074&q=i7-14700F RTX 4060 Ti 16GB 조립PC&searchId=4d262b32760042&sourceType=search&itemsCount=60&searchRank=3&rank=3' />
+		[180] (768,254)<figure  />
+			[181] (768,254)<img  />
+		[182] (768,508)<div  />
+			[183] (768,384)<div  />
+			[184] (768,425)<div >보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터, WIN11 Home, 2TB, 32GB, 지포스 RTX 5060 Ti, i7-14700F />
+			[185] (768,482)<div  />
+				[186] (768,473)<div  />
+					[187] (718,473)<span >할인 />
+					[188] (742,473)<span >·
+03:06:49 />
+					[189] (777,473)<del >2,859,000원 />
+				[190] (768,496)<div  />
+					[191] (768,496)<div  />
+						[192] (723,496)<div  />
+							[193] (721,496)<div  />
+								[194] (723,497)<div >19
+% />
+						[195] (765,496)<div  />
+							[196] (765,495)<span >2,296,000원 />
+			[197] (768,533)<div  />
+				[198] (768,522)<div  />
+					[199] (740,527)<div  />
+						[200] (740,527)<div  />
+							[201] (732,527)<img  />
+							[202] (761,527)<img  />
+					[203] (795,527)<div  />
+						[204] (782,527)<span >내일(일) />
+						[205] (806,527)<span >도착 보장 />
+				[206] (768,546)<div  />
+					[207] (723,548)<span >무료배송 />
+			[208] (768,567)<div  />
+				[209] (739,569)<div  />
+					[210] (730,569)<div  />
+						[211] (715,569)<div  />
+						[212] (723,569)<div  />
+						[213] (730,569)<div  />
+						[214] (738,569)<div  />
+						[215] (746,569)<div  />
+					[216] (759,569)<div  />
+						[217] (759,571)<span >(
+136
+) />
+			[218] (768,596)<div  />
+				[219] (745,601)<span  />
+					[220] (718,601)<img  />
+					[221] (750,601)<span >최대 50,000원 적립 />
+			[222] (768,634)<div  />
+				[223] (727,634)<strong >단 2개 남음 />
+				[224] (766,634)<span >빨리 주문하세요! />
+			[225] (718,147)<span  />
+[226] (346,990)<li  />
+	[227] (346,984)<a class='impression-logged view-logged' href='/vp/products/9483566502?itemId=28238518115&vendorItemId=95192283085&sourceType=srp_product_ads&clickEventId=deb41db0-45b1-11f1-bb96-42712a394a46&korePlacement=15&koreSubPlacement=5&clickEventId=deb41db0-45b1-11f1-bb96-42712a394a46&korePlacement=15&koreSubPlacement=5' />
+		[228] (346,831)<figure  />
+			[229] (346,831)<img  />
+		[230] (346,961)<div  />
+		게이밍 컴퓨터 올인원 풀세트, WIN11 Home, 512GB, 16GB, 지포스 RTX 5050, 풀세트17번 코어i5-14400F
+[231] (487,990)<li  />
+	[232] (487,984)<a class='impression-logged view-logged' href='/vp/products/9477873683?itemId=28216329600&vendorItemId=95170335375&sourceType=srp_product_ads&clickEventId=deb41db0-45b1-11f1-8abc-3a81853f3887&korePlacement=15&koreSubPlacement=6&clickEventId=deb41db0-45b1-11f1-8abc-3a81853f3887&korePlacement=15&koreSubPlacement=6' />
+		[233] (487,831)<figure  />
+			[234] (487,831)<img  />
+		달컴 RTX 5060 5060Ti 게이밍PC 인텔 라이젠 윈도우탑재, 윈도우 11 홈, 512GB, 16GB, 지포스 RTX 5060 Ti, R5-5600
+[235] (628,990)<li  />
+	[236] (628,984)<a href='/vp/products/7904852169?itemId=21674675879&vendorItemId=88725210181&q=i7-14700F RTX 4060 Ti 16GB 조립PC&searchId=4d262b32760042&sourceType=search&itemsCount=60&searchRank=6&rank=6' />
+		[237] (628,831)<figure  />
+			[238] (628,831)<img  />
+		[239] (628,972)<div  />
+			[240] (628,972)<div  />
+				[241] (591,972)<div >쿠팡무상A/S />
+		주연테크 2023 리오나인 익스트림 코어i7 인텔 13세대 지포스 RTX 4060Ti, 블랙, 16GB, 512GB, Free DOS, D737F46T
+		[242] (578,724)<span  />
+[243] (768,990)<li  />
+	[244] (768,984)<a href='/vp/products/8866246284?itemId=25858334992&vendorItemId=92844678607&q=i7-14700F RTX 4060 Ti 16GB 조립PC&searchId=4d262b32760042&sourceType=search&itemsCount=60&searchRank=7&rank=7' />
+		[245] (768,831)<figure  />
+			[246] (768,831)<img  />
+		[247] (768,961)<div  />
+		보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터, WIN11 Home, 1TB, 32GB, 지포스 RTX 5070, i7-14700F
+		[248] (718,724)<span  />
+
+</current_dom>

@@ -1,0 +1,71 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+그래픽카드
+무료배송
+행사제품보기
+총
+618
+건
+[0] (328,119)<input id='SearchKeyword' />
+[1] (378,120)<a href='javascript:search_keyword();' />
+[2] (440,119)<select  />
+[3] (163,967)<a class='num on' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',0,1);'>1 />
+[4] (187,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',50,2);'>2 />
+[5] (211,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',100,3);'>3 />
+[6] (235,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',150,4);'>4 />
+[7] (259,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',200,5);'>5 />
+[8] (282,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',250,6);'>6 />
+[9] (306,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',300,7);'>7 />
+[10] (330,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',350,8);'>8 />
+[11] (354,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',400,9);'>9 />
+[12] (378,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',450,10);'>10 />
+[13] (405,967)<a class='next' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',500,11);' />
+총 견적금액
+832,150
+원
+[14] (532,119)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[15] (558,119)<input  />
+[16] (584,119)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[17] (640,119)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[18] (640,120)<span >전체수량변경 />
+[19] (541,216)<label  />
+	[20] (525,214)<span  />
+		[21] (525,215)<input  />
+	[22] (548,214)<span >전체선택 />
+[23] (690,214)<a class='wbtn' href='javascript:add_wish_list();' />
+	[24] (690,215)<span >관심상품추가 />
+[25] (745,214)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[26] (745,215)<span >장바구니담기 />
+[27] (797,214)<a class='wbtn' />
+	[28] (797,215)<span >견적서출력 />
+[29] (848,214)<a class='wbtn' href='javascript:speck_form();' />
+	[30] (848,215)<span >사양검토요청 />
+[31] (893,214)<a class='wbtn' href='javascript:sess_init();' />
+	[32] (893,215)<span >초기화 />
+[33] (526,294)<label  />
+	[34] (526,293)<span  />
+		[35] (525,295)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[36] (556,293)<span >인텔 병행수입 />
+[37] (624,338)<a class='proname' href='javascript:detail_show('1082818')'>[INTEL] [병행] 코어 i7-14700K (14세대/ 랩터레이크 리프레시/ 3.4GHz) [벌크/쿨러 미포함] />
+판매가격
+658,000
+[38] (832,320)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[39] (852,320)<input class='change__ea' id='Amount_1082818' />
+[40] (873,320)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[41] (895,320)<span class='delete' />
+[42] (526,421)<label  />
+	[43] (526,419)<span  />
+		[44] (525,422)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[45] (558,419)<span >인텔 소켓 1700 />
+[46] (624,454)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[47] (669,455)<i  />
+판매가격
+174,150
+[48] (832,436)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[49] (852,436)<input class='change__ea' id='Amount_1118926' />
+[50] (873,436)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[51] (895,436)<span class='delete' />
+
+</current_dom>

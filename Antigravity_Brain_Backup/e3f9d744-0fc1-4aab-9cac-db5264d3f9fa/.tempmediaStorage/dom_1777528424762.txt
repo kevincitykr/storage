@@ -1,0 +1,64 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+RTX 4060
+에 대한 검색결과입니다.
+[0] (128,92)<label >전체
+(5175) />
+	(5175)
+[1] (244,92)<label >그래픽카드
+(206) />
+	(206)
+[2] (343,92)<label >노트북
+(4963) />
+	(4963)
+[3] (439,92)<label >베어본
+(6) />
+	(6)
+[4] (127,395)<a >인기상품순 />
+[5] (201,395)<a >신상품순 />
+[6] (275,395)<a >낮은 가격순 />
+[7] (349,395)<a >높은 가격순 />
+[8] (423,395)<a >상품명순 />
+[9] (607,398)<button class='btn__search-detail' id='searchDetailButton'>결과 내 검색 />
+상품에 대한 품목 및 최저가에 대한 리스트입니다.
+상품
+품목
+선택
+[10] (109,469)<a class='btn_compare'>비교 />
+	비교
+[11] (298,482)<a >COLORFUL 지포스 RTX 4060 Ti 토마호크 DUO D6 8GB />
+[12] (354,515)<a class='spec'>RTX 4060 Ti / PCIe4.0x16(at x8) / 정격파워550W 이상 / 전원 포트:8핀 x1 / 가로(길이):248.9mm / 베이스클럭:2310MHz / 부스트클럭:2535MHz / 스트림 프로세서:4352개 / 최대 AI TOPS:353(sparsity) / GDDR6 / 출력단자:HDMI2.1;DP1.4 / 지원정보:8K 지원;HDCP 2.3 / 사용전력:160W / 전원부:5+1페이즈 / 2팬 / 두께:41.9mm / 제로팬(0-dB기술) / 백플레이트 / LED 라이트 / A/S 3년 />
+[13] (192,558)<a class='icon_style btn_review'>상품의견 />
+683,560
+원
+[14] (598,547)<a class='btn_choice2 wishAction'>담기 />
+[15] (109,629)<a class='btn_compare'>비교 />
+	비교
+[16] (307,641)<a >ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB />
+[17] (354,674)<a class='spec'>RTX 4060 Ti / PCIe4.0x16(at x8) / 정격파워500W 이상 / 전원 포트:8핀 x1 / 가로(길이):225.5mm / 부스트클럭:2535MHz / 스트림 프로세서:4352개 / 최대 AI TOPS:353(sparsity) / GDDR6 / 출력단자:HDMI2.1;DP1.4 / 지원정보:8K 지원 / 사용전력:160W / 전원부:5+1페이즈 / 2팬 / 두께:40.1mm / 제로팬(0-dB기술) / 백플레이트 / LED 라이트 / A/S 3년 />
+[18] (192,718)<a class='icon_style btn_review'>상품의견 />
+700,800
+원
+[19] (598,706)<a class='btn_choice2 wishAction'>담기 />
+견적카트
+로그인하여 저장한 견적들을 확인해보세요.
+[20] (781,924)<div class='pd_list_area' scrollable='true' />
+	[21] (776,56)<a class='pd_item_title' href='#'>SSD />
+	[22] (776,128)<a class='pd_item_title' href='#'>HDD />
+	[23] (776,199)<a class='pd_item_title' href='#'>케이스 />
+	[24] (776,271)<a class='pd_item_title' href='#'>파워 />
+	[25] (776,342)<a class='pd_item_title' href='#'>소프트웨어 />
+	모니터 및 주변기기
+	[26] (821,438)<a class='btn_close_cell' />
+	[27] (776,505)<a class='pd_item_title' href='#'>모니터 />
+	[28] (776,577)<a class='pd_item_title' href='#'>모니터 받침대 />
+	[29] (776,648)<a class='pd_item_title' href='#'>키보드 />
+	[30] (776,719)<a class='pd_item_title' href='#'>마우스 />
+	[31] (776,791)<a class='pd_item_title' href='#'>사운드바 />
+	[32] (776,862)<a class='pd_item_title' href='#'>스피커 />
+	[33] (776,934)<a class='pd_item_title' href='#'>PC헤드셋 />
+	이어폰
+
+</current_dom>

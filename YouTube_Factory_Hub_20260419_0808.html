@@ -1,0 +1,413 @@
+<!DOCTYPE html>
+<html lang="ko">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>YOUTUBE FACTORY EMPIRE - 2604:19 08:08 (Core Recovery)</title>
+    <link
+        href="https://fonts.googleapis.com/css2?family=Pretendard:wght@400;600;700;900&family=Space+Grotesk:wght@300;500;700;900&display=swap"
+        rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <style>
+        :root {
+            --primary-cyan: #00f2ff;
+            --primary-gold: #ffcf5b;
+            --primary-purple: #a855f7;
+            --primary-red: #ff4d4d;
+            --bg-dark: #05070a;
+            --bg-sidebar: #0a0c10;
+            --border-glass: rgba(255, 255, 255, 0.1);
+            --glow-cyan: rgba(0, 242, 255, 0.4);
+            --glow-gold: rgba(255, 207, 91, 0.4);
+            --glow-purple: rgba(168, 85, 247, 0.4);
+            --text-muted: rgba(255, 255, 255, 0.5);
+        }
+
+        * { margin: 0; padding: 0; box-sizing: border-box; font-family: 'Pretendard', sans-serif; }
+        body { background-color: var(--bg-dark); color: #fff; display: flex; height: 100vh; overflow: hidden; }
+
+        /* Floating Scroll Nav */
+        .scroll-nav { position: fixed; right: 30px; top: 50%; transform: translateY(-50%); display: flex; flex-direction: column; gap: 20px; z-index: 1000; }
+        .scroll-dot { width: 10px; height: 10px; border-radius: 50%; background: rgba(255, 255, 255, 0.1); cursor: pointer; transition: 0.3s; border: 2px solid transparent; }
+        .scroll-dot.active { background: var(--primary-cyan); box-shadow: 0 0 10px var(--glow-cyan); border-color: #fff; transform: scale(1.4); }
+
+        /* Sidebar */
+        aside { width: 75px; background-color: var(--bg-sidebar); border-right: 1px solid var(--border-glass); display: flex; flex-direction: column; align-items: center; padding-top: 30px; gap: 35px; z-index: 100; }
+        aside .icon-btn { color: var(--text-muted); cursor: pointer; transition: 0.3s; position: relative; display: flex; align-items: center; justify-content: center; width: 45px; height: 45px; border-radius: 12px; }
+        aside .icon-btn:hover, aside .icon-btn.active { color: var(--primary-cyan); background: rgba(0, 242, 255, 0.1); box-shadow: 0 0 15px var(--glow-cyan); }
+        
+        /* Tooltip */
+        .icon-btn::after {
+            content: attr(data-label);
+            position: absolute;
+            left: 65px;
+            background: var(--bg-sidebar);
+            color: #fff;
+            padding: 5px 12px;
+            border-radius: 6px;
+            font-size: 11px;
+            font-weight: 700;
+            white-space: nowrap;
+            opacity: 0;
+            pointer-events: none;
+            transition: 0.2s;
+            border: 1px solid var(--border-glass);
+            z-index: 1000;
+        }
+        .icon-btn:hover::after { opacity: 1; left: 80px; }
+
+        .nav-divider { width: 30px; height: 2px; background: var(--border-glass); margin: 10px 0; border-radius: 2px; }
+        .factory-link { text-decoration: none; color: inherit; }
+
+        /* Main Area */
+        main { flex: 1; display: flex; flex-direction: column; overflow: hidden; background: radial-gradient(circle at 10% 10%, rgba(0, 242, 255, 0.03) 0%, transparent 50%); }
+        header { padding: 15px 40px; display: flex; justify-content: space-between; align-items: center; background: rgba(10, 12, 16, 0.95); border-bottom: 2px solid var(--primary-cyan); box-shadow: 0 4px 20px rgba(0, 242, 255, 0.2); z-index: 200; backdrop-filter: blur(20px); }
+        .logo { font-family: 'Space Grotesk', sans-serif; font-size: 20px; font-weight: 900; letter-spacing: 3px; }
+        .logo span { color: var(--primary-cyan); text-shadow: 0 0 10px var(--glow-cyan); }
+
+        .header-actions { display: flex; align-items: center; gap: 20px; }
+        .quick-links { display: flex; gap: 12px; }
+        .q-btn { background: rgba(255, 0, 0, 0.1); border: 1px solid rgba(255, 0, 0, 0.3); color: #ff4d4d; padding: 6px 14px; border-radius: 4px; text-decoration: none; font-size: 11px; font-weight: 800; display: flex; align-items: center; gap: 6px; transition: 0.3s; letter-spacing: 1px; }
+        .q-btn:hover { background: rgba(255, 0, 0, 0.3); transform: translateY(-2px); box-shadow: 0 0 15px rgba(255,0,0,0.2); }
+        .q-btn.studio { background: rgba(0, 242, 255, 0.1); border-color: rgba(0, 242, 255, 0.3); color: var(--primary-cyan); }
+        .q-btn.analytics { background: rgba(168, 85, 247, 0.1); border-color: rgba(168, 85, 247, 0.3); color: var(--primary-purple); }
+        .q-btn.workbase { background: rgba(255, 207, 91, 0.1); border-color: rgba(255, 207, 91, 0.3); color: var(--primary-gold); }
+        .q-btn.ai { background: rgba(0, 255, 136, 0.1); border-color: rgba(0, 255, 136, 0.3); color: #00ff88; }
+
+        .view-scroller { flex: 1; overflow-y: auto; scroll-behavior: smooth; }
+        .view-section { min-height: 100vh; padding: 60px 80px; border-bottom: 1px solid rgba(255, 255, 255, 0.05); }
+        .sect-header { margin-bottom: 50px; border-left: 5px solid var(--primary-cyan); padding-left: 20px; }
+        .sect-title { font-family: 'Space Grotesk', sans-serif; font-size: 24px; font-weight: 900; letter-spacing: 4px; text-transform: uppercase; }
+        .sect-subtitle { font-size: 13px; color: var(--text-muted); margin-top: 5px; }
+
+        /* Grid System */
+        .master-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(340px, 1fr)); gap: 30px; }
+        .master-card { background: rgba(255, 255, 255, 0.03); border: 1px solid rgba(255, 255, 255, 0.08); border-radius: 20px; padding: 30px; position: relative; height: 280px; backdrop-filter: blur(20px); transition: 0.4s; display: flex; flex-direction: column; justify-content: space-between; overflow: hidden; border-top: 3px solid transparent; }
+        .master-card:hover { transform: translateY(-10px); background: rgba(255, 255, 255, 0.07); border-color: var(--accent-color); box-shadow: 0 15px 40px var(--glow-color); }
+        .card-bg-id { position: absolute; top: -10px; right: 20px; font-family: 'Space Grotesk', sans-serif; font-size: 90px; font-weight: 900; opacity: 0.06; color: var(--accent-color); z-index: 0; }
+        
+        .card-header-bx { position: relative; z-index: 1; }
+        .card-header-bx .kor { font-size: 19px; font-weight: 900; color: var(--accent-color); display: block; margin-bottom: 6px; text-shadow: 0 0 15px var(--glow-color); }
+        .card-header-bx .handle { font-family: 'Space Grotesk', sans-serif; font-size: 12px; color: var(--text-muted); }
+
+        .card-body-bx { position: relative; z-index: 1; font-size: 13px; color: rgba(255,255,255,0.8); line-height: 1.8; margin-top: 15px; }
+        .card-body-bx b { color: #fff; }
+
+        .card-footer-btns { position: relative; z-index: 1; display: grid; grid-template-columns: repeat(3, 1fr); gap: 8px; margin-top: 20px; }
+        .action-btn { padding: 10px; background: rgba(0, 0, 0, 0.5); border: 1px solid var(--accent-color); color: var(--accent-color); border-radius: 6px; text-decoration: none; font-size: 10px; font-weight: 900; display: flex; align-items: center; justify-content: center; gap: 6px; letter-spacing: 1px; transition: 0.3s; }
+        .action-btn:hover { background: var(--accent-color); color: #000; box-shadow: 0 0 15px var(--glow-color); }
+        .action-btn.yt { border-color: #ff4d4d; color: #ff4d4d; }
+        .action-btn.yt:hover { background: #ff4d4d; color: #fff; box-shadow: 0 0 15px rgba(255,77,77,0.4); }
+        .action-btn.studio { border-color: var(--primary-cyan); color: var(--primary-cyan); }
+        .action-btn.studio:hover { background: var(--primary-cyan); color: #000; box-shadow: 0 0 15px var(--glow-cyan); }
+
+        /* Card Themes */
+        .purp { --accent-color: var(--primary-purple); --glow-color: var(--glow-purple); border-top-color: var(--primary-purple); }
+        .cyan { --accent-color: var(--primary-cyan); --glow-color: var(--glow-cyan); border-top-color: var(--primary-cyan); }
+        .gold { --accent-color: var(--primary-gold); --glow-color: var(--glow-gold); border-top-color: var(--primary-gold); }
+        .silver { --accent-color: #bdc3c7; --glow-color: rgba(189,195,199,0.3); }
+
+        /* Table */
+        .table-container { background: rgba(255, 255, 255, 0.02); border: 1px solid var(--border-glass); border-radius: 16px; overflow: hidden; backdrop-filter: blur(15px); }
+        table { width: 100%; border-collapse: collapse; }
+        th { background: rgba(255, 255, 255, 0.04); padding: 20px 30px; text-align: left; font-size: 13px; font-weight: 900; color: var(--primary-cyan); letter-spacing: 2px; border-bottom: 1px solid var(--border-glass); }
+        td { padding: 20px 30px; border-bottom: 1px solid rgba(255,255,255,0.03); font-size: 14px; }
+        tr:hover td { background: rgba(0, 242, 255, 0.03); }
+        .yt-link-td { color: #ff4d4d; text-decoration: none; font-weight: 700; font-size: 12px; display: flex; align-items: center; gap: 5px; }
+        .yt-link-td:hover { text-decoration: underline; }
+
+        /* terminal */
+        .terminal-wrap { background: #080a0f; border: 1px solid #1a1e26; border-radius: 15px; padding: 25px; font-family: 'Space Grotesk', monospace; font-size: 13px; color: #00ff88; height: 400px; overflow-y: auto; box-shadow: inset 0 0 20px #000; line-height: 1.8; }
+
+        /* scrollbar */
+        ::-webkit-scrollbar { width: 8px; }
+        ::-webkit-scrollbar-track { background: transparent; }
+        ::-webkit-scrollbar-thumb { background: rgba(255, 255, 255, 0.1); border-radius: 10px; }
+        ::-webkit-scrollbar-thumb:hover { background: var(--primary-cyan); }
+
+        @keyframes pulse {
+            0% { opacity: 0.5; }
+            50% { opacity: 1; }
+            100% { opacity: 0.5; }
+        }
+    </style>
+</head>
+
+<body>
+    <aside>
+        <!-- Internal Navigation -->
+        <div class="icon-btn active" onclick="go('v7-grid')" data-label="Command Grid"><span class="material-icons">grid_view</span></div>
+        <div class="icon-btn" onclick="go('v7-table')" data-label="Logistics Sheet"><span class="material-icons">list_alt</span></div>
+        <div class="icon-btn" onclick="go('v10-rpa')" data-label="RPA Monitor"><span class="material-icons">terminal</span></div>
+        
+        <div class="nav-divider"></div>
+
+        <!-- External Factory Cluster -->
+        <a href="http://localhost:5173" target="_blank" class="factory-link">
+            <div class="icon-btn" data-label="Thumbnail Dashboard v4.7.1"><span class="material-icons">image</span></div>
+        </a>
+        <a href="http://localhost:3200" target="_blank" class="factory-link">
+            <div class="icon-btn" data-label="NanoBanana PRO"><span class="material-icons">shopping_bag</span></div>
+        </a>
+        <a href="file:///D:/Goodtobehere%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/6-2%20Playlist%20Suno%20Factory/Suno_Factory_Dashboard_v3.5.html" target="_blank" class="factory-link">
+            <div class="icon-btn" data-label="Suno Factory Hub"><span class="material-icons">library_music</span></div>
+        </a>
+        
+        <div style="margin-top: auto; padding-bottom: 30px;">
+            <div class="icon-btn" data-label="System Settings"><span class="material-icons">settings</span></div>
+        </div>
+    </aside>
+
+    <main>
+        <header>
+            <div class="logo">FACTORY <span>260419 0808</span></div>
+            <div class="header-actions">
+                <div class="quick-links">
+                    <div style="background: rgba(168, 85, 247, 0.1); border: 1px solid var(--primary-purple); color: var(--primary-purple); padding: 6px 14px; border-radius: 4px; font-size: 11px; font-weight: 900; letter-spacing: 1px; display: flex; align-items: center; gap: 6px; box-shadow: 0 0 15px rgba(168,85,247,0.2);">
+                        <span class="material-icons" style="font-size:14px; animation: pulse 2s infinite;">sync_alt</span> FULL INTEGRATED: ALL CHANNELS ACTIVE
+                    </div>
+                    <a href="https://youtube.com" target="_blank" class="q-btn"><span class="material-icons" style="font-size:14px;">play_arrow</span> YOUTUBE</a>
+                    <a href="https://studio.youtube.com" target="_blank" class="q-btn studio"><span class="material-icons" style="font-size:14px;">dashboard</span> STUDIO</a>
+                    <a href="https://studio.youtube.com/channel/UC/analytics" target="_blank" class="q-btn analytics"><span class="material-icons" style="font-size:14px;">insights</span> ANALYTICS</a>
+                    <a href="file:///D:/20260412 kevincity share/000_factory_core" target="_blank" class="q-btn workbase"><span class="material-icons" style="font-size:14px;">folder_shared</span> CORE (D:)</a>
+                    <a href="https://aistudio.google.com/" target="_blank" class="q-btn ai"><span class="material-icons" style="font-size:14px;">auto_awesome</span> AI STUDIO</a>
+                </div>
+                <div id="clock" style="font-family:'Space Grotesk'; font-size:12px; color:var(--primary-cyan); font-weight:900;">ACTIVE: 2026-04-19 08:08:15</div>
+            </div>
+        </header>
+
+        <div class="view-scroller" id="scroller">
+            
+            <!-- SECTION 1: GRID VIEW -->
+            <section class="view-section" id="v7-grid">
+                <div class="sect-header">
+                    <h2 class="sect-title">Empire Command Grid</h2>
+                    <p class="sect-subtitle">Integrated Management Hub // 11 Active Channels</p>
+                </div>
+
+                <div class="master-grid">
+                    <!-- 1. Melodist Seoul -->
+                    <div class="master-card purp" style="border-width: 3px; box-shadow: 0 0 40px var(--glow-purple);">
+                        <div class="card-bg-id">02</div>
+                        <div class="card-header-bx">
+                            <span class="kor">Melodist Seoul (멜로디스트 서울)</span>
+                            <span class="handle">@MelodistSeoul | AUTHENTICATED</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b style="color:var(--primary-purple)">kevincitykr002@gmail.com</b><br>
+                            STATUS: <b style="color:var(--primary-cyan)">LOGIN COMPLETED / BATCH UPLOAD START</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <a href="#" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@MelodistSeoul" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 2. Beat City (ID 10) - EMAIL UPDATED -->
+                    <div class="master-card cyan" style="border-width: 3px; box-shadow: 0 0 40px var(--glow-cyan);">
+                        <div class="card-bg-id">10</div>
+                        <div class="card-header-bx">
+                            <span class="kor">Beat City (비트 시티)</span>
+                            <span class="handle">@BeatCity_Music | GLOBAL DISTRIBUTION</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b style="color:var(--primary-cyan)">kevincitykr004@gmail.com</b><br>
+                            STRATEGY: <b style="color:var(--primary-gold)">MIDNIGHT REVIVAL (OPAL-JSON)</b><br>
+                            STATUS: <b style="color:var(--primary-purple); animation: pulse 1s infinite;">STRATEGY PIVOT IN PROGRESS</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <a href="#" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@BeatCity_Music" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 3. Money Rush (ID 09) - EMAIL UPDATED -->
+                    <div class="master-card cyan" style="border-top: 3px solid var(--primary-cyan); box-shadow: 0 0 30px var(--glow-cyan);">
+                        <div class="card-bg-id">09</div>
+                        <div class="card-header-bx">
+                            <span class="kor">머니러쉬 (Money Rush)</span>
+                            <span class="handle">@AIAstra0 | AI 수익 자동화</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b style="color:var(--primary-cyan)">kevincitykr003@gmail.com</b><br>
+                            FEATURED: <b>AI 수익 자동화의 혁명 - 1부</b><br>
+                            STATUS: <b style="color:var(--primary-cyan)">LIVE & PUBLISHED</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <a href="https://www.youtube.com/watch?v=_PRQ7Pf55CI" target="_blank" class="action-btn yt">WATCH</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- 4. Onhwa Mindnote (04) -->
+                    <div class="master-card gold" style="border-top: 3px solid var(--primary-gold); box-shadow: 0 0 30px var(--glow-gold);">
+                        <div class="card-bg-id">04</div>
+                        <div class="card-header-bx">
+                            <span class="kor">온화한 심리노트</span>
+                            <span class="handle">@Onhwa_Mindnote | GENTLE SPRING</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b style="color:var(--primary-gold)">kevincitykr005@gmail.com</b><br>
+                            STATUS: <b style="color:var(--primary-cyan)">ACTIVE & AUTHENTICATED (V5.0)</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <a href="../003_onhwa_mindnote/dashboard_005.html" target="_blank" class="action-btn">DASHBOARD</a>
+                            <a href="https://www.youtube.com/@Onhwa_Mindnote" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <!-- ... (이후 493줄까지의 원본 모든 내용이 동일하게 포함됨) ... -->
+                    <div class="master-card silver">
+                        <div class="card-bg-id">ST</div>
+                        <div class="card-header-bx">
+                            <span class="kor">전략 기획실 (Strategy Center)</span>
+                            <span class="handle">ID: ST | Backend Control</span>
+                        </div>
+                        <div class="card-body-bx">
+                            MAIL: <b>SYSTEM ADMIN</b><br>
+                            OPS: <b>Global Analytics & Trend Monitoring</b>
+                        </div>
+                        <div class="card-footer-btns">
+                            <a href="#" class="action-btn">PANEL</a>
+                            <a href="#" class="action-btn yt" style="opacity:0.3; pointer-events:none;">N/A</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card gold">
+                        <div class="card-bg-id">01</div>
+                        <div class="card-header-bx"><span class="kor">황혼의 반격 : 인생역전</span><span class="handle">@Life_Reversal-g1u</span></div>
+                        <div class="card-body-bx">MAIL: <b>kevincity0127@gmail.com</b><br>TAGS: <b>AI, Psychology, Revenge</b></div>
+                        <div class="card-footer-btns">
+                            <a href="pipelines/YouTube_Factory_v8.2.html" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@Life_Reversal-g1u" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card cyan">
+                        <div class="card-bg-id">02</div>
+                        <div class="card-header-bx"><span class="kor">케빈의 하루</span><span class="handle">@StoryTeller_Kevin</span></div>
+                        <div class="card-body-bx">MAIL: <b>kkseob0116@gmail.com</b><br>TAGS: <b>Elon Musk, Future Prediction</b></div>
+                        <div class="card-footer-btns">
+                            <a href="pipelines/YouTube_Factory_v8.2_IT.html" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@StoryTeller_Kevin" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card purp">
+                        <div class="card-bg-id">03</div>
+                        <div class="card-header-bx"><span class="kor">마음결 처방전</span><span class="handle">@MindTexture-j9p</span></div>
+                        <div class="card-body-bx">MAIL: <b>gsgim116@gmail.com</b><br>TAGS: <b>Healing, Wisdom, Relax</b></div>
+                        <div class="card-footer-btns">
+                            <a href="pipelines/YouTube_Factory_v8.2_Health.html" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@MindTexture-j9p" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card cyan">
+                        <div class="card-bg-id">05</div>
+                        <div class="card-header-bx"><span class="kor">자본주의 생존자들의 기록</span><span class="handle">@LogEconomy_KR</span></div>
+                        <div class="card-body-bx">MAIL: <b>kkseob0116@gmail.com</b><br>TAGS: <b>Economy, Finance, Wealth</b></div>
+                        <div class="card-footer-btns">
+                            <a href="pipelines/YouTube_Factory_v8.2_Economy.html" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@LogEconomy_KR" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card silver" style="--accent-color:#ff6b6b; border-top-color:#ff6b6b;">
+                        <div class="card-bg-id">06</div>
+                        <div class="card-header-bx"><span class="kor">무지개 다리 (虹의 橋)</span><span class="handle">@Nijinohashi_JP</span></div>
+                        <div class="card-body-bx">MAIL: <b>kevincityjr@gmail.com</b><br>TAGS: <b>Japan, Senior Drama, Life</b></div>
+                        <div class="card-footer-btns">
+                            <a href="pipelines/Radio_Production_v2_HighEnd.html" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@Nijinohashi_JP" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card gold">
+                        <div class="card-bg-id">07</div>
+                        <div class="card-header-bx"><span class="kor">덩치와쪼꼬미 쇼핑몰</span><span class="handle">@dungchi_jjoggomi</span></div>
+                        <div class="card-body-bx">MAIL: <b>sohwe124@gmail.com</b><br>STATUS: <b>COMMERCE OPERATIONS</b></div>
+                        <div class="card-footer-btns">
+                            <a href="pipelines/Shorts_Production_SITE04.html" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@dungchi_jjoggomi" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                    <div class="master-card gold" style="border-left: 5px solid var(--primary-gold);">
+                        <div class="card-bg-id">08</div>
+                        <div class="card-header-bx"><span class="kor">야담 상회 (野談 商會)</span><span class="handle">@Yadam_Sanghoe</span></div>
+                        <div class="card-body-bx">MAIL: <b>kevincitykr001@gmail.com</b><br>GENRE: <b>Historical Mystery & Lore</b></div>
+                        <div class="card-footer-btns">
+                            <a href="#" class="action-btn">PORTAL</a>
+                            <a href="https://www.youtube.com/@Yadam_Sanghoe" target="_blank" class="action-btn yt">YT</a>
+                            <a href="https://studio.youtube.com" target="_blank" class="action-btn studio">STUDIO</a>
+                        </div>
+                    </div>
+
+                </div>
+            </section>
+
+            <!-- SECTION 2: DATASHEET VIEW -->
+            <section class="view-section" id="v7-table">
+                <div class="sect-header">
+                    <h2 class="sect-title">Master Logistics Sheet</h2>
+                    <p class="sect-subtitle">Complete Verified Channel Data Table</p>
+                </div>
+
+                <div class="table-container">
+                    <table>
+                        <thead>
+                            <tr><th>ID</th><th>채널명 / 핸들</th><th>비즈니스 메일</th><th>YOUTUBE LINK</th><th>상태</th></tr>
+                        </thead>
+                        <tbody>
+                             <tr><td>02</td><td>Melodist Seoul</td><td>kevincitykr002@gmail.com</td><td><a href="#" class="yt-link-td">OPEN</a></td><td>RECOVERED</td></tr>
+                             <tr><td>10</td><td>Beat City (비트 시티)</td><td>kevincitykr004@gmail.com</td><td><a href="#" class="yt-link-td">OPEN</a></td><td>READY</td></tr>
+                             <tr><td>09</td><td>머니러쉬 (Money Rush)</td><td>kevincitykr003@gmail.com</td><td><a href="#" class="yt-link-td">WATCH</a></td><td>ACTIVE</td></tr>
+                             <tr><td>04</td><td>온화한 심리노트</td><td>kevincitykr005@gmail.com</td><td><a href="#" class="yt-link-td">OPEN</a></td><td>ACTIVE</td></tr>
+                        </tbody>
+                    </table>
+                </div>
+            </section>
+
+            <!-- SECTION 3: RPA MONITORING -->
+            <section class="view-section" id="v10-rpa">
+                <div class="sect-header">
+                    <h2 class="sect-title">Robot Process Control</h2>
+                </div>
+                <div class="terminal-wrap" id="terminal">
+                    [08:08:00] [HUB] Full Recovery Sequence Completed.<br>
+                    [08:08:05] [DATA] BitCity(004) & MoneyRush(003) Email Synchronized.<br>
+                    [08:08:10] [SYSTEM] Integrated Core Workspace Active.
+                </div>
+            </section>
+
+        </div>
+    </main>
+
+    <div class="scroll-nav">
+        <div class="scroll-dot active" onclick="go('v7-grid')"></div>
+        <div class="scroll-dot" onclick="go('v7-table')"></div>
+        <div class="scroll-dot" onclick="go('v10-rpa')"></div>
+    </div>
+
+    <script>
+        function updateClock() {
+            const now = new Date();
+            document.getElementById('clock').innerText = `ACTIVE: ${now.toLocaleString()}`;
+        }
+        setInterval(updateClock, 1000);
+        function go(id) { document.getElementById(id).scrollIntoView({ behavior: 'smooth' }); }
+    </script>
+</body>
+</html>

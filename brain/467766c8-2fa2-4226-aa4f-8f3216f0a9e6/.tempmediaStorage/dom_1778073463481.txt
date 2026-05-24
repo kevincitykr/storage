@@ -1,0 +1,106 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (327,125)<a class='inline shrink-0' href='/search/%EB%B8%8C%EB%A1%AC%ED%86%A4' />
+	[6] (327,125)<span >브롬톤 />
+		[7] (317,125)<span >11
+. />
+[8] (381,125)<a class='inline shrink-0' href='/search/%EA%B2%8C%EC%9D%B4%EB%B0%8D%20%EB%85%B8%ED%8A%B8%EB%B6%81' />
+	[9] (381,125)<span >게이밍 노트북 />
+		[10] (359,125)<span >12
+. />
+[11] (434,125)<a class='inline shrink-0' href='/search/5080' />
+	[12] (434,125)<span >5080 />
+		[13] (424,125)<span >13
+. />
+[14] (476,125)<a class='inline shrink-0' href='/search/%EB%A7%8C%EB%85%84%ED%95%84' />
+	[15] (476,125)<span >만년필 />
+		[16] (466,125)<span >14
+. />
+[17] (515,125)<a class='inline shrink-0' href='/search/%EB%98%90%EB%B4%87' />
+	[18] (515,125)<span >또봇 />
+		[19] (509,125)<span >15
+. />
+[20] (666,69)<a href='/search/13700%204070%20%EB%B3%B8%EC%B2%B4?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+추천순
+최신순
+낮은가격순
+높은가격순
+1
+자세히 알아보기
+[35] (500,324)<div aria-label='남성 의류' class='google-anno-skip goog-rentry' role='link' />
+	[36] (222,324)<span >남성 의류 />
+	[37] (792,324)<span  />
+[38] (500,410)<div aria-label='충전기 케이블' class='google-anno-skip goog-rentry' role='link' />
+	[39] (232,410)<span >충전기 케이블 />
+	[40] (792,410)<span  />
+[41] (500,497)<div aria-label='도서 음반' class='google-anno-skip goog-rentry' role='link' />
+	[42] (222,497)<span >도서 음반 />
+	[43] (792,497)<span  />
+새 상품은 어떠세요?
+AD
+[44] (229,913)<a aria-label='쇼핑 - 1 번째 상품 게이밍컴퓨터 조립PC 데스크탑 본체 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8501160855&itemId=24608820937&vendorItemId=92610184402&traceid=V0-153-30e68e94cb3373ed&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[45] (229,913)<div  />
+		[46] (229,838)<div  />
+			[47] (229,838)<div  />
+		[48] (229,992)<span >게이밍컴퓨터 조립PC 데스크탑 본체 />
+[49] (337,913)<a aria-label='쇼핑 - 2 번째 상품 달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC, 윈도우 11 홈, 1TB, 32GB, 지포스 RTX 4070 Ti, i7 13700F 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9021949384&itemId=26454002571&vendorItemId=93429399295&traceid=V0-153-61940f082604befc&clickBeacon=d16e6b20-494d-11f1-9fad-6a1f09df0d21%7E3&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[50] (337,913)<div  />
+		[51] (337,838)<div  />
+			[52] (337,838)<div  />
+		[53] (337,992)<span >달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC, 윈도우 11 홈, 1TB, 32GB, 지포스 RTX 4070 Ti, i7 13700F />
+[54] (446,913)<a aria-label='쇼핑 - 3 번째 상품 조립 컴퓨터 조립PC 게이밍 고사양 게임용 본체 롤 오버워치 메이플 배틀그라운드 팰월드 디아블로 피파 로아 마인크래프트 로블록스 호라이즌 컴퓨터본체 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8887484689&itemId=25947037099&vendorItemId=92877629355&traceid=V0-153-41c83bbb9eae21d2&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[55] (446,913)<div  />
+		[56] (446,838)<div  />
+			[57] (446,838)<div  />
+		조립 컴퓨터 조립PC 게이밍 고사양 게임용 본체 롤 오버워치 메이플 배틀그라운드 팰월드 디아블로 피파 로아 마인크래프트 로블록스 호라이즌 컴퓨터본체
+[58] (554,913)<a aria-label='쇼핑 - 4 번째 상품 i7 갓성비 대용량 듀얼하드 장착 게이밍 컴퓨터 배그 디아블로4 발로란트 롤 팰월드 발로란트 로블록스 오버워치2 조립 데스크탑 디자인 포토샵 데스크탑 본체 PC 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=7830109112&itemId=21294015388&vendorItemId=94111628504&traceid=V0-153-cbc80227c70df283&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[59] (554,913)<div  />
+		[60] (554,838)<div  />
+			[61] (554,838)<div  />
+		i7 갓성비 대용량 듀얼하드 장착 게이밍 컴퓨터 배그 디아블로4 발로란트 롤 팰월드 발로란트 로블록스 오버워치2 조립 데스크탑 디자인 포토샵 데스크탑 본체 PC
+[62] (663,913)<a aria-label='쇼핑 - 5 번째 상품 에스티컴퓨터 2025 게임용 조립PC 라이젠7 라이젠 9000 시리즈 라데온 RX 9070 XT 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9307525549&itemId=27576876157&vendorItemId=93594555455&traceid=V0-153-c7082fd8c42b82cc&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[63] (663,913)<div  />
+		[64] (663,838)<div  />
+			[65] (663,838)<div  />
+		[66] (663,992)<span >에스티컴퓨터 2025 게임용 조립PC 라이젠7 라이젠 9000 시리즈 라데온 RX 9070 XT />
+[67] (771,913)<a aria-label='쇼핑 - 6 번째 상품 구스페리 열전도율 17.8w/mk CPU 써멀구리스 4g 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9296755657&itemId=27537533368&vendorItemId=94502023421&traceid=V0-153-d2ca3fc906286ec1&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[68] (771,913)<div  />
+		[69] (771,838)<div  />
+			[70] (771,838)<div  />
+		[71] (771,992)<span >구스페리 열전도율 17.8w/mk CPU 써멀구리스 4g />
+[72] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[73] (854,907)<div  />
+		[74] (903,907)<div  />
+[75] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[76] (902,799)<span  />
+
+</current_dom>

@@ -1,0 +1,155 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,34)<div aria-label='기본 메뉴' class='gb_1c' role='button' />
+[1] (44,36)<a aria-label='Blogger' class='gb_de gb_Vc gb_he' href='/?hl=ko&tab=jj&authuser=1' id='sdgBod' />
+	[2] (44,36)<img class='gb_0c' role='presentation' />
+[3] (478,34)<input aria-label='검색' class='Ax4B8 ZAGvjd' role='combobox' />
+[4] (661,34)<button class='gb_Ue' title='검색 구문 도움말' />
+[5] (315,34)<button aria-label='검색' class='gb_Oe' role='button' />
+[6] (932,34)<div aria-label='도움말 및 의견' class='U26fgb JRtysb WzwrXb' role='button' />
+	[7] (932,40)<span  />
+		[8] (932,40)<span  />
+			[9] (932,32)<span > />
+[10] (957,34)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=jh' role='button' />
+[11] (982,34)<a aria-label='Google 계정: 김광섭  
+(kevincity0127@gmail.com)' class='gb_B gb_0a gb_1' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.blogger.com/u/1/blog/posts/6577533901683534947&service=blogger&ec=GBRAHg' role='button' />
+[12] (67,102)<div aria-label='Blog Selection' class='jgvuAb nFaJic ij0xy' role='listbox' />
+	[13] (67,102)<div role='presentation' />
+		[14] (67,102)<div class='ry3kXd Ulgu9' role='presentation' />
+			[15] (67,102)<div aria-label='놓치면 손해보는 혜택 저장소' class='MocG8c iRqe nj0FMe F8KQq XbY4gb LMgvRb KKjvXb' role='option' />
+				[16] (65,102)<span  />
+					[17] (65,102)<div  />
+						[18] (65,102)<div >놓치면 손해보는 혜택 저장소 />
+		[19] (128,102)<div class='e2CuFe fWxnwc eU809d' role='presentation' />
+[20] (42,161)<div aria-label='새 글 작성' class='U26fgb O0WRkf zZhnYe e3Duub C0oVfc zr7Fj zFM5pd M9Bg4d' role='button' />
+	[21] (33,161)<span  />
+		[22] (33,161)<span  />
+			[23] (23,161)<span > />
+			[24] (39,161)<span >새 글 />
+[25] (67,242)<span aria-label='글' class='N9wOvf m54AJ aaG7md HJKtLb Pao7hd' role='menuitem' />
+	[26] (67,242)<div  />
+		[27] (67,242)<a class='Un8wMb zRRGMc' href='./blog/posts/6577533901683534947' />
+			[28] (31,242)<div  />
+				[29] (27,242)<span >article />
+				[30] (41,242)<div >글 />
+[31] (67,293)<span aria-label='통계' class='N9wOvf m54AJ aaG7md NnFS8c' role='menuitem' />
+	[32] (67,293)<div  />
+		[33] (67,293)<a class='Un8wMb zRRGMc' href='./blog/stats/week/6577533901683534947' />
+			[34] (35,293)<div  />
+				[35] (27,293)<span > />
+				[36] (45,293)<div >통계 />
+[37] (67,344)<span aria-label='댓글' class='N9wOvf m54AJ aaG7md XI9J4' role='menuitem' />
+	[38] (67,344)<div  />
+		[39] (67,344)<a class='Un8wMb zRRGMc' href='./blog/comments/6577533901683534947' />
+			[40] (34,344)<div  />
+				[41] (27,344)<span > />
+				[42] (44,344)<div >댓글 />
+[43] (67,395)<span aria-label='수익' class='N9wOvf m54AJ aaG7md uH29Zd' role='menuitem' />
+	[44] (67,395)<div  />
+		[45] (67,395)<a class='Un8wMb zRRGMc' href='./blog/earnings/6577533901683534947' />
+			[46] (34,395)<div  />
+				[47] (27,395)<span > />
+				[48] (44,395)<div >수익 />
+[49] (67,446)<span aria-label='페이지' class='N9wOvf m54AJ aaG7md OYwhHf' role='menuitem' />
+	[50] (67,446)<div  />
+		[51] (67,446)<a class='Un8wMb zRRGMc' href='./blog/pages/6577533901683534947' />
+			[52] (38,446)<div  />
+				[53] (27,446)<span > />
+				[54] (48,446)<div >페이지 />
+[55] (67,496)<span aria-label='레이아웃' class='N9wOvf m54AJ aaG7md n65pv' role='menuitem' />
+	[56] (67,496)<div  />
+		[57] (67,496)<a class='Un8wMb zRRGMc' href='./blog/layout/6577533901683534947' />
+			[58] (43,496)<div  />
+				[59] (27,496)<span >wysiwyg />
+				[60] (53,496)<div >레이아웃 />
+[61] (67,547)<span aria-label='테마' class='N9wOvf m54AJ aaG7md Pv5exd' role='menuitem' />
+	[62] (67,547)<div  />
+		[63] (67,547)<a class='Un8wMb zRRGMc' href='./blog/themes/6577533901683534947' />
+			[64] (34,547)<div  />
+				[65] (27,547)<span > />
+				[66] (44,547)<div >테마 />
+[67] (67,598)<span aria-label='설정' class='N9wOvf m54AJ aaG7md gnUDWc' role='menuitem' />
+	[68] (67,598)<div  />
+		[69] (67,598)<a class='Un8wMb zRRGMc' href='./blog/settings/6577533901683534947' />
+			[70] (34,598)<div  />
+				[71] (27,598)<span > />
+				[72] (44,598)<div >설정 />
+[73] (67,649)<span aria-label='읽기 목록' class='N9wOvf m54AJ aaG7md IGfGs' role='menuitem' />
+	[74] (67,649)<div  />
+		[75] (67,649)<a class='Un8wMb zRRGMc' href='./blog/reading/6577533901683534947' />
+			[76] (43,649)<div  />
+				[77] (27,649)<span > />
+				[78] (53,649)<div >읽기 목록 />
+[79] (67,701)<div class='U26fgb A9jyad O0WRkf oG5Srb HQ8yf C0oVfc bbypmb M9Bg4d' role='presentation' />
+	[80] (71,701)<a class='FKF6mc TpQm9d kFANI' href='https://no-loss-info.blogspot.com/' />
+		[81] (44,708)<span  />
+			[82] (44,701)<span  />
+				[83] (44,701)<div >블로그 보기 />
+					[84] (28,701)<span > />
+[85] (25,741)<a class='NUK5Wd' href='https://www.blogger.com/u/1/go/terms'>서비스 약관 />
+·
+[86] (65,741)<a class='NUK5Wd' href='https://www.blogger.com/u/1/go/privacy'>개인정보 보호 />
+·
+[87] (106,741)<a class='NUK5Wd' href='https://www.blogger.com/u/1/go/contentpolicy'>콘텐츠 정책 />
+[88] (573,123)<div class='oX8Xbb Tj1T2' role='button' />
+	[89] (563,123)<span  />
+		[90] (563,123)<div  />
+			[91] (317,123)<span > />
+			[92] (346,123)<div >공지사항(2) />
+	[93] (825,123)<div  />
+		[94] (829,121)<span > />
+유럽 연합 법규는 유럽 연합 방문자에게 블로그에 사용되는 쿠키 및 수집되는 데이터에 대한 정보를 제공하도록 규제하고 있습니다. 또한 대부분의 경우 이러한 법규는 사용자의 동의를 얻도록 요구합니다.
+이 규제를 준수할 수 있도록 Google은 귀하의 블로그에 Google이 특정 Blogger를 사용하며 Google 애널리틱스와 애드센스 쿠키를 비롯한 Google 쿠키와 Google이 수집한 기타 데이터 사용을 알리는 공지사항을 추가했습니다.
+귀하는 이 공지사항이 블로그에 실제로 적용되고 표시되도록 할 책임이 있습니다. 타사 제품의 기능을 추가하는 등 다른 쿠키를 사용하는 경우 이 공지사항이 귀하에게 적합하지 않을 수 있습니다. 다른 제공업체의 기능을 포함하는 경우 사용자로부터 수집한 추가 정보가 있을 수 있습니다.
+이 공지사항 및 책임에 대해
+[95] (422,403)<a href='./go/cookiechoices'>자세히 알아보기 />
+[96] (826,172)<div aria-label='알림 취소 버튼입니다.' class='U26fgb mUbCce fKz7Od FPbn3c M9Bg4d' role='button' />
+	[97] (826,175)<span  />
+		[98] (826,172)<span > />
+**새로운 베타 기능을 사용해 보세요**: Google을 활용하여 블로그를 읽을 때 더욱 몰입할 수 있는 환경을 조성하세요
+Google 검색 미리보기:
+인기 인물, 장소, 대중문화 등에 대한 Google 검색 미리보기 이미지를 블로그에 바로 삽입합니다. 시작하려면 '새 글 작성 보기'에서 편집기 툴바의 'G' 버튼을 찾으세요.
+[99] (826,446)<div aria-label='알림 취소 버튼입니다.' class='U26fgb mUbCce fKz7Od FPbn3c M9Bg4d' role='button' />
+	[100] (826,448)<span  />
+		[101] (826,446)<span > />
+[102] (350,602)<div aria-label='글/페이지 상태 선택' class='jgvuAb' role='listbox' />
+	[103] (350,602)<div role='presentation' />
+		[104] (350,602)<div class='ry3kXd' role='presentation' />
+			[105] (350,602)<div class='MocG8c iRqe nj0FMe F8KQq LMgvRb KKjvXb' role='option' />
+				[106] (340,602)<span >전체(1개) />
+			게시됨(1개)
+			임시보관(0개)
+			게시 예정(0개)
+			휴지통(0개)
+		[107] (381,602)<div class='e2CuFe fWxnwc eU809d' role='presentation' />
+[108] (773,604)<div aria-label='라벨별로 필터링' class='U26fgb mUbCce fKz7Od tPuW5 M9Bg4d' role='button' />
+	[109] (773,624)<span  />
+		[110] (773,607)<span  />
+			[111] (773,604)<span > />
+[112] (808,604)<div aria-label='글 목록 관리' class='U26fgb O0WRkf oG5Srb HQ8yf C0oVfc PwroAb M9Bg4d' role='button' title='글 목록 관리' />
+	[113] (808,604)<span  />
+		[114] (808,604)<span >관리 />
+2
+2026년 제3차 민생지원금 1인당 40만원 지급 및 신청 안내 (시범지역 15만원 즉시지급 포함)
+[115] (770,684)<div >혜택저장소장 />
+[116] (816,686)<a href='/profile/02726366252119258931' />
+	[117] (816,684)<img  />
+게시됨
+•
+3월 8일
+[118] (770,718)<div aria-label='공유' class='U26fgb mUbCce fKz7Od HqdlId sW58hb CIA6l M9Bg4d' role='button' />
+	[119] (770,719)<span  />
+		[120] (770,718)<span > />
+0
+
+[121] (815,718)<a class='tUIYCc' href='./blog/statspost/all_time/6577533901683534947/8455939376010687831' />
+	[122] (810,718)<span >1 />
+	[123] (818,718)<span  />
+		[124] (818,718)<span  />
+			[125] (818,718)<span  />
+				[126] (818,718)<span > />
+[127] (573,701)<a class='azat BJi0D' href='./blog/post/edit/6577533901683534947/8455939376010687831' />
+
+</current_dom>

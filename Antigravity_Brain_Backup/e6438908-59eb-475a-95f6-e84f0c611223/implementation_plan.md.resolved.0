@@ -1,0 +1,31 @@
+# Shopmine Auto-Login Implementation Plan
+
+## Goal Description
+The current script only launches the Shopmine executable. The user reported that the login button is not clicked automatically. This plan aims to add GUI automation using `pywinauto` to detect the Shopmine window and click the "Login" (or equivalent) button.
+
+## User Review Required
+> [!IMPORTANT]
+> This requires installing a new library: `pywinauto`.
+
+## Proposed Changes
+
+### Configuration
+1.  **Install `pywinauto`**: Add `pywinauto` to the environment.
+
+### Scripts
+#### [MODIFY] [run_shopmine.py](file:///c:/Upload2601공유폴더/샵마인 자동화/run_shopmine.py)
+- Import `pywinauto`.
+- Add a function `auto_login()` that:
+    - Connects to the Shopmine application.
+    - Waits for the window to appear.
+    - Finds the "Login" button (we will need to discover the exact control name first).
+    - Clicks the button.
+
+## Verification Plan
+
+### Automated Tests
+1.  **Inspection Script**: Create a temporary script `inspect_shopmine.py` to print the control identifiers of the Shopmine window. This will help us find the correct button name.
+2.  **Launch Test**: Run the modified [run_shopmine.py](file:///c:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/%EC%83%B5%EB%A7%88%EC%9D%B8%20%EC%9E%90%EB%8F%99%ED%99%94/run_shopmine.py) (or a test wrapper) and verify if the login button is clicked.
+
+### Manual Verification
+- User observes the screen to see if the button is clicked.

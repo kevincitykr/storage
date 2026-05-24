@@ -1,0 +1,184 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+접근성 링크
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,73)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwitrva8_rCTAxXqDzQIHfOkCTMQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,71)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,71)<div  />
+	[3] (561,71)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (561,71)<span  />
+	[5] (577,71)<span  />
+[6] (593,71)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,71)<span  />
+[8] (619,71)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,71)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,71)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,71)<div  />
+		[12] (670,71)<span  />
+[13] (914,71)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp&authuser=0' role='button' />
+[14] (945,71)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,71)<a aria-label='Google 계정: 김광섭  
+(kevincitykr001@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DThreads%2Baccount%2Bcreation%2Bautomation%2Bbest%2Bpractices%2Bmobile%2Bproxies%2Bmultilogin%2Banti-detect%2Bbrowser&ec=futura_srp_og_si_72236_p' role='button' />
+필터 및 주제
+[16] (156,156)<a class='XVMlrc C6AK7c' href='/search?q=Threads+account+creation+automation+best+practices+mobile+proxies+multilogin+anti-detect+browser&sca_esv=2e9e3577ff7485d9&sxsrf=ANbL-n7_2ao07nijnnjQqxE0mfNN2NpyCA:1774095962059&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEAwTG0lu3ddgIPZThgGXQCs0NsQgowAhk51LLgsvm9XWEm43o02U-w-kydOz7c1v9MdAP57P8jAwCro-AKUdTxqUuEvVnnBquR3lcD2VewUkjLPeEtIqd0QXxcwlZsAfv0mj61yEoEB9IMdZKVnSf4CYsTPSw&aep=1&ntc=1&sa=X&ved=2ahUKEwitrva8_rCTAxXqDzQIHfOkCTMQ2J8OegQICBAE' />
+	[17] (156,156)<div  />
+		[18] (156,168)<div  />
+			[19] (156,161)<span >AI 모드 />
+[20] (194,156)<a class='C6AK7c' role='link' />
+	전체
+[21] (240,156)<a class='C6AK7c' href='/search?sca_esv=2e9e3577ff7485d9&sxsrf=ANbL-n7_2ao07nijnnjQqxE0mfNN2NpyCA:1774095962059&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEAwTG0lu3ddgIPZThgGXQCs0NsQgowAhk51LLgsvm9XWEm43o02U-w-kydOz7c1v9MdAP57P8jAwCro-AKUdTxqUuEvVnnBquR3lcD2VewUkjLPeEtIqd0QXxcwlZsAfv0mj61yEoEB9IMdZKVnSf4CYsTPSw&q=Threads+account+creation+automation+best+practices+mobile+proxies+multilogin+anti-detect+browser&sa=X&ved=2ahUKEwitrva8_rCTAxXqDzQIHfOkCTMQs6gLegQIDRAB' />
+	[22] (240,156)<div  />
+		[23] (240,168)<span >짧은 동영상 />
+[24] (291,156)<a class='C6AK7c' href='/search?sca_esv=2e9e3577ff7485d9&sxsrf=ANbL-n7_2ao07nijnnjQqxE0mfNN2NpyCA:1774095962059&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEAwTG0lu3ddgIPZThgGXQCs0NsQgowAhk51LLgsvm9XWEm43o02U-w-kydOz7c1v9MdAP57P8jAwCro-AKUdTxqUuEvVnnBquR3lcD2VewUkjLPeEtIqd0QXxcwlZsAfv0mj61yEoEB9IMdZKVnSf4CYsTPSw&q=Threads+account+creation+automation+best+practices+mobile+proxies+multilogin+anti-detect+browser&sa=X&ved=2ahUKEwitrva8_rCTAxXqDzQIHfOkCTMQtKgLegQIDhAB' />
+	[25] (291,156)<div  />
+		[26] (291,168)<span >동영상 />
+[27] (327,156)<a class='C6AK7c' href='/search?sca_esv=2e9e3577ff7485d9&sxsrf=ANbL-n7_2ao07nijnnjQqxE0mfNN2NpyCA:1774095962059&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEAwTG0lu3ddgIPZThgGXQCs0NsQgowAhk51LLgsvm9XWEm43o02U-w-kydOz7c1v9MdAP57P8jAwCro-AKUdTxqUuEvVnnBquR3lcD2VewUkjLPeEtIqd0QXxcwlZsAfv0mj61yEoEB9IMdZKVnSf4CYsTPSw&q=Threads+account+creation+automation+best+practices+mobile+proxies+multilogin+anti-detect+browser&ved=1t:220175&ictx=111' />
+	[28] (327,156)<div  />
+		[29] (327,168)<span >쇼핑 />
+[30] (364,156)<a class='C6AK7c' href='/search?sca_esv=2e9e3577ff7485d9&sxsrf=ANbL-n7_2ao07nijnnjQqxE0mfNN2NpyCA:1774095962059&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEAwTG0lu3ddgIPZThgGXQCs0NsQgowAhk51LLgsvm9XWEm43o02U-w-kydOz7c1v9MdAP57P8jAwCro-AKUdTxqUuEvVnnBquR3lcD2VewUkjLPeEtIqd0QXxcwlZsAfv0mj61yEoEB9IMdZKVnSf4CYsTPSw&q=Threads+account+creation+automation+best+practices+mobile+proxies+multilogin+anti-detect+browser&sa=X&ved=2ahUKEwitrva8_rCTAxXqDzQIHfOkCTMQtKgLegQICxAB' />
+	[31] (364,156)<div  />
+		[32] (364,168)<span >이미지 />
+[33] (400,156)<a class='C6AK7c' href='/search?sca_esv=2e9e3577ff7485d9&sxsrf=ANbL-n7_2ao07nijnnjQqxE0mfNN2NpyCA:1774095962059&q=Threads+account+creation+automation+best+practices+mobile+proxies+multilogin+anti-detect+browser&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEAwTG0lu3ddgIPZThgGXQCs0NsQgowAhk51LLgsvm9XWEm43o02U-w-kydOz7c1v9MdAP57P8jAwCro-AKUdTxqUuEvVnnBquR3lcD2VewUkjLPeEtIqd0QXxcwlZsAfv0mj61yEoEB9IMdZKVnSf4CYsTPSw&sa=X&ved=2ahUKEwitrva8_rCTAxXqDzQIHfOkCTMQ0pQJegQIEBAB' />
+	[34] (400,156)<div  />
+		[35] (400,168)<span >뉴스 />
+[36] (443,156)<div class='mTpL7c' role='button' />
+	[37] (443,156)<div  />
+		[38] (443,168)<div  />
+			[39] (437,161)<span >더보기 />
+			[40] (455,161)<span  />
+[41] (491,156)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,156)<div  />
+		[43] (491,168)<div  />
+			[44] (485,161)<span >도구 />
+			[45] (499,161)<span  />
+검색결과
+동영상
+[46] (198,255)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[47] (198,255)<span  />
+		[48] (198,256)<span  />
+[49] (409,316)<div  />
+	[50] (401,316)<div  />
+		[51] (401,316)<span >How to Create Multiple Accounts Safely on Any Platform Using ... />
+[52] (269,368)<span >YouTube />
+[53] (344,368)<span >How To - Internet Tutorials />
+	[54] (290,368)<span >· />
+[55] (409,399)<div  />
+	[56] (275,398)<span >2025. 10. 3. />
+[57] (414,367)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[58] (414,367)<span  />
+		[59] (414,368)<span  />
+[60] (190,357)<a aria-label='How To - Internet Tutorials님이 YouTube에 게시한 How to Create Multiple Accounts Safely on Any Platform Using .... YouTube에서 재생. 10:25' class='rIRoqf' href='https://www.youtube.com/watch?v=9UQuIJkMJFk' />
+	[61] (190,357)<div  />
+		[62] (190,357)<div  />
+			[63] (162,389)<div  />
+				[64] (162,388)<span >10:25 />
+[65] (246,460)<div class='KMEEs' role='button' />
+	[66] (246,460)<div  />
+		[67] (246,452)<div  />
+			[68] (221,452)<div  />
+				[69] (195,452)<div  />
+					[70] (195,452)<span  />
+						[71] (195,452)<span  />
+							[72] (195,452)<span >이 동영상의 주요 순간 14개 />
+				[73] (265,452)<span  />
+[74] (354,552)<div class='RyIFgf' scrollable='true' />
+	[75] (185,552)<a aria-label='Introduction & The Problem. 0초의 1, 14. ' class='q9yZOe' href='https://www.youtube.com/watch?v=9UQuIJkMJFk&t=0' />
+		[76] (181,537)<div  />
+			[77] (181,537)<div  />
+				[78] (181,505)<div  />
+					[79] (153,505)<span >00:00 />
+				[80] (181,553)<div >Introduction & The Problem />
+	[81] (277,552)<a aria-label='Why and how Platforms Detect Multiple Accounts. 43초의 2, 14. ' class='q9yZOe' href='https://www.youtube.com/watch?v=9UQuIJkMJFk&t=43' />
+		[82] (278,552)<div  />
+			[83] (278,552)<div  />
+				[84] (278,505)<div  />
+					[85] (250,505)<span >00:43 />
+				[86] (278,568)<div >Why and how Platforms Detect Multiple Accounts />
+	[87] (374,552)<a aria-label='What is Multilogin?. 1분 32초의 3, 14. ' class='q9yZOe' href='https://www.youtube.com/watch?v=9UQuIJkMJFk&t=92' />
+		[88] (375,522)<div  />
+			[89] (375,522)<div  />
+				[90] (375,505)<div  />
+					[91] (347,505)<span >01:32 />
+				[92] (375,538)<div >What is Multilogin? />
+	[93] (471,552)<a aria-label='Dashboard Overview & AI Profile Creation. 2분 14초의 4, 14. ' class='q9yZOe' href='https://www.youtube.com/watch?v=9UQuIJkMJFk&t=134' />
+		[94] (472,552)<div  />
+			[95] (472,552)<div  />
+				[96] (472,505)<div  />
+					[97] (444,505)<span >02:14 />
+				[98] (472,568)<div >Dashboard Overview & AI Profile Creation />
+	[99] (541,505)<span >03:00 />
+	Manual Profile Setup Guide
+	03:39
+	Proxy Configuration & Settings
+	05:48
+	Advanced Browser Fingerprint Options
+	06:41
+	Creating Multiple Profiles
+	07:01
+	Profile Cloning Feature
+[100] (566,552)<div class='LeB5nb btku5b OJeuxf xab99e' role='button' />
+	[101] (566,552)<div  />
+		[102] (566,552)<span  />
+[103] (409,705)<a class='rIRoqf' href='https://www.youtube.com/watch?v=Y24S5LpvicU' />
+	[104] (409,705)<div class='V5XKdd' role='heading' />
+		[105] (409,664)<div  />
+			[106] (400,664)<div  />
+				[107] (400,664)<span >The Best Anti-Detect Browser With Built-In Proxies ( Multilogin ... />
+		[108] (409,731)<div  />
+			[109] (409,731)<div  />
+				[110] (409,716)<span  />
+					[111] (269,715)<span >YouTube />
+					[112] (322,715)<span >Samwel Dollah />
+						[113] (290,715)<span >· />
+				[114] (409,746)<div  />
+					[115] (275,745)<span >2025. 9. 22. />
+[116] (369,715)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[117] (369,715)<span  />
+		[118] (369,716)<span  />
+[119] (190,705)<div aria-label='Samwel Dollah님이 YouTube에 게시한 The Best Anti-Detect Browser With Built-In Proxies ( Multilogin .... Google에서 재생. 15:38' class='rIRoqf hXY9cf' role='button' />
+	[120] (190,705)<div  />
+		[121] (190,705)<div  />
+			[122] (162,737)<div  />
+				[123] (162,736)<span >15:38 />
+			[124] (227,672)<div  />
+				[125] (227,672)<span  />
+[126] (409,852)<a class='rIRoqf' href='https://www.youtube.com/watch?v=UUDPegNLWSM' />
+	[127] (409,852)<div class='V5XKdd' role='heading' />
+		[128] (409,812)<div  />
+			[129] (399,812)<div  />
+				[130] (399,812)<span >How to use mobile proxies in Multilogin antidetect browser for ... />
+		[131] (409,879)<div  />
+			[132] (409,879)<div  />
+				[133] (409,864)<span  />
+					[134] (269,863)<span >YouTube />
+					[135] (310,863)<span >Multilogin />
+						[136] (290,863)<span >· />
+				[137] (409,894)<div  />
+					[138] (275,893)<span >2025. 9. 13. />
+[139] (347,862)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[140] (347,862)<span  />
+		[141] (347,864)<span  />
+[142] (190,852)<div aria-label='Multilogin님이 YouTube에 게시한 How to use mobile proxies in Multilogin antidetect browser for .... Google에서 재생. 2:22' class='rIRoqf hXY9cf' role='button' />
+	[143] (190,852)<div  />
+		[144] (190,852)<div  />
+			[145] (160,884)<div  />
+				[146] (160,884)<span >2:22 />
+			[147] (227,820)<div  />
+				[148] (227,820)<span  />
+[149] (246,956)<div class='KMEEs' role='button' />
+	[150] (246,956)<div  />
+		[151] (160,947)<div  />
+			[152] (156,947)<div  />
+		[153] (269,947)<div  />
+			[154] (266,947)<div  />
+				[155] (240,947)<div  />
+					[156] (240,947)<span  />
+						[157] (240,947)<span  />
+							[158] (240,947)<span >이 동영상의 주요 순간 12개 />
+				[159] (311,947)<span  />
+
+</current_dom>

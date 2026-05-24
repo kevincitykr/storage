@@ -1,0 +1,78 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+자동선택
+전체
+AMD CPU
+인텔 정품
+[0] (268,134)<dd class='ls_div ' id='ls_div3452' />
+	[1] (225,134)<label >인텔 병행수입 />
+[2] (268,183)<dd class='ls_div ' id='ls_div3280' />
+	[3] (217,183)<label >서버 CPU />
+[4] (666,125)<a href='https://www.compuzone.co.kr/cscenter/service_guide.htm?bannerid=OnlineBanner' />
+	[5] (666,125)<img  />
+CPU
+[6] (353,397)<input id='Search_free' />
+무료배송
+[7] (418,397)<input id='Search_Event' />
+행사제품보기
+총
+351
+건
+[8] (307,474)<input id='SearchKeyword' />
+[9] (363,476)<a href='javascript:search_keyword();' />
+[10] (433,474)<select  />
+[11] (259,973)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[12] (65,633)<a class='imgbox' href='javascript:detail_show('1013843')' title='[제품코드:1013843]' />
+	[13] (221,628)<a class='imgbox' href='javascript:detail_show('1013843')'>8코어 16스레드 4.2GHz 120w TDP 5nm / 라이젠 라파엘 / 라이젠7 / 옥타(8) 코어 / AM5 / 내장그래픽 유 / 4.2 ~ 5.0GHz / 12MB 이상 / 5nm />
+		[14] (221,601)<b >[AMD] 라이젠7 라파엘 7800X3D (8코어/16스레드/4.2GHz/쿨러미포함) 멀티팩[1013843] />
+	가산점 현장구매 가능 상품
+	후기
+	댓글
+	판매가격
+	370,000
+	[15] (451,654)<a class='buttons' href='javascript:select_basket('1013843','N',1);' id='basket1013843' />
+		[16] (451,654)<span >담기 />
+	[17] (65,843)<a class='imgbox' href='javascript:detail_show('1108538')' title='[제품코드:1108538]' />
+	[18] (221,878)<a class='imgbox' href='javascript:detail_show('1108538')'>인텔(소켓1700) / 10nm(인텔7) / P4코어 / 8쓰레드 / 기본 클럭: 3.5GHz / 최대 클럭: 4.7GHz / L2 캐시: 5MB / L3 캐시: 12MB / PBP-MTP: 60-110W / PCIe5.0, 4.0 / 메모리 규격: DDR5, DDR4 / 4800, 3200MHz / 내장그래픽: 탑재 / 인텔 UHD 730 / 기술 지원: 하이퍼스레딩 / 벌크 (쿨러미포함) />
+		[19] (221,811)<b >[INTEL] 코어 i3-14100 정품벌크 (랩터레이크 리프레시/3.5GHz/12MB/쿨러 미포함) [1108538] />
+	후기
+	댓글
+	판매가격
+	185,000
+	[20] (451,904)<a class='buttons' href='javascript:select_basket('1108538','N',1);' id='basket1108538' />
+		[21] (451,904)<span >담기 />
+총 견적금액
+576,000
+원
+[22] (536,474)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[23] (565,474)<input  />
+[24] (594,474)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[25] (658,474)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[26] (658,475)<span >전체수량변경 />
+[27] (546,585)<label  />
+	[28] (528,584)<span  />
+		[29] (528,585)<input  />
+	[30] (554,584)<span >전체선택 />
+[31] (713,584)<a class='wbtn' href='javascript:add_wish_list();' />
+	[32] (713,585)<span >관심상품추가 />
+[33] (774,584)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[34] (774,585)<span >장바구니담기 />
+[35] (833,584)<a class='wbtn' />
+	[36] (833,585)<span >견적서출력 />
+[37] (891,584)<a class='wbtn' href='javascript:speck_form();' />
+	[38] (891,585)<span >사양검토요청 />
+초기화
+[39] (529,676)<label  />
+	[40] (529,675)<span  />
+		[41] (528,678)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[42] (563,675)<span >인텔 병행수입 />
+[43] (640,728)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[44] (873,707)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[45] (896,707)<input class='change__ea' id='Amount_1108547' />
+[46] (919,707)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+
+</current_dom>

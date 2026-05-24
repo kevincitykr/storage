@@ -1,0 +1,182 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Clone
+[0] (676,386)<a class='prc-Link-Link-9ZwDx' href='https://docs.github.com/articles/which-remote-url-should-i-use' />
+Remote URL selector navigation
+[1] (462,447)<a aria-label='Clone with HTTPS' class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[2] (462,447)<span >HTTPS />
+[3] (513,447)<a aria-label='Clone with GitHub CLI' class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[4] (513,447)<span >GitHub CLI />
+Clone with HTTPS url
+[5] (551,517)<input class='form-control input-monospace input-sm color-bg-subtle' id='clone-with-https' />
+[6] (672,517)<button class='prc-Button-ButtonBase-9n-Xk ml-1 mr-0 LocalTab-module__CopyToClipboardButton__MXyJF prc-Button-IconButton-fyge7' />
+Clone using the web URL.
+[7] (563,640)<button class='prc-ActionList-ActionListContent-KBb8-' id='_r_1n_' />
+	[8] (570,640)<span  />
+		[9] (570,640)<span >Open with GitHub Desktop />
+[10] (563,686)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/wonseokjung/connect-ai/archive/refs/heads/main.zip' id='_r_1o_' />
+	[11] (570,686)<span  />
+		[12] (570,686)<span >Download ZIP />
+Skip to content
+Navigation Menu
+[13] (31,52)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[14] (83,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Platform />
+[15] (148,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Solutions />
+[16] (215,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Resources />
+[17] (292,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Open Source />
+[18] (368,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Enterprise />
+[19] (423,52)<a class='NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM' href='https://github.com/pricing' />
+	[20] (423,52)<span >Pricing />
+[21] (740,52)<button aria-label='Search or jump to…' class='header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none' placeholder='Search or jump to...' />
+	[22] (647,52)<div  />
+	[23] (740,52)<span >Search or jump to... />
+	[24] (836,52)<div  />
+[25] (874,52)<a class='HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fconnect-ai'>Sign in />
+[26] (927,52)<a class='HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1' href='/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=wonseokjung%2Fconnect-ai'>Sign up />
+[27] (969,52)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-d6b39818-b748-48d7-8b59-6fd8c77b1703' />
+[28] (75,148)<a class='url fn' href='/wonseokjung'>wonseokjung />
+/
+[29] (154,148)<a href='/wonseokjung/connect-ai'>connect-ai />
+Public
+[30] (793,146)<a aria-label='You must be signed in to change notification settings' class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' id='repository-details-watch-button'>Notifications />
+[31] (871,146)<a class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' id='fork-button'>Fork />
+	[32] (889,146)<span >27 />
+[33] (945,146)<a aria-label='You must be signed in to star a repository' class='tooltipped tooltipped-sw btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' />
+	[34] (944,146)<span >Star />
+	[35] (963,146)<span >41 />
+[36] (45,227)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected' href='/wonseokjung/connect-ai' id='code-tab' />
+	[37] (52,227)<span >Code />
+[38] (99,227)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/issues' id='issues-tab' />
+	[39] (107,227)<span >Issues />
+[40] (169,227)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/pulls' id='pull-requests-tab' />
+	[41] (177,227)<span >Pull requests />
+[42] (242,227)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/actions' id='actions-tab' />
+	[43] (250,227)<span >Actions />
+[44] (305,227)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/projects' id='projects-tab' />
+	[45] (313,227)<span >Projects />
+[46] (394,227)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/security' id='security-and-quality-tab' />
+	[47] (401,227)<span >Security and quality />
+[48] (482,227)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/pulse' id='insights-tab' />
+	[49] (490,227)<span >Insights />
+wonseokjung/connect-ai
+[50] (138,319)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[51] (138,319)<span  />
+		[52] (131,319)<span  />
+			[53] (131,319)<div  />
+				[54] (118,319)<div  />
+				[55] (137,319)<div  />
+					[56] (137,319)<span >main />
+[57] (206,319)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/wonseokjung/connect-ai/branches' />
+	[58] (206,319)<span  />
+		[59] (214,319)<span  />
+			[60] (214,319)<span >Branch />
+				[61] (200,319)<strong >1 />
+[62] (261,319)<a class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button___Uotu' href='/wonseokjung/connect-ai/tags' />
+	[63] (261,319)<span  />
+		[64] (269,319)<span  />
+			[65] (269,319)<span >Tags />
+				[66] (259,319)<strong >62 />
+[67] (550,319)<span  />
+	[68] (494,319)<span  />
+	[69] (556,319)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+[70] (658,319)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_e_' />
+	[71] (658,319)<span  />
+		[72] (658,319)<span >Code />
+Folders and files
+Latest commit
+Jay
+and
+Jay
+[73] (286,403)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/a7bd30000d24de4dfce6bfa71e747745972da3a4'>Add idea1 script draft and update claude settings />
+a7bd300
+·
+History
+170 Commits
+[74] (398,471)<tr  />
+	[75] (146,471)<a aria-label='.claude, (Directory)' class='Link--primary' href='/wonseokjung/connect-ai/tree/main/.claude' title='.claude'>.claude />
+	Add idea1 script draft and update claude settings
+[76] (398,529)<tr  />
+	[77] (200,529)<a aria-label='.secondbrain/00_Raw/2026-04-16, (Directory)' class='Link--primary' href='/wonseokjung/connect-ai/tree/main/.secondbrain/00_Raw/2026-04-16' title='This path skips through empty directories' />
+		[78] (159,529)<span >.secondbrain/ />
+		[79] (204,529)<span >00_Raw/ />
+		[80] (244,529)<span >2026-04-16 />
+	Auto-Inject Knowledge [Raw]: MrBeast_Data_Brain.md
+[81] (398,588)<tr  />
+	[82] (147,588)<a aria-label='.vscode, (Directory)' class='Link--primary' href='/wonseokjung/connect-ai/tree/main/.vscode' title='.vscode'>.vscode />
+	🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트
+[83] (398,647)<tr  />
+	[84] (144,647)<a aria-label='assets, (Directory)' class='Link--primary' href='/wonseokjung/connect-ai/tree/main/assets' title='assets'>assets />
+	fix: bundle force-graph locally to fix WebView CSP blocking
+[85] (398,706)<tr  />
+	[86] (138,705)<a aria-label='src, (Directory)' class='Link--primary' href='/wonseokjung/connect-ai/tree/main/src' title='src'>src />
+	fix(2.12.5): bridge server failures now surface instead of going silent
+[87] (398,764)<tr  />
+	[88] (151,764)<a aria-label='.gitignore, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/.gitignore' title='.gitignore'>.gitignore />
+	[89] (462,764)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/6333ca91b411104450b11d5cdebc78a071c08cda' title='🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트
+
+- 에이전트 코어: 파일 생성, 코드 편집, 터미널 실행
+- 프리미엄 UI: 글래스모피즘, shimmer 로딩, 구문 강조
+- Cmd+L 포커스, 코드 설명(우클릭), 대화 내보내기
+- VS Code Settings 통합 (Ollama URL, 모델, 타임아웃)
+- 대화 기록 영구 저장 (workspaceState)
+- 멀티파일 프로젝트 컨텍스트 자동 분석'>🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트 />
+[90] (398,823)<tr  />
+	[91] (160,823)<a aria-label='.vscodeignore, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/.vscodeignore' title='.vscodeignore'>.vscodeignore />
+	[92] (483,823)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/b795f705d14fb9887e680d87299606cbae7d1eb9' title='feat(2.10.0): obsidian-style brain graph + live synapse visualization
+
+- fix: #graph div was zero-sized (no css), so canvas never rendered;
+  now absolute-fills + ForceGraph gets explicit width/height up front.
+- design: obsidian-grade hierarchy — hubs scale up, leaves stay small,
+  labels fade with zoom (hubs/active/used always visible).
+- visualize search: while AI reads a note it pulses electric cyan,
+  1-hop neighbors get a ghost glow, adjacent links speed up their
+  particles. Used notes leave a warm-amber trail across the session.
+- palette: desaturated folder colors + softer link tones + subtle
+  vignette so the constellation reads as a brain, not a christmas tree.
+- forces: hubs repel harder for cleaner cluster centers; tag links
+  weakened so they don't dominate layout.
+- vsix hygiene: .vscodeignore now excludes .claude, .secondbrain,
+  ARCHITECTURE.md so private data doesn't ship.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>'>feat(2.10.0): obsidian-style brain graph + live synapse visualization />
+[93] (398,882)<tr  />
+	[94] (171,882)<a aria-label='ARCHITECTURE.md, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/ARCHITECTURE.md' title='ARCHITECTURE.md'>ARCHITECTURE.md />
+	[95] (469,882)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/947b5a381224d692ca97cf224f85347b40f656f6' title='fix: bundle force-graph locally to fix WebView CSP blocking'>fix: bundle force-graph locally to fix WebView CSP blocking />
+[96] (398,940)<tr  />
+	[97] (149,940)<a aria-label='LICENSE, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/LICENSE' title='LICENSE'>LICENSE />
+	chore: Rename Connect AI LAB to Connect AI and bump version to v1.0.12
+[98] (398,999)<tr  />
+	[99] (157,999)<a aria-label='README.md, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/README.md' title='README.md'>README.md />
+	docs: restructure README.md for v2.1.30 P-Reinforce and Agent Univers…
+About
+100% 로컬 AI 코딩 에이전트 — Antigravity/VS Code/Cursor에서 오프라인으로 파일 생성, 코드 편집, 터미널 실행. Ollama 기반.
+Resources
+[100] (744,529)<a class='Link--muted' href='#readme-ov-file'>Readme />
+License
+[101] (750,571)<a class='Link--muted' href='#MIT-1-ov-file'>MIT license />
+[102] (743,613)<a class='Link Link--muted' href='/wonseokjung/connect-ai/activity' />
+	[103] (752,613)<span >Activity />
+Stars
+[104] (743,655)<a class='Link Link--muted' href='/wonseokjung/connect-ai/stargazers'>stars />
+	[105] (741,655)<strong >41 />
+Watchers
+[106] (749,696)<a class='Link Link--muted' href='/wonseokjung/connect-ai/watchers'>watching />
+	[107] (739,696)<strong >1 />
+Forks
+[108] (744,738)<a class='Link Link--muted' href='/wonseokjung/connect-ai/forks'>forks />
+	[109] (742,738)<strong >27 />
+[110] (754,780)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fconnect-ai&report=wonseokjung+%28user%29'>Report repository />
+[111] (749,860)<a class='Link--primary no-underline Link' href='/wonseokjung/connect-ai/releases'>Releases />
+	[112] (770,863)<span >38 />
+[113] (807,928)<a class='Link--primary d-flex no-underline' href='/wonseokjung/connect-ai/releases/tag/v2.10.1' />
+	[114] (789,928)<div  />
+		[115] (789,916)<div  />
+			[116] (772,916)<span >Connect AI v2.10.1 />
+			[117] (829,916)<span >Latest />
+		[118] (789,944)<div  />
+			[119] (751,943)<relative-time  />
+[120] (745,994)<a class='Link' href='/wonseokjung/connect-ai/releases'>+ 37 releases />
+
+</current_dom>

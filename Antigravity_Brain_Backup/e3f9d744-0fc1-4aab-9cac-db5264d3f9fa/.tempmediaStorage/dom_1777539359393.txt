@@ -1,0 +1,38 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (30,55)<button class='btn_prev' />
+[1] (463,244)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[2] (953,244)<button class='btn_search'>검색 />
+	검색
+RTX 4060
+에 대한 검색결과입니다.
+[3] (80,429)<label >전체
+(5175) />
+	(5175)
+[4] (322,429)<label >그래픽카드
+(206) />
+	(206)
+[5] (529,429)<label >노트북
+(4963) />
+	(4963)
+[6] (731,429)<label >베어본
+(6) />
+	(6)
+[7] (78,771)<a >인기상품순 />
+[8] (233,771)<a >신상품순 />
+[9] (388,771)<a >낮은 가격순 />
+[10] (542,771)<a >높은 가격순 />
+[11] (697,771)<a >상품명순 />
+[12] (576,1788)<div class='scroll_box' scrollable='true' />
+	상품에 대한 품목 및 최저가에 대한 리스트입니다.
+	상품
+	품목
+	선택
+	비교
+	[13] (430,869)<a >MSI GF시리즈 소드 GF66 A AI B8VF-R7 (SSD 512GB) />
+	[14] (554,907)<a class='spec'>노트북 / 39.6cm(15.6인치) / 2.25kg / OS미포함(프리도스) / [화면] / 해상도:1920x1080(FHD) / 밝기:250nit / 주사율:144Hz / [CPU] / AMD / 라이젠7(Zen4) / 8845HS (3.8GHz) / NPU:16TOPS / [그래픽] / 외장그래픽 / RTX4060 / TGP:105W / [구성] / 램:16GB / 램 교체:가능 / 용량:512GB / 저장 슬롯:2개 / 전원:DC / 배터리:53.5Wh / 용도:게임용 />
+	[15] (213,956)<a class='icon_style btn_review'>상품의견 />
+
+</current_dom>

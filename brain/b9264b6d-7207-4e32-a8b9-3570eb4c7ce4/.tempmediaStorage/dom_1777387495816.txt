@@ -1,0 +1,67 @@
+DESKTOP-2T9HMFI
+Korean
+도움말
+동작
+폴더
+폴더 추가
+현재 기기
+DESKTOP-2T9HMFI
+수신 속도
+0 B/s
+(294 B)
+송신 속도
+0 B/s
+(286 B)
+현재 기기 상태(합계)
+0
+0
+~0 B
+대기자
+3/3
+탐지
+4/5
+가동 시간
+35분
+아이디
+73K7NTN
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+연결됨(미사용)
+kevincityHQ
+모두 일시 중지
+최근 변경 항목
+다른 기기 추가
+폴더 추가 (irwzm-rukma)
+[0] (239,146)<a href='#folder-general'>일반 />
+	일반
+[1] (293,146)<a href='#folder-sharing' />
+	[2] (282,146)<span  />
+	[3] (299,145)<span >공유 />
+[4] (370,146)<a href='#folder-versioning' />
+	[5] (337,146)<span  />
+	[6] (377,145)<span >파일 버전 관리 />
+[7] (458,146)<a href='#folder-ignores' />
+	[8] (436,146)<span  />
+	[9] (464,145)<span >무시 양식 />
+[10] (524,146)<a href='#folder-advanced' />
+	[11] (513,146)<span  />
+	[12] (531,145)<span >고급 />
+[13] (228,196)<label >폴더명 />
+	폴더명
+[14] (500,237)<input class='form-control ng-pristine ng-untouched ng-valid' id='folderLabel' />
+폴더를 묘사하는 선택적 이름입니다. 기기마다 달리 설정해도 됩니다.
+[15] (239,321)<label >폴더 아이디 />
+	폴더 아이디
+[16] (500,361)<input class='form-control ng-pristine ng-untouched ng-valid ng-valid-required' id='folderID' />
+필수로 필요한 폴더의 아이디입니다. 모든 기기에서 동일해야 합니다.
+새 폴더를 추가할 때 폴더 아이디는 기기 간에 폴더를 묶어줍니다. 대소문자가 구분되며 모든 기기에서 동일해야 합니다.
+[17] (234,473)<label class='ng-scope'>폴더 경로 />
+[18] (500,513)<input class='form-control ng-pristine ng-untouched ng-valid-folder-path-errors ng-invalid ng-invalid-required' id='folderPath' />
+현재 기기에 있는 폴더의 경로입니다. 존재하지 않을 경우에는 자동으로 생성됩니다. 물결표(~)는 다음 폴더를 나타냅니다.
+C:\Users\ksohw
+.
+저장
+[19] (767,665)<button class='btn btn-default btn-sm' />
+	[20] (757,665)<span  />
+	[21] (771,665)<span >닫기 />

@@ -1,0 +1,268 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (327,125)<a class='inline shrink-0' href='/search/5070ti' />
+	[6] (327,125)<span >5070ti />
+		[7] (316,125)<span >6
+. />
+[8] (370,125)<a class='inline shrink-0' href='/search/%ED%8F%AC%EC%BC%93%EB%AA%AC%EA%B3%A0' />
+	[9] (370,125)<span >포켓몬고 />
+		[10] (357,125)<span >7
+. />
+[11] (414,125)<a class='inline shrink-0' href='/search/5060ti' />
+	[12] (414,125)<span >5060ti />
+		[13] (402,125)<span >8
+. />
+[14] (461,125)<a class='inline shrink-0' href='/search/9800x3d' />
+	[15] (461,125)<span >9800x3d />
+		[16] (445,125)<span >9
+. />
+[17] (505,125)<a class='inline shrink-0' href='/search/%ED%8A%9C%EB%8D%94' />
+	[18] (505,125)<span >튜더 />
+		[19] (499,125)<span >10
+. />
+[20] (666,69)<a href='/search?keyword=4070+ti+%EB%B3%B8%EC%B2%B4&openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 i7 14700kf , 4070 ti 완본체 급처 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228107090' />
+	[37] (886,369)<img  />
+[38] (904,462)<button aria-label='최근 본 상품 13700k z790 4070ti 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[39] (886,502)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/224785370' />
+	[40] (886,502)<img  />
+[41] (904,594)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[42] (886,634)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[43] (886,634)<img  />
+추천순
+최신순
+낮은가격순
+높은가격순
+[44] (239,169)<div  />
+	i7 14700kf , 4070 ti 완본체 급처
+	[45] (239,180)<div  />
+		[46] (239,180)<div  />
+			[47] (209,180)<span >2,200,000 />
+			[48] (243,182)<span >원 />
+	[49] (239,224)<div  />
+		[50] (239,224)<div  />
+			[51] (197,224)<div  />
+				[52] (188,224)<div  />
+					[53] (193,224)<span >2 />
+				[54] (207,224)<div  />
+					[55] (213,224)<span >2 />
+			[56] (219,224)<div  />
+			[57] (234,224)<span >1일 전 />
+[58] (369,169)<div  />
+	인텔 i9-13900 RTX 4070 Ti 게이밍 본체 급처
+	[59] (369,180)<div  />
+		[60] (369,180)<div  />
+			[61] (338,180)<span >1,700,000 />
+			[62] (371,182)<span >원 />
+	[63] (369,224)<div  />
+		[64] (369,224)<div  />
+			[65] (328,224)<div  />
+				[66] (318,224)<div  />
+					[67] (324,224)<span >5 />
+				[68] (337,224)<div  />
+					[69] (343,224)<span >7 />
+			[70] (350,224)<div  />
+			[71] (367,224)<span >18일 전 />
+[72] (500,169)<div  />
+	7800x3d, 4070ti or 4070 super, 32기가 램 완본체 사요
+	[73] (500,180)<div  />
+		[74] (500,180)<div  />
+			[75] (470,180)<span >1,400,000 />
+			[76] (503,182)<span >원 />
+	[77] (500,224)<div  />
+		[78] (500,224)<div  />
+			[79] (458,224)<div  />
+				[80] (449,224)<div  />
+					[81] (455,224)<span >2 />
+				[82] (468,224)<div  />
+					[83] (473,224)<span >1 />
+			[84] (479,224)<div  />
+			[85] (497,224)<span >20일 전 />
+[86] (631,169)<div  />
+	컴퓨터 본체 조립pc 데스크탑 라이젠 7800x3D 4070ti 32GB 3TB
+	[87] (631,180)<div  />
+		[88] (631,180)<div  />
+			[89] (601,180)<span >2,050,000 />
+			[90] (635,182)<span >원 />
+	[91] (631,224)<div  />
+		[92] (631,224)<div  />
+			[93] (590,224)<div  />
+				[94] (580,224)<div  />
+					[95] (585,224)<span >5 />
+				[96] (599,224)<div  />
+					[97] (605,224)<span >2 />
+			[98] (612,224)<div  />
+			[99] (630,224)<span >6시간 전 />
+[100] (761,193)<div  />
+	7800X3D 4070Ti 게이밍 컴퓨터 본체
+	[101] (761,180)<div  />
+		[102] (761,180)<div  />
+			[103] (731,180)<span >1,850,000 />
+			[104] (763,182)<span >원 />
+	[105] (761,248)<div  />
+		[106] (761,224)<div  />
+			[107] (721,224)<div  />
+				[108] (711,224)<div  />
+					[109] (716,224)<span >4 />
+				[110] (730,224)<div  />
+					[111] (736,224)<span >3 />
+			[112] (743,224)<div  />
+			[113] (761,224)<span >7시간 전 />
+		[114] (761,270)<div  />
+			[115] (718,270)<div  />
+				[116] (718,270)<span >무료배송 />
+[117] (239,545)<div  />
+	[118] (239,521)<a class='w-full' href='/product/228271790' />
+		[119] (239,521)<div  />
+			[120] (239,444)<div  />
+				[121] (239,444)<div  />
+				[122] (284,546)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[123] (239,659)<div  />
+				[124] (239,641)<div  />
+					[125] (239,620)<span >7800X3D RTX4070TI 고사양본체 팝니다 />
+					[126] (239,671)<div  />
+						[127] (239,671)<div  />
+							[128] (209,671)<span >2,600,000 />
+							[129] (243,672)<span >원 />
+				[130] (239,714)<div  />
+					[131] (239,714)<div  />
+						[132] (187,714)<div  />
+							[133] (187,714)<div  />
+								[134] (193,714)<span >1 />
+						[135] (199,714)<div  />
+						[136] (213,714)<span >1일 전 />
+[137] (369,545)<div  />
+	[138] (369,545)<a class='w-full' href='/product/227705117' />
+		[139] (369,545)<div  />
+			[140] (369,444)<div  />
+				[141] (369,444)<div  />
+				[142] (415,546)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[143] (369,684)<div  />
+				[144] (369,641)<div  />
+					[145] (369,620)<span >7800x3d 4070ti 고사양 [완본체] 풀박스 배달가능 />
+					[146] (369,671)<div  />
+						[147] (369,671)<div  />
+							[148] (340,671)<span >2,800,000 />
+							[149] (374,672)<span >원 />
+				[150] (369,738)<div  />
+					[151] (369,714)<div  />
+						[152] (318,714)<div  />
+							[153] (318,714)<div  />
+								[154] (324,714)<span >2 />
+						[155] (331,714)<div  />
+						[156] (345,714)<span >1일 전 />
+					[157] (369,760)<div  />
+						[158] (325,760)<div  />
+							[159] (325,760)<span >무료배송 />
+[160] (500,545)<div  />
+	[161] (500,521)<a class='w-full' href='/product/228220010' />
+		[162] (500,521)<div  />
+			[163] (500,444)<div  />
+				[164] (500,444)<div  />
+				[165] (546,546)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[166] (500,659)<div  />
+				[167] (500,641)<div  />
+					[168] (500,620)<span >라이젠7 7800X3D RTX4070TI 본체 판매합니다 />
+					[169] (500,671)<div  />
+						[170] (500,671)<div  />
+							[171] (471,671)<span >2,600,000 />
+							[172] (504,672)<span >원 />
+				[173] (500,714)<div  />
+					[174] (500,714)<div  />
+						[175] (449,714)<div  />
+							[176] (449,714)<div  />
+								[177] (454,714)<span >1 />
+						[178] (460,714)<div  />
+						[179] (475,714)<span >2일 전 />
+[180] (631,545)<div  />
+	[181] (631,521)<a class='w-full' href='/product/227519769' />
+		[182] (631,521)<div  />
+			[183] (631,444)<div  />
+				[184] (631,444)<div  />
+				[185] (677,546)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[186] (631,659)<div  />
+				[187] (631,641)<div  />
+					[188] (631,620)<span >13600kf rtx 4070ti 게이밍 컴퓨터 본체 />
+					[189] (631,671)<div  />
+						[190] (631,671)<div  />
+							[191] (601,671)<span >1,900,000 />
+							[192] (633,672)<span >원 />
+				[193] (631,714)<div  />
+					[194] (631,714)<div  />
+						[195] (580,714)<div  />
+							[196] (580,714)<div  />
+								[197] (586,714)<span >8 />
+						[198] (592,714)<div  />
+						[199] (607,714)<span >2일 전 />
+[200] (761,545)<div  />
+	[201] (761,545)<a class='w-full' href='/product/227352981' />
+		[202] (761,545)<div  />
+			[203] (761,444)<div  />
+				[204] (761,444)<div  />
+				[205] (807,546)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+				[206] (718,540)<div  />
+			[207] (761,684)<div  />
+				[208] (761,641)<div  />
+					[209] (761,620)<span >(급처리) 라이젠9 7900x3d+4070ti super+gskill 64g 30CL 등 완본체 />
+					[210] (761,671)<div  />
+						[211] (761,671)<div  />
+							[212] (732,671)<span >3,600,000 />
+							[213] (766,672)<span >원 />
+				[214] (761,738)<div  />
+					[215] (761,714)<div  />
+						[216] (720,714)<div  />
+							[217] (711,714)<div  />
+								[218] (716,714)<span >2 />
+							[219] (730,714)<div  />
+								[220] (735,714)<span >2 />
+						[221] (742,714)<div  />
+						[222] (757,714)<span >6일 전 />
+					[223] (761,760)<div  />
+						[224] (718,760)<div  />
+							[225] (718,760)<span >무료배송 />
+[226] (239,935)<div  />
+	[227] (239,935)<div  />
+[228] (369,935)<div  />
+	[229] (369,935)<div  />
+[230] (500,935)<div  />
+	[231] (500,935)<div  />
+[232] (631,935)<div  />
+	[233] (631,935)<div  />
+[234] (761,935)<div  />
+	[235] (761,935)<div  />
+[236] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[237] (854,907)<div  />
+		[238] (903,907)<div  />
+[239] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[240] (902,799)<span  />
+
+</current_dom>

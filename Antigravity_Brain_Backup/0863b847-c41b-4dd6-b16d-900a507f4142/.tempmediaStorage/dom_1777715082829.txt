@@ -1,0 +1,96 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+노트북용
+서버용
+[0] (280,99)<dd class='ls_div ' id='ls_div2474' />
+	[1] (248,99)<label >XMP/EXPO 메모리 />
+메모리
+[2] (360,283)<input id='Search_free' />
+무료배송
+[3] (423,283)<input id='Search_Event' />
+행사제품보기
+총
+878
+건
+[4] (317,349)<input id='SearchKeyword' />
+[5] (370,351)<a href='javascript:search_keyword();' />
+[6] (436,349)<select  />
+[7] (272,777)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[8] (88,485)<a class='imgbox' href='javascript:detail_show('1081858')' title='[제품코드:1081858]' />
+	[9] (236,481)<a class='imgbox' href='javascript:detail_show('1081858')'>DDR5 / 16GB / 5600MHz (PC5-44800) / CL46 / 1개 / XMP3.0 / EXPO / 방열판 유 / CP16G56C46U5 />
+		[10] (236,459)<b >[마이크론] 마이크론 Crucial DDR5 PC5-44800 CL46 PRO 대원씨티에스 [16GB] (5600)[1081858] />
+	판매가격
+	303,460
+	[11] (453,485)<a class='buttons' href='javascript:void(0)' />
+		[12] (453,485)<span >재입고알림 />
+	[13] (88,629)<a class='imgbox' href='javascript:detail_show('1197279')' title='[제품코드:1197279]' />
+	[14] (236,626)<a class='imgbox' href='javascript:detail_show('1197279')'>16GB / 6000MHz (PC5-48000) / CL36-36-36-96 / 1.35V / 1개 / XMP3.0 / EXPO / 방열판 무 / F5-6000J3636F16GX1-IS />
+		[15] (236,603)<b >[G.SKILL] DDR5 PC5-48000 CL36 AEGIS 5 [16GB] (6000)[1197279] />
+	판매가격
+	340,000
+	[16] (453,629)<a class='buttons' href='javascript:select_basket('1197279','N',1);' id='basket1197279' />
+		[17] (453,629)<span >담기 />
+	[18] (88,774)<a class='imgbox' href='javascript:detail_show('990235')' title='[제품코드:990235]' />
+	[19] (236,758)<a class='imgbox' href='javascript:detail_show('990235')'>DDR5 / 16GB / 5600MHz (PC5-44800) / 방열판 무 / PC용 / 최신 생산 주차 />
+		[20] (236,735)<b >[삼성전자] 삼성 DDR5 PC5-44800 [16GB] (5600)[990235] />
+	용산점 현장구매 가능 상품
+	가산점 현장구매 가능 상품
+	판매가격
+	355,000
+	[21] (453,780)<a class='buttons' href='javascript:select_basket('990235','N',1);' id='basket990235' />
+		[22] (453,780)<span >담기 />
+	[23] (88,931)<a class='imgbox' href='javascript:detail_show('1153605')' title='[제품코드:1153605]' />
+	[24] (236,938)<a class='imgbox' href='javascript:detail_show('1153605')'>DDR5 / 32GB / 6000MHz (PC5-48000) / CL36-38-38-80 / 1.35V / 2개 묶음 / EXPO / XMP / 방열판 유 / 고성능 게임용 메모리 / PC용 / CP2K16G60C36U5W />
+		[25] (236,904)<b >[마이크론] Crucial DDR5 PC5-48000 CL36 PRO Overclocking White 대원씨티에스 [32GB (16GB*2)] (6000)[1153605] />
+	판매가격
+	711,000
+	담기
+총 견적금액
+750,150
+원
+[26] (534,349)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[27] (562,349)<input  />
+[28] (590,349)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[29] (650,349)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[30] (650,350)<span >전체수량변경 />
+[31] (544,444)<label  />
+	[32] (526,443)<span  />
+		[33] (526,444)<input  />
+	[34] (551,443)<span >전체선택 />
+[35] (702,443)<a class='wbtn' href='javascript:add_wish_list();' />
+	[36] (702,444)<span >관심상품추가 />
+[37] (760,443)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[38] (760,444)<span >장바구니담기 />
+[39] (815,443)<a class='wbtn' />
+	[40] (815,444)<span >견적서출력 />
+[41] (871,443)<a class='wbtn' href='javascript:speck_form();' />
+	[42] (871,444)<span >사양검토요청 />
+[43] (919,443)<a class='wbtn' href='javascript:sess_init();' />
+	[44] (919,444)<span >초기화 />
+[45] (527,522)<label  />
+	[46] (527,521)<span  />
+		[47] (526,524)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[48] (560,521)<span >인텔 병행수입 />
+[49] (633,567)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[50] (853,549)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[51] (876,549)<input class='change__ea' id='Amount_1108547' />
+[52] (898,549)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[53] (922,549)<span class='delete' />
+[54] (527,648)<label  />
+	[55] (527,648)<span  />
+		[56] (526,650)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[57] (562,648)<span >인텔 소켓 1700 />
+[58] (633,682)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[59] (680,683)<i  />
+판매가격
+174,150
+[60] (853,664)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[61] (876,664)<input class='change__ea' id='Amount_1118926' />
+[62] (898,664)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />
+[63] (922,664)<span class='delete' />
+
+</current_dom>

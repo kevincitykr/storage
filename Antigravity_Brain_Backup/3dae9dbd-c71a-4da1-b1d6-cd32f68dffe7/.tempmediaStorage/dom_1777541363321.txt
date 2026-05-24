@@ -1,0 +1,69 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+새 키 만들기
+[0] (742,316)<button aria-label='대화상자 닫기' class='ms-button-borderless ms-button-icon' />
+	[1] (742,316)<span >close />
+[2] (500,371)<label class='ng-star-inserted'>키 이름 지정 />
+[3] (500,427)<input aria-label='키 이름 지정' class='ng-untouched ng-pristine ng-valid ng-star-inserted' id='input-91F4BBFC-4D5C-4388-AFE5-A25F73A143C3' />
+가져온 프로젝트 선택
+[4] (500,556)<div  />
+	[5] (500,556)<div  />
+		[6] (500,556)<div  />
+			[7] (500,556)<mat-select class='mat-mdc-select' id='project-select-input' role='combobox' />
+				[8] (500,556)<div  />
+					[9] (495,556)<div  />
+						[10] (377,556)<span  />
+							[11] (377,556)<span >Gemini ProjectKevin-2026-04-30 />
+					[12] (737,556)<div  />
+[13] (622,641)<button class='ms-button-borderless'>취소 />
+[14] (707,641)<button class='xap-inline-dialog ms-button-primary'>키 만들기 />
+We have updated our
+Terms of Service
+Dismiss
+menu
+[15] (-1,500)<div class='nav-content v3-left-nav nesting-enabled ng-tns-c3997297598-1 ng-trigger ng-trigger-parent collapsed' scrollable='true' />
+	expand_more
+[16] (500,551)<div class='layout-main ng-tns-c3872533921-0' scrollable='true' />
+	API 키
+	docs
+	API 빠른 시작
+	key
+	API 키 만들기
+	그룹화 기준
+	API Key
+	프로젝트
+	필터링 기준
+	모든 프로젝트
+	키
+	프로젝트
+	생성일
+	결제 등급
+	...kRU0
+	Gemini API Key
+	kevin1231
+	gen-lang-client-0762672309
+	2026. 4. 26.
+	결제 설정
+	무료 등급
+	content_copy
+	paid
+	bar_chart
+	more_vert
+	...Ne3k
+	kevincity
+	kevin1231
+	gen-lang-client-0762672309
+	2025. 12. 31.
+	결제 설정
+	무료 등급
+	content_copy
+	paid
+	bar_chart
+	more_vert
+	여기에 API 키가 표시되지 않나요?
+	이 목록에는 Google AI Studio로 가져온 프로젝트의 API 키만 표시됩니다. 연결된 API 키를 관리하려면 다른 프로젝트를 가져오세요. 위에서 새 API 키를 만들 수도 있습니다.
+	자세히 알아보기
+
+</current_dom>

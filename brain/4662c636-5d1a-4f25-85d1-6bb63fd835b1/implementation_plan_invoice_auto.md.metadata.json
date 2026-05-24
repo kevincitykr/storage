@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "알리익스프레스 송장 수집 및 샵마인 발송 대기 데이터 매칭 자동화 구현 계획입니다.\n1. 알리익스프레스 계정별 송장 정보 수집 로직 완성\n2. 샵마인 엑셀 데이터 로드 및 주소/이름 매칭 로직 구현\n3. 매칭 결과를 바탕으로 샵마인 업로드용 엑셀 파일 생성",
+  "updatedAt":  "2026-05-06T06:39:18.511354900Z",
+  "requestFeedback":  true
+}

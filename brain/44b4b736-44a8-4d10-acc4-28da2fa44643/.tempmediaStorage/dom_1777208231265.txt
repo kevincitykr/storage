@@ -1,0 +1,85 @@
+Opal
+Experiment
+[0] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[1] (949,40)<span >settings />
+[2] (978,40)<button id='toggle-user-menu' />
+	[3] (978,40)<span >person />
+[4] (500,540)<bb-project-listing scrollable='true' />
+	[5] (210,220)<div class=' board mine ' />
+		[6] (210,220)<img  />
+		[7] (145,55)<button class=' overflow-pin ' />
+			[8] (145,55)<span  />
+		[9] (278,60)<button class='overflow-menu' />
+			[10] (278,60)<span >more_vert />
+		[11] (213,339)<div  />
+			[12] (213,305)<h4 >Seoul Night View />
+			[13] (213,371)<p >Generate a beautiful 16:9 night view of Seoul. />
+	[14] (400,220)<div class=' board mine ' />
+		[15] (400,220)<img  />
+		[16] (335,55)<button class=' overflow-pin ' />
+			[17] (335,55)<span  />
+		[18] (468,60)<button class='overflow-menu' />
+			[19] (468,60)<span >more_vert />
+		[20] (403,368)<div  />
+			[21] (403,362)<h4 >AI가 AI를 먹다 />
+	[22] (590,220)<div class=' board mine ' />
+		[23] (590,220)<img  />
+		[24] (525,55)<button class=' overflow-pin ' />
+			[25] (525,55)<span  />
+		[26] (658,60)<button class='overflow-menu' />
+			[27] (658,60)<span >more_vert />
+		[28] (593,313)<div  />
+			[29] (593,279)<h4 >Pratfall Effect Explainer />
+			[30] (593,371)<p >Create 10 16:9 images illustrating the Pratfall Effect concept. />
+	[31] (780,220)<div class=' board mine ' />
+		[32] (780,220)<img  />
+		[33] (715,55)<button class=' overflow-pin ' />
+			[34] (715,55)<span  />
+		[35] (848,60)<button class='overflow-menu' />
+			[36] (848,60)<span >more_vert />
+		[37] (783,325)<div  />
+			[38] (783,276)<h4 >Sia Drama Studio />
+			[39] (783,356)<p >Generate a captivating 4-part drama featuring virtual influencer Sia. />
+	[40] (210,671)<div class=' board mine ' />
+		[41] (210,671)<img  />
+		[42] (145,506)<button class=' overflow-pin ' />
+			[43] (145,506)<span  />
+		[44] (278,512)<button class='overflow-menu' />
+			[45] (278,512)<span >more_vert />
+		[46] (213,776)<div  />
+			[47] (213,727)<h4 >AI Series Creator />
+			[48] (213,808)<p >Create a 4-part AI influencer video series with detailed production resources. />
+	[49] (400,671)<div class=' board mine ' />
+		[50] (400,671)<img  />
+		[51] (335,506)<button class=' overflow-pin ' />
+			[52] (335,506)<span  />
+		[53] (468,512)<button class='overflow-menu' />
+			[54] (468,512)<span >more_vert />
+		[55] (403,791)<div  />
+			[56] (403,756)<h4 >AI Series Creator />
+			[57] (403,822)<p >Create a 4-part AI influencer video series. />
+	[58] (590,671)<div class=' board mine ' />
+		[59] (590,671)<img  />
+		[60] (525,506)<button class=' overflow-pin ' />
+			[61] (525,506)<span  />
+		[62] (658,512)<button class='overflow-menu' />
+			[63] (658,512)<span >more_vert />
+		[64] (593,765)<div  />
+			[65] (593,730)<h4 >Video Dashboard />
+			[66] (593,822)<p >Create an interactive dashboard from your video data. />
+	[67] (780,671)<div class=' board mine ' />
+		[68] (780,671)<img  />
+		[69] (715,506)<button class=' overflow-pin ' />
+			[70] (715,506)<span  />
+		[71] (848,512)<button class='overflow-menu' />
+			[72] (848,512)<span >more_vert />
+		[73] (783,819)<div  />
+			[74] (783,814)<h4 >인스타 0201 />
+	Previous
+	1
+	[75] (768,949)<button >2 />
+	[76] (794,949)<button >3 />
+	[77] (820,949)<button >4 />
+	[78] (850,949)<button id='next'>Next />
+[79] (712,928)<button id='close' />
+	[80] (712,928)<span  />

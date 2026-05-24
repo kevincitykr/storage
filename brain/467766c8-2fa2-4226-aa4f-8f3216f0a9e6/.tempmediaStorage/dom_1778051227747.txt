@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (451,377)<div class='z-10 absolute scroll-bar flex flex-col bg-white w-full shadow-md rounded-sm h-96 overflow-y-scroll' scrollable='true' />
+	최근 검색어
+	[4] (587,154)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+		[5] (587,154)<span >전체삭제 />
+		[6] (587,166)<div  />
+	[7] (333,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[8] (333,227)<span >4070 13... />
+	[9] (418,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[10] (418,227)<span >13700 4... />
+	[11] (506,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[12] (506,227)<span >4070 본체... />
+	[13] (333,308)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[14] (333,308)<span >14700 4... />
+	[15] (416,308)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[16] (416,308)<span >4070 i7... />
+	[17] (492,308)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[18] (492,308)<span >14700 />
+	[19] (334,388)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[20] (334,388)<span >13700 본... />
+	[21] (411,388)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[22] (411,388)<span >4070 />
+	[23] (479,388)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[24] (479,388)<span >13700 />
+	[25] (556,388)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[26] (556,388)<span >14700 R... />
+	[27] (333,469)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[28] (333,469)<span >RTX 407... />
+	[29] (419,469)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[30] (419,469)<span >RTX 407... />
+	[31] (504,469)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[32] (504,469)<span >13700 R... />
+	[33] (333,550)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[34] (333,550)<span >13700F ... />
+	[35] (418,550)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[36] (418,550)<span >14700K ... />
+	[37] (502,550)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[38] (502,550)<span >4060 Ti... />
+	[39] (333,630)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[40] (333,630)<span >13700F ... />
+	최근 가게 검색어
+	최근 검색 내역이 없습니다.
+16
+.
+타임
+17
+.
+y700
+18
+.
+가면라이더
+19
+.
+버즈3프로
+20
+.
+아야네오
+[41] (666,69)<a href='/search/4070%2013700?openChat=true' />
+	[42] (666,69)<div  />
+		[43] (649,69)<div  />
+			[44] (649,69)<img  />
+		[45] (675,69)<span >채팅하기 />
+[46] (732,69)<a href='/product/form?type=regist' />
+	[47] (732,69)<div  />
+		[48] (715,69)<div  />
+			[49] (715,69)<img  />
+		[50] (741,69)<span >판매하기 />
+[51] (790,69)<a href='/mystore' />
+	[52] (790,69)<div  />
+		[53] (781,69)<div  />
+			[54] (781,69)<img  />
+		[55] (799,69)<span >마이 />
+[56] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[57] (215,187)<span  />
+		[58] (215,187)<div  />
+			[59] (225,187)<span >카테고리 />
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+4070 13700 중고거래 | 중고나라 - 안심되는 중고거래
+'4070 13700'
+검색결과
+총 9개
+카테고리
+[60] (253,461)<button  />
+전체
+가격
+~
+적용
+옵션
+[61] (317,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>무료배송 />
+	[62] (297,653)<span  />
+[63] (398,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>인증셀러 상품 />
+	[64] (367,653)<span  />
+[65] (498,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>판매완료 상품 제외 />
+	[66] (457,653)<span  />
+선택한 필터
+전체
+판매완료 상품 제외
+[67] (792,735)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit h-fit' />
+	[68] (792,735)<span >초기화 />
+	[69] (792,746)<div  />
+검색 상품 가격 요약
+평균 가격
+가장 높은 가격
+가장 낮은 가격
+[70] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 bg-white/90 border border-gray-300 rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto' />
+	[71] (854,907)<div  />
+		[72] (841,907)<span >키워드 알림 받기 />
+		[73] (903,907)<div  />
+
+</current_dom>

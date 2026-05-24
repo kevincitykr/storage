@@ -1,0 +1,134 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+폴더
+최신 상태
+Kevincity Share
+폴더 아이디
+rlpuk-xkiiv
+폴더 경로
+D:\20260412 kevincity share
+전체 기기 상태
+40,807
+121,611
+~121 GiB
+현재 기기 상태
+4,605
+595
+~110 GiB
+무시 양식으로 축소됨
+폴더 유형
+송수신
+재탐색
+1시간
+활성화됨
+파일 수신 순서
+무작위
+공유된 기기
+upload2601
+1
+최근 탐색
+2026-04-20 10:01:12
+일시 중지
+재탐색
+편집
+모두 일시 중지
+모두 재탐색
+폴더 추가
+현재 기기
+kevincityHQ
+다른 기기
+동기화
+(9%, 110 GiB)
+upload2601
+수신 속도
+0 B/s
+(507 B)
+송신 속도
+0 B/s
+(537 B)
+동기화 미완료 항목
+5,747
+개의 항목
+, ~110 GiB
+주소
+192.168.0.36:22000
+연결 유형
+TCP LAN
+연결 수
+1 + 2
+압축
+메타데이터만
+아이디
+KCACWLR
+버전
+v2.0.16
+폴더
+Kevincity Share
+1
+일시 중지
+편집
+모두 일시 중지
+최근 변경 항목
+다른 기기 추가
+[0] (500,500)<div class='modal fade ng-isolate-scope in' id='editFolder' scrollable='true' />
+	폴더 편집 (Kevincity Share)
+	[1] (238,186)<a href='#folder-general' />
+		[2] (227,187)<span  />
+		[3] (244,186)<span >일반 />
+	[4] (291,186)<a href='#folder-sharing' />
+		[5] (280,187)<span  />
+		[6] (297,186)<span >공유 />
+	[7] (367,186)<a href='#folder-versioning' />
+		[8] (334,187)<span  />
+		[9] (373,186)<span >파일 버전 관리 />
+	[10] (453,186)<a href='#folder-ignores' />
+		[11] (431,187)<span  />
+		[12] (458,186)<span >무시 양식 />
+	[13] (517,186)<a href='#folder-advanced'>고급 />
+		고급
+	[14] (222,250)<label class='ng-scope'>탐색 />
+	[15] (258,250)<a href='https://docs.syncthing.net/users/syncing?version=v2.0.16#scanning' />
+		[16] (242,252)<span  />
+		[17] (263,250)<span >도움말 />
+	[18] (250,292)<label >변경 항목 감시 />
+		[19] (217,292)<input class='ng-pristine ng-untouched ng-valid' />
+		변경 항목 감시
+	파일 시스템 알림을 사용하여 변경 항목을 감시합니다.
+	변경 항목 감시는 주기적으로 탐색하지 않아도 대부분의 변경 항목을 탐지합니다.
+	[20] (550,292)<label class='ng-scope'>완전 재탐색 간격(초) />
+	[21] (641,344)<input class='form-control ng-pristine ng-untouched ng-valid-min ng-valid ng-valid-required' id='rescanIntervalS' />
+	[22] (233,481)<label class='ng-scope'>폴더 유형 />
+	[23] (280,480)<a href='https://docs.syncthing.net/users/foldertypes?version=v2.0.16' />
+		[24] (264,482)<span  />
+		[25] (285,480)<span >도움말 />
+	[26] (349,532)<select class='form-control ng-pristine ng-untouched ng-valid' />
+	"암호화 수신" 폴더 유형은 새 폴더를 추가할 때만 설정할 수 있습니다.
+	[27] (536,481)<label class='ng-scope'>파일 수신 순서 />
+	[28] (641,532)<select class='form-control ng-pristine ng-untouched ng-valid ng-scope' />
+	[29] (266,689)<label class='ng-scope'>저장 장치 최소 여유 공간 />
+	[30] (312,741)<input class='form-control ng-pristine ng-untouched ng-valid-min ng-valid ng-valid-required' id='minDiskFree' />
+	[31] (458,741)<select class='form-control ng-pristine ng-untouched ng-valid' />
+	[32] (531,689)<label >권한 무시 />
+		[33] (509,689)<input class='ng-pristine ng-untouched ng-valid' />
+		권한 무시
+	파일 권한의 비교 및 동기화가 비활성화됩니다. FAT, exFAT, Synology, Android 등 파일 권한이 존재하지 않거나 비표준 파일 권한을 사용하는 체제에서 유용합니다.
+	[34] (227,878)<label class='ng-scope'>소유권 />
+	[35] (267,877)<a href='https://docs.syncthing.net/advanced/folder-sync-ownership?version=v2.0.16' />
+		[36] (251,879)<span  />
+		[37] (273,877)<span >도움말 />
+	[38] (248,937)<label >소유권 동기화 />
+		[39] (217,937)<input class='ng-pristine ng-untouched ng-valid' />
+		소유권 동기화
+	소유권 정보를 다른 기기로 전송하며 들어오는 소유권 정보를 적용합니다. 일반적으로 상승된 권한이 필요합니다.
+	[40] (525,878)<label class='ng-scope'>확장 특성 />
+	[41] (572,877)<a href='https://docs.syncthing.net/advanced/folder-sync-xattrs?version=v2.0.16' />
+		[42] (556,879)<span  />
+		[43] (578,877)<span >도움말 />
+	[44] (547,937)<label >확장 특성 동기화 />
+		[45] (509,937)<input class='ng-pristine ng-untouched ng-valid' />
+		확장 특성 동기화
+	확장 특성을 다른 기기로 전송하며 들어오는 확장 특성을 적용합니다. 상승된 권한이 필요할 수 있습니다.
+
+</current_dom>

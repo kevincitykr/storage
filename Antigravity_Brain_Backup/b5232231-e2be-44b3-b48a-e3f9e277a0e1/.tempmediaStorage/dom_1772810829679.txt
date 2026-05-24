@@ -1,0 +1,44 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+externalVendorSku
+String
+업체고유의 item 코드값을 임의로 세팅할 수 있으며, 입력값은 발주서 조회 API response 에 포함됨.
+barcode
+String
+바코드
+상품에 부착 된 유효한 표준상품 코드
+emptyBarcode
+Boolean
+바코드 없음
+바코드가 없으면 true
+emptyBarcodeReason
+String
+바코드 없음에 대한 사유
+최대길이 : 100 자 제한
+modelNo
+String
+모델번호
+extraProperties
+업체상품옵션추가정보
+Key : Value 형태로 필요한 만큼 반복입력가능
+Key
+String
+Value
+certifications
+List
+상품인증정보
+상품 인증 정보
+certificationType
+String
+인증정보Type
+카테고리 메타정보 조회 API를 통해 등록가능한 Type을 구할 수 있다.
+인증대상이 아닌 카테고리일 경우 : NOT_REQUIRED
+certificationCode
+String
+상품인증정보코드
+인증기관에서 발급받은 코드
+인증정보 첨부파일
+
+</current_dom>

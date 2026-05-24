@@ -1,0 +1,434 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+		[2] (35,40)<span  />
+			[3] (35,40)<div  />
+[4] (113,40)<a aria-label='YouTube Home' class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='Meet the K-pop fan community' />
+	[5] (113,40)<ytd-yoodle-renderer  />
+		[6] (113,40)<picture  />
+			[7] (113,38)<img  />
+[8] (444,40)<div  />
+	[9] (451,40)<form  />
+		[10] (451,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+[11] (668,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[12] (668,40)<span  />
+		[13] (668,40)<span  />
+			[14] (668,40)<div  />
+[15] (733,40)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (733,40)<yt-touch-feedback-shape  />
+		[17] (733,40)<div  />
+[18] (811,40)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[19] (811,40)<yt-touch-feedback-shape  />
+		[20] (811,40)<div  />
+[21] (885,40)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[22] (885,38)<yt-icon-badge-shape  />
+		[23] (885,40)<div  />
+			[24] (885,40)<div  />
+				[25] (885,40)<span  />
+					[26] (885,40)<span  />
+						[27] (885,40)<div  />
+[28] (941,40)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[29] (941,40)<yt-img-shadow  />
+		[30] (941,40)<img  />
+98.5K subscribers
+Join
+Subscribe
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+Share
+Ask
+Save
+Download
+[31] (324,185)<div  />
+	[32] (324,185)<div  />
+		[33] (324,143)<ytd-watch-info-text  />
+			[34] (324,143)<div  />
+				[35] (66,143)<div  />
+					[36] (44,143)<yt-animated-rolling-number  />
+						[37] (36,143)<div >, />
+						9
+						0
+						1
+						2
+						3
+						[38] (57,143)<div >4 />
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+					[39] (83,143)<yt-formatted-string >views />
+				[40] (145,143)<div  />
+					[41] (109,143)<yt-animated-rolling-number  />
+						1
+						2
+						[42] (109,143)<div >3 />
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+					[43] (149,143)<yt-formatted-string >hours ago />
+				[44] (216,143)<yt-formatted-string >3 products />
+		[45] (324,200)<ytd-text-inline-expander  />
+			[46] (324,200)<div >… />
+				💡 상위 1% 인공지능 1인 기업은 내 시간을 쓰지 않습니다. 일하는 '에이전트'를 소유할 뿐입니다.
+
+1편: 음악 에이전트(루나),
+				[47] (170,228)<span  />
+				…
+			[48] (193,228)<tp-yt-paper-button class='button style-scope ytd-text-inline-expander' id='expand' role='button'>...more />
+34
+Comments
+[49] (207,310)<tp-yt-paper-menu-button class='style-scope yt-dropdown-menu' role='group' />
+	[50] (207,310)<div  />
+		[51] (207,310)<tp-yt-paper-button aria-label='Sort comments' class='dropdown-trigger style-scope yt-dropdown-menu' id='label' role='button' />
+			[52] (180,310)<yt-icon  />
+				[53] (180,310)<span  />
+					[54] (180,310)<div  />
+			[55] (222,310)<div >Sort by />
+[56] (334,385)<div  />
+	[57] (103,382)<yt-formatted-string class='style-scope ytd-comment-simplebox-renderer' id='simplebox-placeholder' role='textbox'>Add a comment... />
+[58] (33,477)<button aria-label='@CONNECT-AI-LAB' class='style-scope ytd-comment-view-model' id='author-thumbnail-button' />
+	[59] (33,474)<yt-img-shadow  />
+		[60] (33,474)<img  />
+Pinned by @CONNECT-AI-LAB
+[61] (127,500)<a class='yt-simple-endpoint style-scope ytd-author-comment-badge-renderer' href='/@CONNECT-AI-LAB' id='name' />
+	[62] (127,500)<ytd-channel-name  />
+		[63] (127,500)<div  />
+			[64] (127,500)<div  />
+				[65] (127,500)<yt-formatted-string >@CONNECT-AI-LAB />
+[66] (244,500)<a class='yt-simple-endpoint style-scope ytd-comment-view-model' href='/watch?v=7l5xnpxlcSE&lc=UgxsSdwPngjuEFmBrNR4AaABAg'>3 hours ago (edited) />
+오늘 영상에서 영식이가 구동됐던 '터미널 로직'과 설계 교재입니다. 직접 열어보시고 꼭 내 것으로 만들어 보세요!
+[1] 오늘 영상 실습 교재
+[67] (354,619)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color' href='https://www.youtube.com/redirect?event=comments&redir_token=QUFFLUhqblZmel82d2wwMzNtN0poZnAwY1Z0QVBYTmY4UXxBQ3Jtc0tuM0tuSDNFb0ducnl0Zkg5RlpiWHpOZlNoSlpNaW51QWpMOGE1cUFDY29NMW1lNFRHclhGNTBEZ2N3aFpmYnF5aUFuOGkxRU13R01tLS1uXzZBS3ZISTJtdjhBR29rLVZvVU9GeW5laFp6TDBUNHVucw&q=https%3A%2F%2Fjaijung.notion.site%2FAPI-329b0dd7632380eeb6bbc1018cb04e98%3Fsource%3Dcopy_link'>https://jaijung.notion.site/API-329b0dd7632380eeb6bbc1018cb04e98?source=copy_link />
+━━━━━━━━━━━━━━━━━━━━━━━━━━━
+[2] CONNECT AI LAB 유튜브 멤버십 (주간 라이브 스터디)
+아직도 혼자서 끙끙대며 AI를 독학하고 계신가요? 매주 월요일 저녁 8시, 멤버십 전용 라이브에서 저와 함께 라이브로 속성으로 공부합시다! 추가 멤버십 전용 컨텐츠(대표 등급)'도 전부 제공합니다.
+멤버십 합류하기:
+https://www.youtube.com/@CONNECT-AI-LAB/join
+[3] AI CITY BUILDERS 마스터클래스 (최종 AI 1인 기업 달성)
+단순히 영상을 구경만 하지 마시고, 제가 설계한 [4단계 정석 커리큘럼]을 밟고 직접 나만의 '무인 자동화 기업' 시스템을 구축해 보세요!
+- Step 1: 비즈니스 기초 & AI 무한 콘텐츠 생성 워크플로우
+- Step 2: 부서별 AI 직원 고용 및 에이전트 다중 협업 설계
+- Step 3: 코딩 없이 개발하는 결제/광고 수익형 웹앱 런칭 (바이브 코딩)
+- Step 4: 1~3단계 융합, 알아서 돈 버는 100% 무인화 시스템 완성
+[68] (98,653)<tp-yt-paper-button class='style-scope ytd-expander' id='more' role='button' />
+	[69] (98,653)<span >Read more />
+[70] (73,696)<button aria-label='Like this comment along with 4 other people' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[71] (73,696)<yt-touch-feedback-shape  />
+		[72] (73,696)<div  />
+4
+[73] (118,696)<button aria-label='Dislike this comment' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[74] (118,696)<yt-touch-feedback-shape  />
+		[75] (118,696)<div  />
+[76] (168,696)<button aria-label='Reply' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-s yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Reply
+	[77] (168,696)<yt-touch-feedback-shape  />
+		[78] (168,696)<div  />
+[79] (614,460)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+	[80] (614,460)<yt-icon  />
+		[81] (614,460)<span  />
+			[82] (614,460)<div  />
+[83] (98,761)<button aria-label='1 reply' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-trailing yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	1 reply
+	[84] (98,761)<yt-touch-feedback-shape  />
+		[85] (98,761)<div  />
+[86] (33,643)<div  />
+[87] (33,838)<button aria-label='@momographer' class='style-scope ytd-comment-view-model' id='author-thumbnail-button' />
+	[88] (33,835)<yt-img-shadow  />
+		[89] (33,835)<img  />
+[90] (111,824)<a class='yt-simple-endpoint style-scope ytd-comment-view-model' href='/@momographer' id='author-text' />
+	[91] (111,822)<span >@momographer />
+[92] (217,822)<a class='yt-simple-endpoint style-scope ytd-comment-view-model' href='/watch?v=7l5xnpxlcSE&lc=UgwGw987dKNixoPsjgt4AaABAg'>55 minutes ago />
+인공지능은 물론이고 촬영의 대가.. 영상을 너무 잘 만드시고 편집도 훌륭하고 정말 ai city builders의 스텝1~4까지 아낌없이 가르쳐 주시는 분.. 그냥 함께하는 것만으로도 행복합니다
+[93] (73,926)<button aria-label='Like this comment along with 2 other people' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[94] (73,926)<yt-touch-feedback-shape  />
+		[95] (73,926)<div  />
+2
+[96] (118,926)<button aria-label='Dislike this comment' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-s yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[97] (118,926)<yt-touch-feedback-shape  />
+		[98] (118,926)<div  />
+[99] (168,926)<button aria-label='Reply' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-s yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Reply
+	[100] (168,926)<yt-touch-feedback-shape  />
+		[101] (168,926)<div  />
+[102] (614,821)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+	[103] (614,821)<yt-icon  />
+		[104] (614,821)<span  />
+			[105] (614,821)<div  />
+[106] (33,997)<yt-img-shadow  />
+	[107] (33,997)<img  />
+[108] (102,986)<a class='yt-simple-endpoint style-scope ytd-comment-view-model' href='/@lastboy119' id='author-text' />
+	[109] (102,984)<span >@lastboy119 />
+[110] (173,985)<a class='yt-simple-endpoint style-scope ytd-comment-view-model' href='/watch?v=7l5xnpxlcSE&lc=Ugx7edY9WlplOYSaS994AaABAg'>3 hours ago />
+[111] (614,983)<button aria-label='Action menu' class='style-scope yt-icon-button' id='button' />
+	[112] (614,983)<yt-icon  />
+		[113] (614,983)<span  />
+			[114] (614,983)<div  />
+[115] (730,124)<yt-thumbnail-bottom-overlay-view-model  />
+	[116] (784,124)<div  />
+		[117] (784,121)<yt-thumbnail-badge-view-model  />
+			[118] (784,121)<badge-shape  />
+				[119] (784,121)<div >1:30:38 />
+Nathan Labenz: Why Transformative AI is Coming With or Without New Breakthroughs.
+[120] (894,107)<div  />
+	[121] (894,108)<yt-content-metadata-view-model  />
+		The Intelligence Horizon
+		[122] (894,108)<div  />
+			[123] (841,108)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>18 views />
+			[124] (869,108)<span >• />
+			[125] (908,108)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>13 hours ago />
+		[126] (894,136)<div  />
+			[127] (834,136)<div  />
+				[128] (834,136)<yt-badge-view-model  />
+					[129] (834,136)<badge-shape  />
+						[130] (834,136)<div >New />
+[131] (809,228)<div  />
+	[132] (734,228)<a class='yt-lockup-view-model__content-image' href='/watch?v=iDEEyCMSYMc' />
+		[133] (730,228)<yt-thumbnail-view-model  />
+			[134] (730,228)<div  />
+				[135] (730,228)<img  />
+			[136] (730,278)<yt-thumbnail-bottom-overlay-view-model  />
+				[137] (784,278)<div  />
+					[138] (784,275)<yt-thumbnail-badge-view-model  />
+						[139] (784,275)<badge-shape  />
+							[140] (770,275)<div  />
+								[141] (770,275)<span  />
+									[142] (770,275)<div  />
+							[143] (791,275)<div >LIVE />
+	[144] (894,228)<div  />
+		[145] (894,217)<yt-lockup-metadata-view-model  />
+			[146] (894,217)<div  />
+				[147] (894,189)<h3  />
+					[148] (894,189)<a aria-label='𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 틀자마자 성수동 카페, 24시간 느좋 팝송 플레이리스트 🎧 공부·집중·작업용 음악 | 24/7 LIVE Cozy Winter Pop 𝘊𝘢𝘧é' class='yt-lockup-metadata-view-model__title' href='/watch?v=iDEEyCMSYMc'>𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 틀자마자 성수동 카페, 24시간 느좋 팝송 플레이리스트 🎧 공부·집중·작업용 음악 | 24/7 LIVE Cozy Winter Pop 𝘊𝘢𝘧é />
+						𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 틀자마자 성수동 카페, 24시간 느좋 팝송 플레이리스트 🎧 공부·집중·작업용 음악 | 24/7 LIVE Cozy Winter Pop 𝘊𝘢𝘧é
+				[149] (894,246)<div  />
+					[150] (894,247)<yt-content-metadata-view-model  />
+						[151] (894,233)<div  />
+							[152] (848,233)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>tide pop />
+								[153] (869,233)<span  />
+									[154] (871,233)<span  />
+										[155] (871,234)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+											[156] (871,234)<span  />
+												[157] (871,234)<div  />
+						[158] (894,262)<div  />
+							[159] (853,262)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>291 watching />
+			[160] (962,178)<div  />
+				[161] (962,178)<button-view-model  />
+					[162] (962,178)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[163] (962,178)<yt-touch-feedback-shape  />
+							[164] (962,178)<div  />
+[165] (809,374)<div  />
+	[166] (734,374)<a class='yt-lockup-view-model__content-image' href='/watch?v=6RQ-bBdASvk&list=RD6RQ-bBdASvk&start_radio=1&pp=oAcB' />
+		[167] (730,374)<yt-thumbnail-view-model  />
+			[168] (730,374)<div  />
+				[169] (730,374)<img  />
+			[170] (730,424)<yt-thumbnail-bottom-overlay-view-model  />
+				[171] (781,424)<div  />
+					[172] (781,421)<yt-thumbnail-badge-view-model  />
+						[173] (781,421)<badge-shape  />
+							[174] (764,421)<div  />
+								[175] (764,421)<span  />
+									[176] (764,421)<div  />
+							[177] (788,421)<div >22:09 />
+	[178] (894,374)<div  />
+		[179] (894,363)<yt-lockup-metadata-view-model  />
+			[180] (894,363)<div  />
+				[181] (894,335)<h3  />
+					[182] (894,335)<a aria-label='성시경(Sungsikyung)의 킬링보이스를 라이브로! - 너의 모든 순간, 좋을텐데, 넌 감동이었어, 희재, 두사람, 미소천사, 거리에서, 태양계, I Love Uㅣ딩고뮤직 22 minutes' class='yt-lockup-metadata-view-model__title' href='/watch?v=6RQ-bBdASvk&list=RD6RQ-bBdASvk&start_radio=1&pp=oAcB'>성시경(Sungsikyung)의 킬링보이스를 라이브로! - 너의 모든 순간, 좋을텐데, 넌 감동이었어, 희재, 두사람, 미소천사, 거리에서, 태양계, I Love Uㅣ딩고뮤직 />
+						성시경(Sungsikyung)의 킬링보이스를 라이브로! - 너의 모든 순간, 좋을텐데, 넌 감동이었어, 희재, 두사람, 미소천사, 거리에서, 태양계, I Love Uㅣ딩고뮤직
+				[183] (894,392)<div  />
+					[184] (894,393)<yt-content-metadata-view-model  />
+						[185] (894,379)<div  />
+							[186] (887,379)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>딩고 뮤직 / dingo music />
+								[187] (946,379)<span  />
+									[188] (948,379)<span  />
+										[189] (948,380)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+											[190] (948,380)<span  />
+												[191] (948,380)<div  />
+						[192] (894,407)<div  />
+							[193] (846,407)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>74M views />
+							[194] (879,407)<span >• />
+							[195] (914,407)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>4 years ago />
+			[196] (962,323)<div  />
+				[197] (962,323)<button-view-model  />
+					[198] (962,323)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[199] (962,323)<yt-touch-feedback-shape  />
+							[200] (962,323)<div  />
+[201] (809,523)<div  />
+	[202] (734,523)<a class='yt-lockup-view-model__content-image' href='/watch?v=6L8Q3kFJ4lc&pp=ugUEEgJrbw%3D%3D' />
+		[203] (730,519)<yt-thumbnail-view-model  />
+			[204] (730,519)<div  />
+				[205] (730,519)<img  />
+			[206] (730,570)<yt-thumbnail-bottom-overlay-view-model  />
+				[207] (792,570)<div  />
+					[208] (792,567)<yt-thumbnail-badge-view-model  />
+						[209] (792,567)<badge-shape  />
+							[210] (792,567)<div >3:53 />
+	[211] (894,523)<div  />
+		[212] (894,523)<yt-lockup-metadata-view-model  />
+			[213] (894,523)<div  />
+				[214] (894,481)<h3  />
+					[215] (894,481)<a aria-label=''번뜩였던' 이재성… 마인츠, 구단 최초 유럽 대항전 '8강행' #SPOTIME #UECL 3 minutes, 53 seconds' class='yt-lockup-metadata-view-model__title' href='/watch?v=6L8Q3kFJ4lc&pp=ugUEEgJrbw%3D%3D' />
+						[216] (881,509)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>'번뜩였던' 이재성… 마인츠, 구단 최초 유럽 대항전 '8강행' #SPOTIME #UECL />
+				[217] (894,552)<div  />
+					[218] (894,553)<yt-content-metadata-view-model  />
+						[219] (894,525)<div  />
+							[220] (849,525)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>스포타임 />
+								[221] (870,524)<span  />
+									[222] (872,525)<span  />
+										[223] (872,526)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+											[224] (872,526)<span  />
+												[225] (872,526)<div  />
+						[226] (894,553)<div  />
+							[227] (848,553)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>389K views />
+							[228] (883,553)<span >• />
+							[229] (922,553)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>14 hours ago />
+						[230] (894,582)<div  />
+							[231] (834,582)<div  />
+								[232] (834,582)<yt-badge-view-model  />
+									[233] (834,582)<badge-shape  />
+										[234] (834,582)<div >New />
+			[235] (962,469)<div  />
+				[236] (962,469)<button-view-model  />
+					[237] (962,469)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[238] (962,469)<yt-touch-feedback-shape  />
+							[239] (962,469)<div  />
+[240] (809,677)<div  />
+	[241] (734,677)<a class='yt-lockup-view-model__content-image' href='/watch?v=0JZIIdmQw68&pp=ugUEEgJrbw%3D%3D' />
+		[242] (730,673)<yt-thumbnail-view-model  />
+			[243] (730,673)<div  />
+				[244] (730,673)<img  />
+			[245] (730,723)<yt-thumbnail-bottom-overlay-view-model  />
+				[246] (788,723)<div  />
+					[247] (788,720)<yt-thumbnail-badge-view-model  />
+						[248] (788,720)<badge-shape  />
+							[249] (788,720)<div >21:28 />
+	[250] (894,677)<div  />
+		[251] (894,677)<yt-lockup-metadata-view-model  />
+			[252] (894,677)<div  />
+				[253] (894,634)<h3  />
+					[254] (894,634)<a aria-label='회사도 안가고 외국인 영상에 자막만 달아 유튜브로 10억 번 30대 21 minutes' class='yt-lockup-metadata-view-model__title' href='/watch?v=0JZIIdmQw68&pp=ugUEEgJrbw%3D%3D' />
+						[255] (880,649)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>회사도 안가고 외국인 영상에 자막만 달아 유튜브로 10억 번 30대 />
+				[256] (894,705)<div  />
+					[257] (894,707)<yt-content-metadata-view-model  />
+						[258] (894,678)<div  />
+							[259] (840,678)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>사이클픽 />
+						[260] (894,707)<div  />
+							[261] (846,707)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>5.8K views />
+							[262] (880,707)<span >• />
+							[263] (910,707)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1 day ago />
+						[264] (894,735)<div  />
+							[265] (834,735)<div  />
+								[266] (834,735)<yt-badge-view-model  />
+									[267] (834,735)<badge-shape  />
+										[268] (834,735)<div >New />
+			[269] (962,623)<div  />
+				[270] (962,623)<button-view-model  />
+					[271] (962,623)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[272] (962,623)<yt-touch-feedback-shape  />
+							[273] (962,623)<div  />
+[274] (809,827)<div  />
+	[275] (734,827)<a class='yt-lockup-view-model__content-image' href='/watch?v=HpSiEjy3IT8' />
+		[276] (730,827)<yt-thumbnail-view-model  />
+			[277] (730,827)<div  />
+				[278] (730,827)<img  />
+			[279] (730,877)<yt-thumbnail-bottom-overlay-view-model  />
+				[280] (788,877)<div  />
+					[281] (788,874)<yt-thumbnail-badge-view-model  />
+						[282] (788,874)<badge-shape  />
+							[283] (788,874)<div >31:33 />
+	[284] (894,827)<div  />
+		[285] (894,816)<yt-lockup-metadata-view-model  />
+			[286] (894,816)<div  />
+				[287] (894,788)<h3  />
+					[288] (894,788)<a aria-label='Chatter and Banter with King's Warden Crewㅣ👅Chattering with Nah 31 minutes' class='yt-lockup-metadata-view-model__title' href='/watch?v=HpSiEjy3IT8' />
+						[289] (883,816)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>Chatter and Banter with King's Warden Crewㅣ👅Chattering with Nah />
+				[290] (894,845)<div  />
+					[291] (894,846)<yt-content-metadata-view-model  />
+						[292] (894,832)<div  />
+							[293] (845,832)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>채널십오야 />
+						[294] (894,860)<div  />
+							[295] (848,860)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>5.7M views />
+							[296] (882,860)<span >• />
+							[297] (920,860)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1 month ago />
+			[298] (962,777)<div  />
+				[299] (962,777)<button-view-model  />
+					[300] (962,777)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[301] (962,777)<yt-touch-feedback-shape  />
+							[302] (962,777)<div  />
+[303] (809,972)<div  />
+	[304] (734,972)<a class='yt-lockup-view-model__content-image' href='/watch?v=C4x6P2ficFc&list=RDC4x6P2ficFc&start_radio=1&pp=oAcB0gcJCcMKAYcqIYzv' />
+		[305] (730,972)<yt-thumbnail-view-model  />
+			[306] (730,972)<div  />
+				[307] (730,972)<img  />
+	[308] (894,972)<div  />
+		[309] (894,962)<yt-lockup-metadata-view-model  />
+			[310] (894,962)<div  />
+				[311] (894,934)<h3  />
+					[312] (894,934)<a aria-label='Playlist Insta vibe feels so good hip mood⋆｡°✩ 🤍 This vibe, it’s so good 🎧| Pleasant Pop R&B Hip-Hop 1 hour, 59 minutes' class='yt-lockup-metadata-view-model__title' href='/watch?v=C4x6P2ficFc&list=RDC4x6P2ficFc&start_radio=1&pp=oAcB0gcJCcMKAYcqIYzv'>Playlist Insta vibe feels so good hip mood⋆｡°✩ 🤍 This vibe, it’s so good 🎧| Pleasant Pop R&B Hip-Hop />
+						Playlist Insta vibe feels so good hip mood⋆｡°✩ 🤍 This vibe, it’s so good 🎧| Pleasant Pop R&B Hip-Hop
+				[313] (894,991)<div  />
+					[314] (894,992)<yt-content-metadata-view-model  />
+						[315] (894,978)<div  />
+							[316] (852,978)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>Heaven Hazy />
+						2.2M views
+						•
+						6 months ago
+			[317] (962,922)<div  />
+				[318] (962,922)<button-view-model  />
+					[319] (962,922)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[320] (962,922)<yt-touch-feedback-shape  />
+							[321] (962,922)<div  />
+
+</current_dom>

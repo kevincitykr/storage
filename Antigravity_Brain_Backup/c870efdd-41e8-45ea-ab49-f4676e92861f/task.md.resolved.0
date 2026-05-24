@@ -1,0 +1,4 @@
+- [ ] Modify `click_windly` to remove redundant click event triggers [/]
+- [ ] Improve URL normalization logic in `main` loop
+- [ ] Add logging for skipped duplicate items
+- [ ] Verify the changes by reviewing the code logic

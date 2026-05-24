@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (67,106)<a class='logo-ci' href='https://www.danawa.com' />
+	[1] (67,106)<img  />
+[2] (179,112)<a href='http://pc.danawa.com' />
+	[3] (179,115)<img  />
+[4] (739,100)<fieldset  />
+	[5] (709,105)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[6] (993,105)<button class='search__submit' />
+[7] (41,28)<a class='btn_app' href='#mobile_service_layer' role='button'>다나와 앱 />
+[8] (832,27)<a href='https://auto.danawa.com'>자동차 />
+[9] (904,27)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain'>조립PC />
+[10] (980,27)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti'>PC견적 />
+노트북
+노트북 전체
+게이밍 노트북
+노트북 주변기기
+브랜드PC
+데스크탑 전체
+게이밍 조립 PC
+미니PC
+모니터
+모니터 전체
+게이밍 모니터
+표준시리즈
+표준노트북
+표준모니터
+표준PC
+샵다나와
+PC견적
+역경매
+[11] (56,956)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnwcom_section_pcmain'>조립PC />
+[12] (62,996)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=5&logger_kw=dnwcom_section_game'>게임용PC />
+주요부품
+CPU
+쿨러/튜닝
+RAM
+메인보드
+그래픽카드(VGA)
+SSD
+HDD
+케이스
+파워
+키보드
+마우스
+사운드
+PC헤드셋
+PC스피커
+사운드카드
+[13] (263,830)<a href='https://prod.danawa.com/list/?cate=11312813'>PC마이크 />
+저장장치
+외장하드
+외장SSD
+외장케이스/DAS
+NAS
+USB메모리
+ODD
+공미디어
+메모리카드/리더기
+주변기기
+USB허브
+케이블/젠더
+컨트롤러/동글
+공유기
+랜카드
+스위치허브
+[14] (497,830)<a href='https://prod.danawa.com/list/?cate=1131668'>네트워크 주변기기 />
+[15] (479,863)<a href='https://prod.danawa.com/list/?cate=112810'>영상/TV/PC캠 />
+[16] (446,895)<a href='https://prod.danawa.com/list/?cate=1131912'>웹캠 />
+[17] (491,928)<a href='https://prod.danawa.com/list/?cate=11212809'>인터넷 방송 장비 />
+[18] (704,236)<a href='#' />
+	[19] (704,236)<strong  />
+복합기/프린터
+[20] (655,326)<a href='https://prod.danawa.com/list/?cate=112994'>복합기 />
+[21] (655,359)<a href='https://prod.danawa.com/list/?cate=1121001'>프린터 />
+[22] (699,391)<a href='https://prod.danawa.com/list/?cate=11219120'>대형복합기/복사기 />
+[23] (655,424)<a href='https://prod.danawa.com/list/?cate=11229876'>스캐너 />
+[24] (684,456)<a href='https://prod.danawa.com/list/?cate=11218894'>3D/포토프린터 />
+소모품/소프트웨어
+[25] (647,538)<a href='https://prod.danawa.com/list/?cate=1121011'>토너 />
+[26] (647,570)<a href='https://prod.danawa.com/list/?cate=1121010'>잉크 />
+[27] (647,603)<a href='https://prod.danawa.com/list/?cate=1121019'>용지 />
+[28] (671,635)<a href='https://prod.danawa.com/list/?cate=1121015'>소프트웨어 />
+CCTV/보안
+[29] (650,716)<a href='https://prod.danawa.com/list/?cate=1121007'>CCTV />
+[30] (662,749)<a href='https://prod.danawa.com/list/?cate=1135534'>IP카메라 />
+[31] (674,781)<a href='https://prod.danawa.com/list/?cate=1135830'>CCTV녹화기 />
+게임
+[32] (687,863)<a href='https://prod.danawa.com/list/?cate=11255540'>닌텐도 스위치2 />
+[33] (682,895)<a href='https://prod.danawa.com/list/?cate=11238041'>닌텐도 스위치 />
+[34] (700,928)<a href='https://prod.danawa.com/list/?cate=11238042'>플레이스테이션5/4 />
+[35] (701,960)<a href='https://prod.danawa.com/list/?cate=11238044'>엑스박스 시리즈/원 />
+게임발매일정
+
+</current_dom>

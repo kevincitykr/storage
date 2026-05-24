@@ -1,0 +1,86 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (49,46)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (49,46)<yt-icon  />
+		[2] (49,46)<span  />
+			[3] (49,46)<div  />
+[4] (160,46)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (160,46)<div  />
+		[6] (160,44)<ytd-logo  />
+			[7] (160,46)<yt-icon  />
+				[8] (161,46)<span  />
+					[9] (161,46)<div  />
+KR
+[10] (419,46)<div  />
+	[11] (407,46)<form  />
+		[12] (407,46)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (461,46)<div  />
+		[14] (461,46)<ytd-text-input-assistant  />
+			[15] (461,46)<button class='ytdTextInputAssistantButton' />
+				[16] (461,46)<img  />
+[17] (532,46)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (532,46)<span  />
+		[19] (532,46)<span  />
+			[20] (532,46)<div  />
+[21] (624,46)<button aria-label='음성으로 검색' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[22] (624,46)<yt-touch-feedback-shape  />
+		[23] (624,46)<div  />
+[24] (736,46)<button aria-label='만들기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextTonal ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	만들기
+	[25] (736,46)<yt-touch-feedback-shape  />
+		[26] (736,46)<div  />
+[27] (838,46)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (838,44)<yt-icon-badge-shape  />
+		[29] (838,46)<div  />
+			[30] (838,46)<div  />
+				[31] (838,46)<span  />
+[32] (917,46)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[33] (917,46)<yt-img-shadow  />
+		[34] (917,46)<img  />
+[35] (490,667)<div  />
+	[36] (490,667)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[37] (490,659)<div  />
+		[38] (490,667)<div  />
+		[39] (106,667)<div  />
+			[40] (106,667)<div  />
+[41] (44,717)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[42] (114,717)<button aria-label='음소거 해제(m)' class='ytp-volume-icon ytp-button' />
+[43] (233,717)<div  />
+	[44] (233,717)<div  />
+		[45] (233,717)<div aria-label='7 분 21 초/1 시간 17 분 52 초' class='ytp-time-contents' role='button' />
+			[46] (193,717)<span  />
+			[47] (221,717)<span  />
+			[48] (261,717)<span  />
+[49] (729,717)<button aria-label='자막 키보드 단축키 c' class='ytp-subtitles-button ytp-button' />
+	[50] (729,737)<div  />
+[51] (794,717)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[52] (860,717)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[53] (925,717)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+[54] (158,842)<tp-yt-paper-menu-button class='style-scope yt-dropdown-menu' role='group' />
+	[55] (158,842)<div  />
+		[56] (158,842)<tp-yt-paper-button aria-label='실시간 채팅 모드 선택: 주요 채팅 다시보기' class='dropdown-trigger style-scope yt-dropdown-menu' id='label' role='button' />
+			[57] (141,842)<div >주요 채팅 다시보기 />
+			[58] (243,842)<yt-icon  />
+[59] (798,842)<button class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextOutline ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeXs ytSpecButtonShapeNextIconLeading ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[60] (779,842)<div  />
+		[61] (779,842)<span  />
+	[62] (809,842)<div >탑 팬 />
+	[63] (798,842)<yt-touch-feedback-shape  />
+		[64] (798,842)<div  />
+		[65] (798,842)<div  />
+[66] (864,842)<button aria-label='옵션 더보기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[67] (864,842)<div  />
+		[68] (864,842)<span  />
+	[69] (864,842)<yt-touch-feedback-shape  />
+		[70] (864,842)<div  />
+		[71] (864,842)<div  />
+[72] (919,842)<button aria-label='닫기' class='ytSpecButtonShapeNextHost ytSpecButtonShapeNextText ytSpecButtonShapeNextMono ytSpecButtonShapeNextSizeM ytSpecButtonShapeNextIconOnlyDefault ytSpecButtonShapeNextEnableBackdropFilterExperiment' />
+	[73] (919,842)<div  />
+		[74] (919,842)<span  />
+	[75] (919,842)<yt-touch-feedback-shape  />
+		[76] (919,842)<div  />
+		[77] (919,842)<div  />
+
+</current_dom>

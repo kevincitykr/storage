@@ -1,0 +1,51 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (979,1026)<a class='naver-splugin btn_splugin share' href='#' id='spiButton' />
+	[1] (992,999)<span  />
+[2] (627,18)<a class='link' href='https://blog.naver.com/MyBlog.naver'>내 블로그 />
+[3] (663,18)<a class='link' href='https://nid.naver.com/nidlogin.login?mode=form&url=https://blog.naver.com/antsal'>이웃블로그 />
+[4] (699,18)<a class='link' href='https://section.blog.naver.com'>블로그 홈 />
+[5] (732,19)<a class='btn_blog_login' href='https://nid.naver.com/nidlogin.login?mode=form&url=https://blog.naver.com/antsal/224201393432' />
+	[6] (720,7)<span  />
+[7] (496,123)<table role='presentation' />
+	[8] (496,123)<tbody  />
+		[9] (496,123)<tr  />
+			[10] (496,123)<td  />
+				[11] (496,123)<h1  />
+					[12] (298,123)<a href='https://blog.naver.com/PostList.naver?blogId=antsal&categoryNo=77' id='blog-title-anchor' />
+						[13] (298,123)<span >한입 재테크 />
+[14] (263,234)<a class='on itemfont _doNclick _param(false|blog|)' href='https://blog.naver.com/PostList.naver?blogId=antsal&categoryNo=77&skinType=&skinId=&from=menu'>블로그 />
+[15] (308,234)<a class='off itemfont _doNclick _param(false|category|36|1)' href='https://blog.naver.com/PostList.naver?blogId=antsal&categoryNo=36&skinType=&skinId=&from=menu'>Daily 국내증시 />
+[16] (358,234)<a class='off itemfont _doNclick _param(false|category|34|2)' href='https://blog.naver.com/PostList.naver?blogId=antsal&categoryNo=34&skinType=&skinId=&from=menu'>Daily 미국증시 />
+[17] (400,234)<a class='off itemfont _doNclick _param(false|category|70|3)' href='https://blog.naver.com/PostList.naver?blogId=antsal&categoryNo=70&skinType=&skinId=&from=menu'>미국 기업 />
+[18] (433,234)<a class='off itemfont _doNclick _param(false|category|73|4)' href='https://blog.naver.com/PostList.naver?blogId=antsal&categoryNo=73&skinType=&skinId=&from=menu'>다우 30 />
+[19] (656,234)<a class='off itemfont _doNclick _param(false|mapview)' href='https://blog.naver.com/mapview/MapView.naver?blogId=antsal&skinType=&skinId=&from=menu'>지도 />
+[20] (676,234)<a class='off itemfont _doNclick _param(false|library)' href='https://blog.naver.com/library/LibraryView.naver?blogId=antsal&skinType=&skinId=&from=menu'>서재 />
+[21] (696,234)<a class='off itemfont _doNclick _param(false|memolog)' href='https://blog.naver.com/memo/MemologPostList.naver?blogId=antsal&Redirect=MemoList&skinType=&skinId=&from=menu'>메모 />
+[22] (716,234)<a class='off itemfont _doNclick _param(false|tag)' href='https://blog.naver.com/BlogPrivateTagCloud.naver?blogId=antsal&Redirect=Dtagcloud&skinType=&skinId=&from=menu'>태그 />
+[23] (736,234)<a class='off itemfont _doNclick _param(false|guestbook)' href='https://blog.naver.com/guestbook/GuestBookList.naver?blogId=antsal&skinType=&skinId=&from=menu'>안부 />
+[24] (376,288)<a class='pcol2 _toggleTopList _returnFalse' href='#' id='categoryTitle' role='button' title='정부지원제도 목록 닫고 열기' />
+	[25] (376,288)<strong >정부지원제도 />
+275개의 글
+[26] (724,289)<a class='btn_openlist pcol2 _toggleTopList _returnFalse' href='#' role='button' />
+	[27] (710,280)<span  />
+	[28] (724,289)<span >목록열기 />
+[29] (550,426)<a class='pcol2' href='/PostList.naver?blogId=antsal&categoryNo=81&from=postList'>정부지원제도 />
+"3차 민생지원금 매달 15만 원 지급한다" 대상 확인해 보니
+[30] (374,623)<a class='link' href='https://blog.naver.com/antsal' />
+	[31] (374,623)<img  />
+[32] (403,623)<a class='link pcol2' href='https://blog.naver.com/antsal'>한입 재테크 />
+・
+2026. 3. 4. 19:00
+[33] (660,623)<a class='url pcol2 _setClipboard _returnFalse _se3copybtn _transPosition' href='#' id='copyBtn_224201393432' title='https://blog.naver.com/antsal/224201393432'>URL 복사 />
+[34] (704,623)<a class='btn_buddy btn_addbuddy pcol2 _buddy_popup_btn _returnFalse _rosRestrictAll' href='#'>이웃추가 />
+	[35] (690,623)<i  />
+	[36] (704,623)<i  />
+[37] (734,623)<a class='btn_overflow_menu _open_overflowmenu pcol2 _param(224201393432) _returnFalse' href='#' role='button' />
+	[38] (742,615)<span >본문 기타 기능 />
+[39] (522,1022)<a class='se-module-image-link __se_image_link __se_link' href='#' />
+	[40] (522,1022)<img  />
+
+</current_dom>

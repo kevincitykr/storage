@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="코딩과 디자인의 조화로운 학습. 초급자를 위한 단계별 튜토리얼과 독립 학습 환경을 제공합니다.">
+  <title>Connect AI | 초보자를 위한 코딩 & 디자인 자기학습</title>
+  
+  <!-- Typography -->
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Outfit:wght@700;800&display=swap" rel="stylesheet">
+  
+  <!-- Styles -->
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <!-- Navigation -->
+  <nav>
+    <div class="logo-container" id="nav-logo">
+      <img src="assets/logo.png" alt="Connect AI Logo">
+      <span style="font-weight: 700; font-size: 1.25rem; letter-spacing: -0.05em;">Connect <span class="gradient-text">AI</span></span>
+    </div>
+    <ul class="nav-links">
+      <li><a href="#hero">홈</a></li>
+      <li><a href="#features">학습 경로</a></li>
+      <li><a href="#roadmap">로드맵</a></li>
+    </ul>
+  </nav>
+
+  <!-- Hero Section -->
+  <section id="hero">
+    <img src="assets/logo.png" alt="Connect AI Geometric Logo" class="hero-logo" id="hero-logo-img">
+    <h1>독립적인 <span class="gradient-text">학습자</span>로<br>성장하는 공간</h1>
+    <p>초급 코더와 디자이너를 위한 맞춤형 가이드. 코딩의 논리와 디자인의 감각을 동시에 마스터하세요.</p>
+    <a href="#features" class="cta-button" id="start-learning-btn">학습 시작하기</a>
+  </section>
+
+  <!-- Features / Learning Paths -->
+  <section id="features">
+    <div class="glass-card" id="path-coding">
+      <h3>💻 코드의 기초</h3>
+      <p>HTML, CSS, JavaScript의 핵심 개념을 시각적인 예제와 함께 배웁니다. 브라우저가 코드를 어떻게 해석하는지 이해하는 첫걸음입니다.</p>
+    </div>
+    
+    <div class="glass-card" id="path-design">
+      <h3>🎨 디자인 레시피</h3>
+      <p>색상 이론, 타이포그래피, 그리드 시스템. 개발자도 쉽게 적용할 수 있는 실용적인 디자인 원칙을 제공합니다.</p>
+    </div>
+    
+    <div class="glass-card" id="path-harmony">
+      <h3>🤝 코드 & 디자인의 조화</h3>
+      <p>디자인이 어떻게 코드로 구현되는지, 코드가 어떻게 디자인을 완성하는지 그 연결고리를 탐구합니다.</p>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer>
+    <p>&copy; 2026 Connect AI. All rights reserved.</p>
+    <p style="margin-top: 0.5rem; font-size: 0.75rem;">Designed for the next generation of creators.</p>
+  </footer>
+
+  <!-- Micro-interactions Script -->
+  <script>
+    document.addEventListener('DOMContentLoaded', () => {
+      const cards = document.querySelectorAll('.glass-card');
+      
+      // Intersection Observer for Scroll Animations
+      const observer = new IntersectionObserver((entries) => {
+        entries.forEach(entry => {
+          if (entry.isIntersecting) {
+            entry.target.style.opacity = 1;
+            entry.target.style.transform = 'translateY(0)';
+          }
+        });
+      }, { threshold: 0.1 });
+
+      cards.forEach(card => {
+        card.style.opacity = 0;
+        card.style.transform = 'translateY(20px)';
+        card.style.transition = 'all 0.6s cubic-bezier(0.16, 1, 0.3, 1)';
+        observer.observe(card);
+      });
+
+      // Logo hover effect
+      const logo = document.getElementById('hero-logo-img');
+      logo.addEventListener('mouseover', () => {
+        logo.style.transform = 'scale(1.05) rotate(5deg)';
+      });
+      logo.addEventListener('mouseout', () => {
+        logo.style.transform = 'scale(1) rotate(0deg)';
+      });
+    });
+  </script>
+</body>
+</html>

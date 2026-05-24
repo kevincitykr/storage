@@ -1,0 +1,179 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (82,50)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (143,53)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (373,49)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='클립형 블루투스 이어폰' role='searchbox' />
+[3] (576,52)<div  />
+	[4] (576,48)<img  />
+[5] (608,49)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (691,49)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (658,49)<span  />
+	[8] (703,49)<div  />
+		[9] (703,49)<b >AliExpress 앱을 다운로드하세요 />
+[10] (775,49)<div  />
+	[11] (775,49)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[12] (754,49)<span  />
+		[13] (784,49)<div  />
+			[14] (784,36)<span >Other/
+KO
+/ />
+			[15] (780,59)<b >KRW />
+				[16] (790,58)<span  />
+[17] (860,49)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[18] (824,49)<span  />
+	[19] (872,49)<div  />
+		[20] (872,36)<span >환영합니다! />
+		[21] (872,59)<b  />
+			[22] (866,59)<span >로그인 / 회원가입 />
+			[23] (900,58)<span  />
+[24] (954,31)<div  />
+	[25] (948,33)<span >0 />
+장바구니
+[26] (82,148)<div  />
+	[27] (49,148)<div  />
+	[28] (90,148)<div >이미지 다운로드 />
+[29] (179,148)<div  />
+	[30] (148,148)<div  />
+	[31] (176,148)<div >링크 복사 />
+	[32] (213,148)<div  />
+		[33] (213,148)<div  />
+[34] (264,148)<div  />
+	[35] (243,148)<div  />
+	[36] (272,148)<div >제목 복사 />
+[37] (351,148)<div  />
+	[38] (318,148)<div  />
+	[39] (348,148)<div >제목+링크 />
+	[40] (386,148)<div  />
+		[41] (386,149)<div  />
+[42] (434,148)<div  />
+	[43] (417,148)<div  />
+	[44] (442,148)<div >상품 ID />
+[45] (502,148)<div  />
+	[46] (502,148)<div  />
+		[47] (502,148)<div >QR 스캔 />
+			[48] (484,148)<div  />
+[49] (575,148)<div  />
+	[50] (554,148)<div  />
+	[51] (582,148)<div >SKU 목록 />
+제목 검색
+[52] (687,148)<div  />
+[53] (705,148)<div  />
+[54] (50,478)<div class='slider--slider--VKj5hty' scrollable='true' />
+	[55] (50,223)<img  />
+	[56] (50,330)<div  />
+		[57] (50,330)<img  />
+	[58] (50,437)<div  />
+		[59] (50,437)<img  />
+	[60] (50,544)<div  />
+		[61] (50,544)<img  />
+	[62] (50,651)<div  />
+		[63] (50,651)<img  />
+	[64] (50,758)<div  />
+		[65] (50,758)<img  />
+[66] (213,478)<span  />
+업그레이드 프로 버드 3 프로 무선 블루투스 이어폰 노이즈 감소 인이어 무선 충전 TWS 하이파이 사운드 헤드셋 스포츠 이어버드
+[67] (403,261)<a class='reviewer--rating--xrWWFzx' href='#nav-review' />
+	[68] (393,263)<div  />
+		[69] (369,259)<div  />
+			[70] (369,259)<span  />
+		[71] (381,259)<div  />
+			[72] (381,259)<span  />
+		[73] (393,259)<div  />
+			[74] (393,259)<span  />
+		[75] (404,259)<div  />
+			[76] (404,259)<span  />
+		[77] (416,259)<div  />
+			[78] (416,259)<span  />
+	[79] (433,261)<strong >5.0 />
+[80] (461,261)<a class='reviewer--reviews--cx7Zs_V' href='#nav-review'>204 리뷰 />
+౹
+497 개 판매
+[81] (395,329)<div >가격 기록 />
+[82] (695,329)<div  />
+	[83] (695,329)<div  />
+[84] (716,329)<div  />
+	[85] (716,329)<div  />
+[86] (406,408)<div  />
+	[87] (406,408)<div  />
+		[88] (400,408)<div >3 개월 동안 />
+		[89] (428,408)<span  />
+			[90] (428,407)<i  />
+[91] (690,739)<a class='ap-author-aliprice' href='https://www.aliprice.com?ext_id=10256&channel=chrome&platform=naver_shopping&version=4.1.4&browser=chrome&mv=3'>AliPrice.com 제공 />
+₩39,800
+CN¥181.80
+2개 이상 구매 시, 3% 추가 할인
+색상
+:
+Buds 3 Pro White
+[92] (859,601)<div class='action--wrap--BWrENF4' scrollable='true' />
+	[93] (859,220)<a class='store-detail--wrap--IhR4e1j' href='//ko.aliexpress.com/store/1105331484' />
+		[94] (776,220)<div >판매자 />
+		[95] (883,220)<div >(거래 업체) />
+			[96] (856,220)<span >Shop1105331484 Store />
+			(거래 업체)
+	AliExpress의 약속
+	[97] (859,370)<div  />
+		[98] (859,370)<div  />
+			[99] (859,352)<div  />
+				[100] (793,351)<span  />
+					[101] (793,351)<span  />
+						[102] (793,351)<strong >무료 배송 />
+			[103] (859,387)<div  />
+				[104] (818,386)<span  />
+					[105] (818,387)<span  />
+						[106] (818,388)<strong >배송: 4월 25일- 30일 />
+	[107] (859,506)<div  />
+		[108] (766,437)<img  />
+		[109] (859,506)<div  />
+			[110] (859,437)<div  />
+				[111] (846,437)<span >배송 약속 안내 - 해외 배송 상품 구매시 />
+			[112] (859,520)<div  />
+				[113] (831,471)<div  />
+					[114] (780,471)<img  />
+					[115] (835,471)<div >배송 지연 시 ₩1,300 쿠폰 지급 />
+				[116] (809,506)<div  />
+					[117] (780,506)<img  />
+					[118] (814,506)<div >소포 분실 시 환불 />
+				[119] (894,506)<div  />
+					[120] (854,506)<img  />
+					[121] (899,506)<div >손상된 상품 도착 시 환불 />
+				[122] (826,541)<div  />
+					[123] (780,541)<img  />
+					[124] (831,541)<div >30일 내 미배송 시 전액 환불 />
+				[125] (809,574)<div  />
+					[126] (809,574)<div >90일 이내 무료 반품 />
+		[127] (953,507)<span  />
+	[128] (859,673)<div  />
+		[129] (766,620)<img  />
+		[130] (859,673)<div  />
+			[131] (859,620)<div  />
+				[132] (801,620)<span >개인 정보 보호 />
+			[133] (859,687)<div  />
+				[134] (858,654)<div  />
+					[135] (780,654)<img  />
+					[136] (863,654)<div >안심 결제: 카드 정보는 안전하게 보호되며 유출되지 않습니다. />
+				[137] (858,689)<div  />
+					[138] (780,689)<img  />
+					[139] (863,689)<div >개인정보 보호: 개인정보 보안을 최우선으로 생각합니다. />
+				[140] (858,724)<div  />
+					[141] (780,724)<img  />
+					[142] (863,724)<div >채무지급보증 안내: 씨티은행과 채무지급보증 계약 체결 />
+		[143] (953,675)<span  />
+	수량
+	재고수량 939
+	[144] (859,803)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large buy-now--buynow--OH44OI8 comet-v2-btn-important' />
+		[145] (859,803)<span >바로 구매 />
+	[146] (859,884)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large add-to-cart--addtocart--Qhoji3M add-to-cart--hasBuyNow--QxW176q comet-v2-btn-important' />
+		[147] (859,885)<span >장바구니 담기 />
+	[148] (788,965)<a class='share-and-wish--store--Zsc9uDn' href='//ko.aliexpress.com/store/1105331484' />
+		[149] (788,965)<span  />
+	[150] (849,965)<div  />
+		[151] (849,965)<span  />
+	[152] (921,965)<div  />
+		[153] (910,965)<span  />
+		[154] (929,965)<span >392 />
+[155] (984,891)<a aria-label='survey' class='survey--wrap--wg1Og56' href='https://survey.aliexpress.com/uone/sg/survey/09hOVpomv' />
+
+</current_dom>

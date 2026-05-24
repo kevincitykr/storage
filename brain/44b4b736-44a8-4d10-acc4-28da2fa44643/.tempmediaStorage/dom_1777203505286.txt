@@ -1,0 +1,89 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (20,40)<button id='back-button' />
+	[1] (20,37)<span >arrow_back />
+[2] (79,40)<input class='sans-flex round w-500' id='tab-title' />
+Draft
+Saved
+cloud_upload
+Publish
+[3] (873,40)<button class=' sans-flex round w-500 owner sharing-v2 ' id='share-button'>Share />
+	[4] (856,40)<span >share />
+[5] (923,40)<button class=' selected icon round w-500 sans-flex ' />
+	[6] (923,40)<span >more_vert />
+[7] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (949,40)<span >settings />
+[9] (898,103)<button class=' icon round w-500 sans-flex ' />
+	[10] (822,103)<span >flag />
+	[11] (909,103)<span  />
+		[12] (909,103)<span >Send feedback />
+[13] (898,172)<button class=' icon round w-500 sans-flex ' />
+	[14] (822,172)<span >quick_reference_all />
+	[15] (909,172)<span  />
+		[16] (909,172)<span >Read Documentation />
+[17] (898,241)<button class=' icon round w-500 sans-flex ' />
+	[18] (822,241)<span  />
+	[19] (909,241)<span  />
+		[20] (909,241)<span >Discord />
+[21] (898,310)<button class=' icon round w-500 sans-flex ' />
+	[22] (822,310)<span >settings_2 />
+	[23] (909,310)<span  />
+		[24] (909,310)<span >Global Settings />
+[25] (898,379)<button class=' icon round w-500 sans-flex ' />
+	[26] (822,379)<span >videocam />
+	[27] (909,379)<span  />
+		[28] (909,379)<span >Watch Demo Video />
+[29] (978,40)<button id='toggle-user-menu' />
+	[30] (978,40)<span >person />
+[31] (700,540)<div  />
+[32] (242,138)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[33] (220,138)<span >chat_mirror />
+[34] (316,138)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[35] (294,138)<span >spark />
+[36] (381,138)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[37] (364,138)<span >responsive_layout />
+[38] (455,138)<button class=' selected icon round w-500 sans-flex ' />
+	[39] (428,138)<span >add_box />
+	[40] (463,138)<span >Add Assets />
+[41] (520,158)<button >Pick File />
+[42] (544,199)<button >Create New Document />
+[43] (498,851)<button aria-label='Submit' id='submit' />
+[44] (472,851)<button  />
+	[45] (472,851)<span >mic />
+[46] (498,851)<span >progress_activity />
+[47] (673,724)<button id='zoom-to-fit' />
+	[48] (673,724)<span >fit_screen />
+[49] (673,784)<button id='zoom-in' />
+	[50] (673,784)<span >add />
+[51] (673,831)<button id='zoom-out' />
+	[52] (673,831)<span >remove />
+[53] (673,877)<button id='undo' />
+	[54] (673,877)<span >undo />
+redo
+Preview
+[55] (830,120)<button class='sans-flex w-500 round invisible'>Console />
+[56] (881,120)<button class='sans-flex w-500 round invisible'>Step />
+[57] (929,120)<button class=' sans-flex w-500 round '>Theme />
+[58] (737,199)<button id='menu' />
+	[59] (720,199)<span >menu />
+[60] (963,199)<button id='replay' />
+	[61] (980,199)<span >replay />
+Seoul Night View
+[62] (507,859)<a class='w-400 round md-title-medium' href='https://policies.google.com/terms'>Privacy
+            & Terms />
+	[63] (463,859)<span >shield_person />
+	[64] (562,859)<span >open_in_new />
+[65] (520,934)<a class='w-400 round md-title-medium' href='/'>View more
+Opal
+apps />
+	[66] (463,934)<span >gallery_thumbnail />
+	[67] (587,934)<span >open_in_new />
+Your app will appear here once it's built
+error
+No images generated.
+[68] (712,908)<button id='close' />
+	[69] (712,908)<span >close />
+
+</current_dom>

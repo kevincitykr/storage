@@ -1,0 +1,80 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+생활가전
+주방가전
+계절가전
+게임ㆍ드론ㆍ완구
+스포츠ㆍ레저
+중고ㆍ리퍼비시
+서버ㆍ워크스테이션
+PC구성
+아이웍스PC
+CPU
+메인보드
+메모리
+그래픽카드
+SSD
+HDD
+케이스
+파워
+쿨러/튜닝용품
+[0] (673,180)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[1] (715,180)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[2] (764,180)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[3] (818,180)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[4] (877,180)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+전체
+AMD CPU
+인텔 정품
+인텔 병행수입
+서버 CPU
+CPU
+[5] (369,628)<input id='Search_free' />
+무료배송
+[6] (427,628)<input id='Search_Event' />
+행사제품보기
+총
+351
+건
+[7] (328,694)<input id='SearchKeyword' />
+[8] (378,696)<a href='javascript:search_keyword();' />
+[9] (440,694)<select  />
+[10] (286,1125)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[11] (113,832)<a class='imgbox' href='javascript:detail_show('1013843')' title='[제품코드:1013843]' />
+	[12] (252,827)<a class='imgbox' href='javascript:detail_show('1013843')'>8코어 16스레드 4.2GHz 120w TDP 5nm / 라이젠 라파엘 / 라이젠7 / 옥타(8) 코어 / AM5 / 내장그래픽 유 / 4.2 ~ 5.0GHz / 12MB 이상 / 5nm />
+		[13] (252,804)<b >[AMD] 라이젠7 라파엘 7800X3D (8코어/16스레드/4.2GHz/쿨러미포함) 멀티팩[1013843] />
+	가산점 현장구매 가능 상품
+	후기
+	댓글
+	판매가격
+	370,000
+	[14] (457,850)<a class='buttons' href='javascript:select_basket('1013843','N',1);' id='basket1013843' />
+		[15] (457,850)<span >담기 />
+	[16] (252,985)<b >[INTEL] 코어 i3-14100 정품벌크 (랩터레이크 리프레시/3.5GHz/12MB/쿨러 미포함) [1108538] />
+총 견적금액
+0
+원
+[17] (532,694)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[18] (558,694)<input  />
+[19] (584,694)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[20] (640,694)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[21] (640,696)<span >전체수량변경 />
+[22] (541,791)<label  />
+	[23] (525,790)<span  />
+		[24] (525,790)<input  />
+	[25] (548,790)<span >전체선택 />
+[26] (690,790)<a class='wbtn' href='javascript:add_wish_list();' />
+	[27] (690,790)<span >관심상품추가 />
+[28] (745,790)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[29] (745,790)<span >장바구니담기 />
+[30] (797,790)<a class='wbtn' />
+	[31] (797,790)<span >견적서출력 />
+[32] (848,790)<a class='wbtn' href='javascript:speck_form();' />
+	[33] (848,790)<span >사양검토요청 />
+[34] (893,790)<a class='wbtn' href='javascript:sess_init();' />
+	[35] (893,790)<span >초기화 />
+
+</current_dom>

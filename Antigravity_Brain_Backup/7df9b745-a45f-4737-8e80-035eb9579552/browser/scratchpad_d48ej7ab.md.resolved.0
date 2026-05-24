@@ -1,0 +1,14 @@
+# Syncthing Synchronization Task
+
+## Plan
+1. [ ] Navigate to http://localhost:8384
+2. [ ] Edit 'Kevincity Share' folder
+3. [ ] Add 'Goodtobehere공유폴더' to Ignore Patterns
+4. [ ] Save changes
+5. [ ] Resume 'Kevincity Share' folder
+6. [ ] Verify status (scanning, failed items disappearing)
+7. [ ] Monitor transfer speed for 'upload2601'
+
+## Notes
+- System folders were deleted via command line.
+- Need to exclude 'Goodtobehere공유폴더' as well.

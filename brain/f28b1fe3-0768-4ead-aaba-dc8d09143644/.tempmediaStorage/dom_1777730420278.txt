@@ -1,0 +1,87 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (259,472)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[1] (65,132)<a class='imgbox' href='javascript:detail_show('1234579')' title='[제품코드:1234579]' />
+	[2] (221,167)<a class='imgbox' href='javascript:detail_show('1234579')'>[MSI] 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 8GB [1234579]
+RTX 5060 Ti / PCIe5.0 / 정격파워600W 이상 / 전원 포트: 8핀 x1 / 가로(길이): 227mm / 베이스클럭: 2407MHz / 부스트클럭: 2602MHz / OC클럭: 2617MHz / 스트림 프로세서: 4608개 / GDDR7 / 출력단자: HDMI2.1 , DP2.1 / 지원정보: 8K 지원 , HDR 지원 , HDCP 2.3 / 사용전력: 180W / 2팬 / 두께: 41mm / 제로팬(0-dB기술) / 백플레이트 / DrMOS / RTX5060 Ti />
+		[MSI] 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 8GB [1234579]
+	무료배송
+	특가
+	후기
+	기타
+	댓글
+	판매가격
+	589,000
+	[3] (451,193)<a class='buttons' href='javascript:select_basket('1234579','N',1);' id='basket1234579' />
+		[4] (451,193)<span >담기 />
+	[5] (65,422)<a class='imgbox' href='javascript:detail_show('1242692')' title='[제품코드:1242692]' />
+	[6] (221,457)<a class='imgbox' href='javascript:detail_show('1242692')'>RTX 5060 / PCIe5.0x16at x8 / 정격파워550W 이상 / 전원 포트: 8핀 x1 / 가로길이: 197mm / 베이스클럭: 2280MHz / 부스트클럭: 2527MHz / OC클럭: 2535MHz / 스트림 프로세서: 3840개 / GDDR7 / 출력단자: HDMI2.1 , DP2.1 / 지원정보: 8K 지원 , HDR 지원 , HDCP 2.3 / 사용전력: 145W / 2팬 / 두께: 41mm / 제로팬0dB기술 / 백플레이트 / DrMOS / RTX5060 />
+		[7] (221,377)<b >[MSI] 지포스 RTX 5060 벤투스 2X OC D7 8GB [1242692] />
+	쿠폰
+	무료배송
+	후기
+	기타
+	댓글
+	판매가격
+	519,000
+	[8] (451,483)<a class='buttons' href='javascript:select_basket('1242692','N',1);' id='basket1242692' />
+		[9] (451,483)<span >담기 />
+	[10] (65,713)<a class='imgbox' href='javascript:detail_show('1219561')' title='[제품코드:1219561]' />
+	[11] (221,775)<a class='imgbox' href='javascript:detail_show('1219561')'>RTX 5070 / 4nm / 베이스클럭: 2325MHz / 부스트클럭: 2542MHz / OC클럭: 2557MHz / 스트림 프로세서: 6144개 / PCIe5.0x16 / GDDR7 / 출력단자: HDMI2.1 , DP2.1 / 지원정보: 8K 지원 , HDR 지원 , HDCP 2.3 / 사용전력: 250W / 정격파워 650W 이상 / 전원 포트: 16핀(12V2x6) x1 / 2팬 / 가로(길이): 236mm / 두께: 50mm / 제로팬(0-d / RTX5070 / PCI Express 5.0 x16 / 12GB / 192bit / 일반 / 1개 / 3개 / DisplayPortx3개 / HDMIx1개 / 16Pin / VGA231~250mm / 650W / 방열판+팬(일반) / 팬2개 / 제로팬(0-dB기술) />
+		[12] (221,668)<b >[MSI] 지포스 RTX 5070 벤투스 2X OC D7 12GB [1219561] />
+	무료배송
+	가산점 현장구매 가능 상품
+	특가
+	경품
+	사은품
+	기획전
+	후기
+	기타
+	댓글
+	판매가격
+	978,000
+	[13] (451,822)<a class='buttons' href='javascript:select_basket('1219561','N',1);' id='basket1219561' />
+		[14] (451,822)<span >담기 />
+[15] (135,957)<a class='num on' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',0,1);'>1 />
+[16] (163,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',50,2);'>2 />
+[17] (190,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',100,3);'>3 />
+[18] (217,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',150,4);'>4 />
+[19] (244,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',200,5);'>5 />
+[20] (271,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',250,6);'>6 />
+[21] (298,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',300,7);'>7 />
+[22] (325,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',350,8);'>8 />
+[23] (352,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',400,9);'>9 />
+[24] (379,957)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','2043','recommand','','','N|N',450,10);'>10 />
+전체선택
+관심상품추가
+장바구니담기
+견적서출력
+사양검토요청
+초기화
+[25] (529,175)<label  />
+	[26] (529,174)<span  />
+		[27] (528,177)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[28] (563,174)<span >인텔 병행수입 />
+[29] (640,227)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[30] (873,206)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[31] (896,206)<input class='change__ea' id='Amount_1108547' />
+[32] (919,206)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[33] (944,206)<span class='delete' />
+[34] (529,322)<label  />
+	[35] (529,322)<span  />
+		[36] (528,324)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[37] (565,322)<span >인텔 소켓 1700 />
+[38] (640,362)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[39] (690,363)<i  />
+판매가격
+174,150
+[40] (873,341)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[41] (896,341)<input class='change__ea' id='Amount_1118926' />
+[42] (919,341)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[43] (944,341)<span class='delete' />
+
+</current_dom>

@@ -1,0 +1,68 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+#!/usr/bin/env python3
+
+import sys
+from parsel import Selector
+import qrcode
+import qrcode.image.svg
+from io import BytesIO
+from base64 import b64encode
+
+qrheight = "2cm"
+csv_sep = ";"
+
+def main_wrapper(argv):
+	if len(argv) < 3:
+		print("Converts the aliexpress order list or order detail DOM HTML to a printable item list with QR codes, or a CSV for inventory")
+		print(f"{argv[0]} input.html output.[csv|html]")
+		return
+	with open(argv[1]) as source, open(argv[2], "w") as output:
+		selector = Selector(text=source.read())
+		csv = csv_sep.join(['Item','Description','SKU','Quantity','Order','ItemURL','OrderURL']) + '\n'
+		html = '<html><body>\n';
+		for o in selector.css('div.order-item, div.order-detail-item-content'):
+			order_url = o.css('div.order-item-header-right').xpath('.//@href').get() or ""
+			order = order_url.split('orderId=')
+			order = "" if len(order) < 2 else order[1].split("&")[0]
+			item_url = o.css('div.order-item-content-body > a, a.order-detail-item-content-img').xpath('.//@href').get()
+			if (item_url):
+				# remove query part
+				item_url = item_url.split('?')[0]
+				item = item_url.split('/')[-1].split('.')[0]
+				desc = o.css('div.order-item-content-info-name span::text, div.item-title a::text').get()
+				sku = o.css('div.order-item-content-info-sku::text, div.item-sku-attr::text').get() or "?"
+				qty = o.css('span.order-item-content-info-number-quantity::text, span.item-price-quantity::text').get().replace("x","") or 0
+				if (item_url[0] == '/'):
+					item_url = 'https:' + item_url
+				buffer = BytesIO()
+				img = qrcode.make(item_url)
+				img.save(buffer)
+				img = b64encode(buffer.getvalue()).decode()
+				img = "data:image/png;base64,{}".format(img)
+				img = f'<img src="{img}" style="float:right;height:{qrheight}"/>'
+				html += f'<div style="break-inside: avoid;">{img}\n<b>{desc}</b><br/><span>{sku}</span><span style="float:right">{item}</span></div><br clear="both"/>'
+				html += '<hr style="break-after: auto;"/>\n'
+				row = [item,desc,sku,qty,order,item_url,order_url]
+				row = ["\"%s\"" % str(i).replace('"', "'") for i in row]
+				#print(row)
+				csv += csv_sep.join(row) + "\n"
+			else:
+				print("Skipping multiple items order:")
+				print(order_url)
+		html += '</body></html>';
+		if (argv[2][-4:] == ".csv"):
+			output.write(csv)
+		elif (argv[2][-5:] == ".html"):
+			output.write(html)
+		else:
+			print("Ugh, unknown output format!")
+			return
+
+
+if __name__ == '__main__':
+    main_wrapper(sys.argv)
+
+</current_dom>

@@ -1,0 +1,4 @@
+- [ ] Fix `안실장_경제자동봇.py` (Add missing `import json`)
+- [ ] Fix `안실장_서버.py` (Enable CORS and fix dashboard path)
+- [ ] Fix `0_서버_및_대시보드_통합실행.bat` (Improve startup sequence)
+- [ ] Verify the fix by running the server and checking connectivity

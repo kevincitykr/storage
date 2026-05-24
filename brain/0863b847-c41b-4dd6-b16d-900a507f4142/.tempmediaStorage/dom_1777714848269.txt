@@ -1,0 +1,181 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+생활가전
+주방가전
+계절가전
+게임ㆍ드론ㆍ완구
+스포츠ㆍ레저
+중고ㆍ리퍼비시
+[0] (124,82)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[1] (274,82)<li  />
+[2] (424,82)<li  />
+[3] (575,82)<li  />
+[4] (725,82)<li  />
+[5] (876,82)<li  />
+PC구성
+[6] (203,180)<li class='cate_tab_all cate0 cate_tab_iworks' id='cate_tab_iwork'>아이웍스PC />
+[7] (254,180)<li class='cate_tab_all cate1 cate_tab1012' id='cate_tab1012'>CPU />
+[8] (299,180)<li class='cate_tab_all cate2 cate_tab1013 ON' id='cate_tab1013'>메인보드 />
+[9] (348,180)<li class='cate_tab_all cate3 cate_tab1014' id='cate_tab1014'>메모리 />
+[10] (401,180)<li class='cate_tab_all cate4 cate_tab1016' id='cate_tab1016'>그래픽카드 />
+[11] (450,180)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[12] (487,180)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[13] (529,180)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[14] (570,180)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[15] (624,180)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[16] (683,180)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[17] (728,180)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[18] (781,180)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[19] (839,180)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[20] (903,180)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+[21] (280,393)<div class='scroll_ctgr' scrollable='true' />
+	[22] (279,277)<dd class='ls_div' id='ls_div0' />
+		[23] (222,277)<label >전체 />
+	[24] (279,318)<dd class='ls_div' id='ls_div2035' />
+		[25] (232,318)<label >AMD 소켓 />
+	[26] (279,360)<dd class='ls_div' id='ls_div4724' />
+		[27] (241,360)<label >인텔 소켓 1851 />
+	[28] (279,401)<dd class='ls_div on' id='ls_div4560' />
+		[29] (242,401)<label >인텔 소켓 1700 />
+	[30] (279,443)<dd class='ls_div' id='ls_div4421' />
+		[31] (241,443)<label >인텔 소켓 1200 />
+	[32] (279,484)<dd class='ls_div' id='ls_div3480' />
+		[33] (247,484)<label >인텔 소켓 1151-V2 />
+	[34] (279,526)<dd class='ls_div' id='ls_div3209' />
+		[35] (241,526)<label >인텔 소켓 1151 />
+	인텔 소켓 1150/1155
+	인텔 소켓 2066
+	서버/워크스테이션
+	산업용 메인보드
+필터
+[36] (912,296)<a href='javascript:reset_opt();' />
+	[37] (912,296)<span >초기화 />
+[38] (663,433)<div class='scroll_opt' scrollable='true' />
+	[39] (925,351)<a class='btn_toggle' href='javascript:open_opt(4407);' id='btn_toggle4407' />
+	제조사
+	[40] (467,356)<input class='ch_bx' id='chk_52565' />
+	[41] (519,356)<label >MSI />
+	[42] (574,356)<input class='ch_bx' id='chk_52563' />
+	[43] (626,356)<label >ASUS />
+	[44] (681,356)<input class='ch_bx' id='chk_52564' />
+	[45] (732,356)<label >GIGABYTE />
+	[46] (787,356)<input class='ch_bx' id='chk_52566' />
+	[47] (839,356)<label >ASRock />
+	ECS
+	Colorful
+	BIOSTAR
+	MAXSUN
+	NZXT
+	소켓
+	[48] (467,413)<input class='ch_bx' id='chk_83104' />
+	[49] (519,413)<label >인텔/1700 />
+	[50] (925,465)<a class='btn_toggle' href='javascript:open_opt(1310);' id='btn_toggle1310' />
+	칩셋
+	[51] (467,471)<input class='ch_bx' id='chk_89779' />
+	[52] (519,470)<label >인텔 Z790 />
+	[53] (574,471)<input class='ch_bx' id='chk_91669' />
+	[54] (626,470)<label >인텔 B760 />
+	[55] (681,471)<input class='ch_bx' id='chk_84365' />
+	[56] (732,470)<label >인텔 H610 />
+	[57] (787,471)<input class='ch_bx' id='chk_83101' />
+	[58] (839,470)<label >인텔 Z690 />
+	인텔 B660
+	폼팩터
+	[59] (467,528)<input class='ch_bx' id='chk_10687' />
+	[60] (519,527)<label >ATX />
+	[61] (574,528)<input class='ch_bx' id='chk_10685' />
+	[62] (626,527)<label >M-ATX />
+	[63] (681,528)<input class='ch_bx' id='chk_10682' />
+	[64] (732,527)<label >E-ATX />
+	[65] (787,528)<input class='ch_bx' id='chk_10684' />
+	[66] (839,527)<label >M-iTX />
+	메모리 종류
+	DDR5
+	DDR4
+	메모리 슬롯
+	2개
+	4개
+	전원부
+	4~6페이즈
+	7~8페이즈
+	9~10페이즈
+	11~12페이즈
+	13~14페이즈
+	15~16페이즈
+	17~18페이즈
+	19~20페이즈
+	21~25페이즈
+	26~30페이즈
+	DrMOS/SPS
+	DrMOS
+	SPS
+	특징
+	전원부 방열판
+	후면커넥터(BTF)
+	화이트 컨셉
+	보조전원 핀
+	4핀
+	8핀
+	8+4핀
+	8+8핀
+	DC-IN
+	PCIe 버전
+	PCIe5.0
+	PCIe4.0
+	PCIe3.0
+	PCIe
+	PCI
+	PCIe 확장슬롯
+	PCIex16*1개
+	PCIex16*2개
+	PCIex16*3개
+	PCIex16(at x8)*1개
+메인보드
+[67] (360,626)<input id='Search_free' />
+무료배송
+[68] (423,626)<input id='Search_Event' />
+행사제품보기
+총
+146
+건
+[69] (317,692)<input id='SearchKeyword' />
+[70] (370,694)<a href='javascript:search_keyword();' />
+[71] (436,692)<select  />
+총 견적금액
+576,000
+원
+[72] (534,692)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[73] (562,692)<input  />
+[74] (590,692)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[75] (650,692)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[76] (650,693)<span >전체수량변경 />
+[77] (544,788)<label  />
+	[78] (526,787)<span  />
+		[79] (526,787)<input  />
+	[80] (551,787)<span >전체선택 />
+[81] (702,787)<a class='wbtn' href='javascript:add_wish_list();' />
+	[82] (702,788)<span >관심상품추가 />
+[83] (760,787)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[84] (760,788)<span >장바구니담기 />
+[85] (815,787)<a class='wbtn' />
+	[86] (815,788)<span >견적서출력 />
+[87] (871,787)<a class='wbtn' href='javascript:speck_form();' />
+	[88] (871,788)<span >사양검토요청 />
+[89] (919,787)<a class='wbtn' href='javascript:sess_init();' />
+	[90] (919,788)<span >초기화 />
+[91] (527,866)<label  />
+	[92] (527,865)<span  />
+		[93] (526,867)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[94] (560,865)<span >인텔 병행수입 />
+[95] (633,910)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[96] (853,892)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[97] (876,892)<input class='change__ea' id='Amount_1108547' />
+[98] (898,892)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[99] (922,892)<span class='delete' />
+
+</current_dom>

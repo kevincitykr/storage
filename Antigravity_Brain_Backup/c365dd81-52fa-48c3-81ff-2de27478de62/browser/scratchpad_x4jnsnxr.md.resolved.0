@@ -1,0 +1,16 @@
+# Task Plan: Suno Factory Dashboard Verification
+
+- [ ] Open the dashboard: `file:///D:/...` (BLOCKED: Browser tool blocks file:/// URLs)
+- [ ] Click 'REFRESH' in the TREND_INJECTION_PULSE section.
+- [ ] Wait for trends to load.
+- [ ] Click on one of the loaded trend tags.
+- [ ] Click the 'INITIALIZE 12-TRACK SCHEMA' button.
+- [ ] Observe if the track grid fills with data.
+- [ ] Report the result.
+
+## Findings:
+- `open_browser_url` explicitly blocks `file:///` URLs.
+- `http://127.0.0.1:2027/docs` returns `ERR_CONNECTION_REFUSED`.
+- This suggests the server might not be running or is not accessible.
+- I am restricted to a specific directory for `view_file`.
+- I cannot open the dashboard directly due to tool restrictions.

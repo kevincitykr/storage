@@ -1,0 +1,153 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (71,53)<a class='pc-header--logoImg--mDbiT4k' href='https://ko.aliexpress.com' />
+[1] (577,53)<div  />
+	[2] (517,53)<span  />
+	[3] (585,53)<div >AliExpress 앱을 다운로드하세요 />
+[4] (731,53)<div  />
+	[5] (731,53)<div  />
+		[6] (732,53)<div  />
+			[7] (686,53)<span  />
+			[8] (736,53)<div  />
+				[9] (724,53)<span >해운대구/
+KO
+/ />
+				[10] (762,53)<span >KRW />
+			[11] (780,53)<span  />
+[12] (851,53)<div  />
+	[13] (823,53)<span  />
+	[14] (859,53)<div  />
+		[15] (852,50)<span >Hi, sohwe />
+		[16] (878,52)<span  />
+[17] (927,53)<div  />
+	[18] (930,53)<a href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[19] (903,53)<span  />
+		[20] (938,53)<div  />
+			[21] (928,53)<span >장바구니 />
+			[22] (956,53)<span >21 />
+[23] (47,148)<a class='comet-breadcrumb-link' href='https://www.aliexpress.com'>홈 />
+>
+[24] (85,148)<a class='comet-breadcrumb-link' href='//www.aliexpress.com/account/index.html'>Account />
+>
+Message Center
+내 계정
+[25] (140,301)<div  />
+	[26] (53,301)<div >개요 />
+[27] (140,361)<div  />
+	[28] (53,361)<div >주문 />
+[29] (140,421)<div  />
+	[30] (53,421)<div >지불 />
+[31] (140,481)<div  />
+	[32] (64,481)<div >환불/반품 />
+[33] (140,541)<div  />
+	[34] (57,541)<div >피드백 />
+[35] (140,601)<div  />
+	[36] (53,601)<div >설정 />
+[37] (140,661)<div  />
+	[38] (68,661)<div >배송지 주소 />
+[39] (140,721)<div  />
+	[40] (68,721)<div >메시지 센터 />
+[41] (140,810)<div  />
+	[42] (63,810)<div >친구 초대 />
+[43] (140,898)<div  />
+	[44] (62,898)<div >고객센터 />
+[45] (140,958)<div  />
+	[46] (68,958)<div >보고서 관리 />
+Messages
+[47] (372,733)<div class='im-session-list-content' scrollable='true' />
+	[48] (370,337)<li  />
+		[49] (370,337)<div aria-label='Three Meals a Day Rice Store' class='SessionItem--sessionItemCustom--3hutV2X' />
+			[50] (270,337)<div  />
+			[51] (375,337)<div aria-label='Three Meals a Day Rice Store' class='SessionItem--sessionItemInner--2hM96fg' />
+				[52] (291,336)<img  />
+				[53] (391,336)<div  />
+					[54] (389,322)<div  />
+						[55] (377,322)<div >Three Meals a Day Rice Store />
+						[56] (455,322)<div >05:57 />
+					[57] (389,351)<div  />
+						[58] (382,353)<div  />
+							[59] (382,353)<div >[Order Confirmation] />
+						[60] (461,351)<div >2 />
+	[61] (370,437)<li  />
+		[62] (370,437)<div aria-label='닥터문 DR.MOON Official Store' class='SessionItem--sessionItemCustom--3hutV2X' />
+			[63] (270,437)<div  />
+			[64] (375,437)<div aria-label='닥터문 DR.MOON Official Store' class='SessionItem--sessionItemInner--2hM96fg' />
+				[65] (291,437)<img  />
+				[66] (391,437)<div  />
+					[67] (389,422)<div  />
+						[68] (364,422)<div >닥터문 DR.MOON Official Store />
+						[69] (442,422)<div >05/05 08:35 />
+					[70] (389,452)<div  />
+						[71] (382,453)<div  />
+							[72] (382,453)<div >[Order Confirmation] />
+						[73] (461,452)<div >9 />
+	[74] (370,538)<li  />
+		[75] (370,538)<div aria-label='Gogijungdok Store' class='SessionItem--sessionItemCustom--3hutV2X' />
+			[76] (270,538)<div  />
+			[77] (375,538)<div aria-label='Gogijungdok Store' class='SessionItem--sessionItemInner--2hM96fg' />
+				[78] (291,537)<img  />
+				[79] (391,537)<div  />
+					[80] (389,523)<div  />
+						[81] (364,523)<div >Gogijungdok Store />
+						[82] (442,523)<div >05/05 07:57 />
+					[83] (389,552)<div  />
+						[84] (382,553)<div  />
+							[85] (382,553)<div >[Order Confirmation] />
+						[86] (461,552)<div >6 />
+	[87] (370,638)<li  />
+		[88] (370,638)<div aria-label='Warvank Computer Peripherals Store' class='SessionItem--sessionItemCustom--3hutV2X' />
+			[89] (270,638)<div  />
+			[90] (375,638)<div aria-label='Warvank Computer Peripherals Store' class='SessionItem--sessionItemInner--2hM96fg' />
+				[91] (291,637)<img  />
+				[92] (391,637)<div  />
+					[93] (389,623)<div  />
+						[94] (364,623)<div >Warvank Computer Peripherals Store />
+						[95] (442,623)<div >05/04 22:15 />
+					[96] (389,652)<div  />
+						[97] (382,654)<div  />
+							[98] (382,654)<div >(광고) 꽁돈대첩 초특가 할인 누려보세요! 재고 소진 전에 최대  70% 할인받아 쇼핑해 보세요. />
+						[99] (461,652)<div >4 />
+	[100] (370,738)<li  />
+		[101] (370,738)<div aria-label='가쯔 Official Store' class='SessionItem--sessionItemCustom--3hutV2X' />
+			[102] (270,738)<div  />
+			[103] (375,738)<div aria-label='가쯔 Official Store' class='SessionItem--sessionItemInner--2hM96fg' />
+				[104] (291,737)<img  />
+				[105] (391,737)<div  />
+					[106] (389,723)<div  />
+						[107] (364,723)<div >가쯔 Official Store />
+						[108] (442,723)<div >05/03 18:29 />
+					[109] (389,752)<div  />
+						[110] (382,754)<div  />
+							[111] (382,754)<div >[Order Confirmation] />
+						[112] (461,752)<div >1 />
+	[113] (370,838)<li  />
+		[114] (370,838)<div aria-label='PAPERPLANES Store' class='SessionItem--sessionItemCustom--3hutV2X' />
+			[115] (270,838)<div  />
+			[116] (375,838)<div aria-label='PAPERPLANES Store' class='SessionItem--sessionItemInner--2hM96fg' />
+				[117] (291,837)<img  />
+				[118] (391,837)<div  />
+					[119] (389,823)<div  />
+						[120] (364,823)<div >PAPERPLANES Store />
+						[121] (442,823)<div >05/01 10:31 />
+					[122] (389,852)<div  />
+						[123] (382,854)<div  />
+							[124] (382,854)<div >[Order Confirmation] />
+						[125] (461,852)<div >1 />
+	[126] (370,938)<li  />
+		[127] (370,938)<div aria-label='BLAUPUNKT Store' class='SessionItem--sessionItemCustom--3hutV2X' />
+			[128] (270,938)<div  />
+			[129] (375,938)<div aria-label='BLAUPUNKT Store' class='SessionItem--sessionItemInner--2hM96fg' />
+				[130] (291,937)<img  />
+				[131] (391,937)<div  />
+					[132] (389,923)<div  />
+						[133] (364,923)<div >BLAUPUNKT Store />
+						[134] (442,923)<div >05/01 09:19 />
+					[135] (389,952)<div >6 />
+						[136] (382,954)<div  />
+							[137] (382,954)<div >[Order Confirmation] />
+						6
+Start chatting now
+
+</current_dom>

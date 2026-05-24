@@ -1,0 +1,101 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,76)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiVv6K4gqOUAxVcm68BHepNJTcQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,75)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,75)<div  />
+	[3] (561,75)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,75)<span  />
+	[5] (577,75)<span  />
+[6] (593,75)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,75)<span  />
+[8] (619,75)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,75)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,75)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,75)<div  />
+		[12] (670,75)<span  />
+[13] (943,75)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.jp/intl/ko/about/products?tab=wh' role='button' />
+[14] (974,75)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Di7-13700F%2B4070%2B%2522150%25EB%25A7%258C%2522%2B%25EC%25A4%2591%25EA%25B3%25A0%25EB%2582%2598%25EB%259D%25BC&ec=futura_srp_og_si_72236_p' role='button' />
+[15] (156,164)<a class='XVMlrc C6AK7c' href='/search?q=i7-13700F+4070+150%EB%A7%8C+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sca_esv=251dd46310ce0ad5&sxsrf=ANbL-n50tiuYdxjn0moLO3VFccS5v7a5uQ:1778014036211&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGRtsll5GOukaJIHGDDJvSNJ4fi92ynK8Z_6peoUsQ3t61lqXPJXVTR0_N7rx7Lo73ynzv_o1pJZkdvg3KLKCYwGWjwofIs27pT60Sev7p_jDFfNaVzFvLB017HHfd5cBd33KtwPJCC143HLm5viFoUrhLC5Y&aep=1&ntc=1&sa=X&ved=2ahUKEwiVv6K4gqOUAxVcm68BHepNJTcQ2J8OegQIERAD' />
+	[16] (156,164)<div  />
+		[17] (156,177)<div  />
+			[18] (156,169)<span  />
+				[19] (156,169)<span >AI 모드 />
+[20] (194,164)<a class='C6AK7c' role='link' />
+	전체
+[21] (226,164)<a class='C6AK7c' href='/search?sca_esv=251dd46310ce0ad5&sxsrf=ANbL-n50tiuYdxjn0moLO3VFccS5v7a5uQ:1778014036211&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGRtsll5GOukaJIHGDDJvSNJ4fi92ynK8Z_6peoUsQ3t61lqXPJXVTR0_N7rx7Lo73ynzv_o1pJZkdvg3KLKCYwGWjwofIs27pT60Sev7p_jDFfNaVzFvLB017HHfd5cBd33KtwPJCC143HLm5viFoUrhLC5Y&q=i7-13700F+4070+150%EB%A7%8C+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&ved=1t:220175&ictx=111' />
+	[22] (226,164)<div  />
+		[23] (226,177)<span >쇼핑 />
+[24] (263,164)<a class='C6AK7c' href='/search?sca_esv=251dd46310ce0ad5&sxsrf=ANbL-n50tiuYdxjn0moLO3VFccS5v7a5uQ:1778014036211&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGRtsll5GOukaJIHGDDJvSNJ4fi92ynK8Z_6peoUsQ3t61lqXPJXVTR0_N7rx7Lo73ynzv_o1pJZkdvg3KLKCYwGWjwofIs27pT60Sev7p_jDFfNaVzFvLB017HHfd5cBd33KtwPJCC143HLm5viFoUrhLC5Y&q=i7-13700F+4070+150%EB%A7%8C+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sa=X&ved=2ahUKEwiVv6K4gqOUAxVcm68BHepNJTcQtKgLegQIFhAB' />
+	[25] (263,164)<div  />
+		[26] (263,177)<span >동영상 />
+[27] (304,164)<a class='C6AK7c' href='/search?sca_esv=251dd46310ce0ad5&sxsrf=ANbL-n50tiuYdxjn0moLO3VFccS5v7a5uQ:1778014036211&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGRtsll5GOukaJIHGDDJvSNJ4fi92ynK8Z_6peoUsQ3t61lqXPJXVTR0_N7rx7Lo73ynzv_o1pJZkdvg3KLKCYwGWjwofIs27pT60Sev7p_jDFfNaVzFvLB017HHfd5cBd33KtwPJCC143HLm5viFoUrhLC5Y&q=i7-13700F+4070+150%EB%A7%8C+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sa=X&ved=2ahUKEwiVv6K4gqOUAxVcm68BHepNJTcQtKgLegQIFBAB' />
+	[28] (304,164)<div  />
+		[29] (304,177)<span >이미지 />
+[30] (354,164)<a class='C6AK7c' href='/search?sca_esv=251dd46310ce0ad5&sxsrf=ANbL-n50tiuYdxjn0moLO3VFccS5v7a5uQ:1778014036211&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGRtsll5GOukaJIHGDDJvSNJ4fi92ynK8Z_6peoUsQ3t61lqXPJXVTR0_N7rx7Lo73ynzv_o1pJZkdvg3KLKCYwGWjwofIs27pT60Sev7p_jDFfNaVzFvLB017HHfd5cBd33KtwPJCC143HLm5viFoUrhLC5Y&q=i7-13700F+4070+150%EB%A7%8C+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sa=X&ved=2ahUKEwiVv6K4gqOUAxVcm68BHepNJTcQs6gLegQIFRAB' />
+	[31] (354,164)<div  />
+		[32] (354,177)<span >짧은 동영상 />
+[33] (400,164)<a class='C6AK7c' href='/search?sca_esv=251dd46310ce0ad5&sxsrf=ANbL-n50tiuYdxjn0moLO3VFccS5v7a5uQ:1778014036211&q=i7-13700F+4070+150%EB%A7%8C+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGRtsll5GOukaJIHGDDJvSNJ4fi92ynK8Z_6peoUsQ3t61lqXPJXVTR0_N7rx7Lo73ynzv_o1pJZkdvg3KLKCYwGWjwofIs27pT60Sev7p_jDFfNaVzFvLB017HHfd5cBd33KtwPJCC143HLm5viFoUrhLC5Y&sa=X&ved=2ahUKEwiVv6K4gqOUAxVcm68BHepNJTcQ0pQJegQIExAB' />
+	[34] (400,164)<div  />
+		[35] (400,177)<span >뉴스 />
+[36] (443,164)<div class='mTpL7c' role='button' />
+	[37] (443,164)<div  />
+		[38] (443,177)<div  />
+			[39] (437,169)<span >더보기 />
+			[40] (455,169)<span  />
+[41] (491,164)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,164)<div  />
+		[43] (491,177)<div  />
+			[44] (485,169)<span >도구 />
+			[45] (499,169)<span  />
+검색결과
+AI 개요
+[46] (852,265)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+i7-13700F와 RTX 4070(또는 4070 Super) 조합의 중고나라 거래 가격은 구성에 따라 상이하지만,
+150만 원 내외는 꽤 합리적이거나 좋은 가격대
+에 속합니다
+.
+[47] (421,354)<button aria-label='관련 링크 보기' class='rBl3me' />
+	[48] (421,354)<span  />
+중고나라 검색 결과
+를 바탕으로 분석한 내용은 다음과 같습니다.
+시세 현황 (2026년 5월 기준):
+i7-13700F + RTX 4070/4070 Super 본체는 보통
+150만 원~170만 원
+대에서 거래됩니다.
+최근 4070 Super 모델을 포함한 고사양 구성은 160만 원에 판매된 사례가 있습니다.
+150만 원 제안의 의미:
+4070 일반 모델이라면 평이한 수준,
+4070 Super 모델이라면 매우 좋은 가격
+입니다.
+32GB 이상의 DDR5 램, 고용량 NVMe SSD(1TB 이상), 고효율 파워(750W~850W)가 포함되어 있다면 가성비가 훌륭합니다.
+💡 구매 전 필수 확인 사항 (필독)
+RTX 4070 vs 4070 Super:
+성능 차이가 있으므로 모델명을 정확히 확인하세요.
+부품 보증 기간:
+13세대 인텔과 40 시리즈는 출시된 지 얼마 되지 않아 보증 기간이 남았을 확률이 높습니다. 각 부품의 영수증이나 보증 기간을 확인하세요.
+[49] (719,396)<a aria-label='i7 13700f rtx 40... | 중고나라. 새 탭에서 열립니다.' class='NDNGvf' href='https://web.joongna.com/search/i7%2013700f%20rtx%204070?srsltid=AfmBOoqYB_ndkn7EFH7dEjT6-GZSTqaTGljTMC7FEVOBmJuxIcjFOWn9' />
+i7 13700f rtx 40... | 중고나라
+검색 상품 가격 요약 아이콘 검색 상품 가격 요약. 평균 가격: 1,600,000원. 가장 높은 가격: 1,
+web.joongna.com
+[50] (842,453)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-VVf6aaB3n8O-vQ-kxM2oBA_6' role='button' />
+4070 슈퍼 게이밍 중고거래...
+'4070 슈퍼 게이밍'검색결과 ; 평균 가격: 2,037,000원 ; 가장 높은 가격: 4,500,000원...
+중고나라
+[51] (500,731)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[52] (348,731)<div  />
+		[53] (348,731)<div >더보기 />
+			더보기
+			[54] (363,731)<span  />
+i7-13700F 4070 "150만" 중고나라
+에 대한 검색결과가 없습니다.
+[55] (214,953)<a href='/search?sca_esv=251dd46310ce0ad5&sxsrf=ANbL-n50tiuYdxjn0moLO3VFccS5v7a5uQ:1778014036211&q=i7-13700F+4070+150%EB%A7%8C+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sa=X&ved=2ahUKEwiVv6K4gqOUAxVcm68BHepNJTcQgwN6BAgPEAE' />
+	[56] (214,953)<b >i7-13700F 4070 150만 중고나라 />
+(따옴표 없음)에 대한 검색결과:
+
+</current_dom>

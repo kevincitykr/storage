@@ -1,0 +1,190 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (131,39)<a href='https://www.danawa.com' />
+	[1] (131,50)<img  />
+[2] (473,42)<fieldset  />
+	[3] (447,50)<input class='search__input fixed_search' id='FixedAKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[4] (588,50)<button class='search__delete on'>삭제 />
+		삭제
+	[5] (614,50)<button class='search__submit'>검색 />
+		검색
+10
+갤럭시s26 울트라
+10
+[6] (815,50)<a href='/dsearch.php?query=%EC%95%84%EC%9D%B4%ED%8F%B017' title='아이폰17'>아이폰17 />
+삼성 85인치 tv
+7
+ddr5 32gb
+4
+갤럭시 버즈4 프로
+3
+갤럭시 탭 s10
+외장하드 1tb
+4
+gamesir g7
+2
+필립스 전기 면도기
+[7] (966,848)<a class='btn_layer_up'>컨텐츠 상단으로 이동 />
+	컨텐츠 상단으로 이동
+[8] (966,925)<a class='btn_layer_down'>컨텐츠 하단으로 이동 />
+	컨텐츠 하단으로 이동
+램개수
+1개
+2개
+2개
+4개
+4개
+8개
+8개
+동작클럭(대역폭)
+3200MHz (PC4-25600)
+6400MHz (PC5-51200)
+6400MHz (PC5-51200)
+6000MHz (PC5-48000)
+6000MHz (PC5-48000)
+5600MHz (PC5-44800)
+5600MHz (PC5-44800)
+3600MHz (PC4-28800)
+3600MHz (PC4-28800)
+23
+개
+[9] (110,138)<a class='btn_dic' href='#'>램타이밍 />
+CL30
+[10] (221,137)<button class='button__category-info'>CL30 />
+	CL30
+CL32
+[11] (323,137)<button class='button__category-info'>CL32 />
+	CL32
+CL34
+[12] (426,137)<button class='button__category-info'>CL34 />
+	CL34
+CL36
+[13] (528,137)<button class='button__category-info'>CL36 />
+	CL36
+CL40
+[14] (630,137)<button class='button__category-info'>CL40 />
+	CL40
+[15] (709,132)<button class='btn_so_view more'>개 />
+	[16] (699,132)<strong >19 />
+	[17] (720,132)<span  />
+[18] (110,194)<a class='btn_dic' href='#'>히트싱크 />
+[19] (132,193)<button class='button__graph' title='리서치 보기' />
+[20] (192,193)<label class='srch_lb' />
+	[21] (199,193)<a class='btn_dic' href='#' />
+		[22] (199,193)<span >미포함 />
+방열판
+[23] (323,193)<button class='button__category-info'>방열판 />
+	방열판
+방열판 색상
+[24] (142,249)<button class='button__graph' title='리서치 보기' />
+블랙
+[25] (221,249)<button class='button__category-info'>블랙 />
+	블랙
+화이트
+[26] (323,249)<button class='button__category-info'>화이트 />
+	화이트
+실버/그레이
+[27] (426,249)<button class='button__category-info'>실버/그레이 />
+	실버/그레이
+골드
+[28] (528,249)<button class='button__category-info'>골드 />
+	골드
+레드
+[29] (630,249)<button class='button__category-info'>레드 />
+	레드
+[30] (711,244)<button class='btn_so_view more'>개 />
+	[31] (701,244)<strong >5 />
+	[32] (720,244)<span  />
+[33] (110,306)<a class='btn_dic' href='#'>부가기능 />
+[34] (189,304)<label class='srch_lb' />
+	[35] (197,304)<a class='btn_dic' href='#' />
+		[36] (197,304)<span >ECC />
+[37] (291,304)<label class='srch_lb' />
+	[38] (299,304)<a class='btn_dic' href='#' />
+		[39] (299,304)<span >REG />
+LED 라이트
+[40] (426,304)<button class='button__category-info'>LED 라이트 />
+	LED 라이트
+XMP
+[41] (528,304)<button class='button__category-info'>XMP />
+	XMP
+XMP3.0
+[42] (630,304)<button class='button__category-info'>XMP3.0 />
+	XMP3.0
+[43] (711,299)<button class='btn_so_view more'>개 />
+	[44] (701,300)<strong >4 />
+	[45] (720,299)<span  />
+배송/가격
+[46] (202,360)<button class='button__fast-shipping ' id='quickProductFilterButton'>빠른배송 />
+검색될 최소 가격 입력
+[47] (523,360)<input class='form__input' id='priceRangeMinPrice' />
+원
+~
+검색될 최대 가격 입력
+[48] (624,360)<input class='form__input' id='priceRangeMaxPrice' />
+원
+[49] (701,360)<button class='button__search' id='priceRangeSearchButton'>검색 />
+[50] (410,411)<button class='button__option-all ' id='searchOptionAll'>옵션 전체보기 />
+[51] (123,498)<a class='allTab' href='#searchOption' title='전체 상품 리스트 보러가기'>전체
+(3,543) />
+	(3,543)
+[52] (195,498)<a class='vmTab' href='#searchOption' title='가격비교 상품 리스트 보러가기'>가격비교 />
+	[53] (212,497)<span >(1,840) />
+[54] (276,498)<a class='vaTab' href='#searchOption' title='검색 상품 리스트 보러가기'>검색 상품 />
+	[55] (294,497)<span >(3,230) />
+[56] (444,495)<a id='SearchOption_Mall_SelectBtn'>쇼핑몰 선택 />
+	[57] (465,497)<span  />
+[58] (517,497)<input class='search_input' id='SearchOption_InnerSearch_KeywordInput' placeholder='리스트 내 검색' title='리스트 내 검색' />
+[59] (581,497)<button class='submit_search_list' id='SearchOption_InnerSearch_SubmitButton' />
+[60] (624,497)<a class='btn_detail_srch' id='DetailSearch_ToggleButton'>결과 내 검색 />
+[61] (665,496)<a class='type_list' title='목록 리스트형으로 보기' />
+[62] (683,496)<a class='type_img' title='목록 이미지형으로 보기' />
+[63] (714,497)<select class='qnt_selector' title='목록 개수 선택' />
+[64] (112,568)<a >인기상품순 />
+[65] (177,568)<a >단위환산 최저가순 />
+[66] (214,568)<button class='button__tooltip'>툴팁 보기 />
+	툴팁 보기
+[67] (251,568)<a >낮은가격순 />
+[68] (299,568)<a >높은가격순 />
+[69] (344,568)<a >신상품순 />
+[70] (393,568)<a >상품평 많은순 />
+[71] (557,568)<label >상세옵션펼침 />
+	상세옵션펼침
+	[72] (578,568)<span  />
+상품 상세 옵션이 펼쳐진 상태로 보여집니다.
+[73] (627,627)<button class='button__close'>닫기 />
+	닫기
+[74] (631,568)<label >쿠팡와우할인 />
+	쿠팡와우할인
+	[75] (652,568)<span  />
+[76] (702,568)<label >배송비포함 />
+	배송비포함
+	[77] (720,568)<span  />
+광고
+[78] (410,739)<a class='link__item' href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9ybXNQY2FVTkVGaGJsQmsxYnRPcFlfWE5mMEdKTXBJUi0yQnNBOUt3cDBNMjNqMEJfbzVhdlRNTzFEZVlrRE5RLTJtQnFWT1ZfVWVMejVnZ2VOeVAwZDN0d0NReGNobWE3dEo2c3dTbWFUVk5tRXRxeWtHdjI0VDBURF95S05MTXZ0emxlZnRUSk9ObkVURXlWSF9EVU5hNHFhejdkWG5MUk84akltd0hrYW0yYWFQeDVscmpfb19BSFRqc1dVRlFCVWltRDQzVHZqcU85dXU2TTJ1MDczVWR6TUxXcUdyN2d3elMtWExGVmhDZUNpQjQ3U0FSV1JtVzVIeVJ3dE5xRUhwSWxLSGZiWWNQMTFuaDU1LUxKQUtTaEZDNmpNZHRnM0pDRUl1eFZOelptNFhzRFVUb1FXcTY1MGt5eVpRRW1PX1g3d2VGcTA5b1VWOXkyLU5nRWc9PT9jPWRhbmF3YS5jaDkmdD0w&minPrice=132000&shipFee=3000&dlvryFee=3000&adKeyword=ddr4+16gb+%EC%82%BC%EC%84%B1&prodType=imported&locationType=bottom&serviceType=search' />
+	삼성전자 데스크탑용 DDR4 16GB PC4-2133P(17000 MHz)
+	별점
+	4.70
+	리뷰수
+	(
+	20
+	)
+	쑤마트
+	132,000
+	원
+	배송비 3,000원
+광고
+삼성전자 DDR4 8G PC4-25600 (정품)
+아라컴스토어
+125,000
+원
+[79] (954,404)<button class='button__floating-vs'>VS검색
+개 담김 />
+	VS검색
+	[80] (975,404)<span >0 />
+	개 담김
+VS
+
+</current_dom>

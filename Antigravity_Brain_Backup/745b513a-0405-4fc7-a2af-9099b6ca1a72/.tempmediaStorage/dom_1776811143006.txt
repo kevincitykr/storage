@@ -1,0 +1,25 @@
+[0] (500,500)<div  />
+	아이디(이메일)
+	*
+	[1] (500,345)<label class='css-111qcm4' />
+		[2] (500,345)<input class='css-14i5tyr' placeholder='아이디(이메일)을 입력해주세요.' />
+	비밀번호
+	*
+	[3] (500,440)<label class='css-111qcm4' />
+		[4] (483,440)<input class='css-14i5tyr' placeholder='비밀번호를 입력해주세요' />
+		[5] (677,440)<button class='css-65q9cv' />
+	이메일 로그인
+	[6] (339,569)<label class='css-1bisxdn' />
+		[7] (305,569)<input aria-label='직원 로그인' />
+		[8] (350,569)<span >직원 로그인 />
+	[9] (665,569)<a class='css-vyyepf' href='/accounts/password-change/request' />
+		[10] (665,569)<span >비밀번호 찾기 />
+	간편 로그인
+	[11] (467,664)<button class='css-18j1a7z ekrkfd40' />
+	[12] (533,664)<button class='css-105lwmp ekrkfd40' />
+		자주 로그인한
+            방식이에요.
+	30초만에
+	[13] (529,785)<a class='css-1chccoz' href='/accounts/register' />
+		[14] (529,785)<span >회원가입하기! />
+	사업 시작에 필요한 준비물도 무료로 받아가세요.

@@ -1,0 +1,65 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div  />
+		[2] (500,35)<header  />
+			[3] (145,35)<div role='button' />
+				[
+				3월5일
+				실습]
+				지하철 무료함 타파! '한 손 터치 게임' 만들기
+			[4] (743,35)<div role='button' />
+			[5] (782,35)<div aria-label='소셜 미디어에 사이트 공유' role='button' />
+			[6] (822,35)<div role='button' />
+			[7] (859,35)<div aria-label='추가 작업' role='button' />
+			[8] (937,35)<div role='button'>지금 시작하기 />
+		[9] (500,535)<main  />
+			[10] (500,535)<div class='notion-scroller vertical' scrollable='true' />
+				[11] (955,344)<div  />
+					[12] (955,344)<div  />
+						[13] (951,334)<div  />
+							[14] (961,280)<div  />
+								[15] (955,280)<div  />
+							[16] (961,302)<div  />
+								[17] (955,302)<div  />
+							[18] (961,325)<div  />
+								[19] (955,325)<div  />
+							[20] (961,347)<div  />
+								[21] (955,347)<div  />
+							[22] (961,370)<div  />
+								[23] (955,370)<div  />
+				[24] (491,165)<div  />
+					[25] (491,165)<div  />
+						[26] (491,165)<div  />
+							[27] (491,165)<div role='figure' />
+								[28] (491,165)<div  />
+									[29] (491,165)<div  />
+				[30] (491,791)<div  />
+					[31] (491,791)<div  />
+						[32] (491,791)<h4 >3. 실기기 테스트 (Expo Go) />
+				[33] (491,844)<div  />
+					[34] (491,844)<div  />
+						[35] (491,844)<div  />
+							[36] (491,844)<div >지하철 안에서 직접 플레이한다는 생각으로 테스트해 보세요! />
+				[37] (491,895)<div  />
+					[38] (491,895)<div  />
+						[39] (134,895)<div  />
+							[40] (134,895)<span  />
+						[41] (506,895)<div  />
+							[42] (506,895)<div  />
+								[43] (506,895)<div >구글 플레이스토어 또는 앱스토어에서
+앱을 다운로드합니다. />
+									[44] (177,894)<span >앱 설치: />
+									[45] (502,894)<span >Expo Go />
+				[46] (134,946)<div  />
+					[47] (134,946)<span  />
+				[48] (181,945)<span >QR 스캔: />
+				스마트폰 카메라를 켜서 터미널에 있는 QR 코드를 스캔합니다.
+				[49] (134,997)<div  />
+					[50] (134,997)<span  />
+				[51] (176,997)<span >플레이: />
+				게임이 정상적으로 로드되는지 확인하고, 한 손으로 터치하며 버그가 없는지 체크합니다.
+
+</current_dom>

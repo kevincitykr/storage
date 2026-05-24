@@ -1,0 +1,106 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (462,28)<div  />
+	[1] (205,29)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>상품상세 />
+	[2] (377,29)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa] twc-border-b-0 twc-bg-[#fff] twc-text-[#111]'>상품평
+(
+136
+) />
+	[3] (548,29)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>상품문의 />
+	[4] (719,29)<a class='twc-pt-[12px] md:twc-pt-[15px] twc-break-all twc-px-[10px] md:twc-px-[20px] twc-pb-[14px] twc-basis-[25%] twc-flex twc-justify-center twc-border twc-border-t-0 twc-border-[#ccc] twc-border-l-0 first:twc-border-l twc-bg-[#fafafa]'>배송/교환/반품 안내 />
+상품 리뷰
+136
+100명 이상 만족했어요
+최고
+94
+%
+좋음
+2
+%
+보통
+1
+%
+별로
+0
+%
+나쁨
+3
+%
+사용 목적
+게이밍
+62
+%
+성능
+기대 이상 뛰어나요
+82
+%
+설치 난이도
+쉬워요
+93
+%
+소음
+생각보다조용해요
+92
+%
+가성비
+적당한 편이에요
+58
+%
+[5] (286,555)<button class='twc-inline-flex twc-items-center twc-justify-center twc-text-[16px]/[20px] twc-font-bold twc-cursor-pointer twc-text-[#346aff] desktop-hover:twc-bg-[#346aff]/20 active:twc-bg-[#346aff]/30' />
+	[6] (286,555)<span  />
+		[7] (282,555)<span >자세히 보기 />
+동일한 상품에 대해 작성된 상품 리뷰로, 판매자는 다를 수 있습니다.
+[8] (214,649)<button class='twc-inline-flex twc-items-center twc-justify-center twc-text-[16px]/[20px] twc-font-bold twc-cursor-pointer twc-text-[#346aff] desktop-hover:twc-bg-[#346aff]/20 active:twc-bg-[#346aff]/30' />
+	[9] (214,649)<span >상품리뷰 운영원칙 />
+[10] (354,137)<div  />
+	[11] (354,137)<img  />
+[12] (423,137)<div  />
+	[13] (423,137)<img  />
+[14] (493,137)<div  />
+	[15] (493,137)<img  />
+[16] (562,137)<div  />
+	[17] (562,137)<img  />
+[18] (632,137)<div  />
+	[19] (632,137)<img  />
+[20] (701,137)<div  />
+	[21] (701,137)<img  />
+[22] (771,137)<div  />
+	[23] (771,137)<div  />
+		[24] (771,126)<div >229 />
+		[25] (771,154)<div >더보기 />
+[26] (336,270)<button class='twc-font-bold twc-inline-flex twc-items-center twc-justify-center twc-text-[16px]/[20px] twc-font-bold twc-cursor-pointer twc-text-[#346aff] desktop-hover:twc-bg-[#346aff]/20 active:twc-bg-[#346aff]/30'>베스트순 />
+[27] (372,270)<button class='twc-font-normal twc-inline-flex twc-items-center twc-justify-center twc-text-[16px]/[20px] twc-font-bold twc-cursor-pointer twc-text-bluegray-800 desktop-hover:twc-bg-bluegray-800/20 active:twc-bg-bluegray-800/30'>최신순 />
+[28] (617,270)<div  />
+	[29] (623,270)<input class='twc-flex-[1_1_0] twc-w-[80px] twc-bg-transparent placeholder:twc-text-bluegray-900' placeholder='검색어를 입력하세요' />
+[30] (768,270)<div class='twc-flex twc-items-center twc-justify-between twc-gap-[8px] twc-w-full twc-h-[40px] twc-px-[14px] twc-border twc-border-bluegray-300 twc-rounded-[4px] twc-bg-white twc-cursor-pointer desktop-hover:twc-bg-bluegray-800/20 active:twc-bg-bluegray-800/30 focus:twc-outline-none twc-flex-[0_0_142px] twc-ml-[8px]' role='combobox'>모든 별점 />
+	모든 별점
+[31] (333,364)<div  />
+	[32] (333,364)<img  />
+디노
+2025.10.18
+판매자: 주식회사 보아스시스템
+보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터, WIN11 Home, 1TB, 32GB, 지포스 RTX 5060 Ti, i5-14400F
+[33] (346,516)<div  />
+	[34] (346,516)<img  />
+[35] (400,516)<div  />
+	[36] (400,516)<img  />
+[37] (454,516)<div  />
+	[38] (454,516)<img  />
+[39] (508,516)<div  />
+	[40] (508,516)<img  />
+[41] (562,516)<div  />
+	[42] (562,516)<img  />
+완본체의 편견이 있었지만 아주 만족하며 샀다 ~
+후기
+얼마 전에 고사양 조립 게이밍 PC를 드디어 받았습니다. 몇 시간 써본 지금 느낌이 너무 좋아서 공유하고 싶네요.
+외관 & 조립 품질
+케이스 마감이 매우 깔끔하고 무광 블랙이라 고급스럽습니다. 데스크 위에 올려놔도 존재감이 확실해요.
+내부 부품 간 간섭 없이 깔끔하게 케이블 정리 되어 있어서, 통풍도 잘 되고 보기에도 좋습니다.
+조립할 때 쿨링 팬 소음도 생각보다 작고, RGB 조명 효과도 예쁘게 잘 조합되었어요.
+성능
+최신 AAA급 게임들 (예: Cyberpunk 2077, Elden Ring, Forza Horizon 등)을 울트라 옵션 또는 매우 높은 그래픽 설정에서 테스트했는데, 60fps 이상은 기본이고 흔들림 없이 안정적인 프레임 유지됩니다.
+4K 해상도 / 레이트레이싱 켜놓고도 프레임 끊김 없이 돌릴 수 있는 여유가 있어, 그래픽 품질에서 타협하지 않아도 된다는 게 정말 만족스럽네요.
+
+</current_dom>

@@ -1,0 +1,16 @@
+# Task Plan: Extract Product Information
+
+- [ ] Navigate to https://web.joongna.com/product/228244891
+- [ ] Extract Product Title
+- [ ] Extract Price
+- [ ] Extract CPU
+- [ ] Extract GPU
+- [ ] Extract RAM
+- [ ] Extract SSD/HDD capacity
+- [ ] Extract Mainboard
+- [ ] Extract Power Supply
+- [ ] Extract other relevant specs or notes
+
+## Notes
+- Target Product: https://web.joongna.com/product/228244891
+- Comparison items (mentioned by user): Mangwol-dong, https://web.joongna.com/product/228324710

@@ -1,0 +1,84 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (143,86)<a href='/' id='logo' />
+	[1] (143,58)<img  />
+[2] (64,174)<span >OAuth 2.0 />
+Playground
+[3] (242,175)<a class='op-button' id='resetAllSettings' />
+	[4] (242,173)<img  />
+[5] (813,175)<a class='op-button' id='helpButton' />
+	[6] (813,173)<img  />
+[7] (877,175)<a class='op-button' id='deeplinkButton' />
+	[8] (877,173)<img  />
+[9] (941,175)<a class='op-button' id='oauthConfigButton' />
+	[10] (941,173)<img  />
+[11] (183,262)<h3  />
+	[12] (11,261)<span  />
+	[13] (36,261)<span >Step 1 />
+	[14] (121,261)<span >Select & authorize APIs />
+Select the scope
+for the APIs you would like to access or input your own OAuth scopes below. Then
+click the "Authorize APIs" button
+.
+[15] (179,592)<ul class='op-menulist' id='apisSelect' scrollable='true' />
+	App Engine Admin API v1
+	App Hub API v1
+	Application Integration API v1
+	Apps Script API v1
+	Artifact Registry API v1
+	Assured Workloads API v1
+	Authorized Buyers Marketplace API v1
+	Backup and DR Service API v1
+	Backup for GKE API v1
+	[16] (165,430)<li  />
+		[17] (16,430)<span  />
+		[18] (30,431)<img  />
+		[19] (98,432)<span >Bare Metal Solution API v2 />
+	[20] (165,479)<li  />
+		[21] (16,479)<span  />
+		[22] (30,480)<img  />
+		[23] (68,481)<span >Batch API v1 />
+	[24] (165,528)<li  />
+		[25] (16,528)<span  />
+		[26] (30,529)<img  />
+		[27] (83,530)<span >BeyondCorp API v1 />
+	[28] (165,577)<li  />
+		[29] (16,577)<span  />
+		[30] (30,578)<img  />
+		[31] (73,579)<span >BigLake API v1 />
+	[32] (165,626)<li  />
+		[33] (16,626)<span  />
+		[34] (30,627)<img  />
+		[35] (76,628)<span >BigQuery API v2 />
+	[36] (165,675)<li  />
+		[37] (16,675)<span  />
+		[38] (30,676)<img  />
+		[39] (101,677)<span >BigQuery Connection API v1 />
+	[40] (165,724)<li  />
+		[41] (16,724)<span  />
+		[42] (30,725)<img  />
+		[43] (101,726)<span >BigQuery Data Policy API v2 />
+	[44] (165,773)<li >BigQuery Data Transfer API v1 />
+		[45] (16,773)<span  />
+		BigQuery Data Transfer API v1
+	BigQuery Reservation API v1
+	Binary Authorization API v1
+	Blockchain Node Engine API v1
+	Blogger API v3
+[46] (133,814)<input id='scopes' placeholder='Input your own scopes' />
+Authorize APIs
+[47] (183,889)<h3  />
+	[48] (11,889)<span  />
+	[49] (36,889)<span >Step 2 />
+	[50] (163,889)<span >Exchange authorization code for tokens />
+[51] (183,962)<h3  />
+	[52] (11,961)<span  />
+	[53] (36,961)<span >Step 3 />
+	[54] (124,961)<span >Configure request to API />
+Request / Response
+[55] (378,962)<input id='wrapLines' />
+[56] (411,963)<span >Wrap Lines />
+
+</current_dom>

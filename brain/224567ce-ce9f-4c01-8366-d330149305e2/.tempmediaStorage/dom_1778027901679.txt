@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (139,56)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (372,55)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='…을 사고 싶습니다.' role='searchbox' />
+[2] (526,58)<div  />
+	[3] (526,54)<img  />
+[4] (559,54)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[5] (642,55)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[6] (608,55)<span  />
+	[7] (653,55)<div  />
+		[8] (653,55)<b >AliExpress 앱을 다운로드하세요 />
+[9] (721,55)<div  />
+	[10] (721,55)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[11] (704,55)<span  />
+		[12] (731,55)<div  />
+			[13] (731,41)<span >KO
+/ />
+			[14] (731,64)<b >KRW />
+				[15] (740,63)<span  />
+[16] (803,55)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[17] (767,55)<span  />
+	[18] (814,55)<div  />
+		[19] (814,41)<span >환영합니다! />
+		[20] (814,64)<b  />
+			[21] (809,64)<span >로그인 / 회원가입 />
+			[22] (843,63)<span  />
+[23] (883,55)<div  />
+	[24] (885,55)<a aria-label='0 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[25] (870,55)<span  />
+		[26] (897,55)<div  />
+			[27] (897,37)<div  />
+				[28] (891,39)<span >0 />
+			[29] (897,65)<b >장바구니 />
+[30] (172,144)<div aria-label='모든 카테고리' class='Categoey--categoryTitle--_3bKGRN' role='button'>모든 카테고리 />
+	모든 카테고리
+[31] (331,144)<a class='fk_fm' href='https://www.aliexpress.com/ssr/300000422/KR-NEW-DeliveryCommitment?disableNav=YES&pha_manifest=ssr&_immersiveMode=true' />
+	[32] (286,144)<img  />
+	[33] (314,144)<p  />
+		[34] (314,146)<b >무료 배송 />
+	[35] (358,144)<div >첫 주문 상품 />
+[36] (482,144)<a class='fk_fm' href='https://www.aliexpress.com/ssr/300000422/KR-NEW-DeliveryCommitment?disableNav=YES&pha_manifest=ssr&_immersiveMode=true' />
+	[37] (427,144)<img  />
+	[38] (455,144)<p  />
+		[39] (455,146)<b >무료 반품 />
+	[40] (509,144)<div >90일 내 주문 상품 />
+[41] (638,144)<a class='fk_fm' href='https://www.aliexpress.com/ssr/300000422/KR-NEW-DeliveryCommitment?disableNav=YES&pha_manifest=ssr&_immersiveMode=true' />
+	[42] (589,144)<img  />
+	[43] (617,144)<p  />
+		[44] (617,146)<b >안심 결제 />
+	[45] (665,144)<div >개인 정보 보호 />
+[46] (812,144)<a class='fk_fm' href='https://www.aliexpress.com/ssr/300000422/KR-NEW-DeliveryCommitment?disableNav=YES&pha_manifest=ssr&_immersiveMode=true' />
+	[47] (738,144)<img  />
+	[48] (779,144)<p  />
+		[49] (779,146)<b >보안 & 개인정보 />
+	[50] (851,144)<div >안심하고 즐기는 쇼핑 />
+[51] (134,447)<a class='pf_ay' href='//www.aliexpress.com/ssr/300003014/KR5CDMainVenue?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=1ba2ea1c-2e6a-436b-9343-9204c7e96b72&productIds=5000000205618035' />
+	[52] (134,407)<span >₩23,000 할인 />
+	[53] (134,444)<span >₩200,000+ 구매 시 />
+	[54] (134,493)<div  />
+		[55] (134,493)<div  />
+			[56] (134,493)<span >코드：AEKZ16 />
+[57] (229,447)<a class='pf_ay' href='//www.aliexpress.com/ssr/300003014/KR5CDMainVenue?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=1ba2ea1c-2e6a-436b-9343-9204c7e96b72&productIds=5000000205609770' />
+	[58] (229,407)<span >₩15,000 할인 />
+	[59] (229,444)<span >₩125,000+ 구매 시 />
+	[60] (229,493)<div  />
+		[61] (229,493)<div  />
+			[62] (229,493)<span >코드：AEKZ10 />
+[63] (325,447)<a class='pf_ay' href='//www.aliexpress.com/ssr/300003014/KR5CDMainVenue?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=1ba2ea1c-2e6a-436b-9343-9204c7e96b72&productIds=5000000205612457' />
+	[64] (325,407)<span >₩6,000 할인 />
+	[65] (325,444)<span >₩50,000+ 구매 시 />
+	[66] (325,493)<div  />
+		[67] (325,493)<div  />
+			[68] (325,493)<span >코드：AEKZ04 />
+[69] (461,447)<a class='pb_a0' href='//www.aliexpress.com/ssr/300003014/5CD-bestsellers?productIds=1005009496438653&disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=1ba2ea1c-2e6a-436b-9343-9204c7e96b72' />
+	[70] (461,447)<div  />
+		[71] (422,447)<div  />
+		[72] (502,447)<div  />
+			[73] (488,400)<p >베스트셀러 />
+			[74] (489,493)<div  />
+				[75] (489,493)<span >₩32,123 />
+가정의 달
+₩1,504
+테크 라이프
+₩1,504
+베스트셀러
+₩32,123
+[76] (289,976)<div  />
+	[77] (178,976)<img  />
+	[78] (410,976)<div  />
+		[79] (399,976)<img  />
+		[80] (466,976)<img  />
+[81] (711,976)<div  />
+	[82] (595,976)<img  />
+	[83] (828,976)<div  />
+		[84] (818,976)<span >상품 3개 ₩1,000부터 />
+		[85] (888,976)<img  />
+
+</current_dom>

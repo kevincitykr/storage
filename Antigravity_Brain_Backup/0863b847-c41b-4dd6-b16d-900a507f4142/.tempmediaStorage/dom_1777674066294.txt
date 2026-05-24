@@ -1,0 +1,96 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+에누리
+[0] (134,125)<a href='https://www.danawa.com'>비교하고 잘 사는, 다나와 />
+	비교하고 잘 사는, 다나와
+	[1] (129,125)<img  />
+[2] (602,125)<fieldset >통합 검색 />
+	통합 검색
+	[3] (581,125)<input class='search__input search_ad' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[4] (809,125)<button class='search__submit'>검색 />
+		검색
+[5] (96,231)<button class='btn_cate_all btn_cate' />
+	[6] (89,230)<span >전체 카테고리 />
+[7] (100,309)<a class='category__list__btn' href='#categoryHoverLayer22' role='menuitem'>싱글라이프 />
+[8] (100,365)<a class='category__list__btn' href='#categoryHoverLayer10' role='menuitem'>가전 · TV />
+[9] (100,422)<a class='category__list__btn' href='#categoryHoverLayer11' role='menuitem'>컴퓨터 · 노트북 · 조립PC />
+[10] (100,478)<a class='category__list__btn' href='#categoryHoverLayer12' role='menuitem'>태블릿 · 모바일 · 디카 />
+[11] (100,534)<a class='category__list__btn' href='#categoryHoverLayer13' role='menuitem'>스포츠 · 골프 />
+[12] (100,591)<a class='category__list__btn' href='#categoryHoverLayer14' role='menuitem'>자동차 · 용품 · 공구 />
+[13] (100,647)<a class='category__list__btn' href='#categoryHoverLayer15' role='menuitem'>가구 · 조명 />
+[14] (100,704)<a class='category__list__btn' href='#categoryHoverLayer16' role='menuitem'>식품 · 유아 · 완구 />
+[15] (100,760)<a class='category__list__btn' href='#categoryHoverLayer17' role='menuitem'>생활 · 주방 · 건강 />
+[16] (100,817)<a class='category__list__btn' href='#categoryHoverLayer18' role='menuitem'>패션 · 잡화 · 뷰티 />
+[17] (100,873)<a class='category__list__btn' href='#categoryHoverLayer19' role='menuitem'>반려동물 · 취미 · 사무 />
+[18] (100,929)<a class='category__list__btn' href='#categoryHoverLayer21' role='menuitem'>로켓배송관 />
+[19] (240,231)<a class='link_nav' href='https://auto.danawa.com/?logger_kw=dnw_gnb_auto'>자동차 />
+[20] (311,231)<a class='link_nav' href='https://shop.danawa.com/shopmain/?logger_kw=dnw_gnb_pcmain'>조립PC />
+[21] (384,231)<a class='link_nav' href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_gnb_esti'>PC견적 />
+[22] (454,231)<a class='link_nav' href='https://review.danawa.com'>답나와 />
+	[23] (454,187)<span  />
+		[24] (454,187)<em >협찬 제로 리뷰 />
+[25] (542,231)<a class='link_nav' href='https://acc.danawa.com'>소모품 다나와 />
+[26] (643,231)<a class='link_nav' href='https://plan.danawa.com/?logger_kw=dnw_gnb_plan'>쇼핑기획전 />
+[27] (730,231)<a class='link_nav' href='https://dpg.danawa.com/bbs?logger_kw=dnw_gnb_dpg'>커뮤니티 />
+[28] (796,231)<a class='link_nav link_nav--event' href='https://event.danawa.com/?logger_kw=dnw_gnb_event'>이벤트 />
+/
+[29] (859,231)<a class='link_nav link_nav--experience' href='https://event.danawa.com/experience/?logger_kw=dnw_gnb_experience'>체험단 />
+[30] (923,231)<button class='btn_more' id='topMenu_moreButton'>서비스
+더보기 />
+	서비스
+[31] (602,309)<a href='https://white.contentsfeed.com/RealMedia/ads/click_lx.ads/www.danawa.com/new_main/L23/2094183186/x73/danawa/WideVu_TV_800142/WideVu_TV_800142_3.html/4f756d624b576e314a7a774143475348' />
+	[32] (602,399)<img  />
+[33] (273,586)<a href='https://dpg.danawa.com/news'>뉴스룸 />
+[34] (336,586)<a href='#' role='button'>주요이슈 />
+[35] (398,586)<a href='#' role='button'>컴퓨터 />
+[36] (448,586)<a href='#' role='button'>테크 />
+[37] (499,586)<a href='#' role='button'>자동차 />
+[38] (549,586)<a href='#' role='button'>게임 />
+[39] (605,586)<a href='#' role='button'>신상소식 />
+[40] (321,731)<a class='main-info__link' href='https://dpg.danawa.com/news/view?boardSeq=60&listSeq=6003241' />
+	[41] (321,714)<span  />
+	[42] (321,807)<span >더 뉴 그랜저 디자인 공개 />
+[43] (502,731)<a class='main-info__link' href='https://dpg.danawa.com/news/view?boardSeq=60&listSeq=6003253' />
+	[44] (502,714)<span  />
+	[45] (502,807)<span >1400마력 괴물 SUV 한국 온다 />
+[46] (684,731)<a class='main-info__link' href='https://dpg.danawa.com/news/view?boardSeq=64&listSeq=6002486' />
+	[47] (684,714)<span  />
+	[48] (684,807)<span >자존심 버렸나? 중국형 폭스바겐 />
+[49] (366,911)<a class='main-info__link' href='https://dpg.danawa.com/news/view?listSeq=6002476&boardSeq=64' />
+	[50] (280,911)<span  />
+	[51] (411,911)<span >주유소보다 더 빨리 충전하는 배터리 떴다ㄷㄷ />
+[52] (626,911)<a class='main-info__link' href='https://dpg.danawa.com/news/view?boardSeq=64&listSeq=6002480' />
+	[53] (551,911)<span  />
+	[54] (672,911)<span >벤츠의 중국 부자들 취향 저격 />
+현재
+4
+/
+전체
+6
+[55] (717,585)<button class='btn_prev' id='newsRoomPrevPage'>이전 />
+	이전
+[56] (736,585)<button class='btn_next' id='newsRoomNextPage'>다음 />
+	다음
+[57] (758,585)<button class='btn_stop' id='newsRoomAutoPlay'>자동재생 적용 />
+	자동재생 적용
+쇼핑노트
+[58] (1002,716)<a class='rb_anchor' href='https://g.tivan.naver.com/gfa/e_k7u7TgkFGIB-80OZ7c7O_n2bLt-Xc6QNuA-abH2MTOC6jzHNFQ_45VwAYN1Iau_B9e10IWWO0oNBt74prJeqbEK50p-N1g89TDby9p_wn-We18cCZhoWxp1f18e7ygG94RuAvMByTKHB6FXdvd9UCjdRIEXHkifyFBs_VnqxtWbgOWxow8TZ4jW1TIcAy9apvbAw5bEJRNEnlDJxJOVvEaGH-0CROY9IWdV--ZI5A10AOkE2yB08AsP9-E5Y1Y52B7nbw2S88hXxFHmswDeHqeaLVUeEcbxPmYBUSppPgS2AMEQlR1kjecy9H_01MREnwOZARPXVpuzOe6dmEKrHbBOECHq6CA_6bSsZnm5PtwaaCGHTYFJ6ea5jT3okW8S3JzLvond8OeXm0HLIzMRZgArctm2eV55iZFSrjqweEw8gtvk8nOOi2rGMZ-T2rplzkk4XTJkx77TAWjqXMHj1gdRIOJPpiWfE6Khl-R-PnDxE8BNba0FidAtQhIjjhmY8rgJawbCBvxC8ow_6_kE77aiDcfdULYPxjQ2FZ7IumWsIhEbsWdGkh6c6A8W-Xt7sfD5ghvLrgzjl8j1ncPfqLeB3v35mDK7roZCPsDAlawLl0joZWg_k0AiJyI3nDuYe-UwCSg-yAt-k7eUkVhQwUWTGr64gLdivZeuQbaUiKpmcx9zOWGxbPS653Gr3aN5gwywn6q1urKFsTIaffaW5Vwsym3WjrrfQ0tD7rAnY87Mf9oky2cdmOMzyiqaHwn-iY57r_yOiQku7oQ1uBnDfukFND4dgZyig34A8fGKl8ZVh0aoesfKwHtPbiyhiDV-NWICTZBL6AJTE4Tfdxl7fCkG2cYVObAWZk4oYvpMA5QHm6_SS_MX3I_1eCdTl5hVThpqx71QhcvhlzMnt5ya0cLyl9MwlBMF5KNJ3vq0t03g487d2JNJodqdLwqqK2xl8z5PI5bZuozipeV4zYE6wBA4HaMz7keC_RtbxHWggG2GhaqAypnuOaniQOJ_stJcs-AQhWhQ141cWQC1r_0qQrXuSVTscDgWLgADeQbEhRddcLLyt6-ZKUhOxGD8560p4s1OHypsPF4UwU4omWGqPI5S1IbjHE9t8HRCgFBkehovabhbTzXj76Zz2y2Al6msXRN3P_m3pPDSr8pCaJKpBgyXun7lo0IGE__uBvLph6d4frQ8YzbSYpCsI9rmCecrTW3kWFpQnJyOUg6OmCOaVsV1ELU0EKGbPxPzQWuszwsrfO7uGgIkGGG5qHz1zFb1rHZIImYMoviKBdigZWM3E6PRhQeU51cgLnj4HBe6fQ0V8uVjZCRkN3qyzjrrQ_CtHVd2lJkAK5CB5dpMPl8igTlWurDyURTboI4FL9_S1xaRyeDzf9oRvEgXDFTnwsc/' />
+	[59] (951,582)<strong >7호선 초역세권•3660세대 메가시티 />
+	[60] (1002,715)<div  />
+		[61] (909,715)<div  />
+			[62] (909,715)<img  />
+		[63] (1103,715)<div  />
+			[64] (1103,715)<p >일부 청약 미달 세대 선착순 참여 의향서 접수 개시 />
+	[65] (1002,848)<div  />
+		[66] (1002,848)<div  />
+			[67] (835,848)<div  />
+				[68] (835,848)<img  />
+			[69] (911,848)<span >옥정중앙역 디에트르 />
+			[70] (1119,848)<span >더 알아보기 />
+			[71] (1170,848)<span  />
+[72] (1186,560)<button class='ad_mark' />
+	[73] (1186,559)<span >AD />
+
+</current_dom>

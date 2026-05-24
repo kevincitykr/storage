@@ -1,0 +1,148 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,58)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjQ6JGi75uUAxU7iK8BHY15F_cQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,57)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,57)<div  />
+	[3] (455,57)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,57)<span  />
+	[5] (467,57)<span  />
+[6] (480,57)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,57)<span  />
+[8] (501,57)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,57)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,57)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,57)<div  />
+		[12] (542,57)<span  />
+[13] (929,57)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' role='button' />
+[14] (954,57)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,57)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D100%2BJPY%2Bto%2BKRW&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (131,125)<a class='XVMlrc C6AK7c' href='/search?q=100+JPY+to+KRW&sca_esv=c204b617a9d28c07&sxsrf=ANbL-n48Ma8nhujT6Q-cC-QecYbUxEIJvA:1777768371360&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reagiydoCDwj7fqEqsCP8c0tQ-xYNYFwdZWkfKfMuVtOIjrwu97VSz6oRdIeckdcoacGagvSQRBdQAZhrHx2h1QUa5fiKjI7YZ3X7WM5OqA_hNvM2EjVy8Vs6uIa6gSwhfNX8pAYRPVvTIZymqvoW0K8dpGkkhjzmmFJjr-CCpDrmMW3xZToKaLJY0P0ixIDjXEy5bzFQ&aep=1&ntc=1&sa=X&ved=2ahUKEwjQ6JGi75uUAxU7iK8BHY15F_cQ2J8OegQIERAD' />
+	[17] (131,125)<div  />
+		[18] (131,134)<div  />
+			[19] (131,128)<span  />
+				[20] (131,128)<span >AI 모드 />
+[21] (161,125)<a class='C6AK7c' role='link' />
+	전체
+[22] (187,125)<a class='C6AK7c' href='/finance?sca_esv=c204b617a9d28c07&output=search&q=100+JPY+to+KRW&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reagiydoCDwj7fqEqsCP8c0tQ-xYNYFwdZWkfKfMuVtOIjrwu97VSz6oRdIeckdcoacGagvSQRBdQAZhrHx2h1QUa5fiKjI7YZ3X7WM5OqA_hNvM2EjVy8Vs6uIa6gSwhfNX8pAYRPVvTIZymqvoW0K8dpGkkhjzmmFJjr-CCpDrmMW3xZToKaLJY0P0ixIDjXEy5bzFQ&sa=X&ved=2ahUKEwjQ6JGi75uUAxU7iK8BHY15F_cQ0pQJegQIFxAB' />
+	[23] (187,125)<div  />
+		[24] (187,134)<span >금융 />
+[25] (217,125)<a class='C6AK7c' href='/search?sca_esv=c204b617a9d28c07&sxsrf=ANbL-n48Ma8nhujT6Q-cC-QecYbUxEIJvA:1777768371360&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reagiydoCDwj7fqEqsCP8c0tQ-xYNYFwdZWkfKfMuVtOIjrwu97VSz6oRdIeckdcoacGagvSQRBdQAZhrHx2h1QUa5fiKjI7YZ3X7WM5OqA_hNvM2EjVy8Vs6uIa6gSwhfNX8pAYRPVvTIZymqvoW0K8dpGkkhjzmmFJjr-CCpDrmMW3xZToKaLJY0P0ixIDjXEy5bzFQ&q=100+JPY+to+KRW&sa=X&ved=2ahUKEwjQ6JGi75uUAxU7iK8BHY15F_cQtKgLegQIFBAB' />
+	[26] (217,125)<div  />
+		[27] (217,134)<span >이미지 />
+[28] (246,125)<a class='C6AK7c' href='/search?sca_esv=c204b617a9d28c07&sxsrf=ANbL-n48Ma8nhujT6Q-cC-QecYbUxEIJvA:1777768371360&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reagiydoCDwj7fqEqsCP8c0tQ-xYNYFwdZWkfKfMuVtOIjrwu97VSz6oRdIeckdcoacGagvSQRBdQAZhrHx2h1QUa5fiKjI7YZ3X7WM5OqA_hNvM2EjVy8Vs6uIa6gSwhfNX8pAYRPVvTIZymqvoW0K8dpGkkhjzmmFJjr-CCpDrmMW3xZToKaLJY0P0ixIDjXEy5bzFQ&q=100+JPY+to+KRW&ved=1t:220175&ictx=111' />
+	[29] (246,125)<div  />
+		[30] (246,134)<span >쇼핑 />
+[31] (272,125)<a class='C6AK7c' href='/search?sca_esv=c204b617a9d28c07&sxsrf=ANbL-n48Ma8nhujT6Q-cC-QecYbUxEIJvA:1777768371360&q=100+JPY+to+KRW&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reagiydoCDwj7fqEqsCP8c0tQ-xYNYFwdZWkfKfMuVtOIjrwu97VSz6oRdIeckdcoacGagvSQRBdQAZhrHx2h1QUa5fiKjI7YZ3X7WM5OqA_hNvM2EjVy8Vs6uIa6gSwhfNX8pAYRPVvTIZymqvoW0K8dpGkkhjzmmFJjr-CCpDrmMW3xZToKaLJY0P0ixIDjXEy5bzFQ&sa=X&ved=2ahUKEwjQ6JGi75uUAxU7iK8BHY15F_cQ0pQJegQIExAB' />
+	[32] (272,125)<div  />
+		[33] (272,134)<span >뉴스 />
+[34] (301,125)<a class='C6AK7c' href='/search?sca_esv=c204b617a9d28c07&sxsrf=ANbL-n48Ma8nhujT6Q-cC-QecYbUxEIJvA:1777768371360&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reagiydoCDwj7fqEqsCP8c0tQ-xYNYFwdZWkfKfMuVtOIjrwu97VSz6oRdIeckdcoacGagvSQRBdQAZhrHx2h1QUa5fiKjI7YZ3X7WM5OqA_hNvM2EjVy8Vs6uIa6gSwhfNX8pAYRPVvTIZymqvoW0K8dpGkkhjzmmFJjr-CCpDrmMW3xZToKaLJY0P0ixIDjXEy5bzFQ&q=100+JPY+to+KRW&sa=X&ved=2ahUKEwjQ6JGi75uUAxU7iK8BHY15F_cQtKgLegQIFRAB' />
+	[35] (301,125)<div  />
+		[36] (301,134)<span >동영상 />
+[37] (338,125)<div class='mTpL7c' role='button' />
+	[38] (338,125)<div  />
+		[39] (338,134)<div  />
+			[40] (334,128)<span >더보기 />
+			[41] (348,128)<span  />
+[42] (377,125)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[43] (377,125)<div  />
+		[44] (377,134)<div  />
+			[45] (372,128)<span >도구 />
+			[46] (384,128)<span  />
+검색결과
+환율 계산기
+100
+일본 엔
+=
+941.23
+대한민국 원
+5월 3일 오전 12:30 UTC ·
+[47] (202,292)<a href='https://www.google.com/intl/ko-KR/googlefinance/disclaimer/' />
+	[48] (202,292)<span >면책조항 />
+[49] (152,346)<input aria-label='통화 액수 입력란' class='lWzCpb ZEB7Fb' />
+[50] (233,346)<select aria-label='통화 유형' class='zuzy3c l84FKc' />
+일본 엔
+[51] (152,412)<input aria-label='통화 액수 입력란' class='lWzCpb a61j6' />
+[52] (233,412)<select aria-label='통화 유형' class='zuzy3c NKvwhd' />
+대한민국 원
+[53] (404,210)<div aria-label='공유' role='button' />
+	[54] (404,210)<div aria-label='공유' class='btku5b FR7ZSc OJeuxf' role='button' />
+		[55] (404,210)<div  />
+[56] (438,207)<div class='kBz3vd btku5b expUPd k1U36b' role='button' />
+	[57] (438,207)<div >팔로우 />
+		[58] (428,207)<span  />
+		팔로우
+[59] (314,283)<div class='QiGJYb PT927b' role='button' />
+	[60] (314,280)<div  />
+		[61] (314,280)<div  />
+			[62] (314,280)<div >1일 />
+[63] (339,283)<div class='QiGJYb PT927b' role='button' />
+	[64] (339,280)<div  />
+		[65] (339,280)<div  />
+			[66] (339,280)<div >5일 />
+[67] (364,283)<div class='QiGJYb fw-ch-sel PT927b' role='button' />
+	[68] (364,280)<div  />
+		[69] (364,280)<div  />
+			[70] (364,280)<div >1개월 />
+[71] (389,283)<div class='QiGJYb PT927b' role='button' />
+	[72] (389,280)<div  />
+		[73] (389,280)<div  />
+			[74] (389,280)<div >1년 />
+[75] (414,283)<div class='QiGJYb PT927b' role='button' />
+	[76] (414,280)<div  />
+		[77] (414,280)<div  />
+			[78] (414,280)<div >5년 />
+[79] (439,283)<div class='QiGJYb PT927b' role='button' />
+	[80] (439,280)<div  />
+		[81] (439,280)<div >최대 />
+9.2
+9.3
+9.4
+9.5
+[82] (355,499)<span >4월 13일 />
+[83] (409,499)<span >4월 24일 />
+[84] (290,555)<div  />
+	[85] (290,555)<a class='jRKCUd' href='https://www.google.com/finance/quote/JPY-KRW?sa=X&ved=2ahUKEwjQ6JGi75uUAxU7iK8BHY15F_cQmY0JegQIDRAz' />
+		[86] (290,555)<div  />
+			[87] (284,555)<span >JPY/KRW에 대해 자세히 알아보기 />
+			[88] (344,555)<span  />
+[89] (454,570)<div class='v8MW6c mWcf0e' role='button' />
+	[90] (454,570)<div  />
+		[91] (454,570)<span >의견 />
+관련 질문
+[92] (290,694)<div class='dnXCYb' role='button' />
+	How much is 100 yen in Korean?
+	[93] (290,694)<div  />
+[94] (290,752)<div class='dnXCYb' role='button' />
+	Is 100 yen a lot of money in Japan?
+	[95] (290,752)<div  />
+[96] (290,810)<div class='dnXCYb' role='button' />
+	Is KRW stronger than Jpy?
+	[97] (290,810)<div  />
+[98] (290,868)<div class='dnXCYb' role='button' />
+	How much is 1 jpy to 1 KRW?
+	[99] (290,868)<div  />
+Web results
+[100] (259,983)<a class='zReHs' href='https://wise.com/gb/currency-converter/jpy-to-krw-rate?amount=100'>100 Japanese yen to South Korean wons Exchange Rate. ... />
+	100 Japanese yen to South Korean wons Exchange Rate. ...
+	[101] (204,966)<div  />
+		[102] (204,966)<div  />
+			[103] (127,966)<span  />
+				[104] (127,966)<div  />
+					[105] (127,966)<img  />
+			[106] (215,966)<div  />
+				[107] (215,956)<div  />
+					[108] (215,956)<span >Wise />
+				[109] (215,977)<div  />
+					[110] (215,977)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://wise.com />
+						[111] (237,977)<span class='ylgVCe ob9lvb' role='text'>› currency-converter › jpy-to-krw-rate />
+[112] (299,976)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[113] (299,976)<span  />
+		[114] (299,977)<span  />
+
+</current_dom>

@@ -1,0 +1,62 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (170,56)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (588,55)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='블루트스 무선 이어폰' role='searchbox' />
+[2] (882,57)<div  />
+	[3] (882,54)<img  />
+[4] (933,54)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[5] (222,144)<div aria-label='모든 카테고리' class='Categoey--categoryTitle--_3bKGRN' role='button'>모든 카테고리 />
+	모든 카테고리
+[6] (464,144)<a class='g3_g5' href='https://www.aliexpress.com/ssr/300000422/KR-NEW-DeliveryCommitment?disableNav=YES&pha_manifest=ssr&_immersiveMode=true' />
+	[7] (431,144)<img  />
+	[8] (476,144)<p  />
+		[9] (476,145)<b >무료 배송 />
+[10] (669,144)<a class='g3_g5' href='https://www.aliexpress.com/ssr/300000422/KR-NEW-DeliveryCommitment?disableNav=YES&pha_manifest=ssr&_immersiveMode=true' />
+	[11] (637,144)<img  />
+	[12] (682,144)<p  />
+		[13] (682,145)<b >무료 반품 />
+[14] (875,144)<a class='g3_g5' href='https://www.aliexpress.com/ssr/300000422/KR-NEW-DeliveryCommitment?disableNav=YES&pha_manifest=ssr&_immersiveMode=true' />
+	[15] (843,144)<img  />
+	[16] (888,144)<p  />
+		[17] (888,145)<b >안심 결제 />
+세일 종료:
+4월 24일 23:59
+[18] (161,419)<a class='o8_ay' href='//www.aliexpress.com/ssr/300003013/brandday?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=c8b5ae9b-373a-45ce-8180-00892750c950&productIds=5000000205032451' />
+	[19] (161,375)<span >₩36,000 할인 />
+	[20] (161,409)<span >₩300,000+ 구매 시 />
+	[21] (161,455)<div  />
+		[22] (161,455)<div  />
+			[23] (161,455)<span >코드：BRAND36 />
+[24] (293,419)<a class='o8_ay' href='//www.aliexpress.com/ssr/300003013/brandday?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=c8b5ae9b-373a-45ce-8180-00892750c950&productIds=5000000205034461' />
+	[25] (293,375)<span >₩25,000 할인 />
+	[26] (293,409)<span >₩200,000+ 구매 시 />
+	[27] (293,455)<div  />
+		[28] (293,455)<div  />
+			[29] (293,455)<span >코드：BRAND25 />
+[30] (426,419)<a class='o8_ay' href='//www.aliexpress.com/ssr/300003013/brandday?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=c8b5ae9b-373a-45ce-8180-00892750c950&productIds=5000000205025524' />
+	[31] (426,375)<span >₩15,000 할인 />
+	[32] (426,409)<span >₩130,000+ 구매 시 />
+	[33] (426,455)<div  />
+		[34] (426,455)<div  />
+			[35] (426,455)<span >코드：BRAND15 />
+[36] (622,419)<a class='pc_a0' href='//www.aliexpress.com/ssr/300003013/paRchrMfwm?productIds=1005010615643347&disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=c8b5ae9b-373a-45ce-8180-00892750c950' />
+	[37] (622,419)<div  />
+		[38] (565,419)<div  />
+			[39] (565,419)<img  />
+		[40] (680,419)<div  />
+			[41] (673,372)<p >브랜드 모음전 />
+			[42] (663,465)<div  />
+				[43] (663,465)<span >₩14,462 />
+브랜드 특가전
+₩22,009
+[44] (365,931)<div  />
+	[45] (514,931)<div  />
+		[46] (498,931)<img  />
+		[47] (603,931)<img  />
+[48] (948,931)<div  />
+	[49] (805,931)<img  />
+	상품 3개 ₩1,000부터
+
+</current_dom>

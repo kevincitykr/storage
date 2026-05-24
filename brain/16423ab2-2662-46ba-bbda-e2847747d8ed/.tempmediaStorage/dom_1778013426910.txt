@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,46)<a class='link' href='https://www.naver.com' />
+	[1] (150,46)<i  />
+[2] (379,40)<fieldset  />
+	[3] (340,46)<input class='box_window' id='nx_query' placeholder='검색어를 입력해 주세요.' role='combobox' />
+	[4] (575,46)<button class='bt_search' />
+		[5] (572,46)<i  />
+	[6] (530,46)<a class='bt_setkr' href='#' id='ke_kbd_btn' role='button' />
+		[7] (528,46)<i  />
+	[8] (546,44)<a class='bt_atcp _btn_arw' href='#' id='nautocomplete' role='button' />
+		[9] (546,47)<i  />
+[10] (943,46)<a class='gnb_btn_login' href='https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fssc%3Dtab.cafe.all%26query%3D13700F%2B4070%2B150%25EB%25A7%258C%25EC%259B%2590%26nso%3Dso%253Add%252Cp%253Aall' id='gnb_login_button' />
+	[11] (943,46)<span >로그인 />
+[12] (975,45)<a class='gnb_service' href='javascript:;' />
+	[13] (975,46)<span  />
+[14] (348,136)<div class='api_flicking_wrap _conveyer_root' role='tablist' scrollable='true' />
+	[15] (154,136)<a class='tab' href='?ssc=tab.nx.all&where=nexearch&sm=tab_jum&query=13700F+4070+150%EB%A7%8C%EC%9B%90' role='tab' />
+		[16] (154,138)<i  />
+	[17] (194,136)<a class='tab' href='?ssc=tab.cafe.all&sm=tab_jum&query=13700F+4070+150%EB%A7%8C%EC%9B%90&nso=so%3Add%2Cp%3Aall' role='tab'>카페 />
+		[18] (182,138)<i  />
+	[19] (244,136)<a class='tab' href='?ssc=tab.blog.all&sm=tab_jum&query=13700F+4070+150%EB%A7%8C%EC%9B%90&nso=so%3Add%2Cp%3Aall' role='tab'>블로그 />
+	[20] (293,136)<a class='tab' href='?ssc=tab.image.all&where=image&sm=tab_jum&query=13700F+4070+150%EB%A7%8C%EC%9B%90&nso=so%3Add%2Cp%3Aall' role='tab'>이미지 />
+	[21] (336,136)<a class='tab' href='?ssc=tab.clip.all&sm=tab_jum&query=13700F+4070+150%EB%A7%8C%EC%9B%90&nso=so%3Add%2Cp%3Aall' role='tab'>클립 />
+	[22] (380,136)<a class='tab' href='?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=13700F+4070+150%EB%A7%8C%EC%9B%90&nso=so%3Add%2Cp%3Aall' role='tab'>지식iN />
+	[23] (437,136)<a class='tab' href='?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=13700F+4070+150%EB%A7%8C%EC%9B%90&nso=so%3Add%2Cp%3Aall' role='tab'>인플루언서 />
+	[24] (495,136)<a class='tab' href='?ssc=tab.video.all&where=video&sm=tab_jum&query=13700F+4070+150%EB%A7%8C%EC%9B%90&nso=so%3Add%2Cp%3Aall' role='tab'>동영상 />
+	쇼핑
+	뉴스
+	숏텐츠
+	어학사전
+	지도
+	도서
+	지식백과
+	학술정보
+[25] (542,136)<a class='btn' href='#' role='button' />
+	[26] (542,136)<span  />
+		[27] (543,136)<i  />
+[28] (574,136)<a class='nav_more _more_btn' href='#' role='button' />
+	[29] (574,138)<i  />
+[30] (967,137)<a class='spnew2_bf bt_share naver-splugin' href='#' id='spiButton2' role='button'>공유 />
+13700F 4070 150만원 카페검색 결과
+[31] (499,235)<a class='item' href='?cafe_where=&prdtype=0&query=13700F+4070+150%EB%A7%8C%EC%9B%90&sm=mtb_opt&ssc=tab.cafe.all&st=rel&stnm=date' role='option'>관련도순 />
+[32] (548,235)<a class='item' href='?cafe_where=&prdtype=0&query=13700F+4070+150%EB%A7%8C%EC%9B%90&sm=mtb_opt&ssc=tab.cafe.all&st=date&stnm=date' role='option'>최신순 />
+[33] (169,235)<a aria-label='검색옵션 열기' class='btn_option _search_option_open_btn' href='javascript:;' role='button'>옵션 />
+	[34] (180,236)<i  />
+'13700F 4070 150만원'
+에 대한 검색결과가 없습니다.
+단어의 철자가 정확한지 확인해 주세요. 검색어를 줄이거나, 더 일반적인 검색어로 검색해 보세요.
+설정한 검색 조건이 있다면 일부 해제 하거나 변경해 보세요.
+찾으시는 검색결과가 없다면 아래 기능을 이용해 보세요.
+[35] (249,580)<a class='link' href='https://kin.naver.com/qna/questionForSearch.naver?title=13700F+4070+150%EB%A7%8C%EC%9B%90' />
+	[36] (165,579)<div  />
+		[37] (165,579)<i  />
+	[38] (265,580)<div  />
+		[39] (265,567)<div >지식iN에 질문하기 />
+		[40] (265,594)<div >궁금한 것은 지식iN에서 도움을 받아보세요 />
+[41] (226,656)<a class='link' href='https://help.naver.com/alias/search/integration/main.naver' />
+	[42] (165,656)<div  />
+		[43] (165,655)<i  />
+	[44] (241,656)<div  />
+		[45] (241,643)<div >검색 도움말 보기 />
+		[46] (241,670)<div >검색 고객센터를 확인해보세요 />
+[47] (747,272)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001' />
+	[48] (642,272)<div  />
+		[49] (642,272)<img  />
+	[50] (758,272)<div  />
+		[51] (758,259)<strong >좋아하는 건 누구나 남기고 싶으니까 />
+		[52] (758,285)<p >클립 올리면 매주 쌓이는 Npay 포인트 />
+[53] (747,373)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2604-shopping-004&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F69b749a21598d745dca2155c%3FlayerId%3DL_260324103322314%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2604-shopping-004' />
+	[54] (642,374)<div  />
+		[55] (642,374)<img  />
+	[56] (758,374)<div  />
+		[57] (758,361)<strong >가정의달+세일 />
+		[58] (758,386)<p >선물에 진심, 혜택에 진심 N+스토어 />
+[59] (747,475)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2509-shopping-007&target=https%3A%2F%2Fshopping.naver.com%2Fns%2Fhome%2Fkurlynmart%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2509-shopping-007' />
+	[60] (642,475)<div  />
+		[61] (642,475)<img  />
+	[62] (758,475)<div  />
+		[63] (758,462)<strong >네이버에서 컬리를 />
+		[64] (758,488)<p >멤버십 2만원 이상 무료배송 />
+[65] (747,577)<a class='spnew_bf item' href='https://naver.me/FWTmTscE' />
+	[66] (642,577)<div  />
+		[67] (642,577)<img  />
+	[68] (758,577)<div  />
+		[69] (758,564)<strong >네이버가 더 편해지는 순간 />
+		[70] (758,590)<p >웨일 브라우저 알아보기 />
+[71] (969,931)<a class='top' href='#' />
+	[72] (969,931)<i  />
+[73] (163,879)<a class='link' href='https://www.naver.com/more.html'>전체서비스 />
+[74] (212,879)<a class='link' href='https://policy.naver.com/policy/service.html'>이용약관 />
+[75] (274,879)<a class='link' href='https://policy.naver.com/policy/privacy.html' />
+	[76] (274,879)<strong >개인정보처리방침 />
+[77] (346,879)<a class='link' href='https://help.naver.com/alias/search/integration/main.naver'>검색 고객센터 />
+[78] (413,879)<a class='link' href='https://www.navercorp.com/' />
+	[79] (413,879)<i >© NAVER Corp. />
+
+</current_dom>

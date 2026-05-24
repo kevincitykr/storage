@@ -1,0 +1,42 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (87,91)<a class='d-l-none d-block navbar-brand' href='/' />
+	[1] (87,91)<img  />
+[2] (938,91)<button aria-label='Toggle navigation' class='ms-3 navbar-toggler collapsed' />
+	[3] (938,91)<span  />
+The simplest way to host & share your work online
+[4] (440,547)<input aria-label='Subdomain' class='tr-landing-domain-input form-control' placeholder='link-name' />
+[5] (681,547)<button class='dropdown-toggle btn btn-outline-primary' id='input-group-dropdown-2'>.tiiny.site />
+[6] (269,637)<button class='nav-link active' id='content-selector-tab-documents' role='tab' />
+	[7] (269,634)<div  />
+		[8] (269,634)<span  />
+			[9] (269,634)<span >Documents />
+[10] (364,636)<button class='nav-link' id='content-selector-tab-images' role='tab' />
+	[11] (364,636)<div  />
+		[12] (364,636)<span  />
+			[13] (364,636)<span >Images />
+[14] (439,636)<button class='nav-link' id='content-selector-tab-code' role='tab' />
+	[15] (439,636)<div  />
+		[16] (439,636)<span  />
+			[17] (439,636)<span >Code />
+[18] (531,636)<button class='nav-link' id='content-selector-tab-paste' role='tab' />
+	[19] (531,636)<div >Paste HTML />
+[20] (630,635)<button class='nav-link' id='content-selector-tab-more' role='tab' />
+	[21] (630,636)<div  />
+		[22] (630,636)<button class='nav-link p-0 border-0 shadow-none outline-none dropdown-toggle btn btn-link' id='react-aria535254512-2'>More />
+[23] (720,636)<button class='nav-link' id='content-selector-tab-examples' role='tab'>Examples />
+[24] (492,954)<div  />
+	[25] (492,835)<div  />
+		[26] (457,835)<img  />
+		[27] (492,835)<div  />
+		[28] (527,835)<img  />
+	[29] (492,958)<div >Drag & drop zip or
+single file here
+Upload file />
+		Drag & drop zip or
+		single file here
+		Upload file
+
+</current_dom>

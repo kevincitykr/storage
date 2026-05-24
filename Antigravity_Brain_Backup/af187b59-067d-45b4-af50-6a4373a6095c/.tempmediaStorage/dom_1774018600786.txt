@@ -1,0 +1,483 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,40)<button aria-label='Guide' class='style-scope yt-icon-button' id='button' />
+	[1] (35,40)<yt-icon  />
+		[2] (35,40)<span  />
+			[3] (35,40)<div  />
+[4] (113,40)<a aria-label='YouTube Home' class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='Meet the K-pop fan community' />
+	[5] (113,40)<ytd-yoodle-renderer  />
+		[6] (113,40)<picture  />
+			[7] (113,38)<img  />
+[8] (444,40)<div  />
+	[9] (451,40)<form  />
+		[10] (451,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='Search' role='combobox' />
+[11] (668,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='Search' />
+	[12] (668,40)<span  />
+		[13] (668,40)<span  />
+			[14] (668,40)<div  />
+[15] (733,40)<button aria-label='Search with your voice' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (733,40)<yt-touch-feedback-shape  />
+		[17] (733,40)<div  />
+[18] (811,40)<button aria-label='Create' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Create
+	[19] (811,40)<yt-touch-feedback-shape  />
+		[20] (811,40)<div  />
+[21] (885,40)<button aria-label='Notifications' class='style-scope yt-icon-button' id='button' />
+	[22] (885,38)<yt-icon-badge-shape  />
+		[23] (885,40)<div  />
+			[24] (885,40)<div  />
+				[25] (885,40)<span  />
+					[26] (885,40)<span  />
+						[27] (885,40)<div  />
+[28] (941,40)<button aria-label='Account menu' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[29] (941,40)<yt-img-shadow  />
+		[30] (941,40)<img  />
+영식이는 제가 만든 안티그래비티(AI 에이전트 개발 플랫폼)의 스킬과
+[31] (324,525)<div  />
+	[32] (324,525)<div aria-label='Seek slider' class='ytp-progress-bar' role='slider' />
+		[33] (44,518)<div  />
+		[34] (79,518)<div  />
+		[35] (120,518)<div  />
+		[36] (205,518)<div  />
+		[37] (297,518)<div  />
+		[38] (358,518)<div  />
+		[39] (402,518)<div  />
+		[40] (428,518)<div  />
+		[41] (464,518)<div  />
+		[42] (525,518)<div  />
+		[43] (591,518)<div  />
+		[44] (324,525)<div  />
+		[45] (36,525)<div  />
+			[46] (36,525)<div  />
+[47] (46,569)<button aria-label='Pause (k)' class='ytp-play-button ytp-button' />
+[48] (97,569)<button aria-label='Mute (m)' class='ytp-volume-icon ytp-button' />
+[49] (175,569)<div  />
+	[50] (175,569)<div  />
+		[51] (175,569)<div aria-label='0 Minutes 49 Seconds of 13 Minutes 58 Seconds' class='ytp-time-contents' role='button' />
+			[52] (152,568)<span  />
+			[53] (172,568)<span  />
+			[54] (195,568)<span  />
+[55] (306,569)<button class='ytp-chapter-title ytp-button' />
+	[56] (296,569)<div  />
+	[57] (352,568)<div  />
+[58] (409,569)<button aria-label='Autoplay is on' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[59] (409,569)<div  />
+		[60] (409,569)<div  />
+[61] (456,569)<button aria-label='Subtitles/closed captions unavailable' class='ytp-subtitles-button ytp-button' />
+	[62] (456,586)<div  />
+[63] (502,569)<button aria-label='Settings' class='ytp-button ytp-settings-button' />
+[64] (548,569)<button aria-label='Theater mode (t)' class='ytp-size-button ytp-button' />
+[65] (595,569)<button aria-label='Full screen (f)' class='ytp-fullscreen-button ytp-button' />
+구글 최신 영상 AI로 자동으로 운영되는 '무인 커머스 채널'을 만들었습니다
+[66] (41,707)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@CONNECT-AI-LAB' />
+	[67] (35,706)<yt-img-shadow  />
+		[68] (35,706)<img  />
+[69] (127,694)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@CONNECT-AI-LAB'>CONNECT AI LAB />
+98.5K subscribers
+[70] (238,707)<button aria-label='Join this channel' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Join
+	[71] (238,707)<yt-touch-feedback-shape  />
+		[72] (238,707)<div  />
+[73] (320,707)<button aria-label='Subscribe to CONNECT AI LAB.' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Subscribe
+	[74] (320,707)<yt-touch-feedback-shape  />
+		[75] (320,707)<div  />
+[76] (54,780)<button aria-label='like this video along with 153 other people' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--segmented-start yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	6
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	5
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	[77] (54,780)<yt-touch-feedback-shape  />
+		[78] (54,780)<div  />
+[79] (118,780)<button aria-label='Dislike this video' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[80] (118,780)<yt-touch-feedback-shape  />
+		[81] (118,780)<div  />
+[82] (195,780)<button aria-label='Share' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Share />
+	Share
+	[83] (195,780)<yt-touch-feedback-shape  />
+		[84] (195,780)<div  />
+[85] (286,780)<button aria-label='Ask' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Ask />
+	Ask
+	[86] (286,780)<yt-touch-feedback-shape  />
+		[87] (286,780)<div  />
+[88] (374,780)<button aria-label='Save to playlist' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Save />
+	Save
+	[89] (374,780)<yt-touch-feedback-shape  />
+		[90] (374,780)<div  />
+[91] (480,780)<button aria-label='Download' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	Download
+	[92] (480,780)<yt-touch-feedback-shape  />
+		[93] (480,780)<div  />
+[94] (562,780)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[95] (562,780)<yt-touch-feedback-shape  />
+		[96] (562,780)<div  />
+[97] (324,897)<div  />
+	[98] (324,897)<div  />
+		[99] (324,854)<ytd-watch-info-text  />
+			[100] (324,854)<div  />
+				[101] (66,854)<div  />
+					[102] (44,854)<yt-animated-rolling-number  />
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						[103] (31,855)<div >1 />
+						2
+						3
+						4
+						5
+						6
+						[104] (36,854)<div >, />
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						2
+						3
+						4
+						5
+						[105] (42,855)<div >6 />
+						7
+						8
+						9
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						2
+						3
+						4
+						[106] (50,855)<div >5 />
+						6
+						7
+						8
+						9
+						1
+						2
+						3
+						4
+						5
+						6
+						7
+						8
+						9
+						0
+						1
+						[107] (57,854)<div >2 />
+						3
+						4
+						5
+						6
+						7
+					[108] (83,854)<yt-formatted-string >views />
+				[109] (145,854)<div  />
+					[110] (109,854)<yt-animated-rolling-number  />
+						1
+						2
+						[111] (109,854)<div >3 />
+						4
+						5
+						6
+						7
+						8
+					[112] (149,854)<yt-formatted-string >hours ago />
+				[113] (216,854)<yt-formatted-string >3 products />
+		[114] (324,911)<ytd-text-inline-expander  />
+			[115] (324,911)<div >… />
+				💡 상위 1% 인공지능 1인 기업은 내 시간을 쓰지 않습니다. 일하는 '에이전트'를 소유할 뿐입니다.
+
+1편: 음악 에이전트(루나),
+				[116] (170,939)<span  />
+				…
+			[117] (193,939)<tp-yt-paper-button class='button style-scope ytd-text-inline-expander' id='expand' role='button'>...more />
+[118] (668,131)<button class='ytChipShapeButtonReset' role='tab' />
+	[119] (668,131)<div >All />
+		All
+		[120] (668,131)<yt-touch-feedback-shape  />
+			[121] (668,131)<div  />
+[122] (777,131)<button class='ytChipShapeButtonReset' role='tab' />
+	[123] (777,131)<div >From CONNECT AI LAB />
+		From CONNECT AI LAB
+		[124] (777,131)<yt-touch-feedback-shape  />
+			[125] (777,131)<div  />
+[126] (900,131)<button class='ytChipShapeButtonReset' role='tab' />
+	[127] (900,131)<div >Google />
+		Google
+		[128] (900,131)<yt-touch-feedback-shape  />
+			[129] (900,131)<div  />
+Intelligence
+[130] (947,133)<button aria-label='Next' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[131] (947,133)<yt-touch-feedback-shape  />
+		[132] (947,133)<div  />
+[133] (730,288)<div  />
+	[134] (730,288)<ad-image-view-model  />
+		[135] (730,288)<div  />
+			[136] (730,288)<img  />
+[137] (894,235)<feed-ad-metadata-view-model  />
+	[138] (894,235)<div  />
+		[139] (883,197)<span  />
+			[140] (878,197)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[141] (878,197)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CeL1yqV-9af6DMfi9vcAPnvSM-AXZhYDuhQGxps-omRXa2R4QASAAYJvLgo-4KYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAG_grmBKakCS5wKX6PtBj6oAwTIAwqqBOMCT9Bx4GhniV8TKBDuSzAwkzDzdZjqex_ZPidJlCqra9UvKuoXKUJAO88XvFaOEk9Sj7WdZ3oSfYHimnMzwtuaE5ZObe9GwVxd4JaqnTNLxagYQCqlzIPzpnxXfHfRDtIc1M3zOrYteDPof4hlWkLS1k1HBCj5bhpfo6y_7p9sXy5xHf0WxSRUpg5QiiJ604_0OjR1q0CSpNL3tlqHw9rdVK6rG0dLUUK7MJggA0VsY3gALn31kaJOEKofJU1CMDVlo3eudOnKbrRephB4Gpasd5gODc0NSXlowNTmMH0_vNrZif9DCd_CyzoX2U0IMKQt7sCEWsR_qAxNN3rfx-aimD67oZj7uGcOrjIDcA6ejK2N-NdtSHj2NNe4vVLeicL0N4bQ20C02iacRXLz0uGMuFINMA_bGhLvL5cQmFRVTplY_BxIb-_g6_O9Uu4LA5ilAy5jNVf2qetA22VtjAMYoWukT4gFgufoj1iSBQoIE2gCeJy064cEoAZugAe_uonhA4gHAZAHAqgH8sCxAqgH8rSxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHgcOxAqgH-L-xAqgHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHndexAqgH9JmxAqgH-L-xAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKwCAzSCDEIgICAgAQQAhhaMgKABDoRj9iAgICABMC7gICA2ICAAipI2aDSNVAUWMDi0ufdrpMD8ggfY2EteXQtaG9zdC1wdWItMzYwMDEwODU4OTkwOTE5MZoJL2h0dHBzOi8vb3pjb2RpbmdzY2hvb2wuY29tL296Y29kaW5nL2dhbWVkZXZjYW1wsQlknX7S9wHUC8gJAMgJigKYCwGhC9l5b4iFZB0SugtoCAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiAS0KGyAD2rgEFTITOhEKDygwSKP2wvSDGpgZAbggAVgBcAGAAQHQAQGoAgXAAgKoAQHYAQGAAgGIAgW6Awl2aXRwZXphYWHQCxKiDAgqBgoE1tqxAtIMBAgBEAHaDCUKChDwvIzO7MTE7BgSAgEDGg0Ygufoj1gggeaq-NAFQAFKAhAfmg0BEqoNAktSyA0B0g2eA2h0dHBzOi8vb3pjb2RpbmdzY2hvb2wuY29tL296Y29kaW5nL2dhbWVkZXZjYW1wP21hcmtldGluZ19jaGFubmVsPWRlbWFuZCZ1dG1fc291cmNlPWRlbWFuZCZ1dG1fbWVkaXVtPWRhJnV0bV9jYW1wYWlnbj0lRUElQjIlOEMlRUMlOUUlODQlRUElQjAlOUMlRUIlQjAlOUNfJUVCJTk0JTk0JUVCJUE5JTk4JUVCJTkzJTlDJUVDJUEwJUEwXzI2MDMxMyZ1dG1fY29udGVudD0yNjAzMDlfZ2FtZV9zdGVwMV9tMTgzNCZ1dG1fdGVybT0lRUIlODUlQjglRUQlOEElQjglRUIlQjYlODEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNjU1NDk0NTMwJndicmFpZD1Da1VLQ1Fqd3ZlN05CaEQ0QVJJMEFQNmZCUDA3QWdkS2VoMTBISjFIYkFLQWRSZ3VrU0VFZkpkR1RmMFY1ZENDXzlDUjc5d0gxZXlaSzBZRkxYTWFYLTJlVWhvQ3Zub7gT____________AbAUAcAVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXw8zA8QA5tgy6FwoQASgAMAE4AUgB0BgB8BgBgBkDwhkCCAE&ase=2&gclid=Cj0KCQjw4PPNBhD8ARIsAMo-icxbP5JuIKXHFt328pzYY2zvGbnIMpc6dnfMW4yf0w9SK1tqubp6PRwaAmUzEALw_wcB&num=1&cid=CAESpQHg9mvYxqqNVIZ6ZEpvnwkcArhJKMe-O-jGvHYwpV5ynxtYbwzWUOlUnqk_zHuEP0QHFFig_1aYzhuSLftgEL-kQLMVZBvhO_emV9LDBexEH_b3JcS-qDBI7RrrLP6CYiB9LCBD-HObSkyXZeHmee9gVTu6DTYsvsRmlczcgnkgkOczTScBwFHTCt2wkWMzTQAVa9XeeUJXjtyAS1QHLs_5pHWebAo&sig=AOD64_1jRvq6M-EhZi-eoax8bmf3HZmzqg&ms=%5BCLICK_MS%5D&nb=0&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>게이밍 노트북 지원받고 게임 출시까지 />
+		[142] (883,251)<span  />
+			[143] (880,251)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' />
+				[144] (880,251)<a class='yt-core-attributed-string__link yt-core-attributed-string__link--call-to-action-color yt-core-attributed-string--link-inherit-color' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CeL1yqV-9af6DMfi9vcAPnvSM-AXZhYDuhQGxps-omRXa2R4QASAAYJvLgo-4KYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAG_grmBKakCS5wKX6PtBj6oAwTIAwqqBOMCT9Bx4GhniV8TKBDuSzAwkzDzdZjqex_ZPidJlCqra9UvKuoXKUJAO88XvFaOEk9Sj7WdZ3oSfYHimnMzwtuaE5ZObe9GwVxd4JaqnTNLxagYQCqlzIPzpnxXfHfRDtIc1M3zOrYteDPof4hlWkLS1k1HBCj5bhpfo6y_7p9sXy5xHf0WxSRUpg5QiiJ604_0OjR1q0CSpNL3tlqHw9rdVK6rG0dLUUK7MJggA0VsY3gALn31kaJOEKofJU1CMDVlo3eudOnKbrRephB4Gpasd5gODc0NSXlowNTmMH0_vNrZif9DCd_CyzoX2U0IMKQt7sCEWsR_qAxNN3rfx-aimD67oZj7uGcOrjIDcA6ejK2N-NdtSHj2NNe4vVLeicL0N4bQ20C02iacRXLz0uGMuFINMA_bGhLvL5cQmFRVTplY_BxIb-_g6_O9Uu4LA5ilAy5jNVf2qetA22VtjAMYoWukT4gFgufoj1iSBQoIE2gCeJy064cEoAZugAe_uonhA4gHAZAHAqgH8sCxAqgH8rSxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHgcOxAqgH-L-xAqgHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHndexAqgH9JmxAqgH-L-xAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKwCAzSCDEIgICAgAQQAhhaMgKABDoRj9iAgICABMC7gICA2ICAAipI2aDSNVAUWMDi0ufdrpMD8ggfY2EteXQtaG9zdC1wdWItMzYwMDEwODU4OTkwOTE5MZoJL2h0dHBzOi8vb3pjb2RpbmdzY2hvb2wuY29tL296Y29kaW5nL2dhbWVkZXZjYW1wsQlknX7S9wHUC8gJAMgJigKYCwGhC9l5b4iFZB0SugtoCAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiAS0KGyAD2rgEFTITOhEKDygwSKP2wvSDGpgZAbggAVgBcAGAAQHQAQGoAgXAAgKoAQHYAQGAAgGIAgW6Awl2aXRwZXphYWHQCxKiDAgqBgoE1tqxAtIMBAgBEAHaDCUKChDwvIzO7MTE7BgSAgEDGg0Ygufoj1gggeaq-NAFQAFKAhAfmg0BEqoNAktSyA0B0g2eA2h0dHBzOi8vb3pjb2RpbmdzY2hvb2wuY29tL296Y29kaW5nL2dhbWVkZXZjYW1wP21hcmtldGluZ19jaGFubmVsPWRlbWFuZCZ1dG1fc291cmNlPWRlbWFuZCZ1dG1fbWVkaXVtPWRhJnV0bV9jYW1wYWlnbj0lRUElQjIlOEMlRUMlOUUlODQlRUElQjAlOUMlRUIlQjAlOUNfJUVCJTk0JTk0JUVCJUE5JTk4JUVCJTkzJTlDJUVDJUEwJUEwXzI2MDMxMyZ1dG1fY29udGVudD0yNjAzMDlfZ2FtZV9zdGVwMV9tMTgzNCZ1dG1fdGVybT0lRUIlODUlQjglRUQlOEElQjglRUIlQjYlODEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNjU1NDk0NTMwJndicmFpZD1Da1VLQ1Fqd3ZlN05CaEQ0QVJJMEFQNmZCUDA3QWdkS2VoMTBISjFIYkFLQWRSZ3VrU0VFZkpkR1RmMFY1ZENDXzlDUjc5d0gxZXlaSzBZRkxYTWFYLTJlVWhvQ3Zub7gT____________AbAUAcAVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXw8zA8QA5tgy6FwoQASgAMAE4AUgB0BgB8BgBgBkDwhkCCAE&ase=2&gclid=Cj0KCQjw4PPNBhD8ARIsAMo-icxbP5JuIKXHFt328pzYY2zvGbnIMpc6dnfMW4yf0w9SK1tqubp6PRwaAmUzEALw_wcB&num=1&cid=CAESpQHg9mvYxqqNVIZ6ZEpvnwkcArhJKMe-O-jGvHYwpV5ynxtYbwzWUOlUnqk_zHuEP0QHFFig_1aYzhuSLftgEL-kQLMVZBvhO_emV9LDBexEH_b3JcS-qDBI7RrrLP6CYiB9LCBD-HObSkyXZeHmee9gVTu6DTYsvsRmlczcgnkgkOczTScBwFHTCt2wkWMzTQAVa9XeeUJXjtyAS1QHLs_5pHWebAo&sig=AOD64_1jRvq6M-EhZi-eoax8bmf3HZmzqg&ms=%5BCLICK_MS%5D&nb=7&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D'>초보에서 장인까지 실력상승 게임개발캠프 />
+		[145] (883,289)<div  />
+			[146] (852,289)<ad-badge-view-model  />
+				[147] (852,289)<badge-shape  />
+					[148] (847,289)<div >Sponsored />
+			[149] (916,289)<ad-details-line-view-model  />
+				[150] (916,289)<span class='yt-core-attributed-string ytwAdDetailsLineViewModelHostTextStyleStandard yt-core-attributed-string--white-space-pre-wrap' role='text'>오즈코딩스쿨 />
+	[151] (962,185)<div  />
+		[152] (962,185)<button-view-model  />
+			[153] (962,185)<button aria-label='My Ad Center' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+				[154] (962,185)<yt-touch-feedback-shape  />
+					[155] (962,185)<div  />
+[156] (879,382)<a aria-label='자세히 알아보기' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='https://www.googleadservices.com/pagead/aclk?sa=L&ai=CeL1yqV-9af6DMfi9vcAPnvSM-AXZhYDuhQGxps-omRXa2R4QASAAYJvLgo-4KYIBF2NhLXB1Yi02MjE5ODExNzQ3MDQ5MzcxoAG_grmBKakCS5wKX6PtBj6oAwTIAwqqBOMCT9Bx4GhniV8TKBDuSzAwkzDzdZjqex_ZPidJlCqra9UvKuoXKUJAO88XvFaOEk9Sj7WdZ3oSfYHimnMzwtuaE5ZObe9GwVxd4JaqnTNLxagYQCqlzIPzpnxXfHfRDtIc1M3zOrYteDPof4hlWkLS1k1HBCj5bhpfo6y_7p9sXy5xHf0WxSRUpg5QiiJ604_0OjR1q0CSpNL3tlqHw9rdVK6rG0dLUUK7MJggA0VsY3gALn31kaJOEKofJU1CMDVlo3eudOnKbrRephB4Gpasd5gODc0NSXlowNTmMH0_vNrZif9DCd_CyzoX2U0IMKQt7sCEWsR_qAxNN3rfx-aimD67oZj7uGcOrjIDcA6ejK2N-NdtSHj2NNe4vVLeicL0N4bQ20C02iacRXLz0uGMuFINMA_bGhLvL5cQmFRVTplY_BxIb-_g6_O9Uu4LA5ilAy5jNVf2qetA22VtjAMYoWukT4gFgufoj1iSBQoIE2gCeJy064cEoAZugAe_uonhA4gHAZAHAqgH8sCxAqgH8rSxAqgHuMSxAqgH4baxAqgHpc-xAqgH552xAqgH6J2xAqgH77WxAqgH8LWxAqgH-dOxAqgHydqxAqgHqeCxAqgHhAioB6bUsQKoB6jSG6gHtgeoB7HcG6gHgcOxAqgH-L-xAqgHsJuxAqgHrrGxAqgH5ryxAqgHyrqxAqgH_bKxAqgH97ixAqgH-LixAqgHyM-xAqgHyc-xAqgHzcexAqgH8dGxAqgH_NWxAqgH-9WxAqgHjNaxAqgHi9axAqgHndexAqgH9JmxAqgH-L-xAqgHndSxAqgHgcYbqAf8r7ECqAerxRuoB7ehsQKoB9WpsQKoB961sQKoB-qxsQKoB763sQKoB5m1sQKoB4XBsQKoB-ulsQKoB8qpsQKwCAzSCDEIgICAgAQQAhhaMgKABDoRj9iAgICABMC7gICA2ICAAipI2aDSNVAUWMDi0ufdrpMD8ggfY2EteXQtaG9zdC1wdWItMzYwMDEwODU4OTkwOTE5MZoJL2h0dHBzOi8vb3pjb2RpbmdzY2hvb2wuY29tL296Y29kaW5nL2dhbWVkZXZjYW1wsQlknX7S9wHUC8gJAMgJigKYCwGhC9l5b4iFZB0SugtoCAEQBRgEIAgoATAaQAFIAFABWAFgAGgAcAGIAQCYAQGiAS0KGyAD2rgEFTITOhEKDygwSKP2wvSDGpgZAbggAVgBcAGAAQHQAQGoAgXAAgKoAQHYAQGAAgGIAgW6Awl2aXRwZXphYWHQCxKiDAgqBgoE1tqxAtIMBAgBEAHaDCUKChDwvIzO7MTE7BgSAgEDGg0Ygufoj1gggeaq-NAFQAFKAhAfmg0BEqoNAktSyA0B0g2eA2h0dHBzOi8vb3pjb2RpbmdzY2hvb2wuY29tL296Y29kaW5nL2dhbWVkZXZjYW1wP21hcmtldGluZ19jaGFubmVsPWRlbWFuZCZ1dG1fc291cmNlPWRlbWFuZCZ1dG1fbWVkaXVtPWRhJnV0bV9jYW1wYWlnbj0lRUElQjIlOEMlRUMlOUUlODQlRUElQjAlOUMlRUIlQjAlOUNfJUVCJTk0JTk0JUVCJUE5JTk4JUVCJTkzJTlDJUVDJUEwJUEwXzI2MDMxMyZ1dG1fY29udGVudD0yNjAzMDlfZ2FtZV9zdGVwMV9tMTgzNCZ1dG1fdGVybT0lRUIlODUlQjglRUQlOEElQjglRUIlQjYlODEmZ2FkX3NvdXJjZT0yJmdhZF9jYW1wYWlnbmlkPTIzNjU1NDk0NTMwJndicmFpZD1Da1VLQ1Fqd3ZlN05CaEQ0QVJJMEFQNmZCUDA3QWdkS2VoMTBISjFIYkFLQWRSZ3VrU0VFZkpkR1RmMFY1ZENDXzlDUjc5d0gxZXlaSzBZRkxYTWFYLTJlVWhvQ3Zub7gT____________AbAUAcAVgYCAQNAVAdgVAZgWAeIWAggBgBcBihcWCAMYASABKAEwATgBQAFIAVABWAFgAqAXAakXw8zA8QA5tgy6FwoQASgAMAE4AUgB0BgB8BgBgBkDwhkCCAE&ase=2&gclid=Cj0KCQjw4PPNBhD8ARIsAMo-icxbP5JuIKXHFt328pzYY2zvGbnIMpc6dnfMW4yf0w9SK1tqubp6PRwaAmUzEALw_wcB&num=1&cid=CAESpQHg9mvYxqqNVIZ6ZEpvnwkcArhJKMe-O-jGvHYwpV5ynxtYbwzWUOlUnqk_zHuEP0QHFFig_1aYzhuSLftgEL-kQLMVZBvhO_emV9LDBexEH_b3JcS-qDBI7RrrLP6CYiB9LCBD-HObSkyXZeHmee9gVTu6DTYsvsRmlczcgnkgkOczTScBwFHTCt2wkWMzTQAVa9XeeUJXjtyAS1QHLs_5pHWebAo&sig=AOD64_1jRvq6M-EhZi-eoax8bmf3HZmzqg&ms=%5BCLICK_MS%5D&nb=8&nx=%5BNX%5D&ny=%5BNY%5D&dim=%5BDIM%5D' />
+	자세히 알아보기
+	[157] (879,382)<yt-touch-feedback-shape  />
+		[158] (879,382)<div  />
+[159] (809,490)<div  />
+	[160] (734,490)<a class='yt-lockup-view-model__content-image' href='/watch?v=yaG5bCgRV5Q' />
+		[161] (730,486)<yt-thumbnail-view-model  />
+			[162] (730,486)<div  />
+				[163] (730,486)<img  />
+			[164] (730,536)<yt-thumbnail-bottom-overlay-view-model  />
+				[165] (788,536)<div  />
+					[166] (788,533)<yt-thumbnail-badge-view-model  />
+						[167] (788,533)<badge-shape  />
+							[168] (788,533)<div >17:40 />
+	[169] (894,490)<div  />
+		[170] (894,490)<yt-lockup-metadata-view-model  />
+			[171] (894,490)<div  />
+				[172] (894,447)<h3  />
+					[173] (894,447)<a aria-label='상위 1% 인공지능 기업은 '사람 말'로 명령하지 않습니다 (나노바나나2 이미지 자동화) 17 minutes' class='yt-lockup-metadata-view-model__title' href='/watch?v=yaG5bCgRV5Q' />
+						[174] (884,476)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>상위 1% 인공지능 기업은 '사람 말'로 명령하지 않습니다 (나노바나나2 이미지 자동화) />
+				[175] (894,518)<div  />
+					[176] (894,520)<yt-content-metadata-view-model  />
+						[177] (894,491)<div  />
+							[178] (864,491)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>CONNECT AI LAB />
+						[179] (894,520)<div  />
+							[180] (846,520)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>7.3K views />
+							[181] (880,520)<span >• />
+							[182] (910,520)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1 day ago />
+						[183] (894,548)<div  />
+							[184] (834,548)<div  />
+								[185] (834,548)<yt-badge-view-model  />
+									[186] (834,548)<badge-shape  />
+										[187] (834,548)<div >New />
+			[188] (962,436)<div  />
+				[189] (962,436)<button-view-model  />
+					[190] (962,436)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[191] (962,436)<yt-touch-feedback-shape  />
+							[192] (962,436)<div  />
+[193] (809,640)<div  />
+	[194] (734,640)<a class='yt-lockup-view-model__content-image' href='/watch?v=rnYVe5CgEMo' />
+		[195] (730,640)<yt-thumbnail-view-model  />
+			[196] (730,640)<div  />
+				[197] (730,640)<img  />
+			[198] (730,690)<yt-thumbnail-bottom-overlay-view-model  />
+				[199] (792,690)<div  />
+					[200] (792,687)<yt-thumbnail-badge-view-model  />
+						[201] (792,687)<badge-shape  />
+							[202] (792,687)<div >5:46 />
+	[203] (894,640)<div  />
+		[204] (894,629)<yt-lockup-metadata-view-model  />
+			[205] (884,629)<div  />
+				[206] (884,587)<h3  />
+					[207] (884,587)<a aria-label='우리은행 홍보 5 minutes, 46 seconds' class='yt-lockup-metadata-view-model__title' href='/watch?v=rnYVe5CgEMo' />
+						[208] (858,587)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>우리은행 홍보 />
+				[209] (884,644)<div  />
+					[210] (884,645)<yt-content-metadata-view-model  />
+						[211] (884,617)<div  />
+							[212] (835,617)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>김선태 />
+						[213] (884,645)<div  />
+							[214] (848,645)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>1.6M views />
+							[215] (882,645)<span >• />
+							[216] (918,645)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>5 hours ago />
+						[217] (884,673)<div  />
+							[218] (834,673)<div  />
+								[219] (834,673)<yt-badge-view-model  />
+									[220] (834,673)<badge-shape  />
+										[221] (834,673)<div >New />
+			[222] (962,589)<div  />
+				[223] (962,589)<button-view-model  />
+					[224] (962,589)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[225] (962,589)<yt-touch-feedback-shape  />
+							[226] (962,589)<div  />
+[227] (809,789)<div  />
+	[228] (734,789)<a class='yt-lockup-view-model__content-image' href='/watch?v=C23moDsX274' />
+		[229] (730,785)<yt-thumbnail-view-model  />
+			[230] (730,785)<div  />
+				[231] (730,785)<img  />
+			[232] (730,836)<yt-thumbnail-bottom-overlay-view-model  />
+				[233] (784,836)<div  />
+					[234] (784,833)<yt-thumbnail-badge-view-model  />
+						[235] (784,833)<badge-shape  />
+							[236] (784,833)<div >1:30:38 />
+	[237] (894,789)<div  />
+		[238] (894,789)<yt-lockup-metadata-view-model  />
+			[239] (894,789)<div  />
+				[240] (894,747)<h3  />
+					[241] (894,747)<a aria-label='Nathan Labenz: Why Transformative AI is Coming With or Without New Breakthroughs. 1 hour, 30 minutes' class='yt-lockup-metadata-view-model__title' href='/watch?v=C23moDsX274' />
+						[242] (882,789)<span class='yt-core-attributed-string yt-core-attributed-string--white-space-pre-wrap' role='text'>Nathan Labenz: Why Transformative AI is Coming With or Without New Breakthroughs. />
+				[243] (894,818)<div  />
+					[244] (894,819)<yt-content-metadata-view-model  />
+						[245] (894,791)<div  />
+							[246] (881,791)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>The Intelligence Horizon />
+						[247] (894,819)<div  />
+							[248] (841,819)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>18 views />
+							[249] (869,819)<span >• />
+							[250] (908,819)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>13 hours ago />
+						[251] (894,848)<div  />
+							[252] (834,848)<div  />
+								[253] (834,848)<yt-badge-view-model  />
+									[254] (834,848)<badge-shape  />
+										[255] (834,848)<div >New />
+			[256] (962,735)<div  />
+				[257] (962,735)<button-view-model  />
+					[258] (962,735)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[259] (962,735)<yt-touch-feedback-shape  />
+							[260] (962,735)<div  />
+[261] (809,939)<div  />
+	[262] (734,939)<a class='yt-lockup-view-model__content-image' href='/watch?v=iDEEyCMSYMc' />
+		[263] (730,939)<yt-thumbnail-view-model  />
+			[264] (730,939)<div  />
+				[265] (730,939)<img  />
+			[266] (730,989)<yt-thumbnail-bottom-overlay-view-model  />
+				[267] (784,989)<div  />
+					[268] (784,986)<yt-thumbnail-badge-view-model  />
+						[269] (784,986)<badge-shape  />
+							[270] (770,986)<div  />
+								[271] (770,986)<span  />
+									[272] (770,986)<div  />
+							[273] (791,986)<div >LIVE />
+	[274] (894,939)<div  />
+		[275] (894,929)<yt-lockup-metadata-view-model  />
+			[276] (894,929)<div  />
+				[277] (894,900)<h3  />
+					[278] (894,900)<a aria-label='𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 틀자마자 성수동 카페, 24시간 느좋 팝송 플레이리스트 🎧 공부·집중·작업용 음악 | 24/7 LIVE Cozy Winter Pop 𝘊𝘢𝘧é' class='yt-lockup-metadata-view-model__title' href='/watch?v=iDEEyCMSYMc'>𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 틀자마자 성수동 카페, 24시간 느좋 팝송 플레이리스트 🎧 공부·집중·작업용 음악 | 24/7 LIVE Cozy Winter Pop 𝘊𝘢𝘧é />
+						𝐏𝐥𝐚𝐲𝐥𝐢𝐬𝐭 틀자마자 성수동 카페, 24시간 느좋 팝송 플레이리스트 🎧 공부·집중·작업용 음악 | 24/7 LIVE Cozy Winter Pop 𝘊𝘢𝘧é
+				[279] (894,957)<div  />
+					[280] (894,959)<yt-content-metadata-view-model  />
+						[281] (894,944)<div  />
+							[282] (848,944)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>tide pop />
+								[283] (869,944)<span  />
+									[284] (871,944)<span  />
+										[285] (871,945)<span class='ytIconWrapperHost yt-core-attributed-string__image-element yt-core-attributed-string__image-element--image-alignment-vertical-center' role='img' />
+											[286] (871,945)<span  />
+												[287] (871,945)<div  />
+						[288] (894,973)<div  />
+							[289] (853,973)<span class='yt-core-attributed-string yt-content-metadata-view-model__metadata-text yt-core-attributed-string--white-space-pre-wrap yt-core-attributed-string--link-inherit-color' role='text'>291 watching />
+			[290] (962,889)<div  />
+				[291] (962,889)<button-view-model  />
+					[292] (962,889)<button aria-label='More actions' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+						[293] (962,889)<yt-touch-feedback-shape  />
+							[294] (962,889)<div  />
+
+</current_dom>

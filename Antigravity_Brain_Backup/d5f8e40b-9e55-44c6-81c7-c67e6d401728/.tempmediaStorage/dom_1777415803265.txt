@@ -1,0 +1,155 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (63,58)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjszs7izZGUAxWknq8BHfn7N84QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (281,57)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (456,57)<div  />
+	[3] (455,57)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (455,57)<span  />
+	[5] (467,57)<span  />
+[6] (480,57)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (480,57)<span  />
+[8] (501,57)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (522,57)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (546,57)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (542,57)<div  />
+		[12] (542,57)<span  />
+[13] (929,57)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' role='button' />
+[14] (954,57)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (979,57)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DBeat%2BCity%2BYouTube%2Bchannel%2BUColempvnpX_9ql68nsipzOQ&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (131,125)<a class='XVMlrc C6AK7c' href='/search?q=Beat+City+YouTube+channel+UColempvnpX_9ql68nsipzOQ&sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94EyvHoAraQaxkp98gaYYplJDXaoxgWEhdI8hGJceuouvDezVzqBZrNrFq8e2L6BnVpdnV0QsT7bFsvB8mEQMDsKhyfc8aQ2t5FPD-9EtNskuMtZEfKvxfgqj4uMvtBhnwwDpPQA&aep=1&ntc=1&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84Q2J8OegQIDxAI' />
+	[17] (131,125)<div  />
+		[18] (131,134)<div  />
+			[19] (131,128)<span >AI 모드 />
+[20] (161,125)<a class='C6AK7c' role='link' />
+	전체
+[21] (191,125)<a class='C6AK7c' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94EyvHoAraQaxkp98gaYYplJDXaoxgWEhdI8hGJceuouvDezVzqBZrNrFq8e2L6BnVpdnV0QsT7bFsvB8mEQMDsKhyfc8aQ2t5FPD-9EtNskuMtZEfKvxfgqj4uMvtBhnwwDpPQA&q=Beat+City+YouTube+channel+UColempvnpX_9ql68nsipzOQ&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84QtKgLegQIFBAB' />
+	[22] (191,125)<div  />
+		[23] (191,134)<span >동영상 />
+[24] (223,125)<a class='C6AK7c' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94EyvHoAraQaxkp98gaYYplJDXaoxgWEhdI8hGJceuouvDezVzqBZrNrFq8e2L6BnVpdnV0QsT7bFsvB8mEQMDsKhyfc8aQ2t5FPD-9EtNskuMtZEfKvxfgqj4uMvtBhnwwDpPQA&q=Beat+City+YouTube+channel+UColempvnpX_9ql68nsipzOQ&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84QtKgLegQIFRAB' />
+	[25] (223,125)<div  />
+		[26] (223,134)<span >이미지 />
+[27] (264,125)<a class='C6AK7c' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94EyvHoAraQaxkp98gaYYplJDXaoxgWEhdI8hGJceuouvDezVzqBZrNrFq8e2L6BnVpdnV0QsT7bFsvB8mEQMDsKhyfc8aQ2t5FPD-9EtNskuMtZEfKvxfgqj4uMvtBhnwwDpPQA&q=Beat+City+YouTube+channel+UColempvnpX_9ql68nsipzOQ&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84Qs6gLegQIExAB' />
+	[28] (264,125)<div  />
+		[29] (264,134)<span >짧은 동영상 />
+[30] (301,125)<a class='C6AK7c' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&q=Beat+City+YouTube+channel+UColempvnpX_9ql68nsipzOQ&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94EyvHoAraQaxkp98gaYYplJDXaoxgWEhdI8hGJceuouvDezVzqBZrNrFq8e2L6BnVpdnV0QsT7bFsvB8mEQMDsKhyfc8aQ2t5FPD-9EtNskuMtZEfKvxfgqj4uMvtBhnwwDpPQA&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84Q0pQJegQIEhAB' />
+	[31] (301,125)<div  />
+		[32] (301,134)<span >뉴스 />
+[33] (327,125)<a class='C6AK7c' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94EyvHoAraQaxkp98gaYYplJDXaoxgWEhdI8hGJceuouvDezVzqBZrNrFq8e2L6BnVpdnV0QsT7bFsvB8mEQMDsKhyfc8aQ2t5FPD-9EtNskuMtZEfKvxfgqj4uMvtBhnwwDpPQA&q=Beat+City+YouTube+channel+UColempvnpX_9ql68nsipzOQ&ved=1t:220175&ictx=111' />
+	[34] (327,125)<div  />
+		[35] (327,134)<span >쇼핑 />
+[36] (360,125)<div class='mTpL7c' role='button' />
+	[37] (360,125)<div  />
+		[38] (360,134)<div  />
+			[39] (356,128)<span >더보기 />
+			[40] (371,128)<span  />
+[41] (399,125)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (399,125)<div  />
+		[43] (399,134)<div  />
+			[44] (394,128)<span >도구 />
+			[45] (406,128)<span  />
+검색결과
+웹 검색결과
+[46] (202,220)<a class='zReHs' href='https://m.youtube.com/@%EB%B9%84%ED%8A%B8%EC%8B%9C%ED%8B%B0BeatCity/videos?view=0&sort=p&shelf_id=1' />
+	[47] (167,243)<h3 >비트시티 BEAT CITY />
+	[48] (202,205)<div  />
+		[49] (202,205)<div  />
+			[50] (127,205)<span  />
+				[51] (127,205)<div  />
+					[52] (127,205)<img  />
+			[53] (212,205)<div  />
+				[54] (212,195)<div  />
+					[55] (212,195)<span >YouTube />
+				[56] (212,216)<div  />
+					[57] (212,216)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://m.youtube.com />
+						[58] (243,216)<span class='ylgVCe ob9lvb' role='text'>› @비트시티BeatCity › videos />
+[59] (296,215)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[60] (296,215)<span  />
+		[61] (296,216)<span  />
+비트시티 BEAT CITY
+· 내가 받은 것보다 더 주는 데 지쳤어, LANY - Care Less [자막/번역/lyrics] · playlist 잘 나가던 X세대들이 듣던 추억의 감성 팝송 · playlist ...
+누락된 검색어:
+channel
+‎
+UColempvnpX_9ql68nsipzOQ
+[62] (208,404)<a class='zReHs' href='https://www.youtube.com/@Beat-City-Dubstep/shorts' />
+	[63] (141,428)<h3 >Beat City />
+	[64] (208,390)<div  />
+		[65] (208,390)<div  />
+			[66] (127,390)<span  />
+				[67] (127,390)<div  />
+					[68] (127,390)<img  />
+			[69] (218,390)<div  />
+				[70] (218,380)<div  />
+					[71] (218,380)<span >YouTube />
+				[72] (218,401)<div  />
+					[73] (218,401)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.youtube.com />
+						[74] (253,401)<span class='ylgVCe ob9lvb' role='text'>› @Beat-City-Dubstep › shorts />
+[75] (307,400)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[76] (307,400)<span  />
+		[77] (307,401)<span  />
+Beat City
+. Home. Shorts. Library. Beat City. @Beat-City-Dubstep. 203 subscribers•15 videos. Welcome to Beat City — where the sound never sleeps. ...more
+누락된 검색어:
+channel
+‎
+UColempvnpX_9ql68nsipzOQ
+관련 검색어
+[78] (203,623)<a class='ngTNl ggLgoc' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&q=The+Flowerpot+Men+Beat+City&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84Q1QJ6BAgXEAE' />
+	[79] (203,623)<div  />
+		[80] (191,623)<div  />
+			[81] (191,623)<div  />
+				[82] (195,623)<div  />
+					[83] (184,623)<div  />
+						[84] (184,623)<span >Beat City />
+							[85] (166,623)<b >The Flowerpot Men />
+		[86] (274,623)<div  />
+			[87] (272,623)<div  />
+				[88] (272,623)<span  />
+[89] (203,689)<a class='ngTNl ggLgoc' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&q=The+Flowerpot+Men+Beat+City+lyrics&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84Q1QJ6BAgaEAE' />
+	[90] (203,689)<div  />
+		[91] (191,689)<div  />
+			[92] (191,689)<div  />
+				[93] (195,689)<div  />
+					[94] (193,689)<div  />
+						[95] (193,689)<span >Beat City />
+							[96] (166,679)<b >The Flowerpot Men />
+							[97] (139,699)<b >lyrics />
+		[98] (274,689)<div  />
+			[99] (272,689)<div  />
+				[100] (272,689)<span  />
+[101] (377,623)<a class='ngTNl ggLgoc' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&q=Big+Audio+Dynamite+BAD&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84Q1QJ6BAgZEAE' />
+	[102] (377,623)<div  />
+		[103] (365,623)<div  />
+			[104] (365,623)<div  />
+				[105] (369,623)<div  />
+					[106] (352,623)<div  />
+						[107] (352,623)<span  />
+							[108] (352,623)<b >Big Audio Dynamite BAD />
+		[109] (448,623)<div  />
+			[110] (446,623)<div  />
+				[111] (446,623)<span  />
+[112] (377,689)<a class='ngTNl ggLgoc' href='/search?sca_esv=b13991bd8b31e71e&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384&q=Zapp+Radio+People&sa=X&ved=2ahUKEwjszs7izZGUAxWknq8BHfn7N84Q1QJ6BAgYEAE' />
+	[113] (377,689)<div  />
+		[114] (365,689)<div  />
+			[115] (365,689)<div  />
+				[116] (369,689)<div  />
+					[117] (340,689)<div  />
+						[118] (340,689)<span  />
+							[119] (340,689)<b >Zapp Radio People />
+		[120] (448,689)<div  />
+			[121] (446,689)<div  />
+				[122] (446,689)<span  />
+바닥글 링크
+검색 결과가 맞춤설정되었습니다.
+-
+[123] (266,973)<a href='https://www.google.com/search?q=Beat+City+YouTube+channel+UColempvnpX_9ql68nsipzOQ&peek_pws=0&sxsrf=ANbL-n7ehl6sPx4P7CF1mpjZq-ETTpUjfA:1777415782384' />
+	[124] (266,973)<span  />
+		[125] (266,973)<span >맞춤설정 사용 중지해 보기 />
+
+</current_dom>

@@ -1,0 +1,61 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (21,49)<a class='container-plQgEq resetAnchor-rkYpCn' href='/ko' title='홈 — Unsplash' />
+[1] (21,121)<a aria-label='사진' class='link-clxd7_ sidebarOnly-FFSa4L' href='/ko' id='base-ui-_R_72lau_' />
+[2] (21,190)<a aria-label='일러스트' class='link-clxd7_ sidebarOnly-FFSa4L' href='/ko/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8' id='base-ui-_R_7ilau_' />
+[3] (21,318)<a aria-label='탐색' class='link-clxd7_' href='/ko/%ED%83%90%EC%83%89' id='base-ui-_R_cklau_' role='button' />
+[4] (21,387)<button aria-label='컬렉션' class='resetBtn-aZVYwi link-clxd7_' id='base-ui-_R_d4lau_' />
+[5] (21,456)<button aria-label='다운로드 내역' class='resetBtn-aZVYwi link-clxd7_' id='base-ui-_R_dklau_' />
+[6] (21,584)<button aria-label='북마크' class='resetBtn-aZVYwi link-clxd7_' id='base-ui-_R_1mlau_' />
+[7] (21,816)<a aria-label='로그인 / 가입' class='link-clxd7_' href='/ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Fs%2F%25EC%2582%25AC%25EC%25A7%2584%2Fseoul-night-hotel-view%3Forientation%3Dlandscape' id='base-ui-_R_3b5au_' />
+[8] (21,885)<button aria-label='언어' class='resetBtn-aZVYwi link-clxd7_' id='base-ui-_R_rj5au_' />
+[9] (21,954)<button aria-label='메뉴' class='burgerMenuTrigger-KyXJj5 resetBtn-aZVYwi link-clxd7_' id='base-ui-_R_6t5au_' />
+[10] (68,46)<button class='button-ns_esx resetBtn-aZVYwi' title='Unsplash 검색' />
+[11] (394,46)<div class='inputContainer-N3ti0w container-fyTdcY' role='combobox' />
+	[12] (394,46)<input class='roundedInput-DevoOG input-kt4UcU' placeholder='사진과 일러스트 검색' title='Unsplash 검색' />
+[13] (726,46)<button class='button-ns_esx resetBtn-aZVYwi' title='삭제' />
+[14] (759,46)<button aria-label='시각적 검색' class='button-ns_esx resetBtn-aZVYwi' id='base-ui-_R_3mb9au_' />
+[15] (827,46)<a class='unsplashPlusLink-G0tB20 reset-WfcG4c base-WybTAX link-K3GK9x linkInteractive-EW8Zdo small-sJhOSH' href='/ko/%ED%94%8C%EB%9F%AC%EC%8A%A4'>Unsplash+ 구독 />
+[16] (888,46)<a class='reset-WfcG4c base-WybTAX link-K3GK9x linkInteractive-EW8Zdo small-sJhOSH' href='/ko/%EB%A1%9C%EA%B7%B8%EC%9D%B8?referrer=%2Fko%2Fs%2F%25EC%2582%25AC%25EC%25A7%2584%2Fseoul-night-hotel-view%3Forientation%3Dlandscape'>로그인 />
+[17] (952,46)<button class='reset-WfcG4c base-WybTAX baseWithShadow-yoWgya outline-DimJMA baseInteractive-ae8ZHt baseWithShadowInteractive-y9IO60 outlineInteractive-VyUnBw small-sJhOSH'>이미지 제출 />
+사진
+467
+[18] (162,121)<a class='link-Y8n01f' href='/ko/s/%EC%9D%BC%EB%9F%AC%EC%8A%A4%ED%8A%B8/seoul-night-hotel-view?orientation=landscape'>일러스트 />
+	[19] (191,121)<span >1 />
+[20] (235,121)<button class='resetBtn-aZVYwi link-Y8n01f dropdownSymbol-aPXHoS' id='base-ui-_R_upd9au_'>더 보기 />
+[21] (686,121)<button class='reset-WfcG4c base-WybTAX link-K3GK9x linkInteractive-EW8Zdo small-sJhOSH clearButton-feHKuw'>삭제 />
+[22] (752,121)<button class='trigger-sgRkRK textM-yZhvJa resetBtn-aZVYwi' id='base-ui-_R_pj9d9au_' />
+	[23] (753,121)<span  />
+		[24] (753,120)<span >라이선스 />
+[25] (831,121)<button class='trigger-sgRkRK textM-yZhvJa resetBtn-aZVYwi active-IXydCe' id='base-ui-_R_rj9d9au_' />
+	[26] (831,121)<span >가로 />
+[27] (926,121)<button class='trigger-sgRkRK textM-yZhvJa resetBtn-aZVYwi' id='base-ui-_R_sj9d9au_' />
+	[28] (927,121)<span >관련성 />
+		[29] (911,120)<span >정렬 기준 />
+Seoul night hotel view
+[30] (935,318)<button class='button-unn3qy resetBtn-aZVYwi slimButton-Lh8oo2 slimButtonRightWithoutPadding-oxhHUa slimButtonRight-Nm5ksv' title='목록을 오른쪽으로 스크롤' />
+[31] (521,318)<div class='container-UNOZgk' scrollable='true' />
+	[32] (146,318)<a class='tagAnchor-J9bI_b truncate-Pc_c1s textM-yZhvJa' href='/ko/s/%EC%82%AC%EC%A7%84/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD?orientation=landscape' title='더 많은 대한민국개의 이미지'>대한민국 />
+	[33] (246,318)<a class='tagAnchor-J9bI_b truncate-Pc_c1s textM-yZhvJa' href='/ko/s/%EC%82%AC%EC%A7%84/%EB%8F%84%EC%8B%9C?orientation=landscape' title='더 많은 도시개의 이미지'>도시 />
+	[34] (345,318)<a class='tagAnchor-J9bI_b truncate-Pc_c1s textM-yZhvJa' href='/ko/s/%EC%82%AC%EC%A7%84/%EC%84%9C%EC%9A%B8?orientation=landscape' title='더 많은 서울개의 이미지'>서울 />
+	[35] (445,318)<a class='tagAnchor-J9bI_b truncate-Pc_c1s textM-yZhvJa' href='/ko/s/%EC%82%AC%EC%A7%84/%EB%82%98%EC%9D%B4%ED%8A%B8-%EC%8B%9C%ED%8B%B0?orientation=landscape' title='더 많은 나이트 시티개의 이미지'>나이트 시티 />
+	[36] (545,318)<a class='tagAnchor-J9bI_b truncate-Pc_c1s textM-yZhvJa' href='/ko/s/%EC%82%AC%EC%A7%84/%ED%99%A9%ED%98%BC?orientation=landscape' title='더 많은 황혼개의 이미지'>황혼 />
+	[37] (644,318)<a class='tagAnchor-J9bI_b truncate-Pc_c1s textM-yZhvJa' href='/ko/s/%EC%82%AC%EC%A7%84/%EC%88%98%EB%8F%84?orientation=landscape' title='더 많은 수도개의 이미지'>수도 />
+	[38] (744,318)<a class='tagAnchor-J9bI_b truncate-Pc_c1s textM-yZhvJa' href='/ko/s/%EC%82%AC%EC%A7%84/%EC%95%BC%EA%B2%BD?orientation=landscape' title='더 많은 야경개의 이미지'>야경 />
+	[39] (843,318)<a class='tagAnchor-J9bI_b truncate-Pc_c1s textM-yZhvJa' href='/ko/s/%EC%82%AC%EC%A7%84/%EB%8F%84%EC%8B%9C%EC%9D%98?orientation=landscape' title='더 많은 도시의개의 이미지'>도시의 />
+	회색
+[40] (234,559)<a class='photoInfoLink-mG0SPO' href='/ko/%EC%82%AC%EC%A7%84/%EB%8C%80%ED%95%9C%EB%AF%BC%EA%B5%AD-%EC%84%9C%EC%9A%B8%EC%9D%98-%EB%B0%A4-%EB%8F%84%EC%8B%AC-%ED%92%8D%EA%B2%BD-0njBEcQmbk4' title='대한민국 서울의 밤 도심 풍경.' />
+	[41] (234,562)<img  />
+[42] (122,445)<a class='link-GVbnGZ unsplashPlusLink-RAbeyC resetAnchor-rkYpCn enablePointerEvents-Rl89TG' href='/ko/%ED%94%8C%EB%9F%AC%EC%8A%A4?referrer=%2Fko%2F%25EC%2582%25AC%25EC%25A7%2584%2F%25EB%258C%2580%25ED%2595%259C%25EB%25AF%25BC%25EA%25B5%25AD-%25EC%2584%259C%25EC%259A%25B8%25EC%259D%2598-%25EB%25B0%25A4-%25EB%258F%2584%25EC%258B%25AC-%25ED%2592%258D%25EA%25B2%25BD-0njBEcQmbk4' />
+[43] (234,962)<a class='photoInfoLink-mG0SPO' href='/ko/%EC%82%AC%EC%A7%84/%EB%B0%A4%EC%97%90%EB%8A%94-%EC%A1%B0%EB%AA%85%EC%9D%B4-%EC%BC%9C%EC%A7%84-%EB%8F%84%EC%8B%9C-%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%9D%BC%EC%9D%B8-Mwvhyd22Lyw' title='밤에는 조명이 켜진 도시 스카이라인' />
+	[44] (234,965)<img  />
+[45] (521,559)<a class='photoInfoLink-mG0SPO' href='/ko/%EC%82%AC%EC%A7%84/%EC%95%BC%EA%B0%84%EC%8B%9C-%EA%B1%B4%EB%AC%BC%EC%9D%98-%EB%A9%B4%EC%A0%81-%EC%A0%84%EA%B2%BD-5htrsUUbFGI' title='야간시 건물의 면적 전경' />
+	[46] (521,562)<img  />
+[47] (807,781)<a class='link-KgV2D1 resetAnchor-rkYpCn' href='https://e-10457.adzerk.net/r?e=eyJ2IjoiMS4xNCIsImF2Ijo4MTA3NTIsImF0Ijo1LCJidCI6MCwiY20iOjE1Nzk5OTMsImNoIjo0NTE2MywiY2siOnt9LCJjciI6ODk1MzYzNTAzLCJkaSI6IjhhMjAzMDI3MWZiNjQxYWFiMWMwNDE4OTEwYWFmODJmIiwiZGoiOjAsImlpIjoiYzYwZjIyMWE2MGM5NGU0MjhhZTFlNGNiZDVmOTk5OTciLCJkbSI6MywiZmMiOjEwNjk5Nzk1MjksImZsIjo4NjI0OTYwNzAsImlwIjoiNTguMjMzLjE1NS40MSIsIm53IjoxMDQ1NywicGMiOjMsIm9wIjozLCJtcCI6MywiZWMiOjMsImdtIjowLCJlcCI6bnVsbCwicHIiOjIyMzY2MCwicnQiOjIsInJzIjo1MDAsInNhIjoiOTYiLCJzYiI6ImktMDY1M2M2Nzk4NjAzMDVkNTQiLCJzcCI6MTA0MzQ0OCwic3QiOjExMjE5NTQsInVrIjoiNDNhOWU5ZWEtNmRiZS00ZjAzLThlYjktMDdmMzFmM2IyMGMwIiwiem4iOjI0MTM0OCwiem0iOlsyNDEzNDhdLCJ0cyI6MTc3NzE5OTkxMjY5OSwicG4iOiJzZWFyY2gtaW4tZmVlZCIsImdyIjp0cnVlLCJnYyI6dHJ1ZSwiZ0MiOnRydWUsImdzIjoibm9uZSIsInR6IjoiQW1lcmljYS9OZXdfWW9yayIsInVyIjoiaHR0cHM6Ly9hZC5kb3VibGVjbGljay5uZXQvZGRtL3RyYWNrY2xrL043MTg2NzkuMzI4Njg5M1VOU1BMQVNIL0IyOTA5MDAwOS4zODUwMzUzNzg7ZGNfdHJrX2FpZD01NzU3NjYwMzI7ZGNfdHJrX2NpZD0yMDY1NjQzODY7ZGNfbGF0PTtkY19yZGlkPTt0YWdfZm9yX2NoaWxkX2RpcmVjdGVkX3RyZWF0bWVudD07dGZ1YT07bHRkPTtkY190ZHY9MSJ9&s=5XGajeH0S3lu7eUw1mvr2OdRH1s' />
+	[48] (807,781)<div  />
+		[49] (807,693)<div  />
+			[50] (807,693)<img  />
+
+</current_dom>

@@ -1,0 +1,368 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (372,38)<a class='impression-logged view-logged' href='/np/campaigns/82?adType=DA&eventId=NP2NLeUap6h8zpuE' />
+	[1] (372,38)<img  />
+[2] (628,38)<a class='impression-logged view-logged' href='https://shop.coupang.com/A00067881/243826?source=brandstore_display_ads&adType=DA&eventId=kROlZ2U0na124RW8' />
+	[3] (628,38)<img  />
+[4] (818,97)<a href='https://wing.coupang.com/tenants/vendor-signup/signup?utm_source=button_pc_coupang_top_right_cta&utm_medium=non_paid&utm_campaign=seller_registration'>판매자 가입 />
+[5] (788,97)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+[6] (760,97)<a href='https://login.coupang.com/login/memberJoinFrm.pang' title='회원가입'>회원가입 />
+[7] (735,97)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fnp%252Fsearch%253Fcomponent%253D%2526q%253DRTX%252B4060%252BTi%252B16GB%2526traceId%253Dmonhncol%2526channel%253Duser' title='로그인'>로그인 />
+[8] (182,97)<a class='bookmark' id='wa-bookmark'>즐겨찾기 />
+[9] (213,97)<a class='dropdown_menu_flag'>입점신청 />
+	[10] (225,99)<i  />
+[11] (190,178)<div  />
+	[12] (190,163)<div  />
+		[13] (190,153)<div  />
+		[14] (190,163)<div  />
+		[15] (190,173)<div  />
+	[16] (190,202)<div >카테고리 />
+[17] (274,167)<a class='fw-mr-[25px] fw-inline-block fw-flex-none' href='https://www.coupang.com' />
+	[18] (274,167)<img  />
+[19] (364,167)<a class='select--category__current rlux:fw-text-bluegray-800' href='#' id='sbSelector_61140394'>전체 />
+[20] (562,168)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800 is-speech' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[21] (731,167)<a class='speech-mic fw-mr-[12px] fw-hidden fw-flex-none fw-cursor-pointer' />
+[22] (747,167)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[23] (747,167)<img  />
+[24] (784,167)<a href='https://mc.coupang.com/ssr/desktop/order/list' id='wa-mycoupang-link' />
+	[25] (784,159)<img  />
+	[26] (784,192)<div >마이쿠팡 />
+[27] (819,167)<a href='//cart.coupang.com/cartView.pang' id='wa-cart-link' />
+	[28] (819,159)<img  />
+	[29] (828,142)<em >0 />
+	[30] (819,192)<div >장바구니 />
+[31] (227,226)<a class='gnb-menu-btn gnb-menu-btn-left' />
+[32] (256,226)<a href='https://www.coupangplay.com/catalog' />
+	[33] (241,226)<img  />
+	[34] (262,226)<span >쿠팡플레이 />
+[35] (304,226)<a href='https://www.coupang.com/np/campaigns/82' />
+	[36] (292,226)<img  />
+	[37] (310,226)<span >로켓배송 />
+[38] (353,226)<a href='https://www.coupang.com/np/categories/393760' />
+	[39] (338,226)<img  />
+	[40] (358,226)<span >로켓프레시 />
+[41] (405,226)<a href='https://pages.coupang.com/p/168131' />
+	[42] (389,226)<img  />
+	[43] (407,226)<span >가정의 달 />
+	[44] (424,225)<i  />
+[45] (460,226)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[46] (443,226)<img  />
+	[47] (462,226)<span >다시 구매 />
+	[48] (478,225)<i  />
+[49] (510,226)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[50] (498,226)<img  />
+	[51] (515,226)<span >쿠팡비즈 />
+[52] (555,226)<a href='https://www.coupang.com/np/coupangglobal' />
+	[53] (543,226)<img  />
+	[54] (561,226)<span >로켓직구 />
+[55] (601,226)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[56] (589,226)<img  />
+	[57] (606,226)<span >골드박스 />
+[58] (649,226)<a href='https://pages.coupang.com/p/136938' />
+	[59] (634,226)<img  />
+	[60] (655,226)<span >이달의신상 />
+[61] (700,226)<a href='https://www.coupang.com/np/omp' />
+	[62] (685,226)<img  />
+	[63] (706,226)<span >판매자특가 />
+[64] (754,226)<a href='https://www.coupang.com/np/campaigns/83' />
+	[65] (736,226)<img  />
+	[66] (760,226)<span >와우회원할인 />
+[67] (793,226)<img  />
+이벤트/쿠폰
+반품마켓
+착한상점
+기획전
+쿠팡트래블
+[68] (828,226)<a class='gnb-menu-btn gnb-menu-btn-right gnb-menu-btn-active' />
+	[69] (828,226)<span  />
+장바구니
+0
+최근본상품
+0
+/
+[70] (167,264)<a href='/np/search?listSize=36&filterType=rocket&rating=0&isPriceRange=false&minPrice=&maxPrice=&sorter=scoreDesc&brand=&offerCondition=&filter=&fromComponent=N&channel=user&selectedPlpKeepFilter=&q=RTX+4060+Ti+16GB'>전체 />
+'
+RTX 4060 Ti 16GB
+'
+필터
+[71] (239,313)<div  />
+	[72] (239,312)<button class='filter-reset-btn'>전체해제 />
+[73] (216,355)<label class='selected' />
+	[74] (181,355)<i  />
+	[75] (205,355)<span  />
+		[76] (199,355)<img  />
+만 보기
+[77] (219,428)<label class='selected' />
+	[78] (186,429)<i  />
+	[79] (206,429)<span  />
+		[80] (206,429)<img  />
+	[81] (228,428)<span >만 보기 />
+[82] (219,454)<label  />
+	[83] (186,455)<i  />
+	[84] (206,455)<span  />
+		[85] (206,455)<img  />
+	[86] (228,454)<span >만 보기 />
+[87] (216,528)<label  />
+	[88] (181,529)<i  />
+	[89] (200,527)<span >무료배송 />
+카테고리
+[90] (183,613)<label  />
+	[91] (183,613)<a href='https://www.coupang.com'>전체 />
+[92] (191,644)<label  />
+	[93] (191,644)<a href='https://www.coupang.com/np/categories/178255'>가전디지털 />
+[94] (189,675)<label  />
+	[95] (189,675)<a href='https://www.coupang.com/np/coupangglobal'>로켓직구 />
+[96] (189,705)<label  />
+	[97] (189,705)<a href='https://www.coupang.com/np/categories/510691'>쿠팡수입 />
+[98] (189,736)<label  />
+	[99] (189,736)<a href='https://www.coupang.com/np/categories/115673'>생활용품 />
+홈인테리어
+자동차용품
+문구/오피스
+패션의류/잡화
+완구/취미
+결혼준비
+아트/공예
+출산/유아동
+주방용품
+식품
+도서/음반/DVD
+싱글라이프
+[100] (216,764)<div >+ 더보기 />
+브랜드
+[101] (216,846)<label  />
+	[102] (181,847)<i  />
+	[103] (194,846)<span >MSI />
+[104] (216,873)<label  />
+	[105] (181,873)<i  />
+	[106] (194,872)<span >팰릿 />
+[107] (216,899)<label  />
+	[108] (181,900)<i  />
+	[109] (194,898)<span >조텍 />
+[110] (216,925)<label  />
+	[111] (181,926)<i  />
+	[112] (200,925)<span >에이수스 />
+[113] (216,952)<label  />
+	[114] (181,953)<i  />
+	[115] (212,951)<span >엠에스아이연구소 />
+지포스
+XFX
+주연테크
+HP
+에스티컴퓨터
+에이서
+레노버
+퍼플랩
+피씨온스튜디오
+피씨오브플레이어
+[116] (216,978)<div >+ 더보기 />
+'
+RTX 4060 Ti 16GB
+'
+에 대한 검색결과
+선택한 필터:
+[117] (335,364)<div  />
+	[118] (334,364)<a href='#' title='삭제 로켓배송'>로켓배송 />
+		[119] (347,365)<span  />
+[120] (312,415)<label class='fw-group fw-relative fw-max-w-fit fw-inline-flex fw-items-center fw-justify-start fw-tap-highlight-transparent fw-select-none' />
+	[121] (312,415)<input class='fw-ui-hidden-input group-data-[readonly=true]:fw-cursor-default' />
+	배송비 포함
+[122] (373,416)<label >쿠팡 랭킹순 />
+[123] (393,415)<div  />
+[124] (422,416)<label >낮은가격순 />
+[125] (461,416)<label >높은가격순 />
+[126] (498,416)<label >판매량순 />
+[127] (529,416)<label >최신순 />
+[128] (346,722)<li  />
+	[129] (346,716)<a href='/vp/products/8723268014?itemId=25340402608&vendorItemId=92335089390&q=RTX 4060 Ti 16GB&searchId=5b8cd65e4951621&sourceType=search&itemsCount=60&searchRank=0&rank=0' />
+		[130] (346,582)<figure  />
+			[131] (346,582)<img  />
+		[132] (346,811)<div  />
+			[133] (346,712)<div  />
+			[134] (346,743)<div >MSI 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 16GB, 1개 />
+			[135] (346,789)<div  />
+				[136] (346,780)<div  />
+					[137] (306,780)<del >1,400,000원 />
+				[138] (346,802)<div  />
+					[139] (346,802)<div  />
+						[140] (297,802)<div >39
+% />
+						[141] (331,802)<div  />
+							[142] (331,801)<span >849,000원 />
+			[143] (346,839)<div  />
+				[144] (346,828)<div  />
+					[145] (318,832)<div  />
+						[146] (318,832)<div  />
+							[147] (310,832)<img  />
+							[148] (339,832)<img  />
+					[149] (373,832)<div  />
+						[150] (361,832)<span >내일(일) />
+						[151] (385,832)<span >도착 보장 />
+				[152] (346,852)<div  />
+					[153] (301,854)<span >무료배송 />
+			[154] (346,873)<div  />
+				[155] (315,875)<div  />
+					[156] (309,875)<div  />
+						[157] (293,875)<div  />
+						[158] (301,875)<div  />
+						[159] (309,875)<div  />
+						[160] (316,875)<div  />
+						[161] (324,875)<div  />
+					[162] (335,875)<div  />
+						[163] (335,876)<span >(
+62
+) />
+			[164] (346,902)<div  />
+				[165] (323,907)<span  />
+					[166] (296,907)<img  />
+					[167] (328,907)<span >최대 42,450원 적립 />
+			[168] (297,475)<span  />
+[169] (487,722)<li  />
+	[170] (487,716)<a href='/vp/products/9326441327?itemId=27646626332&vendorItemId=94652007286&q=RTX 4060 Ti 16GB&searchId=5b8cd65e4951621&sourceType=search&itemsCount=60&searchRank=1&rank=1' />
+		[171] (487,582)<figure  />
+			[172] (487,582)<img  />
+		[173] (487,835)<div  />
+			[174] (487,712)<div  />
+			[175] (487,753)<div >PNY Geforce RTX 5060 Ti OC D7 16GB Dual Fan 그래픽카드 VGA STCOM />
+			[176] (487,809)<div  />
+				[177] (487,800)<div  />
+					[178] (447,800)<del >1,290,000원 />
+				[179] (487,822)<div  />
+					[180] (487,822)<div  />
+						[181] (438,822)<div >30
+% />
+						[182] (472,822)<div  />
+							[183] (472,821)<span >899,700원 />
+			[184] (487,859)<div  />
+				[185] (487,848)<div  />
+					[186] (459,852)<div  />
+						[187] (459,852)<div  />
+							[188] (451,852)<img  />
+							[189] (480,852)<img  />
+					[190] (514,852)<div  />
+						[191] (501,852)<span >내일(일) />
+						[192] (525,852)<span >도착 보장 />
+				[193] (487,872)<div  />
+					[194] (442,874)<span >무료배송 />
+			[195] (487,893)<div  />
+				[196] (454,895)<div  />
+					[197] (449,895)<div  />
+						[198] (434,895)<div  />
+						[199] (441,895)<div  />
+						[200] (449,895)<div  />
+						[201] (457,895)<div  />
+						[202] (465,895)<div  />
+					[203] (474,895)<div  />
+						[204] (474,896)<span >(
+1
+) />
+			[205] (487,922)<div  />
+				[206] (464,927)<span  />
+					[207] (437,927)<img  />
+					[208] (468,927)<span >최대 44,985원 적립 />
+			단 5개 남음
+			빨리 주문하세요!
+			[209] (437,475)<span  />
+[210] (628,722)<li  />
+	[211] (628,716)<a href='/vp/products/9477873683?itemId=28216329461&vendorItemId=95170335372&q=RTX 4060 Ti 16GB&searchId=5b8cd65e4951621&sourceType=search&itemsCount=60&searchRank=2&rank=2' />
+		[212] (628,582)<figure  />
+			[213] (628,582)<img  />
+		[214] (628,836)<div  />
+			[215] (628,712)<div  />
+			[216] (628,753)<div >달컴 RTX 5060 5060Ti 게이밍PC 인텔 라이젠 윈도우탑재, 윈도우 11 홈, 512GB, 16GB, 지포스 RTX 5060, R5-5600 />
+			[217] (628,810)<div  />
+				[218] (628,801)<div  />
+					[219] (583,801)<span >쿠폰할인 />
+					[220] (613,801)<span >·
+3일 남음 />
+					[221] (647,801)<del >1,848,000원 />
+				[222] (628,824)<div  />
+					[223] (628,824)<div  />
+						[224] (583,824)<div  />
+							[225] (581,824)<div  />
+								[226] (582,825)<div >25
+% />
+						[227] (624,824)<div  />
+							[228] (624,823)<span >1,368,000원 />
+			[229] (628,861)<div  />
+				[230] (628,850)<div  />
+					[231] (599,855)<div  />
+						[232] (599,855)<div  />
+							[233] (591,855)<img  />
+							[234] (621,855)<img  />
+					[235] (654,855)<div  />
+						[236] (642,855)<span >내일(일) />
+						[237] (666,855)<span >도착 보장 />
+				[238] (628,874)<div  />
+					[239] (582,876)<span >무료배송 />
+			[240] (628,895)<div  />
+				[241] (595,897)<div  />
+					[242] (590,897)<div  />
+						[243] (574,897)<div  />
+						[244] (582,897)<div  />
+						[245] (590,897)<div  />
+						[246] (598,897)<div  />
+						[247] (605,897)<div  />
+					[248] (615,897)<div  />
+						[249] (615,899)<span >(
+3
+) />
+			[250] (628,924)<div  />
+				[251] (604,929)<span  />
+					[252] (578,929)<img  />
+					[253] (609,929)<span >최대 50,000원 적립 />
+			[254] (628,962)<div  />
+				[255] (586,962)<strong >단 1개 남음 />
+				[256] (625,962)<span >빨리 주문하세요! />
+			[257] (578,475)<span  />
+[258] (768,722)<li  />
+	[259] (768,716)<a href='/vp/products/7687251064?itemId=20547203651&vendorItemId=95322986848&q=RTX 4060 Ti 16GB&searchId=5b8cd65e4951621&sourceType=search&itemsCount=60&searchRank=3&rank=3' />
+		[260] (768,582)<figure  />
+			[261] (768,582)<img  />
+		[262] (768,825)<div  />
+			[263] (768,712)<div  />
+			[264] (768,743)<div >ZOTAC GAMING 지포스 RTX 4060 Ti TWIN Edge D6 8GB />
+			[265] (768,789)<div  />
+				[266] (768,780)<div  />
+					[267] (728,780)<del >1,116,000원 />
+				[268] (768,802)<div  />
+					[269] (768,802)<div  />
+						[270] (719,802)<div >35
+% />
+						[271] (753,802)<div  />
+							[272] (753,801)<span >724,200원 />
+			[273] (768,839)<div  />
+				[274] (768,828)<div  />
+					[275] (740,832)<div  />
+						[276] (740,832)<div  />
+							[277] (732,832)<img  />
+							[278] (761,832)<img  />
+					[279] (795,832)<div  />
+						[280] (782,832)<span >내일(일) />
+						[281] (806,832)<span >도착 보장 />
+				[282] (768,852)<div  />
+					[283] (723,854)<span >무료배송 />
+			[284] (768,873)<div  />
+				[285] (735,875)<div  />
+					[286] (730,875)<div  />
+						[287] (715,875)<div  />
+						[288] (723,875)<div  />
+						[289] (730,875)<div  />
+						[290] (738,875)<div  />
+						[291] (746,875)<div  />
+					[292] (755,875)<div  />
+						[293] (755,876)<span >(
+1
+) />
+			[294] (768,902)<div  />
+				[295] (745,907)<span  />
+					[296] (718,907)<img  />
+					[297] (750,907)<span >최대 36,210원 적립 />
+			[298] (768,940)<div  />
+				[299] (727,940)<strong >단 2개 남음 />
+				[300] (766,940)<span >빨리 주문하세요! />
+			[301] (718,475)<span  />
+
+</current_dom>

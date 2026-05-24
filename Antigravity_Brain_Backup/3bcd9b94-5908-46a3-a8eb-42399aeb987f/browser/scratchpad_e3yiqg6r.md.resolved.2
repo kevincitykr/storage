@@ -1,0 +1,14 @@
+# Syncthing Troubleshooting Checklist
+
+- [x] Navigate to http://localhost:8384
+- [x] Open 'Actions' (작업) -> 'Logs' (로그)
+- [x] Check logs for errors ('upload2601', 'error', 'failed', 'connection reset', 'timed out')
+    - Observed: 'Upload_2601' connected successfully at 09:57:57 and 09:58:02 via TCP LAN.
+    - No obvious 'error' or 'failed' messages in the visible part of the logs.
+- [x] Expand 'Kevincity Share' folder
+    - Folder 'Kevincity Share' is 'Up to Date' on current machine (kevincityHQ).
+    - Device 'upload2601' is 'Syncing (9%)' and has 5,747 out-of-sync items.
+- [x] Check for 'Failed Items' (실패한 항목)
+    - No 'Failed Items' link visible.
+    - Checked 'Out of Sync Items' for 'upload2601': list includes many files in '000_factory_core', etc.
+- [ ] Report findings

@@ -1,0 +1,36 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (361,800)<div  />
+	[1] (361,800)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[2] (361,793)<div  />
+		[3] (361,800)<div  />
+		[4] (348,800)<div  />
+			[5] (348,800)<div  />
+[6] (73,845)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[7] (106,845)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[8] (166,845)<div  />
+	[9] (166,845)<div  />
+		[10] (166,845)<div aria-label='51 분 50 초/1 시간 48 분 34 초' class='ytp-time-contents' role='button' />
+			[11] (147,844)<span >51:50 />
+			[12] (162,844)<span >/ />
+			[13] (182,844)<span >1:48:34 />
+[14] (551,845)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[15] (551,862)<div  />
+[16] (582,845)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[17] (614,845)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[18] (645,845)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+[19] (23,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[20] (23,40)<yt-icon  />
+[21] (480,40)<div  />
+	[22] (475,40)<form  />
+		[23] (475,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' role='combobox' />
+	[24] (655,40)<div  />
+		[25] (655,40)<ytd-text-input-assistant  />
+			[26] (655,40)<button class='ytdTextInputAssistantButton' />
+				[27] (655,40)<img  />
+[28] (689,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' />
+	[29] (689,40)<span  />
+
+</current_dom>

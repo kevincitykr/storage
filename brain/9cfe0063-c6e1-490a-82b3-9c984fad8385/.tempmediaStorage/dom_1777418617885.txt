@@ -1,0 +1,50 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Repository files navigation
+[0] (136,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (115,27)<span  />
+	[2] (144,27)<span >README />
+[3] (201,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[4] (183,27)<span  />
+	[5] (209,27)<span >License />
+[6] (678,26)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[7] (397,494)<div  />
+	업데이트 방법
+	패키지 관리자의 업그레이드 명령어를 사용하여 최신 버전으로 업데이트하세요.
+	업데이트 후에는 AI 도구를 재시작하여 연결을 갱신해야 합니다:
+	Claude Code:
+	애플리케이션을 재시작하거나 재연결 명령을 사용
+	Cursor:
+	애플리케이션 재시작
+	Gemini CLI:
+	CLI 세션 재시작
+	제거 방법
+	[8] (111,249)<a aria-label='Permalink: 제거 방법' class='anchor' href='#제거-방법' id='user-content-제거-방법' />
+	MCP를 완전히 제거하려면 패키지 관리자의 제거 명령어를 사용하세요. 선택적으로 캐시된 인증 토큰이나 AI 도구의 설정 파일에서도 제거할 수 있습니다.
+	인증
+	[9] (111,390)<a aria-label='Permalink: 인증' class='anchor' href='#인증' id='user-content-인증' />
+	MCP를 사용하기 전에 NotebookLM 인증이 필요합니다.
+	자동 모드
+	를 권장합니다. 전용 Chrome 프로필을 실행하여 구글에 로그인하면 쿠키가 자동으로 추출됩니다. 로그인 정보는 추후 인증 갱신을 위해 저장됩니다.
+	만약 자동 모드가 작동하지 않는다면,
+	파일 모드
+	를 통해 Chrome 개발자 도구에서 수동으로 쿠키를 추출하여 저장할 수 있습니다.
+	인증 성공 후에는 MCP를 AI 도구에 추가하고 재시작하세요.
+	자세한 내용과 문제 해결 방법은 **
+	[10] (334,682)<a href='/wonseokjung/notebooklm-mcp/blob/main/docs/AUTHENTICATION.md'>docs/AUTHENTICATION.md />
+	**를 참고하세요.
+	MCP 설정
+	[11] (111,739)<a aria-label='Permalink: MCP 설정' class='anchor' href='#mcp-설정' id='user-content-mcp-설정' />
+	⚠️
+	문맥 창(Context Window) 주의:
+	이 MCP는
+	31개의 도구
+	를 제공하므로 문맥 창을 많이 차지할 수 있습니다. NotebookLM을 적극적으로 사용하지 않을 때는 MCP를 비활성화하여 다른 작업의 문맥을 확보하는 것이 좋습니다.
+	CLI 옵션
+	[12] (111,878)<a aria-label='Permalink: CLI 옵션' class='anchor' href='#cli-옵션' id='user-content-cli-옵션' />
+	명령줄 인수를 사용하여 서버를 설정할 수 있습니다. 전송 프로토콜(stdio, http, sse), 포트, 호스트, 디버그 모드, 쿼리 타임아웃 등을 설정할 수 있습니다.
+	환경 변수
+
+</current_dom>

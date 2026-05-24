@@ -1,0 +1,197 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (764,24)<a class='link__cw-gnb enuri' href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>에누리 />
+[1] (803,24)<a class='link__cw-gnb malltail' href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>몰테일 />
+[2] (848,24)<a class='link__cw-gnb plto' href='https://www.plto.com/?utm_source=danawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[3] (892,24)<a class='link__cw-gnb makeshop' href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>메이크샵 />
+ddr4 16gb 삼성 : 다나와 통합검색
+[4] (131,144)<a class='logo-ci' href='https://www.danawa.com' />
+	[5] (131,144)<img  />
+[6] (499,139)<fieldset  />
+	[7] (473,144)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[8] (614,144)<button class='search__delete on'>삭제 />
+		삭제
+	[9] (640,144)<button class='search__submit'>검색 />
+		검색
+[10] (788,150)<a class='btn_user btn_user--recent' href='#' role='button' />
+	[11] (787,170)<span >최근 />
+[12] (840,150)<a class='btn_user btn_user--wish' href='https://www.danawa.com/main/wish/wishList.php' role='button' />
+	[13] (840,170)<span >관심 />
+[14] (889,150)<a class='btn_user btn_user--login' href='https://auth.danawa.com/login?url=https%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fquery%3Dddr4%2B16gb%2B%25EC%2582%25BC%25EC%2584%25B1%26tab%3Dgoods' role='button' />
+	[15] (889,171)<span >로그인 />
+[16] (108,76)<a class='btn_app' href='#mobile_service_layer' role='button'>다나와 앱 />
+[17] (593,75)<a href='https://auto.danawa.com'>자동차 />
+[18] (627,75)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain'>조립PC />
+[19] (663,75)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti'>PC견적 />
+[20] (706,75)<a href='https://pc26.danawa.com/bbs/?logger_kw=dnw_gnb_pc26'>PC구매상담 />
+[21] (754,75)<a href='https://plan.danawa.com'>쇼핑기획전 />
+[22] (796,75)<a href='https://dpg.danawa.com/bbs'>커뮤니티 />
+[23] (832,75)<a href='https://event.danawa.com/'>이벤트 />
+/
+[24] (859,75)<a href='https://event.danawa.com/experience/'>체험단 />
+[25] (896,75)<a class='more_sevice_click' href='#more_service_layer2'>서비스
+더보기 />
+	서비스
+[26] (132,240)<a class='view_all_category btn_cate_all btn_cate' href='#sectionExplodeLayer' />
+	[27] (126,239)<strong >전체 카테고리 />
+[28] (208,240)<a href='#'>통합검색 />
+[29] (252,240)<a href='#'>상품 />
+[30] (286,240)<a href='#'>장터 />
+[31] (335,240)<a href='#'>쇼핑가이드 />
+[32] (383,240)<a href='#'>뉴스 />
+[33] (427,240)<a href='#'>커뮤니티 />
+[34] (471,240)<a href='#'>리뷰 />
+[35] (511,240)<a href='#'>동영상 />
+[36] (566,240)<a href='#'>다나와Q&A />
+[37] (896,239)<a class='btn_sns_share' href='#' id='share'>공유 />
+	[38] (888,237)<span  />
+오늘 봐야 할 추천 상품
+[39] (155,533)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=ddr4+16gb+%EC%82%BC%EC%84%B1&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=139800&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q5Mzc2MjcyMTU2JTI2aXRlbUlkJTNEMjc4MzI3MDEyNzElMjZ2ZW5kb3JJdGVtSWQlM0Q5NDc5MjI1MTAyOCUyNnRyYWNlaWQlM0RWMC0xNTMtNjUwOTAyY2EzZmFmYWVmYiUyNmNsaWNrQmVhY29uJTNEM2FjZGQxYTAtNDlhMy0xMWYxLTkxYzMtYjM3YzA2ZTMzNjU2JTI1N0UzJTI2cmVxdWVzdGlkJTNEMjAyNjA1MDcwODI4MDQwMDMwNDM4NzgwODclMjZ0b2tlbiUzRDMxODUwQyUyNTdDTUlYRUQmYWR0eXBlPTI%3D' />
+	[40] (155,473)<div  />
+		[41] (155,473)<img  />
+	[42] (155,642)<div  />
+		[43] (155,609)<div >삼성 삼성정품 DDR4 16GB PC4 21300 2666V 데스크탑 메모리, 1개, 2666V 21300 16G />
+		[44] (155,645)<div  />
+			[45] (131,645)<div >가격 />
+				가격
+				[46] (126,645)<span >139,800 />
+				[47] (150,645)<span >원 />
+		[48] (155,681)<div  />
+			[49] (124,681)<span  />
+				[50] (124,681)<img  />
+[51] (283,533)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=ddr4+16gb+%EC%82%BC%EC%84%B1&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=168000&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q5Mzg5NTI2MDQ4JTI2aXRlbUlkJTNEMjc4NDMyNDQ1NDUlMjZ2ZW5kb3JJdGVtSWQlM0Q5NDc0ODc3MDEyMCUyNnRyYWNlaWQlM0RWMC0xNTMtOWMyZmViNjRkMGIxMjkwZCUyNnJlcXVlc3RpZCUzRDIwMjYwNTA3MDgyODA0MDAzMDQzODc4MDg3JTI2dG9rZW4lM0QzMTg1MEMlMjU3Q01JWEVEJmFkdHlwZT0y' />
+	[52] (283,473)<div  />
+		[53] (283,473)<img  />
+	[54] (283,642)<div  />
+		[55] (283,609)<div >삼성 DDR4 데스크탑 램 컴퓨터 메모리 UDIMM />
+		[56] (283,645)<div  />
+			[57] (259,645)<div >가격 />
+				가격
+				[58] (254,645)<span >168,000 />
+				[59] (278,645)<span >원 />
+		[60] (283,681)<div  />
+			[61] (251,681)<span  />
+				[62] (251,681)<img  />
+			[63] (312,681)<span  />
+[64] (410,533)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=ddr4+16gb+%EC%82%BC%EC%84%B1&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=148000&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q3MDM4NDU4MjYyJTI2aXRlbUlkJTNEMTczOTc4ODE5NzMlMjZ2ZW5kb3JJdGVtSWQlM0Q4NjkxODUxMzM4OCUyNnRyYWNlaWQlM0RWMC0xNTMtMGQyZmU4OGEyYWQ2ZmUyZCUyNnJlcXVlc3RpZCUzRDIwMjYwNTA3MDgyODA0MDAzMDQzODc4MDg3JTI2dG9rZW4lM0QzMTg1MEMlMjU3Q01JWEVEJmFkdHlwZT0y' />
+	[65] (410,473)<div  />
+		[66] (410,473)<img  />
+	[67] (410,642)<div  />
+		[68] (410,609)<div >삼성 삼성 DDR4 16GB PC4 21300 2666 데스크탑 메모리 />
+		[69] (410,645)<div  />
+			[70] (387,645)<div >가격 />
+				가격
+				[71] (382,645)<span >148,000 />
+				[72] (406,645)<span >원 />
+		[73] (410,681)<div  />
+			[74] (379,681)<span  />
+				[75] (379,681)<img  />
+			[76] (439,681)<span  />
+[77] (538,533)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=ddr4+16gb+%EC%82%BC%EC%84%B1&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=188000&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q5Mjk1NTU0NTM2JTI2aXRlbUlkJTNEMjc1MjA4NDM3NjclMjZ2ZW5kb3JJdGVtSWQlM0Q5NDQ4NTYxMDQ4MCUyNnRyYWNlaWQlM0RWMC0xNTMtNjBlNzc2YjI0NjExMzZiNiUyNmNsaWNrQmVhY29uJTNEM2FjZGY4YjAtNDlhMy0xMWYxLWFlYTItZjc2MWI0MWU1MDlhJTI1N0UzJTI2cmVxdWVzdGlkJTNEMjAyNjA1MDcwODI4MDQwMDMwNDM4NzgwODclMjZ0b2tlbiUzRDMxODUwQyUyNTdDTUlYRUQmYWR0eXBlPTI%3D' />
+	[78] (538,473)<div  />
+		[79] (538,473)<img  />
+	[80] (538,642)<div  />
+		[81] (538,609)<div >삼성 DDR4 데스크탑 램 컴퓨터 메모리 UDIMM, 1개, 16GB 2400MHz (PC4-19200) />
+		[82] (538,645)<div  />
+			[83] (514,645)<div >가격 />
+				가격
+				[84] (509,645)<span >188,000 />
+				[85] (533,645)<span >원 />
+		[86] (538,681)<div  />
+			[87] (507,681)<span  />
+				[88] (507,681)<img  />
+[89] (666,533)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=ddr4+16gb+%EC%82%BC%EC%84%B1&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=152000&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q5NDAyNzU1MTM2JTI2aXRlbUlkJTNEMjc5MzE2NTk4ODglMjZ2ZW5kb3JJdGVtSWQlM0Q5NDg5MDA2MTgzOSUyNnRyYWNlaWQlM0RWMC0xNTMtNTA0YmY0MmZiM2VkOTk0YiUyNnJlcXVlc3RpZCUzRDIwMjYwNTA3MDgyODA0MDAzMDQzODc4MDg3JTI2dG9rZW4lM0QzMTg1MEMlMjU3Q01JWEVEJmFkdHlwZT0y' />
+	[90] (666,473)<div  />
+		[91] (666,473)<img  />
+	[92] (666,642)<div  />
+		[93] (666,609)<div >삼성 삼성정품 DDR4 16GB PC4 25600 3200AA 데스크탑 메모리 />
+		[94] (666,645)<div  />
+			[95] (642,645)<div >가격 />
+				가격
+				[96] (637,645)<span >152,000 />
+				[97] (661,645)<span >원 />
+		[98] (666,681)<div  />
+			[99] (634,681)<span  />
+				[100] (634,681)<img  />
+상세검색
+CM 추천 옵션은
+하이라이트
+로 강조했어요.
+[101] (691,766)<button class='button__research'>사용자의 선택은?! />
+카테고리
+[102] (197,827)<a href='#'>디지털 완제품 />
+[103] (226,827)<button class='btn_more_cate' />
+	[104] (226,827)<span  />
+2,780
+[105] (299,827)<a href='#'>PC 주요 부품 />
+[106] (327,827)<button class='btn_more_cate' />
+	[107] (327,827)<span  />
+1,019
+[108] (402,827)<a href='#'>공구/산업기계 />
+[109] (432,827)<button class='btn_more_cate' />
+	[110] (432,827)<span  />
+65
+[111] (495,827)<a href='#'>패션잡화 />
+[112] (516,827)<button class='btn_more_cate' />
+	[113] (516,827)<span  />
+22
+[114] (598,827)<a href='#'>주변기기 />
+[115] (618,827)<button class='btn_more_cate' />
+	[116] (618,827)<span  />
+11
+[117] (711,826)<button class='btn_so_view more'>개 />
+	[118] (701,826)<strong >9 />
+	[119] (720,826)<span  />
+제조사
+[120] (125,887)<button class='button__graph' title='리서치 보기' />
+[121] (196,887)<label class='srch_lb'>삼성전자 />
+	삼성전자
+[122] (298,887)<label class='srch_lb'>GUDGA />
+	GUDGA
+[123] (400,887)<label class='srch_lb'>아이티젠 />
+	아이티젠
+G.SKILL
+[124] (528,887)<button class='button__category-info'>G.SKILL />
+	G.SKILL
+ESSENCORE
+[125] (630,887)<button class='button__category-info'>ESSENCORE />
+	ESSENCORE
+ADATA
+[126] (221,919)<button class='button__category-info'>ADATA />
+	ADATA
+TeamGroup
+[127] (323,919)<button class='button__category-info'>TeamGroup />
+	TeamGroup
+PATRIOT
+[128] (426,919)<button class='button__category-info'>PATRIOT />
+	PATRIOT
+GeIL
+[129] (528,919)<button class='button__category-info'>GeIL />
+	GeIL
+타무즈
+[130] (630,919)<button class='button__category-info'>타무즈 />
+	타무즈
+[131] (709,882)<button class='btn_so_view more'>개 />
+	[132] (698,882)<strong >42 />
+	[133] (720,882)<span  />
+[134] (111,976)<a class='btn_dic' href='#'>사용 장치 />
+[135] (134,974)<button class='button__graph' title='리서치 보기' />
+[136] (199,974)<label class='srch_lb' />
+	[137] (207,974)<a class='btn_dic' href='#' />
+		[138] (207,974)<span >데스크탑용 />
+[139] (298,974)<label class='srch_lb' />
+	[140] (305,974)<a class='btn_dic' href='#' />
+		[141] (305,974)<span >노트북용 />
+[142] (397,974)<label class='srch_lb' />
+	[143] (404,974)<a class='btn_dic' href='#' />
+		[144] (404,974)<span >서버용 />
+[145] (954,404)<button class='button__floating-vs'>VS검색
+개 담김 />
+	VS검색
+	[146] (975,404)<span >0 />
+	개 담김
+VS
+
+</current_dom>

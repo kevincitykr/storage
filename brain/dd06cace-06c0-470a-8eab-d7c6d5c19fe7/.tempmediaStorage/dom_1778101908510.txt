@@ -1,0 +1,113 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,46)<a class='link' href='https://www.naver.com' />
+	[1] (150,46)<i  />
+[2] (379,40)<fieldset  />
+	[3] (340,46)<input class='box_window' id='nx_query' placeholder='검색어를 입력해 주세요.' role='combobox' />
+	[4] (575,46)<button class='bt_search' />
+		[5] (572,46)<i  />
+	[6] (530,46)<a class='bt_setkr' href='#' id='ke_kbd_btn' role='button' />
+		[7] (528,46)<i  />
+	[8] (546,44)<a class='bt_atcp _btn_arw' href='#' id='nautocomplete' role='button' />
+		[9] (546,47)<i  />
+[10] (943,46)<a class='gnb_btn_login' href='https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3D%25EC%25A4%2591%25EA%25B3%25A0%25EB%2582%2598%25EB%259D%25BC%2B%252213700%2522%2B4060Ti%26ssc%3Dtab.cafe.all%26st%3Ddate' id='gnb_login_button' />
+	[11] (943,46)<span >로그인 />
+[12] (975,45)<a class='gnb_service' href='javascript:;' />
+	[13] (975,46)<span  />
+[14] (348,136)<div class='api_flicking_wrap _conveyer_root' role='tablist' scrollable='true' />
+	[15] (154,136)<a class='tab' href='?ssc=tab.nx.all&where=nexearch&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti' role='tab' />
+		[16] (154,138)<i  />
+	[17] (194,136)<a class='tab' href='?ssc=tab.cafe.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti' role='tab'>카페 />
+		[18] (182,138)<i  />
+	[19] (244,136)<a class='tab' href='?ssc=tab.blog.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti' role='tab'>블로그 />
+	[20] (293,136)<a class='tab' href='?ssc=tab.image.all&where=image&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti' role='tab'>이미지 />
+	[21] (336,136)<a class='tab' href='?ssc=tab.clip.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti' role='tab'>클립 />
+	[22] (380,136)<a class='tab' href='?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti' role='tab'>지식iN />
+	[23] (437,136)<a class='tab' href='?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti' role='tab'>인플루언서 />
+	[24] (495,136)<a class='tab' href='?ssc=tab.video.all&where=video&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti' role='tab'>동영상 />
+	쇼핑
+	뉴스
+	숏텐츠
+	어학사전
+	지도
+	도서
+	지식백과
+	학술정보
+[25] (542,136)<a class='btn' href='#' role='button' />
+	[26] (542,136)<span  />
+		[27] (543,136)<i  />
+[28] (574,136)<a class='nav_more _more_btn' href='#' role='button' />
+	[29] (574,138)<i  />
+[30] (967,137)<a class='spnew2_bf bt_share naver-splugin' href='#' id='spiButton2' role='button'>공유 />
+중고나라 "13700" 4060Ti 카페검색 결과
+'중고나라 "13700" 4060Ti'
+에 대한 상세검색 결과를 보시겠습니까?
+[31] (485,258)<a class='more_link' href='?ssc=tab.cafe.all&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti&sm=tab_dgs&qdt=1'>상세 검색결과 보기 />
+[32] (499,332)<a class='item' href='?cafe_where=&prdtype=0&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti&sm=mtb_opt&ssc=tab.cafe.all&st=rel&stnm=rel' role='option'>관련도순 />
+[33] (548,332)<a class='item' href='?cafe_where=&prdtype=0&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+%2213700%22+4060Ti&sm=mtb_opt&ssc=tab.cafe.all&st=date&stnm=rel' role='option'>최신순 />
+[34] (169,332)<a aria-label='검색옵션 열기' class='btn_option _search_option_open_btn' href='javascript:;' role='button'>옵션 />
+	[35] (180,334)<i  />
+[36] (565,411)<a class='btn_save _keep_trigger' href='#' role='button' />
+	[37] (565,405)<i  />
+[38] (161,411)<a class='user_thumb' href='https://cafe.naver.com/joonggonara' />
+[39] (193,411)<a class='name' href='https://cafe.naver.com/joonggonara'>중고나라 />
+6시간 전
+[40] (532,521)<a class='thumb_link' href='https://cafe.naver.com/joonggonara/1129109003?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI5MTA5MDAzLCJpc3N1ZWRBdCI6MTc3ODEwMTg5MDk5Mn0.TVGoR9JGHf6W4FTpV6yzrJulQyQ2Do9aXtItmEMLl9M&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20%2213700%22%204060Ti&tc=naver_search' />
+[41] (320,463)<a class='title_link' href='https://cafe.naver.com/joonggonara/1129109003?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI5MTA5MDAzLCJpc3N1ZWRBdCI6MTc3ODEwMTg5MDk5Mn0.TVGoR9JGHf6W4FTpV6yzrJulQyQ2Do9aXtItmEMLl9M&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20%2213700%22%204060Ti&tc=naver_search'>[최저가 175,000원] 인텔 9900K / 9700K / 9600K / 9400 / 9400F / 9100 / 8700K / 8700 / 8400 / 8100 / 성인PC방 TM사무실 게임장 작업장
+중고
+컴퓨터 조.... />
+	중고
+[42] (320,541)<a class='dsc_link' href='https://cafe.naver.com/joonggonara/1129109003?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI5MTA5MDAzLCJpc3N1ZWRBdCI6MTc3ODEwMTg5MDk5Mn0.TVGoR9JGHf6W4FTpV6yzrJulQyQ2Do9aXtItmEMLl9M&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20%2213700%22%204060Ti&tc=naver_search'>11까지 RTX
+8G +415,000원 무상 26.07까지 RTX4070 SUPER 12G +730,000원 RTX4090 24G +3,750,000원 *5000번대 한정수량 만리, 게인워드 RTX5060 8G +480,000원 신품 기가바이트, 아수스 RTX5060TI 8G +530,000원 신품 PNY, 만리 RTX5070 12G +810,000원 무상 28.01까지 갤럭시 RTX5080 16G +1,850,000원 신품 [NVMe 추가/변경][
+중고
+] 삼성 M.2 NVMe 250G 변경 +30,000원 삼성 M.2 NVMe 500G 변경 +70... />
+	[43] (221,506)<mark >4060TI />
+	중고
+[44] (565,660)<a class='btn_save _keep_trigger' href='#' role='button' />
+	[45] (565,653)<i  />
+[46] (161,660)<a class='user_thumb' href='https://cafe.naver.com/joonggonara' />
+[47] (193,660)<a class='name' href='https://cafe.naver.com/joonggonara'>중고나라 />
+6시간 전
+[48] (532,769)<a class='thumb_link' href='https://cafe.naver.com/joonggonara/1129107737?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI5MTA3NzM3LCJpc3N1ZWRBdCI6MTc3ODEwMTg5MDk5Mn0.fRlsFdhcmoLjpiXnxgfUuHGHug27nXHaI94_gYDmxOY&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20%2213700%22%204060Ti&tc=naver_search' />
+[49] (320,712)<a class='title_link' href='https://cafe.naver.com/joonggonara/1129107737?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI5MTA3NzM3LCJpc3N1ZWRBdCI6MTc3ODEwMTg5MDk5Mn0.fRlsFdhcmoLjpiXnxgfUuHGHug27nXHaI94_gYDmxOY&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20%2213700%22%204060Ti&tc=naver_search'>[최저가 435,000원] 라이젠 7400F / 7500F / 7600 / 7600X / 7700 / 7700X / 7800X3D / 7900 / 7900X / 7950X / 7950X3D / 영상편집 디자이너 컴퓨.... />
+[50] (320,789)<a class='dsc_link' href='https://cafe.naver.com/joonggonara/1129107737?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI5MTA3NzM3LCJpc3N1ZWRBdCI6MTc3ODEwMTg5MDk5Mn0.fRlsFdhcmoLjpiXnxgfUuHGHug27nXHaI94_gYDmxOY&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20%2213700%22%204060Ti&tc=naver_search'>11까지 RTX
+8G +415,000원 무상 26.07까지 RTX4070 SUPER 12G +730,000원 RTX4090 24G +3,750,000원 *5000번대 한정수량 만리, 게인워드 RTX5060 8G +480,000원 신품 기가바이트, 아수스 RTX5060TI 8G +530,000원 신품 PNY, 만리 RTX5070 12G +810,000원 무상 28.01까지 갤럭시 RTX5080 16G +1,850,000원 신품 [NVMe 추가/변경][
+중고
+] 삼성 M.2 NVMe 250G 변경 +30,000원 삼성 M.2 NVMe 500G 변경 +70... />
+	[51] (221,754)<mark >4060TI />
+	중고
+[52] (565,908)<a class='btn_save _keep_trigger' href='#' role='button' />
+	[53] (565,902)<i  />
+[54] (161,908)<a class='user_thumb' href='https://cafe.naver.com/joonggonara' />
+[55] (193,908)<a class='name' href='https://cafe.naver.com/joonggonara'>중고나라 />
+8시간 전
+[56] (275,960)<a class='title_link' href='https://cafe.naver.com/joonggonara/1129103856?art=ZXh0ZXJuYWwtc2VydmljZS1uYXZlci1zZWFyY2gtY2FmZS1wcg.eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYWZlVHlwZSI6IkNBRkVfVVJMIiwiY2FmZVVybCI6Impvb25nZ29uYXJhIiwiYXJ0aWNsZUlkIjoxMTI5MTAzODU2LCJpc3N1ZWRBdCI6MTc3ODEwMTg5MDk5Mn0.Tet7ZBrefvHYy3DHhx8svPWaKOosL0fHi_4Kb1zIxIc&q=%ec%a4%91%ea%b3%a0%eb%82%98%eb%9d%bc%20%2213700%22%204060Ti&tc=naver_search'>에센코어 클레브 ddr5 cl30 6000 16gb x2(32gb) />
+1 장 이미지 더보기 〉 상품 정보 에센코어 클레브 ddr5 cl30 6000 16gb x2(32gb) 490,000원 시세조회 결제 혜택 N - 상품 상태
+[57] (747,272)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001' />
+	[58] (642,272)<div  />
+		[59] (642,272)<img  />
+	[60] (758,272)<div  />
+		[61] (758,259)<strong >좋아하는 건 누구나 남기고 싶으니까 />
+		[62] (758,285)<p >클립 올리면 매주 쌓이는 Npay 포인트 />
+[63] (747,373)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2604-shopping-004&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F69b749ff027d292a723a040c%3FlayerId%3DL_260324110101827%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2604-shopping-004' />
+	[64] (642,374)<div  />
+		[65] (642,374)<img  />
+	[66] (758,374)<div  />
+		[67] (758,361)<strong >가정의달+세일 />
+		[68] (758,386)<p >선물에 진심, 혜택에 진심 N+스토어 />
+[69] (747,475)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2509-shopping-007&target=https%3A%2F%2Fshopping.naver.com%2Fns%2Fhome%2Fkurlynmart%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2509-shopping-007' />
+	[70] (642,475)<div  />
+		[71] (642,475)<img  />
+	[72] (758,475)<div  />
+		[73] (758,462)<strong >네이버에서 컬리를 />
+		[74] (758,488)<p >멤버십 2만원 이상 무료배송 />
+[75] (747,577)<a class='spnew_bf item' href='https://naver.me/FWTmTscE' />
+	[76] (642,577)<div  />
+		[77] (642,577)<img  />
+	[78] (758,577)<div  />
+		[79] (758,564)<strong >네이버가 더 편해지는 순간 />
+		[80] (758,590)<p >웨일 브라우저 알아보기 />
+
+</current_dom>

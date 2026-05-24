@@ -1,0 +1,3 @@
+- [x] `kvenue_auto.py` 스텔스 및 세션 유지 로직 적용
+- [x] `deep_scraper_v2.js` 속도 조절 및 랜덤 딜레이 추가
+- [x] 테스트 실행 및 확인

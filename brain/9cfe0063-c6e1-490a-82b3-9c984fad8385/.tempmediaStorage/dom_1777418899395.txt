@@ -1,0 +1,174 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (64,59)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwilwMus2ZGUAxXYUPUHHfP6JSMQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (341,58)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (563,58)<div  />
+	[3] (561,58)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,58)<span  />
+	[5] (578,58)<span  />
+[6] (594,58)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (594,58)<span  />
+[8] (620,58)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (647,58)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (677,58)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (673,58)<div  />
+		[12] (673,58)<span  />
+[13] (910,58)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (942,58)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,58)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dwonseokjung%2Bconnect-ai%2BMCP%2B%25EB%2585%25B8%25ED%258A%25B8%25EB%25B6%2581LM%2B%25EC%258A%25A4%25ED%258B%25B0%25EC%25B9%2598&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (151,128)<a class='XVMlrc C6AK7c' href='/search?q=wonseokjung+connect-ai+MCP+%EB%85%B8%ED%8A%B8%EB%B6%81LM+%EC%8A%A4%ED%8B%B0%EC%B9%98&sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n5yMgs2zjpmc0InzhT2zg83AuSqFg:1777418890311&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&aep=1&ntc=1&sa=X&ved=2ahUKEwilwMus2ZGUAxXYUPUHHfP6JSMQ2J8OegQIDxAI' />
+	[17] (151,128)<div  />
+		[18] (151,137)<div  />
+			[19] (151,131)<span >AI 모드 />
+[20] (189,128)<a class='C6AK7c' role='link' />
+	전체
+[21] (226,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n5yMgs2zjpmc0InzhT2zg83AuSqFg:1777418890311&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&q=wonseokjung+connect-ai+MCP+%EB%85%B8%ED%8A%B8%EB%B6%81LM+%EC%8A%A4%ED%8B%B0%EC%B9%98&sa=X&ved=2ahUKEwilwMus2ZGUAxXYUPUHHfP6JSMQtKgLegQIFRAB' />
+	[22] (226,128)<div  />
+		[23] (226,137)<span >이미지 />
+[24] (268,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n5yMgs2zjpmc0InzhT2zg83AuSqFg:1777418890311&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&q=wonseokjung+connect-ai+MCP+%EB%85%B8%ED%8A%B8%EB%B6%81LM+%EC%8A%A4%ED%8B%B0%EC%B9%98&sa=X&ved=2ahUKEwilwMus2ZGUAxXYUPUHHfP6JSMQtKgLegQIFBAB' />
+	[25] (268,128)<div  />
+		[26] (268,137)<span >동영상 />
+[27] (305,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n5yMgs2zjpmc0InzhT2zg83AuSqFg:1777418890311&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&q=wonseokjung+connect-ai+MCP+%EB%85%B8%ED%8A%B8%EB%B6%81LM+%EC%8A%A4%ED%8B%B0%EC%B9%98&ved=1t:220175&ictx=111' />
+	[28] (305,128)<div  />
+		[29] (305,137)<span >쇼핑 />
+[30] (352,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n5yMgs2zjpmc0InzhT2zg83AuSqFg:1777418890311&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&q=wonseokjung+connect-ai+MCP+%EB%85%B8%ED%8A%B8%EB%B6%81LM+%EC%8A%A4%ED%8B%B0%EC%B9%98&sa=X&ved=2ahUKEwilwMus2ZGUAxXYUPUHHfP6JSMQs6gLegQIEhAB' />
+	[31] (352,128)<div  />
+		[32] (352,137)<span >짧은 동영상 />
+[33] (399,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n5yMgs2zjpmc0InzhT2zg83AuSqFg:1777418890311&q=wonseokjung+connect-ai+MCP+%EB%85%B8%ED%8A%B8%EB%B6%81LM+%EC%8A%A4%ED%8B%B0%EC%B9%98&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_SwaAyLf5yHjoZekEysJpbVfiqLABH_rvhkX5i8BCzSM_LAaCUt2hrxfXLIadQtDlYRXtWm-TogrOd_SFA_Dj9-N-F6ZOcoGQzq6qf7SfWhoGbQkQXwxnoQL_c_scKuABvHkoR7NCg&sa=X&ved=2ahUKEwilwMus2ZGUAxXYUPUHHfP6JSMQ0pQJegQIERAB' />
+	[34] (399,128)<div  />
+		[35] (399,137)<span >뉴스 />
+[36] (442,128)<div class='mTpL7c' role='button' />
+	[37] (442,128)<div  />
+		[38] (442,137)<div  />
+			[39] (436,131)<span >더보기 />
+			[40] (455,131)<span  />
+[41] (491,128)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,128)<div  />
+		[43] (491,137)<div  />
+			[44] (485,131)<span >도구 />
+			[45] (499,131)<span  />
+검색결과
+동영상
+[46] (194,209)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[47] (194,209)<span  />
+		[48] (194,210)<span  />
+[49] (407,292)<a class='rIRoqf' href='https://www.youtube.com/watch?v=geBad4VaEPI' />
+	[50] (407,292)<div class='V5XKdd' role='heading' />
+		[51] (407,259)<div  />
+			[52] (383,259)<div  />
+				[53] (383,259)<span >노트북LM + MCP 연결하면 책 쓰기부터 마케팅까지 자동화 ... />
+		[54] (407,314)<div  />
+			[55] (407,314)<div  />
+				[56] (407,302)<span  />
+					[57] (266,302)<span >YouTube />
+					[58] (324,302)<span >AI 겸임교수 이종범 />
+						[59] (287,302)<span >· />
+				[60] (407,327)<div  />
+					[61] (272,327)<span >2026. 2. 28. />
+[62] (378,301)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[63] (378,301)<span  />
+		[64] (378,302)<span  />
+[65] (185,292)<div aria-label='AI 겸임교수 이종범 님이 YouTube에 게시한 노트북LM + MCP 연결하면 책 쓰기부터 마케팅까지 자동화 .... Google에서 재생. 13:59' class='rIRoqf hXY9cf' role='button' />
+	[66] (185,292)<div  />
+		[67] (185,292)<div  />
+			[68] (157,319)<div  />
+				[69] (157,319)<span >13:59 />
+			[70] (222,266)<div  />
+				[71] (222,266)<span  />
+[72] (242,377)<div class='KMEEs' role='button' />
+	[73] (242,377)<div  />
+		[74] (242,370)<div  />
+			[75] (214,370)<div  />
+				[76] (187,370)<div  />
+					[77] (187,370)<span  />
+						[78] (187,370)<span  />
+							[79] (187,370)<span >이 동영상의 주요 순간 8개 />
+				[80] (257,370)<span  />
+[81] (407,463)<a class='rIRoqf' href='https://www.youtube.com/watch?v=H4FGqX8ayN0' />
+	[82] (407,463)<div class='V5XKdd' role='heading' />
+		[83] (407,430)<div  />
+			[84] (395,430)<div  />
+				[85] (395,430)<span >NotebookLM + AI 에이전트 A to Z 이 영상 하나로 끝내드려요ㅣ ... />
+		[86] (407,485)<div  />
+			[87] (407,485)<div  />
+				[88] (407,473)<span  />
+					[89] (266,473)<span >YouTube />
+					[90] (319,473)<span >이동훈의 루트AI />
+						[91] (287,473)<span >· />
+				[92] (407,497)<div  />
+					[93] (272,497)<span >2026. 2. 26. />
+[94] (368,471)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[95] (368,471)<span  />
+		[96] (368,473)<span  />
+[97] (185,463)<div aria-label='이동훈의 루트AI님이 YouTube에 게시한 NotebookLM + AI 에이전트 A to Z 이 영상 하나로 끝내드려요ㅣ .... Google에서 재생. 12:39' class='rIRoqf hXY9cf' role='button' />
+	[98] (185,463)<div  />
+		[99] (185,463)<div  />
+			[100] (157,489)<div  />
+				[101] (157,489)<span >12:39 />
+			[102] (222,437)<div  />
+				[103] (222,437)<span  />
+[104] (242,548)<div class='KMEEs' role='button' />
+	[105] (242,548)<div  />
+		[106] (242,541)<div  />
+			[107] (214,541)<div  />
+				[108] (187,541)<div  />
+					[109] (187,541)<span  />
+						[110] (187,541)<span  />
+							[111] (187,541)<span >이 동영상의 주요 순간 5개 />
+				[112] (257,541)<span  />
+[113] (407,634)<a class='rIRoqf' href='https://www.youtube.com/watch?v=MYJZLO8X1vg' />
+	[114] (407,634)<div class='V5XKdd' role='heading' />
+		[115] (407,600)<div  />
+			[116] (376,600)<div  />
+				[117] (376,600)<span >NotebookLM MCP 서버 완벽 가이드 - AI 에이전트 자동화 />
+		[118] (407,655)<div  />
+			[119] (407,655)<div  />
+				[120] (407,643)<span  />
+					[121] (266,643)<span >YouTube />
+					[122] (318,643)<span >Patrick Adams />
+						[123] (287,643)<span >· />
+				[124] (407,668)<div  />
+					[125] (269,668)<span >2026. 2. 8. />
+[126] (364,642)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[127] (364,642)<span  />
+		[128] (364,643)<span  />
+[129] (185,634)<div aria-label='Patrick Adams님이 YouTube에 게시한 NotebookLM MCP 서버 완벽 가이드 - AI 에이전트 자동화. Google에서 재생. 6:37' class='rIRoqf hXY9cf' role='button' />
+	[130] (185,634)<div  />
+		[131] (185,634)<div  />
+			[132] (155,660)<div  />
+				[133] (155,660)<span >6:37 />
+			[134] (222,607)<div  />
+				[135] (222,607)<span  />
+[136] (352,721)<div  />
+	[137] (352,721)<a aria-label='모든 동영상 보기' class='jRKCUd' href='/search?sca_esv=666bf1fb673a79dd&udm=7&sxsrf=ANbL-n5yMgs2zjpmc0InzhT2zg83AuSqFg:1777418890311&q=wonseokjung+connect-ai+MCP+%EB%85%B8%ED%8A%B8%EB%B6%81LM+%EC%8A%A4%ED%8B%B0%EC%B9%98&sa=X&ved=2ahUKEwilwMus2ZGUAxXYUPUHHfP6JSMQ8ccDKAJ6BAgZEAQ' />
+		[138] (352,721)<div  />
+			[139] (345,721)<span >모두 보기 />
+			[140] (373,721)<span  />
+AI 개요
+[141] (529,797)<div aria-label='확인 링크 3개 보기' class='QUUgY' role='button' />
+	[142] (529,797)<div  />
+		[143] (518,797)<div  />
+			[144] (518,797)<img  />
+		[145] (527,797)<div  />
+			[146] (527,797)<img  />
+		[147] (536,797)<div  />
+			[148] (536,797)<img  />
+		[149] (544,797)<span  />
+[150] (561,801)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+[151] (220,841)<a class='GI370e' href='https://www.google.com/search?q=Wonseokjung%28Connect+AI+LAB+%EC%A0%9C%EC%9D%B4%29&mstk=AUtExfAinUxD3seBpYt-ndWQmye9q-ASy1ZTlcaogFZ-khDQtRAsorKEOQhGnOD0yAh01CXypOKIaXCbuw5eWGKDWtWoUa7gL_zutDq4xMGSYN-i9HcRbdWOznvPXycXtruufZyxeO-hurHQOWSJEKhMNBAdW1ul3wKI4WTB7mAQ9LdxCHagAl2KpT7Yk9fkxaRTfbZaH_I83kQnsGlyraIuQ7pwkzQ0GhnJ8DJEcvhsxPctdAjjne_KQxlfDcGDuwOXwG4RN6Kk-haSqyd6iEwEzrte&csui=3&ved=2ahUKEwiNseSs2ZGUAxW6k1YBHXqqFlYQgK4QegQIARAB' />
+	[152] (220,841)<span >Wonseokjung(Connect AI LAB 제이) />
+이 개발한
+notebooklm-mcp
+는 클로드(Claude) 등 AI 에이전트가 구글 노트북LM(NotebookLM)을 프로그래밍 방식으로 제어하여 문서 분석, 요약, 콘텐츠 자동 생성을 가능하게 하는 MCP(Model Context Protocol) 도구입니다. 안티그래피티 등을 통해 설치 후 노션 등과 연동하여 자동화 워크플로우를 구현할 수 있습니다.
+[153] (447,924)<button aria-label='YouTube 외 3개 - 관련 링크 보기' class='rBl3me IWyTpf pjvauc' />
+	YouTube
+	+3
+핵심 정보 및 활용법
+
+</current_dom>

@@ -1,0 +1,143 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (35,47)<a aria-label='스프레드시트 홈' href='https://docs.google.com/spreadsheets/u/0/?pli=1&authuser=0&usp=sheets_web' id='docs-branding-logo-link' />
+	[1] (35,47)<div  />
+		[2] (35,47)<div  />
+제목 없는 스프레드시트
+[3] (154,31)<input aria-label='이름 바꾸기' class='docs-title-input' />
+[4] (270,34)<div aria-label='별표' class='docs-titlebar-badge goog-inline-block goog-control' id='docs-star' role='checkbox' />
+	[5] (270,34)<div  />
+[6] (334,34)<div aria-label='문서 상태: 저장 중…' class='goog-control' id='docs-save-indicator-badge' role='button' />
+	[7] (334,34)<div  />
+		[8] (307,34)<div  />
+			[9] (307,34)<div  />
+		[10] (349,34)<div >저장 중… />
+[11] (662,43)<div aria-label='모든 댓글 보기' class='goog-inline-block jfk-button jfk-button-standard docs-appbar-circle-button docs-titlebar-button docos-comments-pe' id='docs-docos-commentsbutton' role='button' />
+	[12] (661,44)<div  />
+[13] (727,43)<div aria-label='여기에서 통화에 참여하거나 통화에서 이 탭 발표' class='goog-flat-menu-button goog-inline-block' id='docs-meet-in-editors-entrypointbutton' role='button' />
+	[14] (716,42)<div  />
+		[15] (717,44)<div  />
+	[16] (742,43)<div  />
+[17] (810,43)<div aria-label='공유하기. 나에게만 공개. ' class='goog-inline-block jfk-button jfk-button-action scb-split-button docs-titlebar-button' role='button'>공유 />
+	[18] (796,42)<span  />
+[19] (867,43)<div aria-label='빠른 공유 작업' class='docs-titlebar-button scb-quick-actions-menu-button goog-flat-menu-button goog-flat-menu-button-collapse-left goog-inline-block' id='scb-quick-actions-menu-button' role='button' />
+	[20] (867,64)<div  />
+[21] (913,43)<button aria-label='Gemini 사용해 보기' class='javascriptMaterialdesignGm3WizIconButtonFilled-icon-button javascriptMaterialdesignGm3WizIconButtonFilled-icon-button--with-tooltip appsElementsSidekickEntryPointButton' />
+	[22] (913,43)<div  />
+[23] (962,43)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_1a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://docs.google.com/spreadsheets/u/0/d/1dqN6O5l3hYEytUYHMZjNNidAY8WaPlApl7umDAe5CrI/edit%3Fusp%3Ddot_new%26pli%3D1&ec=GBRAmwI' role='button' />
+[24] (77,67)<div class='menu-button goog-control goog-inline-block' id='docs-file-menu' role='menuitem'>파일 />
+[25] (120,67)<div class='menu-button goog-control goog-inline-block' id='docs-edit-menu' role='menuitem'>수정 />
+[26] (163,67)<div class='menu-button goog-control goog-inline-block' id='docs-view-menu' role='menuitem'>보기 />
+[27] (206,67)<div class='menu-button goog-control goog-inline-block' id='docs-insert-menu' role='menuitem'>삽입 />
+[28] (249,67)<div class='menu-button goog-control goog-inline-block' id='docs-format-menu' role='menuitem'>서식 />
+[29] (299,67)<div class='menu-button goog-control goog-inline-block' id='w183' role='menuitem'>데이터 />
+[30] (349,67)<div class='menu-button goog-control goog-inline-block' id='docs-tools-menu' role='menuitem'>도구 />
+[31] (421,67)<div class='menu-button goog-control goog-inline-block' id='docs-extensions-menu' role='menuitem'>확장 프로그램 />
+[32] (500,67)<div class='menu-button goog-control goog-inline-block' id='docs-help-menu' role='menuitem'>도움말 />
+[33] (48,122)<input aria-label='메뉴' class='docs-omnibox-input jfk-textinput assisted-actions-toolbar-omnibox label-input-label' placeholder='메뉴' role='combobox' />
+[34] (79,122)<div aria-label='실행취소 (Ctrl+Z)' class='goog-toolbar-button goog-inline-block' id='t-undo' role='button' />
+	[35] (79,122)<div  />
+		[36] (79,122)<div  />
+			[37] (79,123)<div  />
+[38] (112,122)<div aria-label='재실행 (Ctrl+Y)' class='goog-toolbar-button goog-inline-block' id='t-redo' role='button' />
+	[39] (112,122)<div  />
+		[40] (112,122)<div  />
+			[41] (112,123)<div  />
+[42] (144,122)<div aria-label='인쇄 (Ctrl+P)' class='goog-toolbar-button goog-inline-block' id='t-print' role='button' />
+	[43] (144,122)<div  />
+		[44] (144,122)<div  />
+			[45] (144,123)<div  />
+[46] (177,122)<div aria-label='서식 복사' class='goog-toolbar-toggle-button goog-toolbar-button goog-inline-block' id='t-paintformat' role='button' />
+	[47] (177,122)<div  />
+		[48] (177,122)<div  />
+			[49] (177,123)<div  />
+[50] (233,122)<div aria-label='확대/축소' class='docs-toolbar-zoom-combobox goog-toolbar-combo-button goog-inline-block' id='t-zoom' role='combobox' />
+	[51] (233,124)<div  />
+		[52] (232,124)<div  />
+			[53] (224,124)<div aria-label='확대/축소 목록입니다. 100%(이)가 선택되었습니다.' class='goog-inline-block goog-toolbar-combo-button-caption' id=':1w' role='option' />
+				[54] (222,123)<input aria-label='확대/축소' class='goog-toolbar-combo-button-input jfk-textinput' />
+			[55] (255,108)<div  />
+				[56] (258,123)<div  />
+[57] (295,122)<div aria-label='통화 형식' class='goog-toolbar-button goog-inline-block' id='t-num-fmt-currency' role='button' />
+	[58] (295,122)<div  />
+		[59] (295,122)<div >₩ />
+[60] (328,122)<div aria-label='퍼센트 형식' class='goog-toolbar-button goog-inline-block' id='t-num-fmt-percent' role='button' />
+	[61] (328,122)<div  />
+		[62] (328,122)<div >% />
+[63] (361,122)<div aria-label='소수점 이하 자릿수 감소' class='goog-toolbar-button goog-inline-block' id='t-num-fmt-decimal-decrease' role='button' />
+	[64] (361,122)<div  />
+		[65] (361,122)<div  />
+			[66] (361,123)<div  />
+[67] (393,122)<div aria-label='소수점 이하 자릿수 증가' class='goog-toolbar-button goog-inline-block' id='t-num-fmt-decimal-increase' role='button' />
+	[68] (393,122)<div  />
+		[69] (393,122)<div  />
+			[70] (393,123)<div  />
+[71] (427,122)<div aria-label='서식 더보기' class='goog-toolbar-menu-button goog-inline-block' id='t-num-fmt-other' role='button' />
+	[72] (427,122)<div  />
+		[73] (427,122)<div  />
+			[74] (427,122)<div >123 />
+[75] (467,122)<div aria-label='더보기' class='docs-toolbar-more-button goog-inline-block docs-toolbar-more-button-disabled goog-toolbar-button' id='moreButton' role='button' />
+	[76] (467,122)<div  />
+		[77] (467,122)<div  />
+			[78] (467,122)<div  />
+				[79] (467,122)<div  />
+					[80] (468,123)<div  />
+[81] (606,122)<div aria-label='메뉴 숨기기 (Ctrl+Shift+F)' class='goog-toolbar-button goog-inline-block' id='viewModeButton' role='button' />
+	[82] (606,122)<div  />
+		[83] (606,122)<div  />
+			[84] (606,123)<div  />
+[85] (971,974)<div aria-label='측면 패널 표시' class='app-switcher-button companion-collapser-button app-switcher-button-checked' role='button' />
+	[86] (971,977)<div  />
+[87] (46,182)<input class='jfk-textinput waffle-name-box' id='t-name-box' />
+[88] (94,182)<div aria-label='이름 상자 메뉴 버튼입니다. 메뉴 항목 중 하나를 선택하여 해당하는 이름이 지정된 범위로 이동하세요.' class='name-box-dropdown docs-toolbar-button-split-right goog-toolbar-menu-button goog-inline-block goog-toolbar-menu-button-disabled' id='t-name-box-dropdown' role='button' />
+	[89] (93,186)<div  />
+		[90] (91,186)<div  />
+			[91] (90,174)<div  />
+				[92] (93,182)<div  />
+[93] (389,184)<div class='cell-input' role='textbox'>https://www.aliexpress.com/item/1005012017874977.html />
+[94] (318,200)<div  />
+[95] (150,863)<div  />
+[96] (185,893)<div aria-label='서식 붙여넣기' class='postpaste-container goog-toolbar-menu-button goog-inline-block' id='post-paste-menu' role='button' title='서식 붙여넣기' />
+	[97] (185,887)<div  />
+		[98] (184,887)<div  />
+			[99] (175,890)<div  />
+				[100] (174,894)<div  />
+			[101] (198,881)<div  />
+				[102] (198,895)<div  />
+[103] (45,566)<div  />
+[104] (494,234)<div  />
+[105] (628,583)<div class='native-scrollbar native-scrollbar-ltr native-scrollbar-y' scrollable='true' />
+[106] (336,935)<div class='native-scrollbar native-scrollbar-ltr native-scrollbar-x' scrollable='true' />
+[107] (100,298)<div  />
+[108] (63,973)<div aria-label='시트 추가' class='docs-sheet-button goog-inline-block docs-sheet-add-button' id=':e' role='button' />
+	[109] (63,973)<div  />
+		[110] (63,973)<div  />
+			[111] (62,972)<div  />
+[112] (104,973)<div aria-label='모든 시트' class='docs-sheet-menu-button goog-inline-block docs-sheet-all-button docs-sheet-button' id=':f' role='button' />
+	[113] (104,973)<div  />
+		[114] (104,973)<div  />
+			[115] (103,972)<div  />
+[116] (176,974)<div class='goog-inline-block docs-sheet-tab docs-material docs-sheet-active-tab' id=':y' role='button' />
+	시트1
+테이블
+[117] (954,135)<div aria-label='닫기' class='docs-sidebar-gm-titlebar-icon-button docs-material docs-sidebar-gm-close-button docs-tiled-sidebar-close' role='button' />
+	[118] (954,136)<div  />
+[119] (817,577)<div class='docs-tiled-sidebar-scroll' scrollable='true' />
+	사전 빌드된 테이블로 시작하세요
+	스마트 칩, 자리표시자, 맞춤 색상 팔레트 포함
+	[120] (809,578)<div class='docs-sidebar-tile-header docs-sidebar-tile-header-cursor goog-zippy-header goog-zippy-expanded' role='button'>추천 />
+		추천
+	[121] (809,673)<div class='building-block-card-content-container' id='featured-blank-table' role='button'>비어 있는 표 />
+		비어 있는 표
+	[122] (809,756)<div class='building-block-card-content-container' id='event-planner-event-tasks' role='button'>이벤트 작업 />
+		이벤트 작업
+	[123] (809,839)<div class='building-block-card-content-container' id='project-management-project-tasks' role='button'>프로젝트 작업 />
+		프로젝트 작업
+	[124] (809,922)<div class='building-block-card-content-container' id='marketing-content-tracker' role='button'>콘텐츠 추적기 />
+		콘텐츠 추적기
+	제품 우선순위 지정
+
+</current_dom>

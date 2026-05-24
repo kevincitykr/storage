@@ -1,0 +1,145 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (759,24)<a class='link__cw-gnb enuri' href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>에누리 />
+[1] (798,24)<a class='link__cw-gnb malltail' href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>몰테일 />
+[2] (843,24)<a class='link__cw-gnb plto' href='https://www.plto.com/?utm_source=danawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[3] (887,24)<a class='link__cw-gnb makeshop' href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>메이크샵 />
+PC용 DDR4 : 다나와 가격비교
+[4] (127,144)<a class='logo-ci' href='https://www.danawa.com' />
+	[5] (127,144)<img  />
+[6] (495,139)<fieldset >통합 검색 />
+	통합 검색
+	[7] (481,144)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[8] (636,144)<button class='search__submit'>검색 />
+		검색
+[9] (782,150)<a class='btn_user btn_user--recent' href='#' role='button' />
+	[10] (781,170)<span >최근 />
+[11] (835,150)<a class='btn_user btn_user--wish' href='https://www.danawa.com/main/wish/wishList.php' role='button' />
+	[12] (835,170)<span >관심 />
+[13] (883,150)<a class='btn_user btn_user--login' href='https://auth.danawa.com/login?url=https%3A%2F%2Fprod.danawa.com%2Flist%2F%3Fcate%3D1131326' role='button' />
+	[14] (883,171)<span >로그인 />
+[15] (104,76)<a class='btn_app' href='#mobile_service_layer' role='button'>다나와 앱 />
+[16] (587,75)<a href='https://auto.danawa.com'>자동차 />
+[17] (621,75)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain'>조립PC />
+[18] (657,75)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti'>PC견적 />
+[19] (700,75)<a href='https://pc26.danawa.com/bbs/?logger_kw=dnw_gnb_pc26'>PC구매상담 />
+[20] (748,75)<a href='https://plan.danawa.com'>쇼핑기획전 />
+[21] (791,75)<a href='https://dpg.danawa.com/bbs'>커뮤니티 />
+[22] (827,75)<a href='https://event.danawa.com/'>이벤트 />
+/
+[23] (853,75)<a href='https://event.danawa.com/experience/'>체험단 />
+[24] (891,75)<a class='more_sevice_click' href='#more_service_layer2'>서비스
+더보기 />
+	서비스
+이런 상품 어때요?
+[25] (141,389)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=249000&shipFee=0&dlvryFee=0&dlvryFeeCd=1&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9lcl9Gc21uVkMzTHAtem5HR2xLNFlsVy1zTXhCNU1IUy1hbUVkVUZLTng2MENzV1hiOF9xcmk2bWpmMk9hX0NNQ0hzeGt6ajYyeDVSOE5GS0R1LUFtX19hY2lxbEd5NkgyTEgxeTdqSk5DLXBVRXZ5VWMwM1NOd3RiNmxEcFN0Q3JBQk9DTVp0MG5uanpoRFF0ZHNweEhOanVURnU5YlZHWTFGLUZFTi1TME9haG5lX2VrZnJ3Wmt1V1d2SHBFSW9VNU1NSXRmdWF1c1k0Wks3c1dmTFdzYUtFMEZkeTdOb0ltanlIR0QwdmVtTko3clkwbTNRbk5jUDViZjlMZnE2NHY4aG9Ta1pnNlhUNmVidjhaMlRqVEZhUEtXZ29zZVdoRFNMRWxtRTUyQTNPQ002Sl9CRGZoRDhFNHBjT0VfRj9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395' />
+[26] (141,516)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=249000&shipFee=0&dlvryFee=0&dlvryFeeCd=1&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9lcl9Gc21uVkMzTHAtem5HR2xLNFlsVy1zTXhCNU1IUy1hbUVkVUZLTng2MENzV1hiOF9xcmk2bWpmMk9hX0NNQ0hzeGt6ajYyeDVSOE5GS0R1LUFtX19hY2lxbEd5NkgyTEgxeTdqSk5DLXBVRXZ5VWMwM1NOd3RiNmxEcFN0Q3JBQk9DTVp0MG5uanpoRFF0ZHNweEhOanVURnU5YlZHWTFGLUZFTi1TME9haG5lX2VrZnJ3Wmt1V1d2SHBFSW9VNU1NSXRmdWF1c1k0Wks3c1dmTFdzYUtFMEZkeTdOb0ltanlIR0QwdmVtTko3clkwbTNRbk5jUDViZjlMZnE2NHY4aG9Ta1pnNlhUNmVidjhaMlRqVEZhUEtXZ29zZVdoRFNMRWxtRTUyQTNPQ002Sl9CRGZoRDhFNHBjT0VfRj9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395'>삼성 칩 PUSKILL DDR4 PC4-25600 3200mhz 32GB, 1개 />
+249,000
+원
+무료
+파워PC
+별점
+4.88
+리뷰수
+(
+42
+)
+[27] (247,389)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=42500&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9WQ2p4NlNhVzNzYk1ZUk50TXRwLVZ3VmUwRU9INmRXVU5lbGhtTGlKRk94SzYxSlV4bXFUbHlhUWRfM1Zrd2VNaUNwZGVPTkxVR1I2Sk9Ld3lJZGZmRDVIalBVTDZtRDZUQlVVN1hUYUp3X3NuWEJBTEpyc3RLMldsVVJYY1BDMXFKZ19GZ3dodldoR1MzZlY1b2pwWWxyZTdSYVR1aVJESjBBQTRXbVR2MmYwUDN6NU5kdkV3TTB6d0p4VlpCM0c0a2g3S01maVdfajd0SmRDT1dIYktsRXdtU1VZSlBvSmF1d05GMTRvalFzdnVYV003dmI4Y3lEOF9RenItVTh6WFUzNUJna2QzQnJKUEFRcTJrRGVJS1JkMU5HTUNGUUlDN0FXejlxaVFCblNkWlowSXMzc2lRVVczSHBDLTlGSj9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395' />
+[28] (247,516)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=42500&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9WQ2p4NlNhVzNzYk1ZUk50TXRwLVZ3VmUwRU9INmRXVU5lbGhtTGlKRk94SzYxSlV4bXFUbHlhUWRfM1Zrd2VNaUNwZGVPTkxVR1I2Sk9Ld3lJZGZmRDVIalBVTDZtRDZUQlVVN1hUYUp3X3NuWEJBTEpyc3RLMldsVVJYY1BDMXFKZ19GZ3dodldoR1MzZlY1b2pwWWxyZTdSYVR1aVJESjBBQTRXbVR2MmYwUDN6NU5kdkV3TTB6d0p4VlpCM0c0a2g3S01maVdfajd0SmRDT1dIYktsRXdtU1VZSlBvSmF1d05GMTRvalFzdnVYV003dmI4Y3lEOF9RenItVTh6WFUzNUJna2QzQnJKUEFRcTJrRGVJS1JkMU5HTUNGUUlDN0FXejlxaVFCblNkWlowSXMzc2lRVVczSHBDLTlGSj9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395'>[SK하이닉스] PC 램 RAM DDR4 4GB 3200 미사용 벌크 />
+42,500
+원
+3,000원
+DS솔루션
+[29] (353,389)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=91800&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9LaEpuNU91MWhxcnJOZm84amsyZk9SbTdRWnZWd3BPXzdBRV8xVHkwWGEwcFBMLWZvQzJsTXltbXJrdTdremJTODhfMmdQVUdwRmZWNDRKaWtGNDVVQzJGZm94akxEY0pZVTJ0WWdXTm5qWmdqWFFBSU9wNDREb1dSblVlQUs1ZVNnVHM5enUxb2huSlRGcUs5NUJ6VUdIWHJCX0UtV0pJVDNaYUxWbWk0MXhTNnVMT1Vrc29haDByQUxQU3Q3UHRTbDRJaGxxeV9RUTd1UjBuRzRwTDJJU3hhTzk0X1NNLUp2SVV4Ykh6YUI1RnMxaGhTdjVRNlRfNkExcEtsMEN0MEJHTjNtUDAtcFlpRHJBVDhVQlFzSGVKbDU2N1hCcmU0Nmx0OVRDcmdPNnVpc0pmd3VCLUotemZ3TmZrY2VCUj9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395' />
+[30] (353,516)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=91800&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9LaEpuNU91MWhxcnJOZm84amsyZk9SbTdRWnZWd3BPXzdBRV8xVHkwWGEwcFBMLWZvQzJsTXltbXJrdTdremJTODhfMmdQVUdwRmZWNDRKaWtGNDVVQzJGZm94akxEY0pZVTJ0WWdXTm5qWmdqWFFBSU9wNDREb1dSblVlQUs1ZVNnVHM5enUxb2huSlRGcUs5NUJ6VUdIWHJCX0UtV0pJVDNaYUxWbWk0MXhTNnVMT1Vrc29haDByQUxQU3Q3UHRTbDRJaGxxeV9RUTd1UjBuRzRwTDJJU3hhTzk0X1NNLUp2SVV4Ykh6YUI1RnMxaGhTdjVRNlRfNkExcEtsMEN0MEJHTjNtUDAtcFlpRHJBVDhVQlFzSGVKbDU2N1hCcmU0Nmx0OVRDcmdPNnVpc0pmd3VCLUotemZ3TmZrY2VCUj9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395'>[삼성] PC 램 RAM DDR4 8GB 3200 미사용 벌크 />
+91,800
+원
+3,000원
+DS솔루션
+[31] (459,389)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=35000&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9LaEpuNU91MWhxcnJOZm84amsyZk9TUkljZV9NcDdtQVhNSTQxcURncENEN3pSTHZfb3RJOEdkeU0zRVpwN2VnWlMzU3l2Vk9uWXRaeGdQb25lak5Oa2hWaXVDUlVoczdvY3BZTWJxSWNVTnBkUzJNUmdrbWkwZGdzRGEzUGFodER5ZEdFUnBGRnQ2QnBOVHNDNlNOZktRS21DYi1iMk9vUXBnLU11TjJPZVdoSXRJSnNVN2p0YkZLZ0IxSmY1TzkxMkE0U2wxWGgyRXpMS2pEbWI0MGZRdm1GWWZWMGlaWmdOa1otTjBEc0hMbjIzeTdNUkx6RExJRllTTE1nTC1sTEFlQnctSnpuYlJDZ3YtY0NYVElUTFRESzRHbTZOUUlJUk1LZFRJYmdlUnN1WkRrdUU2cDdVSHBvZjBFSjUwaz9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395' />
+[32] (459,516)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=35000&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9LaEpuNU91MWhxcnJOZm84amsyZk9TUkljZV9NcDdtQVhNSTQxcURncENEN3pSTHZfb3RJOEdkeU0zRVpwN2VnWlMzU3l2Vk9uWXRaeGdQb25lak5Oa2hWaXVDUlVoczdvY3BZTWJxSWNVTnBkUzJNUmdrbWkwZGdzRGEzUGFodER5ZEdFUnBGRnQ2QnBOVHNDNlNOZktRS21DYi1iMk9vUXBnLU11TjJPZVdoSXRJSnNVN2p0YkZLZ0IxSmY1TzkxMkE0U2wxWGgyRXpMS2pEbWI0MGZRdm1GWWZWMGlaWmdOa1otTjBEc0hMbjIzeTdNUkx6RExJRllTTE1nTC1sTEFlQnctSnpuYlJDZ3YtY0NYVElUTFRESzRHbTZOUUlJUk1LZFRJYmdlUnN1WkRrdUU2cDdVSHBvZjBFSjUwaz9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395'>[SK하이닉스] PC 램 RAM DDR4 4GB 2933 미사용 벌크 />
+35,000
+원
+3,000원
+DS솔루션
+[33] (565,389)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=30000&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9uYmxQeVdUZjhOdUo5YnVkMWEtZTh5dXl3QkZlZGZ2ZVgtVFVhb1d2aDRvQXZwbDdXZE9oSzRxWjlGSThlbi1GaTEtYVJCV0VDOU5hc2ZSR2IzblRrX2dWOVdLMllERDdneFZCQU5lMW1VdXNZMTZZVFpBRHpVbkNvcUR3T1U0T2dCWVNmR3BIanpxZ3ZEVkF2blEyeTFfWVROMi1VaTc1ekV5MU95eTE3UFZFZFVIQ0dFckstWUhaWjB3N25MT2QzWHYxTGpXTTRWa2Vmc3Qwd1pHUGNYakpOSU5ZSkZFRDBNWkhjcGVyZUs0U3lZZWJ5S3pSbVN1UmZzaHhCYWtVUDdwMVFxM1JIRU5wSEM2SjNNUFZQQ3p2dl9JOGxDdmQxdzdnU3h6emh3b2RKSnUwM1NpNUh5RzhxWGFqY3l1SD9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395' />
+[34] (565,516)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=30000&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9uYmxQeVdUZjhOdUo5YnVkMWEtZTh5dXl3QkZlZGZ2ZVgtVFVhb1d2aDRvQXZwbDdXZE9oSzRxWjlGSThlbi1GaTEtYVJCV0VDOU5hc2ZSR2IzblRrX2dWOVdLMllERDdneFZCQU5lMW1VdXNZMTZZVFpBRHpVbkNvcUR3T1U0T2dCWVNmR3BIanpxZ3ZEVkF2blEyeTFfWVROMi1VaTc1ekV5MU95eTE3UFZFZFVIQ0dFckstWUhaWjB3N25MT2QzWHYxTGpXTTRWa2Vmc3Qwd1pHUGNYakpOSU5ZSkZFRDBNWkhjcGVyZUs0U3lZZWJ5S3pSbVN1UmZzaHhCYWtVUDdwMVFxM1JIRU5wSEM2SjNNUFZQQ3p2dl9JOGxDdmQxdzdnU3h6emh3b2RKSnUwM1NpNUh5RzhxWGFqY3l1SD9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395'>[RAMAXEL] PC 램 RAM DDR4 4GB 3200 미사용 벌크 />
+30,000
+원
+3,000원
+DS솔루션
+[35] (671,389)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=30000&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9uYmxQeVdUZjhOdUo5YnVkMWEtZTg2SUNyN2xoMHVibklmVUtMQVBRZWNoTGk5R2VUU1RRRl9YaW1PN1hSNzk4bmxZcmtBUk5aeTRQTmpMeDR3ZzF1aTViTUNEeUpGRHRHc3JHcEVKWkpmcm5DSFhRZzZ2cGZ0UGp5SGVnb2tRdmdxNElfZmprajJxd3BENUsxN2xROG9ndlJTakJsWEM5cllqLWh3dzhJZnhpZEFMOWdFN1k0cUFfZ3hBYzcwMjVyME0tb1dhbDJzS1hKVlhKQ0h3NldBbVJuMXU0b2piX3VxTldZWERYeEFJelpWQmdnR0xQcnBMZXA2dGJDRVZRQUFmVi1EbndiMlhJektFZS03SlM1N3ppNE5MUVBqSWVnVHZROW5xTXBBM1hkRkFDaWhqdkozN2htamg1QTRUej9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395' />
+[36] (671,516)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?minPrice=30000&shipFee=3000&dlvryFee=3000&dlvryFeeCd=0&adKeyword=%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2520RAM&prodType=imported&serviceType=list&cate1=861&cate2=874&cate3=0&cate4=0&uiCategoryCode=1131326&locationType=top&sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9uYmxQeVdUZjhOdUo5YnVkMWEtZTg2SUNyN2xoMHVibklmVUtMQVBRZWNoTGk5R2VUU1RRRl9YaW1PN1hSNzk4bmxZcmtBUk5aeTRQTmpMeDR3ZzF1aTViTUNEeUpGRHRHc3JHcEVKWkpmcm5DSFhRZzZ2cGZ0UGp5SGVnb2tRdmdxNElfZmprajJxd3BENUsxN2xROG9ndlJTakJsWEM5cllqLWh3dzhJZnhpZEFMOWdFN1k0cUFfZ3hBYzcwMjVyME0tb1dhbDJzS1hKVlhKQ0h3NldBbVJuMXU0b2piX3VxTldZWERYeEFJelpWQmdnR0xQcnBMZXA2dGJDRVZRQUFmVi1EbndiMlhJektFZS03SlM1N3ppNE5MUVBqSWVnVHZROW5xTXBBM1hkRkFDaWhqdkozN2htamg1QTRUej9jPWRhbmF3YS5jaDEwJk5hUG09MQ==&r=17781107953395'>[ADATA]PC 램 RAM DDR4 4GB 2666 미사용 벌크 />
+30,000
+원
+3,000원
+DS솔루션
+별점
+5
+리뷰수
+(
+2
+)
+[37] (139,707)<a class='view_all_category' href='#sectionExplodeLayer' />
+	[38] (139,707)<strong >전체 카테고리 />
+주요부품
+[39] (139,834)<a class='main_link' href='/list/?cate=112747'>CPU />
+[40] (139,887)<a class='main_link' href='/list/?cate=11236855'>쿨러/튜닝 />
+[41] (139,941)<a class='main_link' href='/list/?cate=112751'>메인보드 />
+[42] (139,994)<a class='main_link' href='/list/?cate=112752'>RAM />
+[43] (210,705)<a class='dir_link' href='http://www.danawa.com'>홈 />
+컴퓨터/노트북/조립PC
+[44] (310,706)<a class='btn_dir_cover' href='#' />
+주요부품
+[45] (363,706)<a class='btn_dir_cover' href='#' />
+[46] (391,705)<a class='dir_link' href='/list/?cate=112752'>RAM />
+[47] (403,706)<a class='btn_dir_cover' href='#' />
+PC용 DDR4
+[48] (468,706)<a class='btn_dir_cover' href='#' />
+[49] (487,706)<button class='btn_copy_url' id='getPriceParameter'>URL />
+[50] (251,770)<a class='nav_link' href='/list/?cate=11341201' id='viewMore_41201' />
+	[51] (251,769)<span >PC용 DDR5 />
+[52] (338,770)<a class='nav_link' href='/list/?cate=1131326' id='viewMore_1326' />
+	[53] (338,769)<span >PC용 DDR4 />
+[54] (425,770)<a class='nav_link' href='/list/?cate=11343180' id='viewMore_43180' />
+	[55] (425,769)<span >노트북용 DDR5 />
+[56] (511,770)<a class='nav_link' href='/list/?cate=11325803' id='viewMore_25803' />
+	[57] (511,769)<span >노트북용 DDR4 />
+[58] (597,770)<a class='nav_link' href='/list/?cate=11335273' id='viewMore_35273' />
+	[59] (597,769)<span >서버용 RAM />
+[60] (684,770)<a class='nav_link' href='/list/?cate=11326179' id='viewMore_26179' />
+	[61] (684,769)<span >중고 RAM />
+[62] (251,825)<a class='nav_link' href='/list/?cate=11341513' id='viewMore_41513' />
+	[63] (251,824)<span >Mac용 RAM />
+[64] (338,825)<a class='nav_link' href='/list/?cate=11317756' id='viewMore_17756' />
+	[65] (338,824)<span >XMP/EXPO 메모리 />
+[66] (425,825)<a class='nav_link' href='/list/?cate=11312469' id='viewMore_12469' />
+	[67] (425,824)<span >RAM 쿨러 />
+CM 추천 옵션은
+하이라이트
+로 강조했어요.
+[68] (688,909)<button class='button__research'>사용자의 선택은?! />
+제조사별
+[69] (249,973)<a class='view_graph' href='#' title='항목별 통계 보기' />
+	[70] (250,973)<span  />
+[71] (333,974)<label title='삼성전자'>삼성전자 />
+	[72] (299,972)<input id='searchMakerRep702' />
+[73] (413,974)<label title='마이크론'>마이크론 />
+	[74] (379,972)<input id='searchMakerRep4156' />
+[75] (493,974)<label title='ESSENCORE'>ESSENCORE />
+	[76] (459,972)<input id='searchMakerRep92255' />
+[77] (573,974)<label title='TeamGroup'>TeamGroup />
+	[78] (539,972)<input id='searchMakerRep4142' />
+[79] (653,974)<label title='GeIL'>GeIL />
+	[80] (619,972)<input id='searchMakerRep4129' />
+[81] (711,974)<button class='btn_spec_view btn_view_more'>개 />
+	[82] (704,974)<strong >23 />
+[83] (945,404)<button class='button__floating-vs'>VS검색
+개 담김 />
+	VS검색
+	[84] (965,404)<span >0 />
+	개 담김
+
+</current_dom>

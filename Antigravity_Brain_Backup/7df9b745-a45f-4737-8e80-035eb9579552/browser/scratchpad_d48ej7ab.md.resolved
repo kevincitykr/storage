@@ -1,0 +1,19 @@
+# Syncthing Synchronization Task
+
+## Plan
+1. [x] Navigate to http://localhost:8384
+2. [x] Edit 'Kevincity Share' folder
+3. [x] Add 'Goodtobehere공유폴더' to Ignore Patterns (Used wildcard 'Goodtobehere*' due to Korean typing issue)
+4. [x] Save changes
+5. [x] Resume 'Kevincity Share' folder
+6. [x] Verify status (scanning, failed items disappearing)
+7. [x] Add other deleted system folders to Ignore Patterns to fully clear 'Failed Items'
+8. [x] Monitor transfer speed for 'upload2601'
+
+## Notes
+- System folders were deleted via command line.
+- 'Failed Items' are now fully cleared after adding all deleted folders to the ignore list.
+- Current ignore list includes system folders and 'Goodtobehere*'.
+- 'upload2601' status is 'Up to date' (최신 상태).
+- Local folder status is 'Preparing to sync' (동기화 준비).
+- Local file count is ~4,300, down from ~116k.

@@ -1,0 +1,8 @@
+# AI Autopilot Investigation Plan
+
+1. [ ] Open the local app: `file:///C:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/%EA%B5%AC%EA%B8%80%EB%B8%94%EB%A1%9C%EA%B7%B8/index.html`
+2. [ ] Check the browser console for any errors related to '🤖 AI 오토파일럿' or 'handleAutoUpload'.
+3. [ ] Verify if the 'autopilot-status-badge' says 'ON'.
+4. [ ] Check the 'localStorage' to see if 'autopilot_posted' contains any new IDs.
+5. [ ] Check 'https://kevincity.tistory.com' to see if a NEW post appeared (today's date 2026-03-09).
+6. [ ] Report back with findings.

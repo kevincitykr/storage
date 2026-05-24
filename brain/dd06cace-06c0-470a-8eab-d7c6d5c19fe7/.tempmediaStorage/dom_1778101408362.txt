@@ -1,0 +1,73 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+중고나라
+[0] (165,31)<a class='link_naver' href='http://www.naver.com' />
+	[1] (165,26)<img  />
+[2] (600,26)<a href='https://section.cafe.naver.com'>카페홈 />
+[3] (632,26)<a href='https://cafe.naver.com/ca-fe/home/town'>이웃 />
+[4] (668,26)<a href='#'>가입카페 />
+[5] (690,26)<a href='#' />
+	[6] (691,24)<img  />
+[7] (714,26)<a class='link_chatting' href='#'>새글 />
+[8] (746,26)<a class='link_chatting' href='#'>내소식 />
+[9] (778,26)<a class='link_chatting' href='#'>채팅 />
+[10] (816,24)<a class='gnb_btn_login' href='https://nid.naver.com/nidlogin.login' id='gnb_login_button' />
+	[11] (816,24)<span >로그인 />
+[12] (844,25)<a class='gnb_service' href='javascript:;' />
+	[13] (844,25)<span  />
+[14] (500,144)<div  />
+	[15] (500,144)<a href='/MyCafeIntro.nhn?clubid=10050146' />
+		[16] (500,144)<img  />
+[17] (177,281)<a class='link_special' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=1257&search.boardtype=L' id='special-menuLink-1257' title='이벤트'>이벤트 />
+[18] (221,281)<a class='link_special' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=1256&search.boardtype=L' id='special-menuLink-1256' title='공지사항'>공지사항 />
+[19] (269,281)<a class='link_special' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=1805&search.boardtype=L' id='special-menuLink-1805' title='이용정책'>이용정책 />
+[20] (337,281)<a class='link_special' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=2446&search.boardtype=L' id='special-menuLink-2446' title='★셀러 회원 신청★'>★셀러 회원 신청★ />
+[21] (181,372)<li  />
+	[22] (181,372)<button class='gm-tcol-t'>카페정보 />
+[23] (246,372)<li  />
+	[24] (246,372)<button >나의활동 />
+카페정보
+[25] (174,463)<a href='/MyCafeIntro.nhn?clubid=10050146' />
+[26] (221,438)<a class='id mlink gm-tcol-c' href='/f-e/cafes/10050146/members/MokGI1z_orABW9EK8LpfFo6WVvnUzJvKl-gGIbFuTRw' />
+	[27] (221,438)<div  />
+		[28] (221,438)<div >중고나라운영진1 />
+매니저
+[29] (227,465)<a class='gm-tcol-c' href='#'>2003.12.10. 개설 />
+[30] (214,492)<a class='u gm-tcol-c' href='#'>카페소개 />
+[31] (214,552)<a class='gm-tcol-c' href='#'>카페등급 />
+	카페등급
+	[32] (161,550)<span  />
+	[33] (174,550)<em >숲 />
+[34] (214,585)<li >카페멤버수 />
+	카페멤버수
+	[35] (187,585)<a href='#' />
+		[36] (161,584)<img  />
+		[37] (194,585)<em >19,427,916 />
+			[38] (216,585)<span  />
+	닫기
+	[39] (264,585)<a class='link_invite' href='#'>초대 />
+대표 인기카페
+[40] (214,729)<a class='_rosRestrict' href='#'>카페 가입하기 />
+[41] (214,798)<a class='link_chat _tabletRestrict(채팅)' href='#'>카페 채팅 />
+[42] (201,861)<input class='inp' id='topLayerQueryInput' title='카페글 검색어 입력' />
+[43] (266,861)<button class='btn'>검색 />
+[44] (186,913)<a class='gm-tcol-c' href='/ArticleList.nhn?search.clubid=10050146&search.boardtype=L' id='menuLink0'>전체글보기 />
+226,634,338
+[45] (179,947)<a class='gm-tcol-c' href='/f-e/cafes/10050146/popular' id='menuLink-7'>인기글 />
+💸 빠르게 상품 팔기
+카페 대문
+[46] (572,369)<a href='https://tracking.joongna.com/zscklk' title='새창으로 열림' />
+	[47] (572,595)<img alt='대문이미지' id='userImg3795835' />
+[48] (572,839)<a href='https://vvd.bz/hF0a' title='새창으로 열림' />
+	[49] (572,921)<img alt='대문이미지' id='userImg8680592' />
+[50] (438,1057)<img alt='대문이미지' id='userImg2560444' />
+[51] (767,1040)<a href='https://vvd.bz/dkXU' title='새창으로 열림' />
+	[52] (767,1061)<img alt='대문이미지' id='userImg8165579' />
+[53] (572,1101)<a href='https://vvd.bz/hf92' title='새창으로 열림' />
+	[54] (572,1182)<img alt='대문이미지' id='userImg2586401' />
+[55] (572,1272)<a href='https://vvd.bz/hoRU' title='새창으로 열림' />
+	[56] (572,1354)<img alt='대문이미지' id='userImg1878475' />
+
+</current_dom>

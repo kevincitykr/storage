@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Implementation plan to resume and finalize the Windly sourcing button automation on AliExpress. This plan involves updating the Hub dashboard and the backend server to trigger the automated clicking process, ensuring the user's actual Chrome profile is used with the Windly extension active.",
+  "updatedAt":  "2026-04-22T04:17:10.076130300Z",
+  "requestFeedback":  true
+}

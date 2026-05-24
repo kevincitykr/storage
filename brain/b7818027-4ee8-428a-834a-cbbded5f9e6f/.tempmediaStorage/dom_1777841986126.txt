@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (131,88)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (389,87)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (585,87)<div  />
+	[3] (583,87)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (583,87)<span  />
+	[5] (601,87)<span  />
+[6] (619,87)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (619,87)<span  />
+[8] (648,87)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (677,87)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (711,87)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (706,87)<div  />
+		[12] (706,87)<span  />
+[13] (900,87)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (936,87)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (971,87)<a aria-label='Google 계정: 김더케빈  
+(kkseob0116@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EC%259C%2588%25EB%2593%25A4%25EB%25A6%25AC&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (113,190)<a class='XVMlrc C6AK7c' href='/search?q=%EC%9C%88%EB%93%A4%EB%A6%AC&sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPOT-GH2OcviONVp3UCmXIsXa2clZBYaOhzj0ZS-h_ImQDvje1iGnv6JAijHhtCqgMDmQqSuMhU7FcYrltCOKXcPLVFUBQ&aep=1&ntc=1&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8Q2J8OegQICRAD' />
+	[17] (113,190)<div  />
+		[18] (113,205)<div  />
+			[19] (113,195)<span  />
+				[20] (113,195)<span >AI 모드 />
+[21] (156,190)<a class='C6AK7c' role='link' />
+	전체
+[22] (192,190)<a class='C6AK7c' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPOT-GH2OcviONVp3UCmXIsXa2clZBYaOhzj0ZS-h_ImQDvje1iGnv6JAijHhtCqgMDmQqSuMhU7FcYrltCOKXcPLVFUBQ&q=%EC%9C%88%EB%93%A4%EB%A6%AC&ved=1t:220175&ictx=111' />
+	[23] (192,190)<div  />
+		[24] (192,205)<span >쇼핑 />
+[25] (233,190)<a class='C6AK7c' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPOT-GH2OcviONVp3UCmXIsXa2clZBYaOhzj0ZS-h_ImQDvje1iGnv6JAijHhtCqgMDmQqSuMhU7FcYrltCOKXcPLVFUBQ&q=%EC%9C%88%EB%93%A4%EB%A6%AC&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8QtKgLegQIDhAB' />
+	[26] (233,190)<div  />
+		[27] (233,205)<span >동영상 />
+[28] (279,190)<a class='C6AK7c' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPOT-GH2OcviONVp3UCmXIsXa2clZBYaOhzj0ZS-h_ImQDvje1iGnv6JAijHhtCqgMDmQqSuMhU7FcYrltCOKXcPLVFUBQ&q=%EC%9C%88%EB%93%A4%EB%A6%AC&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8QtKgLegQIDxAB' />
+	[29] (279,190)<div  />
+		[30] (279,205)<span >이미지 />
+[31] (320,190)<a class='C6AK7c' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&q=%EC%9C%88%EB%93%A4%EB%A6%AC&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPOT-GH2OcviONVp3UCmXIsXa2clZBYaOhzj0ZS-h_ImQDvje1iGnv6JAijHhtCqgMDmQqSuMhU7FcYrltCOKXcPLVFUBQ&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8Q0pQJegQIDBAB' />
+	[32] (320,190)<div  />
+		[33] (320,205)<span >뉴스 />
+[34] (372,190)<a class='C6AK7c' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPOT-GH2OcviONVp3UCmXIsXa2clZBYaOhzj0ZS-h_ImQDvje1iGnv6JAijHhtCqgMDmQqSuMhU7FcYrltCOKXcPLVFUBQ&q=%EC%9C%88%EB%93%A4%EB%A6%AC&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8Qs6gLegQICxAB' />
+	[35] (372,190)<div  />
+		[36] (372,205)<span >짧은 동영상 />
+[37] (436,190)<div class='mTpL7c' role='button' />
+	[38] (436,190)<div  />
+		[39] (436,205)<div  />
+			[40] (429,195)<span >더보기 />
+			[41] (450,195)<span  />
+[42] (490,190)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[43] (490,190)<div  />
+		[44] (490,205)<div  />
+			[45] (483,195)<span >도구 />
+			[46] (499,195)<span  />
+검색결과
+광고: 검색 결과
+[47] (118,504)<a class='sVXRqc' href='https://www.windly.cc/' />
+	[48] (118,497)<div class='CCgQ5 vCa9Yd QfkTvb N8QANc MBeuO Va3FIb EE3Upf' role='heading' />
+		[49] (118,501)<span >윈들리 />
+	[50] (164,437)<div  />
+		[51] (153,437)<span  />
+			[52] (112,437)<span  />
+				[53] (108,437)<span  />
+					[54] (108,437)<div  />
+						[55] (108,437)<img  />
+			[56] (168,437)<span  />
+				[57] (168,422)<span  />
+					[58] (168,422)<div  />
+						[59] (147,422)<span >windly.cc />
+				[60] (168,454)<span  />
+					[61] (168,456)<span class='x2VHCd OSrXXb ob9lvb' role='text'>https://www.windly.cc />
+[62] (221,458)<div aria-label='이 광고가 표시된 이유' class='YMEk9e r2fjmd uYZpsf HbX59e TxG06d' role='button' title='이 광고가 표시된 이유' />
+	[63] (221,456)<span  />
+구매대행부터 위탁판매까지 — 포토샵이 필요없는 올인원 솔루션. 도매꾹, 타오바오, 라쿠텐, 아마존 10억개+ 상품을 원클릭으로 국내 오픈마켓에서 판매하세요. 솔루션으로 시간 단축하고. 등록에만...
+[64] (317,693)<a class='aphJLc chV67d' href='/aclk?sa=L&pf=1&ai=DChsSEwjv7tu8gZ6UAxW_yxYFHQVDI50YACICCAEQBhoCdGw&co=1&ase=2&gclid=CjwKCAjw5NvPBhAoEiwA_2egfuN81j_blHobE1EeTeri1e3qMEFWQuwUnBoPCCoifHOdDlkrlHgcjRoCIWsQAvD_BwE&cid=CAASuwHkaMntSYht3mHwil6uvWa-tz010X8lKcuEO-k5iU78ncHouz0Lkid9-3ZAri-GCRTNZMpgyMesul4HTMBN25wcwmNtYKtQg-QNeBauJKPLAHJMPj9dx56qiPGVm25MWHRCL591OsBNOAkqYV2JAo9738N05djQaE_31VMSGq4qr11QFZNR9JnJChkrrrP5sR8jQBout67irRBM1QaX_AMbzlupOHgygYR1KHwgAyefohwOd_3UEtq78ilU&cce=2&category=acrcp_v1_32&sig=AOD64_1aye362v7achVaDRU97G_Ho1yFIA&adurl=https://windly.cc%3Fgad_source%3D1%26gad_campaignid%3D21916057134%26gbraid%3D0AAAAAoTIyKALl6O-ZlO9f6a-x0i1HEPzg%26gclid%3DCjwKCAjw5NvPBhAoEiwA_2egfuN81j_blHobE1EeTeri1e3qMEFWQuwUnBoPCCoifHOdDlkrlHgcjRoCIWsQAvD_BwE&q=' />
+	[65] (317,674)<div >쉽고 빠른 AI 쇼핑몰관리 솔루션 />
+		[66] (512,690)<span  />
+			[67] (512,689)<div  />
+	[68] (317,715)<div >더 이상 찾아 헤매지 마세요, 윈들리 하나면 충분해요 />
+[69] (186,910)<a class='sVXRqc' href='https://www.pick2sell.kr/' />
+	[70] (186,903)<div class='CCgQ5 vCa9Yd QfkTvb N8QANc MBeuO Va3FIb EE3Upf' role='heading' />
+		[71] (186,907)<span >픽투셀, 반자동 올인원 솔루션 />
+	[72] (168,843)<div  />
+		[73] (157,843)<span  />
+			[74] (112,843)<span  />
+				[75] (108,841)<span  />
+					[76] (108,843)<div  />
+						[77] (108,843)<img  />
+			[78] (172,843)<span  />
+				[79] (172,828)<span  />
+					[80] (172,828)<div  />
+						[81] (141,828)<span >픽투셀 />
+				[82] (172,860)<span  />
+					[83] (172,861)<span class='x2VHCd OSrXXb ob9lvb' role='text'>https://www.pick2sell.kr />
+[84] (230,863)<div aria-label='이 광고가 표시된 이유' class='YMEk9e r2fjmd uYZpsf HbX59e TxG06d' role='button' title='이 광고가 표시된 이유' />
+	[85] (230,861)<span  />
+픽투셀, 역대급 간편 구매대행 — 요즘 돈 버는 셀러들은 이미 픽투셀로 환승중! 역대급 혜택에 AI 무제한 번역이 월 6만원대
+[86] (699,301)<a class='a3glFf' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&q=%EC%9C%88%EB%93%A4%EB%A6%AC&si=AL3DRZEHca6XkyN49T3T8E-njBIUGWs3zrGnCIPmAtz1Ayz-OtIQRLDel2nxc5YvqvW-Sf3FpltLS_bqlliXIVYdOAqyjdhq1qmnjWSk212mIyfpYYrwS-4LQkxIqM8tq6ltkWmkP5SUMpyUAE4dfJbEVStlBKKfNQ%3D%3D&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8Q_coHegQIEhAB&ictx=0' />
+	[87] (699,301)<div class='PZPZlf ssJ7i B5dxMb' role='heading'>올리비아 윈들리 />
+올림픽 선수
+[88] (693,352)<div class='mTpL7c' role='button' />
+	[89] (693,352)<span aria-label='올리비아 윈들리에 대한 옵션 더보기' class='Zj92Hf' role='img' />
+		[90] (692,349)<span  />
+[91] (889,319)<a class='a3glFf' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&q=%EC%9C%88%EB%93%A4%EB%A6%AC&si=AL3DRZEHca6XkyN49T3T8E-njBIUGWs3zrGnCIPmAtz1Ayz-OtIQRLDel2nxc5YvqvW-Sf3FpltLS_bqlliXIVYdOAqyjdhq1qmnjWSk212mIyfpYYrwS-4LQkxIqM8tq6ltkWmkP5SUMpyUAE4dfJbEVStlBKKfNQ%3D%3D&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8Q_coHegQIEhAe&ictx=0' />
+	[92] (889,319)<div  />
+		[93] (889,319)<div  />
+			[94] (889,319)<span  />
+팀메이트
+[95] (745,466)<a class='fl' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&q=%EC%B9%BC%EB%A6%AC%EA%B7%B8+%ED%9E%90&si=AL3DRZGNtcdgKOqVhotcr-UG2kkYpwR2WO4qu3O00NmpwBmLnUNd31kQmbLbSg97mRlX8ItOvMssLqIdcgzaqIWLFWiHI9k62-CU7RI20hog2r9FCECfcY3a3n4ZCMl0mfuztyqjCRKBRogrQJ5yzPyscSnmXPYH8C7BWSqSZm12UATigukT_WiAVdXKKmCu5yc6GykOcVVSfJ7NaCvruL1A2Fb1KQ-tW1UUJv4vySfxMtVDQUhzWsugNg0a_OVGIaWsF6M1hMdy2bc0paXFVQRaaFEe1Dbh86ZTB4SesRVL6deLdpcSdUU%3D&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8QmxN6BAgaEAI'>칼리그 힐 />
+,
+[96] (796,466)<a class='fl' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&q=%ED%8C%8C%EB%9D%BC+%EA%B0%88%EB%A1%9C%EC%9A%B0&si=AL3DRZGNtcdgKOqVhotcr-UG2kkYpwR2WO4qu3O00NmpwBmLnXjj1KhYaeHhmPFYF56hiPad1Dfn1spXgDH2tLXhgq3Dy-xP6BsnyPUFqbwRk05YM7Yg9o1DO4ERrm6riNJ4pkhZuDSHFAd3qEyJbVjcm_RYy1lVEW8K64pYXfkTr6rLR61hRt8L4pZ6Azui0mzE7721CXuWkBo3KdJjPTFc63OX5RCF01k_qz6iV-PTcgGBhRetL0HBfqNnAuN3F0upzpLpBSE751tMtDZGnvG5shFCae5zDFuDjcgR6HudjEpEl5VVab2KQmxqw_dhGpIed2666d37&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8QmxN6BAgaEAM'>파라 갈로우 />
+,
+[97] (856,466)<a class='fl' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&q=%EC%86%8C%ED%94%BC%EC%95%84+%ED%98%B8%EC%99%80%ED%8A%B8&si=AL3DRZGNtcdgKOqVhotcr-UG2kkYpwR2WO4qu3O00NmpwBmLnUVAm_Xaj4TboQkYNRYNG16tzSA8Bzyarg2cz3WTOwzdf8xIONKPCadOsNCTJEOsMRt8dfq66YQvh1IzjUWZCVCdJmCMhQmsp6BAFt__Mfs476tlycs3CStxe1tsuF6hsp_-JhZKkRUMh0nR0t_Td9yGRZVN_dTDlZlUuJ6bwS-GYT_J4TIbaYCTkS0xgZ9KZn-FYaLeruH_k23ZNiK40v4UmAEAGfcKT0ly8FeAMGVF7qv1iJ7U7hOCwZMxhA-9yyNOThSLe1xmqinM0NzvFTi2iMIN&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8QmxN6BAgaEAQ'>소피아 호와트 />
+,
+[98] (754,503)<a class='fl' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&q=%EB%A3%A8%EC%8B%9C%EC%95%84+%EB%A3%A8%EC%8B%9C%ED%8B%B0&si=AL3DRZGNtcdgKOqVhotcr-UG2kkYpwR2WO4qu3O00NmpwBmLnQ5lUYLXWBwRtzWSvpvvnvgmgoy5DfLyF_KrIvP8jGEtp9cpF-AvVNZaB_jBGq4OoWepeZAs2caIFJx1vIzV3oSWmIM8qnMap0-3kmSIK1ilwK5L5R4b8kFNrJl_7up0AlWldnPnRBnTUmme0e_gJuOySEZjFuKXYCImXqDNZVSCh_FA9-6vkW2EIvZB1jn-QRTxOT4XcNHkyS4CTPVZdviwxR7l6xeBFHD19Gsd2yffFjEDxA69KLAcs3PQ3Cmkbu04jdeYdHAZhiZq4_hGJ4v1RoRM&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8QmxN6BAgaEAU'>루시아 루시티 />
+·
+[99] (807,503)<a class='fl' href='/search?sca_esv=0cab7dc9b7c9dd0e&sxsrf=ANbL-n70nueF5JD2szRnU9AJB8X3Mt25fA:1777841978329&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%ED%8C%80%EB%A9%94%EC%9D%B4%ED%8A%B8&stick=H4sIAAAAAAAAAOPgE-LVT9c3NKwoTrcwNkzK09LMKLfST87PyUlNLsnMz9PPz6nMLchMjk8sychJLUkttipJTczNTQSyFrGKvZnT8XryktfL1ii87Wl4vXLKm7lb3nbtAAB4w2pvVQAAAA&sa=X&ved=2ahUKEwiIyda8gZ6UAxUqoK8BHUJQEK8Q44YBegQIGhAG' />
+	[100] (807,503)<span >더보기 />
+
+</current_dom>

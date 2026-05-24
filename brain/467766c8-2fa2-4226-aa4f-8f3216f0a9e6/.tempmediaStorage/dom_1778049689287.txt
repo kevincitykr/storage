@@ -1,0 +1,186 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (334,125)<a class='inline shrink-0' href='/search/%EB%B2%84%EC%A6%884%ED%94%84%EB%A1%9C' />
+	[6] (334,125)<span >버즈4프로 />
+		[7] (318,125)<span >16
+. />
+[8] (379,125)<a class='inline shrink-0' href='/search/%EC%A7%80%EC%83%A5' />
+	[9] (379,125)<span >지샥 />
+		[10] (372,125)<span >17
+. />
+[11] (414,125)<a class='inline shrink-0' href='/search/%EB%8D%98%EC%8A%A4' />
+	[12] (414,125)<span >던스 />
+		[13] (407,125)<span >18
+. />
+[14] (455,125)<a class='inline shrink-0' href='/search/%EB%AF%B8%EB%8B%88pc' />
+	[15] (455,125)<span >미니pc />
+		[16] (443,125)<span >19
+. />
+[17] (505,125)<a class='inline shrink-0' href='/search/7800x3d' />
+	[18] (505,125)<span >7800x3d />
+		[19] (489,125)<span >20
+. />
+[20] (666,69)<a href='/search?keyword=RTX+4070+%EB%B3%B8%EC%B2%B4&minPrice=1400000&maxPrice=1800000&page=1&openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+선택한 필터
+전체
+1,400,000원 ~ 1,800,000원
+판매완료 상품 제외
+초기화
+검색 상품 가격 요약
+평균 가격
+1,621,818원
+가장 높은 가격
+1,800,000원
+가장 낮은 가격
+1,450,000원
+[35] (664,486)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[36] (664,486)<span >추천순 />
+[37] (701,486)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[38] (701,486)<span >최신순 />
+[39] (746,486)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[40] (746,486)<span >낮은가격순 />
+[41] (799,486)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[42] (799,486)<span >높은가격순 />
+[43] (239,774)<div  />
+	[44] (239,750)<a class='w-full' href='/product/227583121' />
+		[45] (239,750)<div  />
+			[46] (239,673)<div  />
+				[47] (239,673)<div  />
+				[48] (284,775)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[49] (239,888)<div  />
+				[50] (239,870)<div  />
+					[51] (239,849)<span >인텔 i9-13900 RTX 4070 Ti 게이밍 본체 급처 />
+					[52] (239,900)<div  />
+						[53] (239,900)<div  />
+							[54] (208,900)<span >1,700,000 />
+							[55] (240,901)<span >원 />
+				[56] (239,943)<div  />
+					[57] (239,943)<div  />
+						[58] (197,943)<div  />
+							[59] (188,943)<div  />
+								[60] (193,943)<span >5 />
+							[61] (207,943)<div  />
+								[62] (212,943)<span >7 />
+						[63] (219,943)<div  />
+						[64] (236,943)<span >18일 전 />
+[65] (369,774)<div  />
+	[66] (369,750)<a class='w-full' href='/product/228081405' />
+		[67] (369,750)<div  />
+			[68] (369,673)<div  />
+				[69] (369,673)<div  />
+				[70] (415,775)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[71] (369,888)<div  />
+				[72] (369,870)<div  />
+					[73] (369,849)<span >라이젠7500F + RTX4070 미니PC 조립컴퓨터 본체 />
+					[74] (369,900)<div  />
+						[75] (369,900)<div  />
+							[76] (339,900)<span >1,550,000 />
+							[77] (371,901)<span >원 />
+				[78] (369,943)<div  />
+					[79] (369,943)<div  />
+						[80] (327,943)<div  />
+							[81] (318,943)<div  />
+								[82] (324,943)<span >5 />
+							[83] (337,943)<div  />
+								[84] (343,943)<span >1 />
+						[85] (349,943)<div  />
+						[86] (368,943)<span >3시간 전 />
+[87] (500,774)<div  />
+	[88] (500,750)<a class='w-full' href='/product/228241928' />
+		[89] (500,750)<div  />
+			[90] (500,673)<div  />
+				[91] (500,673)<div  />
+				[92] (546,775)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[93] (500,888)<div  />
+				[94] (500,870)<div  />
+					[95] (500,849)<span >부산 i5 13500 / rtx4070 컴퓨터 본체 데스크탑 pc />
+					[96] (500,900)<div  />
+						[97] (500,900)<div  />
+							[98] (470,900)<span >1,450,000 />
+							[99] (502,901)<span >원 />
+				[100] (500,943)<div  />
+					[101] (500,943)<div  />
+						[102] (458,943)<div  />
+							[103] (449,943)<div  />
+								[104] (455,943)<span >3 />
+							[105] (468,943)<div  />
+								[106] (474,943)<span >1 />
+						[107] (480,943)<div  />
+						[108] (499,943)<span >6시간 전 />
+[109] (631,774)<div  />
+	[110] (631,750)<a class='w-full' href='/product/226404083' />
+		[111] (631,750)<div  />
+			[112] (631,673)<div  />
+				[113] (631,673)<div  />
+				[114] (677,775)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[115] (631,888)<div  />
+				[116] (631,870)<div  />
+					[117] (631,849)<span >i7-12700K RTX4070 본체 판매합니다 />
+					[118] (631,900)<div  />
+						[119] (631,900)<div  />
+							[120] (600,900)<span >1,500,000 />
+							[121] (633,901)<span >원 />
+				[122] (631,943)<div  />
+					[123] (631,943)<div  />
+						[124] (590,943)<div  />
+							[125] (580,943)<div  />
+								[126] (586,943)<span >4 />
+							[127] (599,943)<div  />
+								[128] (605,943)<span >2 />
+[129] (761,774)<div  />
+	[130] (761,774)<a class='w-full' href='/product/225659656' />
+		[131] (761,774)<div  />
+			[132] (761,673)<div  />
+				[133] (761,673)<div  />
+				[134] (807,775)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[135] (761,913)<div  />
+				[136] (761,870)<div  />
+					[137] (761,849)<span >i7-12700K RTX4070 32GB 본체 팝니다 />
+					[138] (761,900)<div  />
+						[139] (761,900)<div  />
+							[140] (731,900)<span >1,500,000 />
+							[141] (764,901)<span >원 />
+				[142] (761,967)<div  />
+					[143] (761,943)<div  />
+						[144] (710,943)<div  />
+							[145] (710,943)<div  />
+								[146] (716,943)<span >7 />
+					[147] (761,989)<div  />
+						[148] (718,989)<div  />
+							[149] (718,989)<span >무료배송 />
+[150] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[151] (854,907)<div  />
+		[152] (903,907)<div  />
+[153] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[154] (902,799)<span  />
+
+</current_dom>

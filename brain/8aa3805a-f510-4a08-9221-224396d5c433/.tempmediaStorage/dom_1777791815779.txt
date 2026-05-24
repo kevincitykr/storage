@@ -1,0 +1,336 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (230,28)<div class='_18RYS3F-' role='button' />
+	[1] (241,28)<div  />
+		[2] (241,28)<div  />
+			[3] (241,16)<div  />
+				[4] (191,16)<div  />
+					[5] (186,16)<div >무료 배송 />
+			[6] (241,40)<div >최소 주문 금액 13,000원 (국내 발송 상품 제외) />
+[7] (431,28)<li  />
+	[8] (431,28)<div class='_18RYS3F-' role='button' />
+		[9] (442,28)<div  />
+			[10] (442,28)<div  />
+				[11] (442,16)<div  />
+					[12] (441,16)<div  />
+						[13] (441,16)<div >무료 반품 />
+				[14] (442,40)<div >최대 90일* />
+가격 조정
+30일 이내
+배송 보장
+모든 문제에 대한 반품 가능
+[15] (593,28)<div class='_18RYS3F-' role='button' />
+	[16] (604,28)<div  />
+		[17] (604,28)<div  />
+			[18] (604,28)<div  />
+				[19] (604,28)<div  />
+					[20] (604,28)<div >Temu 앱 다운로드 />
+[21] (778,28)<div class='_1_ixefkT' role='none' />
+	[22] (778,28)<div  />
+		[23] (778,28)<div  />
+			[24] (751,28)<div  />
+				[25] (750,38)<span >수백만 명의 구매자가 이용하는 Temu에서 판매를 시작해 보세요. />
+			[26] (824,28)<a class='_2Tl9qLr1 _1dANk6WB' href='https://kr.seller.temu.com/login.html?login_scene=201&shop_region=185&shop_site=119' />
+				[27] (824,28)<div  />
+					[28] (821,28)<div >참여하기 />
+[29] (160,92)<a alt='temu' class='_2Tl9qLr1 _1LssdoSX _3Dio8XUP _3BXnNo54' href='/kr' title='temu' />
+	[30] (160,92)<div  />
+[31] (211,92)<a class='_2Tl9qLr1 om4n6mFo IGF4LXWi _18U1wRIT _3BXnNo54 _3GBVQxAr' href='/kr/channel/best-sellers.html' />
+	[32] (217,92)<span >베스트셀러 상품 />
+[33] (267,92)<a class='_2Tl9qLr1 om4n6mFo IGF4LXWi _18U1wRIT _3BXnNo54 _3GBVQxAr' href='/kr/channel/full-star.html' />
+	[34] (272,92)<span >별점 5점 />
+[35] (304,92)<a class='_2Tl9qLr1 om4n6mFo IGF4LXWi _18U1wRIT _3BXnNo54 _3GBVQxAr' href='/kr/channel/new-in.html' />
+	[36] (304,92)<span >신상품 />
+[37] (341,92)<div  />
+	[38] (341,92)<div aria-label='카테고리' class='_2jbDKJi2 _1ds_vWpj _3BXnNo54 _3ZwPkfOp' role='button' />
+		[39] (341,92)<div  />
+			[40] (337,92)<div  />
+				[41] (337,92)<span >카테고리 />
+		[42] (346,511)<div class='_3_qRwsZv' />
+			[43] (346,519)<div class='_3whZW_Rn _27tw5ERt' />
+				[44] (188,519)<ul class='_3-5bT22U' id='firstOptContainer' scrollable='true' />
+					[45] (185,152)<li role='presentation' />
+						[46] (185,152)<div class='e75ZP_DS' role='none' />
+							[47] (184,152)<a class='_2Tl9qLr1 _3-nHWzJ8 rdZ3D3cl' href='/category.html?opt_id=-13&opt_level=1&title=추천&_x_enter_scene_type=cate_tab&show_search_type=0&child_opt_list=1420%2C1452%2C2036%2C7158%2C1018%2C843%2C1626%2C6926%2C180%2C1891%2C31%2C517%2C2642%2C829%2C1121%2C426%2C585%2C29%2C751%2C355%2C1115%2C30%2C1732%2C721%2C732%2C737%2C1723%2C809%2C1088%2C7317&leaf_type=son' />
+								[48] (145,152)<div  />
+									[49] (145,152)<span >추천 />
+					[50] (185,193)<li role='presentation' />
+						[51] (185,193)<div class='e75ZP_DS' role='none' />
+							[52] (184,193)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/home-kitchen-o3-36.html' />
+								[53] (150,193)<div  />
+									[54] (150,193)<span >홈&주방 />
+					[55] (185,233)<li role='presentation' />
+						[56] (185,233)<div class='e75ZP_DS' role='none' />
+							[57] (184,233)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/womens-clothing-o3-28.html' />
+								[58] (152,233)<div  />
+									[59] (152,233)<span >여성 의류 />
+					[60] (185,273)<li role='presentation' />
+						[61] (185,273)<div class='e75ZP_DS' role='none' />
+							[62] (184,273)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/womens-curve-clothing-o3-589.html' />
+								[63] (163,273)<div  />
+									[64] (163,273)<span >여성 커브 플러스 />
+					[65] (185,314)<li role='presentation' />
+						[66] (185,314)<div class='e75ZP_DS' role='none' />
+							[67] (184,314)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/womens-shoes-o3-95.html' />
+								[68] (148,314)<div  />
+									[69] (148,314)<span >여성화 />
+					[70] (185,354)<li role='presentation' />
+						[71] (185,354)<div class='e75ZP_DS' role='none' />
+							[72] (184,354)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/womens-lingerie-lounge-o3-1107.html' />
+								[73] (162,354)<div  />
+									[74] (162,354)<span >여성 속옷&잠옷 />
+					[75] (185,394)<li role='presentation' />
+						[76] (185,394)<div class='e75ZP_DS' role='none' />
+							[77] (184,394)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/mens-clothing-o3-67.html' />
+								[78] (152,394)<div  />
+									[79] (152,394)<span >남성 의류 />
+					[80] (185,434)<li role='presentation' />
+						[81] (185,434)<div class='e75ZP_DS' role='none' />
+							[82] (184,434)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/mens-shoes-o3-1536.html' />
+								[83] (148,434)<div  />
+									[84] (148,434)<span >남성화 />
+					[85] (185,475)<li role='presentation' />
+						[86] (185,475)<div class='e75ZP_DS' role='none' />
+							[87] (184,475)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/mens-big-tall-o3-1232.html' />
+								[88] (167,475)<div  />
+									[89] (167,475)<span >남성 플러스 사이즈 />
+					[90] (185,515)<li role='presentation' />
+						[91] (185,515)<div class='e75ZP_DS' role='none' />
+							[92] (184,515)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/mens-underwear-sleepwear-o3-114.html' />
+								[93] (162,515)<div  />
+									[94] (162,515)<span >남성 속옷&잠옷 />
+					[95] (185,555)<li role='presentation' />
+						[96] (185,555)<div class='e75ZP_DS' role='none' />
+							[97] (184,555)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/sports-outdoors-o3-178.html' />
+								[98] (164,555)<div  />
+									[99] (164,555)<span >스포츠&아웃도어 />
+					[100] (185,595)<li role='presentation' />
+						[101] (185,595)<div class='e75ZP_DS' role='none' />
+							[102] (184,595)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/jewelry-accessories-o3-352.html' />
+								[103] (164,595)<div  />
+									[104] (164,595)<span >주얼리&액세서리 />
+					[105] (185,636)<li role='presentation' />
+						[106] (185,636)<div class='e75ZP_DS' role='none' />
+							[107] (184,636)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/beauty-health-o3-25.html' />
+								[108] (154,636)<div  />
+									[109] (154,636)<span >뷰티&건강 />
+					[110] (185,676)<li role='presentation' />
+						[111] (185,676)<div class='e75ZP_DS' role='none' />
+							[112] (184,676)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/toys-games-o3-204.html' />
+								[113] (157,676)<div  />
+									[114] (157,676)<span >장난감&게임 />
+					[115] (185,716)<li role='presentation' />
+						[116] (185,716)<div class='e75ZP_DS' role='none' />
+							[117] (184,716)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/automotive-o3-580.html' />
+								[118] (152,716)<div  />
+									[119] (152,716)<span >차량 용품 />
+					[120] (185,756)<li role='presentation' />
+						[121] (185,756)<div class='e75ZP_DS' role='none' />
+							[122] (184,756)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/kids-fashion-o3-218.html' />
+								[123] (152,756)<div  />
+									[124] (152,756)<span >아동 패션 />
+					[125] (185,797)<li role='presentation' />
+						[126] (185,797)<div class='e75ZP_DS' role='none' />
+							[127] (184,797)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/kids-shoes-o3-1553.html' />
+								[128] (148,797)<div  />
+									[129] (148,797)<span >아동화 />
+					[130] (185,837)<li role='presentation' />
+						[131] (185,837)<div class='e75ZP_DS' role='none' />
+							[132] (184,837)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/baby-maternity-o3-1167.html' />
+								[133] (154,837)<div  />
+									[134] (154,837)<span >유아&출산 />
+					[135] (185,877)<li role='presentation' />
+						[136] (185,877)<div class='e75ZP_DS' role='none' />
+							[137] (184,877)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/bags-luggage-o3-731.html' />
+								[138] (161,877)<div  />
+									[139] (161,877)<span >가방&여행가방 />
+					[140] (185,917)<li role='presentation' />
+						[141] (185,917)<div class='e75ZP_DS' role='none' />
+							[142] (184,917)<a class='_2Tl9qLr1 _3-nHWzJ8' href='/kr/patio-lawn-garden-o3-885.html' />
+								[143] (166,917)<div  />
+									[144] (166,917)<span >파티오&잔디&정원 />
+					예술품&공예품&봉제 용품
+					전자기기
+				[145] (409,519)<div class='_2hTeY9FC _3nlBPi0Q' id='rightContent_-13' scrollable='true' />
+					[146] (288,226)<a aria-label='야외 장식' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/outdoor-decor-o3-1420.html' role='link' />
+						[147] (288,192)<div  />
+						[148] (288,248)<div  />
+							[149] (288,259)<div  />
+								[150] (288,259)<div >야외 장식 />
+					[151] (348,226)<a aria-label='테이프&접착제&고정 장치' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/tape--fasteners-o3-1452.html' role='link' />
+						[152] (348,192)<div  />
+						[153] (348,259)<div  />
+							[154] (348,271)<div  />
+								[155] (348,270)<div >테이프&접착제&고정 장치 />
+					[156] (409,226)<a aria-label='전문 의료용품' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/professional--supplies-o3-2036.html' role='link' />
+						[157] (409,192)<div  />
+						[158] (409,248)<div  />
+							[159] (409,259)<div  />
+								[160] (409,259)<div >전문 의료용품 />
+					[161] (469,226)<a aria-label='간식과 과자' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/snacks-sweets-o3-7158.html' role='link' />
+						[162] (469,192)<div  />
+						[163] (469,248)<div  />
+							[164] (469,259)<div  />
+								[165] (469,259)<div >간식과 과자 />
+					[166] (529,226)<a aria-label='여성용 블레이저' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/womens--o3-1018.html' role='link' />
+						[167] (529,192)<div  />
+						[168] (529,259)<div  />
+							[169] (529,271)<div  />
+								[170] (529,270)<div >여성용 블레이저 />
+					[171] (288,410)<a aria-label='여성 맨투맨' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/womens-sweatshirts-o3-843.html' role='link' />
+						[172] (288,376)<div  />
+						[173] (288,432)<div  />
+							[174] (288,443)<div  />
+								[175] (288,442)<div >여성 맨투맨 />
+					[176] (348,410)<a aria-label='스포츠&아웃도어 액세서리' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/sports-outdoor-accessories-o3-1626.html' role='link' />
+						[177] (348,376)<div  />
+						[178] (348,443)<div  />
+							[179] (348,454)<div  />
+								[180] (348,454)<div >스포츠&아웃도어 액세서리 />
+					[181] (409,410)<a aria-label='옷장&세탁물 보관' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/closet-laundry-storage-o3-6926.html' role='link' />
+						[182] (409,376)<div  />
+						[183] (409,443)<div  />
+							[184] (409,454)<div  />
+								[185] (409,454)<div >옷장&세탁물 보관 />
+					[186] (469,410)<a aria-label='남성 트레이닝복' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/mens-activewear-o3-180.html' role='link' />
+						[187] (469,376)<div  />
+						[188] (469,443)<div  />
+							[189] (469,454)<div  />
+								[190] (469,454)<div >남성 트레이닝복 />
+					[191] (529,410)<a aria-label='여성 티셔츠' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/womens-t-shirt-o3-1891.html' role='link' />
+						[192] (529,376)<div  />
+						[193] (529,432)<div  />
+							[194] (529,443)<div  />
+								[195] (529,442)<div >여성 티셔츠 />
+					[196] (288,594)<a aria-label='여성 원피스' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/womens-dresses-o3-31.html' role='link' />
+						[197] (288,560)<div  />
+						[198] (288,615)<div  />
+							[199] (288,627)<div  />
+								[200] (288,626)<div >여성 원피스 />
+					[201] (348,594)<a aria-label='여성 트레이닝복' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/womens-activewear-o3-517.html' role='link' />
+						[202] (348,560)<div  />
+						[203] (348,627)<div  />
+							[204] (348,638)<div  />
+								[205] (348,638)<div >여성 트레이닝복 />
+					[206] (409,594)<a aria-label='케이스&홀스터&파우치' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/cases-holsters-sleeves-o3-2642.html' role='link' />
+						[207] (409,560)<div  />
+						[208] (409,627)<div  />
+							[209] (409,638)<div  />
+								[210] (409,638)<div >케이스&홀스터&파우치 />
+					[211] (469,594)<a aria-label='여성용 투피스 세트' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/womens-two-piece-sets-o3-829.html' role='link' />
+						[212] (469,560)<div  />
+						[213] (469,627)<div  />
+							[214] (469,638)<div  />
+								[215] (469,638)<div >여성용 투피스 세트 />
+					[216] (529,594)<a aria-label='여성 잠옷' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/womens-sleepwear-o3-1121.html' role='link' />
+						[217] (529,560)<div  />
+						[218] (529,615)<div  />
+							[219] (529,627)<div  />
+								[220] (529,626)<div >여성 잠옷 />
+						[221] (546,521)<img class='wxWpAMbp mCjqpBpd' role='presentation' />
+					[222] (288,790)<a aria-label='여성 주얼리' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/womens-jewelry-o3-426.html' role='link' />
+						[223] (288,744)<div  />
+						[224] (288,799)<div  />
+							[225] (288,811)<div  />
+								[226] (288,810)<div >여성 주얼리 />
+						[227] (304,705)<img class='wxWpAMbp mCjqpBpd' role='presentation' />
+					[228] (348,790)<a aria-label='오토바이 및 파워스포츠 액세서리' class='_2Tl9qLr1 _1XDPWwsB category-float-layer-category-item' href='/kr/motorcycles--accessories-o3-585.html' role='link' />
+						[229] (348,744)<div  />
+						[230] (348,822)<div  />
+							[231] (348,834)<div  />
+								[232] (348,833)<div >오토바이 및 파워스포츠 액세서리 />
+						[233] (365,705)<img class='wxWpAMbp mCjqpBpd' role='presentation' />
+					여성 블라우스&셔츠
+					홈 데코 제품
+					[234] (485,705)<img class='wxWpAMbp mCjqpBpd' role='presentation' />
+					헤드폰&이어 버즈&액세서리
+					[235] (546,705)<img class='wxWpAMbp mCjqpBpd' role='presentation' />
+					[236] (304,912)<img class='wxWpAMbp mCjqpBpd' role='presentation' />
+[237] (513,91)<input aria-label='검색창. 더블 클릭하여 검색어를 입력하고 Temu에서 검색할 수 있습니다.' class='_7H3Q1N2_' id='searchInput' />
+[238] (664,91)<div aria-label='검색 제출' class='_3c7A9Vnx Ekwe4GOT' role='button' />
+현관 바닥매트
+[239] (712,92)<div aria-label='주문 & 계정' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[240] (712,92)<div  />
+		[241] (694,92)<div  />
+		[242] (719,92)<div  />
+			[243] (719,84)<div  />
+				[244] (719,84)<div >님 />
+					[245] (714,84)<span >김더케빈 />
+			[246] (719,100)<div >주문 & 계정 />
+[247] (766,92)<div aria-label='지원 센터' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[248] (766,92)<div  />
+		[249] (752,92)<div  />
+		[250] (773,92)<div  />
+			[251] (773,92)<div >지원 센터 />
+[252] (813,92)<div aria-label='한국 한국어' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='button' />
+	[253] (813,92)<div  />
+		[254] (803,92)<div  />
+			[255] (803,92)<img  />
+		[256] (820,92)<div  />
+			[257] (820,92)<div >한국어 />
+[258] (846,92)<div aria-label='장바구니' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[259] (846,92)<div  />
+		[260] (846,92)<div  />
+홈
+파티오&잔디&정원
+야외 장식
+AimzzaSKY 2D 평면 만화 고양이 현관 ...
+0:00
+/
+0:32
+리뷰 704건
+4.8
+모든 리뷰는 구매 인증 후 작성되었습니다
+01***16
+​ 2026년 2월 12일
+훌륭함
+무료 배송
+배송 지연 시 5,300원 크레딧 지급
+가장 빠른 KR 도착 시간 영업일 기준 2일
+AimzzaSKY 2D 평면 만화 고양이 현관 매트 1개, 입구, 주방, 거실, 침실용 반원형 폴리에스터 현관 매트, 세탁기 사용 가능, 무늬 없는 직조 원단, 두께 0.3cm, 700g/㎡, 가정 현관 장식용 바닥 매트
+브랜드: AIMZZASKY
+2.4만 판매됨
+판매자
+4.8
+최고 평점
+야외 장식
+5,802
+원
+품절임박
+Temu 제품 가격은 관세 등을 포함하고 있어 고객에게 추가적인 비용이 발생하지 않습니다.
+빅 세일
+18
+:
+16
+:
+56
+:
+25
+남은 시간:
+사이즈
+40*60cm / 15.7*24인치
+50*80cm/19.7*31.5인치
+60*90cm / 23.6*35.43인치
+95.36%개의 긍정적 리뷰
+수량
+품절 임박! 지금 추가하세요!
+가장 빠른 KR 도착 시간
+영업일 기준 2일
+무료 배송
+해당 상품
+가장 빠른 KR 도착 시간
+영업일 기준 2일
+배송업체:
+CJ
+Hanjin
+...
+최소 주문 금액 13,000원 (국내 발송 상품 제외)
+안전 결제
+개인 정보 보호
+메시지
+피드백
+[261] (972,59)<button class='sesame-floating-action-legacy' />
+
+</current_dom>

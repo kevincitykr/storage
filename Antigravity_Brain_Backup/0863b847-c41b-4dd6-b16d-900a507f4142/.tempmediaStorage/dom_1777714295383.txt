@@ -1,0 +1,185 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (52,35)<a href='../main/main.htm' />
+	[1] (52,35)<img  />
+[2] (213,35)<div class='search_bar' />
+	[3] (197,35)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (306,35)<button aria-label='검색' class='search28_3A' />
+[5] (913,35)<a href='javascript:void(0);'>로그인 />
+[6] (944,35)<a href='../member/member_kind.htm'>회원가입 />
+[7] (977,35)<a href='javascript:void(0);'>상담센터 />
+[8] (21,92)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[9] (56,94)<a href='javascript:void(0);'>조립PC />
+[10] (83,94)<a href='javascript:void(0);'>견적 />
+[11] (113,94)<a href='../hotsale/hotsale.htm?bannerid=GNBBannerHotsale'>파격할인 />
+[12] (150,94)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[13] (189,94)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[14] (224,94)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[15] (270,94)<a href='javascript:void(0);'>컴퓨존추천 />
+[16] (307,94)<a href='javascript:void(0);'>전용관 />
+[17] (337,94)<a href='javascript:void(0);'>매거진 />
+[18] (370,94)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[19] (400,94)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[20] (437,94)<a href='javascript:void(0);'>컴퓨존 라이브 />
+[21] (539,92)<div  />
+	[22] (485,92)<p >공식 />
+	[23] (542,92)<div  />
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+		HP 브랜드스토어
+		[24] (542,92)<div >LG gram & 브랜드스토어 />
+		Microsoft 브랜드스토어
+		AMD 브랜드스토어
+		Intel 브랜드스토어
+		RAZER 브랜드스토어
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+	[25] (595,92)<i  />
+[26] (927,81)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[27] (927,103)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[28] (950,99)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[29] (979,99)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[30] (116,384)<a class='small_rolling_prev left_rolling_prev' href='#' />
+[31] (126,384)<a class='small_rolling_next left_rolling_next' href='#' />
+[32] (121,299)<a href='../event_zone/eventzone_view.htm?EventNo=60704&bannerid=CateLeftWingRollingBanner' />
+	[33] (121,297)<img  />
+[34] (121,509)<a href='../event_zone/eventzone_view.htm?EventNo=60857&bannerid=CateLeftWingFixBanner' />
+	[35] (121,507)<img  />
+[36] (121,672)<a href='../event_zone/eventzone_view.htm?EventNo=60782&bannerid=CateLeftWingFixBanner' />
+	[37] (121,671)<img  />
+[38] (121,838)<a href='../estimate/choose.htm?bannerid=LeftWingFixBannerEstimate' />
+	[39] (121,836)<img  />
+[40] (969,684)<a href='javascript:void(0);' />
+	[41] (961,684)<span  />
+		[42] (961,684)<img  />
+	[43] (977,684)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+[44] (969,773)<a href='../event_zone/eventzone_view.htm?EventNo=60956&bannerid=QuickMenuRolling' />
+	[45] (969,773)<img  />
+	[46] (969,793)<p >HP노트북
+마스터팩 />
+배민5만원
+[47] (955,827)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+2
+/
+5
+[48] (982,827)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[49] (969,859)<p class='ntRB12 co6C'>최근 본 상품 />
+[50] (969,899)<a href='javascript:;' />
+	[51] (969,899)<img  />
+[52] (957,959)<a href='javascript:void(0);' />
+	[53] (957,959)<img  />
+[54] (980,959)<a href='javascript:void(0);' />
+	[55] (980,959)<img  />
+[56] (166,156)<a class='cate_home' href='../main/main.htm' />
+[57] (202,156)<a class='selectBox' href='./productB_new_list.htm?BigDivNo=4'>컴퓨터 부품 />
+	[58] (220,157)<span  />
+[59] (255,156)<a class='selectBox' href='./product_list.htm?BigDivNo=4&MediumDivNo=1014'>메모리 />
+	[60] (266,157)<span  />
+[61] (291,155)<a class='selectBox' href='./product_list.htm?BigDivNo=4&MediumDivNo=1014&DivNo=2036'>PC용 />
+카테고리
+[62] (209,264)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1012'>CPU />
+[63] (256,261)<a class='arrow' href='javascript:cate_view(1012)' />
+[64] (209,296)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1013'>메인보드 />
+[65] (256,293)<a class='arrow' href='javascript:cate_view(1013)' />
+[66] (209,328)<a class='upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1014'>메모리 />
+[67] (256,325)<a class='arrow' href='javascript:cate_view(1014)' />
+[68] (214,357)<a href='product_list.htm?BigDivNo=4&MediumDivNo=1014&DivNo=2036'>PC용 />
+[69] (214,389)<a href='product_list.htm?BigDivNo=4&MediumDivNo=1014&DivNo=2037'>노트북용 />
+[70] (214,421)<a href='product_list.htm?BigDivNo=4&MediumDivNo=1014&DivNo=2038'>서버용 />
+[71] (214,453)<a href='product_list.htm?BigDivNo=4&MediumDivNo=1014&DivNo=2474'>XMP/EXPO 메모리 />
+[72] (209,496)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1276'>SSD />
+[73] (256,493)<a class='arrow' href='javascript:cate_view(1276)' />
+[74] (209,527)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1015'>HDD />
+[75] (256,525)<a class='arrow' href='javascript:cate_view(1015)' />
+[76] (209,559)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1016'>그래픽카드 />
+[77] (256,557)<a class='arrow' href='javascript:cate_view(1016)' />
+[78] (209,591)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1017'>ODD />
+[79] (256,588)<a class='arrow' href='javascript:cate_view(1017)' />
+[80] (209,623)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1147'>케이스 />
+[81] (256,620)<a class='arrow' href='javascript:cate_view(1147)' />
+[82] (209,655)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1148'>파워 />
+[83] (256,652)<a class='arrow' href='javascript:cate_view(1148)' />
+[84] (209,687)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1020'>쿨러/튜닝용품 />
+[85] (256,684)<a class='arrow' href='javascript:cate_view(1020)' />
+[86] (209,718)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1199'>사운드카드 />
+[87] (256,716)<a class='arrow' href='javascript:cate_view(1199)' />
+상세검색
+[88] (239,791)<a class='view_btn' href='javascript:void(0);'>검색 전체보기 />
+리스트 내 검색
+[89] (214,847)<input class='iptxtBasic' id='splist_kw' />
+[90] (245,847)<button class='btn_search' />
+	[91] (245,847)<span  />
+나만의 필터
+[92] (337,216)<li >MD 추천상품 />
+[93] (348,355)<img  />
+[94] (348,478)<a href='javascript:void(0);' />
+	[95] (322,457)<span >[PATRIOT] />
+	[96] (348,486)<span >패트리어트 DDR4 PC4-25600 CL22 SIGNATURE />
+106,000
+원
+[97] (454,355)<img  />
+[98] (454,478)<a href='javascript:void(0);' />
+	[99] (428,457)<span >[삼성전자] />
+	[100] (454,486)<span >삼성 DDR5 PC5-44800 />
+176,500
+원
+[101] (560,355)<img  />
+[102] (560,478)<a href='javascript:void(0);' />
+	[103] (534,457)<span >[SK hynix] />
+	[104] (560,486)<span >SK하이닉스 DDR5 PC5-44800 />
+733,000
+원
+[105] (666,355)<img  />
+[106] (666,478)<a href='javascript:void(0);' />
+	[107] (638,457)<span >[ADATA] />
+	[108] (666,486)<span >ADATA DDR5 PC5-44800 CL46 파인인포 />
+329,600
+원
+[109] (772,355)<img  />
+[110] (772,478)<a href='javascript:void(0);' />
+	[111] (746,457)<span >[마이크론] />
+	[112] (772,486)<span >마이크론 Crucial DDR5 PC5-44800 CL46 대원씨티... />
+157,780
+원
+[113] (688,692)<a href='javascript:void(0);'>ADATA />
+[114] (742,692)<a href='javascript:void(0);'>PATRIOT />
+[115] (797,692)<a href='javascript:void(0);'>에센코어 />
+[116] (349,872)<div class='brand_txtBox' />
+	[117] (358,873)<span >선착순 1천명 한정 />
+		[118] (342,890)<b >CU 상품권 3천원! />
+[119] (450,793)<a href='../product/product_detail.htm?ProductNo=683833&BigDivNo=&MediumDivNo=&DivNo=' />
+	[120] (450,795)<img  />
+[121] (450,890)<a >에센코어 KLEVV DDR4 PC4-25600 CL22... />
+110,120
+원
+[122] (532,793)<a href='../product/product_detail.htm?ProductNo=683834&BigDivNo=4&MediumDivNo=1014&DivNo=2036' />
+	[123] (532,795)<img  />
+[124] (532,890)<a href='../product/product_detail.htm?ProductNo=683834&BigDivNo=4&MediumDivNo=1014&DivNo=2036'>에센코어 KLEVV DDR4 PC4-25600 CL22... />
+193,000
+원
+[125] (614,793)<a href='../product/product_detail.htm?ProductNo=683835&BigDivNo=4&MediumDivNo=1014&DivNo=2037' />
+	[126] (614,795)<img  />
+[127] (614,890)<a href='../product/product_detail.htm?ProductNo=683835&BigDivNo=4&MediumDivNo=1014&DivNo=2037'>노트북용 KLEVV DDR4 PC4-25600 CL22... />
+12%
+↓
+95,000
+원
+[128] (697,793)<a href='../product/product_detail.htm?ProductNo=683836&BigDivNo=4&MediumDivNo=1014&DivNo=2037' />
+	[129] (697,795)<img  />
+[130] (697,890)<a href='../product/product_detail.htm?ProductNo=683836&BigDivNo=4&MediumDivNo=1014&DivNo=2037'>노트북용 KLEVV DDR4 PC4-25600 CL22... />
+222,000
+원
+[131] (779,793)<a href='../product/product_detail.htm?ProductNo=977732&BigDivNo=4&MediumDivNo=1014&DivNo=2036' />
+	[132] (779,795)<img  />
+[133] (779,890)<a href='../product/product_detail.htm?ProductNo=977732&BigDivNo=4&MediumDivNo=1014&DivNo=2036'>에센코어 KLEVV DDR5 PC5-44800 CL46... />
+325,000
+원
+PC용
+
+</current_dom>

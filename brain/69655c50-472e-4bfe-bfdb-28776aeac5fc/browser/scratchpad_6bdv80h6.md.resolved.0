@@ -1,0 +1,6 @@
+# Task: Check for pending Syncthing requests
+
+- [ ] Open http://127.0.0.1:8384
+- [ ] Check for "New Device" or "New Folder" prompts
+- [ ] Extract IDs if found
+- [ ] Report results

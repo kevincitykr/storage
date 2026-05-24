@@ -1,0 +1,32 @@
+# Shopmine Auto-Login & Excel Download Implementation Plan
+
+## Goal Description
+Extend the current automation script to:
+1.  Launch Shopmine and auto-login (Completed).
+2.  Navigate to "Pending Shipment" (발송대기) and download Excel.
+3.  Navigate to "In Transit" (배송중) and download Excel.
+
+## User Review Required
+> [!IMPORTANT]
+> I need to identify the exact button names or IDs for "Pending Shipment", "In Transit", and "Excel Download" after logging in.
+
+## Proposed Changes
+
+### Scripts
+#### [MODIFY] [run_shopmine.py](file:///c:/Upload2601공유폴더/샵마인 자동화/run_shopmine.py)
+- Add `download_excel_reports()` function.
+- This function will:
+    - Wait for the main dashboard to load.
+    - Find and click "Pending Shipment" tab/button.
+    - Find and click the "Excel Download" button.
+    - Confirm the save dialog (if any).
+    - Repeat for "In Transit".
+
+## Verification Plan
+
+### Automated Tests
+1.  **UI Inspection**: Run `analyze_shopmine_post_login.py` (to be created) *after* manually logging in, to map the internal IDs of the specific menu buttons.
+2.  **Full Run Test**: Execute [run_shopmine.py](file:///c:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/%EC%83%B5%EB%A7%88%EC%9D%B8%20%EC%9E%90%EB%8F%99%ED%99%94/run_shopmine.py) and check if Excel files are created in the expected directory.
+
+### Manual Verification
+- Check the 'Downloads' folder or the configured save location for the new Excel files.

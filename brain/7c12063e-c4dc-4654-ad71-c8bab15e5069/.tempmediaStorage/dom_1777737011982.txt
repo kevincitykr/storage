@@ -1,0 +1,45 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (230,49)<a class='logo' href='https://www.cpuid.com/' title='CPUID - System & hardware benchmark, monitoring, reporting' />
+	[1] (230,49)<h1  />
+[2] (201,118)<a href='https://www.cpuid.com/softwares.html' title='Softwares'>Software />
+[3] (267,118)<a href='https://valid.x86.fr' title='CPU-Z Validator'>Validation />
+[4] (322,118)<a href='https://www.cpuid.com/news.html' title='News'>News />
+[5] (380,118)<a href='http://www.cpuid-pro.com' title='CPUID Pro'>Developers />
+[6] (444,118)<a href='https://www.cpuid.com/goodies.html' title='Goodies'>Goodies />
+[7] (501,118)<a href='https://www.cpuid.com/contact.html' title='Contact'>Contact />
+[8] (660,117)<a class='icon-fb' href='https://www.facebook.com/cpuid.softwares' />
+[9] (677,117)<a class='icon-tw' href='https://twitter.com/cpuid_softwares' />
+[10] (751,117)<input placeholder='Search' />
+CPU-Z
+System information software
+[11] (298,294)<a href='https://www.cpuid.com/softwares/cpu-z.html' title='CPU-Z'>WINDOWS
+x86/x64 />
+	[12] (294,289)<sup >® />
+[13] (393,294)<a href='https://www.cpuid.com/softwares/cpu-z-arm64.html' title='CPU-Z'>WINDOWS
+ARM64 />
+	[14] (390,289)<sup >® />
+[15] (473,294)<a href='https://www.cpuid.com/softwares/cpu-z-android.html' title='CPU-Z'>ANDROID />
+	[16] (479,289)<sup >® />
+DOWNLOAD CPU-Z
+The file
+"cpu-z_2.19-en.exe"
+is ready for download.
+[17] (280,626)<a class='button' href='https://download.cpuid.com/cpu-z/cpu-z_2.19-en.exe' />
+	[18] (280,626)<span >DOWNLOAD NOW! />
+Support CPU-Z
+Pleased with CPU-Z ? Please consider making a donation to help support its development. Thanks!
+[19] (447,714)<button class='button' title='Donate in USD' />
+	[20] (447,714)<span >Donate in USD />
+[21] (543,714)<button class='button' title='Donate in EUR' />
+	[22] (543,714)<span >Donate in EUR />
+OUR PARTNERS
+SOFTWARE
+NEWS
+DEVELOPERS
+GOODIES
+CONTACT
+
+</current_dom>

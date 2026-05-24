@@ -1,0 +1,14 @@
+# YouTube Radio Project Tasks
+
+- [ ] Dashboard Layout Improvement
+  - [ ] Make the dashboard fit in a single screen
+  - [ ] Improve design (Make it cooler)
+  - [ ] Implement "Real-time Top 100" box with refresh capability
+- [ ] Story Generation Workflow
+  - [ ] Topic selection triggers benchmarking
+  - [ ] Story generation logic based on high-view benchmark
+  - [ ] User review step for generated stories
+- [ ] YouTube Policy Compliance
+  - [ ] Ensure content avoids "reused content" flagging
+  - [ ] Create "OPAL Generator" process/workflow
+- [ ] Content Creation: "69-year-old grandfather's work vlog"

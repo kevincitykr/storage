@@ -1,0 +1,157 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (329,125)<a class='inline shrink-0' href='/search/5060ti' />
+	[7] (329,125)<span >5060ti />
+		[8] (317,125)<span >11
+. />
+[9] (379,125)<a class='inline shrink-0' href='/search/9800x3d' />
+	[10] (379,125)<span >9800x3d />
+		[11] (362,125)<span >12
+. />
+[12] (425,125)<a class='inline shrink-0' href='/search/%ED%8A%9C%EB%8D%94' />
+	[13] (425,125)<span >튜더 />
+		[14] (418,125)<span >13
+. />
+[15] (464,125)<a class='inline shrink-0' href='/search/5090' />
+	[16] (464,125)<span >5090 />
+		[17] (454,125)<span >14
+. />
+[18] (502,125)<a class='inline shrink-0' href='/search/%EB%8B%88%EC%BD%98' />
+	[19] (502,125)<span >니콘 />
+		[20] (496,125)<span >15
+. />
+[21] (666,69)<a href='/search/i7%2013700%204070?sort=DATE_DESC&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[36] (904,329)<button aria-label='최근 본 상품 13700k z790 4070ti 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[37] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/224785370' />
+	[38] (886,369)<img  />
+[39] (904,462)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[40] (886,502)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[41] (886,502)<img  />
+조립 컴퓨터 조립PC 게이밍 고사양 게임용 본체 롤 오버워치 메이플 배틀그라운드 팰월드 디아블로 피파 로아 마인크래프트 로블록스 호라이즌 컴퓨터본체
+299,000
+원
+[42] (229,161)<div  />
+	[43] (229,161)<span >광고 |
+쿠팡 />
+i7 갓성비 대용량 듀얼하드 장착 게이밍 컴퓨터 배그 디아블로4 발로란트 롤 팰월드 발로란트 로블록스 오버워치2 조립 데스크탑 디자인 포토샵 데스크탑 본체 PC
+699,000
+원
+[44] (337,161)<div  />
+	[45] (337,161)<span >광고 |
+쿠팡 />
+MSI 2025 벡터 16 HX AI 코어Ultra7 지포스 RTX 5070 Ti
+2,349,700
+원
+[46] (446,161)<div  />
+	[47] (446,161)<span >광고 |
+쿠팡 />
+[INTEL] 코어14세대 i7-14700F 벌크 (랩터레이크 리프레시/2.1GHz/33MB/병행수입) 쿨러 미포함
+492,900
+원
+[48] (554,161)<div  />
+	[49] (554,161)<span >광고 |
+쿠팡 />
+[50] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[51] (854,907)<div  />
+		[52] (903,907)<div  />
+[53] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[54] (902,799)<span  />
+CONTACT
+[55] (221,573)<a class='w-full md:w-auto' href='https://seller.joonggonara.co.kr' />
+	[56] (221,573)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white border active:border-gray-700 md:px-2 md:py-2 md:h-8 md:min-w-14 w-full md:w-auto bg-[#00AEAC]' />
+		[57] (221,573)<span  />
+			[58] (221,573)<div  />
+				[59] (215,573)<span >셀러 회원 신청 />
+[60] (299,573)<a class='w-full md:w-auto' href='https://vvd.bz/eFFQ' />
+	[61] (299,573)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white border active:border-gray-700 md:px-2 md:py-2 md:h-8 md:min-w-14 w-full md:w-auto bg-black' />
+		[62] (299,573)<span  />
+			[63] (299,573)<div  />
+				[64] (294,573)<span >중고나라 광고 문의 />
+고객센터
+운영시간 : 09~18시 (주말/공휴일 제외)
+[65] (541,573)<a class='w-full md:w-auto' href='/cs-center?source=app' />
+	[66] (541,573)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 md:px-2 md:py-2 md:h-8 md:min-w-14 w-full md:w-auto' />
+		[67] (541,573)<span  />
+			[68] (541,573)<div  />
+				[69] (536,573)<span >자주 묻는 질문 />
+[70] (604,573)<a class='w-full md:w-auto' href='/notice' />
+	[71] (604,573)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 md:px-2 md:py-2 md:h-8 md:min-w-14 w-full md:w-auto' />
+		[72] (604,573)<span  />
+			[73] (604,573)<div  />
+				[74] (598,573)<span >공지사항 />
+(주)중고나라 사업자 정보
+상호명:
+(주)중고나라
+대표자 : 최인욱
+사업자 등록번호
+:
+215-87-87482
+통신판매신고번호
+:
+제2024-서울강남-06966호
+주소
+:
+서울 강남구 테헤란로 415 L7 호텔 강남타워 4층 407~428호
+대표번호
+:
+1533-7861
+메일
+:
+joongna@joonggonara.co.kr
+호스팅제공자
+:
+아마존웹서비스
+[75] (542,689)<a href='/privacy-policy' />
+	[76] (542,690)<span >개인정보처리방침 />
+[77] (603,689)<a href='/terms' />
+	[78] (603,690)<span >이용약관 />
+[79] (656,689)<a href='/member-dispute' />
+	[80] (656,690)<span >분쟁처리절차 />
+[81] (721,689)<a href='/youth-policy' />
+	[82] (721,690)<span >청소년보호정책 />
+[83] (538,724)<a href='https://www.ftc.go.kr/bizCommPop.do?wrkr_no=2158787482&apv_perm_no=' />
+	[84] (538,724)<span >사업자정보확인 />
+[85] (623,724)<a href='/post-policy' />
+	[86] (623,724)<span >게시글 수집 및 이용 안내 />
+"중고나라" 상점의 판매상품을 제외한 모든 상품들에 대하여 (주)중고나라는 통신판매중개자로서 거래 당사자가 아니며 판매 회원과 구매회원간의 상품거래 정보 및 거래에 관여하지 않고 어떠한 의무와 책임도 부담하지 않습니다.
+[87] (517,916)<a aria-label='페이스북' class='[&>*]:w-full [&>*]:h-full' href='https://www.facebook.com/joonggonara.m/' />
+	[88] (517,916)<span  />
+[89] (543,916)<a aria-label='유튜브' class='[&>*]:w-full [&>*]:h-full' href='https://www.youtube.com/channel/UCTUQdtrWF8BekcHX-X1SMPw' />
+	[90] (543,916)<span  />
+[91] (569,916)<a aria-label='카페' class='[&>*]:w-full [&>*]:h-full' href='https://cafe.naver.com/joonggonara' />
+	[92] (569,916)<span  />
+[93] (595,916)<a aria-label='블로그' class='[&>*]:w-full [&>*]:h-full' href='https://m.blog.naver.com/joonggonara_official/223313152022' />
+	[94] (595,916)<span  />
+[95] (621,915)<a aria-label='공식 홈페이지' class='[&>*]:w-full [&>*]:h-full' href='https://joonggonara.co.kr/' />
+	[96] (621,915)<span  />
+
+</current_dom>

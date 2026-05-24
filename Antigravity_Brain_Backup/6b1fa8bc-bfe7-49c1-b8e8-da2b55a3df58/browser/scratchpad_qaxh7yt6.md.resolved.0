@@ -1,0 +1,12 @@
+# Task: Visit Gorillalogis and manage service list
+
+## Plan
+1. Visit https://gorillalogis.com/mypage/service_list.php?value=&or_de_no=&state=307&type=ship#page1
+2. Check for login redirect.
+3. If accessible, extract item list details (order numbers, status, shipping details).
+4. Report findings.
+
+## Progress
+- [ ] Visit URL
+- [ ] Check accessibility/login
+- [ ] Extract details (if accessible)

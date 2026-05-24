@@ -1,0 +1,94 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (194,337)<a href='https://ownerclan.notion.site/292d971668d28097af21cc06ee7f52b8' />
+	[1] (194,496)<img  />
+[2] (194,683)<a href='https://pf.kakao.com/_pUyxixb/friend' />
+	[3] (194,690)<div  />
+		[4] (194,690)<img  />
+[5] (194,729)<div  />
+	[6] (194,729)<img  />
+[7] (294,115)<a href='/vender/'>공급사 로그인 />
+[8] (194,199)<div  />
+	[9] (194,199)<img  />
+[10] (341,185)<a href='/' />
+	[11] (358,212)<img  />
+[12] (973,212)<div >통합검색 />
+[13] (185,287)<a class='menu_item' href='/V2/info_page/subscription_page.php' />
+	[14] (185,287)<img  />
+[15] (334,287)<a class='menu_item' href='/V2/info_page/eduservice_page.php' />
+	[16] (334,287)<img  />
+[17] (502,287)<a class='menu_item' href='/V2/info_page/dafalza2.php' />
+	[18] (502,287)<img  />
+[19] (676,287)<a class='menu_item' href='/V2/info_page/aisellerbot.php' />
+	[20] (676,287)<img  />
+[21] (835,287)<a class='menu_item' href='/V2/info_page/virtual_office.php' />
+	[22] (835,287)<img  />
+[23] (959,287)<a class='menu_item' href='/V2/info_page/shared_office.php' />
+	[24] (959,287)<img  />
+[25] (807,332)<a href='https://www.taling.me/talent/58044' id='category_main_ad_link' />
+	[26] (807,446)<img  />
+카테고리
+[27] (527,623)<li  />
+	[28] (460,623)<span >▷ 식품 />
+[29] (707,623)<li  />
+	[30] (640,623)<span >▷ 음료 />
+[31] (887,612)<li  />
+[32] (527,670)<li >차류 />
+	[33] (486,671)<font >(9,441) />
+[34] (707,670)<li >커피 />
+	[35] (666,671)<font >(5,520) />
+[36] (887,670)<li >주스/과즙음료 />
+	[37] (907,671)<font >(3,377) />
+청량/탄산음료
+[38] (527,707)<li >건강/기능성음료 />
+	[39] (556,707)<font >(750) />
+[40] (707,707)<li >생수 />
+	[41] (661,707)<font >(300) />
+[42] (887,707)<li >탄산수 />
+	[43] (855,707)<font >(208) />
+파우더/스무디
+과세/면세
+[44] (459,826)<label >전체 />
+	[45] (444,827)<input class='searchFieldRadio' id='taxType_0' />
+[46] (511,826)<label >과세 />
+	[47] (496,827)<input class='searchFieldRadio' id='taxType_1' />
+[48] (563,826)<label >면세 />
+	[49] (549,827)<input class='searchFieldRadio' id='taxType_2' />
+배송비
+[50] (988,826)<label >전체 />
+	[51] (973,827)<input class='searchFieldRadio' id='deliType_0' />
+배송지
+[52] (459,860)<label >전체 />
+	[53] (444,861)<input class='searchFieldRadio' id='origin_0' />
+[54] (523,860)<label >국내배송 />
+	[55] (496,861)<input class='searchFieldRadio' id='origin_1' />
+[56] (600,860)<label >해외배송 />
+	[57] (573,861)<input class='searchFieldRadio' id='origin_2' />
+반품가능 여부
+[58] (988,860)<label >전체 />
+	[59] (973,861)<input class='searchFieldRadio' id='returnRefuse_0' />
+반품접수 유형
+[60] (459,894)<label >전체 />
+	[61] (444,895)<input class='searchFieldRadio' id='returnStatus_0' />
+[62] (543,894)<label >공급사 반품접수 />
+	[63] (496,895)<input class='searchFieldRadio' id='returnStatus_1' />
+[64] (665,894)<label >원운송장 반품접수 />
+	[65] (612,895)<input class='searchFieldRadio' id='returnStatus_2' />
+판매타입
+[66] (988,894)<label >전체 />
+	[67] (973,895)<input class='searchFieldRadio' id='saleType_0' />
+상품가격
+[68] (465,931)<input class='searchFieldText' />
+~
+[69] (546,931)<input class='searchFieldText' />
+검색
+[70] (766,969)<input  />
+품/단종 상품은 노출되지 않습니다. 최근 3개월 이내 품/단종 상품은
+[
+여기
+]
+서 확인 가능합니다.
+
+</current_dom>

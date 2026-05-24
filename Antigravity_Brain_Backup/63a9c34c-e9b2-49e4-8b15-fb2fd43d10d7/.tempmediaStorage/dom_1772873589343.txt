@@ -1,0 +1,21 @@
+[0] (786,46)<a href='/' />
+	[1] (786,94)<img  />
+사업자 판매 회원
+*
+오너클랜 아이디
+[2] (790,327)<input class='errorBorder' id='id' placeholder='아이디 입력' />
+*
+비밀번호
+[3] (790,454)<input id='passwd1' placeholder='비밀번호 (8~32자리)' />
+[4] (790,506)<input id='passwd2' placeholder='비밀번호 재입력' />
+*
+이메일
+[5] (790,633)<input id='email' placeholder='이메일 입력' />
+*
+전화번호
+[6] (790,759)<input id='tel' placeholder='전화번호' />
+[7] (886,808)<input class='phone_auth' />
+*
+사업자 기본 정보
+[8] (790,930)<input id='name' placeholder='사업주명' />
+[9] (790,983)<input id='comname' placeholder='상호명' />

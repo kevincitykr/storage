@@ -1,0 +1,36 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (87,32)<div role='button' />
+	[1] (87,32)<a href='/3a4e5da5-0d40-4bab-b386-0f118f722ce9' />
+		[2] (87,32)<div  />
+			[3] (29,32)<div  />
+				[4] (29,32)<div  />
+					[5] (29,32)<div  />
+						[6] (29,32)<img  />
+			[7] (100,32)<div >Windly 사용가이드 />
+/
+[8] (247,32)<div role='button' />
+	[9] (247,32)<a href='/81b7f158-f260-4edf-8fcc-966157df6236' />
+		[10] (247,32)<div  />
+			[11] (187,32)<div  />
+				[12] (187,32)<div  />
+					[13] (187,32)<div  />
+						[14] (187,32)<img  />
+			[15] (260,32)<div >엑셀 상품 수집하기 />
+[16] (831,32)<div aria-label='검색' class='search-button css-nkjb6j' role='button' />
+	[17] (841,32)<span >검색 />
+[18] (899,32)<div class='share-button css-ax50c0 e1pzqsz00' role='button' />
+	[19] (911,32)<span >공유 />
+[20] (965,43)<label aria-label='다크모드를 켭니다' />
+	[21] (965,32)<div  />
+	[22] (953,32)<div  />
+[23] (515,137)<img  />
+2
+.
+엑셀 양식 다운로드
+를 클릭해 주세요.
+[24] (432,744)<img  />
+
+</current_dom>

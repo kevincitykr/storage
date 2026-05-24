@@ -1,0 +1,435 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (40,41)<div  />
+		[2] (29,41)<div  />
+			[3] (29,40)<button class='normal css-1rv5af9 e2kkri01' />
+				[4] (29,40)<span  />
+		[5] (60,41)<div >해구대 />
+			해구대
+	[6] (67,469)<div class='e1sk302d6 e1gzd8jw0 css-1f7d5cm ex82sv80' scrollable='true' />
+		[7] (65,94)<div  />
+			[8] (65,93)<a href='https://global.windly.cc/view3/main' />
+				[9] (65,93)<div  />
+					[10] (65,93)<div  />
+						[11] (15,93)<div  />
+						[12] (26,93)<div >홈 />
+							홈
+		[13] (65,244)<div  />
+			[14] (65,156)<div  />
+				[15] (41,156)<div  />
+					[16] (41,156)<div  />
+						[17] (48,156)<div >상품 수집 및 검색 />
+							상품 수집 및 검색
+			[18] (65,202)<div  />
+				[19] (65,202)<a href='https://global.windly.cc/view3/product-import' />
+					[20] (65,202)<div  />
+						[21] (65,202)<div  />
+							[22] (43,202)<div >상품 수집 />
+								상품 수집
+			[23] (65,246)<a href='https://global.windly.cc/view3/global-sourcing' />
+				[24] (65,246)<div  />
+					[25] (65,246)<div  />
+						[26] (57,246)<div >AI 전세계 상품 수집 />
+							AI 전세계 상품 수집
+			[27] (65,290)<div  />
+				[28] (65,290)<a href='https://global.windly.cc/view3/search-product' />
+					[29] (65,290)<div  />
+						[30] (65,290)<div  />
+							[31] (52,290)<div >1688 상품 검색 />
+								1688 상품 검색
+			[32] (65,334)<div  />
+				[33] (65,334)<a href='https://global.windly.cc/view3/recommended-product' />
+					[34] (65,334)<div  />
+						[35] (65,334)<div  />
+							[36] (62,334)<div >인기 상품 추천 />
+								인기 상품 추천
+								[37] (84,334)<div >New />
+									New
+		[38] (65,463)<div  />
+			[39] (65,396)<div  />
+				[40] (30,396)<div  />
+					[41] (30,396)<div  />
+						[42] (36,396)<div >상품 관리 />
+							상품 관리
+			[43] (65,442)<a href='/view2/interested-product' />
+				[44] (65,442)<div  />
+					[45] (65,442)<div  />
+						[46] (42,442)<div >수집상품 />
+							수집상품
+			[47] (65,486)<a class='active' href='/view2/registered-product?spm=fxg_test_01.order_detail.0.0.6d9155b89HHUzi' />
+				[48] (65,486)<div  />
+					[49] (65,486)<div  />
+						[50] (42,486)<div >등록상품 />
+							등록상품
+			[51] (65,530)<div  />
+				[52] (65,530)<a href='https://global.windly.cc/view3/stock-sync' />
+					[53] (65,530)<div  />
+						[54] (65,530)<div  />
+							[55] (49,530)<div >재고 업데이트 />
+								재고 업데이트
+		[56] (65,637)<div  />
+			[57] (65,593)<div  />
+				[58] (30,593)<div  />
+					[59] (30,593)<div  />
+						[60] (36,593)<div >상품 분석 />
+							상품 분석
+			[61] (65,639)<a href='https://global.windly.cc/view3/keyword-rank' />
+				[62] (65,639)<div  />
+					[63] (65,639)<div  />
+						[64] (50,639)<div >상품 순위 분석 />
+							상품 순위 분석
+			[65] (65,683)<div  />
+				[66] (65,683)<a href='/view2/inflow-analysis' />
+					[67] (65,683)<div  />
+						[68] (65,683)<div  />
+							[69] (46,683)<div >유입수 분석 />
+								유입수 분석
+		[70] (65,856)<div  />
+			[71] (65,745)<div  />
+				[72] (33,745)<div  />
+					[73] (33,745)<div  />
+						[74] (40,745)<div >판매 관리 />
+							판매 관리
+							[75] (54,738)<div  />
+			[76] (65,791)<div  />
+				[77] (65,791)<a href='https://global.windly.cc/view3/order-management?orderStatus=ACCEPT' />
+					[78] (65,791)<div  />
+						[79] (65,791)<div  />
+							[80] (43,791)<div >주문 관리 />
+								주문 관리
+								[81] (59,785)<div  />
+			[82] (65,835)<div  />
+				[83] (65,835)<a href='https://global.windly.cc/view3/customer-support' />
+					[84] (65,835)<div  />
+						[85] (65,835)<div  />
+							[86] (43,835)<div >문의 관리 />
+								문의 관리
+			취소/교환/반품 관리
+			배송대행지
+			통관고유부호 조회
+	[87] (67,907)<button class='css-13zuw62 e14cppar4' />
+		실시간 삭제
+	[88] (67,969)<div >플랜 결제하기 />
+		플랜 결제하기
+	[89] (138,500)<div  />
+		[90] (133,59)<button class='normal css-1rv5af9 e2kkri01' />
+			[91] (133,59)<span  />
+	[92] (948,940)<div >문의 />
+		문의
+	등록상품
+	[93] (776,31)<div  />
+		[94] (775,31)<div  />
+			[95] (770,31)<span >AI 비서 윈비 />
+			[96] (795,31)<div  />
+	[97] (825,31)<div  />
+		[98] (825,31)<div  />
+			[99] (825,31)<div  />
+	[100] (850,31)<div  />
+		[101] (850,31)<div  />
+			[102] (850,31)<div  />
+	[103] (922,31)<div  />
+		[104] (922,31)<div  />
+			[105] (922,31)<div  />
+				[106] (922,31)<div >kkseob0116@gmail.com />
+					[107] (878,31)<div  />
+	[108] (535,119)<input class='css-7c4ua5 e1wcl2rh2' placeholder='상품명 검색' />
+	[109] (888,119)<button class='secondary css-xme2xs e2kkri01' />
+		[110] (888,119)<span >상품 코드 검색 />
+	[111] (309,180)<div  />
+		추가 업로드
+		수정 업로드
+		상품 삭제
+	페이지 이동
+	[112] (702,180)<input class='css-23fa9p e7pwzwn2' />
+	[113] (751,180)<button class='normal ebvjokl1 css-1j4re7y e2kkri01' />
+		[114] (751,180)<span >1 />
+	[115] (763,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[116] (763,180)<span >2 />
+	[117] (776,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[118] (776,180)<span >3 />
+	[119] (788,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[120] (788,180)<span >4 />
+	[121] (801,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[122] (801,180)<span >5 />
+	[123] (813,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[124] (813,180)<span  />
+	[125] (826,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[126] (826,180)<span  />
+	총 21942개
+	[127] (900,180)<button class='css-1mb5vlr e1lwwc7f3'>20개 />
+		20개
+		[128] (914,180)<div  />
+	[129] (223,241)<label class='css-0 e18zhkku2' />
+		[130] (223,241)<div  />
+	0
+	개
+	상품명
+	판매가
+	소싱링크
+	오픈마켓 링크
+	유입수 추적상태
+	[131] (790,241)<div  />
+	유입수
+	상품 등록일
+	상품 메모
+	[132] (567,615)<div class='e1qbfy4s2 e1gzd8jw0 css-14ya487 ex82sv80' scrollable='true' />
+		[133] (223,308)<label class='css-0 e18zhkku2' />
+			[134] (223,308)<div  />
+		[135] (420,308)<div >상품 코드:
+235462590 />
+			[136] (420,294)<div  />
+				[137] (353,294)<a class='css-ovk77c' href='/view2/registered-product/235462590'>NZXT F120 RGB DUO 화이트 3팩+컨트롤러포함 RGB팬 />
+					NZXT F120 RGB DUO 화이트 3팩+컨트롤러포함 RGB팬
+			상품 코드:
+			235462590
+		248,500원~
+248,500원
+		[138] (646,308)<div  />
+			[139] (646,308)<div  />
+		[140] (676,295)<div  />
+		[141] (688,295)<div  />
+			[142] (688,295)<div  />
+				[143] (688,295)<img  />
+		[144] (701,295)<div  />
+		[145] (713,295)<div  />
+		[146] (676,322)<div  />
+		[147] (688,322)<div  />
+		[148] (701,322)<div  />
+		[149] (713,322)<div  />
+		[150] (759,308)<div >● 상품 추적중 />
+			● 상품 추적중
+		[151] (808,308)<div  />
+			[152] (808,313)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462590' />
+		2026-05-02 07:27
+		[153] (893,308)<button class='normal css-psiqzn e2kkri01' />
+			[154] (893,308)<span  />
+		[155] (223,396)<label class='css-0 e18zhkku2' />
+			[156] (223,396)<div  />
+		[157] (420,396)<div >상품 코드:
+235462593 />
+			[158] (420,382)<div  />
+				[159] (351,382)<a class='css-ovk77c' href='/view2/registered-product/235462593'>NZXT KRAKEN PLUS 360 RGB 화이트 수냉 CPU쿨러 />
+					NZXT KRAKEN PLUS 360 RGB 화이트 수냉 CPU쿨러
+			상품 코드:
+			235462593
+		365,000원~
+365,000원
+		[160] (646,396)<div  />
+			[161] (646,396)<div  />
+		[162] (676,383)<div  />
+		[163] (688,383)<div  />
+			[164] (688,383)<div  />
+				[165] (688,383)<img  />
+		[166] (701,383)<div  />
+		[167] (713,383)<div  />
+		[168] (676,409)<div  />
+		[169] (688,409)<div  />
+		[170] (701,409)<div  />
+		[171] (713,409)<div  />
+		[172] (759,396)<div >● 상품 추적중 />
+			● 상품 추적중
+		[173] (808,396)<div  />
+			[174] (808,401)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462593' />
+		2026-05-02 07:27
+		[175] (893,396)<button class='normal css-psiqzn e2kkri01' />
+			[176] (893,396)<span  />
+		[177] (223,484)<label class='css-0 e18zhkku2' />
+			[178] (223,484)<div  />
+		[179] (420,484)<div >상품 코드:
+235462607 />
+			[180] (420,470)<div  />
+				[181] (361,470)<a class='css-ovk77c' href='/view2/registered-product/235462607'>연세우유 세브란스 A2프로틴 초콜릿 16팩 + 커피 16팩 (총32팩) />
+					연세우유 세브란스 A2프로틴 초콜릿 16팩 + 커피 16팩 (총32팩)
+			상품 코드:
+			235462607
+		39,000원~
+39,000원
+		[182] (646,484)<div  />
+			[183] (646,484)<div  />
+		[184] (676,471)<div  />
+		[185] (688,471)<div  />
+			[186] (688,471)<div  />
+				[187] (688,471)<img  />
+		[188] (701,471)<div  />
+		[189] (713,471)<div  />
+		[190] (676,497)<div  />
+		[191] (688,497)<div  />
+		[192] (701,497)<div  />
+		[193] (713,497)<div  />
+		[194] (759,484)<div >● 상품 추적중 />
+			● 상품 추적중
+		[195] (808,484)<div  />
+			[196] (808,489)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462607' />
+		2026-05-02 07:26
+		[197] (893,484)<button class='normal css-psiqzn e2kkri01' />
+			[198] (893,484)<span  />
+		[199] (223,572)<label class='css-0 e18zhkku2' />
+			[200] (223,572)<div  />
+		[201] (420,572)<div >상품 코드:
+235462711 />
+			[202] (420,558)<div  />
+				[203] (364,558)<a class='css-ovk77c' href='/view2/registered-product/235462711'>연세우유 세브란스 A2프로틴 커피 16팩 + 오리지널 16팩 (총32팩) />
+					연세우유 세브란스 A2프로틴 커피 16팩 + 오리지널 16팩 (총32팩)
+			상품 코드:
+			235462711
+		39,000원~
+39,000원
+		[204] (646,572)<div  />
+			[205] (646,572)<div  />
+		[206] (676,559)<div  />
+		[207] (688,559)<div  />
+			[208] (688,559)<div  />
+				[209] (688,559)<img  />
+		[210] (701,559)<div  />
+		[211] (713,559)<div  />
+		[212] (676,585)<div  />
+		[213] (688,585)<div  />
+		[214] (701,585)<div  />
+		[215] (713,585)<div  />
+		● 코드 미설치
+		[216] (808,572)<div  />
+			[217] (808,577)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462711' />
+		2026-05-02 07:26
+		[218] (893,572)<button class='normal css-psiqzn e2kkri01' />
+			[219] (893,572)<span  />
+		[220] (223,660)<label class='css-0 e18zhkku2' />
+			[221] (223,660)<div  />
+		[222] (420,660)<div >상품 코드:
+235462714 />
+			[223] (420,645)<div  />
+				[224] (351,645)<a class='css-ovk77c' href='/view2/registered-product/235462714'>NZXT KRAKEN 240 ELITE RGB 화이트 수냉 CPU쿨러 />
+					NZXT KRAKEN 240 ELITE RGB 화이트 수냉 CPU쿨러
+			상품 코드:
+			235462714
+		276,000원~
+276,000원
+		[225] (646,660)<div  />
+			[226] (646,660)<div  />
+		[227] (676,647)<div  />
+		[228] (688,647)<div  />
+			[229] (688,647)<div  />
+				[230] (688,647)<img  />
+		[231] (701,647)<div  />
+		[232] (713,647)<div  />
+		[233] (676,673)<div  />
+		[234] (688,673)<div  />
+		[235] (701,673)<div  />
+		[236] (713,673)<div  />
+		[237] (759,660)<div >● 상품 추적중 />
+			● 상품 추적중
+		[238] (808,660)<div  />
+			[239] (808,664)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462714' />
+		2026-05-02 07:25
+		[240] (893,660)<button class='normal css-psiqzn e2kkri01' />
+			[241] (893,660)<span  />
+		[242] (223,748)<label class='css-0 e18zhkku2' />
+			[243] (223,748)<div  />
+		[244] (420,748)<div >상품 코드:
+235462715 />
+			[245] (420,733)<div  />
+				[246] (386,733)<a class='css-ovk77c' href='/view2/registered-product/235462715'>연세우유 세브란스 A2프로틴 오리지널 16팩 + 초콜릿 16팩 + 커피 16팩 (총48팩) />
+					연세우유 세브란스 A2프로틴 오리지널 16팩 + 초콜릿 16팩 + 커피 16팩 (총48팩)
+			상품 코드:
+			235462715
+		56,000원~
+56,000원
+		[247] (646,748)<div  />
+			[248] (646,748)<div  />
+		[249] (676,734)<div  />
+		[250] (688,734)<div  />
+			[251] (688,734)<div  />
+				[252] (688,734)<img  />
+		[253] (701,734)<div  />
+		[254] (713,734)<div  />
+		[255] (676,761)<div  />
+		[256] (688,761)<div  />
+		[257] (701,761)<div  />
+		[258] (713,761)<div  />
+		[259] (759,748)<div >● 상품 추적중 />
+			● 상품 추적중
+		[260] (808,748)<div  />
+			[261] (808,752)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462715' />
+		2026-05-02 07:25
+		[262] (893,748)<button class='normal css-psiqzn e2kkri01' />
+			[263] (893,748)<span  />
+		[264] (223,835)<label class='css-0 e18zhkku2' />
+			[265] (223,835)<div  />
+		[266] (420,835)<div >상품 코드:
+235462717 />
+			[267] (420,821)<div  />
+				[268] (349,821)<a class='css-ovk77c' href='/view2/registered-product/235462717'>키보드 면덮개 순면 천덮개 먼지 텐키리스 보호 자판 커버 />
+					키보드 면덮개 순면 천덮개 먼지 텐키리스 보호 자판 커버
+			상품 코드:
+			235462717
+		14,500원~
+14,500원
+		[269] (646,835)<div  />
+			[270] (646,835)<div  />
+		[271] (676,822)<div  />
+			[272] (676,822)<div  />
+				[273] (676,822)<img  />
+		[274] (688,822)<div  />
+			[275] (688,822)<div  />
+				[276] (688,822)<img  />
+		[277] (701,822)<div  />
+		[278] (713,822)<div  />
+		[279] (676,849)<div  />
+		[280] (688,849)<div  />
+		[281] (701,849)<div  />
+		[282] (713,849)<div  />
+		[283] (759,835)<div >● 상품 추적중 />
+			● 상품 추적중
+		[284] (808,835)<div  />
+			[285] (808,840)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462717' />
+		2026-05-02 07:25
+		[286] (893,835)<button class='normal css-psiqzn e2kkri01' />
+			[287] (893,835)<span  />
+		[288] (223,923)<label class='css-0 e18zhkku2' />
+			[289] (223,923)<div  />
+		[290] (420,923)<div >상품 코드:
+235462720 />
+			[291] (420,909)<div  />
+				[292] (346,909)<a class='css-ovk77c' href='/view2/registered-product/235462720'>NZXT KRAKEN ELITE V2 240 블랙 수냉 CPU쿨러 />
+					NZXT KRAKEN ELITE V2 240 블랙 수냉 CPU쿨러
+			상품 코드:
+			235462720
+		405,500원~
+405,500원
+		[293] (646,923)<div  />
+			[294] (646,923)<div  />
+		[295] (676,910)<div  />
+			[296] (676,910)<div  />
+				[297] (676,910)<img  />
+		[298] (688,910)<div  />
+			[299] (688,910)<div  />
+				[300] (688,910)<img  />
+		[301] (701,910)<div  />
+		[302] (713,910)<div  />
+		[303] (676,936)<div  />
+		[304] (688,936)<div  />
+		[305] (701,936)<div  />
+		[306] (713,936)<div  />
+		[307] (759,923)<div >● 상품 추적중 />
+			● 상품 추적중
+		[308] (808,923)<div  />
+			[309] (808,928)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462720' />
+		2026-05-02 07:24
+		[310] (893,923)<button class='normal css-psiqzn e2kkri01' />
+			[311] (893,923)<span  />
+		❤️ 다크플래쉬 NEBULA DN-240 ARGB (화이트) 쿨러 PC
+		86,500원~
+86,500원
+		2026-05-02 07:24
+[312] (789,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[313] (789,875)<span >홈 />
+[314] (862,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[315] (862,851)<div  />
+		[316] (868,839)<div  />
+	[317] (862,876)<span >대화 />
+[318] (935,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[319] (935,875)<span >설정 />
+
+</current_dom>

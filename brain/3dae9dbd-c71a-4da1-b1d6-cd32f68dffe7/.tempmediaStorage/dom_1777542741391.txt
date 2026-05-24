@@ -1,0 +1,62 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+console.cloud.google.com 에서는 서비스 제공 및 서비스 품질 개선과 트래픽 분석을 위해 Google 쿠키를 사용합니다.
+자세히 알아보세요
+확인
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+검색
+2
+새 프로젝트
+projects 할당량이 16개 남았습니다. 할당량 증가를 요청하거나 프로젝트를 삭제하세요.
+자세히 알아보기
+Manage Quotas
+프로젝트 이름
+프로젝트 ID:
+storied-imprint-494909-n2.
+나중에 변경할 수 없습니다
+.
+수정
+상위 리소스
+찾아보기
+이 리소스가 생성될 조직 또는 폴더를 선택하세요.
+만들기
+취소
+김더케빈
+현재 Google Cloud에 로그인한 사용자 이름은 kkseob0116@gmail.com입니다.
+kkseob0116@gmail.com
+[0] (894,212)<a aria-label='내 Google 계정으로 이동, 새 탭에서 열기' class='mdc-button mat-mdc-button-base gmat-mdc-button cfc-profilebutton mdc-button--unelevated mat-mdc-unelevated-button mat-primary cm-button ng-star-inserted' href='https://accounts.google.com/ManageAccount' />
+	[1] (894,212)<span  />
+		[2] (894,212)<b >계정 관리 />
+[3] (879,354)<a aria-label='새 창에서 kevincityjr@gmail.com 계정으로 Google Cloud에 로그인' class='mat-focus-indicator ng-star-inserted' href='https://console.cloud.google.com/projectcreate?authuser=1&project=&folder=&organizationId=' />
+	[4] (797,354)<img  />
+	[5] (876,357)<div  />
+		[6] (876,341)<div >김광섭 />
+		[7] (876,374)<span >kevincityjr@gmail.com />
+[8] (879,452)<a class='mat-mdc-menu-item mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='//cloud.google.com/terms/cloud-privacy-notice?hl=ko' role='menuitem' />
+	[9] (879,452)<span  />
+		[10] (879,452)<div  />
+			[11] (879,452)<div  />
+				[12] (879,452)<div  />
+					[13] (783,453)<cfc-icon  />
+						[14] (783,452)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+					[15] (889,452)<div >Google Cloud 개인 정보 보호 />
+						[16] (931,451)<cm-icon aria-label='외부' class='cm-icon--legacy-margins cm-icon-external-link ng-star-inserted' role='img' />
+[17] (879,506)<a class='mat-mdc-menu-item mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/terms' role='menuitem' />
+	[18] (879,506)<span  />
+		[19] (879,506)<div  />
+			[20] (879,506)<div  />
+				[21] (879,506)<div  />
+					[22] (783,507)<cfc-icon  />
+						[23] (783,506)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+					[24] (889,506)<div >Google Cloud 서비스 약관 />
+[25] (810,591)<a aria-label='계정 추가' class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed cm-button ng-star-inserted' href='/AddSession' />
+	[26] (810,591)<span >계정 추가 />
+[27] (950,591)<a aria-label='kkseob0116@gmail.com 로그아웃' class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed cm-button ng-star-inserted' href='https://accounts.google.com/Logout?service=cloudconsole&continue=https://console.cloud.google.com/projectcreate&hl=ko' role='button' />
+	[28] (950,591)<span >로그아웃 />
+
+</current_dom>

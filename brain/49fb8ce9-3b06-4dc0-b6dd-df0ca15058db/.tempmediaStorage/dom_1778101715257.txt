@@ -1,0 +1,129 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+[0] (48,47)<a aria-label='Gist Homepage ' class='Header-link' href='/' />
+Search Gists
+[1] (155,47)<input class='form-control FormControl-input FormControl-medium rounded-right-0' id='q' placeholder='Search...' />
+[2] (223,47)<button class='Button Button--iconOnly Button--secondary Button--medium rounded-left-0' id='icon-button-ba76e94f-f5f5-4a82-8e2f-91ee6c4eb859' />
+[3] (258,47)<a class='Header-link mr-0 tmp-mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade' href='/discover'>All gists />
+[4] (316,47)<a class='Header-link mr-0 tmp-mr-md-3 py-2 py-md-0 border-top border-md-top-0 border-white-fade' href='https://github.com'>Back to GitHub />
+[5] (916,47)<a class='Header-link no-underline tmp-mr-3' href='https://gist.github.com/auth/github?return_to=https%3A%2F%2Fgist.github.com%2Fmmuman%2F88a8c965f2332352336527cb92ebfb7a'>Sign in />
+[6] (966,47)<a class='Header-link d-inline-block no-underline border color-border-default rounded px-2 py-1' href='/join?return_to=https%3A%2F%2Fgist.github.com%2Fmmuman%2F88a8c965f2332352336527cb92ebfb7a&source=header-gist'>Sign up />
+Instantly share code, notes, and snippets.
+[7] (31,243)<a class='mr-2 flex-shrink-0' href='/mmuman' />
+	[8] (31,247)<img  />
+[9] (74,245)<a href='/mmuman'>mmuman />
+/
+[10] (165,245)<a href='/mmuman/88a8c965f2332352336527cb92ebfb7a'>aliexpress_tags.py />
+Last active
+[11] (891,244)<a aria-label='You must be signed in to star a gist' class='btn-with-count Button--secondary Button--small Button' href='/login?return_to=https%3A%2F%2Fgist.github.com%2Fmmuman%2F88a8c965f2332352336527cb92ebfb7a' id='gist-star-button' />
+	[12] (891,244)<span  />
+		[13] (890,244)<span >Star />
+		0
+		(
+		0
+		)
+[14] (951,244)<a aria-label='You must be signed in to fork a gist' class='btn-with-count Button--secondary Button--small Button' href='/login?return_to=https%3A%2F%2Fgist.github.com%2Fmmuman%2F88a8c965f2332352336527cb92ebfb7a' id='gist-fork-button' />
+	[15] (951,244)<span  />
+		[16] (950,244)<span >Fork />
+		0
+		(
+		0
+		)
+[17] (45,353)<a class='js-selected-navigation-item selected UnderlineNav-item' href='/mmuman/88a8c965f2332352336527cb92ebfb7a'>Code />
+[18] (114,353)<a class='js-selected-navigation-item UnderlineNav-item' href='/mmuman/88a8c965f2332352336527cb92ebfb7a/revisions'>Revisions />
+	[19] (143,353)<span >3 />
+[20] (733,353)<button class='rounded-right-0 border-right-0 Button--secondary Button--small Button' id='select-panel-3df93ac4-9616-4302-843d-d6cea83f0d0e-button' />
+	[21] (728,353)<span  />
+		[22] (728,353)<span  />
+			[23] (728,353)<span >Embed />
+Clone this repository at &lt;script src=&quot;https://gist.github.com/mmuman/88a8c965f2332352336527cb92ebfb7a.js&quot;&gt;&lt;/script&gt;
+[24] (809,353)<input aria-label='Clone this repository at &lt;script src=&quot;https://gist.github.com/mmuman/88a8c965f2332352336527cb92ebfb7a.js&quot;&gt;&lt;/script&gt;' class='form-control FormControl-monospace FormControl-input FormControl-small rounded-left-0 rounded-right-0 border-right-0' id='gist-share-url-original' />
+[25] (873,353)<clipboard-copy aria-label='Copy' class='rounded-left-0 Button--secondary Button--small Button' id='clipboard-button' role='button' />
+[26] (898,353)<button class='Button Button--iconOnly Button--secondary Button--small js-remove-unless-platform' href='https://desktop.github.com' id='icon-button-6ab813f9-b797-46f8-b1f1-ff643b947551' />
+[27] (946,353)<a class='btn btn-sm' href='/mmuman/88a8c965f2332352336527cb92ebfb7a/archive/0474e30e0d5569ab35b7a9478a5165c652923102.zip'>Download ZIP />
+Converts the aliexpress order list or order detail DOM HTML to a printable item list with QR codes, and inventory CSV
+[28] (800,495)<a class='Button--secondary Button--small Button' href='/mmuman/88a8c965f2332352336527cb92ebfb7a/raw/0474e30e0d5569ab35b7a9478a5165c652923102/aliexpress_tags.py' />
+	[29] (800,495)<span  />
+		[30] (800,495)<span >Raw />
+[31] (238,495)<a class='wb-break-all' href='#file-aliexpress_tags-py' />
+	[32] (238,495)<strong >aliexpress_tags.py />
+[33] (500,1429)<div aria-label='aliexpress_tags.py content, created by mmuman on 02:45AM on November 22, 2024.' class='Box-body p-0 blob-wrapper data type-python  gist-border-0' role='region' scrollable='true' />
+	[34] (198,540)<td  />
+	#!/usr/bin/env python3
+	[35] (198,568)<td  />
+	[36] (198,597)<td  />
+	import
+	sys
+	[37] (198,626)<td  />
+	from
+	parsel
+	import
+	Selector
+	[38] (198,655)<td  />
+	import
+	qrcode
+	[39] (198,683)<td  />
+	import
+	qrcode
+	.
+	image
+	.
+	svg
+	[40] (198,712)<td  />
+	from
+	io
+	import
+	BytesIO
+	[41] (198,741)<td  />
+	from
+	base64
+	import
+	b64encode
+	[42] (198,770)<td  />
+	[43] (198,799)<td  />
+	qrheight
+	=
+	"2cm"
+	[44] (198,827)<td  />
+	csv_sep
+	=
+	";"
+	[45] (198,856)<td  />
+	[46] (198,885)<td  />
+	def
+	main_wrapper
+	(
+	argv
+	):
+	[47] (198,914)<td  />
+	if
+	len
+	(
+	argv
+	)
+	<
+	3
+	:
+	[48] (198,942)<td  />
+	print
+	(
+	"Converts the aliexpress order list or order detail DOM HTML to a printable item list with QR codes, or a CSV for inventory"
+	)
+	[49] (198,971)<td  />
+	print
+	(
+	f"
+	{
+	argv
+	[
+	0
+	]
+	}
+	input.html output.[csv|html]"
+	)
+	return
+
+</current_dom>

@@ -1,0 +1,31 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+2단계 인증
+계정 보호를 위해 Google에서 본인 확인을 진행합니다.
+[0] (253,454)<div aria-label='kevincityjr@gmail.com 항목이 선택되었습니다. 계정 전환' class='Ahygpe m8wwGd EPPJc cd29Sd xNLKcb' role='link'>kevincityjr@gmail.com />
+	kevincityjr@gmail.com
+6자리 인증 코드가 포함된 SMS를
+•••-••••-••80
+번으로 보내 드렸습니다.
+G-
+[1] (688,412)<input aria-label='코드 입력' class='whsOnd zHQkBf' id='idvPin' />
+코드 입력
+[2] (526,506)<div  />
+	[3] (526,506)<input class='VfPpkd-muHVFf-bMcfAe' />
+[4] (613,506)<div >이 기기에서 다시 요청하지 않음 />
+다시 전송하기
+[5] (800,803)<button class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-k8QpJ VfPpkd-LgbsSe-OWXEXe-dgl2Hf nCP5yc AjY5Oe DuMIQc LQeN7 BqKGqe Jskylb TrZEUc lw1w4b'>다음 />
+	다음
+[6] (713,803)<button class='VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 BqKGqe eR0mzb TrZEUc lw1w4b'>다른 방법 시도 />
+	다른 방법 시도
+[7] (181,950)<div class='VfPpkd-TkwUic' role='combobox' />
+	한국어
+	[8] (181,950)<div  />
+[9] (701,950)<a class='AVAq4d TrZEUc' href='https://support.google.com/accounts?hl=ko&p=account_iph'>도움말 />
+[10] (770,950)<a class='AVAq4d TrZEUc' href='https://accounts.google.com/TOS?loc=KR&hl=ko&privacy=true'>개인정보처리방침 />
+[11] (834,950)<a class='AVAq4d TrZEUc' href='https://accounts.google.com/TOS?loc=KR&hl=ko'>약관 />
+2단계 인증 계정 보호를 위해 Google에서 본인 확인을 진행합니다.
+
+</current_dom>

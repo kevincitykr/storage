@@ -1,0 +1,105 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (342,125)<a class='inline shrink-0' href='/search/%EA%B0%A4%EB%9F%AD%EC%8B%9C%EB%B6%815%20%ED%94%84%EB%A1%9C' />
+	[7] (342,125)<span >갤럭시북5 프로 />
+		[8] (318,125)<span >16
+. />
+[9] (400,125)<a class='inline shrink-0' href='/search/%EC%8A%A4%EC%9C%84%EC%B9%982' />
+	[10] (400,125)<span >스위치2 />
+		[11] (387,125)<span >17
+. />
+[12] (451,125)<a class='inline shrink-0' href='/search/s25%EC%9A%B8%ED%8A%B8%EB%9D%BC' />
+	[13] (451,125)<span >s25울트라 />
+		[14] (434,125)<span >18
+. />
+[15] (502,125)<a class='inline shrink-0' href='/search/5060ti' />
+	[16] (502,125)<span >5060ti />
+		[17] (490,125)<span >19
+. />
+[18] (546,125)<a class='inline shrink-0' href='/search/%EA%B5%AC%ED%95%B4%EC%9A%94' />
+	[19] (546,125)<span >구해요 />
+		[20] (536,125)<span >20
+. />
+[21] (666,69)<a href='/?openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+[36] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[37] (215,187)<span  />
+		[38] (215,187)<div  />
+			[39] (225,187)<span >카테고리 />
+[40] (286,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/event/list?searchType=ING' />
+	[41] (286,190)<span >이벤트 />
+[42] (338,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/fraud' />
+	[43] (338,190)<span >사기조회 />
+[44] (395,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/search-price' />
+	[45] (395,190)<span >시세조회 />
+[46] (452,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/contents' />
+	[47] (452,190)<span >읽을거리 />
+[48] (505,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/favorite' />
+	[49] (505,190)<span >내 관심 />
+최근 본 상품
+최근 본 상품이 없습니다.
+중고나라 홈
+오늘도
+안심하는 중고나라
+안심보장 프로젝트의 시작
+→
+[50] (281,490)<a class='relative block' href='https://web.joongna.com/cs?noticeSeq=730' />
+	[51] (281,490)<img  />
+	[52] (281,623)<div  />
+		[53] (281,584)<h2 >중고나라가 알려주는 />
+		[54] (281,621)<h2 >사기 예방 tip! />
+		[55] (281,666)<h3 >주요 사기 패턴 확인하기
+→ />
+[56] (500,490)<a class='relative block' href='https://vvd.bz/hd6K' />
+	[57] (500,490)<img  />
+	[58] (500,623)<div  />
+		[59] (500,584)<h2 >앱에서 시작하면, />
+		[60] (500,621)<h2 >거래가 빨라집니다. />
+		[61] (500,666)<h3 >판/구매가 빨라지는 꿀 기능 보기
+→ />
+[62] (719,490)<a class='relative block' href='https://web.joongna.com/event/1376' />
+	[63] (719,490)<img  />
+	[64] (719,623)<div  />
+		[65] (719,584)<h2 >오늘도 />
+		[66] (719,621)<h2 >안심하는 중고나라 />
+		[67] (719,666)<h3 >안심보장 프로젝트의 시작
+→ />
+[68] (193,490)<button aria-label='이전 슬라이드' class='absolute left-0 top-1/2 -translate-y-1/2 z-10 p-2 rounded-full disabled:hidden hover:bg-transparent' />
+[69] (807,490)<button aria-label='다음 슬라이드' class='absolute right-0 top-1/2 -translate-y-1/2 z-10 p-2 rounded-full disabled:hidden hover:bg-transparent' />
+[70] (492,742)<div aria-label='페이지 1' class='z-auto static w-1.5 h-1.5 rounded-full transition-colors bg-gray-300 cursor-pointer' role='tab' />
+[71] (500,742)<div aria-label='페이지 2' class='z-auto static w-1.5 h-1.5 rounded-full transition-colors bg-gray-300 cursor-pointer' role='tab' />
+[72] (508,742)<div aria-label='페이지 3' class='z-auto static w-1.5 h-1.5 rounded-full transition-colors bg-gray-900 cursor-pointer' role='tab' />
+많이 본 상품
+[73] (231,998)<div  />
+	[74] (231,998)<div  />
+[75] (339,998)<div  />
+	[76] (339,998)<div  />
+[77] (661,998)<div  />
+	[78] (661,998)<div  />
+[79] (769,998)<div  />
+	[80] (769,998)<div  />
+[81] (866,828)<button class='relative w-40 h-16 rounded-full bg-black font-normal py-[15px] text-lg text-gray-200 flex items-center justify-center shadow-[0px_4px_8px_0px_rgba(0,0,0,0.24)] after:w-full after:h-full after:rounded-full after:absolute after:top-0 after:left-0 after:bg-white/[.1]'>QR 코드 찍기 />
+	QR 코드 찍기
+
+</current_dom>

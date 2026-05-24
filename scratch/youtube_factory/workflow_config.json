@@ -1,0 +1,85 @@
+{
+  "project_info": {
+    "tool_name": "Antigravity YouTube Creator Pro",
+    "version": "1.0.0",
+    "description": "심리학 및 자기계발 니치 채널을 위한 원스톱 영상 제작 자동화 파이프라인"
+  },
+  "workflow_steps": [
+    {
+      "step": 1,
+      "id": "input_acquisition",
+      "name": "입력 및 타겟팅",
+      "details": {
+        "accepted_inputs": ["YouTube URL", "Niche Keyword", "Topic Brief"],
+        "validation_rules": {
+           "url_pattern": "^(https?://)?(www\\.)?(youtube\\.com|youtu\\.be)/.+$",
+           "keyword_min_length": 2
+        }
+      }
+    },
+    {
+      "step": 2,
+      "id": "notebooklm_analysis",
+      "name": "NotebookLM 기반 심층 분석",
+      "details": {
+        "platform": "NotebookLM MCP",
+        "action": "전용 노트북 생성 및 벤치마킹 URL 소스화",
+        "research_goal": "성공 채널의 논리 구조, 핵심 키워드, 시청자 반응 포인트 추출"
+      }
+    },
+    {
+      "step": 3,
+      "id": "grounded_brainstorming",
+      "name": "소스 기반 브레인스토밍",
+      "details": {
+        "engine": "NotebookLM Query",
+        "constraints": "철저히 추가된 소스(유튜브 전사본 등)에 근거하여 아이디어 도출",
+        "prompts": {
+          "channel_name": "소스의 분석 데이터를 벤치마킹한 새로운 채널명 제안",
+          "video_ideas": "추가된 소스들에서 다루지 않았지만 타겟 시청자가 좋아할 만한 주제 20개 추출"
+        }
+      }
+    },
+    {
+      "step": 4,
+      "id": "script_detail",
+      "name": "대본 생성 및 상세화",
+      "details": {
+        "target_length": "5 minutes (Approx. 750-900 words)",
+        "structure": [
+          {"id": "hook", "duration": "30s", "purpose": "시청 지속 시간(AVD) 확보"},
+          {"id": "introduction", "duration": "30s", "purpose": "문제 제기 및 해결책 예고"},
+          {"id": "body_main", "duration": "180s", "purpose": "3~4개 핵심 포인트 상술"},
+          {"id": "cta_outro", "duration": "60s", "purpose": "구독 유도 및 다음 영상 추천"}
+        ],
+        "narration_style": "Informative, Empathetic, Professional"
+      }
+    },
+    {
+      "step": 5,
+      "id": "asset_generation",
+      "name": "시각 에셋 생성",
+      "details": {
+        "image_model": "DALL-E 3 / Pollinations AI",
+        "prompt_logic": "대본의 각 씬(Scene)마다 분위기에 맞는 4K 시네마틱 프롬프트 자동 생성",
+        "visual_style": "Premium, Realistic, Emotional",
+        "aspect_ratio": "16:9"
+      }
+    },
+    {
+      "step": 6,
+      "id": "storage_export",
+      "name": "결과물 자동 저장",
+      "details": {
+        "root_directory": "C:/공유 20260413 1342/003_onhwa_mindnote/",
+        "folder_naming_convention": "{Date}_{Project_Slug}",
+        "file_types": {
+          "script": "main_script.txt",
+          "prompts": "image_prompts.md",
+          "assets": "/images/scene_{n}.png",
+          "manifest": "project_meta.json"
+        }
+      }
+    }
+  ]
+}

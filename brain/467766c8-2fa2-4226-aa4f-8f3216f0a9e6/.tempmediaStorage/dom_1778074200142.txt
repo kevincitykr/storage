@@ -1,0 +1,115 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,76)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwinl63A4qSUAxUh48kDHX3XF_0QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,75)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,75)<div  />
+	[3] (561,75)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,75)<span  />
+	[5] (577,75)<span  />
+[6] (593,75)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,75)<span  />
+[8] (619,75)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,75)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,75)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,75)<div  />
+		[12] (670,75)<span  />
+[13] (911,75)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' />
+[14] (943,75)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,75)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EB%258B%25B9%25EA%25B7%25BC%25EB%25A7%2588%25EC%25BC%2593%2B%25ED%2595%2598%25EB%2582%25A8%25EC%258B%2598%2B%25EC%25BB%25B4%25ED%2593%25A8%25ED%2584%25B0%2B%25EB%25B3%25B8%25EC%25B2%25B2%2B4070&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (156,164)<a class='XVMlrc C6AK7c' href='/search?q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%ED%95%98%EB%82%A8%EC%8B%98+%EC%BB%B4%ED%93%A8%ED%84%B0+%EB%B3%B8%EC%B2%B2+4070&sca_esv=63ede5267938485e&sxsrf=ANbL-n49HUmKPL9VGtfZfZ0zU5ZpUOh2hQ:1778074182704&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_Swap6of3IufrklCc-R1r_cYZv1ypYvnnGUifXKxoxne4-bTpJQ2IU9175-MWiwLIMRC9N9HjPzh8Kvn96auvCKSOmWnXuYCHUlsG9gjukhIYM7e6eI7vk1VM1l-60MqyeVx3xvX5C1iqunTQBfowCh4hyLi6_8&aep=1&ntc=1&sa=X&ved=2ahUKEwinl63A4qSUAxUh48kDHX3XF_0Q2J8OegQIEBAD' />
+	[17] (156,164)<div  />
+		[18] (156,177)<div  />
+			[19] (156,169)<span  />
+				[20] (156,169)<span >AI 모드 />
+[21] (194,164)<a class='C6AK7c' role='link' />
+	전체
+[22] (230,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n49HUmKPL9VGtfZfZ0zU5ZpUOh2hQ:1778074182704&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_Swap6of3IufrklCc-R1r_cYZv1ypYvnnGUifXKxoxne4-bTpJQ2IU9175-MWiwLIMRC9N9HjPzh8Kvn96auvCKSOmWnXuYCHUlsG9gjukhIYM7e6eI7vk1VM1l-60MqyeVx3xvX5C1iqunTQBfowCh4hyLi6_8&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%ED%95%98%EB%82%A8%EC%8B%98+%EC%BB%B4%ED%93%A8%ED%84%B0+%EB%B3%B8%EC%B2%B2+4070&sa=X&ved=2ahUKEwinl63A4qSUAxUh48kDHX3XF_0QtKgLegQIFhAB' />
+	[23] (230,164)<div  />
+		[24] (230,177)<span >이미지 />
+[25] (271,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n49HUmKPL9VGtfZfZ0zU5ZpUOh2hQ:1778074182704&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_Swap6of3IufrklCc-R1r_cYZv1ypYvnnGUifXKxoxne4-bTpJQ2IU9175-MWiwLIMRC9N9HjPzh8Kvn96auvCKSOmWnXuYCHUlsG9gjukhIYM7e6eI7vk1VM1l-60MqyeVx3xvX5C1iqunTQBfowCh4hyLi6_8&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%ED%95%98%EB%82%A8%EC%8B%98+%EC%BB%B4%ED%93%A8%ED%84%B0+%EB%B3%B8%EC%B2%B2+4070&sa=X&ved=2ahUKEwinl63A4qSUAxUh48kDHX3XF_0QtKgLegQIFxAB' />
+	[26] (271,164)<div  />
+		[27] (271,177)<span >동영상 />
+[28] (308,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n49HUmKPL9VGtfZfZ0zU5ZpUOh2hQ:1778074182704&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_Swap6of3IufrklCc-R1r_cYZv1ypYvnnGUifXKxoxne4-bTpJQ2IU9175-MWiwLIMRC9N9HjPzh8Kvn96auvCKSOmWnXuYCHUlsG9gjukhIYM7e6eI7vk1VM1l-60MqyeVx3xvX5C1iqunTQBfowCh4hyLi6_8&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%ED%95%98%EB%82%A8%EC%8B%98+%EC%BB%B4%ED%93%A8%ED%84%B0+%EB%B3%B8%EC%B2%B2+4070&ved=1t:220175&ictx=111' />
+	[29] (308,164)<div  />
+		[30] (308,177)<span >쇼핑 />
+[31] (340,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n49HUmKPL9VGtfZfZ0zU5ZpUOh2hQ:1778074182704&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%ED%95%98%EB%82%A8%EC%8B%98+%EC%BB%B4%ED%93%A8%ED%84%B0+%EB%B3%B8%EC%B2%B2+4070&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_Swap6of3IufrklCc-R1r_cYZv1ypYvnnGUifXKxoxne4-bTpJQ2IU9175-MWiwLIMRC9N9HjPzh8Kvn96auvCKSOmWnXuYCHUlsG9gjukhIYM7e6eI7vk1VM1l-60MqyeVx3xvX5C1iqunTQBfowCh4hyLi6_8&sa=X&ved=2ahUKEwinl63A4qSUAxUh48kDHX3XF_0Q0pQJegQIFBAB' />
+	[32] (340,164)<div  />
+		[33] (340,177)<span >뉴스 />
+[34] (373,164)<a class='C6AK7c' href='https://maps.google.com/maps?sca_esv=63ede5267938485e&output=search&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%ED%95%98%EB%82%A8%EC%8B%98+%EC%BB%B4%ED%93%A8%ED%84%B0+%EB%B3%B8%EC%B2%B2+4070&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohBAQ3Hh19DqzlO7wr7YUgTdO4_C3uXoTo1-SRivc_Swap6of3IufrklCc-R1r_cYZv1ypYvnnGUifXKxoxne4-bTpJQ2IU9175-MWiwLIMRC9N9HjPzh8Kvn96auvCKSOmWnXuYCHUlsG9gjukhIYM7e6eI7vk1VM1l-60MqyeVx3xvX5C1iqunTQBfowCh4hyLi6_8&entry=mc&ved=1t:200715&ictx=111' />
+	[35] (373,164)<div  />
+		[36] (373,177)<span >지도 />
+[37] (415,164)<div class='mTpL7c' role='button' />
+	[38] (415,164)<div  />
+		[39] (415,177)<div  />
+			[40] (409,169)<span >더보기 />
+			[41] (428,169)<span  />
+[42] (463,164)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[43] (463,164)<div  />
+		[44] (463,177)<div  />
+			[45] (458,169)<span >도구 />
+			[46] (472,169)<span  />
+검색결과
+이것을 찾으셨나요?
+[47] (331,258)<a href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n49HUmKPL9VGtfZfZ0zU5ZpUOh2hQ:1778074182704&q=%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%ED%95%98%EB%82%A8%EC%8A%A4%ED%82%A4+%EC%BB%B4%ED%93%A8%ED%84%B0+%EB%B3%B8%EC%B2%B4+4070&spell=1&sa=X&ved=2ahUKEwinl63A4qSUAxUh48kDHX3XF_0QBSgAegQIDRAB'>당근마켓
+컴퓨터
+4070 />
+	[48] (309,258)<em >하남스키 />
+	[49] (380,258)<em >본체 />
+AI 개요
+[50] (852,310)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+당근마켓에서 하남시 인근 RTX 4070/4070 Super 기반 고사양 게이밍 컴퓨터 본체 매물들을 찾으시는군요. 2026년 4월 말~5월 초 기준으로 검색된 주요 매물 정보입니다.
+주요 매물 요약
+[RTX 4070 고사양 PC]
+AMD Ryzen 5 7500F, RAM 32GB (16x2) DDR5, SSD 1TB 구성의 고사양 게이밍 본체.
+[RTX 4070 SUPER 화이트]
+인텔 Core i7-14700F, 32GB RAM, ASRock B760M 메인보드 탑재된 화이트톤 게이밍 PC.
+[RTX 4070 SUPER]
+7800x3d CPU, 32GB RAM, Zotac 4070 super 그래픽카드 구성의 깨끗한 상태 제품.
+[RTX 4070 SUPER]
+인텔 Core Ultra 7 265k, 32GB RAM, 4070슈퍼 조합.
+구매 팁 (하남/신장동/덕풍동 인근)
+당근마켓에서 실시간으로 '
+하남 컴퓨터 4070
+' 등을 검색하여 [0.5.6~0.5.10] 최신 매물을 확인하세요.
+고사양 PC인 만큼 직접 방문하여 화면 출력과 상태를 확인하고 거래하는 것을 추천합니다.
+[51] (719,458)<a aria-label='RTX 4070 게이밍 컴퓨터 | 디지털기기 | 당근 중고거래. 새 탭에서 열립니다.' class='NDNGvf' href='https://www.daangn.com/kr/buy-sell/rtx-4070-%EA%B2%8C%EC%9D%B4%EB%B0%8D-%EC%BB%B4%ED%93%A8%ED%84%B0-ocxgq9y9dkig/' />
+RTX 4070 게이밍 컴퓨터 | 디지털기기 | 당근 중고거래
+고사양 게이밍 컴퓨터 본체 판매합니다 그래픽카드 : RTX 4070 CPU : AMD Ryzen 5 7500...
+당근
+[52] (842,532)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-R0L7aayRFMq4wN4P0_-m8Q4_20' role='button' />
+게이밍 PC RTX 4070 SUPER | 디지털기기 | 당근 중고거래
+화이트톤 케이스에 RTX 4070 SUPER가 장착된 게이밍 PC입니다 CPU: Intel Core i7-1...
+당근
+4070 s 본체 판매합니다 | 디지털기기 | 당근 중고거래
+7800x3d 32gb Zotac 4070 super B650M 깨끗하게 사용해서 증말깨끗합니다 거주지 근처...
+당근
+[53] (500,775)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[54] (348,775)<div  />
+		[55] (348,775)<div >더보기 />
+			더보기
+			[56] (363,775)<span  />
+웹 검색결과
+[57] (308,944)<a class='zReHs' href='https://www.daangn.com/kr/business-post/13600kf-rtx4070ti-%EB%B3%B8%EC%B2%B4-%EB%A7%A4%EC%9E%85%ED%96%88%EC%8A%B5%EB%8B%88%EB%8B%A4-irxsjfprovon/' />
+	[58] (308,972)<h3 >13600kf rtx4070ti 본체 매입했습니다. | 경기도 하남시 신장동 />
+	[59] (251,921)<div  />
+		[60] (251,921)<div  />
+			[61] (151,921)<span  />
+				[62] (151,921)<div  />
+					[63] (151,921)<img  />
+			[64] (264,921)<div  />
+				[65] (264,908)<div  />
+					[66] (264,908)<span >당근 />
+				[67] (264,935)<div  />
+					[68] (264,935)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[69] (307,934)<span class='ylgVCe ob9lvb' role='text'>› business-post › 13600kf-rtx... />
+[70] (374,934)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[71] (374,934)<span  />
+		[72] (374,935)<span  />
+
+</current_dom>

@@ -1,0 +1,139 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (104,27)<a href='/main/?logger_kw=main_shop_top' />
+[1] (144,26)<a href='https://pc26.danawa.com/bbs/?logger_kw=shop_top_pc26' />
+	[2] (150,24)<span >PC26 />
+[3] (192,26)<a href='https://shop.danawa.com/ssancom/?logger_kw=shop_top_ssancom' />
+	[4] (197,24)<span >싼컴 />
+[5] (244,26)<a href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=194&logger_kw=shop_top_counseling' />
+	[6] (244,24)<span >PC구매상담 />
+[7] (303,26)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=46' />
+	[8] (303,24)<span >기업구매상담 />
+[9] (354,26)<a class='link__login' />
+	[10] (354,24)<span >로그인 />
+[11] (715,27)<a href='//www.danawa.com/?logger_kw=shop_top_danawa'>다나와 />
+[12] (756,27)<a href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>에누리 />
+[13] (798,27)<a href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>몰테일 />
+[14] (845,27)<a href='https://www.plto.com/?utm_source=shopdanawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[15] (895,27)<a href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>메이크샵 />
+[16] (180,63)<a href='/main/' />
+	[17] (180,117)<img  />
+[18] (454,123)<fieldset  />
+	[19] (445,123)<input class='search__input' id='gnbSearchKeyword' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[20] (591,123)<button class='search__submit' id='gnbSearchBtn' />
+[21] (351,214)<a class='link searchAutoKeyword' href='#'>intel core i7-14700k />
+[22] (350,247)<a class='link searchAutoKeyword' href='#'>intel core i7 14700k />
+[23] (350,282)<a class='link searchAutoKeyword' href='#'>intel core i7‑14700k />
+[24] (584,653)<button class='btn_set-keyword' id='gnbAutoCompleteLayerSearchBtn'>기능 끄기 />
+실시간 PC견적
+[25] (785,128)<a class='link' href='https://shop.danawa.com/pc' />
+	[26] (737,122)<span >[12:32] />
+	[27] (787,128)<span >견적 부탁드립니다 />
+	[28] (883,122)<span >3,396,000원 />
+[12:22]
+견적 문의드립니다.
+6,012,000원
+[14:33]
+견적요청합니다
+1,763,000원
+[14:30]
+견적요청합니다
+2,135,000원
+[14:28]
+견적요청합니다
+2,109,000원
+[14:26]
+견적요청합니다
+2,028,000원
+[13:26]
+견적서 요청
+3,309,000원
+[13:25]
+견적서 요청
+3,309,000원
+[13:01]
+견적 부탁드립니다.
+5,918,000원
+[12:57]
+PC견적 요청의 건
+5,037,000원
+[29] (111,222)<button class='btn_cate' />
+[30] (158,219)<a class='link_nav' href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16'>PC견적 />
+[31] (209,219)<a class='link_nav' href='https://shop.danawa.com/pc/'>역경매 />
+[32] (261,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/'>조립PC />
+게임용PC
+노트북
+가정/사무용PC
+전문가용PC
+무이자PC
+[33] (646,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=usedMarket'>중고PC />
+[34] (698,219)<a class='link_nav' href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=41'>딜러몰 />
+[35] (760,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=46'>기업구매상담 />
+[36] (827,219)<a class='link_nav' href='https://shop.danawa.com/main/?controller=used&methods=index'>중고매입 />
+[37] (886,219)<a class='link_nav' href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=256'>이벤트 />
+	[38] (901,219)<span >외부 링크 />
+[39] (49,509)<a class='link__banner' href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12820' />
+	[40] (49,509)<img  />
+[41] (49,757)<img  />
+[42] (946,447)<a class='wing-box__link' href='https://buyer.danawa.com/cart/Carts/cartList' />
+	[43] (946,475)<span >장바구니 />
+	[44] (956,415)<span >0 />
+[45] (946,545)<a class='wing-box__link' href='https://shop.danawa.com/main/?controller=estimate&methods=estimateList' />
+	[46] (946,572)<span >관심상품 />
+최근본
+상품
+상품이
+없습니다.
+[47] (946,838)<a class='sub-wing__link' href='https://buyer.danawa.com/order/Order/shopOrders/viewType/orderList'>주문/배송 />
+[48] (946,884)<a class='sub-wing__link' href='//help.danawa.com/'>고객센터 />
+[49] (947,952)<a class='bnr-wing__link' href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=194' />
+[50] (963,941)<button class='btn_close' id='topDownWingBannerBtnClose' />
+샵다나와 PC/노트북
+[51] (117,441)<a href='https://shop.danawa.com/shopmain/'>조립PC />
+·
+[52] (149,441)<a href='https://shop.danawa.com/pcshop/?controller=brandPC&methods=priceListCategory&categorySeq=11261'>가격별 />
+·
+[53] (176,441)<a href='https://shop.danawa.com/shopmain/?controller=bestPC&methods=main&serviceGroupCode=1'>인기 />
+[54] (121,476)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=5'>게임용PC />
+·
+[55] (169,476)<a href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=11505'>배틀그라운드 />
+[56] (125,510)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=23'>전문가용PC />
+·
+[57] (177,510)<a href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=2505'>전문디자인용 />
+[58] (148,545)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=36'>12/24/36개월 무이자PC />
+[59] (115,579)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=12'>노트북 />
+·
+[60] (149,579)<a href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=11998'>브랜드별 />
+·
+[61] (184,579)<a href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12009'>게이밍 />
+샵다나와 AI
+[62] (150,688)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=46'>기업/학교/연구소 구매상담 />
+[63] (126,723)<a href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12370'>AI/딥러닝PC />
+·
+[64] (180,723)<a href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12359'>연구/개발PC />
+[65] (132,757)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=41'>샵다나와 딜러몰 />
+PC 부품 전문몰
+PC 주요구성
+모니터 · 주변기기
+저장장치 · 멀티미디어
+[66] (271,420)<a class='link mainBannerTitle' href='#' role='button'>조립갤러리 />
+[67] (264,388)<button class='main-swipe__btn'>1 />
+[68] (271,388)<button class='main-swipe__btn'>2 />
+[69] (277,388)<button class='main-swipe__btn'>3 />
+이달의 추천PC
+인기 게임용PC
+인기 용도별PC
+[70] (706,420)<a class='link mainBannerTitle sub-menu__item--select' href='#' role='button'>24/36개월 무이자PC />
+[71] (810,420)<a class='link mainBannerTitle' href='#' role='button'>이벤트 />
+[72] (909,694)<button aria-label='Next slide' class='btn_next mainBanner_btn_next' role='button' />
+[73] (247,694)<button aria-label='Previous slide' class='btn_prev mainBanner_btn_prev' role='button' />
+7
+/
+8
+[74] (905,417)<button class='btn_stop mainBanner_rolling_btn' />
+[75] (155,979)<a class='main-clip__left__bnr' href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12725' />
+[76] (837,979)<a class='main-clip__right__link' href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12020' />
+
+</current_dom>

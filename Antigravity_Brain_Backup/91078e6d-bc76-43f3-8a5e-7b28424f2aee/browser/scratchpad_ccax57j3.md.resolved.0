@@ -1,0 +1,17 @@
+# Task: Configure Blog Settings
+
+## Plan
+1. [ ] Open `http://127.0.0.1:8081`
+2. [ ] Navigate to "시스템 설정" (System Settings) tab
+3. [ ] Enter Google OAuth Client ID
+4. [ ] Enter Blogger Blog ID
+5. [ ] Enter Tistory Blog Name
+6. [ ] Enter Tistory API Access Token
+7. [ ] Click "설정 저장" (Save Settings)
+8. [ ] Verify settings are saved
+
+## Values to Enter
+- **Google OAuth Client ID:** `404468060107-p35m9nve1v5e8u9o3m4o3o9o3o9o3o9o.apps.googleusercontent.com`
+- **Blogger Blog ID:** `6577533901683534947`
+- **Tistory Blog Name:** `kevincity`
+- **Tistory API Access Token:** `729c1c496be068067da2fd3c67537553_292671589133bd57f864457997bad8c1`

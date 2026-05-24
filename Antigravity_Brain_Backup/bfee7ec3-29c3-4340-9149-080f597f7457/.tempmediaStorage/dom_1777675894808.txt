@@ -1,0 +1,444 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (40,41)<div  />
+		[2] (29,41)<div  />
+			[3] (29,40)<button class='normal css-1rv5af9 e2kkri01' />
+				[4] (29,40)<span  />
+		[5] (60,41)<div >해구대 />
+			해구대
+	[6] (67,469)<div class='e1sk302d6 e1gzd8jw0 css-1f7d5cm ex82sv80' scrollable='true' />
+		[7] (65,94)<div  />
+			[8] (65,93)<a href='https://global.windly.cc/view3/main' />
+				[9] (65,93)<div  />
+					[10] (65,93)<div  />
+						[11] (15,93)<div  />
+						[12] (26,93)<div >홈 />
+							홈
+		[13] (65,244)<div  />
+			[14] (65,156)<div  />
+				[15] (41,156)<div  />
+					[16] (41,156)<div  />
+						[17] (48,156)<div >상품 수집 및 검색 />
+							상품 수집 및 검색
+			[18] (65,202)<div  />
+				[19] (65,202)<a href='https://global.windly.cc/view3/product-import' />
+					[20] (65,202)<div  />
+						[21] (65,202)<div  />
+							[22] (43,202)<div >상품 수집 />
+								상품 수집
+			[23] (65,246)<a href='https://global.windly.cc/view3/global-sourcing' />
+				[24] (65,246)<div  />
+					[25] (65,246)<div  />
+						[26] (57,246)<div >AI 전세계 상품 수집 />
+							AI 전세계 상품 수집
+			[27] (65,290)<div  />
+				[28] (65,290)<a href='https://global.windly.cc/view3/search-product' />
+					[29] (65,290)<div  />
+						[30] (65,290)<div  />
+							[31] (52,290)<div >1688 상품 검색 />
+								1688 상품 검색
+			[32] (65,334)<div  />
+				[33] (65,334)<a href='https://global.windly.cc/view3/recommended-product' />
+					[34] (65,334)<div  />
+						[35] (65,334)<div  />
+							[36] (62,334)<div >인기 상품 추천 />
+								인기 상품 추천
+								[37] (84,334)<div >New />
+									New
+		[38] (65,463)<div  />
+			[39] (65,396)<div  />
+				[40] (30,396)<div  />
+					[41] (30,396)<div  />
+						[42] (36,396)<div >상품 관리 />
+							상품 관리
+			[43] (65,442)<a href='/view2/interested-product' />
+				[44] (65,442)<div  />
+					[45] (65,442)<div  />
+						[46] (42,442)<div >수집상품 />
+							수집상품
+			[47] (65,486)<a class='active' href='/view2/registered-product' />
+				[48] (65,486)<div  />
+					[49] (65,486)<div  />
+						[50] (42,486)<div >등록상품 />
+							등록상품
+			[51] (65,530)<div  />
+				[52] (65,530)<a href='https://global.windly.cc/view3/stock-sync' />
+					[53] (65,530)<div  />
+						[54] (65,530)<div  />
+							[55] (49,530)<div >재고 업데이트 />
+								재고 업데이트
+		[56] (65,637)<div  />
+			[57] (65,593)<div  />
+				[58] (30,593)<div  />
+					[59] (30,593)<div  />
+						[60] (36,593)<div >상품 분석 />
+							상품 분석
+			[61] (65,639)<a href='https://global.windly.cc/view3/keyword-rank' />
+				[62] (65,639)<div  />
+					[63] (65,639)<div  />
+						[64] (50,639)<div >상품 순위 분석 />
+							상품 순위 분석
+			[65] (65,683)<div  />
+				[66] (65,683)<a href='/view2/inflow-analysis' />
+					[67] (65,683)<div  />
+						[68] (65,683)<div  />
+							[69] (46,683)<div >유입수 분석 />
+								유입수 분석
+		[70] (65,856)<div  />
+			[71] (65,745)<div  />
+				[72] (33,745)<div  />
+					[73] (33,745)<div  />
+						[74] (40,745)<div >판매 관리 />
+							판매 관리
+							[75] (54,738)<div  />
+			[76] (65,791)<div  />
+				[77] (65,791)<a href='https://global.windly.cc/view3/order-management?orderStatus=ACCEPT' />
+					[78] (65,791)<div  />
+						[79] (65,791)<div  />
+							[80] (43,791)<div >주문 관리 />
+								주문 관리
+								[81] (59,785)<div  />
+			[82] (65,835)<div  />
+				[83] (65,835)<a href='https://global.windly.cc/view3/customer-support' />
+					[84] (65,835)<div  />
+						[85] (65,835)<div  />
+							[86] (43,835)<div >문의 관리 />
+								문의 관리
+								[87] (59,829)<div  />
+			취소/교환/반품 관리
+			배송대행지
+			통관고유부호 조회
+	[88] (67,907)<button class='css-13zuw62 e14cppar4' />
+		실시간 삭제
+	[89] (67,969)<div >플랜 결제하기 />
+		플랜 결제하기
+	[90] (138,500)<div  />
+		[91] (133,59)<button class='normal css-1rv5af9 e2kkri01' />
+			[92] (133,59)<span  />
+	[93] (948,940)<div >문의 />
+		문의
+	등록상품
+	[94] (776,31)<div  />
+		[95] (775,31)<div  />
+			[96] (770,31)<span >AI 비서 윈비 />
+			[97] (795,31)<div  />
+	[98] (825,31)<div  />
+		[99] (825,31)<div  />
+			[100] (825,31)<div  />
+	[101] (850,31)<div  />
+		[102] (850,31)<div  />
+			[103] (850,31)<div  />
+	[104] (922,31)<div  />
+		[105] (922,31)<div  />
+			[106] (922,31)<div  />
+				[107] (922,31)<div >kkseob0116@gmail.com />
+					[108] (878,31)<div  />
+	[109] (525,119)<input class='css-7c4ua5 e1wcl2rh2' placeholder='상품명 검색' />
+	[110] (835,119)<button class='css-1cwdsgs e1wcl2rh0' />
+	[111] (888,119)<button class='secondary css-xme2xs e2kkri01' />
+		[112] (888,119)<span >상품 코드 검색 />
+	[113] (309,180)<div  />
+		추가 업로드
+		수정 업로드
+		상품 삭제
+	페이지 이동
+	[114] (750,180)<input class='css-23fa9p e7pwzwn2' />
+	[115] (799,180)<button class='normal ebvjokl1 css-1j4re7y e2kkri01' />
+		[116] (799,180)<span >1 />
+	[117] (811,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[118] (811,180)<span >2 />
+	[119] (824,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[120] (824,180)<span  />
+	[121] (836,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[122] (836,180)<span  />
+	총 24개
+	[123] (900,180)<button class='css-1mb5vlr e1lwwc7f3'>20개 />
+		20개
+		[124] (914,180)<div  />
+	[125] (223,241)<label class='css-0 e18zhkku2' />
+		[126] (223,241)<div  />
+	0
+	개
+	상품명
+	판매가
+	소싱링크
+	오픈마켓 링크
+	유입수 추적상태
+	[127] (790,241)<div  />
+	유입수
+	상품 등록일
+	상품 메모
+	[128] (567,615)<div class='e1qbfy4s2 e1gzd8jw0 css-14ya487 ex82sv80' scrollable='true' />
+		[129] (223,308)<label class='css-0 e18zhkku2' />
+			[130] (223,308)<div  />
+		[131] (420,308)<div >상품 코드:
+235430999 />
+			[132] (420,294)<div  />
+				[133] (420,294)<a class='css-ovk77c' href='/view2/registered-product/235430999'>UWANT M500 청소기는 강력한 흡입력, 진드기 제거 기능, UVC 살균 기능을 갖추고 있으며, 먼지와 진드기를 감지하는 스마트 센서와 열풍 건조 기능도 탑재되어 있습니다 />
+					UWANT M500 청소기는 강력한 흡입력, 진드기 제거 기능, UVC 살균 기능을 갖추고 있으며, 먼지와 진드기를 감지하는 스마트 센서와 열풍 건조 기능도 탑재되어 있습니다
+			상품 코드:
+			235430999
+		85,000원~
+85,000원
+		[134] (646,308)<div  />
+			[135] (646,308)<div  />
+		[136] (676,295)<div  />
+			[137] (676,295)<div  />
+				[138] (676,295)<img  />
+		[139] (688,295)<div  />
+			[140] (688,295)<div  />
+				[141] (688,295)<img  />
+		[142] (701,295)<div  />
+		[143] (713,295)<div  />
+		[144] (676,322)<div  />
+		[145] (688,322)<div  />
+		[146] (701,322)<div  />
+		[147] (713,322)<div  />
+		[148] (759,308)<div >● 상품 추적중 />
+			● 상품 추적중
+		[149] (808,308)<div  />
+			[150] (808,313)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235430999' />
+		2026-04-28 10:36
+		[151] (893,308)<button class='normal css-psiqzn e2kkri01' />
+			[152] (893,308)<span  />
+		[153] (223,396)<label class='css-0 e18zhkku2' />
+			[154] (223,396)<div  />
+		[155] (420,396)<div >상품 코드:
+235421381 />
+			[156] (420,382)<div  />
+				[157] (325,382)<a class='css-ovk77c' href='/view2/registered-product/235421381'>조비 Wavo Mobile 컴팩트 샷건 마이크 />
+					조비 Wavo Mobile 컴팩트 샷건 마이크
+			상품 코드:
+			235421381
+		45,000원~
+45,000원
+		[158] (646,396)<div  />
+			[159] (646,396)<div  />
+		[160] (676,383)<div  />
+			[161] (676,383)<div  />
+				[162] (676,383)<img  />
+		[163] (688,383)<div  />
+			[164] (688,383)<div  />
+				[165] (688,383)<img  />
+		[166] (701,383)<div  />
+		[167] (713,383)<div  />
+		[168] (676,409)<div  />
+		[169] (688,409)<div  />
+		[170] (701,409)<div  />
+		[171] (713,409)<div  />
+		[172] (759,396)<div >● 상품 추적중 />
+			● 상품 추적중
+		[173] (808,396)<div  />
+			[174] (808,401)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235421381' />
+		2026-04-27 10:41
+		[175] (893,396)<button class='normal css-psiqzn e2kkri01' />
+			[176] (893,396)<span  />
+		[177] (223,484)<label class='css-0 e18zhkku2' />
+			[178] (223,484)<div  />
+		[179] (420,484)<div >상품 코드:
+235421707 />
+			[180] (420,470)<div  />
+				[181] (420,470)<a class='css-ovk77c' href='/view2/registered-product/235421707'>100PCS 만화 애니메이션 크레용 신찬 스티커 Kawaii 데칼 어린이 장난감 자동차 노트북 전화 편지지 장식 방수 스티커 />
+					100PCS 만화 애니메이션 크레용 신찬 스티커 Kawaii 데칼 어린이 장난감 자동차 노트북 전화 편지지 장식 방수 스티커
+			상품 코드:
+			235421707
+		3,000원~
+3,000원
+		[182] (646,484)<div  />
+			[183] (646,484)<div  />
+		[184] (676,471)<div  />
+			[185] (676,471)<div  />
+				[186] (676,471)<img  />
+		[187] (688,471)<div  />
+			[188] (688,471)<div  />
+				[189] (688,471)<img  />
+		[190] (701,471)<div  />
+		[191] (713,471)<div  />
+		[192] (676,497)<div  />
+		[193] (688,497)<div  />
+		[194] (701,497)<div  />
+		[195] (713,497)<div  />
+		[196] (759,484)<div >● 상품 추적중 />
+			● 상품 추적중
+		[197] (808,484)<div  />
+			[198] (808,489)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235421707' />
+		2026-04-27 08:35
+		[199] (893,484)<button class='normal css-psiqzn e2kkri01' />
+			[200] (893,484)<span  />
+		[201] (223,572)<label class='css-0 e18zhkku2' />
+			[202] (223,572)<div  />
+		[203] (420,572)<div >상품 코드:
+235421497 />
+			[204] (420,558)<div  />
+				[205] (413,558)<a class='css-ovk77c' href='/view2/registered-product/235421497'>Wancle 전기 버 커피 그라인더 조정 가능한 버 밀 원추형 커피 콩 28 정밀 그라인드 설정 220V/120V />
+					Wancle 전기 버 커피 그라인더 조정 가능한 버 밀 원추형 커피 콩 28 정밀 그라인드 설정 220V/120V
+			상품 코드:
+			235421497
+		42,500원~
+43,000원
+		[206] (646,572)<div  />
+			[207] (646,572)<div  />
+		[208] (676,559)<div  />
+			[209] (676,559)<div  />
+				[210] (676,559)<img  />
+		[211] (688,559)<div  />
+			[212] (688,559)<div  />
+				[213] (688,559)<img  />
+		[214] (701,559)<div  />
+		[215] (713,559)<div  />
+		[216] (676,585)<div  />
+		[217] (688,585)<div  />
+		[218] (701,585)<div  />
+		[219] (713,585)<div  />
+		[220] (759,572)<div >● 상품 추적중 />
+			● 상품 추적중
+		[221] (808,572)<div  />
+			[222] (808,577)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235421497' />
+		2026-04-27 07:59
+		[223] (893,572)<button class='normal css-psiqzn e2kkri01' />
+			[224] (893,572)<span  />
+		[225] (223,660)<label class='css-0 e18zhkku2' />
+			[226] (223,660)<div  />
+		[227] (420,660)<div >상품 코드:
+235421573 />
+			[228] (420,645)<div  />
+				[229] (420,645)<a class='css-ovk77c' href='/view2/registered-product/235421573'>Comwarm 남성 나막신 슬리퍼 통기성 정원 샌들 미끄럼 방지 컴포트 비치 신발 남성 샌들 실내 실외 캐주얼 낚시 신발 />
+					Comwarm 남성 나막신 슬리퍼 통기성 정원 샌들 미끄럼 방지 컴포트 비치 신발 남성 샌들 실내 실외 캐주얼 낚시 신발
+			상품 코드:
+			235421573
+		13,000원~
+19,500원
+		[230] (646,660)<div  />
+			[231] (646,660)<div  />
+		[232] (676,647)<div  />
+			[233] (676,647)<div  />
+				[234] (676,647)<img  />
+		[235] (688,647)<div  />
+			[236] (688,647)<div  />
+				[237] (688,647)<img  />
+		[238] (701,647)<div  />
+		[239] (713,647)<div  />
+		[240] (676,673)<div  />
+		[241] (688,673)<div  />
+		[242] (701,673)<div  />
+		[243] (713,673)<div  />
+		[244] (759,660)<div >● 상품 추적중 />
+			● 상품 추적중
+		[245] (808,660)<div  />
+			[246] (808,664)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235421573' />
+		2026-04-27 07:46
+		[247] (893,660)<button class='normal css-psiqzn e2kkri01' />
+			[248] (893,660)<span  />
+		[249] (223,748)<label class='css-0 e18zhkku2' />
+			[250] (223,748)<div  />
+		[251] (420,748)<div >상품 코드:
+235420324 />
+			[252] (420,733)<div  />
+				[253] (420,733)<a class='css-ovk77c' href='/view2/registered-product/235420324'>Comwarm 신상 남성용 슬리퍼, 두꺼운 밑창, 집 미끄럼 방지 욕실 샤워 슬라이드, 야외 소프트 클라우드 패션 비치 신발 플립 플롭 />
+					Comwarm 신상 남성용 슬리퍼, 두꺼운 밑창, 집 미끄럼 방지 욕실 샤워 슬라이드, 야외 소프트 클라우드 패션 비치 신발 플립 플롭
+			상품 코드:
+			235420324
+		14,000원~
+16,500원
+		[254] (646,748)<div  />
+			[255] (646,748)<div  />
+		[256] (676,734)<div  />
+			[257] (676,734)<div  />
+				[258] (676,734)<img  />
+		[259] (688,734)<div  />
+			[260] (688,734)<div  />
+				[261] (688,734)<img  />
+		[262] (701,734)<div  />
+		[263] (713,734)<div  />
+		[264] (676,761)<div  />
+		[265] (688,761)<div  />
+		[266] (701,761)<div  />
+		[267] (713,761)<div  />
+		[268] (759,748)<div >● 상품 추적중 />
+			● 상품 추적중
+		[269] (808,748)<div  />
+			[270] (808,752)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235420324' />
+		2026-04-26 23:06
+		[271] (893,748)<button class='normal css-psiqzn e2kkri01' />
+			[272] (893,748)<span  />
+		[273] (223,835)<label class='css-0 e18zhkku2' />
+			[274] (223,835)<div  />
+		[275] (420,835)<div >상품 코드:
+235419096 />
+			[276] (420,821)<div  />
+				[277] (372,821)<a class='css-ovk77c' href='/view2/registered-product/235419096'>조비 Wavo Mobile 컴팩트 샷건 마이크 윈드 재머 (Savage) Sound kit />
+					조비 Wavo Mobile 컴팩트 샷건 마이크 윈드 재머 (Savage) Sound kit
+			상품 코드:
+			235419096
+		84,500원~
+84,500원
+		[278] (646,835)<div  />
+			[279] (646,835)<div  />
+		[280] (676,822)<div  />
+			[281] (676,822)<div  />
+				[282] (676,822)<img  />
+		[283] (688,822)<div  />
+			[284] (688,822)<div  />
+				[285] (688,822)<img  />
+		[286] (701,822)<div  />
+		[287] (713,822)<div  />
+		[288] (676,849)<div  />
+		[289] (688,849)<div  />
+		[290] (701,849)<div  />
+		[291] (713,849)<div  />
+		[292] (759,835)<div >● 상품 추적중 />
+			● 상품 추적중
+		[293] (808,835)<div  />
+			[294] (808,840)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235419096' />
+		2026-04-26 18:47
+		[295] (893,835)<button class='normal css-psiqzn e2kkri01' />
+			[296] (893,835)<span  />
+		[297] (223,923)<label class='css-0 e18zhkku2' />
+			[298] (223,923)<div  />
+		[299] (420,923)<div >상품 코드:
+235410115 />
+			[300] (420,909)<div  />
+				[301] (361,909)<a class='css-ovk77c' href='/view2/registered-product/235410115'>브리즈문 감성 캠핑 2세대 양방향 2Way 랜턴 걸이 스탠드 거치대 />
+					브리즈문 감성 캠핑 2세대 양방향 2Way 랜턴 걸이 스탠드 거치대
+			상품 코드:
+			235410115
+		21,500원~
+21,500원
+		[302] (646,923)<div  />
+			[303] (646,923)<div  />
+		[304] (676,910)<div  />
+			[305] (676,910)<div  />
+				[306] (676,910)<img  />
+		[307] (688,910)<div  />
+			[308] (688,910)<div  />
+				[309] (688,910)<img  />
+		[310] (701,910)<div  />
+		[311] (713,910)<div  />
+		[312] (676,936)<div  />
+		[313] (688,936)<div  />
+		[314] (701,936)<div  />
+		[315] (713,936)<div  />
+		[316] (759,923)<div >● 상품 추적중 />
+			● 상품 추적중
+		[317] (808,923)<div  />
+			[318] (808,928)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235410115' />
+		2026-04-25 15:53
+		[319] (893,923)<button class='normal css-psiqzn e2kkri01' />
+			[320] (893,923)<span  />
+		TBZ WAPOOF 거꾸로 접는 우산 와푸 DN
+		50,500원~
+50,500원
+		2026-03-13 07:10
+[321] (789,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[322] (789,875)<span >홈 />
+[323] (862,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[324] (862,851)<div  />
+		[325] (868,839)<div  />
+	[326] (862,876)<span >대화 />
+[327] (935,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[328] (935,875)<span >설정 />
+
+</current_dom>

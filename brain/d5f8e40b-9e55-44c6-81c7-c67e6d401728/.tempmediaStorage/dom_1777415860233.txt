@@ -1,0 +1,39 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+검색
+Skills Dashboard
+데이터 분석
+인플루언서 관리
+캠페인
+설정
+AI Lab
+[0] (43,44)<a class='nav-item logo' href='/' />
+	[1] (43,45)<div  />
+		[2] (43,45)<img  />
+[3] (123,48)<li  />
+	[4] (118,46)<span >제품 및 서비스 />
+[5] (197,48)<li  />
+	[6] (193,46)<span >인플루언서 순위 />
+[7] (273,48)<li  />
+	[8] (269,46)<span >자료 라이브러리 />
+[9] (338,48)<li  />
+	[10] (334,46)<span >회사소개 />
+[11] (380,48)<a class='nav-item' href='/product/pricing' />
+	[12] (380,46)<span >가격 />
+[13] (420,48)<a class='nav-item nav-item-skills' href='/skills' />
+	[14] (412,48)<span >Skills />
+	[15] (430,48)<img  />
+[16] (826,48)<div class='el-autocomplete' role='combobox' />
+	[17] (826,48)<input class='el-input__inner' placeholder='인플루언서 검색' role='textbox' />
+[18] (899,48)<a class='inter-button work-button' href='/login?userType=brand'>로그인 />
+[19] (953,48)<a class='inter-button consultation-button' href='/contact'>데모 요청하기 />
+인플루언서를 찾을 수 없습니다.
+인플루언서를 찾을 수 없습니다. 정확한 링크를 사용하세요. 링크 추가 후 {1일} 이내에 인플루언서 데이터가 업데이트됩니다.
+[20] (500,747)<div >인플루언서 추가하기 />
+noxInfluencer.com은 사용자 경험을 향상시키기 위해 쿠키를 사용합니다. 웹사이트를 계속 사용할 경우 쿠키허용을 의미합니다.
+[21] (686,952)<a class='privacy' href='/privacy'>쿠키정책 />
+[22] (747,952)<span >알겠습니다 />
+
+</current_dom>

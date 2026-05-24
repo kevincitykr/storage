@@ -1,0 +1,91 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Opal
+Experiment
+[0] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[1] (949,40)<span >settings />
+[2] (978,40)<button id='toggle-user-menu' />
+	[3] (978,40)<span >person />
+[4] (500,540)<bb-project-listing scrollable='true' />
+	[5] (210,-68)<div class=' board mine ' />
+		[6] (210,-68)<img  />
+		[7] (213,54)<div  />
+			[8] (213,49)<h4 >Untitled Opal app />
+	[9] (400,-68)<div class=' board mine ' />
+		[10] (400,-68)<img  />
+		[11] (403,11)<div  />
+			[12] (403,-38)<h4 >YouTube Image Sequence />
+			[13] (403,69)<p >Create a sequence of YouTube-ready images from your prompts. />
+	[14] (590,-68)<div class=' board mine ' />
+		[15] (590,-68)<img  />
+		[16] (593,54)<div  />
+			[17] (593,49)<h4 >베이킹코드_ai 드라마 자동화 Remix />
+	[18] (780,-68)<div class=' board mine ' />
+		[19] (780,-68)<img  />
+		[20] (783,54)<div  />
+			[21] (783,49)<h4 >후니 롱폼 0124  1200 />
+	[22] (210,384)<div class=' board mine ' />
+		[23] (210,384)<img  />
+		[24] (145,218)<button class=' overflow-pin ' />
+			[25] (145,218)<span  />
+		[26] (278,224)<button class='overflow-menu' />
+			[27] (278,224)<span >more_vert />
+		[28] (213,462)<div  />
+			[29] (213,414)<h4 >후니 시니어롱폼 260121 Opal app Remix />
+			[30] (213,520)<p >Generate complete long-form video scripts with AI-crafted images and production guide. />
+	[31] (400,384)<div class=' board mine ' />
+		[32] (400,384)<img  />
+		[33] (335,218)<button class=' overflow-pin ' />
+			[34] (335,218)<span  />
+		[35] (468,224)<button class='overflow-menu' />
+			[36] (468,224)<span >more_vert />
+		[37] (403,506)<div  />
+			[38] (403,500)<h4 >Untitled Opal app />
+	[39] (590,384)<div class=' board mine ' />
+		[40] (590,384)<img  />
+		[41] (525,218)<button class=' overflow-pin ' />
+			[42] (525,218)<span  />
+		[43] (658,224)<button class='overflow-menu' />
+			[44] (658,224)<span >more_vert />
+		[45] (593,506)<div  />
+			[46] (593,500)<h4 >Untitled Opal app />
+	[47] (780,384)<div class=' board mine ' />
+		[48] (780,384)<img  />
+		[49] (715,218)<button class=' overflow-pin ' />
+			[50] (715,218)<span  />
+		[51] (848,224)<button class='overflow-menu' />
+			[52] (848,224)<span >more_vert />
+		[53] (783,506)<div  />
+			[54] (783,500)<h4 >Untitled Opal app />
+	[55] (703,661)<button id='prev'>Previous />
+	[56] (742,661)<button >1 />
+	2
+	[57] (794,661)<button >3 />
+	[58] (820,661)<button >4 />
+	[59] (850,661)<button id='next'>Next />
+	Gallery
+	[60] (840,811)<button  />
+		[61] (825,811)<span >search />
+		[62] (847,811)<span >Search />
+	[63] (210,1088)<div class=' board ' />
+		[64] (210,1088)<img  />
+		[65] (171,937)<button class=' remix-button sans-flex w-500 round md-body-small persistent ' />
+			[66] (155,937)<span  />
+	[67] (400,1088)<div class=' board ' />
+		[68] (400,1088)<img  />
+		[69] (361,937)<button class=' remix-button sans-flex w-500 round md-body-small persistent ' />
+			[70] (345,937)<span  />
+	[71] (590,1088)<div class=' board ' />
+		[72] (590,1088)<img  />
+		[73] (551,937)<button class=' remix-button sans-flex w-500 round md-body-small persistent ' />
+			[74] (535,937)<span  />
+	[75] (780,1088)<div class=' board ' />
+		[76] (780,1088)<img  />
+		[77] (741,937)<button class=' remix-button sans-flex w-500 round md-body-small persistent ' />
+			[78] (726,937)<span  />
+[79] (712,928)<button id='close' />
+	[80] (712,928)<span  />
+
+</current_dom>

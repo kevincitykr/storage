@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Implementation plan for the AliExpress Order Tracking Automation Line. This system will automate the retrieval of tracking numbers from multiple AliExpress accounts and sync them with Shopmine's 'Pending Shipment' data.",
+  "updatedAt":  "2026-05-06T20:24:56.534624900Z",
+  "requestFeedback":  true
+}

@@ -1,0 +1,107 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,52)<button id='back-button' />
+	[1] (38,49)<span >arrow_back />
+[2] (185,52)<input class='sans-flex round w-500' id='tab-title' />
+[3] (464,52)<button class=' sans-flex round w-500 md-body-small selected ' id='canvas'>Editor />
+[4] (544,52)<button class=' sans-flex round w-500 md-body-small ' id='app'>App />
+Saved
+[5] (849,52)<button class=' selected icon round w-500 sans-flex ' />
+	[6] (849,52)<span >more_vert />
+[7] (900,52)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (900,52)<span >settings />
+[9] (956,52)<button id='toggle-user-menu' />
+	[10] (956,52)<span >person />
+[11] (526,553)<div  />
+[12] (114,559)<section  />
+	[13] (114,559)<div  />
+	[14] (114,527)<header  />
+		[15] (61,527)<span >button_magic />
+		[16] (111,527)<span >Create Visual Storyboard />
+		[17] (162,527)<bb-node-run-control  />
+			[18] (162,527)<button class='node-controls' />
+				[19] (162,527)<span  />
+		[20] (177,526)<button id='connection-trigger' />
+	[21] (114,574)<div  />
+		[22] (114,573)<div  />
+			[23] (114,573)<div  />
+				[24] (114,573)<p >Based on the provided application description, generate a detailed 10-scene visual storyboard. />
+[25] (263,551)<section  />
+	[26] (263,551)<div  />
+	[27] (263,527)<header  />
+		[28] (211,527)<span >button_magic />
+		[29] (261,527)<span >Generate Pratfall Effect Images />
+		[30] (311,527)<bb-node-run-control  />
+		[31] (327,526)<button id='connection-trigger' />
+	[32] (263,567)<div  />
+		[33] (263,565)<div  />
+			[34] (263,565)<div  />
+				[35] (263,565)<p >Generate a series of 10 images based on the detailed storyboard. />
+[36] (413,559)<section  />
+	[37] (413,559)<div  />
+	[38] (413,527)<header  />
+		[39] (360,527)<span >web />
+		[40] (410,527)<span >Render Pratfall Images Webpage />
+		[41] (461,527)<bb-node-run-control  />
+		[42] (476,526)<button id='connection-trigger' />
+	[43] (413,574)<div  />
+		[44] (413,573)<div  />
+			[45] (413,573)<div  />
+				[46] (413,573)<p >Combine the generated 10 images and the original storyboard text into a single HTML webpage. />
+[47] (50,183)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[48] (8,183)<span >chat_mirror />
+[49] (196,183)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[50] (153,183)<span >spark />
+[51] (324,183)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[52] (290,183)<span >responsive_layout />
+[53] (470,183)<button class=' selected icon round w-500 sans-flex ' />
+	[54] (417,183)<span >add_box />
+	[55] (486,183)<span >Add Assets />
+[56] (597,209)<button >Pick File />
+[57] (644,262)<button >Create New Document />
+[58] (263,871)<bb-expanding-textarea >send />
+	[59] (263,871)<div  />
+		[60] (213,871)<div  />
+			[61] (213,871)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[62] (456,871)<button aria-label='Submit' id='submit' />
+	[63] (406,871)<bb-speech-to-text  />
+		[64] (406,871)<button  />
+			[65] (406,871)<span >mic />
+	send
+[66] (472,635)<button id='zoom-to-fit' />
+	[67] (472,635)<span >fit_screen />
+[68] (472,715)<button id='zoom-in' />
+	[69] (472,715)<span >add />
+[70] (472,776)<button id='zoom-out' />
+	[71] (472,776)<span >remove />
+undo
+redo
+Opal can make mistakes, so double-check it
+Preview
+[72] (723,159)<button class=' sans-flex w-500 round '>Console />
+[73] (824,159)<button class=' sans-flex w-500 round invisible '>Step />
+[74] (919,159)<button class=' sans-flex w-500 round '>Theme />
+[75] (599,263)<button id='menu' />
+	[76] (566,263)<span >menu />
+[77] (927,263)<button id='replay' />
+	[78] (960,263)<span >replay />
+Pratfall Effect Explainer
+[79] (233,814)<a class='w-400 round md-title-medium' href='https://policies.google.com/terms'>Privacy
+            & Terms />
+	[80] (146,814)<span >shield_person />
+	[81] (340,814)<span >open_in_new />
+[82] (257,913)<a class='w-400 round md-title-medium' href='/'>View more
+Opal
+apps />
+	[83] (146,913)<span >gallery_thumbnail />
+	[84] (389,913)<span >open_in_new />
+[85] (763,597)<h1 >Pratfall Effect Explainer />
+[86] (763,749)<p >Create 10 16:9 images illustrating the Pratfall Effect concept. />
+[87] (763,871)<button class='  ' id='run'>Start />
+	[88] (738,871)<span  />
+[89] (756,905)<button id='close' />
+	[90] (756,905)<span  />
+
+</current_dom>

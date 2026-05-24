@@ -1,0 +1,87 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+생활가전
+주방가전
+계절가전
+게임ㆍ드론ㆍ완구
+스포츠ㆍ레저
+중고ㆍ리퍼비시
+서버ㆍ워크스테이션
+PC구성
+[0] (225,180)<li class='cate_tab_all cate0 cate_tab_iworks' id='cate_tab_iwork'>아이웍스PC />
+[1] (272,180)<li class='cate_tab_all cate1 cate_tab1012 ON' id='cate_tab1012'>CPU />
+[2] (315,180)<li class='cate_tab_all cate2 cate_tab1013' id='cate_tab1013'>메인보드 />
+[3] (360,180)<li class='cate_tab_all cate3 cate_tab1014' id='cate_tab1014'>메모리 />
+[4] (410,180)<li class='cate_tab_all cate4 cate_tab1016' id='cate_tab1016'>그래픽카드 />
+[5] (455,180)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[6] (490,180)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[7] (529,180)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[8] (567,180)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[9] (618,180)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[10] (673,180)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[11] (715,180)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[12] (764,180)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[13] (818,180)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[14] (877,180)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+[15] (294,277)<dd class='ls_div on' id='ls_div0' />
+	[16] (239,277)<label >전체 />
+[17] (294,319)<dd class='ls_div ' id='ls_div2033' />
+	[18] (249,319)<label >AMD CPU />
+[19] (294,361)<dd class='ls_div ' id='ls_div2032' />
+	[20] (248,361)<label >인텔 정품 />
+[21] (294,403)<dd class='ls_div ' id='ls_div3452' />
+	[22] (256,403)<label >인텔 병행수입 />
+[23] (294,445)<dd class='ls_div ' id='ls_div3280' />
+	[24] (248,445)<label >서버 CPU />
+[25] (648,395)<a href='https://www.compuzone.co.kr/cscenter/service_guide.htm?bannerid=OnlineBanner' />
+	[26] (648,395)<img  />
+CPU
+[27] (369,628)<input id='Search_free' />
+무료배송
+[28] (427,628)<input id='Search_Event' />
+행사제품보기
+총
+351
+건
+[29] (328,694)<input id='SearchKeyword' />
+[30] (378,696)<a href='javascript:search_keyword();' />
+[31] (440,694)<select  />
+[32] (286,1125)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[33] (113,832)<a class='imgbox' href='javascript:detail_show('1013843')' title='[제품코드:1013843]' />
+	[34] (252,827)<a class='imgbox' href='javascript:detail_show('1013843')'>8코어 16스레드 4.2GHz 120w TDP 5nm / 라이젠 라파엘 / 라이젠7 / 옥타(8) 코어 / AM5 / 내장그래픽 유 / 4.2 ~ 5.0GHz / 12MB 이상 / 5nm />
+		[35] (252,804)<b >[AMD] 라이젠7 라파엘 7800X3D (8코어/16스레드/4.2GHz/쿨러미포함) 멀티팩[1013843] />
+	가산점 현장구매 가능 상품
+	후기
+	댓글
+	판매가격
+	370,000
+	[36] (457,850)<a class='buttons' href='javascript:select_basket('1013843','N',1);' id='basket1013843' />
+		[37] (457,850)<span >담기 />
+	[38] (252,985)<b >[INTEL] 코어 i3-14100 정품벌크 (랩터레이크 리프레시/3.5GHz/12MB/쿨러 미포함) [1108538] />
+총 견적금액
+0
+원
+[39] (532,694)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[40] (558,694)<input  />
+[41] (584,694)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[42] (640,694)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[43] (640,696)<span >전체수량변경 />
+[44] (541,791)<label  />
+	[45] (525,790)<span  />
+		[46] (525,790)<input  />
+	[47] (548,790)<span >전체선택 />
+[48] (690,790)<a class='wbtn' href='javascript:add_wish_list();' />
+	[49] (690,790)<span >관심상품추가 />
+[50] (745,790)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[51] (745,790)<span >장바구니담기 />
+[52] (797,790)<a class='wbtn' />
+	[53] (797,790)<span >견적서출력 />
+[54] (848,790)<a class='wbtn' href='javascript:speck_form();' />
+	[55] (848,790)<span >사양검토요청 />
+[56] (893,790)<a class='wbtn' href='javascript:sess_init();' />
+	[57] (893,790)<span >초기화 />
+
+</current_dom>

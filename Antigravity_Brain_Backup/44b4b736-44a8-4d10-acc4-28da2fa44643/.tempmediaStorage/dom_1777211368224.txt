@@ -1,0 +1,150 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,52)<button id='back-button' />
+	[1] (38,49)<span >arrow_back />
+[2] (155,52)<input class='sans-flex round w-500' id='tab-title' />
+[3] (464,52)<button class='sans-flex round w-500 md-body-small selected' id='canvas'>Editor />
+[4] (544,52)<button class='sans-flex round w-500 md-body-small' id='app'>App />
+Saved
+[5] (849,52)<button class=' selected icon round w-500 sans-flex ' />
+	[6] (849,52)<span >more_vert />
+[7] (900,52)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (900,52)<span >settings />
+[9] (956,52)<button id='toggle-user-menu' />
+	[10] (956,52)<span >person />
+[11] (526,553)<div  />
+[12] (284,619)<section  />
+	[13] (284,619)<div  />
+	[14] (284,587)<header  />
+		[15] (232,587)<span >button_magic />
+		[16] (282,587)<span >Generate Seoul Night View Image />
+		[17] (333,587)<bb-node-run-control  />
+		[18] (348,586)<button id='connection-trigger' />
+	[19] (284,634)<div  />
+		[20] (284,633)<div  />
+			[21] (284,633)<div  />
+				[22] (284,633)<p >Generate a visual representation of a Seoul night view based on the user's detailed textual description. />
+[23] (434,612)<section  />
+	[24] (434,612)<div  />
+	[25] (434,587)<header  />
+		[26] (381,587)<span >web />
+		[27] (431,587)<span >Generate Seoul Night View Webpage />
+		[28] (482,587)<bb-node-run-control  />
+		[29] (497,586)<button id='connection-trigger' />
+	[30] (434,627)<div  />
+		[31] (434,625)<div  />
+			[32] (434,625)<div  />
+				[33] (434,625)<p >Create an HTML webpage to display the generated Seoul night view image. />
+[34] (92,572)<section  />
+	[35] (92,572)<div  />
+	[36] (92,555)<header  />
+		[37] (40,555)<span >chat_mirror />
+		[38] (90,555)<span >Instruction />
+		[39] (141,555)<bb-node-run-control  />
+			[40] (141,555)<button class='node-controls' />
+				[41] (141,555)<span  />
+		[42] (156,554)<button id='connection-trigger' />
+	[43] (92,587)<div  />
+		[44] (92,586)<div  />
+			[45] (89,586)<div  />
+				[46] (89,586)<p >Describe your desired Seoul night view />
+[47] (267,570)<section  />
+	[48] (267,570)<div  />
+	[49] (267,555)<header  />
+		[50] (215,555)<span >responsive_layout />
+		[51] (265,555)<span >Output />
+		[52] (316,555)<bb-node-run-control  />
+		[53] (331,554)<button id='connection-trigger' />
+	[54] (267,585)<div  />
+		[55] (267,584)<div  />
+			[56] (237,584)<div  />
+				[57] (237,584)<div  />
+					[58] (237,584)<p >Select to edit in editor />
+[59] (293,481)<section  />
+	[60] (293,481)<div  />
+	[61] (293,466)<header  />
+		[62] (241,466)<span >responsive_layout />
+		[63] (290,466)<span >Output 1 />
+		[64] (341,466)<bb-node-run-control  />
+		[65] (357,466)<button id='connection-trigger' />
+	[66] (293,496)<div  />
+		[67] (293,495)<div  />
+			[68] (262,495)<div  />
+				[69] (262,495)<div  />
+					[70] (262,495)<p >Select to edit in editor />
+[71] (50,183)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[72] (8,183)<span >chat_mirror />
+[73] (196,183)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[74] (153,183)<span >spark />
+[75] (324,183)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[76] (290,183)<span >responsive_layout />
+[77] (470,183)<button class=' selected icon round w-500 sans-flex ' />
+	[78] (417,183)<span >add_box />
+	[79] (486,183)<span >Add Assets />
+[80] (597,209)<button >Pick File />
+[81] (644,262)<button >Create New Document />
+[82] (263,871)<bb-expanding-textarea >send />
+	[83] (263,871)<div  />
+		[84] (213,871)<div  />
+			[85] (213,871)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[86] (456,871)<button aria-label='Submit' id='submit' />
+	[87] (406,871)<bb-speech-to-text  />
+		[88] (406,871)<button  />
+			[89] (406,871)<span >mic />
+	send
+[90] (472,635)<button id='zoom-to-fit' />
+	[91] (472,635)<span >fit_screen />
+[92] (472,715)<button id='zoom-in' />
+	[93] (472,715)<span >add />
+[94] (472,776)<button id='zoom-out' />
+	[95] (472,776)<span >remove />
+undo
+redo
+Opal can make mistakes, so double-check it
+[96] (611,160)<button class='sans-flex w-500 round'>Preview />
+Console
+[97] (824,160)<button class='sans-flex w-500 round'>Step />
+[98] (919,160)<button class=' sans-flex w-500 round '>Theme />
+[99] (927,264)<button class='w-500 round sans-flex md-body-small' id='replay-autostart'>Stop />
+	[100] (898,264)<span >spark />
+[101] (763,658)<section id='console' scrollable='true' />
+	[102] (763,384)<summary class='sans-flex w-500 round md-title-medium active chat_mirror quick-access core input' />
+		[103] (575,384)<span  />
+		[104] (771,384)<div  />
+			[105] (724,384)<span >chat_mirror />
+			[106] (789,384)<span >Instruction />
+		[107] (949,384)<bb-node-run-control  />
+			[108] (949,384)<button class='node-controls' />
+				[109] (949,384)<span  />
+	[110] (763,637)<details  />
+		[111] (763,487)<summary class=' w-400 sans-flex round chat_mirror ' />
+			[112] (575,487)<span  />
+			[113] (786,487)<div  />
+				[114] (621,487)<span >chat_mirror />
+				[115] (804,487)<span  />
+					[116] (664,487)<span >Input />
+					[117] (946,487)<span >0.0s />
+		[118] (594,622)<button id='add-asset' />
+			[119] (594,622)<span >add_circle />
+		[120] (732,618)<textarea id='text-input' placeholder='Type or upload your response.' />
+		[121] (871,622)<button  />
+			[122] (871,622)<span >mic />
+		[123] (932,622)<button id='continue' title='Submit' />
+			[124] (932,622)<span >send />
+		[125] (764,665)<button id='reporting-button'>Reporting Button />
+		Opal can make mistakes, so double-check it
+	[126] (763,898)<summary class=' sans-flex w-500 round md-title-medium empty active button_magic quick-access generative generate ' />
+		[127] (771,898)<div  />
+			[128] (637,898)<span >button_magic />
+			[129] (789,898)<span >Generate Seoul Night View Image />
+		[130] (949,898)<bb-node-run-control  />
+	[131] (763,1020)<summary class=' sans-flex w-500 round md-title-medium empty active web quick-access core ' />
+		[132] (771,1020)<div  />
+			[133] (789,1020)<span  />
+		[134] (949,1020)<bb-node-run-control  />
+[135] (756,905)<button id='close' />
+	[136] (756,905)<span  />
+
+</current_dom>

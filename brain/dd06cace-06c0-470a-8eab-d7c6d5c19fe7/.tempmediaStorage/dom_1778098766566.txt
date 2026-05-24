@@ -1,0 +1,119 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (326,125)<a class='inline shrink-0' href='/search/%EB%A7%A5%EB%AF%B8%EB%8B%88' />
+	[6] (326,125)<span >맥미니 />
+		[7] (316,125)<span >6
+. />
+[8] (362,125)<a class='inline shrink-0' href='/search/%EB%A0%88%EC%A7%84' />
+	[9] (362,125)<span >레진 />
+		[10] (355,125)<span >7
+. />
+[11] (404,125)<a class='inline shrink-0' href='/search/%EA%B0%80%EB%A9%B4%EB%9D%BC%EC%9D%B4%EB%8D%94' />
+	[12] (404,125)<span >가면라이더 />
+		[13] (387,125)<span >8
+. />
+[14] (446,125)<a class='inline shrink-0' href='/search/%EA%B1%B4%EB%8B%B4' />
+	[15] (446,125)<span >건담 />
+		[16] (440,125)<span >9
+. />
+[17] (494,125)<a class='inline shrink-0' href='/search/%EA%B7%B8%EB%9E%9C%EB%93%9C%EC%84%B8%EC%9D%B4%EC%BD%94' />
+	[18] (494,125)<span >그랜드세이코 />
+		[19] (474,125)<span >10
+. />
+[20] (666,69)<a href='/product/228244891?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 i7-14700K, RTX 4060 영상 및 게이밍 컴퓨터 PC 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228244891' />
+	[37] (886,369)<img  />
+만나서 직거래
+감일동
+상품 상태
+중고, 구성품 없음
+[38] (499,268)<button aria-label='찜 하기' />
+[39] (594,268)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] bg-white border border-gray-400 text-gray-900 active:border-gray-900 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16 max-md:ml-2' />
+	[40] (594,268)<span >채팅하기 />
+[41] (748,268)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] text-white bg-gray-900 border active:border-gray-700 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16' />
+	[42] (748,268)<span >구매하기 />
+새 상품은 어떠세요?
+[43] (283,652)<a aria-label='배너 - 1번째 상품 파워게이밍PC 14400F+RTX5060TI 보러가기' class='w-fit flex-1' href='https://ader.naver.com/v1/CGla8hQUPd9Gl9hpKUdbOs-jP_n3J-QeTJr8f8bd26Zc3udH-bb7E60-639g5jaMMNXclngP9gmcJ0HmhoIf-0U8U0ugyxAlwqdq526swBv3Q-03BcVc5OvNIlVq8Ux_42g0XH9YxunNPIng6NBYQcQ07QhTkdqRIRdRXs9tvMudxfUkEEQt08thyDAzYtz4fPT9t1vtGAl11cpfxnT0c4W1_hP880n84WOZAp0C5gpzf93jMR35hmNXij60qjFqXVanC_9XYvPebt4f_cVn-PnoKlpIOJjo30o_Vi644kOxy1SzVtAF-60_toFV7wwYOZFpIvrMu8Q6--l_nw7yMA==?c=m_joongna.ch6&t=0' />
+	[44] (283,652)<div  />
+		[45] (219,652)<div  />
+			[46] (219,652)<div  />
+		[47] (326,652)<div  />
+			[48] (326,615)<div  />
+				[49] (326,595)<span >파워게이밍PC 14400F+RTX5060TI />
+				[50] (326,645)<div  />
+					[51] (326,645)<div  />
+						[52] (294,645)<span >1,548,000 />
+						[53] (327,646)<span >원 />
+			[54] (326,687)<div  />
+				[55] (326,687)<span >광고 |
+스탠다드피씨 />
+[56] (500,652)<a aria-label='배너 - 2번째 상품 강력한 성능 게이밍PC i5 14400F 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/CGla8hQUPd9Gl9hpKUdbOqVBiUKzl0qXzKVTi1g_b-nHLk_M7opIGiYIVxInT-2LvdK81JjBRO6zw6iE_7bSrhxb5uHH5Kfz79-wcBVmgL2VKhF-y3rcA_9qbHQ8_b-lN-Eetd8BvurPSwsZS1hNkFsvlMoqZTmjJvjl3S4BIDRy7px9PIqDnZNR2q3kFg2ytbvfZrzwtwqTUOOtYFb_mE8AYNAaHLG2bhvfq1METhMbZ3ZZnmpvuOWmL_x0h8SBbS1vvk5vDjZOi9SqWTl0ajEfnL7wQwyyChVzGlVm4lPb44iFMv2KzBzLNL96MP97LJAcK6JjEWRRiPnSwbqr3A==?c=m_joongna.ch6&t=0' />
+	[57] (500,652)<div  />
+		[58] (436,652)<div  />
+			[59] (436,652)<div  />
+		[60] (543,652)<div  />
+			[61] (543,615)<div  />
+				[62] (543,595)<span >강력한 성능 게이밍PC i5 14400F />
+				[63] (543,645)<div  />
+					[64] (543,645)<div  />
+						[65] (511,645)<span >1,378,000 />
+						[66] (543,646)<span >원 />
+			[67] (543,687)<div  />
+				[68] (543,687)<span >광고 |
+스탠다드피씨 />
+[69] (717,652)<a aria-label='배너 - 3번째 상품 RTX5060 고사양 게이밍컴퓨터 PC방 조립PC 배그 롤 발로란트 게임용 본체 EZ01 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/jroGhpNOYfbiLAaAK5DtFWHjjSzKefVTr1-1V61J3R8kBhFZ3ntRQuYC5hJGrML9v_JtNuqXu-XHmjQdD0aM8TV5EAnGKxMpCc9MhR6_hAybYukgeazwZeXxcsrLfOtuR5GNTfDjc304JzM8_PaCxMEh8Xw-E_LBpoeygr-uuNLYkczMDiV--sD48dG2sAUZJdFeyl5w8fq2j5Ea5n0B4ovS7oQ-Pvj8jRqN3X66cjPcit3wHZhdRrBinqBnZv0sDWx8Hv-0AqQkpT1DH64kvXngAOOe99BMPTslwlP9Jw7ZPbnDqzxY6tY1xlV7uL6g?c=m_joongna.ch6&NaPm=1' />
+	[70] (717,652)<div  />
+		[71] (653,652)<div  />
+			[72] (653,652)<div  />
+		[73] (760,652)<div  />
+			[74] (760,615)<div  />
+				[75] (760,595)<span >RTX5060 고사양 게이밍컴퓨터 PC방 조립PC 배그 롤 발로란트 게임용 본체 EZ01 />
+				[76] (760,645)<div  />
+					[77] (760,645)<div  />
+						[78] (728,645)<span >1,298,000 />
+						[79] (761,646)<span >원 />
+			[80] (760,687)<div  />
+				[81] (760,687)<span >광고 |
+이지컴플러스 />
+상품 정보
+개인정보(거래정보)를 주고받는 행위는 사기에 노출
+될 수 있으므로 즉시
+중고나라로 신고
+해 주세요
+[82] (683,952)<a class='flex flex-col md:gap-9 max-md:gap-6' href='/store/4353445' />
+	[83] (683,886)<div  />
+		[84] (683,874)<div  />
+			[85] (569,874)<h2 >가게 정보 />
+		[86] (683,918)<div  />
+	지풍랄년
+
+</current_dom>

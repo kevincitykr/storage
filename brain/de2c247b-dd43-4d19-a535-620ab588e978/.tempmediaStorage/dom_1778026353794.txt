@@ -1,0 +1,22 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Kakao
+QR코드 로그인
+카카오톡 앱 > 더보기 > 우측 상단의
+QR코드 스캔
+버튼을 눌러 QR코드를 스캔하세요.
+남은 시간
+05:00
+[0] (548,819)<button class='btn_reset' />
+	[1] (548,819)<span >QR코드 새로고침 />
+[2] (590,841)<button class='btn_help' />
+	[3] (590,841)<span >QR코드 사용방법 확인하기 />
+[4] (389,940)<label class='lab_choice' id='label-staySignedIn'>로그인 상태 유지 />
+	[5] (346,940)<span  />
+[6] (449,940)<button class='btn_help' />
+	[7] (449,940)<span >도움말 보기 />
+카카오계정 직접 입력
+
+</current_dom>

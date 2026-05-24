@@ -1,0 +1,137 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+$300 크레딧으로 무료 체험판을 시작해 보세요. 크레딧을 모두 사용해도 요금이 청구되지 않으니 걱정하지 마세요.
+자세히 알아보기
+닫기
+무료로 시작하기
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+Default Gemini Project
+[0] (437,95)<div class='pcc-combobox' role='combobox' />
+	[1] (456,95)<input aria-label='쿼리를 입력하여 리소스, 문서, 제품 등 검색' class='cm-input gmat-mdc-input mat-mdc-input-element pcc-search-input ng-untouched ng-valid cdk-text-field-autofill-monitored cdk-focused cdk-mouse-focused ng-dirty' id='mat-input-0' placeholder='리소스, 문서, 제품 등 검색(/)' />
+[2] (673,95)<button aria-label='입력한 검색어 지우기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-clear-input-button cfc-button-medium mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+	[3] (673,97)<cm-icon  />
+[4] (507,150)<label class='pcc-search-cluster-title ng-star-inserted'>상위 결과 />
+	상위 결과
+[5] (500,202)<a aria-label='상위 결과 결과 3개 중 YouTube Data API v3 The YouTube Data API v3 is an API that provides access to YouTube data, such as videos, playlists,… 1입니다.' class='pcc-search-result-option pcc-search-result mat-focus-indicator ng-star-inserted' href='/marketplace/product/google/youtube.googleapis.com?q=search&referrer=search&authuser=1&project=gen-lang-client-0922899114' id='inventorySearch/api/google/youtube.googleapis.com' />
+	[6] (500,202)<div  />
+		[7] (261,202)<section-icon  />
+			[8] (253,202)<shell-nav-icon  />
+				[9] (253,202)<cm-icon  />
+		[10] (521,202)<div  />
+			[11] (521,202)<div  />
+				[12] (521,192)<div >YouTube Data API v3 />
+				[13] (521,215)<p >Marketplace />
+					[14] (498,225)<span >· The YouTube Data API v3 is an API that provides access to YouTube data, such as videos, playlists,… />
+[15] (500,264)<a aria-label='상위 결과 결과 3개 중 API 및 참조 | Identity and Access Management (IAM) 이 페이지의 내용; 일반 API 참고 문서; REST API 참고 문서; RPC API 참고 문서; IAM 조건 참고 문서; 조건 참고 문서; 역할 및 권한 참고 문서; 기타 참고 문서 ... 2입니다.' class='pcc-search-result-option pcc-search-result mat-focus-indicator ng-star-inserted' href='https://docs.cloud.google.com/iam/docs/apis?hl=ko' id='https://docs.cloud.google.com/iam/docs/apis?hl=ko' />
+	[16] (500,264)<div  />
+		[17] (261,264)<section-icon  />
+			[18] (253,264)<shell-nav-icon  />
+				[19] (253,264)<cfc-icon  />
+					[20] (253,264)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+		[21] (521,264)<div  />
+			[22] (521,264)<div  />
+				[23] (521,254)<div >API 및 참조 | Identity and Access Management (IAM) />
+				[24] (521,277)<p >문서 />
+					[25] (517,288)<span >· 이 페이지의 내용; 일반 API 참고 문서; REST API 참고 문서; RPC API 참고 문서; IAM 조건 참고 문서; 조건 참고 문서; 역할 및 권한 참고 문서; 기타 참고 문서 ... />
+[26] (500,326)<a aria-label='상위 결과 결과 3개 중 API 작업 이 문서에서는 Cloud Monitoring API를 사용하여 서비스와 서비스 수준 목표(SLO)를 관리하는 방법을 설명합니다. 서비스 모니터링은 Monitoring API에 다음 리소스를 ... 3입니다.' class='pcc-search-result-option pcc-search-result mat-focus-indicator ng-star-inserted' href='https://docs.cloud.google.com/stackdriver/docs/solutions/slo-monitoring/api/using-api?hl=ko' id='https://docs.cloud.google.com/stackdriver/docs/solutions/slo-monitoring/api/using-api?hl=ko' />
+	[27] (500,326)<div  />
+		[28] (261,327)<section-icon  />
+			[29] (253,327)<shell-nav-icon  />
+				[30] (253,327)<cfc-icon  />
+					[31] (253,327)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+		[32] (521,327)<div  />
+			[33] (521,327)<div  />
+				[34] (521,316)<div >API 작업 />
+				[35] (521,340)<p >문서
+· 이 문서에서는 Cloud Monitoring API를 사용하여 서비스와 서비스 수준 목표(SLO)를 관리하는 방법을 설명합니다. 서비스 모니터링은 Monitoring API에 다음 리소스를 ... />
+					· 이 문서에서는 Cloud Monitoring API를 사용하여 서비스와 서비스 수준 목표(SLO)를 관리하는 방법을 설명합니다. 서비스 모니터링은 Monitoring API에 다음 리소스를 ...
+[36] (507,403)<label class='pcc-search-cluster-title ng-star-inserted'>문서 및 튜토리얼 />
+	문서 및 튜토리얼
+	[37] (711,408)<button aria-label='문서 및 튜토리얼 결과 더보기' class='mdc-button mat-mdc-button-base gmat-mdc-button cfc-expand-button mat-mdc-button mat-primary cm-button ng-star-inserted'>자세히 보기 />
+		자세히 보기
+[38] (500,458)<a aria-label='문서 및 튜토리얼 결과 10개 중 API 및 참조 | Identity and Access Management (IAM) 이 페이지의 내용; 일반 API 참고 문서; REST API 참고 문서; RPC API 참고 문서; IAM 조건 참고 문서; 조건 참고 문서; 역할 및 권한 참고 문서; 기타 참고 문서 ... 1입니다.' class='pcc-search-result-option pcc-search-result mat-focus-indicator ng-star-inserted' href='https://docs.cloud.google.com/iam/docs/apis?hl=ko' id='https://docs.cloud.google.com/iam/docs/apis?hl=ko' />
+	[39] (500,458)<div  />
+		[40] (261,458)<section-icon  />
+			[41] (253,458)<shell-nav-icon  />
+				[42] (253,458)<cfc-icon  />
+					[43] (253,458)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+		[44] (521,458)<div  />
+			[45] (521,458)<div  />
+				[46] (521,448)<div >API 및 참조 | Identity and Access Management (IAM) />
+				[47] (521,471)<p >문서 />
+					[48] (517,482)<span >· 이 페이지의 내용; 일반 API 참고 문서; REST API 참고 문서; RPC API 참고 문서; IAM 조건 참고 문서; 조건 참고 문서; 역할 및 권한 참고 문서; 기타 참고 문서 ... />
+[49] (500,520)<a aria-label='문서 및 튜토리얼 결과 10개 중 API 작업 이 문서에서는 Cloud Monitoring API를 사용하여 서비스와 서비스 수준 목표(SLO)를 관리하는 방법을 설명합니다. 서비스 모니터링은 Monitoring API에 다음 리소스를 ... 2입니다.' class='pcc-search-result-option pcc-search-result mat-focus-indicator ng-star-inserted' href='https://docs.cloud.google.com/stackdriver/docs/solutions/slo-monitoring/api/using-api?hl=ko' id='https://docs.cloud.google.com/stackdriver/docs/solutions/slo-monitoring/api/using-api?hl=ko' />
+	[50] (500,520)<div  />
+		[51] (261,521)<section-icon  />
+			[52] (253,521)<shell-nav-icon  />
+				[53] (253,521)<cfc-icon  />
+					[54] (253,521)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+		[55] (521,521)<div  />
+			[56] (521,521)<div  />
+				[57] (521,510)<div >API 작업 />
+				[58] (521,534)<p >문서
+· 이 문서에서는 Cloud Monitoring API를 사용하여 서비스와 서비스 수준 목표(SLO)를 관리하는 방법을 설명합니다. 서비스 모니터링은 Monitoring API에 다음 리소스를 ... />
+					· 이 문서에서는 Cloud Monitoring API를 사용하여 서비스와 서비스 수준 목표(SLO)를 관리하는 방법을 설명합니다. 서비스 모니터링은 Monitoring API에 다음 리소스를 ...
+[59] (500,583)<a aria-label='문서 및 튜토리얼 결과 10개 중 서비스 나열 | Service Usage 이 문서에서는 Google Cloud 프로젝트에서 사용 설정되었거나 사용 가능한 API 및 서비스를 나열하는 방법을 설명합니다. 사용 가능하거나 사용 설정된 API 및 서비스 ... 3입니다.' class='pcc-search-result-option pcc-search-result mat-focus-indicator ng-star-inserted' href='https://docs.cloud.google.com/service-usage/docs/list-services?hl=ko' id='https://docs.cloud.google.com/service-usage/docs/list-services?hl=ko' />
+	[60] (500,583)<div  />
+		[61] (261,583)<section-icon  />
+			[62] (253,583)<shell-nav-icon  />
+				[63] (253,583)<cfc-icon  />
+					[64] (253,583)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+		[65] (521,583)<div  />
+			[66] (521,583)<div  />
+				[67] (521,573)<div >서비스 나열 | Service Usage />
+				[68] (521,596)<p >문서 />
+					[69] (520,606)<span >· 이 문서에서는 Google Cloud 프로젝트에서 사용 설정되었거나 사용 가능한 API 및 서비스를 나열하는 방법을 설명합니다. 사용 가능하거나 사용 설정된 API 및 서비스 ... />
+[70] (507,657)<label class='pcc-search-cluster-title ng-star-inserted'>Marketplace />
+	Marketplace
+[71] (500,709)<a aria-label='Marketplace 결과 1개 중 YouTube Data API v3 The YouTube Data API v3 is an API that provides access to YouTube data, such as videos, playlists,… 1입니다.' class='pcc-search-result-option pcc-search-result mat-focus-indicator ng-star-inserted' href='/marketplace/product/google/youtube.googleapis.com?q=search&referrer=search&authuser=1&project=gen-lang-client-0922899114' id='inventorySearch/api/google/youtube.googleapis.com' />
+	[72] (500,709)<div  />
+		[73] (261,709)<section-icon  />
+			[74] (253,709)<shell-nav-icon  />
+				[75] (253,709)<cm-icon  />
+		[76] (521,709)<div  />
+			[77] (521,709)<div  />
+				[78] (521,699)<div >YouTube Data API v3 />
+				[79] (521,722)<p >Marketplace />
+					[80] (498,733)<span >· The YouTube Data API v3 is an API that provides access to YouTube data, such as videos, playlists,… />
+Default Gemini Project
+[81] (433,782)<button aria-label='권한이 누락되지 않은 경우의 리소스 검색 권한 이해를 위한 도움말' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-help-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+	[82] (433,782)<cm-icon  />
+에 대한 리소스 결과만 표시 중
+[83] (739,94)<button aria-label='모든 검색결과 보기' class='mdc-button mat-mdc-button-base gmat-mdc-button pcc-search-query-button mat-mdc-button mat-unthemed cm-button cfc-tooltip pcc-search-query-button-active cfc-tooltip-disable-user-select-on-touch-device' id='search-query-button' />
+	검색
+[84] (500,564)<cfc-virtual-viewport class='cfc-virtual-scroll-viewport cfc-panel-body cfc-panel-body-flex cfc-panel-disable-border-bottom cfc-virtual-scroll-orientation-vertical' role='presentation' scrollable='true' />
+	시작하기
+	작업 중인 프로젝트:
+	Default Gemini Project
+	프로젝트 번호:
+	436819391954
+	프로젝트 ID:
+	gen-lang-client-0922899114
+	대시보드
+	Cloud Hub
+	Gemini API 키 만들기
+	에이전트 만들기
+	VM 만들기
+	BigQuery에서 쿼리 실행
+	애플리케이션 배포
+	스토리지 버킷 만들기
+	Google Developer Program에 가입하여 무료로 새로운 기술과 개발 도구에 대해 알아보세요.
+	지금 참여하기
+	빠른 액세스
+[85] (98,928)<div class='ap-toolbar-tab-tab' role='tab' />
+	[86] (98,928)<div  />
+		[87] (98,928)<i  />
+[88] (54,909)<div class='ap-toolbar-tab-tab' role='tab' />
+	[89] (54,909)<div  />
+		[90] (54,909)<div  />
+			[91] (54,909)<div class='ap-notification-cover' />
+				[92] (54,909)<img  />
+
+</current_dom>

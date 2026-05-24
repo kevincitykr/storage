@@ -1,0 +1,108 @@
+DESKTOP-2T9HMFI
+Korean
+도움말
+동작
+새 폴더
+2026-04-29 00:05:51
+kevincityHQ 기기가 "Kevincity Share" (rlpuk-xkiiv) 폴더를 공유하길 원합니다.
+새 폴더를 추가하시겠습니까?
+추가
+무시
+나중에
+폴더
+최신 상태
+desktop_kevincity
+폴더 아이디
+zexhg-dmlyy
+폴더 경로
+E:\desktop_kevincity
+전체 기기 상태
+0
+0
+~0 B
+현재 기기 상태
+0
+0
+~0 B
+폴더 유형
+송수신
+재탐색
+1시간
+활성화됨
+파일 수신 순서
+무작위
+공유된 기기
+kevincityHQ
+1
+최근 탐색
+2026-04-28 23:46:05
+일시 중지
+재탐색
+편집
+모두 일시 중지
+모두 재탐색
+폴더 추가
+현재 기기
+DESKTOP-2T9HMFI
+수신 속도
+1 B/s
+(1.15 KiB)
+송신 속도
+1 B/s
+(979 B)
+현재 기기 상태(합계)
+0
+0
+~0 B
+대기자
+3/3
+탐지
+4/5
+가동 시간
+1시간 2분
+아이디
+73K7NTN
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+최신 상태
+kevincityHQ
+모두 일시 중지
+최근 변경 항목
+다른 기기 추가
+폴더 추가 (rlpuk-xkiiv)
+[0] (234,146)<a href='#folder-general'>일반 />
+	일반
+[1] (288,146)<a href='#folder-sharing' />
+	[2] (277,146)<span  />
+	[3] (294,145)<span >공유 />
+[4] (365,146)<a href='#folder-versioning' />
+	[5] (332,146)<span  />
+	[6] (372,145)<span >파일 버전 관리 />
+[7] (453,146)<a href='#folder-ignores' />
+	[8] (431,146)<span  />
+	[9] (459,145)<span >무시 양식 />
+[10] (519,146)<a href='#folder-advanced' />
+	[11] (508,146)<span  />
+	[12] (526,145)<span >고급 />
+[13] (223,196)<label >폴더명 />
+	폴더명
+[14] (495,237)<input class='form-control ng-pristine ng-untouched ng-valid' id='folderLabel' />
+폴더를 묘사하는 선택적 이름입니다. 기기마다 달리 설정해도 됩니다.
+[15] (234,321)<label >폴더 아이디 />
+	폴더 아이디
+[16] (495,361)<input class='form-control ng-pristine ng-untouched ng-valid ng-valid-required' id='folderID' />
+필수로 필요한 폴더의 아이디입니다. 모든 기기에서 동일해야 합니다.
+새 폴더를 추가할 때 폴더 아이디는 기기 간에 폴더를 묶어줍니다. 대소문자가 구분되며 모든 기기에서 동일해야 합니다.
+[17] (229,473)<label class='ng-scope'>폴더 경로 />
+[18] (495,513)<input class='form-control ng-untouched ng-valid-folder-path-errors ng-dirty ng-valid-parse ng-valid ng-valid-required' id='folderPath' />
+현재 기기에 있는 폴더의 경로입니다. 존재하지 않을 경우에는 자동으로 생성됩니다. 물결표(~)는 다음 폴더를 나타냅니다.
+C:\Users\ksohw
+.
+경고: 이 경로는 기존 "desktop_kevincity" (zexhg-dmlyy) 폴더의 상위 폴더입니다.
+[19] (714,691)<button class='btn btn-primary btn-sm' />
+	[20] (705,692)<span  />
+	[21] (720,691)<span >저장 />
+[22] (762,691)<button class='btn btn-default btn-sm' />
+	[23] (752,692)<span  />
+	[24] (766,691)<span >닫기 />

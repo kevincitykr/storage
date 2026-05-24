@@ -1,0 +1,37 @@
+# 이메일 기반 법적 리스크 상품 필터링 시스템 구축 계획
+
+기존의 이메일 관리 시스템을 활용하여, 실제 이메일로 접수된 '판매 금지 요청'이나 '저작권 침해' 사례를 데이터베이스화하고 이를 상품 수집 시 필터링에 반영합니다.
+
+## User Review Required
+
+> [!IMPORTANT]
+> **데이터 정확도**: 이메일 본문에서 브랜드명이나 상품명을 추출하는 과정은 정규표현식과 키워드 기반으로 이루어집니다. 복잡한 문장의 경우 오차가 있을 수 있으므로, 최종 블랙리스트를 사용자가 검토할 수 있는 UI를 제공할 예정입니다.
+
+## Proposed Changes
+
+### [Component] Email Issue Extractor
+
+#### [NEW] [legal_issue_extractor.py](file:///D:/Goodtobehere%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/%EC%9D%B4%EB%A9%94%EC%9D%BC%EA%B4%80%EB%A6%AC%EC%8B%9C%EC%8A%A4%ED%85%9C/legal_issue_extractor.py)
+- **동작**: `emails.json`에서 중요 키워드(`판매금지`, `내용증명`, `저작권`)가 포함된 메일을 분석.
+- **추출**: 
+    - "브랜드: [브랜드명]" 또는 "상품: [상품명]" 형태의 텍스트 추출.
+    - 본문 내 빈출 단어를 분석하여 블랙리스트 키워드 생성.
+- **출력**: `legal_blacklist.json` 파일 생성.
+
+### [Component] Scraper Integration
+
+#### [MODIFY] [deep_filter_scraper.py](file:///d:/20260412%20kevincity%20share/500.%EC%9C%88%EB%93%A4%EB%A6%AC/deep_filter_scraper.py)
+- `legal_blacklist.json`을 읽어와 필터링 키워드 리스트에 추가하는 로직 구현.
+- 이메일에서 유래된 필터링 사유를 로그에 표시.
+
+## Execution Steps
+
+1. **메일 재수집**: `mail_fetcher.py`를 수정하여 2025년 10월 이후의 모든 메일을 가져오도록 설정.
+2. **블랙리스트 생성**: `legal_issue_extractor.py` 실행하여 데이터베이스 구축.
+3. **필터링 적용**: 북마클릿 및 파이썬 수집기에 블랙리스트 반영.
+
+## Verification Plan
+
+### 시뮬레이션
+- 실제 이메일 본문을 샘플로 넣어 브랜드명이 정확히 추출되는지 테스트.
+- 블랙리스트에 등록된 브랜드 상품이 스캔 과정에서 차단되는지 확인.

@@ -1,0 +1,64 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (42,35)<button class='prc-Button-ButtonBase-9n-Xk react-tree-toggle-button-with-indicator position-relative ExpandFileTreeButton-module__expandButton__hDOcv ExpandFileTreeButton-module__filesButtonBreakpoint__zEvz3 fgColor-muted prc-Button-IconButton-fyge7' />
+[1] (118,35)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (118,35)<span  />
+		[3] (105,35)<span  />
+			[4] (105,35)<div  />
+				[5] (85,35)<div  />
+				[6] (115,35)<div  />
+					[7] (115,34)<span >main />
+Breadcrumbs
+[8] (208,34)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/memory/tree/main'>memory />
+/
+[9] (283,34)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/wonseokjung/memory/tree/main/10_Wiki'>10_Wiki />
+/
+📊 Media Performance Analysis.md
+[10] (944,35)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[11] (944,35)<span  />
+		[12] (955,35)<span >Top />
+File metadata and controls
+[13] (64,102)<button class='prc-SegmentedControl-Button-E48xz' />
+	[14] (64,102)<span  />
+		[15] (64,102)<div >Preview />
+[16] (135,102)<button class='prc-SegmentedControl-Button-E48xz' />
+	[17] (135,102)<span  />
+		[18] (135,102)<div >Code />
+[19] (200,102)<button class='prc-SegmentedControl-Button-E48xz' />
+	[20] (200,102)<span  />
+		[21] (200,102)<div >Blame />
+[22] (788,102)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/wonseokjung/memory/raw/refs/heads/main/10_Wiki/%F0%9F%93%8A%20Media%20Performance%20Analysis.md' />
+	[23] (788,102)<span  />
+		[24] (788,102)<span >Raw />
+[25] (823,102)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[26] (851,102)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[27] (915,102)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_ie_' />
+[28] (951,102)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+[29] (500,459)<div  />
+	id: a1b2c3d4-e5f6-7890-abcd-ef0123456789
+category: "[[10_Wiki/📊 Metrics]]"
+confidence_score: 0.9
+tags: [YouTube SEO, KPI, Creator Economy]
+last_reinforced: 2026-04-20
+	영상 성과 지표 및 SEO 분석
+	[30] (36,239)<a aria-label='Permalink: 영상 성과 지표 및 SEO 분석' class='anchor' href='#영상-성과-지표-및-seo-분석' id='user-content-영상-성과-지표-및-seo-분석' />
+	📌 한 줄 통찰
+	[31] (36,338)<a aria-label='Permalink: 📌 한 줄 통찰' class='anchor' href='#-한-줄-통찰' id='user-content--한-줄-통찰' />
+	크리에이터의 성공은 단순히 조회수를 넘어, 명확한 KPI 설정과 매력적인 디스크립션 작성에 달려 있다.
+	📖 구조화된 지식
+	[32] (36,484)<a aria-label='Permalink: 📖 구조화된 지식' class='anchor' href='#-구조화된-지식' id='user-content--구조화된-지식' />
+	핵심 성과 지표 (KPI) 이해:
+	영상 ID, 게시일, 조회수, 좋아요 수, 댓글 수를 정확히 측정하는 것이 중요하다.
+	SEO 태그의 부재:
+	태그 필드가 비어있는 경우, 관련 키워드를 전략적으로 삽입하여 검색 노출을 극대화해야 한다.
+	디스크립션의 역할:
+	영상 내용과 CTA(Call to Action)를 명확히 포함하여 시청자의 참여를 유도해야 한다.
+	🔗 지식 연결
+	[33] (36,712)<a aria-label='Permalink: 🔗 지식 연결' class='anchor' href='#-지식-연결' id='user-content--지식-연결' />
+	Parent: [[10_Wiki/🚀 Skills]]
+	Related: [[Probability Theory]], [[Psychological Warfare]], [[Marketing Strategy]]
+	Raw Source: [[00_Raw/2026-04-20/MrBeast_Premium_10.md]]
+
+</current_dom>

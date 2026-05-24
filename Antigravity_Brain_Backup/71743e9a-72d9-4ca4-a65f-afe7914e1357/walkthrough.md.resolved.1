@@ -1,0 +1,22 @@
+# 샵마인 자동화 구현 결과
+
+## 1. 생성된 파일
+- **[run_shopmine.py](file:///c:/Upload2601공유폴더/샵마인%20자동화/run_shopmine.py)**: 매일 정해진 시간에 샵마인을 실행하는 메인 스크립트입니다.
+- **[README.md](file:///c:/Upload2601공유폴더/샵마인%20자동화/README.md)**: 프로그램 설치 및 사용 방법을 상세히 적어둔 가이드입니다.
+- **[test_automation.py](file:///c:/Upload2601공유폴더/샵마인%20자동화/test_automation.py)**: `schedule` 라이브러리 설치 여부와 실행 로직을 테스트하는 도구입니다.
+- **dummy_shopmine.py**: 테스트용 가짜 프로그램입니다.
+
+## 2. 검증 결과
+### Python 환경 확인
+- Python 3.11.9 버전이 설치되어 있음을 확인했습니다. ✅
+
+### 라이브러리 확인
+- `schedule` 라이브러리가 이미 설치되어 있습니다. (준비 완료) ✅
+
+## 3. 사용자 조치 사항
+1. **라이브러리 설치**: 
+   - 터미널(cmd)을 열고 `pip install schedule` 명령어를 입력하여 설치해주세요.
+2. **경로 설정**:
+   - [run_shopmine.py](file:///c:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/%EC%83%B5%EB%A7%88%EC%9D%B8%20%EC%9E%90%EB%8F%99%ED%99%94/run_shopmine.py) 파일을 열어 `SHOPMINE_PATH` 변수 값을 실제 샵마인 실행 파일(`.exe`) 경로로 변경해주세요.
+3. **테스트**:
+   - 설치 후 [test_automation.py](file:///c:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/%EC%83%B5%EB%A7%88%EC%9D%B8%20%EC%9E%90%EB%8F%99%ED%99%94/test_automation.py)를 실행하여 모든 항목이 [OK]로 나오는지 확인해보세요.

@@ -1,0 +1,148 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+menu
+홈
+help
+1
+home
+picture_in_picture
+drive_site
+not_interested
+assessment
+trending_up
+policy
+settings
+feedback
+home
+홈
+picture_in_picture
+광고
+drive_site
+사이트
+개인 정보 보호 및 메시지
+arrow_right
+not_interested
+브랜드 안전성
+assessment
+보고서
+arrow_right
+trending_up
+최적화
+policy
+정책 센터
+arrow_right
+지급
+arrow_right
+settings
+계정
+feedback
+의견
+개인정보처리방침
+약관
+warning_amber
+주의
+우크라이나에서 현재 진행 중인 전쟁으로 인해, 이 전쟁을 부당하게 이용하거나 부정하거나 용인하는 콘텐츠의 수익 창출이 일시중지됩니다.
+닫기
+[0] (23,40)<button aria-label='취소' class='mdc-icon-button _ngcontent-tcz-4' />
+	[1] (23,40)<i >close />
+no-loss-info.blogspot.com
+준비 중
+[2] (953,40)<button class='delete-site-button mdc-button mdc-button--outlined mdc-button--icon-text _ngcontent-tcz-3'>사이트 삭제 />
+	delete
+	사이트 삭제
+no-loss-info.blogspot.com
+사이트의 광고 게재 가능 여부 검토 중
+[3] (500,285)<div aria-label='사이트 소유권을 확인하세요' class='header _ngcontent-tcz-10 closed' role='button' />
+	[4] (370,285)<div  />
+		[5] (365,285)<div  />
+			[6] (317,285)<material-icon  />
+				[7] (313,284)<i class='material-icon-i material-icons-extended _ngcontent-tcz-2' role='img'>check_circle_filled />
+			[8] (376,285)<h4 >사이트 소유권을 확인하세요 />
+	[9] (687,285)<material-icon class='expand-button _nghost-tcz-2 _ngcontent-tcz-10 expand-more' role='none' />
+		[10] (687,285)<i class='material-icon-i material-icons-extended _ngcontent-tcz-2' role='img'>expand_less />
+[11] (500,374)<div aria-label='리뷰가 요청됨' class='header _ngcontent-tcz-10 closed' role='button' />
+	[12] (350,374)<div  />
+		[13] (345,374)<section  />
+			[14] (317,374)<material-icon  />
+				[15] (313,373)<i class='material-icon-i material-icons-extended _ngcontent-tcz-2' role='img'>check_circle_filled />
+			[16] (352,374)<h4 >리뷰가 요청됨 />
+	[17] (687,374)<material-icon class='expand-button _nghost-tcz-2 _ngcontent-tcz-10 expand-more' role='none' />
+		[18] (687,374)<i class='material-icon-i material-icons-extended _ngcontent-tcz-2' role='img'>expand_less />
+error_filled
+사이트에 사용할 동의 메시지 만들기
+Google 인증
+[19] (405,509)<a href='https://support.google.com/adsense/answer/13554020?hl=ko'>동의 관리 플랫폼(CMP) />
+을 채택하여 유럽 경제 지역(EEA), 영국, 스위스의 사용자로부터 동의를 얻고 광고 수익의 잠재적 손실을 방지하세요.
+[20] (386,690)<material-radio  />
+	[21] (333,577)<div  />
+		[22] (333,577)<input class='mdc-radio__native-control _ngcontent-tcz-41' id='a4C5B6CD5-92CE-481E-981E-E118DB37669D--0' role='radio' />
+	[23] (393,690)<div  />
+		[24] (393,690)<div  />
+			옵션 관리
+			동의
+			[25] (393,772)<label class='_ngcontent-tcz-39'>Google의 CMP를 사용하여 내 사이트 및 향후 사이트에 대한 2가지 선택사항(동의 및 옵션 관리)이 포함된 메시지를 생성합니다. />
+[26] (510,701)<material-radio  />
+	[27] (457,577)<div  />
+		[28] (457,577)<input class='mdc-radio__native-control _ngcontent-tcz-41' id='a955E89A8-906F-4D04-8599-525A0E7186F6--0' role='radio' />
+	[29] (518,701)<div  />
+		[30] (518,701)<div  />
+			동의하지 않음
+			동의
+			옵션 관리
+			[31] (518,782)<label class='_ngcontent-tcz-39'>Google의 CMP를 사용하여 내 사이트 및 향후 사이트에 대한 3가지 선택사항(동의, 동의하지 않음, 옵션 관리)이 포함된 메시지를 생성합니다. />
+[32] (635,669)<material-radio  />
+	[33] (582,577)<div  />
+		[34] (582,577)<input class='mdc-radio__native-control _ngcontent-tcz-41' id='a914F0E19-B6B6-4C4A-BA6E-EDA38FAA33D3--0' role='radio' />
+	[35] (642,669)<div  />
+		[36] (642,669)<div  />
+			인증 CMP
+			[37] (642,751)<label class='_ngcontent-tcz-39'>를 채택하세요. />
+				[38] (638,742)<a href='https://support.google.com/adsense/answer/13554116?hl=ko'>Google 인증을 받은 대체 CMP />
+[39] (627,881)<button class='mdc-button mdc-card__action mdc-button--text _ngcontent-tcz-39' />
+	[40] (627,881)<span >나중에 알림 />
+[41] (678,881)<button class='mdc-button mdc-card__action mdc-button--unelevated _ngcontent-tcz-39' />
+	[42] (678,881)<span >제출 />
+내 사이트를 관리합니다.
+애드센스를 통해 수익을 창출하려는 사이트를 추가하세요
+사이트 수익 창출에 대해 자세히 알아보기
+add
+새 사이트
+search
+검색
+filter_list
+필터:
+준비됨
+준비 중
+검토 필요
+주의 필요
+사이트 URL
+승인 상태
+help_outline
+상태 세부정보
+Ads.txt 상태
+help_outline
+최종 업데이트
+help_outline
+작업
+no-loss-info.blogspot.com
+Blogger에 연결됨
+검토 필요
+—
+찾을 수 없음
+2026년 3월 8일
+오전 1:38 | KST
+delete
+다음 페이지로 이동:
+/1
+표시할 행 수:
+50
+arrow_drop_down
+총 1개 중 1~1개
+first_page
+chevron_left
+chevron_right
+last_page
+
+</current_dom>

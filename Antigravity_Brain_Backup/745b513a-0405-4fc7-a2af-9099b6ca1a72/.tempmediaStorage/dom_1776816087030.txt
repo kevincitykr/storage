@@ -1,0 +1,187 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (114,59)<a class='FgNLaf' href='https://www.google.com/webhp?hl=ko&ictx=0&sa=X&ved=0ahUKEwjw3PTLk4CUAxW_nK8BHalVA8UQpYkNCAs' />
+[1] (347,59)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (583,59)<div  />
+	[3] (580,59)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (580,59)<span  />
+	[5] (607,59)<span  />
+[6] (633,59)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (633,59)<span  />
+[8] (676,59)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (719,59)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (769,59)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (762,59)<div  />
+		[12] (762,59)<span  />
+[13] (854,59)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (905,59)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (957,59)<a aria-label='Google 계정: 김더케빈  
+(kkseob0116@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EC%259C%2588%25EB%2593%25A4%25EB%25A6%25AC%2B%25EC%2598%25A4%25EB%2584%2588%25ED%2581%25B4%25EB%259E%259C%2B%25EC%2588%2598%25EC%25A7%2591%2B%25EB%25B2%2584%25ED%258A%25BC%2BHTML%2B%25ED%2583%259C%25EA%25B7%25B8&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (103,129)<a class='C6AK7c' role='link' />
+	전체
+[17] (156,129)<a class='C6AK7c' href='/search?sca_esv=4157e7f827e9d38c&sxsrf=ANbL-n51pZkEaRQG1v5iiioWDkkTMW6EGw:1776816049964&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyYRoGFVBzET3F8RicKhOjf6kvNfkwFlYKWWedQw0huiqfO2xuzDWkDx9kQ_eh6-Jp0YJQGDmgsBEwFz4up9lqk1c4-0A&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+HTML+%ED%83%9C%EA%B7%B8&ved=1t:220175&ictx=111' />
+	[18] (156,129)<div  />
+		[19] (156,139)<span >쇼핑 />
+[20] (217,129)<a class='C6AK7c' href='/search?sca_esv=4157e7f827e9d38c&sxsrf=ANbL-n51pZkEaRQG1v5iiioWDkkTMW6EGw:1776816049964&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyYRoGFVBzET3F8RicKhOjf6kvNfkwFlYKWWedQw0huiqfO2xuzDWkDx9kQ_eh6-Jp0YJQGDmgsBEwFz4up9lqk1c4-0A&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+HTML+%ED%83%9C%EA%B7%B8&sa=X&ved=2ahUKEwjw3PTLk4CUAxW_nK8BHalVA8UQtKgLegQIEBAB' />
+	[21] (217,129)<div  />
+		[22] (217,139)<span >이미지 />
+[23] (284,129)<a class='C6AK7c' href='/search?sca_esv=4157e7f827e9d38c&sxsrf=ANbL-n51pZkEaRQG1v5iiioWDkkTMW6EGw:1776816049964&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyYRoGFVBzET3F8RicKhOjf6kvNfkwFlYKWWedQw0huiqfO2xuzDWkDx9kQ_eh6-Jp0YJQGDmgsBEwFz4up9lqk1c4-0A&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+HTML+%ED%83%9C%EA%B7%B8&sa=X&ved=2ahUKEwjw3PTLk4CUAxW_nK8BHalVA8UQtKgLegQIERAB' />
+	[24] (284,129)<div  />
+		[25] (284,139)<span >동영상 />
+[26] (345,129)<a class='C6AK7c' href='/search?sca_esv=4157e7f827e9d38c&sxsrf=ANbL-n51pZkEaRQG1v5iiioWDkkTMW6EGw:1776816049964&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+HTML+%ED%83%9C%EA%B7%B8&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyYRoGFVBzET3F8RicKhOjf6kvNfkwFlYKWWedQw0huiqfO2xuzDWkDx9kQ_eh6-Jp0YJQGDmgsBEwFz4up9lqk1c4-0A&sa=X&ved=2ahUKEwjw3PTLk4CUAxW_nK8BHalVA8UQ0pQJegQIEhAB' />
+	[27] (345,129)<div  />
+		[28] (345,139)<span >뉴스 />
+[29] (421,129)<a class='C6AK7c' href='/search?sca_esv=4157e7f827e9d38c&sxsrf=ANbL-n51pZkEaRQG1v5iiioWDkkTMW6EGw:1776816049964&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJyZwhZJy5XTR4naC9UhQGjpMiIiTBJLK1BZh-nXhEJgyYRoGFVBzET3F8RicKhOjf6kvNfkwFlYKWWedQw0huiqfO2xuzDWkDx9kQ_eh6-Jp0YJQGDmgsBEwFz4up9lqk1c4-0A&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+HTML+%ED%83%9C%EA%B7%B8&sa=X&ved=2ahUKEwjw3PTLk4CUAxW_nK8BHalVA8UQs6gLegQIExAB' />
+	[30] (421,129)<div  />
+		[31] (421,139)<span >짧은 동영상 />
+[32] (514,129)<div class='mTpL7c' role='button' />
+	[33] (514,129)<div  />
+		[34] (514,139)<div  />
+			[35] (505,133)<span >더보기 />
+			[36] (535,133)<span  />
+검색결과
+웹 검색결과
+[37] (288,227)<a class='zReHs' href='https://guide.windly.cc/how-to-import-from-ownerclan' />
+	[38] (288,251)<h3 >오너클랜 상품 수집하기 - Windly 사용가이드 />
+	[39] (265,212)<div  />
+		[40] (265,212)<div  />
+			[41] (104,212)<span  />
+				[42] (104,212)<div  />
+					[43] (104,212)<img  />
+			[44] (286,212)<div  />
+				[45] (286,202)<div  />
+					[46] (286,202)<span >윈들리 />
+				[47] (286,223)<div  />
+					[48] (286,223)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://guide.windly.cc />
+						[49] (349,223)<span class='ylgVCe ob9lvb' role='text'>› how-to-import-from-ownerclan />
+[50] (465,222)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[51] (465,222)<span  />
+		[52] (465,223)<span  />
+1.
+윈들리
+좌측 메뉴 '설정' > 연결 설정 > 소싱몰 >
+오너클랜
+으로 접속해 주세요. · 2. '연결 초기화'
+버튼
+을 클릭해 주세요. · 3. 나타나는 화면에서 다시 한 번 '연결 ...
+누락된 검색어:
+HTML
+‎
+태그
+[53] (202,417)<a class='zReHs' href='https://guide.windly.cc/updates' />
+	[54] (187,441)<h3 >Windly 업데이트 노트 />
+	[55] (202,402)<div  />
+		[56] (202,402)<div  />
+			[57] (104,402)<span  />
+				[58] (104,402)<div  />
+					[59] (104,402)<img  />
+			[60] (223,402)<div  />
+				[61] (223,392)<div  />
+					[62] (223,392)<span >윈들리 />
+				[63] (223,413)<div  />
+					[64] (223,413)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://guide.windly.cc />
+						[65] (286,413)<span class='ylgVCe ob9lvb' role='text'>› updates />
+[66] (338,412)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[67] (338,412)<span  />
+		[68] (338,413)<span  />
+엑셀 및 URL
+수집
+중, 중국몰
+수집
+방식 또는
+HTML
+방식 중 원하는
+수집
+방식을 선택할 수 있어요. ...
+오너클랜
+상품을
+윈들리
+로
+수집
+할 수 있어요. •. (완료) 2024. 09. 11 ...
+[69] (213,582)<a class='zReHs' href='https://guide.windly.cc/' />
+	[70] (213,606)<h3 >Windly 사용가이드 - 윈들리 />
+	[71] (173,567)<div  />
+		[72] (173,567)<div  />
+			[73] (104,567)<span  />
+				[74] (104,567)<div  />
+					[75] (104,567)<img  />
+			[76] (195,567)<div  />
+				[77] (195,557)<div  />
+					[78] (195,557)<span >윈들리 />
+				[79] (195,579)<div  />
+					[80] (195,579)<cite class='tjvcx GvPZzd cHaqb' role='text'>https://guide.windly.cc />
+[81] (281,578)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[82] (281,578)<span  />
+		[83] (281,579)<span  />
+오너클랜
+상품
+수집
+하기 · 도매꾹&도매매 상품
+수집
+하기 · 상품 원클릭
+수집
+하기 · 상품 ... 기본정보탭 (상품명, 카테고리,
+태그
+) · AI 상품명 추천 · 이미지탭 (대표 ...
+누락된 검색어:
+HTML
+‎| 필수 포함 항목:
+[84] (358,690)<a href='/search?sca_esv=4157e7f827e9d38c&sxsrf=ANbL-n51pZkEaRQG1v5iiioWDkkTMW6EGw:1776816049964&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%98%A4%EB%84%88%ED%81%B4%EB%9E%9C+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+%22HTML%22+%ED%83%9C%EA%B7%B8&sa=X&ved=2ahUKEwjw3PTLk4CUAxW_nK8BHalVA8UQ5t4CegQIKhAB' />
+	[85] (358,690)<span >HTML />
+[86] (270,772)<a class='zReHs' href='https://guide.windly.cc/how-to-import-products-with-url' />
+	[87] (270,797)<h3 >URL 상품 수집하기 - Windly 사용가이드 />
+	[88] (268,758)<div  />
+		[89] (268,758)<div  />
+			[90] (104,758)<span  />
+				[91] (104,758)<div  />
+					[92] (104,758)<img  />
+			[93] (290,758)<div  />
+				[94] (290,747)<div  />
+					[95] (290,747)<span >윈들리 />
+				[96] (290,769)<div  />
+					[97] (290,769)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://guide.windly.cc />
+						[98] (352,769)<span class='ylgVCe ob9lvb' role='text'>› how-to-import-products-with-url />
+[99] (471,768)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[100] (471,768)<span  />
+		[101] (471,769)<span  />
+윈들리
+좌측 '상품
+수집
+및 검색' > 상품
+수집
+메뉴에서
+윈들리
+내 가능한 모든
+수집
+방식을 모아 보실 수 있습니다.
+윈들리
+홈페이지 바로가기 ·
+윈들리
+블로그 바로가기.
+누락된 검색어:
+오너
+‎
+클랜
+‎
+태그
+[102] (267,963)<a class='zReHs' href='https://huggingface.co/entelecheia/ekonbert-base/resolve/main/vocab.txt?download=true' />
+	[103] (132,987)<h3 >vocab.txt />
+	[104] (267,948)<div  />
+		[105] (267,948)<div  />
+			[106] (104,948)<span  />
+				[107] (104,948)<div  />
+					[108] (104,948)<img  />
+			[109] (288,948)<div  />
+				[110] (288,938)<div  />
+					[111] (288,938)<span >Hugging Face />
+				[112] (288,959)<div  />
+					[113] (288,959)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://huggingface.co />
+						[114] (352,959)<span class='ylgVCe ob9lvb' role='text'>› ekonbert-base › resolve › main />
+
+</current_dom>

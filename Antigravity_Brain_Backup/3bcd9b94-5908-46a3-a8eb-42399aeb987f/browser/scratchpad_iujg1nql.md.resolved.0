@@ -1,0 +1,18 @@
+# Syncthing Troubleshooting: upload2601
+
+## Checklist
+- [ ] Go to http://localhost:8384
+- [ ] Click on 'upload2601' device
+- [ ] Check 'Address' and 'Connection Type'
+- [ ] Identify connection protocol (Relay, TCP LAN, QUIC)
+- [ ] Check for error messages under device name
+- [ ] Check Download/Upload Rate
+- [ ] Report details
+
+## Findings
+- Address: 
+- Connection Type: 
+- Protocol: 
+- Errors: 
+- Download Rate: 
+- Upload Rate: 

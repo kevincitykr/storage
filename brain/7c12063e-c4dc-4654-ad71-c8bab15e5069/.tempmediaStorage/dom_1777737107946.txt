@@ -1,0 +1,68 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (130,38)<a class='MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineAlways css-v0v1ty' href='/' />
+		[2] (130,38)<img  />
+	[3] (189,38)<div  />
+		[4] (182,38)<h6 >USE CASE />
+	[5] (254,38)<div  />
+		[6] (246,38)<h6 >OCCT />
+	[7] (312,38)<div  />
+		[8] (312,38)<a class='MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-1skim01' href='/purchase' />
+			[9] (312,38)<h6 >PURCHASE />
+	[10] (372,38)<div  />
+		[11] (372,38)<a class='MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-1skim01' href='/support' />
+			[12] (372,38)<h6 >SUPPORT />
+	[13] (434,38)<div  />
+		[14] (434,38)<a class='MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-1skim01' href='/benchmark' />
+			[15] (434,38)<h6 >BENCHMARK />
+	[16] (490,38)<div  />
+		[17] (490,38)<a class='MuiTypography-root MuiTypography-inherit MuiLink-root MuiLink-underlineNone css-1skim01' href='/news' />
+			[18] (490,38)<h6 >NEWS />
+	[19] (549,38)<div  />
+		[20] (542,38)<h6 >ABOUT US />
+	[21] (837,38)<a class='MuiButtonBase-root MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButton-colorPrimary MuiButton-disableElevation css-1uvgbz3' href='/download'>Download />
+	[22] (878,38)<div  />
+	OCCT download
+	OCCT is available for a variety of applications and systems.
+	There's something for everyone
+	Choose your edition
+	We are aware OCCT is currently being unrecognized by Windows Defender SmartScreen, due to recent updates in Windows security policies. We are working on fixing this issue as soon as possible. In the meantime, rest assured the application remains safe to use, and you can bypass the warning by clicking on "More info" and then "Run anyway".
+	OCCT for
+	Windows
+	[23] (356,807)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1koql87' />
+		[24] (357,812)<span  />
+			[25] (357,812)<input class='PrivateSwitchBase-input css-j8yymo' />
+	[26] (292,898)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1c1ewaa' />
+		[27] (293,903)<span  />
+			[28] (293,903)<input class='PrivateSwitchBase-input css-j8yymo' />
+	[29] (356,898)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1c1ewaa' />
+		[30] (357,903)<span  />
+			[31] (357,903)<input class='PrivateSwitchBase-input css-j8yymo' />
+	[32] (420,898)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1c1ewaa' />
+		[33] (421,903)<span  />
+			[34] (421,903)<input class='PrivateSwitchBase-input css-j8yymo' />
+	The ever popular edition, granting all the core functions of OCCT,
+	free of charge
+	.
+	OCCT for
+	Linux
+	[35] (638,809)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1koql87' />
+		[36] (639,814)<span  />
+			[37] (639,814)<input class='PrivateSwitchBase-input css-j8yymo' />
+	[38] (574,900)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1c1ewaa' />
+		[39] (575,905)<span  />
+			[40] (575,905)<input class='PrivateSwitchBase-input css-j8yymo' />
+	[41] (638,900)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1c1ewaa' />
+		[42] (639,905)<span  />
+			[43] (639,905)<input class='PrivateSwitchBase-input css-j8yymo' />
+	[44] (702,900)<label class='MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd css-1c1ewaa' />
+		[45] (703,905)<span  />
+			[46] (703,905)<input class='PrivateSwitchBase-input css-j8yymo' />
+	The ever popular edition, granting all the core functions of OCCT,
+	free of charge
+	.
+
+</current_dom>

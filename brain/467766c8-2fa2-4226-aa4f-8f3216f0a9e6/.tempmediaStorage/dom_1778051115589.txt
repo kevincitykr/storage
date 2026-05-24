@@ -1,0 +1,80 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (960,369)<div  />
+	[1] (960,369)<img  />
+[2] (960,493)<div  />
+	[3] (960,493)<img  />
+[4] (960,616)<div  />
+	[5] (960,616)<img  />
+1
+/
+1
+상품옵션
+카테고리를 먼저 선택해 주세요.
+[6] (168,294)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[7] (112,294)<span >브랜드 />
+	[8] (235,294)<div  />
+[9] (168,362)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Flex__wsrgth3 Flex_flexRecipe_direction_row__wsrgth4 Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[10] (103,362)<label class='Checkbox_baseCheckboxContainer__134wlvc0 Checkbox_checkboxContainer_size_large__134wlvc3 bun-ui-checkbox-container' />
+	[11] (178,362)<div  />
+		[12] (178,362)<div  />
+			[13] (178,352)<span >벤큐 />
+			[14] (178,375)<span >BENQ />
+[15] (168,460)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[16] (106,460)<span >가격 />
+	[17] (235,460)<div  />
+최소
+[18] (161,566)<input class='TextField_inputStyle__7b6rfem TextField_inputStyle_size_s__7b6rfen TextField_inputStyle_disabled_false__7b6rfeq' placeholder='0' />
+원
+최대
+[19] (161,669)<input class='TextField_inputStyle__7b6rfem TextField_inputStyle_size_s__7b6rfen TextField_inputStyle_disabled_false__7b6rfeq' placeholder='0' />
+원
+[20] (168,743)<button class='bun-ui-button Button__gh14qn7 Button_buttonBaseStyle__gh14qn1 Button_buttonSizeVariants_medium__gh14qn4 Button_button_variant_secondaryRed__gh14qne Button_button_isLoading_false__gh14qnj'>추가 />
+[21] (168,886)<fieldset  />
+	[22] (139,820)<div  />
+		[23] (139,820)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_boxShadow__7nn0kn39 Flex__wsrgth3 Flex_flexRecipe_align_center__wsrgthp base_baseElementStyle__ri2cmp0 ChoiceChip_labelRecipe__1my9qg91 ChoiceChip_labelRecipe_size_medium__1my9qg93 ChoiceChip_labelRecipe_variant_pill__1my9qg96 ChoiceChip_labelRecipe_checked_false__1my9qg98 ChoiceChip_labelRecipe_disabled_false__1my9qg9a ChoiceChip_labelRecipe_isColumn_false__1my9qg9c ChoiceChip_labelRecipe_hasIcon_false__1my9qg9e ChoiceChip_labelRecipe_compound_6__1my9qg9l'>150만원~200만원 />
+	[24] (140,886)<div  />
+		[25] (140,886)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_boxShadow__7nn0kn39 Flex__wsrgth3 Flex_flexRecipe_align_center__wsrgthp base_baseElementStyle__ri2cmp0 ChoiceChip_labelRecipe__1my9qg91 ChoiceChip_labelRecipe_size_medium__1my9qg93 ChoiceChip_labelRecipe_variant_pill__1my9qg96 ChoiceChip_labelRecipe_checked_false__1my9qg98 ChoiceChip_labelRecipe_disabled_false__1my9qg9a ChoiceChip_labelRecipe_isColumn_false__1my9qg9c ChoiceChip_labelRecipe_hasIcon_false__1my9qg9e ChoiceChip_labelRecipe_compound_6__1my9qg9l'>200만원~250만원 />
+	[26] (140,952)<div  />
+		[27] (140,952)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_boxShadow__7nn0kn39 Flex__wsrgth3 Flex_flexRecipe_align_center__wsrgthp base_baseElementStyle__ri2cmp0 ChoiceChip_labelRecipe__1my9qg91 ChoiceChip_labelRecipe_size_medium__1my9qg93 ChoiceChip_labelRecipe_variant_pill__1my9qg96 ChoiceChip_labelRecipe_checked_false__1my9qg98 ChoiceChip_labelRecipe_disabled_false__1my9qg9a ChoiceChip_labelRecipe_isColumn_false__1my9qg9c ChoiceChip_labelRecipe_hasIcon_false__1my9qg9e ChoiceChip_labelRecipe_compound_6__1my9qg9l'>250만원~300만원 />
+[28] (360,314)<div  />
+[29] (360,338)<p >1,600,000원 />
+[30] (360,358)<div  />
+[31] (360,376)<p >i7-12700K RTX4070 본체 싸게팝니다 />
+[32] (360,398)<div  />
+[33] (360,419)<div  />
+	[34] (297,419)<span >1달 전 />
+	[35] (426,419)<div  />
+		[36] (426,419)<span  />
+			[37] (430,419)<span >6 />
+이 상품과 비슷해요
+[38] (893,629)<button aria-label='다음 페이지' class='_button_1cw4e_1 _variant-normal_1cw4e_53 _size-XL_1cw4e_83 _button_1vsnd_1' />
+	[39] (893,629)<span  />
+[40] (360,946)<a class='_container_15rjm_1' href='/products/403053607?imp_id=358e69fae82700030442&ref_code=SR2P&ref_content=SR2P%3A4070+%EB%B3%B8%EC%B2%B4' />
+	[41] (360,883)<div  />
+		[42] (360,883)<img  />
+		[43] (416,720)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+[44] (517,883)<div  />
+	[45] (517,883)<img  />
+	[46] (573,720)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+[47] (674,946)<a class='_container_15rjm_1' href='/products/400225646?imp_id=358e69fae8270003044f&ref_code=SR2P&ref_content=SR2P%3A4070+%EB%B3%B8%EC%B2%B4' />
+	[48] (674,883)<div  />
+		[49] (674,883)<img  />
+		[50] (730,720)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+[51] (830,946)<a class='_container_15rjm_1' href='/products/403580243?imp_id=358e69fae8270003043a&ref_code=SR2P&ref_content=SR2P%3A4070+%EB%B3%B8%EC%B2%B4' />
+	[52] (830,883)<div  />
+		[53] (830,883)<img  />
+		[54] (887,720)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+[55] (954,898)<button aria-label='페이지 상단으로 이동' class='_top-button_12t4m_1 _show_12t4m_17' />
+[56] (59,921)<div class='ap-toolbar-tab-tab' role='tab' />
+	[57] (59,921)<div  />
+		[58] (59,921)<i  />
+[59] (33,900)<div class='ap-toolbar-tab-tab' role='tab' />
+	[60] (33,900)<div  />
+		[61] (33,900)<div  />
+			[62] (33,900)<div class='ap-notification-cover' />
+				[63] (33,900)<img  />
+
+</current_dom>

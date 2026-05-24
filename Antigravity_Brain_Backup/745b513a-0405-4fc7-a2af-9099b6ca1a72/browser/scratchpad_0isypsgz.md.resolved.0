@@ -1,0 +1,8 @@
+# Task Checklist
+- [ ] Open OwnerClan product search page.
+- [ ] Check if products are visible (Login might be required).
+- [ ] Look for the "Windly" collection button.
+- [ ] Analyze the button's selector/XPath.
+- [ ] Analyze the collection modal and "Start Collection" button.
+- [ ] Check pagination area.
+- [ ] Identify failure points in the user's script.

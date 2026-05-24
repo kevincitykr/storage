@@ -1,0 +1,81 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+Navigation Menu
+[0] (31,52)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[1] (83,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Platform />
+[2] (148,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Solutions />
+[3] (215,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Resources />
+[4] (292,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Open Source />
+[5] (368,52)<button class='NavDropdown-module__button__PEHWX js-details-target'>Enterprise />
+[6] (423,52)<a class='NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM' href='https://github.com/pricing' />
+	[7] (423,52)<span >Pricing />
+[8] (740,52)<button aria-label='Search or jump to…' class='header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none' placeholder='Search or jump to...' />
+	[9] (647,52)<div  />
+	[10] (740,52)<span >Search or jump to... />
+	[11] (836,52)<div  />
+[12] (874,52)<a class='HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung'>Sign in />
+[13] (927,52)<a class='HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1' href='/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E&source=header'>Sign up />
+[14] (969,52)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-424a73a4-db1f-4781-bd96-fe005510950e' />
+[15] (354,173)<a class='UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung'>Overview />
+[16] (443,173)<a class='UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item selected' href='/wonseokjung?tab=repositories'>Repositories />
+	[17] (478,173)<span >122 />
+[18] (528,173)<a class='UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung?tab=projects'>Projects />
+[19] (594,173)<a class='UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung?tab=packages'>Packages />
+[20] (664,173)<a class='UnderlineNav-item js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung?tab=stars'>Stars />
+	[21] (684,173)<span >59 />
+[22] (201,375)<a class='d-block' href='https://avatars.githubusercontent.com/u/11300712?v=4' />
+	[23] (201,375)<img  />
+Wonseok Jung
+wonseokjung
+[24] (201,735)<a class='btn btn-block' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung'>Follow />
+ConnexionAI CEO
+City University of New York -Baruch College,DataScience Major
+Illinois Tech, Master - Datascience
+Love Reinforcement Learning
+[25] (139,956)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=followers'>followers />
+	[26] (125,956)<span >226 />
+·
+[27] (203,956)<a class='Link--secondary no-underline no-wrap' href='https://github.com/wonseokjung?tab=following'>following />
+	[28] (183,956)<span >65 />
+[29] (509,254)<input aria-label='Find a repository…' class='form-control width-full' id='your-repos-filter' placeholder='Find a repository…' />
+[30] (737,254)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='type-options' />
+	[31] (737,254)<summary class='btn' role='button' />
+		[32] (732,254)<span >Type />
+		[33] (750,258)<span  />
+[34] (805,254)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='language-options' />
+	[35] (805,254)<summary class='btn' role='button' />
+		[36] (800,254)<span >Language />
+		[37] (828,258)<span  />
+[38] (871,254)<details class='details-reset details-overlay position-relative mt-1 mt-lg-0' id='sort-options' />
+	[39] (871,254)<summary class='btn' role='button' />
+		[40] (866,254)<span >Sort />
+		[41] (882,258)<span  />
+[42] (337,357)<a href='/wonseokjung/memory'>memory />
+Public
+[43] (322,409)<a class='Link--muted tmp-mr-3' href='/wonseokjung/memory/forks'>2 />
+Updated
+[44] (343,513)<a href='/wonseokjung/connect-ai'>connect-ai />
+Public
+100% 로컬 AI 코딩 에이전트 — Antigravity/VS Code/Cursor에서 오프라인으로 파일 생성, 코드 편집, 터미널 실행. Ollama 기반.
+TypeScript
+[45] (382,637)<a class='Link--muted tmp-mr-3' href='/wonseokjung/connect-ai/stargazers'>41 />
+[46] (416,637)<a class='Link--muted tmp-mr-3' href='/wonseokjung/connect-ai/forks'>27 />
+MIT License
+Updated
+[47] (403,742)<a href='/wonseokjung/awesome-harness-engineering'>awesome-harness-engineering />
+Public
+Forked from
+[48] (432,780)<a class='Link--muted Link--inTextBlock' href='/walkinglabs/awesome-harness-engineering'>walkinglabs/awesome-harness-engineering />
+🛠️ Awesome tools & guides for harness engineering.
+[49] (322,866)<a class='Link--muted tmp-mr-3' href='/wonseokjung/awesome-harness-engineering/stargazers'>2 />
+Other
+Updated
+[50] (370,970)<a href='/wonseokjung/Open-Higgsfield-AI'>Open-Higgsfield-AI />
+Public
+Forked from
+Anil-matcha/Open-Generative-AI
+
+</current_dom>

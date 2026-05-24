@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (20,40)<button id='back-button' />
+	[1] (20,37)<span >arrow_back />
+[2] (67,40)<input class='sans-flex round w-500' id='tab-title' />
+Draft
+[3] (482,40)<button class=' sans-flex round w-500 md-body-small selected ' id='canvas'>Editor />
+[4] (522,40)<button class=' sans-flex round w-500 md-body-small ' id='app'>App />
+Saved
+cloud_upload
+Publish
+[5] (873,40)<button class=' sans-flex round w-500 owner sharing-v2 ' id='share-button'>Share />
+	[6] (856,40)<span >share />
+[7] (923,40)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (923,40)<span >more_vert />
+[9] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[10] (949,40)<span >settings />
+[11] (978,40)<button id='toggle-user-menu' />
+	[12] (978,40)<span >person />
+[13] (700,540)<div  />
+[14] (239,441)<section  />
+	[15] (239,441)<div  />
+	[16] (239,350)<header  />
+		[17] (159,350)<span >chat_mirror />
+		[18] (235,350)<span >Generate Image />
+		[19] (313,350)<bb-node-run-control  />
+			[20] (313,350)<button class='node-controls' />
+				[21] (313,350)<span  />
+		[22] (336,349)<button id='connection-trigger' />
+	[23] (239,475)<div  />
+		[24] (239,473)<div  />
+			[25] (239,473)<div  />
+				[26] (239,473)<p >A stunning panoramic 16:9 wide view of modern Seoul skyscrapers at night from a luxury glass penthouse, clear blue and white tones, high-end music... />
+[27] (461,406)<section  />
+	[28] (461,406)<div  />
+	[29] (461,350)<header  />
+		[30] (380,350)<span >photo_spark />
+		[31] (457,350)<span >Generate Image />
+		[32] (534,350)<bb-node-run-control  />
+			[33] (534,350)<button class='node-controls' />
+				[34] (534,350)<span  />
+		[35] (558,349)<button id='connection-trigger' />
+	[36] (461,441)<div  />
+		[37] (461,438)<div  />
+			[38] (461,438)<div  />
+				[39] (461,438)<p >Generate Image 을 기반으로 16:9 이미지 생성 />
+[40] (461,648)<section  />
+	[41] (461,648)<div  />
+	[42] (461,609)<header  />
+		[43] (380,609)<span >responsive_layout />
+		[44] (457,609)<span >Output />
+		[45] (534,609)<bb-node-run-control  />
+			[46] (534,609)<button class='node-controls' />
+				[47] (534,609)<span  />
+		[48] (558,608)<button id='connection-trigger' />
+	[49] (461,683)<div  />
+		[50] (461,680)<div  />
+			[51] (426,680)<div  />
+				[52] (426,680)<p >Generate Image 다운로드 />
+[53] (242,138)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[54] (220,138)<span >chat_mirror />
+[55] (316,138)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[56] (294,138)<span >spark />
+[57] (381,138)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[58] (364,138)<span >responsive_layout />
+[59] (455,138)<button class=' selected icon round w-500 sans-flex ' />
+	[60] (428,138)<span >add_box />
+	[61] (463,138)<span >Add Assets />
+[62] (520,158)<button >Pick File />
+[63] (544,199)<button >Create New Document />
+[64] (350,902)<bb-expanding-textarea >send />
+	[65] (350,902)<div  />
+		[66] (325,902)<div  />
+			[67] (325,902)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[68] (498,902)<button aria-label='Submit' id='submit' />
+	[69] (472,902)<bb-speech-to-text  />
+		[70] (472,902)<button  />
+			[71] (472,902)<span >mic />
+	send
+[72] (673,724)<button id='zoom-to-fit' />
+	[73] (673,724)<span >fit_screen />
+[74] (673,784)<button id='zoom-in' />
+	[75] (673,784)<span >add />
+[76] (673,831)<button id='zoom-out' />
+	[77] (673,831)<span >remove />
+[78] (673,877)<button id='undo' />
+	[79] (673,877)<span >undo />
+redo
+Opal can make mistakes, so double-check it
+Preview
+[80] (830,120)<button class=' sans-flex w-500 round '>Console />
+[81] (881,120)<button class='sans-flex w-500 round'>Step />
+[82] (929,120)<button class=' sans-flex w-500 round '>Theme />
+[83] (737,199)<button id='menu' />
+	[84] (720,199)<span >menu />
+[85] (963,199)<button id='replay' />
+	[86] (980,199)<span >replay />
+이미지 생성기
+[87] (507,859)<a class='w-400 round md-title-medium' href='https://policies.google.com/terms'>Privacy
+            & Terms />
+	[88] (463,859)<span >shield_person />
+	[89] (562,859)<span >open_in_new />
+[90] (520,934)<a class='w-400 round md-title-medium' href='/'>View more
+Opal
+apps />
+	[91] (463,934)<span >gallery_thumbnail />
+	[92] (587,934)<span >open_in_new />
+[93] (885,611)<button  />
+	[94] (885,611)<span  />
+[95] (914,611)<button  />
+	[96] (914,611)<span  />
+다운로드
+[97] (754,963)<button class='sans-flex w-500 round md-body-medium' id='save-results-button'>Share output />
+	[98] (717,963)<span >share />
+[99] (842,963)<button class='sans-flex w-500 round md-body-medium' id='export-output-button'>Download file />
+	[100] (803,963)<span >file_save />
+[101] (712,928)<button id='close' />
+	[102] (712,928)<span  />
+
+</current_dom>

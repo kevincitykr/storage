@@ -1,0 +1,143 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (52,35)<a href='../main/main.htm' />
+	[1] (52,35)<img  />
+[2] (213,35)<div class='search_bar' />
+	[3] (197,35)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (306,35)<button aria-label='검색' class='search28_3A' />
+[5] (913,35)<a href='javascript:void(0);'>로그인 />
+[6] (944,35)<a href='../member/member_kind.htm'>회원가입 />
+[7] (977,35)<a href='javascript:void(0);'>상담센터 />
+[8] (21,92)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[9] (56,94)<a href='javascript:void(0);'>조립PC />
+[10] (83,94)<a href='javascript:void(0);'>견적 />
+[11] (113,94)<a href='../hotsale/hotsale.htm?bannerid=GNBBannerHotsale'>파격할인 />
+[12] (150,94)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[13] (189,94)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[14] (224,94)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[15] (270,94)<a href='javascript:void(0);'>컴퓨존추천 />
+[16] (307,94)<a href='javascript:void(0);'>전용관 />
+[17] (337,94)<a href='javascript:void(0);'>매거진 />
+[18] (370,94)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[19] (400,94)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[20] (437,94)<a href='javascript:void(0);'>컴퓨존 라이브 />
+[21] (539,92)<div  />
+	[22] (485,92)<p >공식 />
+	[23] (542,92)<div  />
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+		HP 브랜드스토어
+		[24] (542,92)<div >LG gram & 브랜드스토어 />
+		Microsoft 브랜드스토어
+		AMD 브랜드스토어
+		Intel 브랜드스토어
+		RAZER 브랜드스토어
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+	[25] (595,92)<i  />
+[26] (927,81)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[27] (927,103)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[28] (950,99)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[29] (979,99)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[30] (116,384)<a class='small_rolling_prev left_rolling_prev' href='#' />
+[31] (126,384)<a class='small_rolling_next left_rolling_next' href='#' />
+[32] (121,299)<a href='../event_zone/eventzone_view.htm?EventNo=60956&bannerid=CateLeftWingRollingBanner' />
+	[33] (121,297)<img  />
+[34] (121,509)<a href='../event_zone/eventzone_view.htm?EventNo=60857&bannerid=CateLeftWingFixBanner' />
+	[35] (121,507)<img  />
+[36] (121,672)<a href='../event_zone/eventzone_view.htm?EventNo=60782&bannerid=CateLeftWingFixBanner' />
+	[37] (121,671)<img  />
+[38] (121,838)<a href='../estimate/choose.htm?bannerid=LeftWingFixBannerEstimate' />
+	[39] (121,836)<img  />
+[40] (969,684)<a href='javascript:void(0);' />
+	[41] (961,684)<span  />
+		[42] (961,684)<img  />
+	[43] (977,684)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+[44] (969,773)<a href='../event_zone/eventzone_view.htm?EventNo=60956&bannerid=QuickMenuRolling' />
+	[45] (969,773)<img  />
+	[46] (969,793)<p >HP노트북
+마스터팩 />
+배민5만원
+[47] (955,827)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+2
+/
+5
+[48] (982,827)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[49] (969,859)<p class='ntRB12 co6C'>최근 본 상품 />
+[50] (969,899)<a href='javascript:;' />
+	[51] (969,899)<img  />
+[52] (957,959)<a href='javascript:void(0);' />
+	[53] (957,959)<img  />
+[54] (980,959)<a href='javascript:void(0);' />
+	[55] (980,959)<img  />
+[56] (166,156)<a class='cate_home' href='../main/main.htm' />
+[57] (202,156)<a class='selectBox' href='./productB_new_list.htm?BigDivNo=4'>컴퓨터 부품 />
+	[58] (220,157)<span  />
+[59] (260,156)<a class='selectBox' href='./product_list.htm?BigDivNo=4&MediumDivNo=1016'>그래픽카드 />
+	[60] (277,157)<span  />
+카테고리
+[61] (209,264)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1012'>CPU />
+[62] (256,261)<a class='arrow' href='javascript:cate_view(1012)' />
+[63] (209,296)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1013'>메인보드 />
+[64] (256,293)<a class='arrow' href='javascript:cate_view(1013)' />
+[65] (209,328)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1014'>메모리 />
+[66] (256,325)<a class='arrow' href='javascript:cate_view(1014)' />
+[67] (209,359)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1276'>SSD />
+[68] (256,357)<a class='arrow' href='javascript:cate_view(1276)' />
+[69] (209,391)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1015'>HDD />
+[70] (256,389)<a class='arrow' href='javascript:cate_view(1015)' />
+[71] (209,423)<a class='upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1016'>그래픽카드 />
+[72] (256,420)<a class='arrow' href='javascript:cate_view(1016)' />
+[73] (214,453)<a href='product_list.htm?BigDivNo=4&MediumDivNo=1016&DivNo=2043'>NVIDIA 그래픽카드 />
+[74] (214,485)<a href='product_list.htm?BigDivNo=4&MediumDivNo=1016&DivNo=2042'>AMD 그래픽카드 />
+[75] (214,516)<a href='product_list.htm?BigDivNo=4&MediumDivNo=1016&DivNo=4682'>INTEL 그래픽카드 />
+[76] (214,548)<a href='product_list.htm?BigDivNo=4&MediumDivNo=1016&DivNo=2044'>전문가용 그래픽카드 />
+[77] (209,591)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1017'>ODD />
+[78] (256,588)<a class='arrow' href='javascript:cate_view(1017)' />
+[79] (209,623)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1147'>케이스 />
+[80] (256,620)<a class='arrow' href='javascript:cate_view(1147)' />
+[81] (209,655)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1148'>파워 />
+[82] (256,652)<a class='arrow' href='javascript:cate_view(1148)' />
+[83] (209,687)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1020'>쿨러/튜닝용품 />
+[84] (256,684)<a class='arrow' href='javascript:cate_view(1020)' />
+[85] (209,718)<a class='sub_upon_arrow' href='../product/product_list.htm?BigDivNo=4&MediumDivNo=1199'>사운드카드 />
+[86] (256,716)<a class='arrow' href='javascript:cate_view(1199)' />
+상세검색
+[87] (239,791)<a class='view_btn' href='javascript:void(0);'>검색 전체보기 />
+리스트 내 검색
+[88] (214,847)<input class='iptxtBasic' id='splist_kw' />
+[89] (245,847)<button class='btn_search' />
+	[90] (245,847)<span  />
+나만의 필터
+그래픽카드
+(
+0
+)
+[91] (776,211)<label class='leftchk chkMedium2 delivery_search' />
+	[92] (776,212)<i  />
+[93] (806,213)<b  />
+	[94] (812,213)<label >1시간픽업 />
+[95] (833,213)<a class='qu_over' />
+[96] (305,280)<a class='tab_M' href='javascript:void(0);'>추천순 />
+[97] (354,269)<a class='tab_M' href='javascript:void(0);'>판매량순 />
+[98] (407,269)<a class='tab_M' href='javascript:void(0);'>할인율순 />
+[99] (463,269)<a class='tab_M' href='javascript:void(0);'>낮은가격순 />
+[100] (522,269)<a class='tab_M' href='javascript:void(0);'>높은가격순 />
+[101] (582,269)<a class='tab_M' href='javascript:void(0);'>최근등록순 />
+[102] (641,269)<a class='tab_M' href='javascript:void(0);'>후기많은순 />
+[103] (729,280)<a class='Img_box ' href='javascript:void(0)' id='imgViewType' />
+[104] (749,280)<a class='list_box on' href='javascript:void(0)' id='listViewType' />
+[105] (799,280)<select id='select_page_cnt' />
+선택한 필터
+[106] (772,346)<button class='search_btn'>검색 />
+[107] (809,346)<a class='reset' href='javascript:search_reset('');'>전체해제 />
+	[108] (797,348)<i  />
+해당 검색어로 검색된 상품이 없습니다.
+
+</current_dom>

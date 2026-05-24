@@ -1,0 +1,66 @@
+kevincityHQ
+[0] (705,37)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (683,38)<span  />
+	[2] (705,37)<span >Korean />
+	[3] (729,41)<span  />
+[4] (777,37)<a class='dropdown-toggle' href='#' />
+	[5] (756,38)<span  />
+	[6] (778,37)<span >도움말 />
+	[7] (799,41)<span  />
+[8] (841,37)<a class='dropdown-toggle' href='#' />
+	[9] (825,38)<span  />
+	[10] (842,37)<span >동작 />
+	[11] (859,41)<span  />
+GUI 인증: 사용자 이름과 비밀번호를 설정하십시오
+GUI 인증을 위한 사용자 이름과 비밀번호가 설정되지 않았습니다. 이들을 설정하는 것을 고려해 주십시오.
+현재 컴퓨터의 다른 사용자로부터 Syncthing과 이를 통한 파일 접속을 차단하려면 인증을 설정하는 것이 좋습니다.
+[12] (840,358)<button class='btn btn-sm btn-default pull-right' />
+	[13] (831,360)<span  />
+	[14] (845,357)<span >설정 />
+[15] (160,358)<button class='btn btn-sm btn-default pull-left' />
+	[16] (150,360)<span  />
+	[17] (165,357)<span >확인 />
+새 폴더
+2026-04-19 23:32:50
+upload2601 기기가 "kevincity share" (embcu-ntnsc) 폴더를 공유하길 원합니다.
+새 폴더를 추가하시겠습니까?
+[18] (746,629)<button class='btn btn-sm btn-success ng-scope' />
+	[19] (736,631)<span  />
+	[20] (751,628)<span >추가 />
+[21] (789,629)<button class='btn btn-sm btn-danger' />
+	[22] (779,631)<span  />
+	[23] (793,628)<span >무시 />
+[24] (836,629)<button class='btn btn-sm btn-default' />
+	[25] (822,631)<span  />
+	[26] (841,628)<span >나중에 />
+폴더
+[27] (310,837)<button class='btn panel-heading' />
+	[28] (310,836)<h4  />
+		[29] (147,837)<div  />
+			[30] (147,836)<span  />
+		[31] (445,836)<div  />
+			[32] (443,836)<span >동기화 미완료 />
+		[33] (282,836)<div  />
+			[34] (206,836)<span >Kevincity Share />
+[35] (316,927)<button class='btn btn-sm btn-default ng-scope' />
+	[36] (287,929)<span  />
+	[37] (321,926)<span >모두 일시 중지 />
+[38] (393,927)<button class='btn btn-sm btn-default ng-scope' />
+	[39] (370,929)<span  />
+	[40] (398,926)<span >모두 재탐색 />
+폴더 추가
+현재 기기
+[41] (690,837)<button class='btn panel-heading' />
+	[42] (690,836)<h4  />
+		[43] (526,836)<identicon  />
+		[44] (701,836)<div >kevincityHQ />
+수신 속도
+[45] (830,895)<a class='toggler ng-binding' href='#'>(9.53 MiB) />
+	[46] (806,895)<span >0 B/s />
+송신 속도
+[47] (830,935)<a class='toggler ng-binding' href='#'>(11.8 MiB) />
+	[48] (806,935)<span >0 B/s />
+현재 기기 상태(합계)
+4,608
+122,178
+~110 GiB

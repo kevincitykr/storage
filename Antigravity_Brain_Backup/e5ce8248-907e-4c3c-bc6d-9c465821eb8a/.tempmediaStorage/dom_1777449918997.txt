@@ -1,0 +1,46 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (363,149)<a class='ytp-title-link yt-uix-sessionlink ytp-title-fullerscreen-link'>CreatBot Announces the New D600 Pro 2 />
+[1] (170,689)<div  />
+	[2] (86,689)<img  />
+	[3] (154,689)<div  />
+		[4] (154,689)<div  />
+			[5] (150,678)<div >CreatBot D600 Pro3 HS />
+			[6] (150,704)<div >creatbot.com />
+	[7] (238,689)<button aria-label='문의하기 This link opens in new tab' class='ytp-ad-button-vm ytp-ad-component--clickable ytp-ad-button-vm--style-filled-white ytp-ad-button-vm--size-default' id='ad-button:7' role='link' />
+		[8] (238,689)<span >문의하기 />
+스폰서
+[9] (96,763)<button aria-label='내 광고 센터' class='ytp-ad-button ytp-ad-button-link ytp-ad-clickable ytp-ad-hover-text-button--clean-player' id='button:b' />
+	[10] (96,763)<span  />
+creatbot.com
+[11] (621,758)<button class='ytp-skip-ad-button ytp-ad-component--clickable' id='skip-button:2'>건너뛰기 />
+	건너뛰기
+[12] (361,800)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+[13] (73,845)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[14] (106,845)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[15] (157,845)<div  />
+	[16] (157,845)<div  />
+		[17] (157,845)<div aria-label='0 분 5 초/1 분 32 초' class='ytp-time-contents' role='button' />
+			[18] (144,844)<span >0:05 />
+			[19] (157,844)<span >/ />
+			[20] (170,844)<span >1:32 />
+[21] (551,845)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[22] (551,862)<div  />
+[23] (582,845)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[24] (614,845)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[25] (645,845)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+[26] (23,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[27] (23,40)<yt-icon  />
+[28] (480,40)<div  />
+	[29] (475,40)<form  />
+		[30] (475,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' role='combobox' />
+	[31] (655,40)<div  />
+		[32] (655,40)<ytd-text-input-assistant  />
+			[33] (655,40)<button class='ytdTextInputAssistantButton' />
+				[34] (655,40)<img  />
+[35] (689,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' />
+	[36] (689,40)<span  />
+
+</current_dom>

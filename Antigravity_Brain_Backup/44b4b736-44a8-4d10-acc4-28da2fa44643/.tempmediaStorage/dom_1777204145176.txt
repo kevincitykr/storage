@@ -1,0 +1,168 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (20,40)<button id='back-button' />
+	[1] (20,37)<span >arrow_back />
+[2] (79,40)<input class='sans-flex round w-500' id='tab-title' />
+Draft
+[3] (482,40)<button class=' sans-flex round w-500 md-body-small selected ' id='canvas'>Editor />
+[4] (522,40)<button class=' sans-flex round w-500 md-body-small ' id='app'>App />
+Saved
+cloud_upload
+Publish
+[5] (873,40)<button class=' sans-flex round w-500 owner sharing-v2 ' id='share-button'>Share />
+	[6] (856,40)<span >share />
+[7] (923,40)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (923,40)<span >more_vert />
+[9] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[10] (949,40)<span >settings />
+[11] (978,40)<button id='toggle-user-menu' />
+	[12] (978,40)<span >person />
+[13] (700,540)<div  />
+[14] (343,570)<section  />
+	[15] (343,570)<div  />
+	[16] (343,480)<header  />
+		[17] (263,480)<span >photo_spark />
+		[18] (340,480)<span >Generate />
+		[19] (417,480)<bb-node-run-control  />
+			[20] (417,480)<button class='node-controls' />
+				[21] (417,480)<span  />
+		[22] (441,478)<button id='connection-trigger' />
+	[23] (343,605)<div  />
+		[24] (343,602)<div  />
+			[25] (343,602)<div  />
+				[26] (343,602)<p >A wide 16:9 peaceful early morning in a modern Seoul area, soft blue dawn light, calm urban atmosphere, high-end photography lifestyle aesthetic,... />
+[27] (357,570)<section  />
+	[28] (357,570)<div  />
+	[29] (357,480)<header  />
+		[30] (276,480)<span >photo_spark />
+		[31] (353,480)<span >Generate 1 />
+		[32] (430,480)<bb-node-run-control  />
+		[33] (454,478)<button id='connection-trigger' />
+	[34] (357,605)<div  />
+		[35] (357,602)<div  />
+			[36] (357,602)<div  />
+				[37] (357,602)<p >A wide 16:9 close-up of a modern workstation by a window with a view of city lights at night, soft blue monitor glow, sophisticated lifestyle aest... />
+[38] (242,138)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[39] (220,138)<span >chat_mirror />
+[40] (316,138)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[41] (294,138)<span >spark />
+[42] (381,138)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[43] (364,138)<span >responsive_layout />
+[44] (455,138)<button class=' selected icon round w-500 sans-flex ' />
+	[45] (428,138)<span >add_box />
+	[46] (463,138)<span >Add Assets />
+[47] (520,158)<button >Pick File />
+[48] (544,199)<button >Create New Document />
+[49] (350,902)<bb-expanding-textarea >send />
+	[50] (350,902)<div  />
+		[51] (325,902)<div  />
+			[52] (325,902)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[53] (498,902)<button aria-label='Submit' id='submit' />
+	[54] (472,902)<bb-speech-to-text  />
+		[55] (472,902)<button  />
+			[56] (472,902)<span >mic />
+	send
+[57] (673,724)<button id='zoom-to-fit' />
+	[58] (673,724)<span >fit_screen />
+[59] (673,784)<button id='zoom-in' />
+	[60] (673,784)<span >add />
+[61] (673,831)<button id='zoom-out' />
+	[62] (673,831)<span >remove />
+undo
+redo
+Opal can make mistakes, so double-check it
+[63] (773,121)<button class='sans-flex w-500 round'>Preview />
+Console
+[64] (881,121)<button class='sans-flex w-500 round'>Step />
+[65] (929,121)<button class=' sans-flex w-500 round '>Theme />
+[66] (963,200)<button class='w-500 round sans-flex md-body-small' id='replay-autostart'>Start />
+	[67] (948,200)<span >spark />
+[68] (850,620)<section id='console' scrollable='true' />
+	[69] (850,54)<summary class='sans-flex w-500 round md-title-medium photo_spark quick-access generative generate' />
+		[70] (725,54)<span  />
+		[71] (854,54)<div  />
+			[72] (833,54)<span >photo_spark />
+			[73] (863,54)<span >Generate />
+		[74] (974,54)<bb-node-run-control  />
+			[75] (974,54)<button class='node-controls' />
+				[76] (974,54)<span  />
+	[77] (850,329)<details  />
+		[78] (850,131)<summary class=' w-400 sans-flex round spark ' />
+			[79] (725,131)<span  />
+			[80] (862,131)<div  />
+				[81] (748,131)<span >spark />
+				[82] (871,131)<span  />
+					[83] (801,131)<span >Calling ai_image_tool />
+					[84] (973,131)<span >7.0s />
+		upload
+		[85] (845,268)<details  />
+			[86] (845,268)<summary >planStep
+:
+{...} />
+				planStep
+				:
+				{...}
+			[87] (850,363)<details  />
+				[88] (850,363)<summary  />
+			[89] (850,426)<details  />
+				[90] (850,426)<summary  />
+		[91] (845,299)<details  />
+			[92] (845,299)<summary >execution_inputs
+:
+{...} />
+				execution_inputs
+				:
+				{...}
+			[93] (850,331)<details  />
+				[94] (850,331)<summary  />
+				[95] (855,363)<details  />
+					[96] (855,363)<summary  />
+					[97] (860,394)<details  />
+						[98] (860,394)<summary  />
+			[99] (850,363)<details  />
+				[100] (850,363)<summary  />
+				[101] (855,394)<details  />
+					[102] (855,394)<summary  />
+					[103] (860,426)<details  />
+						[104] (860,426)<summary  />
+		[105] (973,239)<button id='copy-to-clipboard' title='Copy JSON to Clipboard' />
+		download
+		[106] (845,466)<details  />
+			[107] (845,466)<summary >executionOutputs
+:
+{...} />
+				executionOutputs
+				:
+				{...}
+			[108] (850,497)<details  />
+				[109] (850,497)<summary  />
+				[110] (855,529)<details  />
+					[111] (855,529)<summary  />
+					[112] (860,561)<details  />
+						[113] (860,561)<summary  />
+			[114] (850,529)<details  />
+				[115] (850,529)<summary  />
+				[116] (855,561)<details  />
+					[117] (855,561)<summary  />
+					[118] (860,592)<details  />
+						[119] (860,592)<summary  />
+			[120] (850,561)<details  />
+				[121] (850,561)<summary  />
+				[122] (855,592)<details  />
+					[123] (855,592)<summary  />
+					[124] (860,624)<details  />
+						[125] (860,624)<summary  />
+		[126] (845,497)<details  />
+			[127] (845,497)<summary >quotaMetadata
+:
+{} />
+				quotaMetadata
+				:
+				{}
+		[128] (973,437)<button id='copy-to-clipboard' title='Copy JSON to Clipboard' />
+[129] (712,928)<button id='close' />
+	[130] (712,928)<span  />
+
+</current_dom>

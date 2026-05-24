@@ -1,0 +1,181 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	30초만에 확장 프로그램을 설치하고 쉽고 빠르게 상품을 수집하세요
+	[1] (663,53)<a href='https://chromewebstore.google.com/detail/%EC%9C%88%EB%93%A4%EB%A6%AC/kopggmlhnhalanhapdmflfmboikpjjmn'>설치하러 가기 > />
+	[2] (94,169)<div  />
+		[3] (57,169)<div  />
+			[4] (41,169)<div  />
+				[5] (41,167)<button class='normal css-4tclo e1xqknlz1' />
+					[6] (41,167)<span  />
+			[7] (84,169)<div  />
+				[8] (84,169)<span >해구대 />
+	[9] (94,500)<div class='css-1tqvssv e13wsqyi2' scrollable='true' />
+		[10] (91,250)<div  />
+			[11] (91,249)<a href='/view3/main' />
+				[12] (91,249)<div  />
+					[13] (91,249)<div  />
+						[14] (20,249)<div  />
+						[15] (37,249)<div  />
+							[16] (37,249)<span >홈 />
+		[17] (91,478)<div  />
+			[18] (91,344)<div  />
+				[19] (58,344)<div  />
+					[20] (58,344)<div  />
+						[21] (67,344)<div  />
+							[22] (67,344)<span >상품 수집 및 검색 />
+			[23] (91,414)<div  />
+				[24] (91,414)<a href='/view3/product-import' />
+					[25] (91,414)<div  />
+						[26] (91,414)<div  />
+							[27] (60,414)<div  />
+								[28] (60,414)<span >상품 수집 />
+			[29] (91,481)<a href='/view3/global-sourcing' />
+				[30] (91,481)<div  />
+					[31] (91,481)<div  />
+						[32] (80,481)<div  />
+							[33] (80,481)<span >AI 전세계 상품 수집 />
+			[34] (91,548)<div  />
+				[35] (91,548)<a href='/view3/search-product' />
+					[36] (91,548)<div  />
+						[37] (91,548)<div  />
+							[38] (73,548)<div  />
+								[39] (73,548)<span >1688 상품 검색 />
+			[40] (91,614)<div  />
+				[41] (91,614)<a href='/view3/recommended-product' />
+					[42] (91,614)<div  />
+						[43] (91,614)<div  />
+							[44] (86,614)<div  />
+								[45] (70,614)<span >인기 상품 추천 />
+								[46] (118,614)<div  />
+									[47] (118,614)<span >New />
+		[48] (91,710)<div  />
+			[49] (42,710)<div  />
+				[50] (42,710)<div  />
+					[51] (51,710)<div  />
+						[52] (51,710)<span >상품 관리 />
+		[53] (91,780)<a href='https://global.windly.cc/view2/interested-product' />
+			[54] (91,780)<div  />
+				[55] (91,780)<div  />
+					[56] (59,780)<div  />
+						[57] (59,780)<span >수집상품 />
+		등록상품
+		재고 업데이트
+		상품 분석
+	[58] (94,858)<button class='css-1pic4j8 e1xsifz91' />
+		실시간 삭제
+	[59] (94,953)<a class='css-hyck8i' href='https://global.windly.cc/view2/mypage?planPayment=true' />
+		[60] (94,953)<div  />
+			[61] (60,953)<span >플랜 결제하기 />
+	[62] (193,553)<div  />
+		[63] (187,197)<button class='normal css-4tclo e1xqknlz1' />
+			[64] (187,197)<span  />
+	[65] (594,607)<div class='css-lr8dfu e1r4mx6c3' scrollable='true' />
+		재고 업데이트
+		[66] (677,153)<div  />
+			[67] (676,153)<div  />
+				[68] (668,153)<span >AI 비서 윈비 />
+				[69] (703,153)<div  />
+		[70] (744,153)<div  />
+			[71] (744,153)<div  />
+				[72] (744,153)<div  />
+		[73] (779,153)<div  />
+			[74] (779,153)<div  />
+				[75] (779,153)<div  />
+		[76] (880,153)<div  />
+			[77] (880,153)<div  />
+				[78] (880,153)<div >kkseob0116@gmail.com />
+					[79] (819,153)<div  />
+		1
+		상품 선택
+		2
+		재고 수정 업로드
+		• '라쿠텐, 도매매, 도매꾹, 오너클랜'에서 수집한 상품만 재고를 불러올 수 있어요.
+		• 수집 후 상품의 옵션그룹을 추가 혹은 삭제한 상품은 확인할 수 없어요. 자세한 사항은 사용가이드를 참고해주세요.
+		[80] (846,331)<a class='css-nud9v3 e1th2k0e0' href='https://guide.windly.cc/stock-sync' />
+			[81] (838,331)<span >사용가이드 />
+		[82] (602,447)<input class='css-7c4ua5 e2jxjl02' placeholder='상품명 검색' />
+		[83] (915,447)<button class='secondary css-nftkjq e1xqknlz1' />
+			[84] (915,447)<span >상품 코드 검색 />
+		재고 불러오기
+		[85] (773,541)<button class='active css-17ewdqg e1xqknlz1' />
+			[86] (773,541)<span >최초 업로드일 순 />
+		[87] (901,541)<div  />
+			[88] (901,541)<button class='secondary css-nftkjq e1xqknlz1' />
+				[89] (901,541)<span >최근 업로드 상품 제외 />
+		[90] (346,634)<label class='css-17agcl e1ltdz974' />
+			[91] (346,634)<div  />
+				[92] (346,634)<span  />
+		상품명
+		소싱링크
+		유입수
+		마지막 수정 등록일
+		[93] (346,736)<label class='css-17agcl e1ltdz974' />
+			[94] (346,736)<div  />
+				[95] (346,736)<span  />
+		[96] (546,736)<a href='/view3/../view2/registered-product/235383392' />
+			[97] (546,736)<div  />
+				[98] (546,717)<span >새싹보리선식 간식 아침대용 스틱 대용 단백질 20g />
+				[99] (546,752)<span >상품 코드:
+235383392 />
+		[100] (704,711)<div  />
+			[101] (704,715)<a href='https://smartstore.naver.com/dungjjotrades/products/13441969339' />
+				[102] (704,707)<img  />
+		[103] (722,711)<div  />
+			[104] (722,715)<a href='https://www.coupang.com/vp/products/16169940261' />
+				[105] (722,707)<img  />
+		[106] (739,711)<div  />
+		[107] (757,711)<div  />
+		[108] (704,760)<div  />
+		[109] (722,760)<div  />
+		[110] (739,760)<div  />
+		[111] (757,760)<div  />
+		[112] (805,740)<a href='http://www.ownerclan.com/V2/product/view.php?selfcode=WFNSV5Q' />
+		[113] (854,743)<a href='/view3/../view2/inflow-analysis?selected=235383392' />
+		2026-04-23 02:46 PM
+		[114] (346,869)<label class='css-17agcl e1ltdz974' />
+			[115] (346,869)<div  />
+				[116] (346,869)<span  />
+		[117] (546,869)<a href='/view3/../view2/registered-product/235383403' />
+			[118] (546,869)<div  />
+				[119] (546,851)<span >식물성 콩고기 스테이크 비건 요리 대체육 채식 />
+				[120] (546,885)<span >상품 코드:
+235383403 />
+		[121] (704,844)<div  />
+			[122] (704,849)<a href='https://smartstore.naver.com/dungjjotrades/products/13441969022' />
+				[123] (704,840)<img  />
+		[124] (722,844)<div  />
+			[125] (722,849)<a href='https://www.coupang.com/vp/products/16169939967' />
+				[126] (722,840)<img  />
+		[127] (739,844)<div  />
+		[128] (757,844)<div  />
+		[129] (704,893)<div  />
+		[130] (722,893)<div  />
+		[131] (739,893)<div  />
+		[132] (757,893)<div  />
+		[133] (805,873)<a href='http://www.ownerclan.com/V2/product/view.php?selfcode=WFNSAVB' />
+		[134] (854,876)<a href='/view3/../view2/inflow-analysis?selected=235383403' />
+		2026-04-23 02:46 PM
+		피자만들기 아동장난감 주방장난감
+		[135] (704,978)<div  />
+		[136] (722,978)<div  />
+			[137] (722,982)<a href='https://www.coupang.com/vp/products/16169939652' />
+				[138] (722,974)<img  />
+		[139] (739,978)<div  />
+		[140] (757,978)<div  />
+		2026-04-23 02:45 PM
+	[141] (927,908)<div  />
+		[142] (927,908)<div  />
+			[143] (940,908)<span >문의 />
+[144] (704,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[145] (704,810)<span >홈 />
+[146] (806,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[147] (806,773)<div  />
+		[148] (814,755)<div  />
+	[149] (806,811)<span >대화 />
+[150] (908,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[151] (908,810)<span >설정 />
+
+</current_dom>

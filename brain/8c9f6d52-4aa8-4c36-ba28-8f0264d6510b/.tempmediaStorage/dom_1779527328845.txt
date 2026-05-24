@@ -1,0 +1,91 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+(알 수 없는 장치)
+[0] (624,44)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (598,44)<span  />
+	[2] (624,43)<span  />
+		[3] (624,43)<font  />
+			[4] (624,43)<font >영어 />
+	[5] (653,47)<span  />
+[6] (731,44)<a class='dropdown-toggle' href='#' />
+	[7] (697,44)<span  />
+	[8] (733,43)<span  />
+		[9] (733,43)<font  />
+			[10] (733,43)<font >도움말 />
+	[11] (768,47)<span  />
+[12] (838,44)<a class='dropdown-toggle' href='#' />
+	[13] (812,44)<span  />
+	[14] (840,43)<span  />
+		[15] (840,43)<font  />
+			[16] (840,43)<font >동작 />
+	[17] (867,47)<span  />
+폴더
+(2)
+[18] (500,286)<button class='btn panel-heading' />
+	[19] (129,253)<div  />
+	[20] (500,286)<h4  />
+		[21] (143,286)<div  />
+			[22] (143,286)<span  />
+		[23] (807,286)<div  />
+			[24] (784,285)<span  />
+				[25] (784,285)<font  />
+					[26] (784,285)<font >알 수 없음 />
+			[27] (847,285)<span  />
+				[28] (847,285)<font  />
+					[29] (847,285)<font >(4%) />
+		[30] (449,286)<div  />
+			[31] (200,285)<span  />
+				[32] (200,285)<font  />
+					[33] (200,285)<font >AI 두뇌 />
+[34] (500,370)<button class='btn panel-heading' />
+	[35] (500,370)<h4  />
+		[36] (143,370)<div  />
+			[37] (143,370)<span  />
+		[38] (827,370)<div  />
+			[39] (825,369)<span  />
+				[40] (825,369)<font  />
+					[41] (825,369)<font >알 수 없음 />
+		[42] (470,370)<div  />
+			[43] (227,369)<span  />
+				[44] (227,369)<font  />
+					[45] (227,369)<font >케빈시티 공유 />
+[46] (598,476)<button class='btn btn-sm btn-default ng-scope' />
+	[47] (551,477)<span  />
+	[48] (607,476)<span  />
+		[49] (607,476)<font  />
+			[50] (607,476)<font >모두 일시 정지 />
+[51] (726,476)<button class='btn btn-sm btn-default ng-scope' />
+	[52] (687,477)<span  />
+	[53] (735,476)<span  />
+		[54] (735,476)<font  />
+			[55] (735,476)<font >모두 재탐색 />
+[56] (838,476)<button class='btn btn-sm btn-default' />
+	[57] (806,477)<span  />
+	[58] (846,476)<span  />
+		[59] (846,476)<font  />
+			[60] (846,476)<font >폴더 추가 />
+현재 기기
+[61] (500,705)<button class='btn panel-heading' />
+	[62] (500,704)<h4  />
+		[63] (140,704)<identicon  />
+		[64] (518,704)<div >Upload_2601 />
+수신 속도
+[65] (824,773)<a class='toggler ng-binding' href='#'>(23 KiB) />
+	[66] (793,773)<span >36 B/s />
+송신 속도
+[67] (817,821)<a class='toggler ng-binding' href='#'>(40.8 KiB) />
+	[68] (780,821)<span >24 B/s />
+현재 기기 상태(합계)
+232,403
+45,332
+~109 GiB
+대기자
+[69] (866,915)<a class='ng-binding text-success'>3/3 />
+탐지
+[70] (866,963)<a class='ng-binding'>4/5 />
+가동 시간
+20분
+
+</current_dom>

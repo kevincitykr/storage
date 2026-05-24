@@ -1,0 +1,98 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+그래픽카드
+무료배송
+행사제품보기
+총
+618
+건
+[0] (328,119)<input id='SearchKeyword' />
+[1] (378,120)<a href='javascript:search_keyword();' />
+[2] (440,119)<select  />
+[3] (286,550)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[4] (113,256)<a class='imgbox' href='javascript:detail_show('1237811')' title='[제품코드:1237811]' />
+	[5] (252,298)<a class='imgbox' href='javascript:detail_show('1237811')'>RTX 5060 Ti / PCIe5.0x16(at x8) / 정격파워600W 이상 / 전원 포트: 8핀 x1 / 가로(길이): 235mm / 베이스클럭: 2407MHz / 부스트클럭: 2587MHz / 스트림 프로세서: 4608개 / GDDR7 / 출력단자: HDMI2.1 , DP2.1 / 지원정보: 8K 지원 , HDR 지원 , HDCP 2.3 / 사용전력: 180W / 2팬 / 두께: 40mm / 제로팬(0-dB기술) / 백플레이트 / LED 라이트 / LED온오프스위치 / A/S 3년 />
+		[6] (252,229)<b >[GALAX] 갤럭시 GALAZ 지포스 RTX 5060 Ti BLACK OC D7 8GB [1237811] />
+	무료배송
+	판매가격
+	641,000
+	[7] (457,320)<a class='buttons' href='javascript:select_basket('1237811','N',1);' id='basket1237811' />
+		[8] (457,320)<span >담기 />
+	[9] (113,529)<a class='imgbox' href='javascript:detail_show('1294522')' title='[제품코드:1294522]' />
+	[10] (252,571)<a class='imgbox' href='javascript:detail_show('1294522')'>RTX 5070 Ti/PCIe5.0x16/정격파워750W 이상/전원 포트:16핀(12V2x6) x1/가로(길이):239mm/베이스클럭:2295MHz/부스트클럭:2467MHz/스트림 프로세서:8960개/GDDR7/출력단자:HDMI2.1,DP2.1/지원정보:8K 지원,HDR 지원,HDCP 2.3/사용전력:300W/2팬/두께:45mm/제로팬(0-dB기술)/백플레이트/LED 라이트/LED온오프스위치/XTREME TUNER/구성품:VGA지지대,3x8핀 to 16핀 커넥터/A/S 3년 />
+		[11] (252,502)<b >[GALAX] 갤럭시 GALAZ 지포스 RTX5070 Ti BLACK 2X OC D7 16GB [1294522] />
+	무료배송
+	판매가격
+	1,739,000
+	[12] (457,593)<a class='buttons' href='javascript:select_basket('1294522','N',1);' id='basket1294522' />
+		[13] (457,593)<span >담기 />
+	[14] (113,802)<a class='imgbox' href='javascript:detail_show('1115384')' title='[제품코드:1115384]' />
+	[15] (252,821)<a class='imgbox' href='javascript:detail_show('1115384')'>W7600 / 6nm / 스트림 프로세서: 2048개 / PCIe4.0x16(at x8) / GDDR6(DDR6) / 출력단자: DP2.1 / 부가기능: 8K 지원 , 4K 지원 / 사용전력: 130W / 정격파워 350W 이상 / 전원 포트: 6핀 x1 / 1개 팬 / 가로(길이): 241mm / A/S 3년 / PCI Express 4.0 x16 / 8GB / DDR6 / 128bit / 일반 / 6Pin / VGA231~250mm / 블로워팬 / DisplayPort / 4개 / />
+		[16] (252,763)<b >[AMD] 라데온 PRO W7600 D6 8GB [1115384] />
+	무료배송
+	판매가격
+	1,015,600
+	[17] (457,843)<a class='buttons' href='javascript:select_basket('1115384','N',1);' id='basket1115384' />
+		[18] (457,843)<span >담기 />
+	[SAPPHIRE] 라데온 RX 9060 PULSE OC D6 8GB [1277741]
+[19] (150,967)<a class='prev' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',0,1);' />
+[20] (177,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',0,1);'>1 />
+[21] (201,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',50,2);'>2 />
+[22] (224,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',100,3);'>3 />
+[23] (248,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',150,4);'>4 />
+[24] (272,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',200,5);'>5 />
+[25] (296,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',250,6);'>6 />
+[26] (320,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',300,7);'>7 />
+[27] (344,967)<a class='num on' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',350,8);'>8 />
+[28] (367,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',400,9);'>9 />
+[29] (391,967)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',450,10);'>10 />
+[30] (418,967)<a class='next' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1016','','recommand','','','N|N',500,11);' />
+총 견적금액
+832,150
+원
+[31] (532,119)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[32] (558,119)<input  />
+[33] (584,119)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[34] (640,119)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[35] (640,120)<span >전체수량변경 />
+[36] (541,216)<label  />
+	[37] (525,214)<span  />
+		[38] (525,215)<input  />
+	[39] (548,214)<span >전체선택 />
+[40] (690,214)<a class='wbtn' href='javascript:add_wish_list();' />
+	[41] (690,215)<span >관심상품추가 />
+[42] (745,214)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[43] (745,215)<span >장바구니담기 />
+[44] (797,214)<a class='wbtn' />
+	[45] (797,215)<span >견적서출력 />
+[46] (848,214)<a class='wbtn' href='javascript:speck_form();' />
+	[47] (848,215)<span >사양검토요청 />
+[48] (893,214)<a class='wbtn' href='javascript:sess_init();' />
+	[49] (893,215)<span >초기화 />
+[50] (526,294)<label  />
+	[51] (526,293)<span  />
+		[52] (525,295)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[53] (556,293)<span >인텔 병행수입 />
+[54] (624,338)<a class='proname' href='javascript:detail_show('1082818')'>[INTEL] [병행] 코어 i7-14700K (14세대/ 랩터레이크 리프레시/ 3.4GHz) [벌크/쿨러 미포함] />
+판매가격
+658,000
+[55] (832,320)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[56] (852,320)<input class='change__ea' id='Amount_1082818' />
+[57] (873,320)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[58] (895,320)<span class='delete' />
+[59] (526,421)<label  />
+	[60] (526,419)<span  />
+		[61] (525,422)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[62] (558,419)<span >인텔 소켓 1700 />
+[63] (624,454)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[64] (669,455)<i  />
+판매가격
+174,150
+[65] (832,436)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[66] (852,436)<input class='change__ea' id='Amount_1118926' />
+[67] (873,436)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[68] (895,436)<span class='delete' />
+
+</current_dom>

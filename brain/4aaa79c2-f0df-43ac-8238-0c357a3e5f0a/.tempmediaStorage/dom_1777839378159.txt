@@ -1,0 +1,67 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+본문 바로가기
+[0] (117,52)<a aria-label='당근' class='sprinkles_display_flex_base__1byufe82i sprinkles_alignItems_center_base__1byufe8si sprinkles_cursor_pointer__1byufe81o' href='/kr/' />
+[1] (298,52)<a class='_4wgc7j2 _4wgc7j1 sprinkles_paddingTop_2_base__1byufe89m sprinkles_paddingBottom_2_base__1byufe8bq sprinkles_paddingLeft_3_base__1byufe8g2 sprinkles_paddingRight_3_base__1byufe8dy sprinkles_display_inlineBlock_base__1byufe82e' href='/kr/buy-sell/s/'>중고거래 />
+[2] (349,52)<button class='_4wgc7j0 sprinkles_display_flex_base__1byufe82i sprinkles_alignItems_center_base__1byufe8si sprinkles_cursor_pointer__1byufe81o sprinkles_paddingRight_2_base__1byufe8du' id='radix-:r0:-trigger-radix-:r2:' />
+	[3] (343,52)<a class='_4wgc7j9 _4wgc7j1 sprinkles_paddingTop_2_base__1byufe89m sprinkles_paddingBottom_2_base__1byufe8bq sprinkles_display_flex_base__1byufe82i sprinkles_alignItems_center_base__1byufe8si sprinkles_gap_1_base__1byufe8qe sprinkles_paddingLeft_3_base__1byufe8g2 sprinkles_paddingRight_1_base__1byufe8dq' href='/kr/realty/s/'>부동산 />
+[4] (400,52)<button class='_4wgc7j0 sprinkles_display_flex_base__1byufe82i sprinkles_alignItems_center_base__1byufe8si sprinkles_cursor_pointer__1byufe81o sprinkles_paddingRight_2_base__1byufe8du' id='radix-:r0:-trigger-radix-:r3:' />
+	[5] (393,52)<a class='_4wgc7j9 _4wgc7j1 sprinkles_paddingTop_2_base__1byufe89m sprinkles_paddingBottom_2_base__1byufe8bq sprinkles_display_flex_base__1byufe82i sprinkles_alignItems_center_base__1byufe8si sprinkles_gap_1_base__1byufe8qe sprinkles_paddingLeft_3_base__1byufe8g2 sprinkles_paddingRight_1_base__1byufe8dq' href='/kr/cars/s/'>중고차 />
+[6] (468,52)<button class='_4wgc7j0 sprinkles_display_flex_base__1byufe82i sprinkles_alignItems_center_base__1byufe8si sprinkles_cursor_pointer__1byufe81o sprinkles_paddingRight_2_base__1byufe8du' id='radix-:r0:-trigger-radix-:r4:' />
+	[7] (461,52)<a class='_4wgc7j9 _4wgc7j1 sprinkles_paddingTop_2_base__1byufe89m sprinkles_paddingBottom_2_base__1byufe8bq sprinkles_display_flex_base__1byufe82i sprinkles_alignItems_center_base__1byufe8si sprinkles_gap_1_base__1byufe8qe sprinkles_paddingLeft_3_base__1byufe8g2 sprinkles_paddingRight_1_base__1byufe8dq' href='/kr/jobs/s/'>알바/과외/레슨 />
+[8] (536,52)<a class='_4wgc7j2 _4wgc7j1 sprinkles_paddingTop_2_base__1byufe89m sprinkles_paddingBottom_2_base__1byufe8bq sprinkles_paddingLeft_3_base__1byufe8g2 sprinkles_paddingRight_3_base__1byufe8dy sprinkles_display_inlineBlock_base__1byufe82e' href='/kr/local-profile/s/'>동네업체 />
+[9] (588,52)<a class='_4wgc7j2 _4wgc7j1 sprinkles_paddingTop_2_base__1byufe89m sprinkles_paddingBottom_2_base__1byufe8bq sprinkles_paddingLeft_3_base__1byufe8g2 sprinkles_paddingRight_3_base__1byufe8dy sprinkles_display_inlineBlock_base__1byufe82e' href='/kr/community/s/'>동네생활 />
+[10] (630,52)<a class='_4wgc7j2 _4wgc7j1 sprinkles_paddingTop_2_base__1byufe89m sprinkles_paddingBottom_2_base__1byufe8bq sprinkles_paddingLeft_3_base__1byufe8g2 sprinkles_paddingRight_3_base__1byufe8dy sprinkles_display_inlineBlock_base__1byufe82e' href='/kr/group/s/'>모임 />
+[11] (664,52)<a class='_4wgc7j2 _4wgc7j1 sprinkles_paddingTop_2_base__1byufe89m sprinkles_paddingBottom_2_base__1byufe8bq sprinkles_paddingLeft_3_base__1byufe8g2 sprinkles_paddingRight_3_base__1byufe8dy sprinkles_display_inlineBlock_base__1byufe82e' href='https://cafe.daangn.com/'>카페 />
+[12] (826,52)<button class='ay4dl60 sprinkles_paddingBottom_1_base__1byufe8bm sprinkles_paddingTop_1_base__1byufe89i sprinkles_paddingLeft_1_base__1byufe8fu sprinkles_paddingRight_1_base__1byufe8dq sprinkles_borderRadius_1_base__1byufe87e sprinkles_cursor_pointer__1byufe81o _1laqyod0'>검색 />
+	검색
+[13] (875,52)<button class='hz29bu0 hz29bu4 hz29bu1'>앱 다운로드 />
+[14] (287,313)<button aria-label='Carousel indicator' class='_1wus0xpc sprinkles_display_block_base__1byufe826 sprinkles_overflow_hidden__1byufe819 sprinkles_width_1.5_base__1byufe84i sprinkles_height_1.5_base__1byufe86m sprinkles_cursor_pointer__1byufe81o _1wus0xpd' />
+[15] (296,313)<button aria-label='Carousel indicator' class='_1wus0xpc sprinkles_display_block_base__1byufe826 sprinkles_overflow_hidden__1byufe819 sprinkles_width_1.5_base__1byufe84i sprinkles_height_1.5_base__1byufe86m sprinkles_cursor_pointer__1byufe81o' />
+[16] (117,423)<a aria-label='당근당근님의 프로필 페이지' class='_1rgv2433' href='/kr/users/%EB%8B%B9%EA%B7%BC%EB%8B%B9%EA%B7%BC-2q6k6qrvcvwq/' />
+	[17] (117,423)<span  />
+[18] (168,405)<a class='_1rgv2432' href='/kr/users/%EB%8B%B9%EA%B7%BC%EB%8B%B9%EA%B7%BC-2q6k6qrvcvwq/' />
+	[19] (168,405)<span >당근당근 />
+[20] (200,444)<a class='r4hjxer r4hjxes r4hjxex r4hjxez r4hjxe13' href='/kr/buy-sell/s/?in=%EC%9E%A5%EC%95%88%EC%A0%9C1%EB%8F%99-94'>서울시 동대문구 장안제1동 />
+47.9
+°C
+[21] (469,453)<button class='sprinkles_fontSize_100_base__1byufe8uq sprinkles_fontSize_200_small__1byufe8uv sprinkles_fontSize_100_medium__1byufe8us sprinkles_fontSize_200_large__1byufe8ux sprinkles_fontWeight_regular__1byufe81x sprinkles_lineHeight_body.small_base__1byufe8w2 sprinkles_lineHeight_body.medium_small__1byufe8w7 sprinkles_lineHeight_body.small_medium__1byufe8w4 sprinkles_lineHeight_body.medium_large__1byufe8w9 sprinkles_color_neutralSubtle__1byufe82 _1rgv2430 sprinkles_cursor_pointer__1byufe81o'>매너온도 />
+2026년 3월에 세팅해서 실사용 2개월밖에 안 된 거의 새것 같 은 컴퓨터입니다.
+업무용으로 맞췄다가 급하게 처분하게 되어 박스는 따로 보관하 지 못했습니다. 대신 상태는 정말 자부합니다.
+
+• CPU: 인텔 9-14900F (최상위 사양)
+• RAM: 64GB (대용량 작업 가능)
+• 저장소: 4TB (엄청 넉넉합니다)
+• OS: 윈도우 11 Pro 설치됨
+
+그래픽카드는 화면 출력용(GT 710)이라 게임보다는 영상 편집, 딥러닝, 서버용으로 바로 쓰실 분들께 추천드려요. 게임하실 분 들은 그래픽카드만 좋은 거 꽂으시면 끝판왕 사양 됩니다.
+
+쿨거래 하시면 기분 좋게 네고해 드릴 테니 연락 주세요. 
+직접 오 셔서 상태 확인 가능합니다.
+채팅 1
+·
+관심 7
+·
+조회 177
+[22] (708,504)<button class='hz29bu0 hz29bu5 hz29bu1 sprinkles_width_full_base__1byufe84q'>당근 앱에서 보기 />
+[23] (500,742)<a class='sprinkles_display_flex_base__1byufe82i sprinkles_width_full_base__1byufe84q sprinkles_alignItems_center_base__1byufe8si sprinkles_gap_3_base__1byufe8qm sprinkles_justifyContent_spaceBetween_base__1byufe8t2' href='/kr/users/%EB%8B%B9%EA%B7%BC%EB%8B%B9%EA%B7%BC-2q6k6qrvcvwq/'>당근당근의 판매 물품 />
+[24] (158,947)<div  />
+	[25] (158,947)<div  />
+		[26] (158,947)<span  />
+			[27] (158,947)<img  />
+[28] (295,947)<div  />
+	[29] (295,947)<div  />
+		[30] (295,947)<span  />
+			[31] (295,947)<img  />
+[32] (705,947)<div  />
+	[33] (705,947)<div  />
+		[34] (705,947)<span  />
+			[35] (705,947)<img  />
+[36] (842,947)<div  />
+	[37] (842,947)<div  />
+		[38] (842,947)<span  />
+			[39] (842,947)<img  />
+
+</current_dom>

@@ -1,0 +1,344 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (26,44)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (26,44)<yt-icon  />
+		[2] (26,44)<span  />
+			[3] (26,44)<div  />
+[4] (86,44)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (86,44)<div  />
+		[6] (86,43)<ytd-logo  />
+			[7] (86,44)<yt-icon  />
+				[8] (87,44)<span  />
+					[9] (87,44)<div  />
+KR
+[10] (458,44)<div  />
+	[11] (451,44)<form  />
+		[12] (451,44)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (640,44)<div  />
+		[14] (640,44)<ytd-text-input-assistant  />
+			[15] (640,44)<button class='ytdTextInputAssistantButton' />
+				[16] (640,45)<img  />
+[17] (678,44)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (678,44)<span  />
+		[19] (678,44)<span  />
+			[20] (678,44)<div  />
+[21] (727,44)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (727,44)<yt-touch-feedback-shape  />
+		[23] (727,44)<div  />
+[24] (858,44)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (858,44)<yt-touch-feedback-shape  />
+		[26] (858,44)<div  />
+[27] (913,44)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (913,43)<yt-icon-badge-shape  />
+		[29] (913,44)<div  />
+			[30] (913,44)<div  />
+				[31] (913,44)<span  />
+					[32] (913,44)<span  />
+						[33] (913,44)<div  />
+[34] (955,44)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[35] (955,44)<yt-img-shadow  />
+		[36] (955,44)<img  />
+[37] (88,544)<div class='style-scope ytd-app' id='guide-inner-content' scrollable='true' />
+	[38] (83,139)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/' id='endpoint' role='link' title='홈' />
+		[39] (83,139)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[40] (26,139)<yt-icon  />
+				[41] (26,139)<span  />
+					[42] (26,139)<div  />
+			[43] (101,139)<yt-formatted-string >홈 />
+	[44] (83,202)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' id='endpoint' role='link' title='Shorts' />
+		[45] (83,202)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[46] (26,202)<yt-icon  />
+				[47] (26,202)<span  />
+					[48] (26,202)<div  />
+			[49] (101,202)<yt-formatted-string >Shorts />
+	[50] (83,305)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/subscriptions' id='endpoint' role='link' title='구독' />
+		[51] (83,305)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[52] (31,305)<yt-formatted-string >구독 />
+			[53] (51,305)<yt-icon  />
+				[54] (51,305)<span  />
+					[55] (51,305)<div  />
+	[56] (83,368)<a aria-label='Melodist Seoul에서 새로운 콘텐츠 이용 가능' class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/@MelodistSeoul' id='endpoint' role='link' title='Melodist Seoul' />
+		[57] (83,368)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[58] (26,368)<yt-img-shadow  />
+				[59] (26,368)<img  />
+			[60] (95,368)<yt-formatted-string >Melodist Seoul />
+			[61] (143,368)<div  />
+	[62] (83,471)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/you' id='endpoint' role='link' title='내 페이지' />
+		[63] (83,471)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[64] (44,471)<yt-formatted-string >내 페이지 />
+			[65] (75,471)<yt-icon  />
+				[66] (75,471)<span  />
+					[67] (75,471)<div  />
+	[68] (83,534)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/history' id='endpoint' role='link' title='기록' />
+		[69] (83,534)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[70] (26,534)<yt-icon  />
+				[71] (26,534)<span  />
+					[72] (26,534)<div  />
+			[73] (101,534)<yt-formatted-string >기록 />
+	[74] (83,597)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/playlists' id='endpoint' role='link' title='재생목록' />
+		[75] (83,597)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[76] (26,597)<yt-icon  />
+				[77] (26,597)<span  />
+					[78] (26,597)<div  />
+			[79] (101,597)<yt-formatted-string >재생목록 />
+	[80] (83,660)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=WL' id='endpoint' role='link' title='나중에 볼 동영상' />
+		[81] (83,660)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[82] (26,660)<yt-icon  />
+				[83] (26,660)<span  />
+					[84] (26,660)<div  />
+			[85] (101,660)<yt-formatted-string >나중에 볼 동영상 />
+	[86] (83,724)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/playlist?list=LL' id='endpoint' role='link' title='좋아요 표시한 동영상' />
+		[87] (83,724)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[88] (26,724)<yt-icon  />
+				[89] (26,724)<span  />
+					[90] (26,724)<div  />
+			[91] (101,724)<yt-formatted-string >좋아요 표시한 동영상 />
+	[92] (83,787)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='https://studio.youtube.com/channel/UCgWw-iMOD0L5oaAA_OuqwFw/videos' id='endpoint' role='link' title='내 동영상' />
+		[93] (83,787)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[94] (26,787)<yt-icon  />
+				[95] (26,787)<span  />
+					[96] (26,787)<div  />
+			[97] (101,787)<yt-formatted-string >내 동영상 />
+	[98] (83,850)<a class='yt-simple-endpoint style-scope ytd-guide-entry-renderer' href='/feed/downloads' id='endpoint' role='link' title='오프라인 저장 동영상' />
+		[99] (83,850)<tp-yt-paper-item class='style-scope ytd-guide-entry-renderer' role='link' />
+			[100] (26,850)<yt-icon  />
+				[101] (26,850)<span  />
+					[102] (26,850)<div  />
+			[103] (101,850)<yt-formatted-string >오프라인 저장 동영상 />
+	탐색
+	쇼핑
+최신순
+회원 전용
+공개
+[104] (283,207)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=t3GcpbXaKQI' id='thumbnail' />
+	[105] (283,313)<yt-image  />
+		[106] (283,207)<img  />
+	[107] (356,290)<ytd-thumbnail-overlay-time-status-renderer  />
+		[108] (357,290)<div  />
+			[109] (357,290)<badge-shape aria-label='8분 10초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[110] (357,290)<div >8:10 />
+[111] (283,378)<div  />
+	[112] (283,378)<div  />
+		[113] (274,369)<h3  />
+			[114] (274,369)<a aria-label='Don’t Ignore This If You’re Overwhelmed 8분 10초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=t3GcpbXaKQI' id='video-title-link' title='Don’t Ignore This If You’re Overwhelmed' />
+				[115] (274,369)<yt-formatted-string >Don’t Ignore This If You’re Overwhelmed />
+		[116] (274,424)<ytd-video-meta-block  />
+			[117] (274,424)<div  />
+				[118] (274,424)<div  />
+					[119] (214,424)<span >조회수 1천회 />
+					[120] (257,424)<span >21분 전 />
+	[121] (369,356)<ytd-menu-renderer  />
+		[122] (369,356)<yt-icon-button  />
+			[123] (369,356)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[124] (369,356)<yt-icon  />
+					[125] (369,356)<span  />
+						[126] (369,356)<div  />
+[127] (479,207)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=y3qlIaqlJ7A' id='thumbnail' />
+	[128] (479,313)<yt-image  />
+		[129] (479,207)<img  />
+	[130] (552,290)<ytd-thumbnail-overlay-time-status-renderer  />
+		[131] (553,290)<div  />
+			[132] (553,290)<badge-shape aria-label='3분 51초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[133] (553,290)<div >3:51 />
+[134] (479,378)<div  />
+	[135] (479,378)<div  />
+		[136] (470,369)<h3  />
+			[137] (470,369)<a aria-label='If You See This Video… It’s a Sign You’re Not Okay 3분 51초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=y3qlIaqlJ7A' id='video-title-link' title='If You See This Video… It’s a Sign You’re Not Okay' />
+				[138] (470,369)<yt-formatted-string >If You See This Video… It’s a Sign You’re Not Okay />
+		[139] (470,424)<ytd-video-meta-block  />
+			[140] (470,424)<div  />
+				[141] (470,424)<div  />
+					[142] (414,424)<span >조회수 3.3만회 />
+					[143] (457,424)<span >1일 전 />
+	[144] (565,356)<ytd-menu-renderer  />
+		[145] (565,356)<yt-icon-button  />
+			[146] (565,356)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[147] (565,356)<yt-icon  />
+					[148] (565,356)<span  />
+						[149] (565,356)<div  />
+[150] (674,207)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=gh-zXu-mnYI' id='thumbnail' />
+	[151] (674,313)<yt-image  />
+		[152] (674,207)<img  />
+	[153] (748,290)<ytd-thumbnail-overlay-time-status-renderer  />
+		[154] (749,290)<div  />
+			[155] (749,290)<badge-shape aria-label='5분 54초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[156] (749,290)<div >5:54 />
+[157] (674,378)<div  />
+	[158] (674,378)<div  />
+		[159] (666,369)<h3  />
+			[160] (666,369)<a aria-label='Please Watch This Video When You Have Time 5분 54초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=gh-zXu-mnYI' id='video-title-link' title='Please Watch This Video When You Have Time' />
+				[161] (666,369)<yt-formatted-string >Please Watch This Video When You Have Time />
+		[162] (666,424)<ytd-video-meta-block  />
+			[163] (666,424)<div  />
+				[164] (666,424)<div  />
+					[165] (610,424)<span >조회수 4.3만회 />
+					[166] (653,424)<span >1일 전 />
+	[167] (761,356)<ytd-menu-renderer  />
+		[168] (761,356)<yt-icon-button  />
+			[169] (761,356)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[170] (761,356)<yt-icon  />
+					[171] (761,356)<span  />
+						[172] (761,356)<div  />
+[173] (870,207)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=OlJjXawz-dk' id='thumbnail' />
+	[174] (870,313)<yt-image  />
+		[175] (870,207)<img  />
+	[176] (943,290)<ytd-thumbnail-overlay-time-status-renderer  />
+		[177] (945,290)<div  />
+			[178] (945,290)<badge-shape aria-label='5분 25초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[179] (945,290)<div >5:25 />
+[180] (870,378)<div  />
+	[181] (870,378)<div  />
+		[182] (861,369)<h3  />
+			[183] (861,369)<a aria-label='7 Signs You’re Smarter Than You Think 5분 25초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=OlJjXawz-dk' id='video-title-link' title='7 Signs You’re Smarter Than You Think' />
+				[184] (861,369)<yt-formatted-string >7 Signs You’re Smarter Than You Think />
+		[185] (861,424)<ytd-video-meta-block  />
+			[186] (861,424)<div  />
+				[187] (861,424)<div  />
+					[188] (806,424)<span >조회수 2.9만회 />
+					[189] (849,424)<span >2일 전 />
+	[190] (956,356)<ytd-menu-renderer  />
+		[191] (956,356)<yt-icon-button  />
+			[192] (956,356)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[193] (956,356)<yt-icon  />
+					[194] (956,356)<span  />
+						[195] (956,356)<div  />
+[196] (283,601)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=DmWBKSagvSE&pp=0gcJCdoKAYcqIYzv' id='thumbnail' />
+	[197] (283,707)<yt-image  />
+		[198] (283,601)<img  />
+	[199] (356,684)<ytd-thumbnail-overlay-time-status-renderer  />
+		[200] (357,684)<div  />
+			[201] (357,684)<badge-shape aria-label='9분 2초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[202] (357,684)<div >9:02 />
+[203] (283,787)<div  />
+	[204] (283,787)<div  />
+		[205] (274,763)<h3  />
+			[206] (274,763)<a aria-label='Why Healing Feels Like You’re Getting Worse 9분 2초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=DmWBKSagvSE&pp=0gcJCdoKAYcqIYzv' id='video-title-link' title='Why Healing Feels Like You’re Getting Worse' />
+				[207] (274,763)<yt-formatted-string >Why Healing Feels Like You’re Getting Worse />
+		[208] (274,832)<ytd-video-meta-block  />
+			[209] (274,832)<div  />
+				[210] (274,818)<div  />
+					[211] (254,818)<div  />
+						[212] (254,818)<yt-text-view-model  />
+							[213] (254,818)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text' />
+								[214] (254,818)<span >Psych2Go
+및 Kami Animation />
+									[215] (238,818)<span  />
+										[216] (238,818)<span  />
+											[217] (238,820)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+												[218] (238,820)<span  />
+													[219] (238,820)<div  />
+				[220] (274,847)<div  />
+					[221] (218,847)<span >조회수 2.9만회 />
+					[222] (262,847)<span >3일 전 />
+	[223] (369,750)<ytd-menu-renderer  />
+		[224] (369,750)<yt-icon-button  />
+			[225] (369,750)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[226] (369,750)<yt-icon  />
+					[227] (369,750)<span  />
+						[228] (369,750)<div  />
+[229] (479,601)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=mcxygKzsgS8&pp=0gcJCdoKAYcqIYzv' id='thumbnail' />
+	[230] (479,707)<yt-image  />
+		[231] (479,601)<img  />
+	[232] (552,684)<ytd-thumbnail-overlay-time-status-renderer  />
+		[233] (553,684)<div  />
+			[234] (553,684)<badge-shape aria-label='6분 46초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[235] (553,684)<div >6:46 />
+[236] (479,772)<div  />
+	[237] (479,772)<div  />
+		[238] (470,763)<h3  />
+			[239] (470,763)<a aria-label='BEFORE YOU GIVE UP ON LOVE, WATCH THIS 6분 46초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=mcxygKzsgS8&pp=0gcJCdoKAYcqIYzv' id='video-title-link' title='BEFORE YOU GIVE UP ON LOVE, WATCH THIS' />
+				[240] (470,763)<yt-formatted-string >BEFORE YOU GIVE UP ON LOVE, WATCH THIS />
+		[241] (470,818)<ytd-video-meta-block  />
+			[242] (470,818)<div  />
+				[243] (470,818)<div  />
+					[244] (414,818)<span >조회수 2.1만회 />
+					[245] (457,818)<span >4일 전 />
+	[246] (565,750)<ytd-menu-renderer  />
+		[247] (565,750)<yt-icon-button  />
+			[248] (565,750)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[249] (565,750)<yt-icon  />
+					[250] (565,750)<span  />
+						[251] (565,750)<div  />
+[252] (674,601)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=8CUnDgnCEis' id='thumbnail' />
+	[253] (674,707)<yt-image  />
+		[254] (674,601)<img  />
+	[255] (748,684)<ytd-thumbnail-overlay-time-status-renderer  />
+		[256] (749,684)<div  />
+			[257] (749,684)<badge-shape aria-label='3분 17초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[258] (749,684)<div >3:17 />
+[259] (674,787)<div  />
+	[260] (674,787)<div  />
+		[261] (666,763)<h3  />
+			[262] (666,763)<a aria-label='You WANT to DISAPPEAR, but Not Die 3분 17초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=8CUnDgnCEis' id='video-title-link' title='You WANT to DISAPPEAR, but Not Die' />
+				[263] (666,763)<yt-formatted-string >You WANT to DISAPPEAR, but Not Die />
+		[264] (666,832)<ytd-video-meta-block  />
+			[265] (666,832)<div  />
+				[266] (666,818)<div  />
+					[267] (651,818)<div  />
+						[268] (651,818)<yt-text-view-model  />
+							[269] (651,818)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text' />
+								[270] (651,818)<span >Psych2Go
+및 amanda silvera />
+									[271] (630,818)<span  />
+										[272] (630,818)<span  />
+											[273] (630,820)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+												[274] (630,820)<span  />
+													[275] (630,820)<div  />
+									[276] (713,818)<span  />
+										[277] (715,818)<span  />
+											[278] (715,820)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+												[279] (715,820)<span  />
+													[280] (715,820)<div  />
+				[281] (666,847)<div  />
+					[282] (610,847)<span >조회수 2.7만회 />
+					[283] (653,847)<span >5일 전 />
+	[284] (761,750)<ytd-menu-renderer  />
+		[285] (761,750)<yt-icon-button  />
+			[286] (761,750)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[287] (761,750)<yt-icon  />
+					[288] (761,750)<span  />
+						[289] (761,750)<div  />
+[290] (870,601)<a class='yt-simple-endpoint inline-block style-scope ytd-thumbnail' href='/watch?v=tRMs7ncnIMA' id='thumbnail' />
+	[291] (870,707)<yt-image  />
+		[292] (870,601)<img  />
+	[293] (943,684)<ytd-thumbnail-overlay-time-status-renderer  />
+		[294] (945,684)<div  />
+			[295] (945,684)<badge-shape aria-label='9분 13초' class='yt-badge-shape yt-badge-shape--thumbnail-default yt-badge-shape--thumbnail-badge yt-badge-shape--typography' role='img' />
+				[296] (945,684)<div >9:13 />
+[297] (870,787)<div  />
+	[298] (870,787)<div  />
+		[299] (861,763)<h3  />
+			[300] (861,763)<a aria-label='The ONE VIDEO that we hope you watch IS THIS 9분 13초' class='yt-simple-endpoint focus-on-expand style-scope ytd-rich-grid-media' href='/watch?v=tRMs7ncnIMA' id='video-title-link' title='The ONE VIDEO that we hope you watch IS THIS' />
+				[301] (861,763)<yt-formatted-string >The ONE VIDEO that we hope you watch IS THIS />
+		[302] (861,832)<ytd-video-meta-block  />
+			[303] (861,832)<div  />
+				[304] (861,818)<div  />
+					[305] (847,818)<div  />
+						[306] (847,818)<yt-text-view-model  />
+							[307] (847,818)<span class='ytAttributedStringHost ytAttributedStringWhiteSpacePreWrap' role='text' />
+								[308] (847,818)<span >Psych2Go
+및 amanda silvera />
+									[309] (825,818)<span  />
+										[310] (826,818)<span  />
+											[311] (826,820)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+												[312] (826,820)<span  />
+													[313] (826,820)<div  />
+									[314] (909,818)<span  />
+										[315] (911,818)<span  />
+											[316] (911,820)<span class='ytIconWrapperHost ytAttributedStringImageElement ytAttributedStringImageAlignmentVerticalCenter' role='img' />
+												[317] (911,820)<span  />
+													[318] (911,820)<div  />
+				[319] (861,847)<div  />
+					[320] (804,847)<span >조회수 12만회 />
+					[321] (847,847)<span >6일 전 />
+	[322] (956,750)<ytd-menu-renderer  />
+		[323] (956,750)<yt-icon-button  />
+			[324] (956,750)<button aria-label='작업 메뉴' class='style-scope yt-icon-button' id='button' />
+				[325] (956,750)<yt-icon  />
+					[326] (956,750)<span  />
+						[327] (956,750)<div  />
+
+</current_dom>

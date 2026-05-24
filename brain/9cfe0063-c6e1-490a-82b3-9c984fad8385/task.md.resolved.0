@@ -1,0 +1,9 @@
+- [ ] 환경 및 필수 도구 설치
+  - [ ] `winget` 사용 가능 여부 확인
+  - [ ] `uv` 설치 (NotebookLM용)
+  - [ ] `Node.js` 설치 (Stitch용)
+  - [ ] `Google Cloud CLI` 설치 (Stitch용)
+- [/] MCP 서버 설치
+  - [ ] `notebooklm-mcp-server` 설치
+  - [ ] `stitch-mcp` 설치 및 초기화
+- [ ] MCP 서버 설정 및 검증

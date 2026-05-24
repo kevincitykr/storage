@@ -1,0 +1,200 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,34)<div aria-label='돌아가기' class='gb_1c gb_4c' role='button' title='돌아가기' />
+[1] (44,36)<a aria-label='Blogger' class='gb_de gb_Vc gb_he' href='/?hl=ko&tab=jj&authuser=1' id='sdgBod' />
+	[2] (44,36)<img class='gb_0c' role='presentation' />
+[3] (932,34)<div aria-label='도움말 및 의견' class='U26fgb JRtysb WzwrXb' role='button' />
+	[4] (932,40)<span  />
+		[5] (932,40)<span  />
+			[6] (932,32)<span > />
+[7] (957,34)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=jh' role='button' />
+[8] (982,34)<a aria-label='Google 계정: 김광섭  
+(kevincity0127@gmail.com)' class='gb_B gb_0a gb_1' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.blogger.com/u/1/blog/posts/6577533901683534947&service=blogger&ec=GBRAHg' role='button' />
+[9] (500,534)<c-wiz class='zQTmif SSPGKf eejsDc qWnhY O3LMFb haXJ6e' scrollable='true' />
+	[10] (496,98)<div class='oX8Xbb Tj1T2' role='button' />
+		[11] (486,98)<span  />
+			[12] (486,98)<div  />
+				[13] (10,98)<span > />
+				[14] (39,98)<div >공지사항(1) />
+		[15] (978,98)<div  />
+			[16] (982,96)<span > />
+	**새로운 베타 기능을 사용해 보세요**: Google을 활용하여 블로그를 읽을 때 더욱 몰입할 수 있는 환경을 조성하세요
+	Google 검색 미리보기:
+	인기 인물, 장소, 대중문화 등에 대한 Google 검색 미리보기 이미지를 블로그에 바로 삽입합니다. 시작하려면 '새 글 작성 보기'에서 편집기 툴바의 'G' 버튼을 찾으세요.
+	[17] (978,148)<div aria-label='알림 취소 버튼입니다.' class='U26fgb mUbCce fKz7Od FPbn3c M9Bg4d' role='button' />
+		[18] (978,150)<span  />
+			[19] (978,148)<span > />
+	[20] (424,307)<input aria-label='제목' class='whsOnd zHQkBf' />
+	제목
+	
+	[21] (898,292)<div aria-label='글 미리보기' class='U26fgb O0WRkf zZhnYe e3Duub C0oVfc KlwNXd M9Bg4d' role='button' />
+		[22] (898,292)<span  />
+			[23] (898,292)<span  />
+				[24] (898,292)<div  />
+					[25] (882,292)<span > />
+					[26] (905,292)<div >미리보기 />
+	[27] (931,292)<div aria-label='옵션 더보기' class='U26fgb JRtysb WzwrXb Uj9lCc' id='ow18' role='button' />
+		[28] (931,292)<span  />
+			[29] (931,293)<span  />
+				[30] (931,293)<span > />
+	[31] (965,292)<div aria-label='게시' class='U26fgb O0WRkf zZhnYe e3Duub C0oVfc jPVgtf iRR07e M9Bg4d' role='button' />
+		[32] (965,292)<span  />
+			[33] (965,291)<span  />
+				[34] (965,291)<div  />
+					[35] (957,291)<span > />
+					[36] (973,291)<div >게시 />
+	[37] (15,364)<div aria-label='보기 전환' class='jgvuAb mAW2Ib e5Emjc xrAKSe qs41qe' role='listbox' />
+		[38] (15,364)<div role='presentation' />
+			
+			HTML 보기
+			[39] (12,362)<div  />
+				[40] (11,361)<span > />
+			[41] (20,364)<div class='CeEBt Ce1Y1c eU809d' role='presentation' />
+				[42] (20,362)<span > />
+	[43] (44,360)<div aria-label='실행취소' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d RDPZE' role='button' />
+		
+	[44] (61,360)<div aria-label='다시실행' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d RDPZE' role='button' />
+		
+	[45] (87,360)<div aria-label='글꼴 유형' class='U26fgb JRtysb WzwrXb bsjNHb gqtuy' id='ow16' role='button' />
+		[46] (87,365)<span  />
+			[47] (87,365)<span  />
+				[48] (87,362)<span > />
+					[49] (92,362)<span > />
+	[50] (109,360)<div aria-label='글꼴 크기' class='U26fgb JRtysb WzwrXb bsjNHb gqtuy' role='button' />
+		[51] (109,365)<span  />
+			[52] (109,365)<span  />
+				[53] (109,362)<span > />
+					[54] (114,362)<span > />
+	[55] (135,360)<div class='jgvuAb e5Emjc NgKHab' role='listbox' />
+		[56] (135,360)<div role='presentation' />
+			[57] (135,360)<div class='ry3kXd Ulgu9' role='presentation' />
+				[58] (135,360)<div  />
+					[59] (135,360)<div class='MocG8c m5D6Fd LMgvRb KKjvXb' role='option' />
+						[60] (131,362)<span >보통 />
+			[61] (144,362)<div class='CeEBt Ce1Y1c eU809d' role='presentation' />
+				[62] (144,360)<span > />
+	[63] (165,360)<div aria-label='굵게' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[64] (165,362)<span  />
+			[65] (165,360)<span > />
+	[66] (182,360)<div aria-label='기울임꼴' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[67] (182,362)<span  />
+			[68] (182,360)<span > />
+	[69] (198,360)<div aria-label='밑줄' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[70] (198,362)<span  />
+			[71] (198,360)<span > />
+	[72] (215,360)<div aria-label='취소선' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[73] (215,362)<span  />
+			[74] (215,360)<span > />
+	[75] (232,360)<div aria-label='글꼴 색상' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		
+		[76] (232,368)<div  />
+	[77] (248,360)<div aria-label='텍스트 배경 색상' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		
+	[78] (272,360)<div aria-label='링크 삽입 또는 수정' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[79] (272,362)<span  />
+			[80] (272,360)<span > />
+	[81] (291,360)<div aria-label='이미지 삽입' class='U26fgb JRtysb WzwrXb bsjNHb gqtuy' role='button' />
+		[82] (291,365)<span  />
+			[83] (291,365)<span  />
+				[84] (291,362)<span > />
+					[85] (296,362)<span > />
+	[86] (313,360)<div aria-label='동영상 삽입' class='U26fgb JRtysb WzwrXb bsjNHb gqtuy' role='button' />
+		[87] (313,365)<span  />
+			[88] (313,365)<span  />
+				[89] (313,362)<span > />
+					[90] (318,362)<span > />
+	[91] (332,360)<div aria-label='특수문자 삽입' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[92] (332,362)<span  />
+			[93] (332,360)<span > />
+	[94] (349,360)<div aria-label='게시물에 Google 사용 경험 추가' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[95] (349,364)<span  />
+			[96] (349,362)<span  />
+				[97] (349,361)<img  />
+	[98] (379,364)<div aria-label='정렬 변경' class='jgvuAb mAW2Ib e5Emjc xrAKSe KFHz6e' role='listbox' />
+		[99] (379,364)<div role='presentation' />
+			[100] (376,362)<div  />
+				[101] (375,361)<span > />
+			
+			가운데 맞춤
+			
+			오른쪽 맞춤
+			
+			양쪽 맞춤
+			[102] (384,364)<div class='CeEBt Ce1Y1c eU809d' role='presentation' />
+				[103] (384,362)<span > />
+	[104] (401,360)<div aria-label='들여쓰기' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[105] (401,362)<span  />
+			[106] (401,360)<span > />
+	[107] (418,360)<div aria-label='내어쓰기' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[108] (418,362)<span  />
+			[109] (418,360)<span > />
+	[110] (442,360)<div aria-label='글머리기호' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[111] (442,362)<span  />
+			[112] (442,360)<span > />
+	[113] (458,360)<div aria-label='번호 매기기' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[114] (458,362)<span  />
+			[115] (458,360)<span > />
+	[116] (475,360)<div aria-label='받은메일' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[117] (475,362)<span  />
+			[118] (475,360)<span > />
+	[119] (492,360)<div aria-label='점프 브레이크 삽입' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[120] (492,362)<span  />
+			[121] (492,360)<span > />
+	[122] (515,360)<div aria-label='왼쪽에서 오른쪽 레이아웃' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[123] (515,362)<span  />
+			[124] (515,360)<span > />
+	[125] (532,360)<div aria-label='오른쪽에서 왼쪽 레이아웃' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[126] (532,362)<span  />
+			[127] (532,360)<span > />
+	[128] (551,360)<div aria-label='입력기' class='U26fgb JRtysb WzwrXb bsjNHb gqtuy' role='button' />
+		[129] (551,365)<span  />
+			[130] (551,365)<span  />
+				[131] (551,362)<span > />
+					[132] (556,362)<span > />
+	[133] (577,360)<div aria-label='서식 지우기' class='U26fgb mUbCce fKz7Od bsjNHb M9Bg4d' role='button' />
+		[134] (577,362)<span  />
+			[135] (577,360)<span > />
+	[136] (637,451)<button aria-label='게시물에 Google 검색 링크 자동 삽입' class='wX4xVc-Bz112c-LgbsSe wX4xVc-Bz112c-LgbsSe-OWXEXe-SfQLQb-suEOdc MNFoWc jlteCb' />
+		[137] (637,451)<div  />
+	[138] (429,794)<body class='editable ' id='nsoPic1772925692701' role='textbox' />
+		[139] (429,443)<p  />
+	글 설정
+	[140] (926,402)<div class='oX8Xbb Tj1T2' role='button' />
+		[141] (932,402)<span  />
+			[142] (932,402)<div  />
+				[143] (892,402)<div >라벨 />
+		[144] (876,402)<div  />
+			[145] (876,402)<span > />
+	쉼표로 라벨을 구분하세요.
+	[146] (926,459)<textarea aria-label='쉼표로 라벨을 구분하세요.' class='KHxj8b tL9Q4c' />
+	일치하는 추천 없음
+	[147] (926,679)<div class='oX8Xbb Tj1T2' role='button' />
+		[148] (932,679)<span  />
+			[149] (932,679)<div  />
+				[150] (932,666)<div  />
+					[151] (900,666)<div >게시 날짜 />
+				[152] (932,691)<div >26. 3. 8. AM 8:21 />
+		[153] (876,679)<div  />
+			[154] (876,679)<span > />
+	[155] (926,752)<div class='oX8Xbb Tj1T2' role='button' />
+		[156] (932,752)<span  />
+			[157] (932,752)<div  />
+				[158] (899,752)<div >퍼머링크 />
+		[159] (876,752)<div  />
+			[160] (876,752)<span > />
+	[161] (926,812)<div class='oX8Xbb Tj1T2' role='button' />
+		[162] (932,812)<span  />
+			[163] (932,812)<div  />
+				[164] (892,812)<div >위치 />
+		[165] (876,812)<div  />
+			[166] (876,812)<span > />
+	[167] (926,872)<div class='oX8Xbb Tj1T2' role='button' />
+		[168] (932,872)<span  />
+			[169] (932,872)<div  />
+				[170] (892,872)<div >옵션 />
+		[171] (876,872)<div  />
+			[172] (876,872)<span > />
+
+</current_dom>

@@ -1,0 +1,55 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Repository files navigation
+[0] (136,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (115,27)<span  />
+	[2] (144,27)<span >README />
+[3] (201,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[4] (183,27)<span  />
+	[5] (209,27)<span >License />
+[6] (678,26)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+⚠️
+문맥 창(Context Window) 주의:
+이 MCP는
+31개의 도구
+를 제공하므로 문맥 창을 많이 차지할 수 있습니다. NotebookLM을 적극적으로 사용하지 않을 때는 MCP를 비활성화하여 다른 작업의 문맥을 확보하는 것이 좋습니다.
+CLI 옵션
+[7] (111,88)<a aria-label='Permalink: CLI 옵션' class='anchor' href='#cli-옵션' id='user-content-cli-옵션' />
+명령줄 인수를 사용하여 서버를 설정할 수 있습니다. 전송 프로토콜(stdio, http, sse), 포트, 호스트, 디버그 모드, 쿼리 타임아웃 등을 설정할 수 있습니다.
+환경 변수
+[8] (111,215)<a aria-label='Permalink: 환경 변수' class='anchor' href='#환경-변수' id='user-content-환경-변수' />
+환경 변수를 통해서도 설정이 가능합니다. (
+NOTEBOOKLM_MCP_TRANSPORT
+,
+NOTEBOOKLM_MCP_PORT
+등)
+AI 도구 연결 (Claude Code, Gemini CLI, IDE 등)
+[9] (111,315)<a aria-label='Permalink: AI 도구 연결 (Claude Code, Gemini CLI, IDE 등)' class='anchor' href='#ai-도구-연결-claude-code-gemini-cli-ide-등' id='user-content-ai-도구-연결-claude-code-gemini-cli-ide-등' />
+Claude Code나 Gemini CLI와 같은 도구는 내장된 명령어를 통해 MCP 서버를 쉽게 추가할 수 있습니다.
+Cursor, VS Code, Claude Desktop 등 JSON 설정 파일을 사용하는 도구의 경우, 설치된
+notebooklm-mcp
+의 경로를 찾아 설정 파일의
+mcpServers
+항목에 추가해야 합니다.
+활용 예시
+[10] (111,488)<a aria-label='Permalink: 활용 예시' class='anchor' href='#활용-예시' id='user-content-활용-예시' />
+Claude Code, Cursor, Gemini CLI 등의 AI 도구와 자연어로 대화하며 다음과 같이 활용할 수 있습니다.
+조사 및 탐색
+[11] (111,601)<a aria-label='Permalink: 조사 및 탐색' class='anchor' href='#조사-및-탐색' id='user-content-조사-및-탐색' />
+"내 모든 NotebookLM 노트북 목록을 보여줘"
+"'AI 전략 연구'라는 새 노트북을 만들어줘"
+"'기업 AI ROI 지표'에 대해 웹 조사를 시작하고 찾은 소스를 보여줘"
+"'클라우드 마켓플레이스 트렌드'에 대해 심층 조사를 수행하고 상위 10개 소스를 가져와줘"
+"내 구글 드라이브에서 '제품 로드맵' 관련 문서를 검색해서 노트북을 만들어줘"
+콘텐츠 추가
+[12] (111,827)<a aria-label='Permalink: 콘텐츠 추가' class='anchor' href='#콘텐츠-추가' id='user-content-콘텐츠-추가' />
+"이 URL을 내 노트북에 추가해줘:
+[13] (352,872)<a href='https://example.com/article'>https://example.com/article />
+"
+"쿠버네티스에 관한 이 유튜브 영상을 노트북에 추가해줘"
+"내 회의 노트를 텍스트 소스로 이 노트북에 추가해줘"
+"이 구글 문서를 내 연구 노트북으로 가져와줘"
+
+</current_dom>

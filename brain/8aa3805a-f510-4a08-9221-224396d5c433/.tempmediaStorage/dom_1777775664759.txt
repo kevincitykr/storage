@@ -1,0 +1,115 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (117,52)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (204,54)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (444,51)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='하기스 기저귀' role='searchbox' />
+[3] (646,54)<div  />
+	[4] (646,51)<img  />
+[5] (693,51)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (772,51)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (763,51)<span  />
+	[8] (787,51)<span  />
+[9] (830,51)<div  />
+	[10] (830,51)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[11] (821,51)<span  />
+		[12] (841,51)<span  />
+[13] (888,51)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[14] (879,51)<span  />
+	[15] (902,51)<span  />
+[16] (937,51)<div  />
+	[17] (941,51)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[18] (941,51)<span  />
+		[19] (952,39)<span >21 />
+가전제품
+[20] (145,398)<a href='https://ko.aliexpress.com/category/0/%EC%A7%84%EA%B3%B5%EC%B2%AD%EC%86%8C%EA%B8%B0-%EB%B0%8F-%EB%B0%94%EB%8B%A5-%EA%B4%80%EB%A6%AC.html?postCatIds=6%2C100000055%2C200367156%2C201338807%2C201338906%2C202214204%2C202214406%2C202214407%2C202214807%2C202215003%2C202215004%2C202215401%2C608' />
+	[21] (145,398)<div  />
+		[22] (145,368)<div  />
+			[23] (145,368)<div  />
+		[24] (145,503)<div >진공청소기 및 바닥 관리 />
+[25] (271,398)<a href='https://ko.aliexpress.com/category/0/%EA%B3%B5%EA%B8%B0-%EC%B2%98%EB%A6%AC-%EB%B0%8F-%EB%83%89%EA%B0%81.html?postCatIds=6%2C100000037%2C201330004%2C201872302' />
+	[26] (271,398)<div  />
+		[27] (271,368)<div  />
+			[28] (271,368)<div  />
+		[29] (271,503)<div >공기 처리 및 냉각 />
+[30] (397,398)<a href='https://ko.aliexpress.com/category/0/TV-%EB%B0%8F-%ED%99%88%EC%8B%9C%EC%96%B4%ED%84%B0.html?postCatIds=6%2C200160142%2C201907803' />
+	[31] (397,398)<div  />
+		[32] (397,368)<div  />
+			[33] (397,368)<div  />
+		[34] (397,503)<div >TV 및 홈시어터 />
+[35] (523,398)<a href='https://ko.aliexpress.com/category/0/%EC%9D%8C%EB%A3%8C-%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88.html?postCatIds=6%2C200364156%2C200388163%2C201331210%2C201332805%2C201337005%2C201340103%2C201340105%2C611' />
+	[36] (523,398)<div  />
+		[37] (523,368)<div  />
+			[38] (523,368)<div  />
+		[39] (523,503)<div >음료 가전제품 />
+[40] (648,398)<a href='https://ko.aliexpress.com/category/0/%EB%A9%B4%EB%8F%84-%EB%B0%8F-%EC%A0%9C%EB%AA%A8.html?postCatIds=6%2C200001213%2C200003970%2C200359142%2C200366149%2C3314%2C66010102' />
+	[41] (648,398)<div  />
+		[42] (648,368)<div  />
+			[43] (648,368)<div  />
+		[44] (648,503)<div >면도 및 제모 />
+[45] (774,398)<a href='https://ko.aliexpress.com/category/0/%ED%97%A4%EC%96%B4-%EC%BC%80%EC%96%B4-%EB%B0%8F-%EC%8A%A4%ED%83%80%EC%9D%BC%EB%A7%81.html?postCatIds=6%2C200001209%2C200262142%2C200263142' />
+	[46] (774,398)<div  />
+		[47] (774,368)<div  />
+			[48] (774,368)<div  />
+		[49] (774,503)<div >헤어 케어 및 스타일링 />
+[50] (900,380)<a href='https://ko.aliexpress.com/category/0/%EC%84%B8%ED%83%81%EC%9A%A9%ED%92%88.html?postCatIds=6%2C100000042%2C200394142%2C201344703%2C603' />
+	[51] (900,380)<div  />
+		[52] (900,368)<div  />
+			[53] (900,368)<div  />
+		[54] (900,485)<div >세탁용품 />
+주방 도구
+[55] (145,680)<a href='https://ko.aliexpress.com/category/0/%EB%B2%A0%EC%9D%B4%ED%82%B9-%26-%EB%94%94%EC%A0%80%ED%8A%B8-%EB%A9%94%EC%9D%B4%EC%BB%A4.html?postCatIds=6%2C100000153%2C64311' />
+	[56] (145,680)<div  />
+		[57] (145,650)<div  />
+			[58] (145,650)<div  />
+		[59] (145,785)<div >베이킹 & 디저트 메이커 />
+[60] (271,680)<a href='https://ko.aliexpress.com/category/0/%EB%83%89%EC%9E%A5%EA%B3%A0-%EB%B0%8F-%EB%83%89%EB%8F%99%EA%B3%A0.html?postCatIds=6%2C100000136%2C201903412' />
+	[61] (271,680)<div  />
+		[62] (271,650)<div  />
+			[63] (271,650)<div  />
+		[64] (271,785)<div >냉장고 및 냉동고 />
+[65] (397,662)<a href='https://ko.aliexpress.com/category/0/%EC%9D%8C%EC%8B%9D-%EC%A4%80%EB%B9%84.html?postCatIds=6%2C200298150%2C201332507%2C201334706%2C201340005%2C612%2C64301%2C64302%2C64317' />
+	[66] (397,662)<div  />
+		[67] (397,650)<div  />
+			[68] (397,650)<div  />
+		[69] (397,768)<div >음식 준비 />
+[70] (523,680)<a href='https://ko.aliexpress.com/category/0/%ED%9C%B4%EB%8C%80%EC%9A%A9-%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88.html?postCatIds=6%2C201339304' />
+	[71] (523,680)<div  />
+		[72] (523,650)<div  />
+			[73] (523,650)<div  />
+		[74] (523,785)<div >휴대용 가전제품 />
+[75] (648,680)<a href='https://ko.aliexpress.com/category/0/%EC%8A%A4%ED%82%A8-%26-%EB%B0%94%EB%94%94-%EC%BC%80%EC%96%B4.html?postCatIds=6%2C200261142%2C200688002%2C201345802%2C201346402%2C201375502%2C201377603' />
+	[76] (648,680)<div  />
+		[77] (648,650)<div  />
+			[78] (648,650)<div  />
+		[79] (648,785)<div >스킨 & 바디 케어 />
+[80] (774,680)<a href='https://ko.aliexpress.com/category/0/%EC%BB%A4%ED%94%BC-%26-%EC%B0%A8-%EB%A9%94%EC%9D%B4%EC%BB%A4.html?postCatIds=6%2C100000138%2C100000139%2C200323151%2C200365148%2C200365149%2C200393147%2C201331209%2C201338704%2C638' />
+	[81] (774,680)<div  />
+		[82] (774,650)<div  />
+			[83] (774,650)<div  />
+		[84] (774,785)<div >커피 & 차 메이커 />
+[85] (900,662)<a href='https://ko.aliexpress.com/category/0/%EA%B5%AC%EA%B0%95-%EA%B4%80%EB%A6%AC.html?postCatIds=6%2C200001328%2C200003960%2C201335508%2C201378001' />
+	[86] (900,662)<div  />
+		[87] (900,650)<div  />
+			[88] (900,650)<div  />
+		[89] (900,768)<div >구강 관리 />
+물 처리 및 디스펜서
+[90] (145,962)<a href='https://ko.aliexpress.com/category/0/%ED%86%B5%ED%95%A9-%EC%A3%BC%EB%B0%A9-%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88.html?postCatIds=6%2C201331306%2C201337405' />
+	[91] (145,962)<div  />
+		[92] (145,933)<div  />
+			[93] (145,933)<div  />
+[94] (271,944)<a href='https://ko.aliexpress.com/category/0/%ED%9E%88%ED%84%B0-%EB%B0%8F-%ED%8C%AC.html?postCatIds=6%2C100000040' />
+	[95] (271,944)<div  />
+		[96] (271,933)<div  />
+			[97] (271,933)<div  />
+[98] (397,933)<div  />
+	[99] (397,933)<div  />
+[100] (523,933)<div  />
+	[101] (523,933)<div  />
+[102] (648,962)<a href='https://ko.aliexpress.com/category/0/%EA%B0%80%EC%A0%84%EC%A0%9C%ED%92%88-%EB%B6%80%ED%92%88-%EB%B0%8F-%EC%95%A1%EC%84%B8%EC%84%9C%EB%A6%AC.html?postCatIds=6%2C100000050%2C100000051%2C100000052%2C100000056%2C100000057%2C100000059%2C100000060%2C100000061%2C100000109%2C100000110%2C100000111%2C100000125%2C100000126%2C100000127%2C100000128' />
+	[103] (648,962)<div  />
+		[104] (648,933)<div  />
+			[105] (648,933)<div  />
+
+</current_dom>

@@ -1,0 +1,15 @@
+# Task: Investigate Syncthing Folders and Failed Items
+
+## Plan
+1. [x] Navigate to http://localhost:8384
+2. [x] List all folders in Syncthing
+3. [x] Verify 'Kevincity Share' absolute path
+4. [x] Check for 'Goodtobehere공유폴더'
+5. [x] Examine 'Failed Items' for 'Kevincity Share'
+6. [ ] Determine why 'Program Files' and 'Recycle Bin' are involved
+7. [ ] Report findings
+
+## Findings
+- Kevincity Share Path: D:\20260412 kevincity share
+- Goodtobehere공유폴더 exists: Not listed as a folder in the UI.
+- Reasons for Program Files/Recycle Bin: Failed items show paths starting with "Program Files\". Since the folder root is "D:\20260412 kevincity share", it implies these files are located inside that folder.

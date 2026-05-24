@@ -1,0 +1,175 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (64,59)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwigg9i02ZGUAxUwjK8BHSdZBFYQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (341,58)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (563,58)<div  />
+	[3] (561,58)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,58)<span  />
+	[5] (578,58)<span  />
+[6] (594,58)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (594,58)<span  />
+[8] (620,58)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (647,58)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (677,58)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (673,58)<div  />
+		[12] (673,58)<span  />
+[13] (910,58)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (942,58)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,58)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DStitch%2BMCP%2Bserver%2Binstallation%2Bguide&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (151,128)<a class='XVMlrc C6AK7c' href='/search?q=Stitch+MCP+server+installation+guide&sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n4GyRfLkkVoJ2I9mVJqDsK8Cpcmqw:1777418907293&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94HEUXHhR7YDEL6uJKgxkcka4CBYYR_iQRHB9W0AJNnk49EIil3clU74JPjYlI5nqmHR3OCagJ2GiywHcxKstv0B28Y7u-UOUQJH8EiP-YYTfgLzgaS3Fh7u_Fmhc4NPaDAgqb8w&aep=1&ntc=1&sa=X&ved=2ahUKEwigg9i02ZGUAxUwjK8BHSdZBFYQ2J8OegQIDhAI' />
+	[17] (151,128)<div  />
+		[18] (151,137)<div  />
+			[19] (151,131)<span >AI 모드 />
+[20] (189,128)<a class='C6AK7c' role='link' />
+	전체
+[21] (226,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n4GyRfLkkVoJ2I9mVJqDsK8Cpcmqw:1777418907293&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94HEUXHhR7YDEL6uJKgxkcka4CBYYR_iQRHB9W0AJNnk49EIil3clU74JPjYlI5nqmHR3OCagJ2GiywHcxKstv0B28Y7u-UOUQJH8EiP-YYTfgLzgaS3Fh7u_Fmhc4NPaDAgqb8w&q=Stitch+MCP+server+installation+guide&sa=X&ved=2ahUKEwigg9i02ZGUAxUwjK8BHSdZBFYQtKgLegQIFBAB' />
+	[22] (226,128)<div  />
+		[23] (226,137)<span >동영상 />
+[24] (268,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n4GyRfLkkVoJ2I9mVJqDsK8Cpcmqw:1777418907293&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94HEUXHhR7YDEL6uJKgxkcka4CBYYR_iQRHB9W0AJNnk49EIil3clU74JPjYlI5nqmHR3OCagJ2GiywHcxKstv0B28Y7u-UOUQJH8EiP-YYTfgLzgaS3Fh7u_Fmhc4NPaDAgqb8w&q=Stitch+MCP+server+installation+guide&sa=X&ved=2ahUKEwigg9i02ZGUAxUwjK8BHSdZBFYQtKgLegQIExAB' />
+	[25] (268,128)<div  />
+		[26] (268,137)<span >이미지 />
+[27] (319,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n4GyRfLkkVoJ2I9mVJqDsK8Cpcmqw:1777418907293&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94HEUXHhR7YDEL6uJKgxkcka4CBYYR_iQRHB9W0AJNnk49EIil3clU74JPjYlI5nqmHR3OCagJ2GiywHcxKstv0B28Y7u-UOUQJH8EiP-YYTfgLzgaS3Fh7u_Fmhc4NPaDAgqb8w&q=Stitch+MCP+server+installation+guide&sa=X&ved=2ahUKEwigg9i02ZGUAxUwjK8BHSdZBFYQs6gLegQIEhAB' />
+	[28] (319,128)<div  />
+		[29] (319,137)<span >짧은 동영상 />
+[30] (366,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n4GyRfLkkVoJ2I9mVJqDsK8Cpcmqw:1777418907293&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94HEUXHhR7YDEL6uJKgxkcka4CBYYR_iQRHB9W0AJNnk49EIil3clU74JPjYlI5nqmHR3OCagJ2GiywHcxKstv0B28Y7u-UOUQJH8EiP-YYTfgLzgaS3Fh7u_Fmhc4NPaDAgqb8w&q=Stitch+MCP+server+installation+guide&ved=1t:220175&ictx=111' />
+	[31] (366,128)<div  />
+		[32] (366,137)<span >쇼핑 />
+[33] (399,128)<a class='C6AK7c' href='/search?sca_esv=666bf1fb673a79dd&sxsrf=ANbL-n4GyRfLkkVoJ2I9mVJqDsK8Cpcmqw:1777418907293&q=Stitch+MCP+server+installation+guide&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzOV28UZ3uQjPzIYYNoWz94HEUXHhR7YDEL6uJKgxkcka4CBYYR_iQRHB9W0AJNnk49EIil3clU74JPjYlI5nqmHR3OCagJ2GiywHcxKstv0B28Y7u-UOUQJH8EiP-YYTfgLzgaS3Fh7u_Fmhc4NPaDAgqb8w&sa=X&ved=2ahUKEwigg9i02ZGUAxUwjK8BHSdZBFYQ0pQJegQIEBAB' />
+	[34] (399,128)<div  />
+		[35] (399,137)<span >뉴스 />
+[36] (442,128)<div class='mTpL7c' role='button' />
+	[37] (442,128)<div  />
+		[38] (442,137)<div  />
+			[39] (436,131)<span >더보기 />
+			[40] (455,131)<span  />
+[41] (491,128)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,128)<div  />
+		[43] (491,137)<div  />
+			[44] (485,131)<span >도구 />
+			[45] (499,131)<span  />
+검색결과
+Web results
+[46] (236,224)<a class='zReHs' href='https://stitch.withgoogle.com/docs/mcp/setup' />
+	[47] (219,249)<h3 >Stitch via MCP - Stitch Docs />
+	[48] (236,210)<div  />
+		[49] (236,210)<div  />
+			[50] (146,210)<span  />
+				[51] (146,210)<div  />
+					[52] (146,210)<img  />
+			[53] (249,210)<div  />
+				[54] (249,200)<div  />
+					[55] (249,200)<span >Stitch />
+				[56] (249,221)<div  />
+					[57] (249,221)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://stitch.withgoogle.com />
+						[58] (299,221)<span class='ylgVCe ob9lvb' role='text'>› docs › mcp › setup />
+[59] (349,220)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[60] (349,220)<span  />
+		[61] (349,221)<span  />
+Connect IDEs and CLIs to Stitch
+using the Model Context Protocol.
+동영상
+[62] (194,342)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[63] (194,342)<span  />
+		[64] (194,343)<span  />
+[65] (407,426)<a class='rIRoqf' href='https://www.youtube.com/watch?v=CkNWMN_Eym8' />
+	[66] (407,426)<div class='V5XKdd' role='heading' />
+		[67] (407,393)<div  />
+			[68] (383,393)<div  />
+				[69] (383,393)<span >How To Connect Stitch To Google Antigravity With MCP ... />
+		[70] (407,448)<div  />
+			[71] (407,448)<div  />
+				[72] (407,435)<span  />
+					[73] (266,435)<span >YouTube />
+					[74] (310,435)<span >N-Educate />
+						[75] (287,435)<span >· />
+				[76] (407,460)<div  />
+					[77] (272,460)<span >2026. 2. 10. />
+[78] (349,434)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[79] (349,434)<span  />
+		[80] (349,435)<span  />
+[81] (185,426)<a aria-label='N-Educate님이 YouTube에 게시한 How To Connect Stitch To Google Antigravity With MCP .... YouTube에서 재생. 5:11' class='rIRoqf' href='https://www.youtube.com/watch?v=CkNWMN_Eym8' />
+	[82] (185,426)<div  />
+		[83] (185,426)<div  />
+			[84] (154,452)<div  />
+				[85] (154,452)<span >5:11 />
+[86] (407,547)<a class='rIRoqf' href='https://www.youtube.com/watch?v=sXZPyIMDFJU' />
+	[87] (407,547)<div class='V5XKdd' role='heading' />
+		[88] (407,514)<div  />
+			[89] (376,514)<div  />
+				[90] (376,514)<span >Google Stitch MCP Just Made Claude Code 10x Better />
+		[91] (407,569)<div  />
+			[92] (407,569)<div  />
+				[93] (407,557)<span  />
+					[94] (266,557)<span >YouTube />
+					[95] (295,557)<span >MG />
+						[96] (287,557)<span >· />
+				[97] (407,581)<div  />
+					[98] (264,581)<span >1개월 전 />
+[99] (320,556)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[100] (320,556)<span  />
+		[101] (320,557)<span  />
+[102] (185,547)<div aria-label='MG님이 YouTube에 게시한 Google Stitch MCP Just Made Claude Code 10x Better. Google에서 재생. 15:29' class='rIRoqf hXY9cf' role='button' />
+	[103] (185,547)<div  />
+		[104] (185,547)<div  />
+			[105] (157,574)<div  />
+				[106] (157,574)<span >15:29 />
+			[107] (222,521)<div  />
+				[108] (222,521)<span  />
+[109] (407,635)<div  />
+	[110] (384,635)<div  />
+		[111] (384,635)<span >How to Connect Google Stitch to Antigravity Using MCP ... />
+[112] (266,678)<span >YouTube />
+[113] (338,678)<span >LightStack Technologies />
+	[114] (287,678)<span >· />
+[115] (407,703)<div  />
+	[116] (269,703)<span >2026. 2. 9. />
+[117] (405,677)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[118] (405,677)<span  />
+		[119] (405,678)<span  />
+[120] (185,668)<div aria-label='LightStack Technologies님이 YouTube에 게시한 How to Connect Google Stitch to Antigravity Using MCP .... Google에서 재생. 12:50' class='rIRoqf hXY9cf' role='button' />
+	[121] (185,668)<div  />
+		[122] (185,668)<div  />
+			[123] (157,695)<div  />
+				[124] (157,695)<span >12:50 />
+			[125] (222,642)<div  />
+				[126] (222,642)<span  />
+[127] (352,755)<div  />
+	[128] (352,755)<a aria-label='모든 동영상 보기' class='jRKCUd' href='/search?sca_esv=666bf1fb673a79dd&udm=7&sxsrf=ANbL-n4GyRfLkkVoJ2I9mVJqDsK8Cpcmqw:1777418907293&q=Stitch+MCP+server+installation+guide&sa=X&ved=2ahUKEwigg9i02ZGUAxUwjK8BHSdZBFYQ8ccDKAJ6BAgYEAQ' />
+		[129] (352,755)<div  />
+			[130] (345,755)<span >모두 보기 />
+			[131] (373,755)<span  />
+웹 검색결과
+[132] (298,854)<a class='zReHs' href='https://blog.naver.com/pjt3591oo/224157842522' />
+	[133] (298,878)<h3 >[stitch] stitch MCP 지원 - gemini cli에서 stitch 사용해보기 />
+	[134] (195,840)<div  />
+		[135] (195,840)<div  />
+			[136] (146,840)<span  />
+				[137] (146,840)<div  />
+					[138] (146,840)<span  />
+			[139] (209,840)<div  />
+				[140] (209,829)<div  />
+					[141] (209,829)<span >Naver Blog />
+				[142] (209,851)<div  />
+					[143] (209,851)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://blog.naver.com />
+						[144] (247,851)<span class='ylgVCe ob9lvb' role='text'>› ... />
+[145] (269,850)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[146] (269,850)<span  />
+		[147] (269,851)<span  />
+2026. 1. 24.
+—
+MCP
+사용 준비.
+stitch
+는 구글에서 만든 도구입니다. 따라서
+stitch
+를 사용하기 위해서는 GCP를 통해 API 키를 발급 및 적절한 권한이 있어야 합니다.
+[148] (254,993)<div  />
+	[149] (254,993)<span >sotaaz.com />
+
+</current_dom>

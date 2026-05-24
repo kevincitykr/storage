@@ -1,0 +1,170 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+최근 검색어
+[3] (587,154)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[4] (587,154)<span >전체삭제 />
+	[5] (587,166)<div  />
+[6] (332,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[7] (332,227)<span >4060 Ti... />
+[8] (417,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[9] (417,227)<span >14700K ... />
+[10] (502,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[11] (502,227)<span >13700F ... />
+최근 가게 검색어
+최근 검색 내역이 없습니다.
+11
+.
+노트북
+12
+.
+4080 super
+13
+.
+5070ti
+14
+.
+레고 커스텀
+15
+.
+스위치 oled
+[12] (666,69)<a href='/search/4060%20Ti%2016GB%20?openChat=true' />
+	[13] (666,69)<div  />
+		[14] (649,69)<div  />
+			[15] (649,69)<img  />
+		[16] (675,69)<span >채팅하기 />
+[17] (732,69)<a href='/product/form?type=regist' />
+	[18] (732,69)<div  />
+		[19] (715,69)<div  />
+			[20] (715,69)<img  />
+		[21] (741,69)<span >판매하기 />
+[22] (790,69)<a href='/mystore' />
+	[23] (790,69)<div  />
+		[24] (781,69)<div  />
+			[25] (781,69)<img  />
+		[26] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[27] (904,329)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[28] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[29] (886,369)<img  />
+검색 상품 가격 요약
+평균 가격
+996,000원
+가장 높은 가격
+1,500,000원
+가장 낮은 가격
+620,000원
+[30] (664,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[31] (664,342)<span >추천순 />
+[32] (701,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[33] (701,342)<span >최신순 />
+[34] (746,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[35] (746,342)<span >낮은가격순 />
+[36] (799,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[37] (799,342)<span >높은가격순 />
+[38] (239,606)<div  />
+	[39] (239,606)<a class='w-full' href='/product/227278329' />
+		[40] (239,606)<div  />
+			[41] (239,529)<div  />
+				[42] (239,529)<div  />
+			[43] (239,744)<div  />
+				[44] (239,726)<div  />
+					[45] (239,706)<span >MSI 지포스 RTX 4060 Ti 벤투스 2X 블랙 OC D6 16GB (VRAM 16G 모델) />
+					[46] (239,756)<div  />
+						[47] (239,756)<div  />
+							[48] (203,756)<span >750,000 />
+							[49] (232,757)<span >원 />
+				[50] (239,799)<div  />
+					[51] (239,799)<div  />
+						[52] (197,799)<div  />
+							[53] (188,799)<div  />
+								[54] (193,799)<span >5 />
+							[55] (207,799)<div  />
+								[56] (213,799)<span >2 />
+						[57] (219,799)<div  />
+						[58] (236,799)<span >16일 전 />
+[59] (369,744)<div  />
+	[60] (369,726)<div  />
+		[61] (369,706)<span >게이밍 PC (RTX 4060 Ti 16GB />
+		[62] (369,756)<div  />
+			[63] (369,756)<div  />
+				[64] (335,756)<span >860,000 />
+				[65] (363,757)<span >원 />
+	[66] (369,799)<div  />
+		[67] (369,799)<div  />
+			[68] (333,799)<div  />
+				[69] (321,799)<div  />
+					[70] (327,799)<span >42 />
+				[71] (345,799)<div  />
+					[72] (351,799)<span >45 />
+[73] (500,743)<div  />
+	[74] (500,726)<div  />
+		[75] (500,706)<span >Khadas Mind Graphics GeForce RTX 4060 Ti 16GB GDDR6 Ada Lovelace 300W AIGC 아키텍처 내장 />
+		[76] (500,756)<div  />
+			[77] (500,756)<div  />
+				[78] (468,756)<span >1,509,710 />
+				[79] (499,757)<span >원 />
+	[80] (500,798)<div  />
+		[81] (500,798)<span >광고 |
+쿠팡 />
+[82] (631,606)<div  />
+	[83] (631,606)<a class='w-full' href='/product/228112917' />
+		[84] (631,606)<div  />
+			[85] (631,529)<div  />
+				[86] (631,529)<div  />
+				[87] (677,631)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[88] (631,744)<div  />
+				[89] (631,726)<div  />
+					[90] (631,706)<span >MSI RTX 4060Ti 16GB 벤투스 OC />
+					[91] (631,756)<div  />
+						[92] (631,756)<div  />
+							[93] (596,756)<span >620,000 />
+							[94] (624,757)<span >원 />
+				[95] (631,799)<div  />
+					[96] (631,799)<div  />
+						[97] (590,799)<div  />
+							[98] (580,799)<div  />
+								[99] (586,799)<span >3 />
+							[100] (599,799)<div  />
+								[101] (605,799)<span >2 />
+						[102] (612,799)<div  />
+						[103] (632,799)<span >14시간 전 />
+[104] (761,606)<div  />
+	[105] (761,606)<a class='w-full' href='/product/228167968' />
+		[106] (761,606)<div  />
+			[107] (761,529)<div  />
+				[108] (761,529)<div  />
+				[109] (807,631)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[110] (761,744)<div  />
+				[111] (761,726)<div  />
+					[112] (761,706)<span >KHADAS 마인드 그래픽 4060ti 16gb egpu />
+					[113] (761,756)<div  />
+						[114] (761,756)<div  />
+							[115] (731,756)<span >1,250,000 />
+							[116] (763,757)<span >원 />
+				[117] (761,799)<div  />
+					[118] (761,799)<div  />
+						[119] (710,799)<div  />
+							[120] (710,799)<div  />
+								[121] (716,799)<span >1 />
+						[122] (722,799)<div  />
+						[123] (736,799)<span >1일 전 />
+[124] (239,971)<div  />
+	[125] (239,971)<div  />
+[126] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[127] (854,907)<div  />
+		[128] (903,907)<div  />
+[129] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[130] (902,799)<span  />
+
+</current_dom>

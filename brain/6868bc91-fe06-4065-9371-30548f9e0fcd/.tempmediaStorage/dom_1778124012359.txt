@@ -1,0 +1,45 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	허브
+	[1] (917,46)<div  />
+		[2] (917,46)<div  />
+			[3] (859,46)<div  />
+			[4] (920,46)<span >kkseob0116@gmail.com />
+	서비스
+	해외구매대행
+	중국, 일본, 미국 등 해외 소싱몰에서 원하는 상품을 수집해, 구매대행 사업을 간편하게 시작하세요!
+	[5] (357,521)<button class='css-yokc4k' />
+		[6] (357,521)<span >서비스로 이동 />
+	국내위탁판매
+	도매매, 오너클랜 등 국내 소싱몰에서 원하는 상품을 수집해, 위탁판매 사업을 간편하게 시작하세요!
+	[7] (643,521)<button class='css-yokc4k' />
+		[8] (643,521)<span >서비스로 이동 />
+	유용한 링크
+	블로그
+	국내 위탁부터 해외구매대행까지 최신 트렌드와 유용한 정보를 얻으세요.
+	[9] (310,886)<button class='css-hx5b3h' />
+		[10] (310,886)<span >더보기 />
+	유튜브
+	대표님들의 생생한 사업 얘기와 꿀팁을 유튜브에서 확인하세요.
+	[11] (500,886)<button class='css-hx5b3h' />
+		[12] (500,886)<span >더보기 />
+	셀러커뮤니티
+	3800명의 대표님이 함께하는 커뮤니티에 참여하고 구매대행 팁 얻어가세요.
+	[13] (690,886)<button class='css-hx5b3h' />
+		[14] (690,886)<span >참여하기 />
+	[15] (927,908)<div  />
+		[16] (927,908)<div  />
+			[17] (940,908)<span >문의 />
+[18] (704,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[19] (704,810)<span >홈 />
+[20] (806,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[21] (806,773)<div  />
+		[22] (814,755)<div  />
+	[23] (806,811)<span >대화 />
+[24] (908,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[25] (908,810)<span >설정 />
+
+</current_dom>

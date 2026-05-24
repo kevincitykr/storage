@@ -1,0 +1,146 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,76)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjYzIOb9Z-UAxUhHNAFHYlKHEcQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,75)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,75)<div  />
+	[3] (561,75)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,75)<span  />
+	[5] (577,75)<span  />
+[6] (593,75)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,75)<span  />
+[8] (619,75)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,75)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,75)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,75)<div  />
+		[12] (670,75)<span  />
+[13] (943,75)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.jp/intl/ko/about/products?tab=wh' role='button' />
+[14] (974,75)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dsite%253Adaangn.com%2B%2522%25ED%2599%2594%25EC%259D%25B4%25ED%258A%25B8%2B%25EA%25B0%2590%25EC%2584%25B1%2BPC%2B%25EB%25B3%25B8%25EC%25B2%25B4%2Bi7-13700F%2BRTX%2B4070%2522%2B%25EB%25A7%259D%25EC%259B%2594%25EB%258F%2599&ec=futura_srp_og_si_72236_p' role='button' />
+[15] (156,164)<a class='XVMlrc C6AK7c' href='/search?q=site:daangn.com+%22%ED%99%94%EC%9D%B4%ED%8A%B8+%EA%B0%90%EC%84%B1+PC+%EB%B3%B8%EC%B2%B4+i7-13700F+RTX+4070%22+%EB%A7%9D%EC%9B%94%EB%8F%99&sca_esv=aa30526fefaab2aa&sxsrf=ANbL-n6-6oUSOU2n9Ab2ojSSBGLmPJTN2Q:1777907406014&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmygSo_q4YpSfiMHyt237r5JNiQIjk0CtYv826gs_Huy_rHVd_kcfEskaig8VHD-hQ_RULyd0UsBVPS42E1r_1VLF9UDc&aep=1&ntc=1&sa=X&ved=2ahUKEwjYzIOb9Z-UAxUhHNAFHYlKHEcQ2J8OegQIDhAD' />
+	[16] (156,164)<div  />
+		[17] (156,177)<div  />
+			[18] (156,169)<span  />
+				[19] (156,169)<span >AI 모드 />
+[20] (194,164)<a class='C6AK7c' role='link' />
+	전체
+[21] (226,164)<a class='C6AK7c' href='/search?sca_esv=aa30526fefaab2aa&sxsrf=ANbL-n6-6oUSOU2n9Ab2ojSSBGLmPJTN2Q:1777907406014&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmygSo_q4YpSfiMHyt237r5JNiQIjk0CtYv826gs_Huy_rHVd_kcfEskaig8VHD-hQ_RULyd0UsBVPS42E1r_1VLF9UDc&q=site:daangn.com+%22%ED%99%94%EC%9D%B4%ED%8A%B8+%EA%B0%90%EC%84%B1+PC+%EB%B3%B8%EC%B2%B4+i7-13700F+RTX+4070%22+%EB%A7%9D%EC%9B%94%EB%8F%99&ved=1t:220175&ictx=111' />
+	[22] (226,164)<div  />
+		[23] (226,177)<span >쇼핑 />
+[24] (263,164)<a class='C6AK7c' href='/search?sca_esv=aa30526fefaab2aa&sxsrf=ANbL-n6-6oUSOU2n9Ab2ojSSBGLmPJTN2Q:1777907406014&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmygSo_q4YpSfiMHyt237r5JNiQIjk0CtYv826gs_Huy_rHVd_kcfEskaig8VHD-hQ_RULyd0UsBVPS42E1r_1VLF9UDc&q=site:daangn.com+%22%ED%99%94%EC%9D%B4%ED%8A%B8+%EA%B0%90%EC%84%B1+PC+%EB%B3%B8%EC%B2%B4+i7-13700F+RTX+4070%22+%EB%A7%9D%EC%9B%94%EB%8F%99&sa=X&ved=2ahUKEwjYzIOb9Z-UAxUhHNAFHYlKHEcQtKgLegQIEBAB' />
+	[25] (263,164)<div  />
+		[26] (263,177)<span >이미지 />
+[27] (304,164)<a class='C6AK7c' href='/search?sca_esv=aa30526fefaab2aa&sxsrf=ANbL-n6-6oUSOU2n9Ab2ojSSBGLmPJTN2Q:1777907406014&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmygSo_q4YpSfiMHyt237r5JNiQIjk0CtYv826gs_Huy_rHVd_kcfEskaig8VHD-hQ_RULyd0UsBVPS42E1r_1VLF9UDc&q=site:daangn.com+%22%ED%99%94%EC%9D%B4%ED%8A%B8+%EA%B0%90%EC%84%B1+PC+%EB%B3%B8%EC%B2%B4+i7-13700F+RTX+4070%22+%EB%A7%9D%EC%9B%94%EB%8F%99&sa=X&ved=2ahUKEwjYzIOb9Z-UAxUhHNAFHYlKHEcQtKgLegQIExAB' />
+	[28] (304,164)<div  />
+		[29] (304,177)<span >동영상 />
+[30] (354,164)<a class='C6AK7c' href='/search?sca_esv=aa30526fefaab2aa&sxsrf=ANbL-n6-6oUSOU2n9Ab2ojSSBGLmPJTN2Q:1777907406014&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmygSo_q4YpSfiMHyt237r5JNiQIjk0CtYv826gs_Huy_rHVd_kcfEskaig8VHD-hQ_RULyd0UsBVPS42E1r_1VLF9UDc&q=site:daangn.com+%22%ED%99%94%EC%9D%B4%ED%8A%B8+%EA%B0%90%EC%84%B1+PC+%EB%B3%B8%EC%B2%B4+i7-13700F+RTX+4070%22+%EB%A7%9D%EC%9B%94%EB%8F%99&sa=X&ved=2ahUKEwjYzIOb9Z-UAxUhHNAFHYlKHEcQs6gLegQIEhAB' />
+	[31] (354,164)<div  />
+		[32] (354,177)<span >짧은 동영상 />
+[33] (400,164)<a class='C6AK7c' href='/search?sca_esv=aa30526fefaab2aa&sxsrf=ANbL-n6-6oUSOU2n9Ab2ojSSBGLmPJTN2Q:1777907406014&q=site:daangn.com+%22%ED%99%94%EC%9D%B4%ED%8A%B8+%EA%B0%90%EC%84%B1+PC+%EB%B3%B8%EC%B2%B4+i7-13700F+RTX+4070%22+%EB%A7%9D%EC%9B%94%EB%8F%99&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmygSo_q4YpSfiMHyt237r5JNiQIjk0CtYv826gs_Huy_rHVd_kcfEskaig8VHD-hQ_RULyd0UsBVPS42E1r_1VLF9UDc&sa=X&ved=2ahUKEwjYzIOb9Z-UAxUhHNAFHYlKHEcQ0pQJegQIERAB' />
+	[34] (400,164)<div  />
+		[35] (400,177)<span >뉴스 />
+[36] (443,164)<div class='mTpL7c' role='button' />
+	[37] (443,164)<div  />
+		[38] (443,177)<div  />
+			[39] (437,169)<span >더보기 />
+			[40] (455,169)<span  />
+[41] (491,164)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,164)<div  />
+		[43] (491,177)<div  />
+			[44] (485,169)<span >도구 />
+			[45] (499,169)<span  />
+검색결과
+웹 검색결과
+[46] (301,292)<a class='zReHs' href='https://www.daangn.com/kr/buy-sell/%ED%99%94%EC%9D%B4%ED%8A%B8-%EA%B0%90%EC%84%B1-pc-%EB%B3%B8%EC%B2%B4-i7-13700f-rtx-4070-sie8nqizs7vt/' />
+	[47] (301,320)<h3 >화이트 감성 PC 본체 (i7-13700F, RTX 4070) | 디지털기기 />
+	[48] (247,269)<div  />
+		[49] (247,269)<div  />
+			[50] (151,269)<span  />
+				[51] (151,269)<div  />
+					[52] (151,269)<img  />
+			[53] (260,269)<div  />
+				[54] (260,256)<div  />
+					[55] (260,256)<span >당근 />
+				[56] (260,283)<div  />
+					[57] (260,283)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[58] (302,283)<span class='ylgVCe ob9lvb' role='text'>› buy-sell › 화이트-감성-pc-... />
+[59] (365,282)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[60] (365,282)<span  />
+		[61] (365,283)<span  />
+3일 전
+—
+화이트 감성 PC 본체 (i7-13700F, RTX 4070
+)1,600,000원.
+망월동
+· 14시간 후. thumbnail. 크리에이티브 사운드 블래스터X G6140,000원.
+망월동
+· 14시간 후.
+₩1,600,000
+·
+재고 있음
+이미지
+[62] (208,734)<div  />
+	[63] (208,734)<div  />
+		[64] (208,734)<div  />
+			[65] (208,734)<div  />
+				[66] (208,698)<div  />
+					[67] (208,698)<div class='kwICDb DfMusf xZGX9 y9pG6d TCMM9e' role='button' />
+						[68] (208,698)<div  />
+							[69] (208,698)<div  />
+								[70] (208,698)<img  />
+						[71] (208,804)<div  />
+							2일 전
+				화이트 감성 PC 본체 (i7-13700F, RTX 4070)
+				당근마켓
+				[72] (270,890)<div  />
+					[73] (272,890)<div  />
+						[74] (272,890)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[75] (270,890)<span  />
+								[76] (270,890)<span  />
+[77] (354,734)<div  />
+	[78] (354,734)<div  />
+		[79] (354,734)<div  />
+			[80] (354,734)<div  />
+				[81] (354,698)<div  />
+					[82] (354,698)<div class='kwICDb DfMusf xZGX9 y9pG6d TCMM9e' role='button' />
+						[83] (354,698)<div  />
+							[84] (354,698)<div  />
+								[85] (354,698)<img  />
+						[86] (354,804)<div  />
+							3일 전
+				화이트 감성 PC 본체 (i7-13700F, RTX 4070) | 디지털기기 ...
+				당근마켓
+				[87] (415,890)<div  />
+					[88] (418,890)<div  />
+						[89] (418,890)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[90] (415,890)<span  />
+								[91] (415,890)<span  />
+[92] (500,734)<div  />
+	[93] (500,734)<div  />
+		[94] (500,734)<div  />
+			[95] (500,734)<div  />
+				[96] (500,698)<div  />
+					[97] (500,698)<div class='kwICDb DfMusf xZGX9 y9pG6d TCMM9e' role='button' />
+						[98] (500,698)<div  />
+							[99] (500,698)<div  />
+								[100] (500,698)<img  />
+						[101] (500,804)<div  />
+							4일 전
+				화이트 감성 PC 본체 (i7-13700F, RTX 4070) | 디지털기기 ...
+				당근마켓
+				[102] (561,890)<div  />
+					[103] (564,890)<div  />
+						[104] (564,890)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[105] (561,890)<span  />
+								[106] (561,890)<span  />
+[107] (354,971)<div class='p8FEIf MmMIvd jRKCUd' role='button' />
+	[108] (354,971)<div  />
+		[109] (348,971)<span  />
+			[110] (345,970)<span >이미지 더보기 />
+		[111] (383,971)<span  />
+
+</current_dom>

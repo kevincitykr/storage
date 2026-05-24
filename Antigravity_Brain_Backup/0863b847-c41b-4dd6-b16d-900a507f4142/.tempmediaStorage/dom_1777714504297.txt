@@ -1,0 +1,156 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (52,35)<a href='../main/main.htm' />
+	[1] (52,35)<img  />
+[2] (213,35)<div class='search_bar' />
+	[3] (197,35)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (306,35)<button aria-label='검색' class='search28_3A' />
+[5] (913,35)<a href='javascript:void(0);'>로그인 />
+[6] (944,35)<a href='../member/member_kind.htm'>회원가입 />
+[7] (977,35)<a href='javascript:void(0);'>상담센터 />
+[8] (21,92)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[9] (56,94)<a href='javascript:void(0);'>조립PC />
+[10] (83,94)<a href='javascript:void(0);'>견적 />
+[11] (113,94)<a href='../hotsale/hotsale.htm?bannerid=GNBBannerHotsale'>파격할인 />
+[12] (150,94)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[13] (189,94)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[14] (224,94)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[15] (270,94)<a href='javascript:void(0);'>컴퓨존추천 />
+[16] (307,94)<a href='javascript:void(0);'>전용관 />
+[17] (337,94)<a href='javascript:void(0);'>매거진 />
+[18] (370,94)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[19] (400,94)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[20] (437,94)<a href='javascript:void(0);'>컴퓨존 라이브 />
+[21] (539,92)<div  />
+	[22] (485,92)<p >공식 />
+	[23] (542,92)<div  />
+	[24] (595,92)<i  />
+[25] (927,81)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[26] (927,103)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[27] (950,99)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[28] (979,99)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[29] (969,684)<a href='javascript:void(0);' />
+	[30] (961,684)<span  />
+		[31] (961,684)<img  />
+	[32] (977,684)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+HP노트북
+마스터팩
+Dell
+배민5만원
+황야의
+아스널
+[33] (969,773)<a href='../event_zone/eventzone_view.htm?EventNo=60847&bannerid=QuickMenuRolling' />
+	[34] (969,773)<img  />
+	[35] (969,793)<p >어린이날
+드론 특가 />
+야르하네
+[36] (955,827)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+5
+/
+5
+[37] (982,827)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[38] (969,859)<p class='ntRB12 co6C'>최근 본 상품 />
+[39] (969,899)<a href='javascript:;' />
+	[40] (969,899)<img  />
+[41] (957,959)<a href='javascript:void(0);' />
+	[42] (957,959)<img  />
+[43] (980,959)<a href='javascript:void(0);' />
+	[44] (980,959)<img  />
+연관검색어
+[45] (210,154)<a href='javascript:direct_search_form_submit('rtx 4060 ti'); '>rtx 4060 ti />
+[46] (246,213)<a href='javascript:searchTopMenu(27,'RTX 4060 Ti','','all','small','sale_order',20,0,1,1,'','','',0,0,'','','');'>제품 />
+	[47] (255,215)<em >(27) />
+[48] (415,213)<a href='javascript:search_none();'>이벤트 />
+	[49] (428,215)<em >(0) />
+[50] (585,213)<a href='javascript:search_none();'>기획전 />
+	[51] (597,215)<em >(0) />
+[52] (754,213)<a href='javascript:search_none();'>파격할인 />
+	[53] (770,215)<em >(0) />
+카테고리
+[54] (229,339)<dd id='cate_list_0'>전체 />
+	[55] (190,339)<em >(27) />
+[56] (229,375)<dd class='on' id='cate_list_1'>컴퓨터 부품 />
+	[57] (208,375)<em >(11) />
+[58] (232,411)<li  />
+	[59] (205,411)<label class='medi_div_label'>그래픽카드 />
+		[60] (176,411)<span  />
+		[61] (221,411)<em >(11) />
+[62] (229,448)<dd id='cate_list_2'>데스크탑ㆍ조립PC />
+	[63] (224,448)<em >(4) />
+[64] (229,485)<dd id='cate_list_3'>중고ㆍ리퍼비시 />
+	[65] (217,485)<em >(1) />
+[66] (229,521)<dd id='cate_list_4'>서버ㆍ워크스테이션 />
+	[67] (229,521)<em >(11) />
+제조사
+[68] (800,285)<ul  />
+	[69] (783,285)<li class='arran_on'>상품수순 />
+	[70] (817,285)<li >가나다순 />
+[71] (339,341)<label class='chkMedium2'>GIGABYTE (3) />
+	[72] (320,340)<i  />
+[73] (418,341)<label class='chkMedium2'>GALAX (3) />
+	[74] (404,340)<i  />
+[75] (504,341)<label class='chkMedium2'>INNO3D (1) />
+	[76] (488,340)<i  />
+[77] (584,341)<label class='chkMedium2'>ASUS (1) />
+	[78] (572,340)<i  />
+[79] (666,341)<label class='chkMedium2'>PNY (1) />
+	[80] (656,340)<i  />
+[81] (753,341)<label class='chkMedium2'>MANLI (1) />
+	[82] (740,340)<i  />
+[83] (336,378)<label class='chkMedium2'>Colorful (1) />
+	[84] (320,377)<i  />
+[85] (180,682)<label >가격대 />
+[86] (221,682)<input id='MinPrice_input' />
+~
+[87] (279,682)<input id='MaxPrice_input' />
+[88] (347,681)<label >결과 내 재검색 />
+[89] (409,683)<input class='bsearch_Name' id='reSearchText' />
+[90] (469,683)<span class='bsearch_btn'>검색 />
+[91] (595,686)<label class='leftchk chkMedium2 delivery_search' />
+	[92] (595,684)<i  />
+[93] (621,684)<b  />
+	[94] (627,684)<label >1시간픽업 />
+[95] (648,684)<a class='qu_over' />
+[96] (680,686)<label class='chkMedium2 cpz_deli'>컴퓨존 배송 />
+	[97] (663,683)<i  />
+[98] (725,686)<label class='chkMedium2'>무료배송 />
+	[99] (712,683)<i  />
+[100] (764,686)<label class='chkMedium2'>이벤트 />
+	[101] (754,683)<i  />
+[102] (809,686)<label class='chkMedium2'>재고없음 제외 />
+	[103] (789,683)<i  />
+[104] (187,738)<label >선택한 속성 />
+[105] (801,738)<a class='breset_btn' href='javascript:mid_cate_view(0);reset();'>초기화 />
+	[106] (803,738)<span  />
+[107] (205,797)<a href='javascript:mid_cate_view(1);search_ajax_list("",$.cookie("search_SearchText"),"sale_order",20,0,1,0,4,"","","",$.cookie("search_MinPrice"),$.cookie("search_MaxPrice"),$.cookie("search_MidArray"),"","","","",$.cookie("stock_check_N"),$.cookie("evt_check"),$.cookie("freight_check"),$.cookie("compuzone_delivery"),$.cookie("quick_pickup"))'>컴퓨터 부품 />
+(총
+11
+개의 상품)
+[108] (696,798)<a class='disp_list list_over' href='javascript:search_ajax_list('small','RTX 4060 Ti','sale_order',20,0,1,0,'4','','0','',0,0,'11|/|그래픽카드|1016|11','','','','','','','','','undefined');' id='disp_list_btn' />
+[109] (681,798)<a class='disp_img' href='javascript:search_ajax_list('small','RTX 4060 Ti','sale_order',20,0,1,1,'4','','0','',0,0,'11|/|그래픽카드|1016|11','','','','','','','','','undefined');' id='disp_img_btn' />
+[110] (637,798)<a class='btn' href='javascript:show_select(4);' id='PreOrderA4' />
+	[111] (632,798)<span >판매량순 />
+[112] (232,978)<a class='prd_info_main_img' href='../product/product_detail.htm?ProductNo=1180510&BigDivNo=4&MediumDivNo=1016&DivNo=2043' id='prd_info_main_img_1180510' />
+	[113] (232,978)<img  />
+[114] (417,868)<a class='prd_info_name prdTxt' href='../product/product_detail.htm?ProductNo=1180510&BigDivNo=4&MediumDivNo=1016&DivNo=2043'>[PNY] [한성] PNY GeForce RTX 4060 Ti XLR8 Gaming OC D6 8GB Dual />
+[115] (425,930)<a href='../product/product_detail.htm?ProductNo=1180510&BigDivNo=&MediumDivNo=1016&DivNo=2043'>PNY,그래픽카드,RTX 4060 Ti OC / RTX4060Ti / PCI Express 4.0 x16 / 8GB / GDDR6 / 128bit / 1개 / 3개 / DisplayPortx3개 / HDMIx1개 / 8Pin / VGA231~250mm / 방열판+팬(일반) / 팬2개 />
+네이버 포인트
+업체직배송-무료
+[116] (693,867)<span class='compare_bt no-drag VT ' />
+	[117] (687,867)<span  />
+	[118] (698,867)<p >비교 />
+[119] (615,905)<span >재입고 알림 />
+	[120] (598,905)<span  />
+[121] (669,905)<span class='similar_pd_btn_L'>비슷한 상품 />
+	[122] (652,905)<span  />
+입고예정일 : 01월07일
+[123] (778,895)<a href='../event_zone/eventzone_view.htm?EventNo=61056&bannerid=SearchPageRightBanner3' />
+	[124] (778,893)<img  />
+
+</current_dom>

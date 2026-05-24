@@ -1,0 +1,76 @@
+서버 CPU
+CPU
+[0] (353,230)<input id='Search_free' />
+무료배송
+[1] (418,230)<input id='Search_Event' />
+행사제품보기
+총
+12
+건
+[2] (307,307)<input id='SearchKeyword' />
+[3] (363,309)<a href='javascript:search_keyword();' />
+[4] (433,307)<select  />
+[5] (259,806)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[6] (65,466)<a class='imgbox' href='javascript:detail_show('1108547')' title='[제품코드:1108547]' />
+	[7] (221,487)<a class='imgbox' href='javascript:detail_show('1108547')'>인텔(소켓1700) / 20코어 / 28쓰레드 / 기본 클럭: 2.1GHz / 최대 클럭: 5.4GHz / 캐시: 33MB / PBP: 65W / 메모리 규격: DDR4 / 3200MHz / DDR5 / 5600MHz / 내장그래픽: 탑재 / 랩터레이크 리프레시 / 코어 i7 / 벌크 (쿨러 미포함) />
+		[8] (221,434)<b >[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함][1108547] />
+	판매가격
+	576,000
+	[9] (451,492)<a class='buttons' href='javascript:check_delete_product_ls('1108547','N')' id='basket1108547' />
+		[10] (451,492)<span >해제 />
+	[11] (65,686)<a class='imgbox' href='javascript:detail_show('1108566')' title='[제품코드:1108566]' />
+	[12] (221,708)<a class='imgbox' href='javascript:detail_show('1108566')'>인텔(소켓1700) / 20코어 / 28쓰레드 / 기본 클럭: 2.1GHz / 최대 클럭: 5.4GHz / 캐시: 33MB / PBP: 65W / 메모리 규격: DDR4 / 3200MHz / DDR5 / 5600MHz / 내장그래픽: 미지원 / 랩터레이크 리프레시 / 코어 i7 / 벌크 (쿨러 미포함) />
+		[13] (221,654)<b >[INTEL] [병행] 코어 i7-14700F (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함][1108566] />
+	판매가격
+	478,000
+	[14] (451,712)<a class='buttons' href='javascript:select_basket('1108566','N',1);' id='basket1108566' />
+		[15] (451,712)<span >담기 />
+	[16] (65,907)<a class='imgbox' href='javascript:detail_show('1108568')' title='[제품코드:1108568]' />
+	[17] (221,928)<a class='imgbox' href='javascript:detail_show('1108568')'>인텔(소켓1700) / 20코어 / 28쓰레드 / 기본 클럭: 2.1GHz / 최대 클럭: 5.4GHz / 캐시: 33MB / PBP: 65W / 메모리 규격: DDR4 / 3200MHz / DDR5 / 5600MHz / 내장그래픽: 미지원 / 랩터레이크 리프레시 / 코어 i7 / 벌크 (쿨러 포함) />
+		[18] (221,875)<b >[INTEL] [병행] 코어 i7-14700F (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 포함][1108568] />
+	판매가격
+	500,800
+	담기
+총 견적금액
+1,326,150
+원
+[19] (536,307)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[20] (565,307)<input  />
+[21] (594,307)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[22] (658,307)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[23] (658,308)<span >전체수량변경 />
+[24] (546,418)<label  />
+	[25] (528,417)<span  />
+		[26] (528,418)<input  />
+	[27] (554,417)<span >전체선택 />
+[28] (713,417)<a class='wbtn' href='javascript:add_wish_list();' />
+	[29] (713,418)<span >관심상품추가 />
+[30] (774,417)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[31] (774,418)<span >장바구니담기 />
+[32] (833,417)<a class='wbtn' />
+	[33] (833,418)<span >견적서출력 />
+[34] (891,417)<a class='wbtn' href='javascript:speck_form();' />
+	[35] (891,418)<span >사양검토요청 />
+[36] (942,417)<a class='wbtn' href='javascript:sess_init();'>초기화 />
+	초기화
+[37] (529,509)<label  />
+	[38] (529,508)<span  />
+		[39] (528,511)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[40] (563,508)<span >인텔 병행수입 />
+[41] (640,561)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+1,152,000
+[42] (873,540)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[43] (896,540)<input class='change__ea' id='Amount_1108547' />
+[44] (919,540)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[45] (529,656)<label  />
+	[46] (529,656)<span  />
+		[47] (528,658)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[48] (565,656)<span >인텔 소켓 1700 />
+[49] (640,696)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[50] (690,697)<i  />
+판매가격
+174,150
+[51] (873,675)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[52] (896,675)<input class='change__ea' id='Amount_1118926' />
+[53] (919,675)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />

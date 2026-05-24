@@ -1,0 +1,57 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (14,23)<a class='link_naver sp_blog' href='http://www.naver.com'>NAVER />
+[1] (31,23)<a class='link_blog sp_blog' href='https://blog.naver.com'>블로그 />
+[2] (72,23)<a class='link_user_blog' href='https://blog.naver.com/PostList.naver?blogId=antsal' />
+	[3] (72,23)<strong >한입 재테크 />
+[4] (915,24)<fieldset  />
+	[5] (884,24)<label class='label_text_box' id='this_blog_search_placeholder'>이 블로그에서 검색 />
+	[6] (967,24)<a aria-label='검색' class='btn_search' href='#' id='this_blog_floating_search_btn' role='button' />
+		[7] (967,24)<i  />
+[8] (988,24)<a aria-label='카테고리 열기' class='btn_category floating_area_btn_category' href='#' role='button' />
+	[9] (988,23)<span  />
+		[10] (988,19)<i  />
+		[11] (988,24)<i  />
+		[12] (987,30)<i  />
+[13] (17,974)<a class='u_likeit_button _face off' href='#' role='button' />
+	[14] (17,974)<span  />
+[15] (44,974)<button class='other_reaction' />
+	[16] (44,974)<span class='u_likeit_button _face off' href='#' role='button'>공감
+134 />
+		공감
+		134
+[17] (96,974)<a class='btn_comment _floating_bottom_btn_comment _param(1|1|224201393432|0|true)' href='#' id='btn_comment_2' role='button' />
+	[18] (77,974)<i  />
+	[19] (97,973)<span  />
+		[20] (91,974)<em >댓글 />
+		[21] (104,974)<em >11 />
+	[22] (115,970)<i  />
+		[23] (114,970)<span  />
+[24] (987,975)<a class='naver-splugin btn_splugin share' href='#' id='spiButton' />
+[25] (552,42)<a class='link_area' href='https://g.tivan.naver.com/gfa/DzxRjrrGdpxAfz3_lqrPBOinqMXK6hyvIgFW227lrEkWdtryrQMZFJXobcMX0UP6CTEW9irmGeutdSsSZ93of6RCgyPJ-yUs4-cWEcOuhp7aYsz79UdpQ39thUis70Gq4E0rPGpzffuqrb8e1Y_MBqdNijbGaQerTtFFZ_p6OcEucpBG5JZHmDk9eUMUp_5kRimG3wvN8rp1iMcFT71w3Z59KI4N_mqbfQh7CcDUzGqspygJGuaYEtG_lk5C5Oh39x4uz-7gN7bgP_07LCbH7MVNzMTbkIXrMiz4cdeuUY0CianJ06bkLwcZ9yCIz2V247eVGgXPxBeiEhVV3GDLavMa2NA2tPQJhaWVU-JX0P1tbCYUGRWdbOwotdC3SBedUzW_U-ZARBvxqLYDIScAshcdTUYSfyufYvFoRHBUasn2_F1CqPN1skjVqZSaRfgV-MLsc2aCg6tnUu52kbS9dHMMz54q0Z0kaMeImoByZKEc4fDhJQHQIhkiGfe8xcDg8CsRfzZs_5cMvk5cHw_ZHSHCS_jJDOboT7j1Yxo8MPSeU0APFg3KqsD_wpefxbrB9SCJoKyf8evoALCWTgCKYrWQDPYqcMsL4X4EHXaz7yqcUknXT9-3gZGapcGNdFpqirSb26V_Q-HZ5PNE3Y3pR2jWjF5XX_NM8xi0kGC9gae7ccKwoNexnnXTWYi83mL7LjwZNsuGcyJLqCzTRSXnZef416auNBCsv7WxK9J1NfwIsZkcUZmuCJfP2iQ82xxDwswlcMIjI2cMCpHABU6kFjDUF-eWQRmA3gyUCPoO1fypQK02ql5QRhe3kZemiv-Wsn4z8JjMw7jhQIXwI609mDm-Qi4TBAoDd4nGuj0B-gAE5FaDUnO1io9b1U62P_39QnLTd0dxAbjKX3ixn6Hu36jTU5gfMTZag3NWP0mudDI8xn9_z7InoI5t_zbObfEiBeOHEmyQVm2pkW8eE7tySw2dZjnxnSp0u3UGNgnS_rC-2VJxbn2cw0PyUwIT5swbOd9k4-NytyN0bq3yp-XzSryKB_sAEamhlV256pqlZwNbOHQIrik5-UPFVtWVx73HpdGU6Siw4Xd700n-CdbkFMC4QYdhj0McdUfLtjqEM3nidZRndChDO_Xn--MOSjJu9eSru4rebLUigT9Vc1J25vZuc7h7uha3G9Ic4Ti6SNBaOJ6SFBddvRhD3YFCCXRD4UuGo52-TAV9Z1hKuRCoAjAO7S5RnZnhJbkqMA9sAl840dYGgQvLODbyrge22j_fFTC2UXYxTlH-Z_VpjG77kSqktnC0wCKc4GIkJ-lrl0IHTCqKp_mkWD7uhOsUlay-qlPdSpbvRwK2hoFufi423n917w1qlt3AyANpnEM-H2g8LlC3fgTpy1Vcopk0x_mNwPM0fJERQV1-vHEGbQyLcfzsQursPzb6avkqHcP1N-2ih67GZiCdLKitHHvmbu8rMH_FdY18WN999-RGGbrhzCNR_tfS30XbslIcKAYbvNgdd9NJZlV05Q-t3bXCoLTL2thxj6oXGbJLMH3Y7ncqG7MbisrKEAuxz99JCcxfdxl4Wq-U8Xo-qy8opp0be0oT1vumFoHnjNpla7RTahme-RdOulwzu5_DRwp7IesHmqU9RXzxP9XQPbAVhaHIYHd2GCUbq7rJeXIPV7zDKuTLchv7DRgKGFe7NCoAOUoONFWMTOPk627Rqbu6KA4FIQKzMibl9CB7kprf0OFjJjuguw==/' />
+	[26] (552,42)<div  />
+		[27] (435,42)<div  />
+			[28] (435,42)<img  />
+		[29] (618,42)<div  />
+			[30] (618,42)<div  />
+				[31] (618,49)<div  />
+					[32] (618,49)<div  />
+						[33] (618,-4)<div  />
+							[34] (584,-4)<strong >천명의 소녀를 조혼에서 구하는 키링 />
+						[35] (618,23)<p >위드베어 키링과 함께 조혼 위기 소녀를 구해요! />
+						[36] (618,47)<p >키링도 예쁘고, 의미있게 />
+						[37] (618,91)<div  />
+							[38] (520,91)<div  />
+								[39] (520,91)<img  />
+							[40] (544,91)<span >월드비전 />
+							[41] (692,91)<div >더 알아보기 />
+[42] (725,-32)<button class='ad_mark' />
+	[43] (725,-32)<span >AD, 광고 닫기 />
+[44] (495,454)<a class='se-module-image-link __se_image_link __se_link' />
+	[45] (495,454)<img  />
+4. 지역 반응
+현재 3차 민생지원금 대상 지자체들의 반응은 그야말로 뜨겁습니다. 남해군의 경우 전체 인구 4만여 명 중 무려 3만 6,805명이 신청을 마쳤고, 옥천군 또한 4만 6,500명이 넘는 주민이 신청을 완료했습니다.
+
+</current_dom>

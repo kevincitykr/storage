@@ -1,0 +1,116 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (945,46)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[1] (977,46)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_1a gb_2' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://notebooklm.google.com/&ec=GBRAmgU' role='button' />
+[2] (25,46)<a aria-label='NotebookLM 홈페이지' class='logo-link' href='/' />
+	[3] (25,46)<labs-tailwind-logo  />
+		[4] (25,46)<img  />
+[5] (112,46)<input class='title-input mat-title-large ng-untouched ng-pristine ng-valid' />
+[6] (766,46)<button aria-label='노트북 만들기' class='mdc-button mat-mdc-button-base create-notebook-button mat-tonal-button mat-unthemed ng-star-inserted'>add />
+	add
+	노트북 만들기
+[7] (845,46)<button aria-label='노트북 공유' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button extendable-button-extended mat-unthemed'>share />
+	share
+	공유
+[8] (901,46)<button aria-label='설정' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button extendable-button-extended mat-unthemed'>settings />
+	settings
+	설정
+Tags:
+[9] (73,134)<button class='inline-flex items-center gap-0.5 px-2 py-0.5 text-xs font-medium rounded-full border border-dashed text-gray-500 hover:text-gray-700 hover:bg-gray-100 border-gray-300' />
+	[10] (78,134)<span >Add />
+No tags yet
+출처
+[11] (243,209)<button aria-label='소스 패널 접기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger toggle-source-panel-button label-medium-button ng-tns-c1370865089-0 mat-unthemed' />
+	[12] (243,209)<mat-icon class='mat-icon notranslate material-symbols-outlined google-symbols mat-icon-no-color' role='img'>dock_to_right />
+[13] (133,297)<button aria-label='출처 추가' class='mdc-button mat-mdc-button-base mat-mdc-tooltip-trigger add-source-button ng-tns-c2656230561-2 mdc-button--outlined mat-mdc-outlined-button mat-unthemed'>add
+소스 추가 />
+	add
+	소스 추가
+search
+[14] (139,385)<textarea aria-label='입력된 질문을 기반으로 소스 검색' class='mat-mdc-input-element cdk-textarea-autosize query-box-textarea ng-untouched ng-pristine ng-invalid mat-mdc-form-field-textarea-control mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored' id='mat-input-0' placeholder='웹에서 새 소스를 검색하세요' />
+[15] (52,448)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger corpus-select corpus-menu-trigger mat-mdc-button mat-unthemed' />
+	language
+	웹
+	keyboard_arrow_down
+[16] (127,448)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger corpus-select researcher-menu-trigger mat-mdc-button mat-unthemed' />
+	search_spark
+	Fast Research
+	keyboard_arrow_down
+arrow_forward
+모든 소스 선택
+[17] (231,518)<div  />
+	[18] (231,518)<input aria-label='모든 출처 선택' class='mdc-checkbox__native-control' id='mat-mdc-checkbox-0-input' />
+[19] (133,617)<div  />
+	[20] (133,617)<button aria-label='붙여넣은 텍스트' class='source-stretched-button ng-tns-c2656230561-2' />
+	[21] (34,617)<div  />
+		[22] (34,617)<div  />
+			[23] (34,617)<div  />
+				description
+	붙여넣은 텍스트
+	[24] (231,617)<div  />
+		[25] (231,617)<div  />
+			[26] (231,617)<mat-progress-spinner class='mat-mdc-progress-spinner mdc-circular-progress loading-spinner ng-tns-c2656230561-2 mat-primary mdc-circular-progress--indeterminate' role='progressbar' />
+				[27] (231,617)<div  />
+					[28] (231,617)<div  />
+						[29] (228,613)<div  />
+						[30] (235,620)<div  />
+[31] (260,572)<div  />
+채팅
+[32] (692,209)<button aria-label='노트북 구성' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger configure-settings-button label-medium-button ng-tns-c1370865089-0 mat-unthemed ng-star-inserted' />
+	[33] (692,209)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>tune />
+[34] (718,209)<button aria-label='채팅 옵션' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger label-medium-button ng-tns-c1370865089-0 mat-unthemed ng-star-inserted' />
+	[35] (718,209)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>more_vert />
+[36] (309,355)<span >📔 />
+[37] (683,332)<button aria-label='노트북 맞춤설정' class='mdc-button mat-mdc-button-base mat-mdc-tooltip-trigger customize-button mat-label-medium mdc-button--outlined mat-mdc-outlined-button mat-unthemed mat-mdc-tooltip-disabled ng-star-inserted'>photo_spark />
+	photo_spark
+	맞춤설정
+Untitled notebook
+소스 1개
+·
+2026. 4. 20.
+소스 0개
+arrow_forward
+[38] (740,572)<div  />
+스튜디오
+[39] (978,209)<button aria-label='스튜디오 패널 접기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger toggle-studio-panel-button label-medium-button ng-tns-c1370865089-0 mat-unthemed ng-star-inserted' />
+	[40] (978,209)<mat-icon class='mat-icon notranslate material-symbols-outlined mat-icon-rtl-mirror google-symbols mat-icon-no-color' role='img'>dock_to_left />
+[41] (811,308)<div aria-label='AI 오디오 오버뷰' class='mat-mdc-tooltip-trigger blue create-artifact-button-container disabled-tile mat-label-medium' role='button' />
+	audio_magic_eraser
+	AI 오디오 오버뷰
+[42] (927,308)<div aria-label='슬라이드 자료' class='mat-mdc-tooltip-trigger create-artifact-button-container disabled-tile mat-label-medium yellow' role='button' />
+	tablet
+	슬라이드 자료
+[43] (811,401)<div aria-label='동영상 개요' class='mat-mdc-tooltip-trigger create-artifact-button-container disabled-tile green mat-label-medium' role='button' />
+	subscriptions
+	동영상 개요
+[44] (927,401)<div aria-label='마인드맵' class='mat-mdc-tooltip-trigger create-artifact-button-container disabled-tile mat-label-medium pink' role='button' />
+	flowchart
+	마인드맵
+[45] (811,493)<div aria-label='보고서' class='mat-mdc-tooltip-trigger create-artifact-button-container disabled-tile mat-label-medium yellow' role='button' />
+	auto_tab_group
+	보고서
+[46] (927,493)<div aria-label='플래시카드' class='mat-mdc-tooltip-trigger create-artifact-button-container disabled-tile mat-label-medium orange' role='button' />
+	cards_star
+	플래시카드
+[47] (811,585)<div aria-label='퀴즈' class='mat-mdc-tooltip-trigger create-artifact-button-container cyan disabled-tile mat-label-medium' role='button' />
+	quiz
+	퀴즈
+[48] (927,585)<div aria-label='인포그래픽' class='mat-mdc-tooltip-trigger create-artifact-button-container disabled-tile mat-label-medium pink' role='button' />
+	stacked_bar_chart
+	인포그래픽
+[49] (811,677)<div aria-label='데이터 표' class='mat-mdc-tooltip-trigger blue create-artifact-button-container disabled-tile mat-label-medium' role='button' />
+	table_view
+	데이터 표
+edit_fix_auto
+스튜디오 출력이 여기에 저장됩니다
+소스를 추가한 후 클릭하여 AI 오디오 오버뷰, 학습 가이드, 마인드맵 등을 추가해 보세요.
+[50] (869,916)<button class='mdc-button mat-mdc-button-base add-note-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed'>sticky_note_2
+메모 추가 />
+	sticky_note_2
+	메모 추가
+NotebookLM이 부정확한 정보를 표시할 수 있으므로 대답을 다시 한번 확인하세요.
+
+</current_dom>

@@ -1,0 +1,588 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 콘텐츠
+[0] (20,35)<ytcp-icon-button aria-label='메뉴 접기' class='ytcpAppHeaderCollapseExpandIcon' role='button' />
+	[1] (20,35)<yt-icon  />
+		[2] (20,35)<span  />
+			[3] (20,35)<div  />
+[4] (65,40)<a class='style-scope ytcp-home-button' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='home-button' title='YouTube 스튜디오 대시보드' />
+	[5] (65,33)<img  />
+[6] (500,35)<input class='style-scope ytcp-omnisearch' id='query-input' placeholder='채널에서 검색하기' />
+[7] (856,35)<ytcp-icon-button aria-label='도움말' class='ytcpAppHeaderHelpIcon' role='button' />
+	[8] (856,35)<yt-icon  />
+		[9] (856,35)<span  />
+			[10] (856,35)<div  />
+[11] (877,35)<ytcp-icon-button aria-label='Ask Studio' role='button' />
+	[12] (877,35)<yt-icon  />
+		[13] (877,35)<span  />
+			[14] (877,35)<div  />
+[15] (898,35)<ytcp-icon-button aria-label='알림' role='button' />
+	[16] (898,35)<yt-icon  />
+		[17] (898,35)<span  />
+			[18] (898,35)<div  />
+[19] (937,35)<button aria-label='만들기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--outline ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>만들기 />
+	만들기
+	[20] (937,35)<yt-touch-feedback-shape  />
+		[21] (937,35)<div  />
+[22] (979,35)<button aria-label='Account' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[23] (979,35)<yt-img-shadow  />
+		[24] (979,35)<img  />
+내 채널
+Melodist Seoul
+[25] (66,325)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='menu-item-0' role='menuitem' />
+	[26] (66,325)<tp-yt-paper-icon-item class='dashboard style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-0' role='none' />
+		[27] (19,325)<div  />
+			[28] (19,325)<yt-icon  />
+				[29] (19,325)<span  />
+					[30] (19,325)<div  />
+		[31] (52,325)<div >대시보드 />
+[32] (66,378)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/videos/upload' id='menu-item-1' role='menuitem' />
+	[33] (66,378)<tp-yt-paper-icon-item class='iron-selected style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-1' role='none' />
+		[34] (19,378)<div  />
+			[35] (19,378)<yt-icon  />
+				[36] (19,378)<span  />
+					[37] (19,378)<div  />
+		[38] (48,378)<div >콘텐츠 />
+[39] (66,430)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/analytics/tab-overview/period-default' id='menu-item-2' role='menuitem' />
+	[40] (66,430)<tp-yt-paper-icon-item class='analytics style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-2' role='none' />
+		[41] (19,430)<div  />
+			[42] (19,430)<yt-icon  />
+				[43] (19,430)<span  />
+					[44] (19,430)<div  />
+		[45] (45,430)<div >분석 />
+[46] (66,483)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/comments/inbox' id='menu-item-3' role='menuitem' />
+	[47] (66,483)<tp-yt-paper-icon-item class='comments style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-3' role='none' />
+		[48] (19,483)<div  />
+			[49] (19,483)<yt-icon  />
+				[50] (19,483)<span  />
+					[51] (19,483)<div  />
+		[52] (52,483)<div >커뮤니티 />
+[53] (66,536)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/translations' id='menu-item-4' role='menuitem' />
+	[54] (66,536)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-4' role='none' />
+		[55] (19,536)<div  />
+			[56] (19,536)<yt-icon  />
+				[57] (19,536)<span  />
+					[58] (19,536)<div  />
+		[59] (45,536)<div >자막 />
+[60] (66,588)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/copyright' id='menu-item-5' role='menuitem' />
+	[61] (66,588)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-5' role='none' />
+		[62] (19,588)<div  />
+			[63] (19,588)<yt-icon  />
+				[64] (19,588)<span  />
+					[65] (19,588)<div  />
+		[66] (56,588)<div >콘텐츠 감지 />
+[67] (66,641)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/monetization/overview' id='menu-item-6' role='menuitem' />
+	[68] (66,641)<tp-yt-paper-icon-item class='attach-money-icon style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-6' role='none' />
+		[69] (19,641)<div  />
+			[70] (19,641)<yt-icon  />
+				[71] (19,641)<span  />
+					[72] (19,641)<div  />
+		[73] (53,641)<div >수익 창출 />
+[74] (66,694)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/editing/profile' id='menu-item-7' role='menuitem' />
+	[75] (66,694)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-7' role='none' />
+		[76] (19,694)<div  />
+			[77] (19,694)<yt-icon  />
+				[78] (19,694)<span  />
+					[79] (19,694)<div  />
+		[80] (52,694)<div >맞춤설정 />
+[81] (66,746)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/music' id='menu-item-8' role='menuitem' />
+	[82] (66,746)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-8' role='none' />
+		[83] (19,746)<div  />
+			[84] (19,746)<yt-icon  />
+				[85] (19,746)<span  />
+					[86] (19,746)<div  />
+		[87] (60,746)<div >오디오 보관함 />
+[88] (66,912)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='settings-item' role='button' />
+	[89] (19,912)<div  />
+		[90] (19,912)<yt-icon  />
+			[91] (19,912)<span  />
+				[92] (19,912)<div  />
+	[93] (45,912)<div >설정 />
+[94] (66,965)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='send-feedback-item' role='button' />
+	[95] (19,965)<div  />
+		[96] (19,965)<yt-icon  />
+			[97] (19,965)<span  />
+				[98] (19,965)<div  />
+	[99] (56,965)<div >의견 보내기 />
+[100] (567,535)<main class='style-scope ytcp-entity-page' id='main' scrollable='true' />
+	[101] (164,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='inspiration-tab' role='tab' />
+		[102] (164,113)<div  />
+			[103] (164,113)<ytcp-ve class='style-scope ytcp-content-section' role='none'>아이디어 />
+	[104] (212,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-uploads-tab' role='tab' />
+		[105] (212,113)<div >동영상 />
+	[106] (258,113)<tp-yt-paper-tab class='style-scope ytcp-content-section iron-selected' id='video-list-shorts-tab' role='tab' />
+		[107] (258,113)<div  />
+			[108] (258,113)<ytcp-ve class='style-scope ytcp-content-section' role='none'>Shorts />
+	[109] (304,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-live-tab' role='tab' />
+		[110] (304,113)<div  />
+			[111] (304,113)<ytcp-ve class='style-scope ytcp-content-section' role='none'>라이브 />
+	[112] (350,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='content-list-post-tab' role='tab' />
+		[113] (350,113)<div  />
+			[114] (350,113)<ytcp-ve class='style-scope ytcp-content-section' role='none'>게시물 />
+	[115] (397,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='playlist-list-tab' role='tab' />
+		[116] (397,113)<div  />
+			[117] (397,113)<ytcp-ve class='style-scope ytcp-content-section' role='none'>재생목록 />
+	[118] (447,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='podcast-list-tab' role='tab' />
+		[119] (447,113)<div  />
+			[120] (447,113)<ytcp-ve class='style-scope ytcp-content-section' role='none'>팟캐스트 />
+	[121] (495,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='courses-list-tab' role='tab' />
+		[122] (495,113)<div  />
+			[123] (495,113)<ytcp-ve class='style-scope ytcp-content-section' role='none'>강의 />
+	[124] (542,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='content-list-promotions-tab' role='tab' />
+		[125] (542,113)<div  />
+			[126] (542,113)<ytcp-ve class='style-scope ytcp-content-section' role='none' />
+				[127] (542,113)<div  />
+					[128] (542,113)<span >프로모션 />
+	[129] (599,113)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-collabs-tab' role='tab' />
+		[130] (599,113)<div  />
+			[131] (599,113)<ytcp-ve class='style-scope ytcp-content-section' role='none'>컬래버레이션 />
+	[132] (564,167)<ytcp-filter-bar  />
+		[133] (154,167)<yt-icon  />
+			[134] (154,167)<span  />
+				[135] (154,167)<div  />
+		[136] (583,167)<ytcp-chip-bar  />
+			[137] (583,167)<div  />
+				[138] (583,167)<input class='text-input style-scope ytcp-chip-bar' id='text-input' placeholder='필터' />
+	[139] (154,223)<ytcp-checkbox-lit  />
+		[140] (154,220)<div  />
+			[141] (154,220)<div  />
+				[142] (154,220)<div  />
+					[143] (154,220)<div  />
+	Shorts 동영상
+	공개 상태
+	제한사항
+	[144] (688,219)<button aria-label='정렬 기준: 날짜' class='header-name remove-default-style style-scope ytcp-table-header' id='date-header-name' />
+		[145] (683,219)<span >날짜 />
+		[146] (695,219)<yt-icon  />
+			[147] (695,219)<span  />
+				[148] (695,219)<div  />
+	[149] (798,219)<button aria-label='정렬 기준: 조회수' class='header-name remove-default-style style-scope ytcp-table-header' id='views-header-name' />
+		[150] (798,219)<span >조회수 />
+	댓글
+	좋아요(싫어요 대비)
+	1:00
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+지친 퇴근길, 당신의 하루를 토닥여주는 노래
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다. ✨🎶
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+어디서나 Melodist Seoul의 음악이 당신의 하루를 응원합니다.
+
+[자세히 보기] - Tracklist
+--------------------------------------------------
+🎧 Premium Tracks:
+01. Silent Sonatas - Piano Solo
+02. Speakeasy Serenade - Jazz Guitar
+03. Seoul Rain Canvas - Lo-fi Beat
+04. Zen Petals - Calm Zen
+... and more 72-track masterpieces for your rest.
+-------------------------------
+	0:31
+	[Melodist Seoul] 숨겨진 명곡들, 여기서 다 찾았습니다.
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+숨겨진 명곡들, 여기서 다 찾았습니다.
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다. ✨🎶
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+어디서나 Melodist Seoul의 음악이 당신의 하루를 응원합니다.
+
+[자세히 보기] - Tracklist
+--------------------------------------------------
+🎧 Premium Tracks:
+01. Silent Sonatas - Piano Solo
+02. Speakeasy Serenade - Jazz Guitar
+03. Seoul Rain Canvas - Lo-fi Beat
+04. Zen Petals - Calm Zen
+... and more 72-track masterpieces for your rest.
+----------------------------------
+	공개
+	없음
+	2026. 4. 2.
+	게시됨
+	146
+	1
+	–
+	1:00
+	[Melodist Seoul] 우연히 들었는데... 어깨가 들썩~
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+우연히 들었는데... 어깨가 들썩~
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다. ✨🎶
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+어디서나 Melodist Seoul의 음악이 당신의 하루를 응원합니다.
+
+[자세히 보기] - Tracklist
+--------------------------------------------------
+🎧 Premium Tracks:
+01. Silent Sonatas - Piano Solo
+02. Speakeasy Serenade - Jazz Guitar
+03. Seoul Rain Canvas - Lo-fi Beat
+04. Zen Petals - Calm Zen
+... and more 72-track masterpieces for your rest.
+------------------------------------
+	공개
+	없음
+	2026. 4. 2.
+	게시됨
+	379
+	1
+	100.0%
+	좋아요 1개
+	[151] (154,257)<ytcp-checkbox-lit  />
+	[152] (202,256)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/RMUgqbuuSro/edit' id='thumbnail-anchor' />
+		[153] (202,256)<div  />
+			[154] (202,256)<ytcp-thumbnail  />
+				[155] (202,256)<div  />
+					[156] (202,256)<ytcp-img-with-fallback  />
+						[157] (202,256)<div  />
+							[158] (202,256)<img  />
+					[159] (223,278)<div  />
+						[160] (223,278)<div >1:00 />
+	[Melodist Seoul] 오전 10시, 커피 향과 함께 스며드는 리듬 ☕
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+오전 10시, 커피 향과 함께 스며드는 리듬 ☕
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다. ✨🎶
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+어디서나 Melodist Seoul의 음악이 당신의 하루를 응원합니다.
+
+[자세히 보기] - Tracklist
+--------------------------------------------------
+🎧 Premium Tracks:
+01. Silent Sonatas - Piano Solo
+02. Speakeasy Serenade - Jazz Guitar
+03. Seoul Rain Canvas - Lo-fi Beat
+04. Zen Petals - Calm Zen
+... and more 72-track masterpieces for your rest.
+-----------------------------
+	공개
+	없음
+	2026. 4. 1.
+	게시됨
+	456
+	[161] (852,259)<a aria-label='동영상에 2개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/RMUgqbuuSro/comments'>2 />
+	100.0%
+	좋아요 9개
+	[162] (154,350)<ytcp-checkbox-lit  />
+		[163] (154,324)<div  />
+			[164] (154,324)<div  />
+				[165] (154,324)<div  />
+					[166] (154,324)<div  />
+	[167] (202,348)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/onzpRgLa1cA/edit' id='thumbnail-anchor' />
+		[168] (202,348)<div  />
+			[169] (202,348)<ytcp-thumbnail  />
+				[170] (202,348)<div  />
+					[171] (202,348)<ytcp-img-with-fallback  />
+						[172] (202,348)<div  />
+							[173] (202,348)<img  />
+					[174] (223,370)<div  />
+						[175] (223,370)<div >1:00 />
+	[176] (352,328)<a aria-label='[Melodist Seoul] 조용히 사색하고 싶을 때 스며드는 멜로디' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/onzpRgLa1cA/edit' id='video-title' />
+		[177] (324,328)<span >[Melodist Seoul] 조용히 사색하고 싶을 때 스며드는 멜로디 />
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+조용히 사색하고 싶을 때 스며드는 멜로디
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다.
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+카페에서, 드라이브 중에, 공부하며, 혹은 지친 하루의 끝… 언제 어디서나 Melodist Seoul의 음악이 함께합니다. ✨💜🎶
+
+[자세히 보기]
+--------------------------------------------------
+🎧 Playlist Tracks:
+- Silent Sonatas
+- Speakeasy Serenade
+- Seoul Rain Canvas
+- Zen Petals
+- Aegean Horizon
+- Arctic Bloom
+- Hearth & Harmony
+- Island Breeze Echoes
+- Rue de la Pluie
+- Samba do Silêncio
+- Velvet W
+	[178] (526,326)<div  />
+		[179] (488,326)<yt-icon  />
+			[180] (488,326)<span  />
+				[181] (488,326)<div  />
+		[182] (504,326)<span >공개 />
+	없음
+	2026. 3. 12.
+	게시됨
+	49
+	[183] (852,351)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/onzpRgLa1cA/comments'>0 />
+	100.0%
+	좋아요 2개
+	[184] (154,442)<ytcp-checkbox-lit  />
+		[185] (154,416)<div  />
+			[186] (154,416)<div  />
+				[187] (154,416)<div  />
+					[188] (154,416)<div  />
+	[189] (202,440)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/_MPJXdfBPu4/edit' id='thumbnail-anchor' />
+		[190] (202,440)<div  />
+			[191] (202,440)<ytcp-thumbnail  />
+				[192] (202,440)<div  />
+					[193] (202,440)<ytcp-img-with-fallback  />
+						[194] (202,440)<div  />
+							[195] (202,440)<img  />
+					[196] (223,462)<div  />
+						[197] (223,462)<div >0:31 />
+	[198] (352,420)<a aria-label='[Melodist Seoul] 당신의 감성을 1% 더해줄 완벽한 사운드' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/_MPJXdfBPu4/edit' id='video-title' />
+		[199] (322,420)<span >[Melodist Seoul] 당신의 감성을 1% 더해줄 완벽한 사운드 />
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+당신의 감성을 1% 더해줄 완벽한 사운드
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다.
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+카페에서, 드라이브 중에, 공부하며, 혹은 지친 하루의 끝… 언제 어디서나 Melodist Seoul의 음악이 함께합니다. ✨💜🎶
+
+[자세히 보기]
+--------------------------------------------------
+🎧 Playlist Tracks:
+- Silent Sonatas
+- Speakeasy Serenade
+- Seoul Rain Canvas
+- Zen Petals
+- Aegean Horizon
+- Arctic Bloom
+- Hearth & Harmony
+- Island Breeze Echoes
+- Rue de la Pluie
+- Samba do Silêncio
+- Velvet W
+	[200] (526,418)<div  />
+		[201] (488,418)<yt-icon  />
+			[202] (488,418)<span  />
+				[203] (488,418)<div  />
+		[204] (504,418)<span >공개 />
+	없음
+	2026. 3. 12.
+	게시됨
+	139
+	[205] (852,443)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/_MPJXdfBPu4/comments'>0 />
+	100.0%
+	좋아요 3개
+	[206] (154,534)<ytcp-checkbox-lit  />
+		[207] (154,508)<div  />
+			[208] (154,508)<div  />
+				[209] (154,508)<div  />
+					[210] (154,508)<div  />
+	[211] (202,532)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/GGtTXau41sM/edit' id='thumbnail-anchor' />
+		[212] (202,532)<div  />
+			[213] (202,532)<ytcp-thumbnail  />
+				[214] (202,532)<div  />
+					[215] (202,532)<ytcp-img-with-fallback  />
+						[216] (202,532)<div  />
+							[217] (202,532)<img  />
+					[218] (223,554)<div  />
+						[219] (223,554)<div >0:31 />
+	[220] (352,513)<a aria-label='[Melodist Seoul] 공부에 집중이 안 될 때, 마법처럼 찾아오는 몰입' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/GGtTXau41sM/edit' id='video-title' />
+		[221] (332,512)<span >[Melodist Seoul] 공부에 집중이 안 될 때, 마법처럼 찾아오는 몰입 />
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+공부에 집중이 안 될 때, 마법처럼 찾아오는 몰입
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다.
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+카페에서, 드라이브 중에, 공부하며, 혹은 지친 하루의 끝… 언제 어디서나 Melodist Seoul의 음악이 함께합니다. ✨💜🎶
+
+[자세히 보기]
+--------------------------------------------------
+🎧 Playlist Tracks:
+- Silent Sonatas
+- Speakeasy Serenade
+- Seoul Rain Canvas
+- Zen Petals
+- Aegean Horizon
+- Arctic Bloom
+- Hearth & Harmony
+- Island Breeze Echoes
+- Rue de la Pluie
+- Samba do Silêncio
+- Vel
+	[222] (526,510)<div  />
+		[223] (488,510)<yt-icon  />
+			[224] (488,510)<span  />
+				[225] (488,510)<div  />
+		[226] (504,510)<span >공개 />
+	없음
+	2026. 3. 12.
+	게시됨
+	81
+	[227] (852,535)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/GGtTXau41sM/comments'>0 />
+	100.0%
+	좋아요 1개
+	[228] (154,626)<ytcp-checkbox-lit  />
+		[229] (154,600)<div  />
+			[230] (154,600)<div  />
+				[231] (154,600)<div  />
+					[232] (154,600)<div  />
+	[233] (202,625)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/E9gkn135n9s/edit' id='thumbnail-anchor' />
+		[234] (202,625)<div  />
+			[235] (202,625)<ytcp-thumbnail  />
+				[236] (202,625)<div  />
+					[237] (202,625)<ytcp-img-with-fallback  />
+						[238] (202,625)<div  />
+							[239] (202,625)<img  />
+					[240] (223,647)<div  />
+						[241] (223,647)<div >0:31 />
+	[242] (352,605)<a aria-label='[Melodist Seoul] 나만 알고 싶은 보물 같은 선율 ✨' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/E9gkn135n9s/edit' id='video-title' />
+		[243] (314,604)<span >[Melodist Seoul] 나만 알고 싶은 보물 같은 선율 ✨ />
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+나만 알고 싶은 보물 같은 선율 ✨
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다.
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+카페에서, 드라이브 중에, 공부하며, 혹은 지친 하루의 끝… 언제 어디서나 Melodist Seoul의 음악이 함께합니다. ✨💜🎶
+
+[자세히 보기]
+--------------------------------------------------
+🎧 Playlist Tracks:
+- Silent Sonatas
+- Speakeasy Serenade
+- Seoul Rain Canvas
+- Zen Petals
+- Aegean Horizon
+- Arctic Bloom
+- Hearth & Harmony
+- Island Breeze Echoes
+- Rue de la Pluie
+- Samba do Silêncio
+- Velvet Whis
+	[244] (526,603)<div  />
+		[245] (488,603)<yt-icon  />
+			[246] (488,603)<span  />
+				[247] (488,603)<div  />
+		[248] (504,603)<span >공개 />
+	없음
+	2026. 3. 12.
+	게시됨
+	78
+	[249] (852,627)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/E9gkn135n9s/comments'>0 />
+	100.0%
+	좋아요 1개
+	[250] (154,718)<ytcp-checkbox-lit  />
+		[251] (154,693)<div  />
+			[252] (154,693)<div  />
+				[253] (154,693)<div  />
+					[254] (154,693)<div  />
+	[255] (202,717)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/9JgLLgs-Nq8/edit' id='thumbnail-anchor' />
+		[256] (202,717)<div  />
+			[257] (202,717)<ytcp-thumbnail  />
+				[258] (202,717)<div  />
+					[259] (202,717)<ytcp-img-with-fallback  />
+						[260] (202,717)<div  />
+							[261] (202,717)<img  />
+					[262] (223,739)<div  />
+						[263] (223,739)<div >0:31 />
+	[264] (352,697)<a aria-label='[Melodist Seoul] 나만 알고 싶은 보물 같은 선율 ✨' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/9JgLLgs-Nq8/edit' id='video-title' />
+		[265] (314,696)<span >[Melodist Seoul] 나만 알고 싶은 보물 같은 선율 ✨ />
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+나만 알고 싶은 보물 같은 선율 ✨
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다.
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+카페에서, 드라이브 중에, 공부하며, 혹은 지친 하루의 끝… 언제 어디서나 Melodist Seoul의 음악이 함께합니다. ✨💜🎶
+
+[자세히 보기]
+--------------------------------------------------
+🎧 Playlist Tracks:
+- Silent Sonatas
+- Speakeasy Serenade
+- Seoul Rain Canvas
+- Zen Petals
+- Aegean Horizon
+- Arctic Bloom
+- Hearth & Harmony
+- Island Breeze Echoes
+- Rue de la Pluie
+- Samba do Silêncio
+- Velvet Whis
+	[266] (526,695)<div  />
+		[267] (488,695)<yt-icon  />
+			[268] (488,695)<span  />
+				[269] (488,695)<div  />
+		[270] (504,695)<span >공개 />
+	없음
+	2026. 3. 12.
+	게시됨
+	199
+	[271] (852,720)<a aria-label='동영상에 2개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/9JgLLgs-Nq8/comments'>2 />
+	100.0%
+	좋아요 3개
+	[272] (154,811)<ytcp-checkbox-lit  />
+		[273] (154,785)<div  />
+			[274] (154,785)<div  />
+				[275] (154,785)<div  />
+					[276] (154,785)<div  />
+	[277] (202,809)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/-bJnlvmmAr8/edit' id='thumbnail-anchor' />
+		[278] (202,809)<div  />
+			[279] (202,809)<ytcp-thumbnail  />
+				[280] (202,809)<div  />
+					[281] (202,809)<ytcp-img-with-fallback  />
+						[282] (202,809)<div  />
+							[283] (202,809)<img  />
+					[284] (223,831)<div  />
+						[285] (223,831)<div >0:16 />
+	[286] (352,789)<a aria-label='[Melodist Seoul] 드라이브 갈 때 딱! 기분 전환 100% 보장 🚗' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/-bJnlvmmAr8/edit' id='video-title' />
+		[287] (328,789)<span >[Melodist Seoul] 드라이브 갈 때 딱! 기분 전환 100% 보장 🚗 />
+	#MelodistSeoul #플레이리스트 #Playlist #감성음악
+
+드라이브 갈 때 딱! 기분 전환 100% 보장 🚗
+당신의 모든 순간을 특별하게 만들어 줄 Melodist Seoul의 플레이리스트입니다.
+
+세련된 리듬과 감미로운 멜로디로 지친 일상을 감성으로 채워보세요. 
+카페에서, 드라이브 중에, 공부하며, 혹은 지친 하루의 끝… 언제 어디서나 Melodist Seoul의 음악이 함께합니다. ✨💜🎶
+
+[자세히 보기]
+--------------------------------------------------
+🎧 Playlist Tracks:
+- Silent Sonatas
+- Speakeasy Serenade
+- Seoul Rain Canvas
+- Zen Petals
+- Aegean Horizon
+- Arctic Bloom
+- Hearth & Harmony
+- Island Breeze Echoes
+- Rue de la Pluie
+- Samba do Silêncio
+- Ve
+	[288] (526,787)<div  />
+		[289] (488,787)<yt-icon  />
+			[290] (488,787)<span  />
+				[291] (488,787)<div  />
+		[292] (511,787)<span >일부 공개 />
+	없음
+	2026. 3. 12.
+	업로드 날짜
+	1
+	[293] (852,812)<a aria-label='동영상에 0개의 댓글이 있습니다. 동영상 댓글 페이지' class='remove-default-style comments-link style-scope ytcp-video-row' href='/video/-bJnlvmmAr8/comments'>0 />
+	–
+	페이지당 행 수:
+	[294] (806,881)<ytcp-dropdown-trigger class=' style-scope ytcp-text-dropdown-trigger style-scope ytcp-text-dropdown-trigger' role='button' />
+		[295] (806,881)<div class='borderless container style-scope ytcp-dropdown-trigger style-scope ytcp-dropdown-trigger' role='button' />
+			[296] (790,881)<div  />
+				[297] (789,881)<div  />
+			[298] (795,881)<div  />
+				[299] (795,876)<span >30 />
+			[300] (813,881)<div  />
+				[301] (816,881)<yt-icon  />
+					[302] (816,881)<span  />
+						[303] (816,881)<div  />
+	10개 중 1~10
+	[304] (897,881)<ytcp-icon-button aria-label='첫 페이지로 이동' class='rtl-flip style-scope ytcp-table-footer' id='navigate-first' role='button' />
+	[305] (922,881)<ytcp-icon-button aria-label='이전 페이지로 이동' class='style-scope ytcp-table-footer' id='navigate-before' role='button' />
+	[306] (947,881)<ytcp-icon-button aria-label='다음 페이지로 이동' class='style-scope ytcp-table-footer' id='navigate-after' role='button' />
+	[307] (972,881)<ytcp-icon-button aria-label='마지막 페이지로 이동' class='rtl-flip style-scope ytcp-table-footer' id='navigate-last' role='button' />
+
+</current_dom>

@@ -1,0 +1,33 @@
+node_modules/
+out/
+*.vsix
+.vscode-test/
+preview.html
+.DS_Store
+
+# Binaries
+*.exe
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Media
+*.mp4
+*.png
+*.webp
+*.jpg
+*.jpeg
+*.safetensors
+*.ckpt
+*.bin
+*.pth
+*.pt
+*.onnx
+
+# AI Engines
+Local_AI_Engines/
+*.dll
+*.pyd
+*.lib
+*.so
