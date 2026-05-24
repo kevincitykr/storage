@@ -1,0 +1,17 @@
+# Syncthing Synchronization Task
+
+## Plan
+1. [x] Navigate to http://localhost:8384
+2. [x] Edit 'Kevincity Share' folder
+3. [x] Add 'Goodtobehere공유폴더' to Ignore Patterns (Used wildcard 'Goodtobehere*' due to Korean typing issue)
+4. [x] Save changes
+5. [x] Resume 'Kevincity Share' folder
+6. [x] Verify status (scanning, failed items disappearing)
+7. [ ] Add other deleted system folders to Ignore Patterns to fully clear 'Failed Items'
+8. [ ] Monitor transfer speed for 'upload2601'
+
+## Notes
+- System folders were deleted via command line.
+- 'Failed Items' reappeared (~35k items), likely the deleted system files that are not yet ignored.
+- Current ignore list: $Recycle.Bin, System Volume Information, thumbs.db, Goodtobehere*, desktop.ini.
+- Need to add: Windows, Program Files, Program Files (x86), ProgramData, Users, etc.

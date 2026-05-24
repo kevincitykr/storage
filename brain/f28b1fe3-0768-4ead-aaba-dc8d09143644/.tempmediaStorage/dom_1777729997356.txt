@@ -1,0 +1,27 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (257,790)<a class='num on' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','2036','recommand','','1313**10801**1개|1316**84654**5600MHz (PC5-44800)|4408**52573**삼성전자','N|N',0,1);'>1 />
+인텔 병행수입
+[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함]
+판매가격
+576,000
+[1] (529,156)<label  />
+	[2] (529,155)<span  />
+		[3] (528,157)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[4] (565,155)<span >인텔 소켓 1700 />
+[5] (640,195)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[6] (690,196)<i  />
+판매가격
+174,150
+[7] (873,174)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[8] (896,174)<input class='change__ea' id='Amount_1118926' />
+[9] (919,174)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />
+[10] (944,174)<span class='delete' />
+[11] (258,993)<a href='../get_price/get_price.htm' />
+	[12] (258,993)<img  />
+[13] (742,993)<a href='../exc_event/discount_PC.htm' />
+	[14] (742,993)<img  />
+
+</current_dom>

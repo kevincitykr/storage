@@ -1,0 +1,174 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (21,36)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[1] (93,90)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (93,90)<span  />
+		[3] (85,90)<span  />
+			[4] (85,90)<div  />
+				[5] (24,90)<div  />
+				[6] (44,90)<div  />
+					[7] (44,90)<span >main />
+[8] (190,90)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[9] (106,135)<span  />
+	[10] (22,135)<span  />
+	[11] (111,135)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+[12] (101,405)<div  />
+	[13] (101,184)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.github-item' role='treeitem' />
+		[14] (101,184)<div  />
+			[15] (16,184)<div  />
+			[16] (106,184)<div  />
+				[17] (32,184)<div  />
+					[18] (32,184)<div  />
+				[19] (114,184)<span  />
+					[20] (57,184)<span >.github />
+	[21] (101,220)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs-item' role='treeitem' />
+		[22] (101,220)<div  />
+			[23] (16,220)<div  />
+			[24] (106,220)<div  />
+				[25] (32,220)<div  />
+					[26] (32,220)<div  />
+				[27] (114,220)<span  />
+					[28] (52,220)<span >docs />
+	[29] (101,256)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[30] (101,256)<div  />
+			[31] (16,256)<div  />
+			[32] (106,256)<div  />
+				[33] (32,256)<div  />
+					[34] (32,256)<div  />
+				[35] (114,256)<span  />
+					[36] (48,256)<span >src />
+	[37] (101,293)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tests-item' role='treeitem' />
+		[38] (101,293)<div  />
+			[39] (16,293)<div  />
+			[40] (106,293)<div  />
+				[41] (32,292)<div  />
+					[42] (32,292)<div  />
+				[43] (114,293)<span  />
+					[44] (52,293)<span >tests />
+	[45] (101,329)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.claude_settings.json-item' role='treeitem' />
+		[46] (101,329)<div  />
+			[47] (106,329)<div  />
+				[48] (32,329)<div  />
+				[49] (114,329)<span  />
+					[50] (84,329)<span >.claude_settings.json />
+	[51] (101,365)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[52] (101,365)<div  />
+			[53] (106,365)<div  />
+				[54] (32,365)<div  />
+				[55] (114,365)<span  />
+					[56] (62,365)<span >.gitignore />
+	[57] (101,401)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CHANGELOG.md-item' role='treeitem' />
+		[58] (101,401)<div  />
+			[59] (106,401)<div  />
+				[60] (32,401)<div  />
+				[61] (114,401)<span  />
+					[62] (77,401)<span >CHANGELOG.md />
+	[63] (101,437)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CLAUDE.md-item' role='treeitem' />
+		[64] (101,437)<div  />
+			[65] (106,437)<div  />
+				[66] (32,437)<div  />
+				[67] (114,437)<span  />
+					[68] (67,437)<span >CLAUDE.md />
+	[69] (101,473)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='GEMINI.md-item' role='treeitem' />
+		[70] (101,473)<div  />
+			[71] (106,473)<div  />
+				[72] (32,473)<div  />
+				[73] (114,473)<span  />
+					[74] (66,473)<span >GEMINI.md />
+	[75] (101,509)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[76] (101,509)<div  />
+			[77] (106,509)<div  />
+				[78] (32,509)<div  />
+				[79] (114,509)<span  />
+					[80] (59,509)<span >LICENSE />
+	[81] (101,545)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[82] (101,545)<div  />
+			[83] (106,545)<div  />
+				[84] (32,545)<div  />
+				[85] (114,545)<span  />
+					[86] (68,545)<span >README.md />
+	[87] (101,582)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pyproject.toml-item' role='treeitem' />
+		[88] (101,582)<div  />
+			[89] (106,582)<div  />
+				[90] (32,581)<div  />
+				[91] (114,582)<span  />
+					[92] (72,582)<span >pyproject.toml />
+	[93] (101,618)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='uv.lock-item' role='treeitem' />
+		[94] (101,618)<div  />
+			[95] (106,618)<div  />
+				[96] (32,618)<div  />
+				[97] (114,618)<span  />
+					[98] (56,618)<span >uv.lock />
+[99] (212,500)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[100] (271,25)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/notebooklm-mcp/tree/main'>notebooklm-mcp />
+/
+README.md
+[101] (964,25)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[102] (964,25)<span  />
+		[103] (971,25)<span >Top />
+File metadata and controls
+[104] (254,75)<button class='prc-SegmentedControl-Button-E48xz' />
+	[105] (254,75)<span  />
+		[106] (254,75)<div >Preview />
+[107] (299,75)<button class='prc-SegmentedControl-Button-E48xz' />
+	[108] (299,75)<span  />
+		[109] (299,75)<div >Code />
+[110] (340,75)<button class='prc-SegmentedControl-Button-E48xz' />
+	[111] (340,75)<span  />
+		[112] (340,75)<div >Blame />
+194 lines (127 loc) · 9.5 KB
+[113] (865,75)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/wonseokjung/notebooklm-mcp/raw/refs/heads/main/README.md' />
+	[114] (865,75)<span  />
+		[115] (865,75)<span >Raw />
+[116] (887,75)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[117] (905,75)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[118] (946,75)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_2c_' />
+[119] (969,75)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+MCP 설정
+⚠️
+문맥 창(Context Window) 주의:
+이 MCP는
+31개의 도구
+를 제공하므로 문맥 창을 많이 차지할 수 있습니다. NotebookLM을 적극적으로 사용하지 않을 때는 MCP를 비활성화하여 다른 작업의 문맥을 확보하는 것이 좋습니다.
+CLI 옵션
+[120] (262,151)<a aria-label='Permalink: CLI 옵션' class='anchor' href='#cli-옵션' id='user-content-cli-옵션' />
+명령줄 인수를 사용하여 서버를 설정할 수 있습니다. 전송 프로토콜(stdio, http, sse), 포트, 호스트, 디버그 모드, 쿼리 타임아웃 등을 설정할 수 있습니다.
+환경 변수
+[121] (262,251)<a aria-label='Permalink: 환경 변수' class='anchor' href='#환경-변수' id='user-content-환경-변수' />
+환경 변수를 통해서도 설정이 가능합니다. (
+NOTEBOOKLM_MCP_TRANSPORT
+,
+NOTEBOOKLM_MCP_PORT
+등)
+AI 도구 연결 (Claude Code, Gemini CLI, IDE 등)
+[122] (262,351)<a aria-label='Permalink: AI 도구 연결 (Claude Code, Gemini CLI, IDE 등)' class='anchor' href='#ai-도구-연결-claude-code-gemini-cli-ide-등' id='user-content-ai-도구-연결-claude-code-gemini-cli-ide-등' />
+Claude Code나 Gemini CLI와 같은 도구는 내장된 명령어를 통해 MCP 서버를 쉽게 추가할 수 있습니다.
+Cursor, VS Code, Claude Desktop 등 JSON 설정 파일을 사용하는 도구의 경우, 설치된
+notebooklm-mcp
+의 경로를 찾아 설정 파일의
+mcpServers
+항목에 추가해야 합니다.
+활용 예시
+[123] (262,524)<a aria-label='Permalink: 활용 예시' class='anchor' href='#활용-예시' id='user-content-활용-예시' />
+Claude Code, Cursor, Gemini CLI 등의 AI 도구와 자연어로 대화하며 다음과 같이 활용할 수 있습니다.
+조사 및 탐색
+[124] (262,637)<a aria-label='Permalink: 조사 및 탐색' class='anchor' href='#조사-및-탐색' id='user-content-조사-및-탐색' />
+"내 모든 NotebookLM 노트북 목록을 보여줘"
+"'AI 전략 연구'라는 새 노트북을 만들어줘"
+"'기업 AI ROI 지표'에 대해 웹 조사를 시작하고 찾은 소스를 보여줘"
+"'클라우드 마켓플레이스 트렌드'에 대해 심층 조사를 수행하고 상위 10개 소스를 가져와줘"
+"내 구글 드라이브에서 '제품 로드맵' 관련 문서를 검색해서 노트북을 만들어줘"
+콘텐츠 추가
+[125] (262,863)<a aria-label='Permalink: 콘텐츠 추가' class='anchor' href='#콘텐츠-추가' id='user-content-콘텐츠-추가' />
+"이 URL을 내 노트북에 추가해줘:
+[126] (503,908)<a href='https://example.com/article'>https://example.com/article />
+"
+"쿠버네티스에 관한 이 유튜브 영상을 노트북에 추가해줘"
+"내 회의 노트를 텍스트 소스로 이 노트북에 추가해줘"
+"이 구글 문서를 내 연구 노트북으로 가져와줘"
+
+</current_dom>

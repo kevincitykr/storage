@@ -1,0 +1,52 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Z
+ZENITH
+v1.0 PREMIUM
+NotebookLM Fact-Check Active
+검증된 정책 레퍼런스
+20
+[0] (104,219)<input id='policy-search' placeholder='검증된 정책 검색...' />
+[1] (104,327)<div  />
+	[2] (104,312)<h4 >[단독] 2026년 소상공인 전기요금 25만원 확정, '매출 1억'까지 전국민 신청 매뉴얼 />
+	[3] (104,345)<div >소상공인 지원 | 2026 Verified />
+[4] (104,441)<div  />
+	[5] (104,426)<h4 >2026 근로장려금 '결혼 페널티' 폐지, 맞벌이 4,400만원 상향에 최대 330만원 받는 법 />
+	[6] (104,459)<div >근로·재산 형성 | 2026 Verified />
+[7] (104,556)<div  />
+	[8] (104,541)<h4 >청년월세지원 2026년 상시화 전환, '부모 소득' 상관없이 월 20만원 받는 꿀팁 />
+	[9] (104,574)<div >주거 지원 | 2026 Verified />
+[10] (104,670)<div  />
+	[11] (104,655)<h4 >신생아 특례대출 2026 파격 조건: 연봉 2억 부부도 LTV 80%에 1%대 금리 확정 />
+	[12] (104,688)<div >출산·금융 | 2026 Verified />
+[13] (104,785)<div  />
+	[14] (104,770)<h4 >긴급 생계비 100만원 당일 대출, '무소득자·연체자'도 가능한 유일한 정부 안전망 />
+	[15] (104,803)<div >서민 금융 | 2026 Verified />
+[16] (104,899)<div  />
+	[17] (104,884)<h4 >2026 자녀장려금 1인당 100만원 시대, 재산 기준 2.4억 유지 '맞벌이도 필수 신청' />
+	[18] (104,917)<div >출산·육아 | 2026 Verified />
+[19] (104,999)<h4 >2026 K-패스 '모두의 카드' 혁명: 월 6만원으로 20만원까지 무제한 대중교통 이용 />
+신규 분석 대기
+새로운 분석 주제를 입력하거나
+왼쪽에서 정책을 선택하세요.
+[20] (580,184)<button class='btn btn-primary' id='btn-generate'>제니스 리포트 생성 ➔ />
+[21] (710,184)<button class='btn btn-gold' id='btn-publish-blogger'>⚡ 구글 블로그 즉시 발행 />
+[22] (505,443)<label >새로운 주제 직접 입력 (Gems + NotebookLM 분석) />
+[23] (466,518)<input id='custom-topic' placeholder='예: 2026년 시니어 일자리 정책, 청년 이사 비용 지원 등' />
+[24] (721,518)<button class='btn btn-primary' id='btn-analyze-custom'>분석 시작 />
+입력하신 주제는 NotebookLM의 지식체와 Gems 에이전트의 검증을 실시간으로 거칩니다.
+J
+"제니스는 100% 팩트만을 다룹니다."
+유튜브 방식의 고밀도 블로그 생성을 시작합니다.
+ZENITH 에이전트 페르소나
+강력한 전문가 (The Enforcer)
+할루시네이션 0%, 오직 팩트와 수익에 기반한 리포트만 생산합니다.
+데이터 기반 정밀 인사이트
+정책 선택 시 분석이 시작됩니다.
+Blogger 연동 설정
+[25] (903,738)<input id='blog-id' placeholder='Blogger Blog ID' />
+[26] (866,818)<button class='btn btn-outline' id='btn-save-settings'>설정 저장 />
+
+</current_dom>

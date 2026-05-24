@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (92,58)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (161,61)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (372,57)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='수향미 쌀 20kg 골드퀸 3호' role='searchbox' />
+[3] (553,60)<div  />
+	[4] (553,56)<img  />
+[5] (590,57)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (684,57)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (646,57)<span  />
+	[8] (697,57)<div  />
+		[9] (697,57)<b >AliExpress 앱을 다운로드하세요 />
+[10] (782,57)<div  />
+	[11] (782,57)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[12] (754,57)<span  />
+		[13] (792,57)<div  />
+			[14] (792,42)<span >해운대구/
+KO
+/ />
+			[15] (784,68)<b >KRW />
+				[16] (794,66)<span  />
+[17] (862,57)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[18] (842,57)<span  />
+	[19] (875,57)<div  />
+		[20] (875,42)<span >Hi, sohwe />
+		[21] (872,68)<b >계정 />
+			[22] (881,66)<span  />
+[23] (933,57)<div  />
+	[24] (936,57)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[25] (918,57)<span  />
+		[26] (949,57)<div  />
+			[27] (949,37)<div  />
+				[28] (941,38)<span >21 />
+			[29] (949,68)<b >장바구니 />
+쇼핑 카트
+(40)
+[30] (567,217)<div  />
+	[31] (519,217)<span  />
+	[32] (568,217)<span  />
+		[33] (568,217)<strong >기타 채널 장바구니 />
+	[34] (616,217)<span  />
+[35] (136,301)<label class='comet-v2-checkbox' />
+	[36] (94,301)<span  />
+		[37] (94,301)<span  />
+	[38] (144,301)<span >모든 아이템 선택 />
+[39] (354,374)<a class='group-top-notice-wrap' href='https://www.aliexpress.com/ssr/300003014/KR5CDMainVenue?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide' />
+	[40] (354,387)<span  />
+		[41] (159,387)<img  />
+		[42] (403,387)<span >종료: 5월 7일 23:59 />
+		[43] (604,389)<span  />
+			[44] (604,389)<span  />
+[45] (94,511)<label class='comet-v2-checkbox' />
+	[46] (94,511)<span  />
+		[47] (94,511)<span  />
+알뜰마트
+[48] (365,569)<div  />
+	[49] (365,563)<div  />
+		[50] (163,563)<div >무료 배송까지
+개 더 담기 />
+			[51] (171,565)<strong  />
+				[52] (171,565)<span >3 />
+		[53] (611,563)<div  />
+			[54] (611,561)<span  />
+	[55] (363,588)<div  />
+		[56] (363,588)<div  />
+[57] (94,758)<label class='comet-v2-checkbox' />
+	[58] (94,758)<span  />
+		[59] (94,758)<span  />
+[60] (157,758)<a href='https://www.aliexpress.com/item/1005008660314411.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2074905%21KRW%2035650%21%21KRW%2035650%21%21%21%402102f0c917780300434691265e855c%2112000046135626885%21ct%21KR%214595490757%21%215%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+	[61] (153,758)<div  />
+		[62] (153,838)<div >품절 임박 />
+[63] (396,675)<a class='cart-product-name-title' href='https://www.aliexpress.com/item/1005008660314411.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2074905%21KRW%2035650%21%21KRW%2035650%21%21%21%402102f0c917780300434691265e855c%2112000046135626885%21ct%21KR%214595490757%21%215%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' title='크로스건 터보 팬 충전식 무선 먼지 제거기 강력한 바람 흐름 컴팩트 디자인 차량 여행 야외 청소 긴 대기 시간'>크로스건 터보 팬 충전식 무선 먼지 제거기 강력한 바람 흐름 컴팩트 디자인 차량 여행 야외 청소 긴 대기 시간 />
+[64] (575,673)<span  />
+[65] (595,673)<span  />
+[66] (615,673)<span  />
+[67] (262,720)<button class='comet-v2-btn comet-v2-btn-text comet-v2-btn-borderless comet-v2-btn-important' />
+	[68] (262,720)<span  />
+		[69] (255,720)<div >Black/China Mainland />
+		[70] (313,720)<span  />
+₩
+3
+5
+,
+6
+5
+0
+₩74,905
+가격인하 ₩39,255
+[71] (565,768)<div  />
+	[72] (565,765)<span  />
+[73] (589,768)<input aria-label='number' class='comet-v2-input-number-input' />
+[74] (612,768)<div  />
+	[75] (612,765)<span  />
+쿠폰 적용 가능
+[76] (413,848)<div  />
+	[77] (221,851)<span >무료 배송 />
+[78] (383,936)<a class='cart-product-name-title' href='https://www.aliexpress.com/item/1005009355572334.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207047%21KRW%202500%21%21KRW%202500%21%21%21%402102f0c917780300434691265e855c%2112000048851956318%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' title='안티 uv 사이클링 마스크 선 스크린 페이스 커버 통기성 얼음 실크 페이스 스카프 남성 여성 야외 스포츠 낚시 하이킹 쿨링 마스크'>안티 uv 사이클링 마스크 선 스크린 페이스 커버 통기성 얼음 실크 페이스 스카프 남성 여성 야외 스포츠 낚시 하이킹 쿨링 마스크 />
+[79] (595,933)<span  />
+[80] (615,933)<span  />
+[81] (232,980)<button class='comet-v2-btn comet-v2-btn-text comet-v2-btn-borderless comet-v2-btn-important' />
+	[82] (232,980)<span  />
+		[83] (226,980)<div >light grey />
+		[84] (255,980)<span  />
+결제 내역
+[85] (793,300)<div >총 결제 예상 금액 />
+	총 결제 예상 금액
+	₩
+	0
+[86] (793,389)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large comet-v2-btn-block cart-summary-button comet-v2-btn-important' />
+	[87] (793,389)<span >결제하기
+(
+0
+) />
+[88] (954,419)<div  />
+	[89] (954,414)<span  />
+결제 수단을 선택해 주세요
+구매자 보호
+상품이 설명과 다르거나 상품을 받지 못한 경우 환불을 받으실 수 있습니다.
+
+</current_dom>

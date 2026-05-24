@@ -1,0 +1,127 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (148,77)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiHoePHw5yUAxVw4ckDHbSBNowQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (438,76)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (652,76)<div  />
+	[3] (650,76)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (650,76)<span  />
+	[5] (672,76)<span  />
+[6] (694,76)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (694,76)<span  />
+[8] (730,76)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (766,76)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (807,76)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (801,76)<div  />
+		[12] (801,76)<span  />
+[13] (878,76)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (921,76)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (964,76)<a aria-label='Google 계정: 김더케빈  
+(kkseob0116@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dsite:temu.com%2Bbest%2Bseller&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (119,167)<a class='C6AK7c' role='link' />
+	전체
+[17] (163,167)<a class='C6AK7c' href='/search?sca_esv=1fe4636fcc3b7350&sxsrf=ANbL-n5PQS3AKsmzWmJoCuaB2uZxn1VtFQ:1777790998865&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkV8r63dcuEgBfb3XVrJ4fcifUotgJMrio3aZ3jN8JYMv5i-kcMXfqDOczW3jI23TvoQOtMteV1Qgl31N6OlYL74YJHsGQ&q=site:temu.com+best+seller&ved=1t:220175&ictx=111' />
+	[18] (163,167)<div  />
+		[19] (163,179)<span >쇼핑 />
+[20] (214,167)<a class='C6AK7c' href='/search?sca_esv=1fe4636fcc3b7350&sxsrf=ANbL-n5PQS3AKsmzWmJoCuaB2uZxn1VtFQ:1777790998865&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkV8r63dcuEgBfb3XVrJ4fcifUotgJMrio3aZ3jN8JYMv5i-kcMXfqDOczW3jI23TvoQOtMteV1Qgl31N6OlYL74YJHsGQ&q=site:temu.com+best+seller&sa=X&ved=2ahUKEwiHoePHw5yUAxVw4ckDHbSBNowQtKgLegQIExAB' />
+	[21] (214,167)<div  />
+		[22] (214,179)<span >이미지 />
+[23] (283,167)<a class='C6AK7c' href='/search?sca_esv=1fe4636fcc3b7350&sxsrf=ANbL-n5PQS3AKsmzWmJoCuaB2uZxn1VtFQ:1777790998865&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkV8r63dcuEgBfb3XVrJ4fcifUotgJMrio3aZ3jN8JYMv5i-kcMXfqDOczW3jI23TvoQOtMteV1Qgl31N6OlYL74YJHsGQ&q=site:temu.com+best+seller&sa=X&ved=2ahUKEwiHoePHw5yUAxVw4ckDHbSBNowQs6gLegQIEhAB' />
+	[24] (283,167)<div  />
+		[25] (283,179)<span >짧은 동영상 />
+[26] (353,167)<a class='C6AK7c' href='/search?sca_esv=1fe4636fcc3b7350&sxsrf=ANbL-n5PQS3AKsmzWmJoCuaB2uZxn1VtFQ:1777790998865&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkV8r63dcuEgBfb3XVrJ4fcifUotgJMrio3aZ3jN8JYMv5i-kcMXfqDOczW3jI23TvoQOtMteV1Qgl31N6OlYL74YJHsGQ&q=site:temu.com+best+seller&sa=X&ved=2ahUKEwiHoePHw5yUAxVw4ckDHbSBNowQtKgLegQIERAB' />
+	[27] (353,167)<div  />
+		[28] (353,179)<span >동영상 />
+[29] (403,167)<a class='C6AK7c' href='/search?sca_esv=1fe4636fcc3b7350&sxsrf=ANbL-n5PQS3AKsmzWmJoCuaB2uZxn1VtFQ:1777790998865&q=site:temu.com+best+seller&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV2_W1W1_CM97wN53bGngqzn9i7-GgNF8CbrYRx-pcEYm0JHWr1USHLFK7dcqeRwQkV8r63dcuEgBfb3XVrJ4fcifUotgJMrio3aZ3jN8JYMv5i-kcMXfqDOczW3jI23TvoQOtMteV1Qgl31N6OlYL74YJHsGQ&sa=X&ved=2ahUKEwiHoePHw5yUAxVw4ckDHbSBNowQ0pQJegQIEBAB' />
+	[30] (403,167)<div  />
+		[31] (403,179)<span >뉴스 />
+[32] (462,167)<div class='mTpL7c' role='button' />
+	[33] (462,167)<div  />
+		[34] (462,179)<div  />
+			[35] (454,171)<span >더보기 />
+			[36] (479,171)<span  />
+[37] (528,167)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[38] (528,167)<div  />
+		[39] (528,179)<div  />
+			[40] (520,171)<span >도구 />
+			[41] (540,171)<span  />
+검색결과
+웹 검색결과
+[42] (343,293)<a class='zReHs' href='https://www.temu.com/kr' />
+	[43] (343,324)<h3 >Explore the Latest Clothing, Beauty, Home, Jewelry & More />
+	[44] (187,274)<div  />
+		[45] (187,274)<div  />
+			[46] (120,274)<span  />
+				[47] (120,274)<div  />
+					[48] (120,274)<img  />
+			[49] (205,274)<div  />
+				[50] (205,261)<div  />
+					[51] (205,261)<span >Temu />
+				[52] (205,288)<div  />
+					[53] (205,288)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.temu.com />
+						[54] (258,288)<span class='ylgVCe ob9lvb' role='text'>› ... />
+[55] (287,287)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[56] (287,287)<span  />
+		[57] (287,288)<span  />
+Make Temu your one-stop destination for the latest fashion products
+, cosmetics & more. Free shipping on items shipped from Temu. Free returns within 90 days ...
+[58] (218,507)<a class='zReHs' href='https://www.temu.com/best-sellers-and-how-to--now-g-601100009952047.html' />
+	[59] (218,538)<h3 >best sellers and how to now />
+	[60] (214,488)<div  />
+		[61] (214,488)<div  />
+			[62] (120,488)<span  />
+				[63] (120,488)<div  />
+					[64] (120,488)<img  />
+			[65] (232,488)<div  />
+				[66] (232,474)<div  />
+					[67] (232,474)<span >Temu />
+				[68] (232,502)<div  />
+					[69] (232,502)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.temu.com />
+						[70] (285,502)<span class='ylgVCe ob9lvb' role='text'>› * › Reference />
+[71] (341,501)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[72] (341,501)<span  />
+		[73] (341,502)<span  />
+Shop
+best sellers
+and how to now at the lowest price at Temu. Check reviews and See of . .
+4.8
+(7,080)
+[74] (260,720)<a class='zReHs' href='https://www.temu.com/top-sellers-5020065319020-s.html' />
+	[75] (260,752)<h3 >top sellers sold on Temu United States />
+	[76] (253,701)<div  />
+		[77] (253,701)<div  />
+			[78] (120,701)<span  />
+				[79] (120,701)<div  />
+					[80] (120,701)<img  />
+			[81] (270,701)<div  />
+				[82] (270,688)<div  />
+					[83] (270,688)<span >Temu />
+				[84] (270,716)<div  />
+					[85] (270,716)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.temu.com />
+						[86] (323,716)<span class='ylgVCe ob9lvb' role='text'>› top-sellers-5020065319020-s />
+[87] (418,714)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[88] (418,714)<span  />
+		[89] (418,716)<span  />
+Best Seller Hip * for All Weather
+, * Casual T-Shirt, Loose * Neck ... Best Seller Printed T-* * [* Lightweight Design] Hip ...
+4.6
+(30)
+[90] (284,966)<a class='zReHs' href='https://www.temu.com/best-seller-arabian-musk-perfume-for-women-long-lasting--fragrance---scent-15ml-eau-de-parfum-perfect-christmas-gift-set-luxurious-holiday-present-for-her-g-601102316504345.html' />
+	[91] (284,998)<h3 >best seller arabian musk perfume for women />
+	[92] (251,947)<div  />
+		[93] (251,947)<div  />
+			[94] (120,947)<span  />
+				[95] (120,947)<div  />
+					[96] (120,947)<img  />
+			[97] (269,947)<div  />
+				[98] (269,934)<div  />
+					[99] (269,934)<span >Temu />
+				[100] (269,962)<div  />
+					[101] (269,962)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.temu.com />
+						[102] (321,962)<span class='ylgVCe ob9lvb' role='text'>› Beauty & Health › Fragrance />
+
+</current_dom>

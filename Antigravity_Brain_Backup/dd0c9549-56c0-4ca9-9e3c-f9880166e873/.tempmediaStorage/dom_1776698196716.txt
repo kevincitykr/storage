@@ -1,0 +1,94 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+Navigation Menu
+[0] (40,46)<button aria-label='Toggle navigation' class='js-details-target js-nav-padding-recalculate js-header-menu-toggle Button--link Button--medium Button d-lg-none color-fg-inherit p-1 tmp-p-1' />
+	[1] (40,46)<span  />
+		[2] (40,46)<span  />
+			[3] (40,38)<div  />
+			[4] (40,46)<div  />
+			[5] (40,54)<div  />
+[6] (500,47)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[7] (898,47)<a class='HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fmemory'>Sign in />
+[8] (959,47)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-22dd1db4-3ea1-4a04-b6f8-ec909b8ebcc2' />
+[9] (102,139)<a class='url fn' href='/wonseokjung'>wonseokjung />
+/
+[10] (219,139)<a href='/wonseokjung/memory'>memory />
+Public
+[11] (699,137)<a aria-label='You must be signed in to change notification settings' class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' id='repository-details-watch-button'>Notifications />
+[12] (820,137)<a class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' id='fork-button'>Fork />
+	[13] (848,137)<span >0 />
+[14] (932,137)<a aria-label='You must be signed in to star a repository' class='tooltipped tooltipped-sw btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' />
+	[15] (933,137)<span >Star />
+	[16] (960,137)<span >0 />
+[17] (63,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected' href='/wonseokjung/memory' id='code-tab' />
+	[18] (75,218)<span >Code />
+[19] (149,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/issues' id='issues-tab' />
+	[20] (162,218)<span >Issues />
+[21] (261,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/pulls' id='pull-requests-tab' />
+	[22] (273,218)<span >Pull requests />
+[23] (377,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/actions' id='actions-tab' />
+	[24] (390,218)<span >Actions />
+[25] (478,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/projects' id='projects-tab' />
+	[26] (490,218)<span >Projects />
+[27] (619,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/security' id='security-and-quality-tab' />
+	[28] (631,218)<span >Security and quality />
+[29] (760,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/pulse' id='insights-tab' />
+	[30] (772,218)<span >Insights />
+wonseokjung/memory
+[31] (71,310)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk overview-ref-selector width-full RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[32] (71,310)<span  />
+		[33] (59,310)<span  />
+			[34] (59,310)<div  />
+				[35] (38,310)<div  />
+				[36] (69,310)<div  />
+					[37] (69,309)<span >main />
+[38] (155,310)<a aria-label='Go to Branches page' class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button_1__vmS6D' href='/wonseokjung/memory/branches' />
+[39] (199,310)<a aria-label='Go to Tags page' class='prc-Button-ButtonBase-9n-Xk OverviewContent-module__Button_1__vmS6D' href='/wonseokjung/memory/tags' />
+[40] (547,310)<button class='prc-Button-ButtonBase-9n-Xk' />
+	[41] (547,310)<span  />
+		[42] (547,310)<span >Go to file />
+[43] (654,310)<button class='prc-Button-ButtonBase-9n-Xk' id='_r_33_' />
+	[44] (654,310)<span  />
+		[45] (654,310)<span >Code />
+Folders and files
+Latest commit
+Jay
+and
+Jay
+[46] (305,394)<a class='Link--secondary' href='/wonseokjung/memory/commit/de4368047b5460fa6fb078aa84352c1a78392c65'>[P-Reinforce] Auto-synced structured knowledge />
+[47] (554,395)<a aria-label='Commit de43680' class='Link--secondary prc-Link-Link-9ZwDx' href='/wonseokjung/memory/commit/de4368047b5460fa6fb078aa84352c1a78392c65'>de43680 />
+·
+History
+[48] (679,395)<a aria-label='View commit history for this file.' class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/wonseokjung/memory/commits/main/' />
+	[49] (679,395)<span  />
+[50] (363,462)<tr  />
+	[51] (85,461)<a aria-label='00_Raw, (Directory)' class='Link--primary' href='/wonseokjung/memory/tree/main/00_Raw' title='00_Raw'>00_Raw />
+	[52] (488,461)<a class='Link--secondary' href='/wonseokjung/memory/commit/0a8d47ed30ba140eb101df90bf9c1f8eb5bb5a20' title='Auto-Inject Knowledge [Raw]: MrBeast_Premium_10.md'>Auto-Inject Knowledge [Raw]: MrBeast_Premium_10.md />
+[53] (363,520)<tr  />
+	[54] (86,520)<a aria-label='10_Wiki, (Directory)' class='Link--primary' href='/wonseokjung/memory/tree/main/10_Wiki' title='10_Wiki'>10_Wiki />
+	[55] (466,520)<a class='Link--secondary' href='/wonseokjung/memory/commit/de4368047b5460fa6fb078aa84352c1a78392c65' title='[P-Reinforce] Auto-synced structured knowledge'>[P-Reinforce] Auto-synced structured knowledge />
+About
+No description, website, or topics provided.
+[56] (781,440)<a class='Link Link--muted' href='/wonseokjung/memory/activity' />
+	[57] (795,440)<span >Activity />
+Stars
+[58] (778,481)<a class='Link Link--muted' href='/wonseokjung/memory/stargazers'>stars />
+	[59] (776,481)<strong >0 />
+Watchers
+[60] (792,523)<a class='Link Link--muted' href='/wonseokjung/memory/watchers'>watching />
+	[61] (776,523)<strong >0 />
+Forks
+[62] (779,565)<a class='Link Link--muted' href='/wonseokjung/memory/forks'>forks />
+	[63] (776,565)<strong >0 />
+[64] (799,607)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fmemory&report=wonseokjung+%28user%29'>Report repository />
+[65] (775,686)<a class='Link--primary no-underline Link' href='/wonseokjung/memory/releases'>Releases />
+No releases published
+[66] (859,818)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/wonseokjung/packages?repo_name=memory'>Packages />
+No packages published
+[67] (859,948)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/wonseokjung/memory/graphs/contributors'>Contributors />
+No contributors
+
+</current_dom>

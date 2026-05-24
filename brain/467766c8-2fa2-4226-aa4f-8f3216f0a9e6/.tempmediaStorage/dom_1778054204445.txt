@@ -1,0 +1,162 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (325,125)<a class='inline shrink-0' href='/search/%ED%83%80%EC%9E%84' />
+	[7] (325,125)<span >타임 />
+		[8] (318,125)<span >16
+. />
+[9] (362,125)<a class='inline shrink-0' href='/search/y700' />
+	[10] (362,125)<span >y700 />
+		[11] (353,125)<span >17
+. />
+[12] (410,125)<a class='inline shrink-0' href='/search/%EA%B0%80%EB%A9%B4%EB%9D%BC%EC%9D%B4%EB%8D%94%20' />
+	[13] (410,125)<span >가면라이더 />
+		[14] (393,125)<span >18
+. />
+[15] (465,125)<a class='inline shrink-0' href='/search/%EB%B2%84%EC%A6%883%ED%94%84%EB%A1%9C' />
+	[16] (465,125)<span >버즈3프로 />
+		[17] (450,125)<span >19
+. />
+[18] (518,125)<a class='inline shrink-0' href='/search/%EC%95%84%EC%95%BC%EB%84%A4%EC%98%A4' />
+	[19] (518,125)<span >아야네오 />
+		[20] (505,125)<span >20
+. />
+[21] (666,69)<a href='/search/4070%20%EC%8A%88%ED%8D%BC%20%EB%B3%B8%EC%B2%B4?sort=RECENT&minPrice=1400000&maxPrice=1650000&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[36] (904,329)<button aria-label='최근 본 상품 14600kf 4070ti super 모든거 다처분함 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[37] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/213254091' />
+	[38] (886,369)<img  />
+[39] (904,462)<button aria-label='최근 본 상품 그램 15 판매합니다. 미개봉 새상품 15ZD80T-GX56K 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[40] (886,502)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228196645' />
+	[41] (886,502)<img  />
+[42] (904,594)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[43] (886,634)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[44] (886,634)<img  />
+추천순
+최신순
+낮은가격순
+높은가격순
+자세히 알아보기
+[45] (500,234)<div aria-label='남성 의류' class='google-anno-skip goog-rentry' role='link' />
+	[46] (222,234)<span >남성 의류 />
+	[47] (792,234)<span  />
+[48] (500,320)<div aria-label='유아용품' class='google-anno-skip goog-rentry' role='link' />
+	[49] (220,320)<span >유아용품 />
+	[50] (792,320)<span  />
+[51] (500,406)<div aria-label='중고 명품' class='google-anno-skip goog-rentry' role='link' />
+	[52] (222,406)<span >중고 명품 />
+	[53] (792,406)<span  />
+새 상품은 어떠세요?
+AD
+[54] (229,822)<a aria-label='쇼핑 - 1 번째 상품 달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC, 윈도우 11 홈, 1TB, 32GB, 지포스 RTX 4070 Ti, i7 13700F 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9021949384&itemId=26454002571&vendorItemId=93429399295&traceid=V0-153-61940f082604befc&clickBeacon=10f2ebe0-4921-11f1-809d-e68cd6e1abae%7E3&requestid=20260506165619203031475222&token=31850C%7CMIXED' />
+	[55] (229,822)<div  />
+		[56] (229,748)<div  />
+			[57] (229,748)<div  />
+		[58] (229,939)<div  />
+			[59] (229,922)<div  />
+				[60] (229,902)<span >달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC, 윈도우 11 홈, 1TB, 32GB, 지포스 RTX 4070 Ti, i7 13700F />
+				[61] (229,952)<div  />
+					[62] (229,952)<div  />
+						[63] (209,952)<span >3,048,000 />
+						[64] (243,954)<span >원 />
+			[65] (229,994)<div  />
+				[66] (229,994)<span >광고 |
+쿠팡 />
+[67] (337,822)<a aria-label='쇼핑 - 2 번째 상품 달컴 윈도우탑재 게이밍 조립PC 롤 발로란트 서든어택 오버워치2 배그, i5-14400F, 지포스 RTX 5060, 32GB, 1TB, WIN11 Home 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9019455466&itemId=26444666751&vendorItemId=93426636114&traceid=V0-153-236b165e9fa229cb&clickBeacon=10f2ebe0-4921-11f1-a3dd-2bea2fbc58a1%7E3&requestid=20260506165619203031475222&token=31850C%7CMIXED' />
+	[68] (337,822)<div  />
+		[69] (337,748)<div  />
+			[70] (337,748)<div  />
+		[71] (337,939)<div  />
+			[72] (337,922)<div  />
+				[73] (337,902)<span >달컴 윈도우탑재 게이밍 조립PC 롤 발로란트 서든어택 오버워치2 배그, i5-14400F, 지포스 RTX 5060, 32GB, 1TB, WIN11 Home />
+				[74] (337,952)<div  />
+					[75] (337,952)<div  />
+						[76] (317,952)<span >1,908,000 />
+						[77] (350,954)<span >원 />
+			[78] (337,994)<div  />
+				[79] (337,994)<span >광고 |
+쿠팡 />
+[80] (446,822)<a aria-label='쇼핑 - 3 번째 상품 주연테크 2024 MARINE 라이젠5 라이젠 7000 시리즈 지포스 RTX 4070 Ti SUPER 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8242804629&itemId=23720388317&vendorItemId=90745235289&traceid=V0-153-7cc3970a4f437730&requestid=20260506165619203031475222&token=31850C%7CMIXED' />
+	[81] (446,822)<div  />
+		[82] (446,748)<div  />
+			[83] (446,748)<div  />
+		[84] (446,939)<div  />
+			[85] (446,922)<div  />
+				[86] (446,902)<span >주연테크 2024 MARINE 라이젠5 라이젠 7000 시리즈 지포스 RTX 4070 Ti SUPER />
+				2,138,000
+				원
+			광고 |
+			쿠팡
+[87] (554,822)<a aria-label='쇼핑 - 4 번째 상품 달컴 윈도우탑재 게이밍 조립PC 롤 발로란트 서든어택 오버워치2 배그, i7-12700F, 지포스 RTX 5070, 32GB, 1TB, WIN11 Home 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9019455466&itemId=26444666728&vendorItemId=93426636077&traceid=V0-153-236b165e9fa229cb&clickBeacon=10f2ebe0-4921-11f1-95f1-36b166b9faa8%7E3&requestid=20260506165619203031475222&token=31850C%7CMIXED' />
+	[88] (554,822)<div  />
+		[89] (554,748)<div  />
+			[90] (554,748)<div  />
+		[91] (554,939)<div  />
+			[92] (554,922)<div  />
+				[93] (554,902)<span >달컴 윈도우탑재 게이밍 조립PC 롤 발로란트 서든어택 오버워치2 배그, i7-12700F, 지포스 RTX 5070, 32GB, 1TB, WIN11 Home />
+				2,638,000
+				원
+			광고 |
+			쿠팡
+[94] (663,822)<a aria-label='쇼핑 - 5 번째 상품 왕가PC 게이밍 데스크탑 게임용 고사양 조립컴퓨터 하이엔드PC 컴퓨터본체, a.게이밍PC WX06, 화이트 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8313085354&itemId=23988977538&vendorItemId=91009988141&traceid=V0-153-7b8e10919c8e81c6&clickBeacon=10f312f0-4921-11f1-b79c-8b79d2c9fbae%7E3&requestid=20260506165619203031475222&token=31850C%7CMIXED' />
+	[95] (663,822)<div  />
+		[96] (663,748)<div  />
+			[97] (663,748)<div  />
+		[98] (663,939)<div  />
+			[99] (663,922)<div  />
+				[100] (663,902)<span >왕가PC 게이밍 데스크탑 게임용 고사양 조립컴퓨터 하이엔드PC 컴퓨터본체, a.게이밍PC WX06, 화이트 />
+				[101] (663,952)<div  />
+					[102] (663,952)<div  />
+						[103] (640,952)<span >1,017,000 />
+						[104] (671,954)<span >원 />
+			[105] (663,994)<div  />
+				[106] (663,994)<span >광고 |
+쿠팡 />
+[107] (771,822)<a aria-label='쇼핑 - 6 번째 상품 주연테크 2024 MARINE 라이젠5 라이젠 7000 시리즈 지포스 RTX 4070 SUPER 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8247976219&itemId=23741472116&vendorItemId=91390285502&traceid=V0-153-b3a0e8648ef05b5e&requestid=20260506165619203031475222&token=31850C%7CMIXED' />
+	[108] (771,822)<div  />
+		[109] (771,748)<div  />
+			[110] (771,748)<div  />
+		[111] (771,939)<div  />
+			[112] (771,922)<div  />
+				[113] (771,902)<span >주연테크 2024 MARINE 라이젠5 라이젠 7000 시리즈 지포스 RTX 4070 SUPER />
+				[114] (771,952)<div  />
+					[115] (771,952)<div  />
+						[116] (750,952)<span >1,799,000 />
+						[117] (783,954)<span >원 />
+			[118] (771,994)<div  />
+				[119] (771,994)<span >광고 |
+쿠팡 />
+[120] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[121] (854,907)<div  />
+		[122] (903,907)<div  />
+[123] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[124] (902,799)<span  />
+
+</current_dom>

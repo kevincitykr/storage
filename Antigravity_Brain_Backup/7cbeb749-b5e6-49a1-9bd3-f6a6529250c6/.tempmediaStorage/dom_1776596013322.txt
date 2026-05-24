@@ -1,0 +1,116 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (945,46)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[1] (977,46)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_1a gb_2' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://notebooklm.google.com/&ec=GBRAmgU' role='button' />
+[2] (75,46)<a aria-label='NotebookLM 홈페이지' class='logo-link' href='/' />
+	[3] (75,46)<labs-tailwind-logo  />
+		[4] (75,46)<img  />
+[5] (895,46)<button aria-label='설정' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button extendable-button-extended mat-unthemed'>settings />
+	settings
+	설정
+[6] (500,546)<div class='welcome-page-container' scrollable='true' />
+	[7] (119,151)<button class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-0-button' role='radio' />
+		[8] (119,151)<span  />
+	[9] (167,151)<button class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-1-button' role='radio' />
+		[10] (167,151)<span  />
+	[11] (228,151)<button class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-2-button' role='radio' />
+		[12] (228,151)<span  />
+			[13] (228,151)<div  />
+	[14] (612,151)<button aria-label='검색 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base search-icon-button mat-unthemed' />
+		[15] (613,152)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>search />
+	[16] (659,151)<button aria-label='그리드로 보기' class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-3-button' role='radio' />
+		[17] (647,151)<div  />
+			[18] (647,152)<mat-pseudo-checkbox  />
+		[19] (669,151)<span  />
+			[20] (669,152)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>grid_view />
+	[21] (700,151)<button aria-label='목록 보기' class='mat-button-toggle-button mat-focus-indicator' id='mat-button-toggle-4-button' role='radio' />
+		[22] (700,151)<span  />
+			[23] (700,152)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>view_headline />
+	[24] (761,151)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-filter-button mat-mdc-button mat-unthemed' />
+		최신 항목
+		arrow_drop_down
+	[25] (849,149)<button aria-label='새 노트 만들기' class='mdc-button mat-mdc-button-base create-new-button mat-tonal-button mat-unthemed cdk-focused cdk-mouse-focused' />
+		[26] (821,149)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>add />
+		[27] (854,149)<span  />
+			[28] (854,151)<span >새로 만들기 />
+	내 노트북
+	[29] (195,463)<mat-card class='mat-mdc-card mdc-card create-new-action-button mat-mdc-card-outlined mdc-card--outlined' role='button' />
+		[30] (195,463)<mat-card-content  />
+			[31] (195,431)<div  />
+				[32] (195,431)<mat-icon class='mat-icon notranslate create-new-action-button-icon google-symbols mat-icon-no-color' role='img'>add />
+			[33] (195,515)<span >새 노트 만들기 />
+	[34] (396,463)<mat-card  />
+		[35] (396,463)<a class='mat-ripple mat-mdc-tooltip-trigger primary-action-button' href='/notebook/d96f55eb-1925-46b7-adaa-0c754e87f645' role='link' />
+		[36] (332,372)<div >📔 />
+		[37] (462,399)<project-action-button  />
+			[38] (462,366)<button aria-label='프로젝트 작업 메뉴' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-button-more mat-mdc-button mat-unthemed'>more_vert />
+				more_vert
+		Untitled notebook
+		2026. 4. 19.
+		·
+		소스 0개
+	[39] (596,463)<mat-card  />
+		[40] (596,463)<a class='mat-ripple mat-mdc-tooltip-trigger primary-action-button' href='/notebook/abbbcac1-7f26-4abd-83e4-bbdbb80a4d8e' role='link' />
+		[41] (533,372)<div >📔 />
+		[42] (662,399)<project-action-button  />
+			[43] (662,366)<button aria-label='프로젝트 작업 메뉴' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-button-more mat-mdc-button mat-unthemed'>more_vert />
+				more_vert
+		Untitled notebook
+		2026. 4. 19.
+		·
+		소스 0개
+	[44] (797,463)<mat-card  />
+		[45] (797,463)<a class='mat-ripple mat-mdc-tooltip-trigger primary-action-button' href='/notebook/ca8a7127-510e-447c-aee0-07474e23446b' role='link' />
+		[46] (734,372)<div >📔 />
+		[47] (863,399)<project-action-button  />
+			[48] (863,366)<button aria-label='프로젝트 작업 메뉴' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-button-more mat-mdc-button mat-unthemed'>more_vert />
+				more_vert
+		Untitled notebook
+		2026. 4. 19.
+		·
+		소스 0개
+	[49] (195,808)<mat-card  />
+		[50] (195,808)<a class='mat-ripple mat-mdc-tooltip-trigger primary-action-button' href='/notebook/246f7e38-b18a-4d49-a016-0cf073bede11' role='link' />
+		[51] (132,717)<div >🆕 />
+		[52] (261,722)<project-action-button  />
+			[53] (261,711)<button aria-label='프로젝트 작업 메뉴' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-button-more mat-mdc-button mat-unthemed'>more_vert />
+				more_vert
+		Primary Analysis of the Third Notebook
+		2026. 4. 17.
+		·
+		소스 1개
+	[54] (396,808)<mat-card  />
+		[55] (396,808)<a class='mat-ripple mat-mdc-tooltip-trigger primary-action-button' href='/notebook/b259d6c1-8513-4702-ba31-f251438853e3' role='link' />
+		[56] (332,717)<div >🆕 />
+		[57] (462,722)<project-action-button  />
+			[58] (462,711)<button aria-label='프로젝트 작업 메뉴' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-button-more mat-mdc-button mat-unthemed'>more_vert />
+				more_vert
+		Initial State Protocol for Text Verification
+		2026. 4. 17.
+		·
+		소스 2개
+	[59] (596,808)<mat-card  />
+		[60] (596,808)<a class='mat-ripple mat-mdc-tooltip-trigger primary-action-button' href='/notebook/6447306e-f1b7-4605-9ce8-b627e09b6f87' role='link' />
+		[61] (533,717)<div >🧠 />
+		[62] (662,722)<project-action-button  />
+			[63] (662,711)<button aria-label='프로젝트 작업 메뉴' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-button-more mat-mdc-button mat-unthemed'>more_vert />
+				more_vert
+		The Genesis of Psychological Trend Analysis
+		2026. 4. 17.
+		·
+		소스 3개
+	[64] (797,808)<mat-card  />
+		[65] (797,808)<a class='mat-ripple mat-mdc-tooltip-trigger primary-action-button' href='/notebook/21c3d2f1-a655-4102-aa14-cf6553d6c9ca' role='link' />
+		[66] (734,717)<div >📔 />
+		[67] (863,745)<project-action-button  />
+			[68] (863,711)<button aria-label='프로젝트 작업 메뉴' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger project-button-more mat-mdc-button mat-unthemed'>more_vert />
+				more_vert
+		Untitled notebook
+		2026. 4. 17.
+		·
+		소스 0개
+
+</current_dom>

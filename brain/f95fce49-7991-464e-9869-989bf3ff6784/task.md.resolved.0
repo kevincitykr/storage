@@ -1,0 +1,4 @@
+- [ ] Improve `알리_테무_통합_수집기.bat` for better error reporting and path handling
+- [ ] Update `final_sourcing_bot.py` to handle empty contexts and Gmail timeouts
+- [ ] Enhance `start_chrome.bat` for reliability
+- [ ] Verify the fixes

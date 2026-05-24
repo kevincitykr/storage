@@ -1,0 +1,122 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (335,125)<a class='inline shrink-0' href='/search/%EB%A0%88%EA%B3%A0%20%EC%BB%A4%EC%8A%A4%ED%85%80' />
+	[6] (335,125)<span >레고 커스텀 />
+		[7] (317,125)<span >11
+. />
+[8] (391,125)<a class='inline shrink-0' href='/search/%EB%B2%84%EC%A6%884%ED%94%84%EB%A1%9C' />
+	[9] (391,125)<span >버즈4프로 />
+		[10] (375,125)<span >12
+. />
+[11] (436,125)<a class='inline shrink-0' href='/search/%EB%8D%98%EC%8A%A4' />
+	[12] (436,125)<span >던스 />
+		[13] (429,125)<span >13
+. />
+[14] (477,125)<a class='inline shrink-0' href='/search/%EB%AF%B8%EB%8B%88pc' />
+	[15] (477,125)<span >미니pc />
+		[16] (465,125)<span >14
+. />
+[17] (527,125)<a class='inline shrink-0' href='/search/7800x3d' />
+	[18] (527,125)<span >7800x3d />
+		[19] (510,125)<span >15
+. />
+[20] (666,69)<a href='/product/226595875?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[37] (886,369)<img  />
+새 상품은 어떠세요?
+[38] (283,346)<a aria-label='배너 - 1번째 상품 파워게이밍PC 14400F+RTX5060TI 보러가기' class='w-fit flex-1' href='https://ader.naver.com/v1/zxeEeRsrPy_bwJwriCpPoySP-A2VA9oRgJEDszIH7xHGgsfZEL1L-qJ_ygChfwvUZS941VR86wR-MaI3Yn-L-tlCYVnHUKnqXWpOXiaQEDo9137dVV5_gNB3nuH--U4emPPBhEQ6yQA5k2XOfCX8tOeEmZadmN1IuGr_Z-1JRH5abG3XlPZwuLbVqTu2A3FC4KnAcmQqzPI3XGsYaujuRdtNnGaWY__9iM8K5b3zt_YLrxe2WwHUCAeeojL1ck71hwnHe474Vx8s3fWJBt8Pdj3WPyLEDWj3bwMfJYLl8Wyv3_cmLZciDZ70Yr8MVh4c?c=m_joongna.ch6&t=0' />
+	[39] (283,346)<div  />
+		[40] (219,346)<div  />
+			[41] (219,346)<div  />
+		[42] (326,346)<div  />
+			[43] (326,308)<div  />
+				[44] (326,288)<span >파워게이밍PC 14400F+RTX5060TI />
+				[45] (326,338)<div  />
+					[46] (326,338)<div  />
+						[47] (294,338)<span >1,548,000 />
+						[48] (327,340)<span >원 />
+			[49] (326,380)<div  />
+				[50] (326,380)<span >광고 |
+스탠다드피씨 />
+[51] (500,346)<a aria-label='배너 - 2번째 상품 강력한 성능 게이밍PC i5 14400F 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/JeWl6hRMOR5f2nl8h2ouWKUjx9OI4-KTLJKSWwQ6z_3B7yIi0PI_FxnI-x6omM7gnhqpWKSNgQAwfJNk732dGeNur1ZZp6qWevrJC_x6ybMJ-18ATNppEaXihYChUDYVv28vDCVZfOlLLbquXVVlfCkABk4yFRk6U5jzT64z1e6JJovpBErD420sWH_YzWenXwoPMK3pt4DSeyEkQcuQDR8IpAbtVph3gRNwdfgy1dJr4bXnY4SzJHb0XB0GvSsu2G0bwJkKc07BaNbS3ZzQMV7W_SwH8tF8cf4AV0OmbZc7xYaGlY0g5Id4RUmm3CIc?c=m_joongna.ch6&t=0' />
+	[52] (500,346)<div  />
+		[53] (436,346)<div  />
+			[54] (436,346)<div  />
+		[55] (543,346)<div  />
+			[56] (543,308)<div  />
+				[57] (543,288)<span >강력한 성능 게이밍PC i5 14400F />
+				[58] (543,338)<div  />
+					[59] (543,338)<div  />
+						[60] (511,338)<span >1,378,000 />
+						[61] (543,340)<span >원 />
+			[62] (543,380)<div  />
+				[63] (543,380)<span >광고 |
+스탠다드피씨 />
+[64] (717,346)<a aria-label='배너 - 3번째 상품 라이젠5 7500F RTX5060Ti 게이밍컴퓨터 조립PC 본체 견적 배그 몬스터헌터 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/1RApSfECMCIAuASgJ5Rki_iNYmpuy47TWOV80x7ZfBf94FhUGvjEmAVUVN9ibY4eVLibEWYxrVsj9d4x4P0zfa_yJyHC4eeueWOS-HeXRzOxA-GBTQvJHHlePhVguiDAf9E8S5zeRcW-8R-FwUiwBlQD5ozIhLTez_SOawpO1TRgKU7ZBTtw7KqtOyG-aB0bVklUQwGKqpDkL54CQPpcg7VanddN2EJ94PMVFMzse3fPOHdNw86r0rfhWAqWCOaSkttHRjWFmZXuxnxJZsnohUGMGnJFwRC9ul3_xpvALO0tlv8Ocjj4cOTo9twsMtW5?c=m_joongna.ch6&NaPm=1' />
+	[65] (717,346)<div  />
+		[66] (653,346)<div  />
+			[67] (653,346)<div  />
+		[68] (760,346)<div  />
+			[69] (760,308)<div  />
+				[70] (760,288)<span >라이젠5 7500F RTX5060Ti 게이밍컴퓨터 조립PC 본체 견적 배그 몬스터헌터 />
+				[71] (760,338)<div  />
+					[72] (760,338)<div  />
+						[73] (728,338)<span >1,645,000 />
+						[74] (761,340)<span >원 />
+			[75] (760,380)<div  />
+				[76] (760,380)<span >광고 |
+포유컴퓨터 />
+상품 정보
+개인정보(거래정보)를 주고받는 행위는 사기에 노출
+될 수 있으므로 즉시
+[77] (443,689)<a href='jnapps3://?applink=report&targetType=&reportedStore=7925678&reportedProductSeq=226595875' />
+	[78] (443,689)<u >중고나라로 신고 />
+해 주세요
+RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑 판매합니다. (윈도우 포함/모니터 별매)
+내용: 2024년 6월에 구매한 주연테크 리오나인 메쉬박스(CG337F47S) 화이트 모델입니다.
+단순 기본 모델이 아니라, 구매 시 비용을 더 들여서 풀업그레이드한 사양이라 바로 가져가서 쓰시기만 하면 됩니다.
+상세 사양:
+* CPU: 인텔 i7-13700F
+* 그래픽카드: NVIDIA RTX 4070 Super (웬만한 게임 풀옵션 가능)
+* RAM: DDR5 32GB (16GB+16GB 업그레이드 완료)
+* SSD: 1TB (기본에서 용량 업그레이드 완료)
+* OS: 윈도우 11 Home 정품 설치 (포맷 후 바로 사용 가능)
+* 색상: 깔끔한 화이트 메쉬 박스 디자인
+특이사항:
+* 실사용 기간이 짧아 상태 매우 깨끗합니다.
+* 정품 윈도우가 깔려 있어 초보자분들도 전원만 꽂으면 바로 사용 가능합니다.
+* 화이트 감성이라 인테리어용으로도 예뻐요.
+에러가 발생했습니다.
+[79] (777,910)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700' />
+	[80] (777,910)<span >다시 호출하기 />
+
+</current_dom>

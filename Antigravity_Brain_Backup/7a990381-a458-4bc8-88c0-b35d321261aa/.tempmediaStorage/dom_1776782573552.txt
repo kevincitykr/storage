@@ -1,0 +1,75 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (120,46)<a class='navbar-brand' href='/' id='js-animation-logo' />
+	[1] (120,46)<img  />
+[2] (940,46)<button aria-label='Toggle navigation' class='navbar-toggler' />
+	[3] (940,46)<span  />
+Scraping Aliexpress Products
+Aliexpress product pages are protected againist
+[4] (534,105)<a href='https://scrapfly.io/blog/posts/how-to-bypass-captcha-while-web-scraping/'>CAPTCHA />
+challenges and load its data using JavaScript. Hence, scraping Aliexpress product pages requires JavaScript to be enabled. For this, we'll use
+[5] (300,197)<a href='https://scrapfly.io/docs/scrape-api/javascript-rendering'>ScrapFly's JavaScript rendering />
+feature.
+To scrape Aliexpress products. all we need is a product numeric ID, which we already found in the previous chapter by scraping product previews from the Aliexpress search scraper. For example, this hand drill product has the numeric ID of
+[6] (552,367)<a href='https://www.aliexpress.com/item/4000927436411.html'>4000927436411.html />
+.
+We'll request the product pages and parse their data using XPath selectors:
+[7] (500,2251)<table class='highlight tab-size js-file-line-container' scrollable='true' />
+	import
+	json
+	import
+	math
+	import
+	os
+	import
+	re
+	import
+	asyncio
+	from
+	typing
+	import
+	Dict
+	,
+	List
+	from
+	urllib
+	.
+	parse
+	import
+	urlparse
+	,
+	parse_qsl
+	,
+	urlencode
+	,
+	urlunparse
+	from
+	scrapfly
+	import
+	ScrapeApiResponse
+	,
+	ScrapeConfig
+	,
+	ScrapflyClient
+	BASE_CONFIG
+	=
+	{
+	"asp"
+	:
+	True
+	,
+	"country"
+	:
+	"US"
+	,
+	# Us locale, apply localization settings from the browser and then copy the aep_usuc_f cookie from devtools
+	"headers"
+	: {
+	"cookie"
+	:
+	"aep_usuc_f=site=glo&province=&city=&c_tp=USD&region=US&b_locale=en_US&ae_u_p_s=2"
+	}
+
+</current_dom>

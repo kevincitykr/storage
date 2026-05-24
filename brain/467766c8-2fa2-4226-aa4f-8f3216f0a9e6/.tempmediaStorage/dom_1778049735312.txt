@@ -1,0 +1,126 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (325,125)<a class='inline shrink-0' href='/search/5070' />
+	[6] (325,125)<span >5070 />
+		[7] (316,125)<span >1
+. />
+[8] (361,125)<a class='inline shrink-0' href='/search/4070' />
+	[9] (361,125)<span >4070 />
+		[10] (352,125)<span >2
+. />
+[11] (398,125)<a class='inline shrink-0' href='/search/%ED%8F%B4%EB%93%9C7' />
+	[12] (398,125)<span >폴드7 />
+		[13] (389,125)<span >3
+. />
+[14] (439,125)<a class='inline shrink-0' href='/search/%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC' />
+	[15] (439,125)<span >메가커피 />
+		[16] (426,125)<span >4
+. />
+[17] (485,125)<a class='inline shrink-0' href='/search/%EB%B0%94%EC%9D%B4%EC%94%A8%EB%8B%88' />
+	[18] (485,125)<span >바이씨니 />
+		[19] (472,125)<span >5
+. />
+[20] (666,69)<a href='/product/226595875?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[37] (886,369)<img  />
+만나서 직거래
+신촌동
+고등동
+상품 상태
+중고, 구성품 없음
+[38] (499,249)<button aria-label='찜 하기' />
+[39] (594,249)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] bg-white border border-gray-400 text-gray-900 active:border-gray-900 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16 max-md:ml-2' />
+	[40] (594,249)<span >채팅하기 />
+[41] (748,249)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] text-white bg-gray-900 border active:border-gray-700 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16' />
+	[42] (748,249)<span >구매하기 />
+새 상품은 어떠세요?
+[43] (283,633)<a aria-label='배너 - 1번째 상품 파워게이밍PC 14400F+RTX5060TI 보러가기' class='w-fit flex-1' href='https://ader.naver.com/v1/iMjec7QPvJ0oL49-NjftQOOZfHGn3WXAOSEN-UUvo51pryLH-6Aok-M2X9Rrai7HyWwXlDgBpa9floGvUE6xHgRJQHPlKwkAxlokf2R3PkDFQMo1OFWy4nRHJ-zMy66XTLnwvb42D9GTKnMnjTkA-JK1ytxuJMKZW5YxPxYEYw7n4eVuulZw7F-PHNsVOaUKKEAWJHYCug__NbovGkVKKdR7IBlxrOMkyRRquuRYAQ-IlbYe3MsPFw-P0wEb3BVj7Fyhrs6VxrY81TRtxwRxLnUCSOmzrKcR0ETZOFkzEHnsyTDNnPs_EPlW4Ne_9pWB?c=m_joongna.ch6&t=0' />
+	[44] (283,633)<div  />
+		[45] (219,633)<div  />
+			[46] (219,633)<div  />
+		[47] (326,633)<div  />
+			[48] (326,596)<div  />
+				[49] (326,576)<span >파워게이밍PC 14400F+RTX5060TI />
+				[50] (326,626)<div  />
+					[51] (326,626)<div  />
+						[52] (294,626)<span >1,548,000 />
+						[53] (327,628)<span >원 />
+			[54] (326,668)<div  />
+				[55] (326,668)<span >광고 |
+스탠다드피씨 />
+[56] (500,633)<a aria-label='배너 - 2번째 상품 강력한 성능 게이밍PC i5 14400F 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/iMjec7QPvJ0oL49-NjftQCdZE69YUMB2esvoUH_tY0eW0T3i6vheYvNo30R62yF66rIqtwRmpPKgsG7u8uPWDtWjHAkI-3dO7q8BAp-QoLw9nHL23kAG8SrXZbTbjnnSC2IFekyDINEAR_z5R_SRIt2bquwDBTdGN5cb54jIL2XdFOdQ3bk5nnfKdc5zzG3xHmRvTsyC05jJEEjfu2k5J6HHbIxUHsuwuRIHNc_tul1BFL9w_HaZqgBb9cHjc_VU94uyrSNFG42CcSSdE8v0xoAMYkkMN5J7dSwesveLlosgWa7Y-KSkT2-M3IVyznDq?c=m_joongna.ch6&t=0' />
+	[57] (500,633)<div  />
+		[58] (436,633)<div  />
+			[59] (436,633)<div  />
+		[60] (543,633)<div  />
+			[61] (543,596)<div  />
+				[62] (543,576)<span >강력한 성능 게이밍PC i5 14400F />
+				[63] (543,626)<div  />
+					[64] (543,626)<div  />
+						[65] (511,626)<span >1,378,000 />
+						[66] (543,628)<span >원 />
+			[67] (543,668)<div  />
+				[68] (543,668)<span >광고 |
+스탠다드피씨 />
+[69] (717,633)<a aria-label='배너 - 3번째 상품 RTX5060 고사양 게이밍컴퓨터 PC방 조립PC 배그 롤 발로란트 게임용 본체 EZ01 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/OHxqFII4rjRldvKXI7w7urGXovN4YzsZJeVT9GO27hpnr-Rfw31_DLGnOjWcE6j8xBpegD3b8vUvIljRHKGKXSVYbikwr3dyOjzFuzLqdwNiayCsXushX6XUyo7PusFe_tW_R95NJhHqxr4nHcUaN6bI7-zCIy_u6DytTXlLU4oNA8b9F9Qsq_uyjRC98rS-_u1lxYXbeulAYfBPaCocwtSIGbqYgx0NTZFA0fzTmtxtQXJj2QdtfQIQWKOu6nCEK0zhVcz9rbtxBqXHqfIkBb487kIzkZKEhDJz8999WwcYaCCdctQo36rlcNvOsJok?c=m_joongna.ch6&NaPm=1' />
+	[70] (717,633)<div  />
+		[71] (653,633)<div  />
+			[72] (653,633)<div  />
+		[73] (760,633)<div  />
+			[74] (760,596)<div  />
+				[75] (760,576)<span >RTX5060 고사양 게이밍컴퓨터 PC방 조립PC 배그 롤 발로란트 게임용 본체 EZ01 />
+				[76] (760,626)<div  />
+					[77] (760,626)<div  />
+						[78] (728,626)<span >1,298,000 />
+						[79] (761,628)<span >원 />
+			[80] (760,668)<div  />
+				[81] (760,668)<span >광고 |
+이지컴플러스 />
+상품 정보
+개인정보(거래정보)를 주고받는 행위는 사기에 노출
+될 수 있으므로 즉시
+[82] (443,977)<a href='jnapps3://?applink=report&targetType=&reportedStore=7925678&reportedProductSeq=226595875' />
+	[83] (443,977)<u >중고나라로 신고 />
+해 주세요
+[84] (683,933)<a class='flex flex-col md:gap-9 max-md:gap-6' href='/store/7925678' />
+	[85] (683,867)<div  />
+		[86] (683,855)<div  />
+			[87] (569,855)<h2 >가게 정보 />
+		[88] (683,899)<div  />
+	[89] (683,992)<div  />
+		[90] (683,992)<div  />
+			[91] (599,992)<div  />
+				[92] (599,992)<span >중고나라#7925892 />
+			[93] (802,992)<div  />
+				[94] (802,992)<img  />
+
+</current_dom>

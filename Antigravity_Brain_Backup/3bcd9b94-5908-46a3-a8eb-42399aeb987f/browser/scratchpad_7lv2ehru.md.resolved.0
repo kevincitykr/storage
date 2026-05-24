@@ -1,0 +1,10 @@
+# Task: Troubleshoot Syncthing Folder Sharing
+
+## Plan
+1. [ ] Navigate to/Verify Page `http://localhost:8384/`.
+2. [ ] Find and click 'Kevincity Share' folder.
+3. [ ] Click 'Edit'.
+4. [ ] Switch to 'Sharing' tab.
+5. [ ] Check 'upload2601' status.
+6. [ ] Check 'Advanced' tab settings.
+7. [ ] Save and report findings.

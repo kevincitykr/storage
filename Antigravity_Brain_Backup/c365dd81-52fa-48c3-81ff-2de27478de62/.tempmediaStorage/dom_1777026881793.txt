@@ -1,0 +1,68 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,601)<div  />
+	SUNO_OPAL_FACTORY_v4.3_FINAL
+	4.3
+	OAS
+	3.1
+	[1] (68,180)<a class='link' href='/openapi.json' />
+		[2] (68,180)<span >/openapi.json />
+	[3] (500,309)<h3  />
+		[4] (82,308)<a class='nostyle' href='#/default' />
+			[5] (82,308)<span >default />
+		[6] (935,308)<button class='expand-operation' title='Collapse operation' />
+	[7] (500,389)<div  />
+		[8] (484,389)<button class='opblock-summary-control' />
+			[9] (76,389)<span >GET />
+			[10] (525,389)<div  />
+				[11] (131,389)<span  />
+					[12] (131,389)<a class='nostyle' href='#/default/health__get' />
+						[13] (131,389)<span >/ />
+				[14] (167,389)<div >Health />
+		[15] (949,389)<button aria-label='get ​/' class='opblock-control-arrow' />
+	[16] (500,475)<div  />
+		[17] (484,475)<button class='opblock-summary-control' />
+			[18] (76,475)<span >GET />
+			[19] (525,475)<div  />
+				[20] (159,475)<span  />
+					[21] (159,475)<a class='nostyle' href='#/default/get_trends_trends_get' />
+						[22] (159,475)<span >/trends />
+				[23] (235,475)<div >Get Trends />
+		[24] (949,475)<button aria-label='get ​/trends' class='opblock-control-arrow' />
+	[25] (500,560)<div  />
+		[26] (484,560)<button class='opblock-summary-control' />
+			[27] (76,560)<span >POST />
+			[28] (525,560)<div  />
+				[29] (164,560)<span  />
+					[30] (164,560)<a class='nostyle' href='#/default/refresh_all_refresh_post' />
+						[31] (164,560)<span >/refresh />
+				[32] (244,560)<div >Refresh All />
+		[33] (949,560)<button aria-label='post ​/refresh' class='opblock-control-arrow' />
+	[34] (500,646)<div  />
+		[35] (484,646)<button class='opblock-summary-control' />
+			[36] (76,646)<span >POST />
+			[37] (525,646)<div  />
+				[38] (168,646)<span  />
+					[39] (168,646)<a class='nostyle' href='#/default/generate_batch_generate_post' />
+						[40] (168,646)<span >/generate />
+				[41] (268,646)<div >Generate Batch />
+		[42] (949,646)<button aria-label='post ​/generate' class='opblock-control-arrow' />
+	[43] (500,782)<h4  />
+		[44] (495,777)<button class='models-control' />
+			[45] (485,777)<span >Schemas />
+	[46] (160,884)<button class='json-schema-2020-12-accordion' />
+		[47] (148,884)<div  />
+			[48] (148,884)<div >GenerationRequest />
+		[49] (235,888)<span  />
+	[50] (283,886)<button class='json-schema-2020-12-expand-deep-button'>Expand all />
+	object
+	[51] (166,985)<button class='json-schema-2020-12-accordion' />
+		[52] (154,985)<div  />
+			[53] (154,985)<div >HTTPValidationError />
+		[54] (247,990)<span  />
+	[55] (295,988)<button class='json-schema-2020-12-expand-deep-button'>Expand all />
+	object
+
+</current_dom>

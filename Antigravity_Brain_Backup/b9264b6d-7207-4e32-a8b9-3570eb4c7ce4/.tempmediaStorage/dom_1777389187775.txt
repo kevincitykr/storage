@@ -1,0 +1,124 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+DESKTOP-2T9HMFI
+[0] (708,29)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (686,29)<span  />
+	[2] (708,29)<span >Korean />
+	[3] (733,31)<span  />
+[4] (781,29)<a class='dropdown-toggle' href='#' />
+	[5] (760,29)<span  />
+	[6] (782,29)<span >도움말 />
+	[7] (803,31)<span  />
+[8] (846,29)<a class='dropdown-toggle' href='#' />
+	[9] (830,29)<span  />
+	[10] (848,29)<span >동작 />
+	[11] (864,31)<span  />
+폴더
+(2)
+[12] (307,190)<button class='btn panel-heading' />
+	[13] (307,190)<h4  />
+		[14] (141,190)<div  />
+			[15] (141,190)<span  />
+		[16] (449,190)<div  />
+			[17] (448,189)<span >동기화 대기 />
+		[18] (284,190)<div  />
+			[19] (209,189)<span >desktop_kevincity />
+			[20] (209,153)<div class='tooltip fade top' id='tooltip401117' role='tooltip' />
+				[21] (209,171)<div  />
+				[22] (209,153)<div >rlpuk-xkiiv />
+폴더 아이디
+rlpuk-xkiiv
+폴더 경로
+E:\desktop_kevincity
+전체 기기 상태
+493
+0
+~49.4 MiB
+현재 기기 상태
+0
+0
+~0 B
+동기화 미완료 항목
+[23] (427,361)<a class='ng-binding'>493
+, ~49.4 MiB />
+	[24] (411,361)<span >개의 항목 />
+폴더 유형
+송수신
+재탐색
+1시간
+활성화됨
+파일 수신 순서
+무작위
+공유된 기기
+[25] (457,487)<a class='ng-binding ng-scope'>kevincityHQ />
+[26] (350,539)<button class='btn btn-sm btn-default ng-scope' />
+	[27] (331,539)<span  />
+	[28] (356,539)<span >일시 중지 />
+재탐색
+[29] (459,539)<button class='btn btn-sm btn-default' />
+	[30] (449,539)<span  />
+	[31] (464,539)<span >편집 />
+[32] (307,600)<button class='btn panel-heading collapsed' />
+	[33] (307,600)<h4  />
+		[34] (141,600)<div  />
+			[35] (141,600)<span  />
+		[36] (455,600)<div  />
+			[37] (453,599)<span >최신 상태 />
+		[38] (289,600)<div  />
+			[39] (209,599)<span >desktop_kevincity />
+[40] (313,671)<button class='btn btn-sm btn-default ng-scope' />
+	[41] (283,671)<span  />
+	[42] (318,671)<span >모두 일시 중지 />
+[43] (391,671)<button class='btn btn-sm btn-default ng-scope' />
+	[44] (367,671)<span  />
+	[45] (396,671)<span >모두 재탐색 />
+[46] (460,671)<button class='btn btn-sm btn-default' />
+	[47] (440,671)<span  />
+	[48] (465,671)<span >폴더 추가 />
+현재 기기
+[49] (693,191)<button class='btn panel-heading' />
+	[50] (693,190)<h4  />
+		[51] (526,190)<identicon  />
+		[52] (704,190)<div >DESKTOP-2T9HMFI />
+수신 속도
+[53] (824,236)<a class='toggler ng-binding' href='#'>(1.76 MiB) />
+	[54] (799,236)<span >84.3 KiB/s />
+송신 속도
+[55] (839,267)<a class='toggler ng-binding' href='#'>(1.2 KiB) />
+	[56] (819,267)<span >0 B/s />
+현재 기기 상태(합계)
+0
+0
+~0 B
+대기자
+[57] (864,330)<a class='ng-binding text-success'>3/3 />
+탐지
+[58] (864,361)<a class='ng-binding'>4/5 />
+가동 시간
+1시간 3분
+아이디
+[59] (849,424)<a class='ng-binding'>73K7NTN />
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+[60] (693,583)<button class='btn panel-heading' />
+	[61] (693,583)<h4  />
+		[62] (526,583)<identicon  />
+		[63] (832,583)<div  />
+			[64] (822,582)<span >최신 상태 />
+			[65] (859,583)<span  />
+				[66] (859,582)<span  />
+		[67] (665,583)<div >kevincityHQ />
+[68] (665,654)<button class='btn btn-sm btn-default ng-scope' />
+	[69] (635,654)<span  />
+	[70] (670,654)<span >모두 일시 중지 />
+[71] (751,654)<button class='btn btn-sm btn-default' />
+	[72] (721,654)<span  />
+	[73] (758,654)<span >최근 변경 항목 />
+[74] (836,654)<button class='btn btn-sm btn-default' />
+	[75] (807,654)<span  />
+	[76] (841,654)<span >다른 기기 추가 />
+
+</current_dom>

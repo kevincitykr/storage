@@ -1,0 +1,175 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (327,125)<a class='inline shrink-0' href='/search/%EC%8A%A4%ED%8C%80%EB%8D%B1' />
+	[7] (327,125)<span >스팀덱 />
+		[8] (317,125)<span >11
+. />
+[9] (370,125)<a class='inline shrink-0' href='/search/%EB%85%B8%ED%8A%B8%EB%B6%81' />
+	[10] (370,125)<span >노트북 />
+		[11] (359,125)<span >12
+. />
+[12] (420,125)<a class='inline shrink-0' href='/search/%EB%A0%88%EA%B3%A0%20%EC%BB%A4%EC%8A%A4%ED%85%80' />
+	[13] (420,125)<span >레고 커스텀 />
+		[14] (402,125)<span >13
+. />
+[15] (477,125)<a class='inline shrink-0' href='/search/%EB%B2%84%EC%A6%884%ED%94%84%EB%A1%9C' />
+	[16] (477,125)<span >버즈4프로 />
+		[17] (461,125)<span >14
+. />
+[18] (522,125)<a class='inline shrink-0' href='/search/%EC%A7%80%EC%83%A5' />
+	[19] (522,125)<span >지샥 />
+		[20] (515,125)<span >15
+. />
+[21] (666,69)<a href='/search/4070?sort=RECENT_SORT&minPrice=1400000&maxPrice=1800000&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[36] (904,329)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[37] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[38] (886,369)<img  />
+검색 상품 가격 요약
+평균 가격
+1,634,600원
+가장 높은 가격
+1,800,000원
+가장 낮은 가격
+1,400,000원
+[39] (664,394)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[40] (664,394)<span >추천순 />
+[41] (701,394)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[42] (701,394)<span >최신순 />
+[43] (746,394)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[44] (746,394)<span >낮은가격순 />
+[45] (799,394)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[46] (799,394)<span >높은가격순 />
+[47] (239,683)<div  />
+	[48] (239,683)<a class='w-full' href='/product/228276393' />
+		[49] (239,683)<div  />
+			[50] (239,582)<div  />
+				인증셀러
+				[51] (239,582)<div  />
+				[52] (284,683)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[53] (239,821)<div  />
+				[54] (239,778)<div  />
+					[55] (239,758)<span >[최저가]ASUS 게이밍노트북 Rog Flow X13(라이젠9 7940HS/4070/램32GB/1TB/QHD) />
+					[56] (239,808)<div  />
+						[57] (239,808)<div  />
+							[58] (208,808)<span >1,730,000 />
+							[59] (240,810)<span >원 />
+				[60] (239,876)<div  />
+					[61] (239,852)<div  />
+						[62] (194,852)<span >1시간 전 />
+					[63] (239,898)<div  />
+						[64] (195,898)<div  />
+							[65] (195,898)<span >무료배송 />
+[66] (369,683)<div  />
+	[67] (369,683)<a class='w-full' href='/product/228279959' />
+		[68] (369,683)<div  />
+			[69] (369,582)<div  />
+				인증셀러
+				[70] (369,582)<div  />
+				[71] (415,683)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[72] (369,821)<div  />
+				[73] (369,778)<div  />
+					[74] (369,758)<span >[최저가]ASUS 게이밍노트북 Rog Flow X13(라이젠9 7940HS/4070/램32GB/1TB/QHD) />
+					[75] (369,808)<div  />
+						[76] (369,808)<div  />
+							[77] (338,808)<span >1,730,000 />
+							[78] (370,810)<span >원 />
+				[79] (369,876)<div  />
+					[80] (369,852)<div  />
+						[81] (325,852)<span >2시간 전 />
+					[82] (369,898)<div  />
+						[83] (325,898)<div  />
+							[84] (325,898)<span >무료배송 />
+[85] (500,683)<div  />
+	[86] (500,657)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=9513313353&itemId=28351309665&vendorItemId=95303435914&traceid=V0-153-45dabe21513e564f&clickBeacon=b2b02600-4917-11f1-94b6-eedf645dc004%7E3&requestid=20260506154915601032889846&token=31850C%7CMIXED' />
+		[87] (500,657)<div  />
+			[88] (500,582)<div  />
+				[89] (500,582)<div  />
+			[90] (500,795)<div  />
+				[91] (500,778)<div  />
+					[92] (500,758)<span >RTX3060Ti UltraWOC G6X CF 게임 화이트 그래픽카드, 2023년형 3060Ti G6 8G 2년 1815MHz />
+					[93] (500,808)<div  />
+						[94] (500,808)<div  />
+							[95] (465,808)<span >832,600 />
+							[96] (494,810)<span >원 />
+				[97] (500,850)<div  />
+					[98] (500,850)<span >광고 |
+쿠팡 />
+[99] (631,683)<div  />
+	[100] (631,658)<a class='w-full' href='/product/228081405' />
+		[101] (631,658)<div  />
+			[102] (631,582)<div  />
+				[103] (631,582)<div  />
+				[104] (677,683)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[105] (631,797)<div  />
+				[106] (631,778)<div  />
+					[107] (631,758)<span >라이젠7500F + RTX4070 미니PC 조립컴퓨터 본체 />
+					[108] (631,808)<div  />
+						[109] (631,808)<div  />
+							[110] (600,808)<span >1,550,000 />
+							[111] (633,810)<span >원 />
+				[112] (631,852)<div  />
+					[113] (631,852)<div  />
+						[114] (589,852)<div  />
+							[115] (580,852)<div  />
+								[116] (585,852)<span >5 />
+							[117] (598,852)<div  />
+								[118] (604,852)<span >1 />
+						[119] (610,852)<div  />
+						[120] (629,852)<span >4시간 전 />
+[121] (761,683)<div  />
+	[122] (761,658)<a class='w-full' href='/product/228234218' />
+		[123] (761,658)<div  />
+			[124] (761,582)<div  />
+				[125] (761,582)<div  />
+				[126] (807,683)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[127] (761,797)<div  />
+				[128] (761,778)<div  />
+					[129] (761,758)<span >급처 i9-9900k RTX 4070 SUPER / 32GB 게이밍 컴퓨터 />
+					[130] (761,808)<div  />
+						[131] (761,808)<div  />
+							[132] (731,808)<span >1,400,000 />
+							[133] (764,810)<span >원 />
+				[134] (761,852)<div  />
+					[135] (761,852)<div  />
+						[136] (711,852)<div  />
+							[137] (711,852)<div  />
+								[138] (716,852)<span >4 />
+						[139] (723,852)<div  />
+						[140] (742,852)<span >4시간 전 />
+인증셀러
+[141] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[142] (854,907)<div  />
+		[143] (903,907)<div  />
+[144] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[145] (902,799)<span  />
+
+</current_dom>

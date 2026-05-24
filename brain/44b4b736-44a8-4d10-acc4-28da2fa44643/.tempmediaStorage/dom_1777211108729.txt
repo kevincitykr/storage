@@ -1,0 +1,175 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,52)<button id='back-button' />
+	[1] (38,49)<span >arrow_back />
+[2] (155,52)<input class='sans-flex round w-500' id='tab-title' />
+[3] (464,52)<button class='sans-flex round w-500 md-body-small selected' id='canvas'>Editor />
+[4] (544,52)<button class='sans-flex round w-500 md-body-small' id='app'>App />
+Saved
+[5] (849,52)<button class=' selected icon round w-500 sans-flex ' />
+	[6] (849,52)<span >more_vert />
+[7] (800,136)<button class=' icon round w-500 sans-flex ' />
+	[8] (649,136)<span >share />
+	[9] (821,136)<span  />
+		[10] (821,136)<span >Share App />
+[11] (800,227)<button class=' icon round w-500 sans-flex ' />
+	[12] (649,227)<span >edit />
+	[13] (821,227)<span  />
+		[14] (821,227)<span >Edit title and description... />
+[15] (800,318)<button class=' icon round w-500 sans-flex ' />
+	[16] (649,318)<span >delete />
+	[17] (821,318)<span  />
+		[18] (821,318)<span >Delete />
+[19] (800,410)<button class=' icon round w-500 sans-flex ' />
+	[20] (649,410)<span >file_copy />
+	[21] (821,410)<span  />
+		[22] (821,410)<span >Duplicate App />
+[23] (800,501)<button class=' icon round w-500 sans-flex ' />
+	[24] (649,501)<span >history />
+	[25] (821,501)<span  />
+		[26] (821,501)<span >Show version history />
+[27] (800,592)<button class=' icon round w-500 sans-flex ' />
+	[28] (649,592)<span >content_copy />
+	[29] (821,592)<span  />
+		[30] (821,592)<span >Copy JSON />
+[31] (900,52)<button class=' selected icon round w-500 sans-flex ' />
+	[32] (900,52)<span >settings />
+[33] (956,52)<button id='toggle-user-menu' />
+	[34] (956,52)<span >person />
+[35] (526,553)<div  />
+[36] (284,619)<section  />
+	[37] (284,619)<div  />
+	[38] (284,587)<header  />
+		[39] (232,587)<span >button_magic />
+		[40] (282,587)<span >Generate Seoul Night View Image />
+		[41] (333,587)<bb-node-run-control  />
+		[42] (348,586)<button id='connection-trigger' />
+	[43] (284,634)<div  />
+		[44] (284,633)<div  />
+			[45] (284,633)<div  />
+				[46] (284,633)<p >Generate a visual representation of a Seoul night view based on the user's detailed textual description. />
+[47] (434,612)<section  />
+	[48] (434,612)<div  />
+	[49] (434,587)<header  />
+		[50] (381,587)<span >web />
+		[51] (431,587)<span >Generate Seoul Night View Webpage />
+		[52] (482,587)<bb-node-run-control  />
+		[53] (497,586)<button id='connection-trigger' />
+	[54] (434,627)<div  />
+		[55] (434,625)<div  />
+			[56] (434,625)<div  />
+				[57] (434,625)<p >Create an HTML webpage to display the generated Seoul night view image. />
+[58] (92,572)<section  />
+	[59] (92,572)<div  />
+	[60] (92,555)<header  />
+		[61] (40,555)<span >chat_mirror />
+		[62] (90,555)<span >Instruction />
+		[63] (141,555)<bb-node-run-control  />
+			[64] (141,555)<button class='node-controls' />
+				[65] (141,555)<span  />
+		[66] (156,554)<button id='connection-trigger' />
+	[67] (92,587)<div  />
+		[68] (92,586)<div  />
+			[69] (89,586)<div  />
+				[70] (89,586)<p >Describe your desired Seoul night view />
+[71] (267,570)<section  />
+	[72] (267,570)<div  />
+	[73] (267,555)<header  />
+		[74] (215,555)<span >responsive_layout />
+		[75] (265,555)<span >Output />
+		[76] (316,555)<bb-node-run-control  />
+		[77] (331,554)<button id='connection-trigger' />
+	[78] (267,585)<div  />
+		[79] (267,584)<div  />
+			[80] (237,584)<div  />
+				[81] (237,584)<div  />
+					[82] (237,584)<p >Select to edit in editor />
+[83] (293,481)<section  />
+	[84] (293,481)<div  />
+	[85] (293,466)<header  />
+		[86] (241,466)<span >responsive_layout />
+		[87] (290,466)<span >Output 1 />
+		[88] (341,466)<bb-node-run-control  />
+		[89] (357,466)<button id='connection-trigger' />
+	[90] (293,496)<div  />
+		[91] (293,495)<div  />
+			[92] (262,495)<div  />
+				[93] (262,495)<div  />
+					[94] (262,495)<p >Select to edit in editor />
+[95] (50,183)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[96] (8,183)<span >chat_mirror />
+[97] (196,183)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[98] (153,183)<span >spark />
+[99] (324,183)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[100] (290,183)<span >responsive_layout />
+[101] (470,183)<button class=' selected icon round w-500 sans-flex ' />
+	[102] (417,183)<span >add_box />
+	[103] (486,183)<span >Add Assets />
+[104] (597,209)<button >Pick File />
+[105] (644,262)<button >Create New Document />
+[106] (263,871)<bb-expanding-textarea >send />
+	[107] (263,871)<div  />
+		[108] (213,871)<div  />
+			[109] (213,871)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[110] (456,871)<button aria-label='Submit' id='submit' />
+	[111] (406,871)<bb-speech-to-text  />
+		[112] (406,871)<button  />
+			[113] (406,871)<span >mic />
+	send
+[114] (472,635)<button id='zoom-to-fit' />
+	[115] (472,635)<span >fit_screen />
+[116] (472,715)<button id='zoom-in' />
+	[117] (472,715)<span >add />
+[118] (472,776)<button id='zoom-out' />
+	[119] (472,776)<span >remove />
+undo
+redo
+Opal can make mistakes, so double-check it
+[120] (611,160)<button class='sans-flex w-500 round'>Preview />
+Console
+[121] (824,160)<button class='sans-flex w-500 round'>Step />
+[122] (919,160)<button class=' sans-flex w-500 round '>Theme />
+[123] (927,264)<button class='w-500 round sans-flex md-body-small' id='replay-autostart'>Stop />
+	[124] (898,264)<span >spark />
+[125] (763,658)<section id='console' scrollable='true' />
+	[126] (763,266)<summary class='sans-flex w-500 round md-title-medium active chat_mirror quick-access core input' />
+		[127] (575,266)<span  />
+		[128] (771,266)<div  />
+			[129] (724,266)<span >chat_mirror />
+			[130] (789,266)<span >Instruction />
+		[131] (949,266)<bb-node-run-control  />
+			[132] (949,266)<button class='node-controls' />
+				[133] (949,266)<span  />
+	[134] (763,519)<details  />
+		[135] (763,369)<summary class=' w-400 sans-flex round chat_mirror ' />
+			[136] (575,369)<span  />
+			[137] (786,369)<div  />
+				[138] (621,369)<span >chat_mirror />
+				[139] (804,369)<span  />
+					[140] (664,369)<span >Input />
+					[141] (946,369)<span >0.0s />
+		[142] (594,504)<button id='add-asset' />
+			[143] (594,504)<span >add_circle />
+		[144] (732,500)<textarea id='text-input' placeholder='Type or upload your response.' />
+		[145] (871,504)<button  />
+			[146] (871,504)<span >mic />
+		[147] (932,504)<button id='continue' title='Submit' />
+			[148] (932,504)<span >send />
+		[149] (764,548)<button id='reporting-button'>Reporting Button />
+		Opal can make mistakes, so double-check it
+	[150] (763,780)<summary class=' sans-flex w-500 round md-title-medium empty active button_magic quick-access generative generate ' />
+		[151] (771,780)<div  />
+			[152] (637,780)<span >button_magic />
+			[153] (789,780)<span >Generate Seoul Night View Image />
+		[154] (949,780)<bb-node-run-control  />
+	[155] (763,902)<summary class=' sans-flex w-500 round md-title-medium empty active web quick-access core ' />
+		[156] (771,902)<div  />
+			[157] (624,902)<span >web />
+			[158] (789,902)<span >Generate Seoul Night View Webpage />
+		[159] (949,902)<bb-node-run-control  />
+[160] (756,905)<button id='close' />
+	[161] (756,905)<span  />
+
+</current_dom>

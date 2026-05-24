@@ -1,0 +1,41 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (781,48)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (771,49)<span  />
+	[2] (795,52)<span  />
+[3] (860,48)<a class='dropdown-toggle' href='#' />
+	[4] (850,49)<span  />
+	[5] (874,52)<span  />
+[6] (939,48)<a class='dropdown-toggle' href='#' />
+	[7] (930,49)<span  />
+	[8] (953,52)<span  />
+Folders
+[9] (909,296)<button class='btn btn-sm btn-default' />
+	[10] (860,298)<span  />
+	[11] (919,295)<span >Add Folder />
+This Device
+[12] (500,474)<button class='btn panel-heading' />
+	[13] (54,474)<identicon  />
+Download Rate
+[14] (921,540)<a class='toggler ng-binding' href='#'>(0 B) />
+	[15] (896,540)<span >0 B/s />
+Upload Rate
+[16] (921,585)<a class='toggler ng-binding' href='#'>(0 B) />
+	[17] (896,585)<span >0 B/s />
+Local State (Total)
+0
+0
+~0 B
+Listeners
+[18] (959,676)<a class='ng-binding'>0/ />
+Uptime
+<1m
+Identification
+Version
+Remote Devices
+Recent Changes
+Add Remote Device
+
+</current_dom>

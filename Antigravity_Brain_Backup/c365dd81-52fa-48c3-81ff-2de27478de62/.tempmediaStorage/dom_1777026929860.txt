@@ -1,0 +1,57 @@
+[0] (500,225)<div  />
+	[1] (929,71)<button  />
+	curl -X
+	'POST'
+	\
+	'http://127.0.0.1:2027/generate'
+	\
+	-H
+	'accept: application/json'
+	\
+	-H
+	'Content-Type: application/json'
+	\
+	-d
+	'{"concept": "Late Night Lofi", "track_count": 12}'
+	Request URL
+	http://127.0.0.1:2027/generate
+	Server response
+	Code
+	Details
+	500
+	Undocumented
+	Error: Internal Server Error
+	Response body
+	[2] (832,466)<button  />
+	[3] (899,466)<button class='download-contents'>Download />
+	Internal Server
+	Error
+	Response headers
+	content-length
+	:
+	21
+	content-type
+	:
+	text/plain; charset=utf-8
+	date
+	:
+	Fri,24 Apr 2026 10:35:19 GMT
+	server
+	:
+	uvicorn
+	Responses
+	Code
+	Description
+	Links
+	200
+	Successful Response
+	Media type
+	[4] (254,893)<select aria-label='Media Type' class='content-type' />
+	Controls
+	Accept
+	header.
+	[5] (186,985)<li class='tabitem active' role='presentation' />
+		[6] (180,986)<button class='tablinks' id='tpM6wg4=' role='tab'>Example Value />
+	[7] (267,985)<li class='tabitem' role='presentation' />
+		[8] (259,986)<button class='tablinks' id='jIEj/WU=' role='tab'>Schema />
+	No links

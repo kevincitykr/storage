@@ -1,0 +1,317 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (39,32)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (39,32)<yt-icon  />
+		[2] (39,32)<span  />
+			[3] (39,32)<div  />
+[4] (126,32)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (126,32)<div  />
+		[6] (126,31)<ytd-logo  />
+			[7] (126,32)<yt-icon  />
+				[8] (128,32)<span  />
+					[9] (128,32)<div  />
+KR
+[10] (438,32)<div  />
+	[11] (428,32)<form  />
+		[12] (428,32)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (574,32)<div  />
+		[14] (574,32)<ytd-text-input-assistant  />
+			[15] (574,32)<button class='ytdTextInputAssistantButton' />
+				[16] (574,32)<img  />
+[17] (630,32)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (630,32)<span  />
+		[19] (630,32)<span  />
+			[20] (630,32)<div  />
+[21] (703,32)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (703,32)<yt-touch-feedback-shape  />
+		[23] (703,32)<div  />
+[24] (791,32)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (791,32)<yt-touch-feedback-shape  />
+		[26] (791,32)<div  />
+[27] (872,32)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (872,31)<yt-icon-badge-shape  />
+		[29] (872,32)<div  />
+			[30] (872,32)<div  />
+				[31] (872,32)<span  />
+					[32] (872,32)<span  />
+						[33] (872,32)<div  />
+[34] (934,32)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[35] (934,32)<yt-img-shadow  />
+		[36] (934,32)<img  />
+AI 홈페이지 자동 생성
+스폰서
+manus.im
+사이트 방문
+토큰 0원! 답답해서 직접 개발한 '제2의 두뇌' 로컬 AI 연결 프로그램 무료 배포
+[37] (45,184)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@CONNECT-AI-LAB' />
+	[38] (39,182)<yt-img-shadow  />
+		[39] (39,182)<img  />
+[40] (142,173)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@CONNECT-AI-LAB'>CONNECT AI LAB />
+구독자 10.3만명
+[41] (265,184)<button aria-label='이 채널 가입' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	가입
+	[42] (265,184)<yt-touch-feedback-shape  />
+		[43] (265,184)<div  />
+[44] (345,184)<button aria-label='현재 설정은 맞춤설정 알림 수신입니다. CONNECT AI LAB 채널의 알림 설정을 변경하려면 탭하세요.' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading-trailing yt-spec-button-shape-next--icon-leading-trailing-no-text yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[45] (345,184)<yt-touch-feedback-shape  />
+		[46] (345,184)<div  />
+[47] (503,184)<button aria-label='다른 사용자 460명과 함께 이 동영상에 좋아요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--segmented-start yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	0
+	1
+	[48] (503,184)<yt-touch-feedback-shape  />
+		[49] (503,184)<div  />
+[50] (574,184)<button aria-label='동영상에 싫어요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[51] (574,184)<yt-touch-feedback-shape  />
+		[52] (574,184)<div  />
+[53] (654,184)<button aria-label='공유' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>공유 />
+	공유
+	[54] (654,184)<yt-touch-feedback-shape  />
+		[55] (654,184)<div  />
+[56] (765,184)<button aria-label='질문하기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>질문하기 />
+	질문하기
+	[57] (765,184)<yt-touch-feedback-shape  />
+		[58] (765,184)<div  />
+[59] (875,184)<button aria-label='재생목록에 저장' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>저장 />
+	저장
+	[60] (875,184)<yt-touch-feedback-shape  />
+		[61] (875,184)<div  />
+[62] (947,184)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[63] (947,184)<yt-touch-feedback-shape  />
+		[64] (947,184)<div  />
+조회수
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+,
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+0
+1
+2
+3
+4
+5
+6
+7
+8
+9
+회
+2026. 4. 14.
+2개 제품
+CONNECT AI LAB이(가) 태그된 제품에 대해
+수수료를 받습니다
+.
+[65] (484,271)<a class='yt-simple-endpoint style-scope yt-formatted-string'>자세히 알아보기 />
+[66] (213,323)<a aria-label='Apple 맥북 프로 14 M5칩 스페이스 블랙 M5 Pro 15코어 16코어 GPU 24GB 1TB 한글, ₩3,274,800 , 판매처: 쿠팡!' class='yt-simple-endpoint style-scope ytd-merch-shelf-item-renderer' />
+	[67] (209,323)<div  />
+		[68] (60,323)<yt-img-shadow  />
+			[69] (60,323)<img  />
+		[70] (233,323)<div  />
+			[71] (233,323)<div  />
+				[72] (233,314)<div  />
+					[73] (180,314)<div >Apple 맥북 프로 14 M5칩 스페이스 블랙 M5 Pro 15코어 16코어 GPU 24GB 1TB 한글 />
+					[74] (335,314)<div  />
+						[75] (335,314)<div >₩3,274,800 />
+				[76] (216,334)<div  />
+					[77] (216,334)<div >link.coupang.com/re3/AFYOUTUBE?pageKey=9140128274&ctag=9140128274&itemId=27961799023&vendorItemId=94919837750 />
+[78] (583,323)<a aria-label='슈어 레코딩용 유선 마이크 SM7dB, ₩910,000 , 판매처: 쿠팡!' class='yt-simple-endpoint style-scope ytd-merch-shelf-item-renderer' />
+	[79] (579,323)<div  />
+		[80] (430,323)<yt-img-shadow  />
+			[81] (430,323)<img  />
+		[82] (602,323)<div  />
+			[83] (602,323)<div  />
+				[84] (602,314)<div  />
+					[85] (556,314)<div >슈어 레코딩용 유선 마이크 SM7dB />
+					[86] (711,314)<div  />
+						[87] (711,314)<div >₩910,000 />
+				[88] (586,334)<div  />
+					[89] (586,334)<div >link.coupang.com/re3/AFYOUTUBE?pageKey=7821298513&ctag=7821298513&itemId=21245357721&vendorItemId=88305991812 />
+👋 안녕하세요, 24시간 돌아가는 'AI 1인 기업' 시스템을 연구하고 교육하는, 
+AI 멘토 Jay입니다. 
+
+🔥 나만의 AI 에이전트 육성하기 대망의 최종 특별편!
+
+"똑같은 깡통 AI에게 뻔한 질문을 던지는 사람 vs 내 10년 치 실무 지식(브레인)을 완벽히 흡수한 에이전트를 부리는 사람." 
+다가올 미래에 누가 성공할까요?
+
+하지만 기존의 방식으로는 속도 저하와 500 에러를 피할 수 없었고, 완벽하게 내 프라이빗 데이터를 연결할 프로그램은 세상에 없었습니다. 
+계속 기다리다 답답해서... 
+결국 제가 세계 최초로 '내 지식'과 '로컬 AI'를 연결하는 안티그래비티 통합 프로그램을 돌파구로 직접 개발해 버렸습니다.
+
+클릭 한 번으로 내 컴퓨터의 메모리 환경에 맞춰 Ollama와 LM Studio를 마음대로 스위칭하세요. 인터넷(Wi-Fi) 선을 완전히 뽑은 100% 오프라인 상태에서도, 여러분의 마크다운 지식 파일을 긁어와 미친듯한 속도로 코딩과 기획을 수행해 내는 기적을 확인하실 수 있습니다.
+
+⬇️ 영상에서 사용된 모든 도구와 교재 링크입니다 ⬇️
+
+🔒 안티그래비티 대규모 통합 VSIX + 제2의 두뇌 연동 도구 배포 링크 
+👉
+[90] (198,789)<a class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbUFvcVV5allIaFRQM3R4aTR2djRBMnh3aDVCQXxBQ3Jtc0tueUNWWjJKLWRqa0hOUEFBQ1BqQmVvYjd6b0NYT2NTdGxCWjRDSzhrMzNTdF8waWJ0MmFPNVRsRXJ4bExSVW5iR0MxbEkwZUVQT0RlcFVmWnhJWEd3SEJiQ3lWZTRIcDYzdFpfVGNsOEhGOTRUX1VOcw&q=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fconnect-ai%2Freleases%2Ftag%2Fv2.1.2&v=TAkD3UL0_kE'>https://github.com/wonseokjung/connec... />
+📚 [나만의 프라이빗 AI 에이전트 만들기 시리즈 정주행] 
+▶ EP.1 보안 편:
+[91] (362,858)<a aria-label='YouTube Channel Link: 사용료 0원! 구글 Gemma 4로 나만의 AI 에이전트 육성하기 EP.1 (설치부터 이론/실습까지)' class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/watch?v=eyFk27mwFJo'>• 사용료 0원! 구글 Gemma 4로 나만의 AI 에이전트 육성하기 EP.1 ... />
+	[92] (149,859)<span  />
+		[93] (149,859)<img  />
+▶ EP.2 비용 최적화 편:
+[94] (415,881)<a aria-label='YouTube Channel Link: 토큰값 0원! 구글 Gemma 4로 나만의 AI 코딩 에이전트 육성하기 EP.2 (안티그래비티 바이브 + Gemma 4)' class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/watch?v=ZtVTeLQDyHQ'>• 토큰값 0원! 구글 Gemma 4로 나만의 AI 코딩 에이전트 육성하기 EP... />
+	[95] (194,882)<span  />
+		[96] (194,882)<img  />
+▶ EP.3 지식 구축 편:
+[97] (373,904)<a aria-label='YouTube Channel Link: [EP.3] 10년 치 지식! 구글 Gemma 4로 나만의 AI '제2의 두뇌' 복제하기' class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/watch?v=TNEwF_WmgO4'>• [EP.3] 10년 치 지식! 구글 Gemma 4로 나만의 AI '제2의 두... />
+	[98] (180,905)<span  />
+		[99] (180,905)<img  />
+▶ [현재 영상] 특별편 도구 배포:
+[100] (466,928)<a aria-label='YouTube Channel Link: 토큰 0원! 답답해서 직접 개발한 '제2의 두뇌' 로컬 AI 연결 프로그램 무료 배포' class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='/watch?v=TAkD3UL0_kE'>• 토큰 0원! 답답해서 직접 개발한 '제2의 두뇌' 로컬 AI 연결 프로그램 ... />
+	[101] (247,928)<span  />
+		[102] (247,928)<img  />
+🔥 더욱 최신 트렌드를 파악하고 매주 월요일 8시 라이브로 소통하며 공부하고 싶다면? 👑 제이멘토 유튜브 멤버십 가입:
+[103] (854,973)<a aria-label='YouTube Channel Link: @CONNECT-AI-LAB' class='ytAttributedStringLink ytAttributedStringLinkCallToActionColor' href='https://www.youtube.com/channel/UCdLZ0MsYS4hmqFgOYCB6C9w/join'>/ @connect-ai-lab />
+	[104] (793,974)<span  />
+		[105] (793,974)<img  />
+
+</current_dom>

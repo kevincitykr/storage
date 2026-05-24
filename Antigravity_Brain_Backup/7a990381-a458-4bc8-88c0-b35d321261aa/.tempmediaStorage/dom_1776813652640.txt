@@ -1,0 +1,162 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (96,76)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjy1NrMioCUAxUPSPUHHZuAH0MQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (392,75)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (601,75)<div  />
+	[3] (599,75)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (599,75)<span  />
+	[5] (624,75)<span  />
+[6] (649,75)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (649,75)<span  />
+[8] (690,75)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (732,75)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (779,75)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (772,75)<div  />
+		[12] (772,75)<span  />
+[13] (860,75)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' role='button' />
+[14] (910,75)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (959,75)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25EC%259C%2588%25EB%2593%25A4%25EB%25A6%25AC%2B%25EC%2588%2598%25EC%25A7%2591%2B%25EB%25B2%2584%25ED%258A%25BC%2Bselector&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (71,164)<a class='XVMlrc C6AK7c' href='/search?q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+selector&sca_esv=90400c0a8b8f484b&sxsrf=ANbL-n4xsdCbauDU15loYPCUjKBMr3H4SA:1776813635715&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&aep=1&ntc=1&sa=X&ved=2ahUKEwjy1NrMioCUAxUPSPUHHZuAH0MQ2J8OegQIDRAI' />
+	[17] (71,164)<div  />
+		[18] (71,177)<div  />
+			[19] (71,169)<span >AI 모드 />
+[20] (131,164)<a class='C6AK7c' role='link' />
+	전체
+[21] (182,164)<a class='C6AK7c' href='/search?sca_esv=90400c0a8b8f484b&sxsrf=ANbL-n4xsdCbauDU15loYPCUjKBMr3H4SA:1776813635715&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+selector&ved=1t:220175&ictx=111' />
+	[22] (182,164)<div  />
+		[23] (182,177)<span >쇼핑 />
+[24] (240,164)<a class='C6AK7c' href='/search?sca_esv=90400c0a8b8f484b&sxsrf=ANbL-n4xsdCbauDU15loYPCUjKBMr3H4SA:1776813635715&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+selector&sa=X&ved=2ahUKEwjy1NrMioCUAxUPSPUHHZuAH0MQtKgLegQIEhAB' />
+	[25] (240,164)<div  />
+		[26] (240,177)<span >이미지 />
+[27] (305,164)<a class='C6AK7c' href='/search?sca_esv=90400c0a8b8f484b&sxsrf=ANbL-n4xsdCbauDU15loYPCUjKBMr3H4SA:1776813635715&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+selector&sa=X&ved=2ahUKEwjy1NrMioCUAxUPSPUHHZuAH0MQtKgLegQIERAB' />
+	[28] (305,164)<div  />
+		[29] (305,177)<span >동영상 />
+[30] (385,164)<a class='C6AK7c' href='/search?sca_esv=90400c0a8b8f484b&sxsrf=ANbL-n4xsdCbauDU15loYPCUjKBMr3H4SA:1776813635715&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+selector&sa=X&ved=2ahUKEwjy1NrMioCUAxUPSPUHHZuAH0MQs6gLegQIEBAB' />
+	[31] (385,164)<div  />
+		[32] (385,177)<span >짧은 동영상 />
+[33] (458,164)<a class='C6AK7c' href='/search?sca_esv=90400c0a8b8f484b&sxsrf=ANbL-n4xsdCbauDU15loYPCUjKBMr3H4SA:1776813635715&q=%EC%9C%88%EB%93%A4%EB%A6%AC+%EC%88%98%EC%A7%91+%EB%B2%84%ED%8A%BC+selector&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV0AWGBWuQtWjpZSXtcHUqoJtjvqcBSPQ1l5QX8WM6Le7TuEB2rxUDDJ41dmpAR32hJEnXZI0a_UIgEG23uMeTBmzOMxVWumsX_Cu_w9a9ZgYomb5A91-ZzDCRDwqfYYpXJevHQU_igqtGajA2ryl712WxXttg&sa=X&ved=2ahUKEwjy1NrMioCUAxUPSPUHHZuAH0MQ0pQJegQIDxAB' />
+	[34] (458,164)<div  />
+		[35] (458,177)<span >뉴스 />
+[36] (525,164)<div class='mTpL7c' role='button' />
+	[37] (525,164)<div  />
+		[38] (525,177)<div  />
+			[39] (516,169)<span >더보기 />
+			[40] (545,169)<span  />
+[41] (601,164)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (601,164)<div  />
+		[43] (601,177)<div  />
+			[44] (592,169)<span >도구 />
+			[45] (615,169)<span  />
+검색결과
+동영상
+[46] (138,268)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[47] (138,268)<span  />
+		[48] (138,269)<span  />
+[49] (471,375)<a class='rIRoqf' href='https://www.youtube.com/watch?v=hij6GoSrrCY' />
+	[50] (471,375)<div class='V5XKdd' role='heading' />
+		[51] (471,332)<div  />
+			[52] (361,332)<div  />
+				[53] (361,332)<span >수집상품 옵션탭 설정 | 윈들리 가이드 #8 />
+		[54] (471,403)<div  />
+			[55] (471,403)<div  />
+				[56] (471,387)<span  />
+					[57] (250,386)<span >YouTube />
+					[58] (331,386)<span >윈들리(Windly) />
+						[59] (283,386)<span >· />
+				[60] (471,419)<div  />
+					[61] (256,418)<span >2024. 3. 8. />
+[62] (405,386)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[63] (405,386)<span  />
+		[64] (405,387)<span  />
+[65] (125,375)<div aria-label='윈들리(Windly)님이 YouTube에 게시한 수집상품 옵션탭 설정 | 윈들리 가이드 #8. Google에서 재생. 2:49' class='rIRoqf hXY9cf' role='button' />
+	[66] (125,375)<div  />
+		[67] (125,375)<div  />
+			[68] (78,409)<div  />
+				[69] (78,408)<span >2:49 />
+			[70] (183,341)<div  />
+				[71] (183,341)<span  />
+[72] (471,530)<a class='rIRoqf' href='https://www.youtube.com/watch?v=K53rBARALb0' />
+	[73] (471,530)<div class='V5XKdd' role='heading' />
+		[74] (471,487)<div  />
+			[75] (393,487)<div  />
+				[76] (393,487)<span >수집상품 업로드 설정 탭 설정 | 윈들리 가이드 #12 />
+		[77] (471,558)<div  />
+			[78] (471,558)<div  />
+				[79] (471,542)<span  />
+					[80] (250,541)<span >YouTube />
+					[81] (331,541)<span >윈들리(Windly) />
+						[82] (283,541)<span >· />
+				[83] (471,574)<div  />
+					[84] (260,573)<span >2024. 3. 19. />
+[85] (405,541)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[86] (405,541)<span  />
+		[87] (405,542)<span  />
+[88] (125,530)<div aria-label='윈들리(Windly)님이 YouTube에 게시한 수집상품 업로드 설정 탭 설정 | 윈들리 가이드 #12. Google에서 재생. 3:04' class='rIRoqf hXY9cf' role='button' />
+	[89] (125,530)<div  />
+		[90] (125,530)<div  />
+			[91] (78,564)<div  />
+				[92] (78,563)<span >3:04 />
+			[93] (183,496)<div  />
+				[94] (183,496)<span  />
+[95] (471,685)<a class='rIRoqf' href='https://www.youtube.com/watch?v=7ENujveE93Q' />
+	[96] (471,685)<div class='V5XKdd' role='heading' />
+		[97] (471,643)<div  />
+			[98] (390,643)<div  />
+				[99] (390,643)<span >수집상품 상세페이지 탭 설정 | 윈들리 가이드 #11 />
+		[100] (471,713)<div  />
+			[101] (471,713)<div  />
+				[102] (471,697)<span  />
+					[103] (250,696)<span >YouTube />
+					[104] (331,696)<span >윈들리(Windly) />
+						[105] (283,696)<span >· />
+				[106] (471,729)<div  />
+					[107] (260,728)<span >2024. 3. 19. />
+[108] (405,696)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[109] (405,696)<span  />
+		[110] (405,697)<span  />
+[111] (125,685)<div aria-label='윈들리(Windly)님이 YouTube에 게시한 수집상품 상세페이지 탭 설정 | 윈들리 가이드 #11. Google에서 재생. 4:52' class='rIRoqf hXY9cf' role='button' />
+	[112] (125,685)<div  />
+		[113] (125,685)<div  />
+			[114] (78,719)<div  />
+				[115] (78,718)<span >4:52 />
+			[116] (183,651)<div  />
+				[117] (183,651)<span  />
+[118] (471,840)<a class='rIRoqf' href='https://www.youtube.com/watch?v=khUeaym3-wQ' />
+	[119] (471,840)<div class='V5XKdd' role='heading' />
+		[120] (471,798)<div  />
+			[121] (352,798)<div  />
+				[122] (352,798)<span >윈들리 국내 위탁판매 통합 사용가이드 />
+		[123] (471,868)<div  />
+			[124] (471,868)<div  />
+				[125] (471,852)<span  />
+					[126] (250,852)<span >YouTube />
+					[127] (331,852)<span >윈들리(Windly) />
+						[128] (283,852)<span >· />
+				[129] (471,884)<div  />
+					[130] (260,883)<span >2025. 5. 17. />
+[131] (405,851)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[132] (405,851)<span  />
+		[133] (405,852)<span  />
+[134] (125,840)<div aria-label='윈들리(Windly)님이 YouTube에 게시한 윈들리 국내 위탁판매 통합 사용가이드. Google에서 재생. 29:03' class='rIRoqf hXY9cf' role='button' />
+	[135] (125,840)<div  />
+		[136] (125,840)<div  />
+			29:03
+			[137] (183,806)<div  />
+				[138] (183,806)<span  />
+[139] (214,949)<div class='KMEEs' role='button' />
+	[140] (214,949)<div  />
+		[141] (250,940)<div  />
+			[142] (245,940)<div  />
+				[143] (204,940)<div  />
+					[144] (204,940)<span  />
+						[145] (204,940)<span  />
+							[146] (204,940)<span >이 동영상의 주요 순간 13개 />
+				[147] (316,940)<span  />
+
+</current_dom>

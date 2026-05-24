@@ -1,0 +1,67 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+온라인견적
+[0] (103,102)<li class='cate_tab_all pc cate_tab1' id='cate_tab1'>데스크탑ㆍ조립PC />
+[1] (262,102)<li class='cate_tab_all  cate_tab8' id='cate_tab8'>키보드ㆍ마우스ㆍ저장장치 />
+[2] (420,102)<li class='cate_tab_all  cate_tab88' id='cate_tab88'>스마트폰ㆍ액세서리 />
+[3] (579,102)<li class='cate_tab_all  cate_tab87' id='cate_tab87'>가구ㆍ조명ㆍ전기 />
+[4] (737,102)<li class='cate_tab_all  cate_tab5' id='cate_tab5'>모니터ㆍ모니터주변기기 />
+[5] (896,102)<li class='cate_tab_all  cate_tab11' id='cate_tab11'>프린터ㆍ전산소모품 />
+[6] (103,170)<li class='cate_tab_all pc cate_tab2' id='cate_tab2'>노트북ㆍ태블릿 />
+[7] (262,170)<li class='cate_tab_all  cate_tab7' id='cate_tab7'>음향ㆍ영상ㆍ카메라 />
+[8] (420,170)<li class='cate_tab_all  cate_tab14' id='cate_tab14'>자동차ㆍ공구ㆍ안전 />
+[9] (579,170)<li class='cate_tab_all  cate_tab12' id='cate_tab12'>네트워크ㆍ케이블ㆍCCTV />
+[10] (737,170)<li class='cate_tab_all pc cate_tab3' id='cate_tab3'>Apple />
+[11] (896,170)<li class='cate_tab_all  cate_tab101' id='cate_tab101'>영상가전 />
+[12] (103,239)<li class='cate_tab_all  cate_tab13' id='cate_tab13'>생활가전 />
+[13] (262,239)<li class='cate_tab_all  cate_tab110' id='cate_tab110'>주방가전 />
+[14] (420,239)<li class='cate_tab_all  cate_tab107' id='cate_tab107'>계절가전 />
+[15] (579,239)<li class='cate_tab_all  cate_tab103' id='cate_tab103'>게임ㆍ드론ㆍ완구 />
+[16] (737,239)<li class='cate_tab_all  cate_tab105' id='cate_tab105'>스포츠ㆍ레저 />
+[17] (896,239)<li class='cate_tab_all  cate_tab89' id='cate_tab89'>중고ㆍ리퍼비시 />
+[18] (103,307)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[19] (262,307)<li  />
+[20] (420,307)<li  />
+[21] (579,307)<li  />
+[22] (737,307)<li  />
+[23] (896,307)<li  />
+PC구성
+[24] (187,422)<li class='cate_tab_all cate0 cate_tab_iworks' id='cate_tab_iwork'>아이웍스PC />
+[25] (240,422)<li class='cate_tab_all cate1 cate_tab1012' id='cate_tab1012'>CPU />
+[26] (288,422)<li class='cate_tab_all cate2 cate_tab1013' id='cate_tab1013'>메인보드 />
+[27] (340,422)<li class='cate_tab_all cate3 cate_tab1014 ON' id='cate_tab1014'>메모리 />
+[28] (396,422)<li class='cate_tab_all cate4 cate_tab1016' id='cate_tab1016'>그래픽카드 />
+[29] (447,422)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[30] (487,422)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[31] (531,422)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[32] (573,422)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[33] (631,422)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[34] (693,422)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[35] (740,422)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[36] (796,422)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[37] (857,422)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[38] (924,422)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+[39] (268,535)<dd class='ls_div on' id='ls_div0' />
+	[40] (207,535)<label >전체 />
+[41] (268,583)<dd class='ls_div ' id='ls_div2036' />
+	[42] (209,583)<label >PC용 />
+[43] (268,632)<dd class='ls_div ' id='ls_div2037' />
+	[44] (216,632)<label >노트북용 />
+[45] (268,680)<dd class='ls_div ' id='ls_div2038' />
+	[46] (211,680)<label >서버용 />
+[47] (268,729)<dd class='ls_div ' id='ls_div2474' />
+	[48] (235,729)<label >XMP/EXPO 메모리 />
+[49] (666,671)<a href='https://www.compuzone.co.kr/cscenter/service_guide.htm?bannerid=OnlineBanner' />
+	[50] (666,671)<img  />
+메모리
+[51] (353,943)<input id='Search_free' />
+무료배송
+행사제품보기
+총 견적금액
+0
+원
+
+</current_dom>

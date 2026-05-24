@@ -1,0 +1,15 @@
+# Syncthing Investigation Task List
+
+- [x] Open http://localhost:8384
+- [x] Inspect 'Kevincity Share' folder status: '동기화 준비' (Preparing to Sync)
+- [ ] Check if folder is 'Scanning'
+- [ ] Check logs for errors (Actions -> Logs)
+- [ ] Check 'upload2601' device status
+- [ ] Investigate low speed (1 B/s)
+- [ ] Check for conflicts or failed items
+
+### Findings
+- Folder 'Kevincity Share' (ID: rlpuk-xkiiv) is in 'Preparing to Sync' state.
+- There is a 'New Folder' request from 'upload2601' for 'kevincity share' (ID: embcu-ntnsc).
+- 'upload2601' device is currently 'Syncing' (9%, 110 GiB) but speed is very low (0 B/s currently).
+- Out of sync items: 66,260 items, ~10.9 GiB.

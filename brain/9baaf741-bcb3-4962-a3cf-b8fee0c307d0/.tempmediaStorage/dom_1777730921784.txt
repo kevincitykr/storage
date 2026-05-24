@@ -1,0 +1,229 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (72,53)<a href='../main/main.htm' />
+	[1] (72,53)<img  />
+[2] (299,53)<div class='search_bar on' />
+	[3] (277,53)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (408,53)<button aria-label='검색삭제' class='close12_FF' id='search_close_btn' />
+	[5] (430,53)<button aria-label='검색' class='search28_3A' />
+[6] (699,152)<a class='close24_3A' href='javascript:void(0);' />
+[7] (208,159)<a href='javascript:getSearchList('recent');'>최근 검색어 />
+[8] (288,160)<a href='javascript:getSearchList('my');' id='mySearchList'>내 검색어 />
+	[9] (311,155)<i  />
+[10] (218,223)<p class='ntRB14'>RTX 4060 Ti 16GB />
+[11] (323,223)<a class='close16_6C' href='javascript:;' />
+[12] (209,275)<p class='ntRB14'>4060 Ti 16GB />
+[13] (323,275)<a class='close16_6C' href='javascript:;' />
+[14] (191,770)<button class='btn_S btn_FF'>전체 삭제 />
+급상승 검색어
+73
+19
+73
+308
+170
+127
+203
+55
+841
+119
+1.
+선풍기
+118
+2.
+노트북 받침대
+NEW
+3.
+갤럭시북
+25
+4.
+모니터암
+291
+5.
+b850
+142
+6.
+미니PC
+57
+7.
+LG gram
+27
+8.
+가습기
+46
+9.
+HDD
+54
+10.
+27인치 모니터
+185
+11.
+ram
+73
+12.
+RTX 5080
+19
+13.
+285k
+73
+14.
+ddr4 8g
+308
+15.
+sd카드
+170
+16.
+X870E
+127
+17.
+윈도우
+203
+18.
+h8008
+55
+19.
+노트북 거치대
+841
+20.
+노트북 가방
+119
+1.
+[15] (391,225)<a class='ntRB14' href='javascript:sch_rank_word('선풍기','1')'>선풍기 />
+[16] (505,225)<span aria-label='Next slide' class='right upRed' role='button'>118 />
+2.
+[17] (405,276)<a class='ntRB14' href='javascript:sch_rank_word('노트북 받침대','2')'>노트북 받침대 />
+[18] (503,276)<span aria-label='Next slide' class='right new' role='button'>NEW />
+3.
+[19] (395,328)<a class='ntRB14' href='javascript:sch_rank_word('갤럭시북','3')'>갤럭시북 />
+[20] (508,328)<span aria-label='Next slide' class='right upRed' role='button'>25 />
+4.
+[21] (395,380)<a class='ntRB14' href='javascript:sch_rank_word('모니터암','4')'>모니터암 />
+[22] (505,380)<span aria-label='Next slide' class='right upRed' role='button'>291 />
+5.
+[23] (388,432)<a class='ntRB14' href='javascript:sch_rank_word('b850','5')'>b850 />
+[24] (505,432)<span aria-label='Next slide' class='right upRed' role='button'>142 />
+6.
+[25] (392,483)<a class='ntRB14' href='javascript:sch_rank_word('미니PC','6')'>미니PC />
+[26] (508,483)<span aria-label='Next slide' class='right upRed' role='button'>57 />
+7.
+[27] (395,535)<a class='ntRB14' href='javascript:sch_rank_word('LG gram','7')'>LG gram />
+[28] (508,535)<span aria-label='Next slide' class='right upRed' role='button'>27 />
+8.
+[29] (391,587)<a class='ntRB14' href='javascript:sch_rank_word('가습기','8')'>가습기 />
+[30] (508,587)<span aria-label='Next slide' class='right upRed' role='button'>46 />
+9.
+[31] (388,639)<a class='ntRB14' href='javascript:sch_rank_word('HDD','9')'>HDD />
+[32] (508,639)<span aria-label='Next slide' class='right upRed' role='button'>54 />
+10.
+[33] (410,690)<a class='ntRB14' href='javascript:sch_rank_word('27인치 모니터','10')'>27인치 모니터 />
+[34] (505,690)<span aria-label='Next slide' class='right upRed' role='button'>185 />
+[35] (430,750)<span aria-label='Go to slide 1' class='swiper-pagination-bullet swiper-pagination-bullet-active' role='button' />
+[36] (437,750)<span aria-label='Go to slide 2' class='swiper-pagination-bullet' role='button' />
+[37] (411,750)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[38] (455,750)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+추천 쇼핑 키워드
+[39] (605,230)<a href='https://www.compuzone.co.kr/event_zone/pickup.htm'>10분 내 수령! 바로픽업PC 오픈 />
+[40] (606,287)<a href='../event_zone/eventzone_view.htm?EventNo=60893'>드롱기 커피머신 브랜드 기획전 />
+[41] (606,344)<a href='../event_zone/eventzone_view.htm?EventNo=60377'>카멜마운트와 설레는 봄의 시작 />
+[42] (607,401)<a href='../event_zone/eventzone_view.htm?EventNo=59906'>HP OMEN 16L 데스크탑 모음전 />
+[43] (606,457)<a href='../event_zone/eventzone_view.htm?EventNo=60912'>현대일렉트릭 멀티탭 파격 혜택 />
+[44] (594,514)<a href='../event_zone/eventzone_view.htm?EventNo=60911'>쿨러 번들팩 할인 이벤트! />
+[45] (604,571)<a href='../event_zone/eventzone_view.htm?EventNo=60934'>NVIDIA PRAGMATA 게임 증정 />
+[46] (878,53)<a href='javascript:void(0);'>로그인 />
+[47] (921,53)<a href='../member/member_kind.htm'>회원가입 />
+[48] (968,53)<a href='javascript:void(0);'>상담센터 />
+[49] (29,140)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[50] (64,140)<a class='prev24_6C nav_prev_btn' href='javascript:void(0);' />
+[51] (96,144)<a href='javascript:void(0);'>조립PC />
+[52] (134,144)<a href='javascript:void(0);'>견적 />
+파격할인
+무료배송
+1시간픽업
+이벤트
+컴퓨존추천
+전용관
+매거진
+결제혜택
+래플
+컴퓨존 라이브
+공식
+[53] (898,124)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[54] (898,157)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[55] (930,150)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[56] (971,150)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[57] (956,519)<a href='javascript:void(0);' />
+	[58] (946,519)<span  />
+		[59] (946,519)<img  />
+	[60] (968,519)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+[61] (956,654)<a href='../event_zone/eventzone_view.htm?EventNo=60956&bannerid=QuickMenuRolling' />
+	[62] (956,654)<img  />
+	[63] (956,684)<p >HP노트북
+마스터팩 />
+배민5만원
+[64] (937,736)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+2
+/
+5
+[65] (975,736)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[66] (956,786)<p class='ntRB12 co6C'>최근 본 상품 />
+[67] (956,846)<a href='javascript:;' />
+	[68] (956,846)<img  />
+[69] (940,938)<a href='javascript:void(0);' />
+	[70] (940,938)<img  />
+[71] (973,938)<a href='javascript:void(0);' />
+	[72] (973,938)<img  />
+온라인견적
+[73] (103,391)<li class='cate_tab_all pc cate_tab1' id='cate_tab1'>데스크탑ㆍ조립PC />
+키보드ㆍ마우스ㆍ저장장치
+스마트폰ㆍ액세서리
+가구ㆍ조명ㆍ전기
+[74] (737,391)<li class='cate_tab_all  cate_tab5' id='cate_tab5'>모니터ㆍ모니터주변기기 />
+[75] (896,391)<li class='cate_tab_all  cate_tab11' id='cate_tab11'>프린터ㆍ전산소모품 />
+[76] (103,459)<li class='cate_tab_all pc cate_tab2' id='cate_tab2'>노트북ㆍ태블릿 />
+음향ㆍ영상ㆍ카메라
+자동차ㆍ공구ㆍ안전
+네트워크ㆍ케이블ㆍCCTV
+[77] (737,459)<li class='cate_tab_all pc cate_tab3' id='cate_tab3'>Apple />
+[78] (896,459)<li class='cate_tab_all  cate_tab101' id='cate_tab101'>영상가전 />
+[79] (103,528)<li class='cate_tab_all  cate_tab13' id='cate_tab13'>생활가전 />
+주방가전
+계절가전
+게임ㆍ드론ㆍ완구
+[80] (737,528)<li class='cate_tab_all  cate_tab105' id='cate_tab105'>스포츠ㆍ레저 />
+[81] (896,528)<li class='cate_tab_all  cate_tab89' id='cate_tab89'>중고ㆍ리퍼비시 />
+[82] (103,596)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[83] (737,596)<li  />
+[84] (896,596)<li  />
+PC구성
+아이웍스PC
+CPU
+메인보드
+메모리
+그래픽카드
+SSD
+HDD
+케이스
+파워
+쿨러/튜닝용품
+모니터
+[85] (740,710)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[86] (796,710)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[87] (857,710)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[88] (924,710)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+전체
+[89] (268,872)<dd class='ls_div ' id='ls_div2043' />
+	[90] (235,872)<label >NVIDIA 그래픽카드 />
+[91] (268,921)<dd class='ls_div ' id='ls_div2042' />
+	[92] (231,921)<label >AMD 그래픽카드 />
+[93] (268,969)<dd class='ls_div ' id='ls_div4682' />
+	[94] (233,969)<label >INTEL 그래픽카드 />
+[95] (666,960)<a href='https://www.compuzone.co.kr/cscenter/service_guide.htm?bannerid=OnlineBanner' />
+	[96] (666,960)<img  />
+
+</current_dom>

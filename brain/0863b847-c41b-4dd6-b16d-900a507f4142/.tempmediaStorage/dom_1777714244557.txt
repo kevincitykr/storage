@@ -1,0 +1,175 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (52,35)<a href='../main/main.htm' />
+	[1] (52,35)<img  />
+[2] (213,35)<div class='search_bar' />
+	[3] (197,35)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (290,35)<button aria-label='검색삭제' class='close12_FF' id='search_close_btn' />
+	[5] (306,35)<button aria-label='검색' class='search28_3A' />
+[6] (913,35)<a href='javascript:void(0);'>로그인 />
+[7] (944,35)<a href='../member/member_kind.htm'>회원가입 />
+[8] (977,35)<a href='javascript:void(0);'>상담센터 />
+[9] (21,92)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[10] (56,94)<a href='javascript:void(0);'>조립PC />
+[11] (83,94)<a href='javascript:void(0);'>견적 />
+[12] (113,94)<a href='../hotsale/hotsale.htm?bannerid=GNBBannerHotsale'>파격할인 />
+[13] (150,94)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[14] (189,94)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[15] (224,94)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[16] (270,94)<a href='javascript:void(0);'>컴퓨존추천 />
+[17] (307,94)<a href='javascript:void(0);'>전용관 />
+[18] (337,94)<a href='javascript:void(0);'>매거진 />
+[19] (370,94)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[20] (400,94)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[21] (437,94)<a href='javascript:void(0);'>컴퓨존 라이브 />
+[22] (539,92)<div  />
+	[23] (485,92)<p >공식 />
+	[24] (542,92)<div  />
+	[25] (595,92)<i  />
+[26] (927,81)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[27] (927,103)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[28] (950,99)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[29] (979,99)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[30] (116,384)<a class='small_rolling_prev left_rolling_prev' href='#' />
+[31] (126,384)<a class='small_rolling_next left_rolling_next' href='#' />
+[32] (121,297)<a href='../event_zone/eventzone_view.htm?EventNo=60956&bannerid=CateLeftWingRollingBanner' />
+	[33] (121,297)<img  />
+[34] (121,507)<a href='https://www.compuzone.co.kr/product/free_delivery.htm?bannerid=CateLeftWingFixBanner' />
+	[35] (121,507)<img  />
+[36] (121,678)<a href='https://www.compuzone.co.kr/exc_event/attendance_check.htm?bannerid=CateLeftWingFixBanner' />
+	[37] (121,678)<img  />
+[38] (969,684)<a href='javascript:void(0);' />
+	[39] (961,684)<span  />
+		[40] (961,684)<img  />
+	[41] (977,684)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+HP노트북
+마스터팩
+Dell
+배민5만원
+[42] (969,773)<a href='../event_zone/eventzone_view.htm?EventNo=60917&bannerid=QuickMenuRolling' />
+	[43] (969,773)<img  />
+	[44] (969,793)<p >황야의
+아스널 />
+어린이날
+드론 특가
+[45] (955,827)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+4
+/
+5
+[46] (982,827)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[47] (969,859)<p class='ntRB12 co6C'>최근 본 상품 />
+[48] (969,899)<a href='javascript:;' />
+	[49] (969,899)<img  />
+[50] (957,959)<a href='javascript:void(0);' />
+	[51] (957,959)<img  />
+[52] (980,959)<a href='javascript:void(0);' />
+	[53] (980,959)<img  />
+온라인견적
+[54] (218,257)<li class='cate_tab_all pc cate_tab1 ON2' id='cate_tab1'>데스크탑ㆍ조립PC />
+[55] (331,257)<li class='cate_tab_all  cate_tab8' id='cate_tab8'>키보드ㆍ마우스ㆍ저장장치 />
+[56] (443,257)<li class='cate_tab_all  cate_tab88' id='cate_tab88'>스마트폰ㆍ액세서리 />
+[57] (556,257)<li class='cate_tab_all  cate_tab87' id='cate_tab87'>가구ㆍ조명ㆍ전기 />
+[58] (669,257)<li class='cate_tab_all  cate_tab5' id='cate_tab5'>모니터ㆍ모니터주변기기 />
+[59] (782,257)<li class='cate_tab_all  cate_tab11' id='cate_tab11'>프린터ㆍ전산소모품 />
+[60] (218,302)<li class='cate_tab_all pc cate_tab2' id='cate_tab2'>노트북ㆍ태블릿 />
+[61] (331,302)<li class='cate_tab_all  cate_tab7' id='cate_tab7'>음향ㆍ영상ㆍ카메라 />
+[62] (443,302)<li class='cate_tab_all  cate_tab14' id='cate_tab14'>자동차ㆍ공구ㆍ안전 />
+[63] (556,302)<li class='cate_tab_all  cate_tab12' id='cate_tab12'>네트워크ㆍ케이블ㆍCCTV />
+[64] (669,302)<li class='cate_tab_all pc cate_tab3' id='cate_tab3'>Apple />
+[65] (782,302)<li class='cate_tab_all  cate_tab101' id='cate_tab101'>영상가전 />
+[66] (218,347)<li class='cate_tab_all  cate_tab13' id='cate_tab13'>생활가전 />
+[67] (331,347)<li class='cate_tab_all  cate_tab110' id='cate_tab110'>주방가전 />
+[68] (443,347)<li class='cate_tab_all  cate_tab107' id='cate_tab107'>계절가전 />
+[69] (556,347)<li class='cate_tab_all  cate_tab103' id='cate_tab103'>게임ㆍ드론ㆍ완구 />
+[70] (669,347)<li class='cate_tab_all  cate_tab105' id='cate_tab105'>스포츠ㆍ레저 />
+[71] (782,347)<li class='cate_tab_all  cate_tab89' id='cate_tab89'>중고ㆍ리퍼비시 />
+[72] (218,392)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[73] (331,392)<li  />
+[74] (443,392)<li  />
+[75] (556,392)<li  />
+[76] (669,392)<li  />
+[77] (782,392)<li  />
+PC구성
+[78] (277,467)<li class='cate_tab_all cate0 cate_tab_iworks ON' id='cate_tab_iwork'>아이웍스PC />
+[79] (315,467)<li class='cate_tab_all cate1 cate_tab1012' id='cate_tab1012'>CPU />
+[80] (349,467)<li class='cate_tab_all cate2 cate_tab1013' id='cate_tab1013'>메인보드 />
+[81] (386,467)<li class='cate_tab_all cate3 cate_tab1014' id='cate_tab1014'>메모리 />
+[82] (426,467)<li class='cate_tab_all cate4 cate_tab1016' id='cate_tab1016'>그래픽카드 />
+[83] (462,467)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[84] (490,467)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[85] (522,467)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[86] (552,467)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[87] (593,467)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[88] (637,467)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[89] (671,467)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[90] (711,467)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[91] (754,467)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[92] (802,467)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+[93] (222,631)<div class='scroll_ctgr' scrollable='true' />
+	[94] (222,542)<dd class='ls_mid ' id='ls_mid0' />
+		[95] (179,542)<label >전체 />
+	[96] (222,574)<dd class='ls_mid on' id='ls_mid1001' />
+		[97] (189,574)<label >아이웍스PC />
+	[98] (222,605)<dd class='ls_mid ' id='ls_mid1002' />
+		[99] (189,605)<label >추천조립PC />
+	[100] (222,637)<dd class='ls_mid ' id='ls_mid1447' />
+		[101] (189,637)<label >프리미엄PC />
+	[102] (222,669)<dd class='ls_mid ' id='ls_mid1003' />
+		[103] (186,669)<label >브랜드PC />
+	[104] (222,701)<dd class='ls_mid ' id='ls_mid1169' />
+		[105] (186,701)<label >올인원PC />
+	[106] (222,733)<dd class='ls_mid ' id='ls_mid1005' />
+		[107] (183,733)<label >미니PC />
+[108] (335,542)<dd class='ls_div on' id='ls_div0' />
+	[109] (292,542)<label >전체 />
+[110] (335,574)<dd class='ls_div ' id='ls_div4706' />
+	[111] (300,574)<label >아이웍스X />
+[112] (335,605)<dd class='ls_div ' id='ls_div4191' />
+	[113] (300,605)<label >아이웍스3 />
+[114] (335,637)<dd class='ls_div ' id='ls_div4192' />
+	[115] (300,637)<label >아이웍스5 />
+[116] (335,669)<dd class='ls_div ' id='ls_div4200' />
+	[117] (300,669)<label >아이웍스7 />
+[118] (618,631)<a href='../event_zone/eventzone_view.htm?EventNo=48744' />
+	[119] (618,631)<img  />
+아이웍스PC
+[120] (395,810)<input id='Search_free' />
+무료배송
+[121] (442,810)<input id='Search_Event' />
+행사제품보기
+총
+75
+건
+[122] (363,861)<input id='SearchKeyword' />
+[123] (403,862)<a href='javascript:search_keyword();' />
+[124] (452,861)<select  />
+총 견적금액
+0
+원
+[125] (526,861)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[126] (546,861)<input  />
+[127] (567,861)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[128] (612,861)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[129] (612,861)<span >전체수량변경 />
+[130] (533,934)<label  />
+	[131] (520,933)<span  />
+		[132] (520,933)<input  />
+	[133] (539,933)<span >전체선택 />
+[134] (651,933)<a class='wbtn' href='javascript:add_wish_list();' />
+	[135] (651,934)<span >관심상품추가 />
+[136] (695,933)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[137] (695,934)<span >장바구니담기 />
+[138] (737,933)<a class='wbtn' />
+	[139] (737,934)<span >견적서출력 />
+[140] (778,933)<a class='wbtn' href='javascript:speck_form();' />
+	[141] (778,934)<span >사양검토요청 />
+[142] (814,933)<a class='wbtn' href='javascript:sess_init();' />
+	[143] (814,934)<span >초기화 />
+
+</current_dom>

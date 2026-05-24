@@ -1,0 +1,165 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (327,125)<a class='inline shrink-0' href='/search/5060ti' />
+	[7] (327,125)<span >5060ti />
+		[8] (316,125)<span >1
+. />
+[9] (373,125)<a class='inline shrink-0' href='/search/9800x3d' />
+	[10] (373,125)<span >9800x3d />
+		[11] (357,125)<span >2
+. />
+[12] (418,125)<a class='inline shrink-0' href='/search/5090' />
+	[13] (418,125)<span >5090 />
+		[14] (409,125)<span >3
+. />
+[15] (457,125)<a class='inline shrink-0' href='/search/%EC%98%A4%EB%A9%94%EA%B0%80' />
+	[16] (457,125)<span >오메가 />
+		[17] (447,125)<span >4
+. />
+[18] (503,125)<a class='inline shrink-0' href='/search/%EB%8D%94%EC%BA%90%EC%8B%9C%EB%AF%B8%EC%96%B4' />
+	[19] (503,125)<span >더캐시미어 />
+		[20] (486,125)<span >5
+. />
+[21] (666,69)<a href='/search/13700%204070?condition=1&sort=RECENT_DATE&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC
+2,998,000
+원
+광고 |
+쿠팡
+미국출고 평점4.5+ 158386 Skytech Gaming Chronos 게이밍 PC 데스크탑 - 인텔 코어 i7 13700K 3.4GHz, NVIDIA RTX 4070, 1
+4,237,200
+원
+광고 |
+쿠팡
+Skytech Gaming Chronos 게이밍 PC 데스크탑 - 인텔 코어 i7 13700K 3.4GHz, NVIDIA RTX 4070, 1TB NVME SSD, 32GB D
+2,816,200
+원
+광고 |
+쿠팡
+I7 13700F/RTX4070 SUPER 조립 PC 데스크탑 게이밍 컴퓨터 어항케이스 C116
+2,279,000
+원
+광고 |
+쿠팡
+HP OMEN 25L 게이밍 데스크탑 Jack Black (i7-13700F WIN11 Home NVMe 512GB DDR5 16GB RTX4070 Ti)
+3,400,000
+원
+광고 |
+쿠팡
+Alienware Aurora R15 게이밍 데스크톱 - 인텔 코어 i7-13700F, 16GB DDR5 RAM, 512GB SSD+1TB HDD, 엔비디아 RTX 4070 T
+7,909,300
+원
+광고 |
+쿠팡
+[36] (229,383)<a aria-label='쇼핑 - 7 번째 상품 Skytech Gaming Chronos 게이밍 PC 데스크탑 - 인텔 코어 i7 13700K 3.4GHz, NVIDIA RTX 4070, 1TB NVME SSD, 32GB D 보러가기' class='w-fit flex-1 max-md:hidden' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9413393167&itemId=27970609443&vendorItemId=95110290223&traceid=V0-153-d439cb8304cbbc30&requestid=20260506215627243225262783&token=31850C%7CGM' />
+	[37] (229,383)<div  />
+		[38] (229,308)<div  />
+			[39] (229,308)<div  />
+		[40] (229,500)<div  />
+			[41] (229,483)<div  />
+				[42] (229,463)<span >Skytech Gaming Chronos 게이밍 PC 데스크탑 - 인텔 코어 i7 13700K 3.4GHz, NVIDIA RTX 4070, 1TB NVME SSD, 32GB D />
+				[43] (229,513)<div  />
+					[44] (229,513)<div  />
+						[45] (209,513)<span >4,026,900 />
+						[46] (243,514)<span >원 />
+			[47] (229,555)<div  />
+				[48] (229,555)<span >광고 |
+쿠팡 />
+[49] (337,383)<a aria-label='쇼핑 - 8 번째 상품 에이서 프레데터 트리톤 14 게이밍/크리에이터 노트북 | 13세대 인텔 i7-13700H 엔비디아 지포스 RTX 4070 14인치 미니 LED 250Hz G-SYNC 디스플레이 보러가기' class='w-fit flex-1 max-md:hidden' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8848704245&itemId=25793351666&vendorItemId=95064417206&traceid=V0-153-2012fd8bd3d96ecc&requestid=20260506215627243225262783&token=31850C%7CGM' />
+	[50] (337,383)<div  />
+		[51] (337,308)<div  />
+			[52] (337,308)<div  />
+		[53] (337,500)<div  />
+			[54] (337,483)<div  />
+				[55] (337,463)<span >에이서 프레데터 트리톤 14 게이밍/크리에이터 노트북 | 13세대 인텔 i7-13700H 엔비디아 지포스 RTX 4070 14인치 미니 LED 250Hz G-SYNC 디스플레이 />
+				[56] (337,513)<div  />
+					[57] (337,513)<div  />
+						[58] (318,513)<span >3,368,200 />
+						[59] (351,514)<span >원 />
+			[60] (337,555)<div  />
+				[61] (337,555)<span >광고 |
+쿠팡 />
+[62] (446,383)<a aria-label='쇼핑 - 9 번째 상품 I7 13700F/RTX4070TI SUPER 조립 PC 데스크탑 게이밍 컴퓨터 어항케이스 C118 보러가기' class='w-fit flex-1 max-md:hidden' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=7551744816&itemId=22635621536&vendorItemId=89676748382&traceid=V0-153-3a6d637934124270&requestid=20260506215627243225262783&token=31850C%7CGM' />
+	[63] (446,383)<div  />
+		[64] (446,308)<div  />
+			[65] (446,308)<div  />
+		[66] (446,500)<div  />
+			[67] (446,483)<div  />
+				[68] (446,463)<span >I7 13700F/RTX4070TI SUPER 조립 PC 데스크탑 게이밍 컴퓨터 어항케이스 C118 />
+				[69] (446,513)<div  />
+					[70] (446,513)<div  />
+						[71] (426,513)<span >2,899,000 />
+						[72] (460,514)<span >원 />
+			[73] (446,555)<div  />
+				[74] (446,555)<span >광고 |
+쿠팡 />
+[75] (554,383)<a aria-label='쇼핑 - 10 번째 상품 I7 13700F/RTX4070 SUPER 조립 PC 데스크탑 게이밍 컴퓨터 어항케이스 C116 보러가기' class='w-fit flex-1 max-md:hidden' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=7551743842&itemId=22635611888&vendorItemId=89676739906&traceid=V0-153-d30e5e98afe5bfe0&requestid=20260506215627243225262783&token=31850C%7CGM' />
+	[76] (554,383)<div  />
+		[77] (554,308)<div  />
+			[78] (554,308)<div  />
+		[79] (554,500)<div  />
+			[80] (554,483)<div  />
+				[81] (554,463)<span >I7 13700F/RTX4070 SUPER 조립 PC 데스크탑 게이밍 컴퓨터 어항케이스 C116 />
+				[82] (554,513)<div  />
+					[83] (554,513)<div  />
+						[84] (534,513)<span >2,279,000 />
+						[85] (568,514)<span >원 />
+			[86] (554,555)<div  />
+				[87] (554,555)<span >광고 |
+쿠팡 />
+[88] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[89] (854,907)<div  />
+		[90] (903,907)<div  />
+[91] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[92] (902,799)<span  />
+CONTACT
+[93] (221,966)<a class='w-full md:w-auto' href='https://seller.joonggonara.co.kr' />
+	[94] (221,966)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white border active:border-gray-700 md:px-2 md:py-2 md:h-8 md:min-w-14 w-full md:w-auto bg-[#00AEAC]' />
+		[95] (221,966)<span  />
+			[96] (221,966)<div  />
+				[97] (215,966)<span >셀러 회원 신청 />
+[98] (299,966)<a class='w-full md:w-auto' href='https://vvd.bz/eFFQ' />
+	[99] (299,966)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white border active:border-gray-700 md:px-2 md:py-2 md:h-8 md:min-w-14 w-full md:w-auto bg-black' />
+		[100] (299,966)<span  />
+			[101] (299,966)<div  />
+				[102] (294,966)<span >중고나라 광고 문의 />
+고객센터
+운영시간 : 09~18시 (주말/공휴일 제외)
+자주 묻는 질문
+[103] (604,966)<a class='w-full md:w-auto' href='/notice' />
+	[104] (604,966)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 md:px-2 md:py-2 md:h-8 md:min-w-14 w-full md:w-auto' />
+		[105] (604,966)<span  />
+			[106] (604,966)<div  />
+				[107] (598,966)<span >공지사항 />
+
+</current_dom>

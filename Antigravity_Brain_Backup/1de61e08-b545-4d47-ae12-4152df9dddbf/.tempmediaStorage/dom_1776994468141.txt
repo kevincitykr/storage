@@ -1,0 +1,25 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,30)<a class='block w-full shrink-0 bg-accent-blue' href='/account?source=springSaleBanner' />
+	[1] (500,30)<div  />
+		[2] (175,30)<span >Spring Sale Extended: Lock in for less />
+		[3] (949,30)<span >Save 20% on Annual Pro and Premier />
+[4] (500,530)<div class='scrollbar-hide relative flex h-full w-full flex-col overflow-x-hidden overflow-y-scroll scroll-smooth' scrollable='true' />
+	[5] (61,118)<a class='relative inline-block h-[19.394px] w-[78.709px]' href='/home' />
+	[6] (832,118)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 text-[15px] leading-[24px] rounded-md text-foreground-primary bg-transparent enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50' />
+		[7] (832,118)<span >Log In />
+	[8] (929,118)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 text-[15px] leading-[24px] rounded-full text-white bg-black bg-cover bg-center bg-(image:--button-background-image) before:bg-cover before:bg-center before:opacity-50 before:bg-(image:--button-background-image-overlay) enabled:hover:before:bg-black/25 enabled:hover:before:opacity-45 animate-aura-background animate-stop hover:animate-play animate-duration-(--button-background-hover-speed) disabled:after:bg-background-primary disabled:after:opacity-50' />
+		[9] (929,118)<span >Open App />
+	Make any song you can imagine
+	Start with a simple prompt or dive into our pro editing tools, your next track is just a step away.
+	[10] (500,686)<textarea class='jsx-bcbfb8bf8f3589d5 w-full resize-none overflow-hidden rounded-xl bg-transparent px-1 text-base leading-7 text-white outline-none placeholder:text-white/40 md:text-lg md:leading-8' placeholder='Chat to make music' />
+	[11] (151,747)<button class='jsx-bcbfb8bf8f3589d5 flex h-9 w-9 items-center justify-center rounded-full bg-white/5 transition-colors duration-150 hover:bg-white/10 active:bg-white/15' />
+	[12] (232,747)<button class='jsx-bcbfb8bf8f3589d5 flex h-9 w-9 items-center justify-center gap-1.5 rounded-full bg-white/5 transition-colors duration-150 hover:bg-white/10 active:bg-white/15 md:w-auto md:justify-start md:px-3'>Advanced />
+		Advanced
+	[13] (743,747)<button class='jsx-bcbfb8bf8f3589d5 flex h-9 w-9 flex-shrink-0 items-center justify-center rounded-full bg-white/5 transition-colors duration-150 hover:bg-white/10 active:bg-white/15' title='Generate random prompt' />
+	[14] (819,747)<button class='p-4 font-sans text-[16px] font-medium text-white buttonAnimate shadow-lg transition duration-300 ease-in-out hover:opacity-90 items-center justify-center rounded-full px-3.5 py-1.5 md:px-4 md:py-2' />
+		Create
+
+</current_dom>

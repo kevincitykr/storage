@@ -1,0 +1,357 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,27)<div  />
+	[1] (500,27)<a class='new-alluser-webcx_cpn-spu-mobile-2_20260427' href='https://cdn.rex.contents.rakuten.co.jp/webcx-redirect-module/1.3.0/index.html?clientId=d40535ac09aac0ef32f8a23b8bb8e04bc2e8f9d6b0981fa98a16d0382f558d83&version=2.73.0&sessionId=ec7dee56-fa2d-4035-822c-e4921036c935&screen=WB&issueId=F01184-001752&campaignId=fd7648d5-2a62-4d7a-863e-72f890827805&contentId=383a4ef8-a156-4029-959b-a31af87e4118&replacementId=94ac1766-3ec5-11f1-ae25-00505699bfcf&impressionId=7a782987-6695-433e-975e-e495da1e28f8&selector=mkdiv_header_pitari&redirect=aHR0cHM6Ly9uZXR3b3JrLm1vYmlsZS5yYWt1dGVuLmNvLmpwL2NhbXBhaWduL3NwdS8=&origin=aHR0cHM6Ly9zZWFyY2gucmFrdXRlbi5jby5qcA==' id='cmo_pitari_banner' />
+		[2] (500,27)<img  />
+ようこそ 楽天市場へ
+[3] (874,82)<a aria-label='ログイン' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/authorize?client_id=rakuten_ichiba_search_web&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4070%252F100081%252F%253Fmin%253D50000%2526s%253D2%2526used%253D0%22%7D' />
+	[4] (874,82)<span >ログイン />
+[5] (909,82)<a aria-label='会員登録' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/register?client_id=rakuten_ichiba_search_web&service_id=r19&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4070%252F100081%252F%253Fmin%253D50000%2526s%253D2%2526used%253D0%22%7D' />
+	[6] (909,82)<span >会員登録 />
+[7] (944,78)<span  />
+	[8] (944,78)<div  />
+Language
+[9] (40,131)<a class='logo--2gpI-' href='https://www.rakuten.co.jp/?l-id=pc_header_logo' />
+	[10] (40,128)<div  />
+[11] (425,131)<input class='input-text--TRaVo' id='common-header-search-input' placeholder='キーワードから探す' />
+[12] (767,132)<div aria-label='すべての入力をクリア' class='clear-button--2KXPD' role='button' />
+[13] (789,131)<a aria-label='検索' class='link--1aOXp' href='https://search.rakuten.co.jp/search/mall' />
+	[14] (789,131)<div  />
+		[15] (789,131)<div  />
+			[16] (789,131)<div  />
+[17] (824,131)<a aria-label='Display notifications button to hover' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://t3.basket.step.rakuten.co.jp/rms/mall/bs/cartall/?l-id=pc_header_func_cart' />
+	[18] (824,122)<span  />
+		[19] (824,122)<div  />
+	[20] (824,146)<span >買い物かご />
+[21] (854,131)<span class='reference--1B7iW' role='button' />
+	[22] (854,131)<div  />
+		[23] (854,131)<button aria-label='お知らせ' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' />
+			[24] (854,122)<span  />
+				[25] (854,122)<div  />
+			[26] (854,146)<span >お知らせ />
+[27] (881,131)<a aria-label='閲覧履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://ashiato.rakuten.co.jp/rms/ashiato/page?l-id=pc_header_func_bh' />
+	[28] (881,122)<span  />
+		[29] (881,122)<div  />
+	[30] (881,146)<span >閲覧履歴 />
+[31] (911,131)<a aria-label='お気に入り' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://my.bookmark.rakuten.co.jp/?l-id=pc_header_func_bookmark' />
+	[32] (911,122)<span  />
+		[33] (911,122)<div  />
+	[34] (911,146)<span >お気に入り />
+[35] (941,131)<a aria-label='購入履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://order.my.rakuten.co.jp/?l-id=pc_header_func_ph' />
+	[36] (941,122)<span  />
+		[37] (941,122)<div  />
+	[38] (941,146)<span >購入履歴 />
+[39] (972,131)<a aria-label='myクーポン' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://coupon.rakuten.co.jp/myCoupon/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4?l-id=pc_header_func_coupon' />
+	[40] (972,122)<span  />
+		[41] (972,122)<div  />
+	[42] (972,146)<span >myクーポン />
+[43] (31,199)<a class='breadcrumbs-name--1ahfw' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?min=50000&s=2&used=0'>すべてのジャンル />
+[44] (94,199)<a class='breadcrumbs-name--1ahfw' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/?min=50000&s=2&used=0'>パソコン・周辺機器 />
+[45] (146,199)<a class='breadcrumbs-name--1ahfw' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100087/?min=50000&s=2&used=0'>PCパーツ />
+グラフィックボード
+「
+RTX 4070
+」の検索結果
+1〜45件 （75件）
+お届け先
+[46] (969,199)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='prefecture-filter-select' />
+送料
+[47] (54,284)<label class='item' />
+	[48] (12,281)<input aria-label='すべて' id='shipping-fee-0' role='radio' />
+	[49] (26,284)<span >すべて />
+[50] (54,311)<label class='item' />
+	[51] (12,308)<input aria-label='送料無料' id='shipping-fee-1' role='radio' />
+	[52] (30,311)<span >送料無料 />
+[53] (54,337)<label class='item' />
+	[54] (12,334)<input aria-label='送料無料 + 送料無料ライン' id='shipping-fee-2' role='radio' />
+	[55] (56,337)<span >送料無料 + 送料無料ライン />
+ジャンル
+[56] (54,421)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100087/?min=50000&s=2&used=0'>PCパーツ />
+グラフィックボード
+[57] (77,495)<a class='clear' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?s=2&used=0'>価格を指定しない />
+商品価格
+[58] (13,547)<div class='histogram bar' role='button' />
+[59] (22,547)<div class='histogram bar' role='button' />
+[60] (31,547)<div class='histogram bar' role='button' />
+[61] (40,547)<div class='histogram bar' role='button' />
+[62] (49,547)<div class='histogram bar' role='button' />
+[63] (58,547)<div class='histogram bar' role='button' />
+[64] (68,547)<div class='histogram bar' role='button' />
+[65] (77,547)<div class='histogram bar' role='button' />
+[66] (86,547)<div class='histogram bar' role='button' />
+[67] (95,547)<div class='histogram bar' role='button' />
+[68] (9,575)<div aria-label='Decrease price range' class='slider control left' role='slider' />
+[69] (99,575)<div aria-label='Increase price range' class='slider control right' role='slider' />
+[70] (29,615)<input aria-label='min price filter' class='price input' id='min-price-filter' placeholder='円' />
+~
+[71] (79,615)<input aria-label='max price filter' class='price input' id='max-price-filter' placeholder='円' />
+[72] (54,660)<button class='dui-button -fluid'>検索 />
+	[73] (47,662)<i  />
+コンディション
+[74] (54,749)<a class='item -active' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?min=50000&s=2'>新品 />
+[75] (54,776)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?min=50000&s=2&used=1'>中古品 />
+[76] (54,802)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/tg5002023/?min=50000&s=2'>レンタル />
+グラフィックチップ
+AMD Radeon RX 6600 XT
+NVIDIA GeForce RTX 2060
+NVIDIA GeForce RTX 3070 Ti
+NVIDIA GeForce RTX 3060
+[77] (54,992)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/tg1044775/?min=50000&s=2&used=0' title='3件'>NVIDIA GeForce RTX 3070 />
+[78] (188,261)<label class='final-price-label--jzBLS'>「商品価格＋送料−獲得予定ポイント」で価格表示 />
+[79] (271,261)<span  />
+	[80] (271,261)<input class='control--FQ2nD' id='final-price-switch' role='switch' />
+並べ替え
+[81] (888,261)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='search-sort' />
+表示切替
+[82] (986,261)<a class='item viewtype' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?min=50000&s=2&set=view&used=0&v=2' />
+	[83] (985,261)<i  />
+価格や送料、納期等の詳細は、商品のサイズや色によって異なる場合があります
+[84] (981,332)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+[85] (155,385)<a aria-label='グラフィックボード' class='button--3YE3u button-ellipsis--34Ga8 size-xs--1qW4M size-xs-pill--3-AVi size-xs-padding--1Ud4D border-radius--11uG4 block--1_kw1 type-tag--ZajN2 active--btVZs' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?min=50000&s=2&used=0' />
+	[86] (151,385)<span >グラフィックボード />
+	[87] (184,385)<span  />
+		[88] (184,385)<div  />
+[89] (224,385)<a aria-label='50,000円 ～' class='button--3YE3u button-ellipsis--34Ga8 size-xs--1qW4M size-xs-pill--3-AVi size-xs-padding--1Ud4D border-radius--11uG4 block--1_kw1 type-tag--ZajN2 active--btVZs' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?s=2&used=0' />
+	[90] (219,385)<span >50,000円 ～ />
+	[91] (242,385)<span  />
+		[92] (242,385)<div  />
+[93] (271,385)<a aria-label='新品' class='button--3YE3u button-ellipsis--34Ga8 size-xs--1qW4M size-xs-pill--3-AVi size-xs-padding--1Ud4D border-radius--11uG4 block--1_kw1 type-tag--ZajN2 active--btVZs' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?min=50000&s=2' />
+	[94] (266,385)<span >新品 />
+	[95] (278,385)<span  />
+		[96] (278,385)<div  />
+[97] (305,385)<a aria-label='すべて解除' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius--11uG4 no-padding--287kX type-link--3U8Az' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?s=2' />
+	[98] (305,385)<span >すべて解除 />
+[99] (959,386)<div class='disclaimer-trigger--3NWjq' role='button' />
+	[100] (956,386)<div >検索結果に関する注意 />
+	[101] (988,386)<div  />
+		[102] (989,386)<div  />
+[103] (179,534)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/americagoodvibes/ayjgjjrk8w/?variantId=ayjgjjrk8w' />
+	[104] (179,534)<img  />
+[105] (157,612)<div  />
+	[106] (156,612)<div  />
+		[107] (156,612)<span class='reference--4whr_' role='button' />
+			[108] (156,612)<div  />
+				[109] (156,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[110] (156,612)<span  />
+						[111] (156,612)<div  />
+[112] (202,612)<span  />
+	[113] (202,612)<div  />
+		[114] (202,612)<div  />
+			[115] (202,612)<span class='reference--4whr_' role='button' />
+				[116] (202,612)<div  />
+					[117] (202,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[118] (202,612)<span  />
+							[119] (202,612)<div  />
+[120] (179,695)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/americagoodvibes/ayjgjjrk8w/?variantId=ayjgjjrk8w' title='ASRock Intel Arc A310 Low Profile 4GB 補助電源不要 ロープロファイル ビデオカード'>ASRock Intel Arc A310 Low Profile 4GB 補助電源不要 ロープロファイル ビデオカード />
+53,385
+円
+送料無料
+533
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[121] (142,811)<span class='reference--4whr_' role='button' />
+	[122] (142,811)<span  />
+		[123] (142,806)<div  />
+			[124] (142,806)<img  />
+[125] (168,838)<a class='_ellipsis' href='https://www.rakuten.co.jp/americagoodvibes/'>アメリカグッドバイブス />
+[126] (304,534)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/ay11jxrkwf/?variantId=ay11jxrkwf' />
+	[127] (304,534)<img  />
+[128] (282,612)<div  />
+	[129] (281,612)<div  />
+		[130] (281,612)<span class='reference--4whr_' role='button' />
+			[131] (281,612)<div  />
+				[132] (281,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[133] (281,612)<span  />
+						[134] (281,612)<div  />
+[135] (327,612)<span  />
+	[136] (327,612)<div  />
+		[137] (327,612)<div  />
+			[138] (327,612)<span class='reference--4whr_' role='button' />
+				[139] (327,612)<div  />
+					[140] (327,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[141] (327,612)<span  />
+							[142] (327,612)<div  />
+[143] (304,695)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/palmsamerica/ay11jxrkwf/?variantId=ay11jxrkwf' title='ZOTAC GeForce GT 1030 2GB GDDR5 64-bit PCIe 3.0 DirectX 12 HDCP 送料無料'>ZOTAC GeForce GT 1030 2GB GDDR5 64-bit PCIe 3.0 DirectX 12 HDCP 送料無料 />
+59,520
+円
+送料無料
+595
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[144] (267,811)<span class='reference--4whr_' role='button' />
+	[145] (267,811)<span  />
+		[146] (267,806)<div  />
+			[147] (267,806)<img  />
+[148] (284,838)<a class='_ellipsis' href='https://www.rakuten.co.jp/palmsamerica/'>パームスアメリカ />
+[149] (429,534)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/nekosansyouten/202406012040084988755066600/?variantId=202406012040084988755066600' />
+	[150] (429,534)<img  />
+[151] (407,612)<div  />
+	[152] (406,612)<div  />
+		[153] (406,612)<span class='reference--4whr_' role='button' />
+			[154] (406,612)<div  />
+				[155] (406,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[156] (406,612)<span  />
+						[157] (406,612)<div  />
+[158] (452,612)<span  />
+	[159] (452,612)<div  />
+		[160] (452,612)<div  />
+			[161] (452,612)<span class='reference--4whr_' role='button' />
+				[162] (452,612)<div  />
+					[163] (452,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[164] (452,612)<span  />
+							[165] (452,612)<div  />
+[166] (428,707)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/nekosansyouten/202406012040084988755066600/?variantId=202406012040084988755066600' title='玄人志向 NVIDIA GeForce RTX4060 搭載 グラフィックボード GDDR6 8GB 搭載モデル 国内正規品 GG-RTX4060-E8GB/SF'>玄人志向 NVIDIA GeForce RTX4060 搭載 グラフィックボード GDDR6 8GB 搭載モデル 国内正規品 GG-RTX4060-E8GB/SF />
+102,454
+円
+送料無料
+931
+ポイント
+(
+1
+倍)
+3〜7日営業日以内
+[167] (392,811)<span class='reference--4whr_' role='button' />
+	[168] (392,811)<span  />
+		[169] (392,806)<div  />
+			[170] (392,806)<img  />
+[171] (403,838)<a class='_ellipsis' href='https://www.rakuten.co.jp/nekosansyouten/'>ネコサン商店 />
+[172] (429,875)<a class='dui-button -bestshop -fluid' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?min=50000&ran=10010004988755066600&s=11&used=0'>同じ商品を安い順で見る />
+[173] (554,534)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/tales-store/202505151131494988755069465/?variantId=202505151131494988755069465' />
+	[174] (554,534)<img  />
+[175] (532,612)<div  />
+	[176] (531,612)<div  />
+		[177] (531,612)<span class='reference--4whr_' role='button' />
+			[178] (531,612)<div  />
+				[179] (531,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[180] (531,612)<span  />
+						[181] (531,612)<div  />
+[182] (577,612)<span  />
+	[183] (577,612)<div  />
+		[184] (577,612)<div  />
+			[185] (577,612)<span class='reference--4whr_' role='button' />
+				[186] (577,612)<div  />
+					[187] (577,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[188] (577,612)<span  />
+							[189] (577,612)<div  />
+[190] (553,707)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/tales-store/202505151131494988755069465/?variantId=202505151131494988755069465' title='GIGABYTE NVIDIA GeForce RTX4060Ti 搭載 グラフィックボード GDDR6 8GB 国内正規代理店品 GV-N406TWF2OCV2-8GD'>GIGABYTE NVIDIA GeForce RTX4060Ti 搭載 グラフィックボード GDDR6 8GB 国内正規代理店品 GV-N406TWF2OCV2-8GD />
+121,250
+円
+送料無料
+1,102
+ポイント
+(
+1
+倍)
+3〜7営業日以内に発送(店舗休業日を除く)
+[191] (517,811)<span class='reference--4whr_' role='button' />
+	[192] (517,811)<span  />
+		[193] (517,806)<div  />
+			[194] (517,806)<img  />
+[195] (541,838)<a class='_ellipsis' href='https://www.rakuten.co.jp/tales-store/'>TalesStore 楽天市場店 />
+[196] (554,875)<a class='dui-button -bestshop -fluid' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?min=50000&ran=10010004988755069465&s=11&used=0'>同じ商品を安い順で見る />
+[197] (679,534)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/aywrlnrk83/?variantId=aywrlnrk83' />
+	[198] (679,534)<img  />
+[199] (657,612)<div  />
+	[200] (656,612)<div  />
+		[201] (656,612)<span class='reference--4whr_' role='button' />
+			[202] (656,612)<div  />
+				[203] (656,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[204] (656,612)<span  />
+						[205] (656,612)<div  />
+[206] (702,612)<span  />
+	[207] (702,612)<div  />
+		[208] (702,612)<div  />
+			[209] (702,612)<span class='reference--4whr_' role='button' />
+				[210] (702,612)<div  />
+					[211] (702,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[212] (702,612)<span  />
+							[213] (702,612)<div  />
+MSI GeForce RTX 3060 VENTUS 3X 12G OC Gaming Graphics Card - 3060, Support Bracket Included, TORX Fan 3.0,12GB GDDR6, 192 Bit, PCI Express Gen 4, DisplayPort v1.4a, HDMI 2.1, Zero Frozr, 1440p
+137,836
+円
+送料無料
+1,378
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[214] (642,811)<span class='reference--4whr_' role='button' />
+	[215] (642,811)<span  />
+		[216] (642,806)<div  />
+			[217] (642,806)<img  />
+[218] (659,838)<a class='_ellipsis' href='https://www.rakuten.co.jp/palmsamerica/'>パームスアメリカ />
+[219] (804,534)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/americagoodvibes/ayswqxrkjr/?variantId=ayswqxrkjr' />
+	[220] (804,534)<img  />
+[221] (782,612)<div  />
+	[222] (781,612)<div  />
+		[223] (781,612)<span class='reference--4whr_' role='button' />
+			[224] (781,612)<div  />
+				[225] (781,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[226] (781,612)<span  />
+						[227] (781,612)<div  />
+[228] (827,612)<span  />
+	[229] (827,612)<div  />
+		[230] (827,612)<div  />
+			[231] (827,612)<span class='reference--4whr_' role='button' />
+				[232] (827,612)<div  />
+					[233] (827,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[234] (827,612)<span  />
+							[235] (827,612)<div  />
+[236] (800,684)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/americagoodvibes/ayswqxrkjr/?variantId=ayswqxrkjr' title='Powercolor RX 9070 XT 16GB 死神。'>Powercolor RX 9070 XT 16GB 死神。 />
+166,827
+円
+送料無料
+1,668
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[237] (767,811)<span class='reference--4whr_' role='button' />
+	[238] (767,811)<span  />
+		[239] (767,806)<div  />
+			[240] (767,806)<img  />
+[241] (793,838)<a class='_ellipsis' href='https://www.rakuten.co.jp/americagoodvibes/'>アメリカグッドバイブス />
+[242] (929,534)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/americagoodvibes/ayw4qrrkrc/?variantId=ayw4qrrkrc' />
+	[243] (929,534)<img  />
+[244] (907,612)<div  />
+	[245] (906,612)<div  />
+		[246] (906,612)<span class='reference--4whr_' role='button' />
+			[247] (906,612)<div  />
+				[248] (906,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[249] (906,612)<span  />
+						[250] (906,612)<div  />
+[251] (952,612)<span  />
+	[252] (952,612)<div  />
+		[253] (952,612)<div  />
+			[254] (952,612)<span class='reference--4whr_' role='button' />
+				[255] (952,612)<div  />
+					[256] (952,612)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[257] (952,612)<span  />
+							[258] (952,612)<div  />
+[259] (929,718)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/americagoodvibes/ayw4qrrkrc/?variantId=ayw4qrrkrc' title='XFX Swift AMD Radeon RX 9070XT トリプルファン ゲーミングエディション 16GB GDDR6 HDMI 3xDP、AMD RDNA 4 RX-97TSWF3BA。'>XFX Swift AMD Radeon RX 9070XT トリプルファン ゲーミングエディション 16GB GDDR6 HDMI 3xDP、AMD RDNA 4 RX-97TSWF3BA。 />
+170,149
+円
+送料無料
+1,701
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[260] (892,811)<span class='reference--4whr_' role='button' />
+	[261] (892,811)<span  />
+		[262] (892,806)<div  />
+			[263] (892,806)<img  />
+[264] (918,838)<a class='_ellipsis' href='https://www.rakuten.co.jp/americagoodvibes/'>アメリカグッドバイブス />
+
+</current_dom>

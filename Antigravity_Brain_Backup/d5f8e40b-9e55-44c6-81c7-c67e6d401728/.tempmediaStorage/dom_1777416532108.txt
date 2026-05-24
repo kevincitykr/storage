@@ -1,0 +1,117 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (41,46)<a aria-label='DuckDuckGo home' class='header__logo-wrap js-header-logo' href='/' id='header-logo-wrapper' />
+	[1] (55,46)<span  />
+[2] (258,46)<div  />
+	[3] (246,46)<input class='KzVoRLlICt8isnbHKZpL' id='search_form_input' placeholder='개인 정보 노출 없이 검색' role='combobox' />
+	[4] (424,46)<button aria-label='search' class='tre66mmQ79ZU1ithDMXw' />
+DuckDuckGo 브라우저로 업그레이드하세요.
+DuckDuckGo
+브라우저를 사용해 보세요. 빠른 검색. 무료 제공. 개인 정보 보호.
+[5] (905,480)<a class='C68Y1fiPXCZijXmzVAbe fIgpqHfKgUmmk5lqmvL5 cSB3vZZBSZ9GLKeL8ygC ZnNQOO_hk_lz4QfFV3H1' href='https://duckduckgo.com/windows?origin=funnel_browser_searchresults__popover' />
+	[6] (911,480)<span >브라우저 다운로드 />
+무료
+[7] (974,107)<button class='hzexMwfT1kBGpEyFTOy2 lfRwTNN1Hf8R2G1aX9HT' />
+[8] (974,43)<button class='header__button--menu js-side-menu-open' id='header-hamburger-menu-btn'>메뉴 열기 />
+	메뉴 열기
+[9] (496,98)<div  />
+	[10] (99,98)<a class='kFFXe30DOpq5j1hbWU1q SnptgjT2zdOhGYfNng6g wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=k4CooWv1Lnc&ia=web'>모두 />
+	[11] (130,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=k4CooWv1Lnc&ia=images&iax=images'>이미지 />
+	[12] (159,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=k4CooWv1Lnc&ia=videos&iax=videos'>동영상 />
+	[13] (185,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=k4CooWv1Lnc&ia=news&iar=news'>뉴스 />
+	[14] (207,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=k4CooWv1Lnc&iaxm=maps'>지도 />
+	[15] (390,98)<a class='Pd_jmhkZzftl0UtTaw0u FjSJqhByQmoYMVscUoQe VssOcyhy47YNtTsYTdr0 wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=k4CooWv1Lnc&ia=chat'>Duck.ai />
+	[16] (424,98)<button class='Pd_jmhkZzftl0UtTaw0u FjSJqhByQmoYMVscUoQe VssOcyhy47YNtTsYTdr0 gu3Q2GnnzpqybD2PQxoN wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2'>검색 설정 />
+		검색 설정
+		[17] (424,98)<span  />
+			[18] (424,98)<div  />
+				[19] (424,98)<a class='zcm__link dropdown__button js-dropdown-button' />
+[20] (496,461)<div  />
+	[21] (109,143)<div class='UWzy821Y58lvrLxQ7fnz' />
+		[22] (104,143)<span  />
+			[23] (104,143)<div  />
+				[24] (104,143)<div  />
+					[25] (92,144)<div  />
+						[26] (92,143)<div  />
+					[27] (109,143)<span >보호됨 />
+	[28] (169,143)<div class='UWzy821Y58lvrLxQ7fnz WiAwXRBfyDliy0tc5wSj' />
+		[29] (164,143)<span  />
+			[30] (164,143)<div  />
+				[31] (164,143)<div  />
+					[32] (148,143)<div class='BPcpYCZXQg3nCFNSsYt7 aZO4YZYIAXDN6NUwv7yO' role='switch' />
+						[33] (144,143)<span  />
+					[34] (174,143)<a class='GDhvI_gnvGtGgJQNMU64'>대한민국 />
+	[35] (236,143)<div class='UWzy821Y58lvrLxQ7fnz K3OGxmrYmlInVyLTbimt' />
+		[36] (230,143)<span >안전 검색: 보통 />
+	[37] (293,143)<div class='UWzy821Y58lvrLxQ7fnz' />
+		[38] (287,143)<span >모든 날짜 />
+	[39] (257,253)<article  />
+		[40] (419,197)<div  />
+			[41] (419,197)<button class='cxQwADb9kt3UnKwcXKat uuIDnYC4qmyFk5dsXOhr YZxymVMEkIDA0nZSt_Pm fIgpqHfKgUmmk5lqmvL5 Kupr9ErN7rY_2FrO5WXD LOwJzErTxdlXGS0czM9G COR98ouhDKWLHAPt3uQq' />
+		[42] (257,195)<div  />
+			[43] (201,195)<div  />
+				[44] (96,195)<span  />
+					[45] (96,195)<a href='/?q=k4CooWv1Lnc+site:www.gardenoflife.com' title='gardenoflife.com 도메인 검색' />
+						[46] (96,195)<div  />
+							[47] (96,195)<img  />
+				[48] (211,195)<div  />
+					[49] (211,185)<p >Garden of Life />
+					[50] (211,203)<a class='Rn_JXVtoPVAFyGkcaXyK VkOimy54PtIClAT3GMbr' href='https://www.gardenoflife.com/products/our-vitamins/vitamin-c' />
+						[51] (211,203)<div  />
+							[52] (211,203)<p  />
+								[53] (155,203)<span >https://
+www.gardenoflife.com />
+								[54] (258,203)<span >›
+products › our-vitamins › vitamin-c />
+		[55] (257,240)<div  />
+			[56] (251,240)<h2  />
+				[57] (251,240)<a class='eVNpHGjtxRBq_gLOfGDr LQNqh2U1kzYxREs65IJu' href='https://www.gardenoflife.com/products/our-vitamins/vitamin-c' />
+					[58] (150,240)<span >Vitamin C - Garden of Life />
+		[59] (257,295)<div  />
+			[60] (257,295)<div  />
+				[61] (257,295)<div  />
+					[62] (257,295)<span  />
+						[63] (249,306)<span >^Save 20% on one (1) Garden of Life order with influencer promo code. Code expires 12/31/2026 at 11:59:59 PM ET. Limit one code use per customer. Limit 15 items in cart. Valid only on orders shipped within the continental U.S. Valid on in-stock merchandise only, while supplies last. Offer cannot be combined or used in conjunction with any other promotion, discount or coupon code. Not ... />
+	[64] (257,429)<article  />
+		[65] (419,384)<div  />
+			[66] (419,384)<button class='cxQwADb9kt3UnKwcXKat uuIDnYC4qmyFk5dsXOhr YZxymVMEkIDA0nZSt_Pm fIgpqHfKgUmmk5lqmvL5 Kupr9ErN7rY_2FrO5WXD LOwJzErTxdlXGS0czM9G COR98ouhDKWLHAPt3uQq' />
+		[67] (257,382)<div  />
+			[68] (163,382)<div  />
+				[69] (96,382)<span  />
+					[70] (96,382)<a href='/?q=k4CooWv1Lnc+site:www.kenworth.com' title='kenworth.com 도메인 검색' />
+						[71] (96,382)<div  />
+							[72] (96,382)<img  />
+				[73] (174,382)<div  />
+					[74] (174,372)<p >kenworth.com />
+					[75] (174,390)<a class='Rn_JXVtoPVAFyGkcaXyK VkOimy54PtIClAT3GMbr' href='https://www.kenworth.com/trucks/c500/' />
+						[76] (174,390)<div  />
+							[77] (174,391)<p  />
+								[78] (151,390)<span >https://
+www.kenworth.com />
+								[79] (216,390)<span >›
+trucks › c500 />
+		[80] (257,427)<div  />
+			[81] (251,427)<h2  />
+				[82] (251,427)<a class='eVNpHGjtxRBq_gLOfGDr LQNqh2U1kzYxREs65IJu' href='https://www.kenworth.com/trucks/c500/' />
+					[83] (129,427)<span >C500 | Kenworth />
+		[84] (257,471)<div  />
+			[85] (257,471)<div  />
+				[86] (257,471)<div  />
+					[87] (257,471)<span  />
+						[88] (255,471)<span >Kenworth Trucks T680 T880 W990 T180 / T280 T380 / T480 W900L W900 Legacy Edition C500 C580 K270 / K370 L770 T680E T880E T280E / T380E / T480E />
+	k4CooWv1Lnc
+	에 대한 검색 결과 더 이상 없음
+	추천:
+	철자 검사
+	관련 키워드를 사용해 보세요
+	DuckDuckGo의 비공개 AI 채팅 서비스
+	Duck.ai
+	에 질문해보기:
+	[89] (248,750)<textarea class='bv6Q31k3Hc190HyCs7_H DfBpnT5YZvITDa04inQg' placeholder='Duck.ai에 무엇이든 물어보세요' />
+	[90] (418,750)<button aria-label='Submit to Duck.ai' class='uuIDnYC4qmyFk5dsXOhr fIgpqHfKgUmmk5lqmvL5 ZOfUKr7Y2U26fohV9ohy q1UkhiApBvGYHUQYyG9H COR98ouhDKWLHAPt3uQq' />
+[91] (1062,500)<ul class='nav-menu__list' scrollable='true' />
+[92] (955,963)<button class='fIgpqHfKgUmmk5lqmvL5 _I0sotAoeGtAJzkzyutg Yy4FVTLlXDKk7XaBX_nT'>피드백 공유 />
+
+</current_dom>

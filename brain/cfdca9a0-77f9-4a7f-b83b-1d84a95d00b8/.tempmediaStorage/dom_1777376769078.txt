@@ -1,0 +1,27 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (650,741)<button class='branding-img-container ytp-button' />
+	[1] (650,741)<img  />
+[2] (361,800)<div  />
+	[3] (361,800)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[4] (361,793)<div  />
+		[5] (361,800)<div  />
+		[6] (60,800)<div  />
+			[7] (60,800)<div  />
+[8] (73,845)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[9] (106,845)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[10] (160,845)<div  />
+	[11] (160,845)<div  />
+		[12] (160,845)<div aria-label='0 분 1 초/41 분 40 초' class='ytp-time-contents' role='button' />
+			[13] (144,844)<span >0:01 />
+			[14] (157,844)<span >/ />
+			[15] (173,844)<span >41:40 />
+[16] (551,845)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[17] (551,862)<div  />
+[18] (582,845)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[19] (614,845)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[20] (645,845)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+
+</current_dom>

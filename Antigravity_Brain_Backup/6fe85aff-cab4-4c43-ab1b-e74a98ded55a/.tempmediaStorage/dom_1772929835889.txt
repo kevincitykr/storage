@@ -1,0 +1,576 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,34)<div aria-label='돌아가기' class='gb_1c gb_4c' role='button' title='돌아가기' />
+[1] (44,36)<a aria-label='Blogger' class='gb_de gb_Vc gb_he' href='/?hl=ko&tab=jj&authuser=1' id='sdgBod' />
+	[2] (44,36)<img class='gb_0c' role='presentation' />
+[3] (932,34)<div aria-label='도움말 및 의견' class='U26fgb JRtysb WzwrXb' role='button' />
+	[4] (932,40)<span  />
+		[5] (932,40)<span  />
+			[6] (932,32)<span > />
+[7] (957,34)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=jh' role='button' />
+[8] (982,34)<a aria-label='Google 계정: 김광섭  
+(kevincity0127@gmail.com)' class='gb_B gb_0a gb_1' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.blogger.com/u/1/blog/posts/6577533901683534947&service=blogger&ec=GBRAHg' role='button' />
+[9] (500,534)<c-wiz class='zQTmif SSPGKf eejsDc qWnhY O3LMFb haXJ6e' scrollable='true' />
+	[10] (496,98)<div class='oX8Xbb Tj1T2' role='button' />
+		[11] (486,98)<span  />
+			[12] (486,98)<div  />
+				[13] (10,98)<span > />
+				[14] (39,98)<div >공지사항(1) />
+		[15] (978,98)<div  />
+			[16] (982,96)<span > />
+	**새로운 베타 기능을 사용해 보세요**: Google을 활용하여 블로그를 읽을 때 더욱 몰입할 수 있는 환경을 조성하세요
+	Google 검색 미리보기:
+	인기 인물, 장소, 대중문화 등에 대한 Google 검색 미리보기 이미지를 블로그에 바로 삽입합니다. 시작하려면 '새 글 작성 보기'에서 편집기 툴바의 'G' 버튼을 찾으세요.
+	[17] (978,148)<div aria-label='알림 취소 버튼입니다.' class='U26fgb mUbCce fKz7Od FPbn3c M9Bg4d' role='button' />
+		[18] (978,150)<span  />
+			[19] (978,148)<span > />
+	[20] (417,307)<input aria-label='제목' class='whsOnd zHQkBf' />
+	제목
+	
+	[21] (884,292)<div aria-label='글 미리보기' class='U26fgb O0WRkf zZhnYe e3Duub C0oVfc KlwNXd M9Bg4d' role='button' />
+		[22] (884,292)<span  />
+			[23] (884,292)<span  />
+				[24] (884,292)<div  />
+					[25] (869,292)<span > />
+					[26] (892,292)<div >미리보기 />
+	[27] (918,292)<div aria-label='옵션 더보기' class='U26fgb JRtysb WzwrXb Uj9lCc' id='ow15' role='button' />
+		[28] (917,292)<span  />
+			[29] (917,293)<span  />
+				[30] (917,293)<span > />
+	[31] (959,292)<div aria-label='업데이트' class='U26fgb O0WRkf zZhnYe e3Duub C0oVfc jPVgtf ScshYd M9Bg4d j7nIZb' role='button' />
+		[32] (959,292)<span  />
+			[33] (959,291)<span  />
+				[34] (959,291)<div  />
+					[35] (943,291)<span > />
+					[36] (966,291)<div >업데이트 />
+	[37] (15,364)<div aria-label='보기 전환' class='jgvuAb mAW2Ib e5Emjc xrAKSe' role='listbox' />
+		[38] (15,364)<div role='presentation' />
+			[39] (12,362)<div  />
+				[40] (11,361)<span > />
+			
+			새 글 작성 보기
+			[41] (20,364)<div class='CeEBt Ce1Y1c eU809d' role='presentation' />
+				[42] (20,362)<span > />
+	[43] (44,360)<div aria-label='실행취소' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[44] (44,362)<span  />
+			[45] (44,360)<span > />
+	[46] (61,360)<div aria-label='다시실행' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[47] (61,362)<span  />
+			[48] (61,360)<span > />
+	[49] (84,360)<div aria-label='찾기' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[50] (84,362)<span  />
+			[51] (84,360)<span > />
+	[52] (101,360)<div aria-label='바꾸기' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[53] (101,362)<span  />
+			[54] (101,360)<span > />
+	[55] (124,360)<div aria-label='HTML 형식 지정' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[56] (124,362)<span  />
+			[57] (124,360)<span > />
+	[58] (141,360)<div aria-label='왼쪽에서 오른쪽 레이아웃' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[59] (141,362)<span  />
+			[60] (141,360)<span > />
+	[61] (158,360)<div aria-label='오른쪽에서 왼쪽 레이아웃' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[62] (158,362)<span  />
+			[63] (158,360)<span > />
+	[64] (181,360)<div aria-label='굵게' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[65] (181,362)<span  />
+			[66] (181,360)<span > />
+	[67] (198,360)<div aria-label='기울임꼴' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[68] (198,362)<span  />
+			[69] (198,360)<span > />
+	[70] (215,360)<div aria-label='취소선' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[71] (215,362)<span  />
+			[72] (215,360)<span > />
+	[73] (231,360)<div aria-label='받은메일' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[74] (231,362)<span  />
+			[75] (231,360)<span > />
+	[76] (255,360)<div aria-label='링크 삽입' class='U26fgb mUbCce fKz7Od RUhlrc bsjNHb M9Bg4d' role='button' />
+		[77] (255,362)<span  />
+			[78] (255,360)<span > />
+	[79] (274,360)<div aria-label='이미지 삽입' class='U26fgb JRtysb WzwrXb bsjNHb FSvf1d' role='button' />
+		[80] (274,365)<span  />
+			[81] (274,365)<span  />
+				[82] (274,362)<span > />
+					[83] (279,362)<span > />
+	[84] (296,360)<div aria-label='동영상 삽입' class='U26fgb JRtysb WzwrXb bsjNHb FSvf1d' role='button' />
+		[85] (296,365)<span  />
+			[86] (296,365)<span  />
+				[87] (296,362)<span > />
+					[88] (301,362)<span > />
+	[89] (283,400)<textarea scrollable='true' />
+	[90] (855,788)<div class='CodeMirror-vscrollbar' scrollable='true' />
+	[91] (442,814)<div class='CodeMirror-scroll' scrollable='true' />
+		[92] (436,868)<div class='CodeMirror-lines' role='presentation' />
+			[93] (436,868)<div role='presentation' />
+				[94] (436,868)<div class='CodeMirror-code' role='presentation' />
+					[95] (436,402)<div  />
+						1
+						[96] (17,402)<div  />
+						[97] (436,402)<pre class=' CodeMirror-line ' role='presentation' />
+							[98] (261,402)<span role='presentation'>=
+= />
+								[99] (24,402)<span >< />
+								[100] (32,402)<span >div />
+								[101] (50,402)<span >class />
+								[102] (92,402)<span >"generated-post" />
+								[103] (134,402)<span >style />
+								[104] (321,402)<span >"padding: 15px; color: #333; line-height: 1.6; font-family: 'Malgun Gothic', dotum, sans-serif;" />
+								[105] (498,402)<span >> />
+					[106] (436,418)<div  />
+						2
+						[107] (17,418)<div  />
+						[108] (436,418)<pre class=' CodeMirror-line ' role='presentation' />
+							[109] (349,418)<span role='presentation'>=
+2026년 제3차 민생지원금 1인당 40만원 지급 및 신청 안내 (시범지역 15만원 즉시지급 포함) />
+								[110] (39,418)<span >< />
+								[111] (44,418)<span >h1 />
+								[112] (61,418)<span >style />
+								[113] (207,418)<span >"color: #2c3e50; border-bottom: 2px solid #3498db; padding-bottom: 10px;" />
+								[114] (341,418)<span >> />
+								[115] (660,418)<span ></ />
+								[116] (668,418)<span >h1 />
+								[117] (673,418)<span >> />
+					[118] (436,434)<div  />
+						3
+						[119] (17,434)<div  />
+						[120] (436,434)<pre class=' CodeMirror-line ' role='presentation' />
+							[121] (338,434)<span role='presentation'>= />
+								[122] (39,434)<span >< />
+								[123] (46,434)<span >div />
+								[124] (64,434)<span >style />
+								[125] (363,434)<span >"font-size: 0.9rem; color: #7f8c8d; margin-bottom: 20px; border-bottom: 1px solid #eee; padding-bottom: 10px; display: flex; justify-content: space-between;" />
+								[126] (651,434)<span >> />
+					[127] (436,450)<div  />
+						4
+						[128] (17,450)<div  />
+						[129] (436,450)<pre class=' CodeMirror-line ' role='presentation' />
+							[130] (104,452)<span role='presentation'>📅 작성일: 2026. 03. 08 />
+								[131] (53,452)<span >< />
+								[132] (63,452)<span >span />
+								[133] (72,452)<span >> />
+								[134] (163,452)<span ></ />
+								[135] (174,452)<span >span />
+								[136] (183,452)<span >> />
+					[137] (436,468)<div  />
+						5
+						[138] (17,468)<div  />
+						[139] (436,468)<pre class=' CodeMirror-line ' role='presentation' />
+							[140] (104,470)<span role='presentation'>📂 카테고리: 정부지원금 />
+								[141] (53,470)<span >< />
+								[142] (63,470)<span >span />
+								[143] (72,470)<span >> />
+								[144] (163,470)<span ></ />
+								[145] (174,470)<span >span />
+								[146] (183,470)<span >> />
+					[147] (436,485)<div  />
+						6
+						[148] (436,485)<pre class=' CodeMirror-line ' role='presentation' />
+							[149] (41,485)<span role='presentation' />
+								[150] (41,485)<span ></ />
+								[151] (50,485)<span >div />
+								[152] (57,485)<span >> />
+					[153] (436,501)<div  />
+						7
+						[154] (436,501)<pre class=' CodeMirror-line ' role='presentation' />
+							[155] (30,501)<span role='presentation' />
+					[156] (436,517)<div  />
+						8
+						[157] (17,518)<div  />
+						[158] (436,517)<pre class=' CodeMirror-line ' role='presentation' />
+							[159] (254,517)<span role='presentation'>= />
+								[160] (39,517)<span >< />
+								[161] (46,517)<span >div />
+								[162] (64,517)<span >style />
+								[163] (279,517)<span >"background: #f0f7ff; padding: 15px; border-radius: 10px; border-left: 5px solid #3498db; margin-bottom: 25px;" />
+								[164] (484,517)<span >> />
+					[165] (436,534)<div  />
+						9
+						[166] (17,534)<div  />
+						[167] (436,534)<pre class=' CodeMirror-line ' role='presentation' />
+							[168] (198,535)<span role='presentation'>=
+📢 혜택저장소장의 핵심 요약 />
+								[169] (53,535)<span >< />
+								[170] (57,535)<span >p />
+								[171] (72,535)<span >style />
+								[172] (170,535)<span >"margin: 0; font-weight: bold; color: #2980b9;" />
+								[173] (258,535)<span >> />
+								[174] (363,535)<span ></ />
+								[175] (369,535)<span >p />
+								[176] (373,535)<span >> />
+					[177] (436,551)<div  />
+						10
+						[178] (17,552)<div  />
+						[179] (436,551)<pre class=' CodeMirror-line ' role='presentation' />
+							[180] (398,551)<span role='presentation'>=
+"전국민 40만원 지원금은 현재 논의 중이지만, 일부 지역은 이미
+월 15만원
+을 지급하고 있습니다. 내가 해당되는지 1초 만에 확인하세요!" />
+								[181] (53,551)<span >< />
+								[182] (57,551)<span >p />
+								[183] (72,551)<span >style />
+								[184] (154,551)<span >"margin: 5px 0 0; font-size: 0.95rem;" />
+								[185] (225,551)<span >> />
+								[186] (451,551)<span >< />
+								[187] (464,551)<span >strong />
+								[188] (476,551)<span >> />
+								[189] (515,551)<span ></ />
+								[190] (529,551)<span >strong />
+								[191] (542,551)<span >> />
+								[192] (763,551)<span ></ />
+								[193] (768,551)<span >p />
+								[194] (772,551)<span >> />
+					[195] (436,567)<div  />
+						11
+						[196] (436,567)<pre class=' CodeMirror-line ' role='presentation' />
+							[197] (41,567)<span role='presentation' />
+								[198] (41,567)<span ></ />
+								[199] (50,567)<span >div />
+								[200] (57,567)<span >> />
+					[201] (436,583)<div  />
+						12
+						[202] (436,583)<pre class=' CodeMirror-line ' role='presentation' />
+					[203] (436,599)<div  />
+						13
+						[204] (17,599)<div  />
+						[205] (436,599)<pre class=' CodeMirror-line ' role='presentation' />
+							[206] (416,599)<span role='presentation'>안녕하세요!
+혜택저장소장
+입니다. 오늘은 최근 네이버 블로그와 뉴스에서 뜨거운 감자인
+제3차 민생지원금
+에 대해, 어디서도 알려주지 않는 팩트와 상세 신청 방법을 정리해 드립니다. />
+								[207] (39,599)<span >< />
+								[208] (42,599)<span >p />
+								[209] (46,599)<span >> />
+								[210] (93,599)<span >< />
+								[211] (106,599)<span >strong />
+								[212] (119,599)<span >> />
+								[213] (168,599)<span ></ />
+								[214] (183,599)<span >strong />
+								[215] (196,599)<span >> />
+								[216] (414,599)<span >< />
+								[217] (427,599)<span >strong />
+								[218] (440,599)<span >> />
+								[219] (504,599)<span ></ />
+								[220] (518,599)<span >strong />
+								[221] (531,599)<span >> />
+								[222] (799,599)<span ></ />
+								[223] (804,599)<span >p />
+								[224] (808,599)<span >> />
+					[225] (436,615)<div  />
+						14
+						[226] (436,615)<pre class=' CodeMirror-line ' role='presentation' />
+					[227] (436,630)<div  />
+						15
+						[228] (17,631)<div  />
+						[229] (436,630)<pre class=' CodeMirror-line ' role='presentation' />
+							[230] (307,630)<span role='presentation'>=
+1. 지원 내용: 전국민 40만원 vs 시범지역 15만원 />
+								[231] (39,630)<span >< />
+								[232] (44,630)<span >h2 />
+								[233] (61,630)<span >style />
+								[234] (238,630)<span >"border-left: 5px solid #3498db; padding-left: 15px; margin: 30px 0 15px; color: #2980b9;" />
+								[235] (403,630)<span >> />
+								[236] (577,630)<span ></ />
+								[237] (584,630)<span >h2 />
+								[238] (589,630)<span >> />
+					[239] (436,646)<div  />
+						16
+						[240] (17,647)<div  />
+						[241] (436,646)<pre class=' CodeMirror-line ' role='presentation' />
+							[242] (201,646)<span role='presentation'>많은 분들이 헷갈려하시는 부분입니다. 정부가 추진 중인 정책은 두 가지 트랙으로 나뉩니다. />
+								[243] (39,646)<span >< />
+								[244] (42,646)<span >p />
+								[245] (46,646)<span >> />
+								[246] (369,646)<span ></ />
+								[247] (374,646)<span >p />
+								[248] (378,646)<span >> />
+					[249] (436,662)<div  />
+						17
+						[250] (17,663)<div  />
+						[251] (436,662)<pre class=' CodeMirror-line ' role='presentation' />
+							[252] (84,662)<span role='presentation'>= />
+								[253] (39,662)<span >< />
+								[254] (44,662)<span >ul />
+								[255] (61,662)<span >style />
+								[256] (108,662)<span >"line-height: 1.8;" />
+								[257] (145,662)<span >> />
+					[258] (436,678)<div  />
+						18
+						[259] (17,679)<div  />
+						[260] (436,678)<pre class=' CodeMirror-line ' role='presentation' />
+							[261] (214,678)<span role='presentation'>전국민 민생지원금
+: 1인당 최대 40만원 (4월 신청 목표, 현재 당정 협의 중) />
+								[262] (53,678)<span >< />
+								[263] (59,678)<span >li />
+								[264] (66,678)<span >>< />
+								[265] (81,678)<span >strong />
+								[266] (93,678)<span >> />
+								[267] (161,678)<span ></ />
+								[268] (176,678)<span >strong />
+								[269] (188,678)<span >> />
+								[270] (391,678)<span ></ />
+								[271] (398,678)<span >li />
+								[272] (403,678)<span >> />
+					[273] (436,694)<div  />
+						19
+						[274] (17,694)<div  />
+						[275] (436,694)<pre class=' CodeMirror-line ' role='presentation' />
+							[276] (234,694)<span role='presentation'>농어촌 기본소득 (시범지역)
+:
+매월 15만원
+(현재 10개 지역 지급 중!) />
+								[277] (53,694)<span >< />
+								[278] (59,694)<span >li />
+								[279] (66,694)<span >>< />
+								[280] (81,694)<span >strong />
+								[281] (93,694)<span >> />
+								[282] (194,694)<span ></ />
+								[283] (208,694)<span >strong />
+								[284] (221,694)<span >> />
+								[285] (232,694)<span >< />
+								[286] (245,694)<span >strong />
+								[287] (258,694)<span >> />
+								[288] (303,694)<span ></ />
+								[289] (318,694)<span >strong />
+								[290] (330,694)<span >> />
+								[291] (431,694)<span ></ />
+								[292] (438,694)<span >li />
+								[293] (443,694)<span >> />
+					[294] (436,710)<div  />
+						20
+						[295] (436,710)<pre class=' CodeMirror-line ' role='presentation' />
+							[296] (39,710)<span role='presentation' />
+								[297] (41,710)<span ></ />
+								[298] (48,710)<span >ul />
+								[299] (53,710)<span >> />
+					[300] (436,726)<div  />
+						21
+						[301] (436,726)<pre class=' CodeMirror-line ' role='presentation' />
+					[302] (436,742)<div  />
+						22
+						[303] (17,742)<div  />
+						[304] (436,742)<pre class=' CodeMirror-line ' role='presentation' />
+							[305] (305,742)<span role='presentation'>=
+2. 지금 당장 돈 받을 수 있는 시범 지역 (10곳) />
+								[306] (39,742)<span >< />
+								[307] (44,742)<span >h2 />
+								[308] (61,742)<span >style />
+								[309] (238,742)<span >"border-left: 5px solid #3498db; padding-left: 15px; margin: 30px 0 15px; color: #2980b9;" />
+								[310] (403,742)<span >> />
+								[311] (573,742)<span ></ />
+								[312] (580,742)<span >h2 />
+								[313] (586,742)<span >> />
+					[314] (436,757)<div  />
+						23
+						[315] (17,758)<div  />
+						[316] (436,757)<pre class=' CodeMirror-line ' role='presentation' />
+							[317] (192,757)<span role='presentation'>아래 지역에 30일 이상 거주하셨다면 지금 바로 읍·면·동 행정복지센터로 달려가세요! />
+								[318] (39,757)<span >< />
+								[319] (42,757)<span >p />
+								[320] (46,757)<span >> />
+								[321] (351,757)<span ></ />
+								[322] (356,757)<span >p />
+								[323] (360,757)<span >> />
+					[324] (436,773)<div  />
+						24
+						[325] (17,774)<div  />
+						[326] (436,773)<pre class=' CodeMirror-line ' role='presentation' />
+							[327] (234,773)<span role='presentation'>= />
+								[328] (39,773)<span >< />
+								[329] (50,773)<span >table />
+								[330] (72,773)<span >style />
+								[331] (263,773)<span >"width:100%; border-collapse: collapse; margin: 20px 0; background: #fff; border: 1px solid #ddd;" />
+								[332] (443,773)<span >> />
+					[333] (436,789)<div  />
+						25
+						[334] (17,790)<div  />
+						[335] (436,789)<pre class=' CodeMirror-line ' role='presentation' />
+							[336] (97,789)<span role='presentation'>= />
+								[337] (53,789)<span >< />
+								[338] (59,789)<span >tr />
+								[339] (75,789)<span >style />
+								[340] (128,789)<span >"background: #f4f4f4;" />
+								[341] (170,789)<span >> />
+					[342] (436,805)<div  />
+						26
+						[343] (17,806)<div  />
+						[344] (436,805)<pre class=' CodeMirror-line ' role='presentation' />
+							[345] (190,805)<span role='presentation'>=
+권역 />
+								[346] (68,805)<span >< />
+								[347] (73,805)<span >th />
+								[348] (90,805)<span >style />
+								[349] (212,805)<span >"padding: 12px; border: 1px solid #ddd; text-align: center;" />
+								[350] (323,805)<span >> />
+								[351] (343,805)<span ></ />
+								[352] (351,805)<span >th />
+								[353] (356,805)<span >> />
+					[354] (436,821)<div  />
+						27
+						[355] (17,821)<div  />
+						[356] (436,821)<pre class=' CodeMirror-line ' role='presentation' />
+							[357] (208,821)<span role='presentation'>=
+해당 시범 지역 />
+								[358] (68,821)<span >< />
+								[359] (73,821)<span >th />
+								[360] (90,821)<span >style />
+								[361] (212,821)<span >"padding: 12px; border: 1px solid #ddd; text-align: center;" />
+								[362] (323,821)<span >> />
+								[363] (380,821)<span ></ />
+								[364] (387,821)<span >th />
+								[365] (392,821)<span >> />
+					[366] (436,837)<div  />
+						28
+						[367] (436,837)<pre class=' CodeMirror-line ' role='presentation' />
+							[368] (46,837)<span role='presentation' />
+								[369] (55,837)<span ></ />
+								[370] (63,837)<span >tr />
+								[371] (68,837)<span >> />
+					[372] (436,853)<div  />
+						29
+						[373] (17,853)<div  />
+						[374] (436,853)<pre class=' CodeMirror-line ' role='presentation' />
+							[375] (44,853)<span role='presentation' />
+								[376] (53,853)<span >< />
+								[377] (59,853)<span >tr />
+								[378] (64,853)<span >> />
+					[379] (436,868)<div  />
+						30
+						[380] (17,869)<div  />
+						[381] (436,868)<pre class=' CodeMirror-line ' role='presentation' />
+							[382] (234,868)<span role='presentation'>=
+경기/강원 />
+								[383] (68,868)<span >< />
+								[384] (73,868)<span >td />
+								[385] (90,868)<span >style />
+								[386] (247,868)<span >"padding: 12px; border: 1px solid #ddd; text-align: center; font-weight: bold;" />
+								[387] (392,868)<span >> />
+								[388] (431,868)<span ></ />
+								[389] (438,868)<span >td />
+								[390] (443,868)<span >> />
+					[391] (436,884)<div  />
+						31
+						[392] (17,885)<div  />
+						[393] (436,884)<pre class=' CodeMirror-line ' role='presentation' />
+							[394] (172,884)<span role='presentation'>=
+연천군, 정선군 />
+								[395] (68,884)<span >< />
+								[396] (73,884)<span >td />
+								[397] (90,884)<span >style />
+								[398] (176,884)<span >"padding: 12px; border: 1px solid #ddd;" />
+								[399] (250,884)<span >> />
+								[400] (307,884)<span ></ />
+								[401] (314,884)<span >td />
+								[402] (320,884)<span >> />
+					[403] (436,900)<div  />
+						32
+						[404] (436,900)<pre class=' CodeMirror-line ' role='presentation' />
+							[405] (46,900)<span role='presentation' />
+								[406] (55,900)<span ></ />
+								[407] (63,900)<span >tr />
+								[408] (68,900)<span >> />
+					[409] (436,916)<div  />
+						33
+						[410] (17,917)<div  />
+						[411] (436,916)<pre class=' CodeMirror-line ' role='presentation' />
+							[412] (44,916)<span role='presentation' />
+								[413] (53,916)<span >< />
+								[414] (59,916)<span >tr />
+								[415] (64,916)<span >> />
+					[416] (436,932)<div  />
+						34
+						[417] (17,933)<div  />
+						[418] (436,932)<pre class=' CodeMirror-line ' role='presentation' />
+							[419] (225,932)<span role='presentation'>=
+충청 />
+								[420] (68,932)<span >< />
+								[421] (73,932)<span >td />
+								[422] (90,932)<span >style />
+								[423] (247,932)<span >"padding: 12px; border: 1px solid #ddd; text-align: center; font-weight: bold;" />
+								[424] (392,932)<span >> />
+								[425] (413,932)<span ></ />
+								[426] (420,932)<span >td />
+								[427] (425,932)<span >> />
+					[428] (436,948)<div  />
+						35
+						[429] (17,948)<div  />
+						[430] (436,948)<pre class=' CodeMirror-line ' role='presentation' />
+							[431] (172,948)<span role='presentation'>=
+옥천군, 청양군 />
+								[432] (68,948)<span >< />
+								[433] (73,948)<span >td />
+								[434] (90,948)<span >style />
+								[435] (176,948)<span >"padding: 12px; border: 1px solid #ddd;" />
+								[436] (250,948)<span >> />
+								[437] (307,948)<span ></ />
+								[438] (314,948)<span >td />
+								[439] (320,948)<span >> />
+					[440] (436,964)<div  />
+						36
+						[441] (436,964)<pre class=' CodeMirror-line ' role='presentation' />
+							[442] (46,964)<span role='presentation' />
+								[443] (55,964)<span ></ />
+								[444] (63,964)<span >tr />
+								[445] (68,964)<span >> />
+					[446] (436,980)<div  />
+						37
+						[447] (17,980)<div  />
+						[448] (436,980)<pre class=' CodeMirror-line ' role='presentation' />
+							[449] (44,980)<span role='presentation' />
+								[450] (53,980)<span >< />
+								[451] (59,980)<span >tr />
+								[452] (64,980)<span >> />
+					[453] (436,995)<div  />
+						38
+						[454] (17,996)<div  />
+						[455] (436,995)<pre class=' CodeMirror-line ' role='presentation' />
+							[456] (234,995)<span role='presentation'>=
+전라/경상 />
+								[457] (68,995)<span >< />
+								[458] (73,995)<span >td />
+								[459] (90,995)<span >style />
+								[460] (247,995)<span >"padding: 12px; border: 1px solid #ddd; text-align: center; font-weight: bold;" />
+								[461] (392,995)<span >> />
+								[462] (431,995)<span ></ />
+								[463] (438,995)<span >td />
+								[464] (443,995)<span >> />
+	글 설정
+	[465] (926,402)<div class='oX8Xbb Tj1T2' role='button' />
+		[466] (932,402)<span  />
+			[467] (932,402)<div  />
+				[468] (892,402)<div >라벨 />
+		[469] (876,402)<div  />
+			[470] (876,402)<span > />
+	쉼표로 라벨을 구분하세요.
+	[471] (926,459)<textarea aria-label='쉼표로 라벨을 구분하세요.' class='KHxj8b tL9Q4c' />
+	일치하는 추천 없음
+	[472] (926,679)<div class='oX8Xbb Tj1T2' role='button' />
+		[473] (932,679)<span  />
+			[474] (932,679)<div  />
+				[475] (932,666)<div  />
+					[476] (900,666)<div >게시 날짜 />
+				[477] (932,691)<div >26. 3. 8. AM 8:33 />
+		[478] (876,679)<div  />
+			[479] (876,679)<span > />
+	[480] (926,752)<div class='oX8Xbb Tj1T2' role='button' />
+		[481] (932,752)<span  />
+			[482] (932,752)<div  />
+				[483] (899,752)<div >퍼머링크 />
+		[484] (876,752)<div  />
+			[485] (876,752)<span > />
+	[486] (926,812)<div class='oX8Xbb Tj1T2' role='button' />
+		[487] (932,812)<span  />
+			[488] (932,812)<div  />
+				[489] (892,812)<div >위치 />
+		[490] (876,812)<div  />
+			[491] (876,812)<span > />
+	[492] (926,872)<div class='oX8Xbb Tj1T2' role='button' />
+		[493] (932,872)<span  />
+			[494] (932,872)<div  />
+				[495] (892,872)<div >옵션 />
+		[496] (876,872)<div  />
+			[497] (876,872)<span > />
+
+</current_dom>

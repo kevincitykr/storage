@@ -1,0 +1,106 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+$300 크레딧으로 무료 체험판을 시작해 보세요. 크레딧을 모두 사용해도 요금이 청구되지 않으니 걱정하지 마세요.
+자세히 알아보기
+닫기
+무료로 시작하기
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+Default Gemini Project
+1
+API 및 서비스
+사용 설정된 API 및 서비스
+라이브러리
+사용자 인증 정보
+OAuth 동의 화면
+페이지 사용 동의
+API/서비스 세부정보
+API 사용중지
+[0] (639,596)<div class='cfc-flex-layout-column cfc-scroll-vertical' scrollable='true' />
+	YouTube Data API v3
+	The YouTube Data API v3 is an API that provides access to YouTube data, such as videos, playlists, and channels.
+	제공: Google
+	서비스 이름
+	youtube.googleapis.com
+	유형
+	공개 API
+	상태
+	사용 설정됨
+	문서
+	Learn more
+	탐색
+	API 탐색기에서 사용해 보기
+	지원
+	유지보수 및 지원
+	측정항목
+	할당량 및 시스템 한도
+	사용자 인증 정보
+	사용자 인증 정보 만들기
+	삭제
+	이 API와 호환되는 사용자 인증 정보
+	모든 사용자 인증 정보를 보려면
+	API 및 서비스의 사용자 인증 정보
+	로 이동하세요.
+	API 키
+	이름
+	생성일
+	제한사항
+	작업
+[1] (673,500)<div class='cfc-sub-task-container ng-tns-c1913004992-0 ng-trigger ng-trigger-cfcSubtaskContainerAnimated' scrollable='true' />
+	[2] (664,62)<div  />
+		[3] (664,62)<div  />
+			[4] (440,41)<label class='mdc-floating-label mat-mdc-floating-label mdc-floating-label--float-above ng-star-inserted' id='_4rif_mat-mdc-form-field-label-5' />
+				[5] (435,42)<mat-label >API 제한사항 선택 />
+				[6] (489,42)<span  />
+			[7] (664,62)<div  />
+				[8] (664,62)<cfc-select aria-label='API 제한사항 선택' class='cfc-select ng-untouched ng-dirty ng-valid' id='_4rif_cfc-select-4' role='combobox' />
+					[9] (664,62)<div  />
+						[10] (654,62)<div  />
+							[11] (411,62)<span  />
+								[12] (411,62)<span >API 1개 />
+						[13] (932,62)<cm-icon  />
+	이 목록에는 이 프로젝트에 사용 설정된 API만 포함됩니다. 필요한 API가 표시되지 않으면
+	[14] (655,112)<a class='p6ntest-apiLibraryLink ng-star-inserted' href='/apis/library?authuser=1&project=gen-lang-client-0922899114'>API 라이브러리 />
+	로 이동하여 사용 설정하세요.
+	선택한 API:
+	YouTube Data API v3
+	[15] (511,270)<label class='mdc-label'>서비스 계정을 통해 API 호출 인증 />
+	이 키를 사용한 API 호출은 바인드된 서비스 계정으로 인증됩니다. 이 옵션은 Vertex AI와 같은 일부 API에 액세스하는 데 필요합니다.
+	[16] (664,600)<fieldset >보안 위험을 줄이기 위해 키를 제한하세요
+액세스를 제한할 특정 애플리케이션 유형을 선택하세요. />
+		보안 위험을 줄이기 위해 키를 제한하세요
+		액세스를 제한할 특정 애플리케이션 유형을 선택하세요.
+		이 키는 제한되지 않습니다. 무단 사용을 방지하려면 이 키가 사용될 수 있는 위치와 API를 제한하는 것이 좋습니다.
+		[17] (733,536)<a aria-label='API 키 제한사항 자세히 알아보기 새 창에서 외부 링크 열기' class='cfc-external-link ng-star-inserted' href='https://cloud.google.com/docs/authentication/api-keys?hl=ko#securing' />
+			[18] (726,537)<span  />
+				[19] (726,536)<span >자세히 알아보기 />
+			[20] (784,536)<cm-icon aria-label='새 창에서 외부 링크 열기' class='cm-icon-external-link ng-star-inserted' role='img' />
+		애플리케이션 제한사항
+		[21] (604,614)<button aria-label='애플리케이션 제한사항 도움말' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-help-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+			[22] (604,614)<cm-icon  />
+		[23] (388,658)<div  />
+			[24] (388,658)<input class='mdc-radio__native-control' id='_4rif_mat-radio-0-input' />
+		[25] (419,655)<label class='mdc-label'>없음 />
+		[26] (388,694)<div  />
+			[27] (388,694)<input class='mdc-radio__native-control' id='_4rif_mat-radio-1-input' />
+		[28] (433,692)<label class='mdc-label'>웹사이트 />
+		[29] (388,731)<div  />
+			[30] (388,731)<input class='mdc-radio__native-control' id='_4rif_mat-radio-2-input' />
+		[31] (428,728)<label class='mdc-label'>IP 주소 />
+		[32] (388,767)<div  />
+			[33] (388,767)<input class='mdc-radio__native-control' id='_4rif_mat-radio-3-input' />
+		[34] (441,765)<label class='mdc-label'>Android 앱 />
+		[35] (388,804)<div  />
+			[36] (388,804)<input class='mdc-radio__native-control' id='_4rif_mat-radio-4-input' />
+		[37] (426,801)<label class='mdc-label'>iOS 앱 />
+	참고: 설정이 적용되는 데 최대 5분이 걸릴 수 있습니다.
+	[38] (407,948)<button class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary mat-mdc-button-disabled-interactive cm-button'>만들기 />
+		만들기
+	[39] (477,948)<button class='mdc-button mat-mdc-button-base gmat-mdc-button mat-secondary mat-mdc-button mat-mdc-button-disabled-interactive mat-unthemed cm-button'>취소 />
+		취소
+
+</current_dom>

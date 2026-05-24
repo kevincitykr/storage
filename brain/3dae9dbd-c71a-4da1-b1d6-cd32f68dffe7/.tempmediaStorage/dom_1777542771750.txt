@@ -1,0 +1,74 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+console.cloud.google.com 에서는 서비스 제공 및 서비스 품질 개선과 트래픽 분석을 위해 Google 쿠키를 사용합니다.
+[0] (725,945)<a aria-label='Google에서 쿠키를 사용하는 방법을 자세히 알아보세요. 새 탭에서 열립니다.' class='glue-cookie-notification-bar__more' href='https://policies.google.com/technologies/cookies?hl=ko'>자세히 알아보세요 />
+[1] (959,945)<button class='glue-cookie-notification-bar__accept'>확인 />
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+[2] (20,40)<button aria-label='탐색 메뉴 (.)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[3] (20,40)<cm-icon  />
+[4] (88,40)<a aria-label='Google Cloud Platform 홈' class='cfc-logo-anchor mat-focus-indicator' href='/' />
+[5] (482,40)<div class='pcc-combobox' role='combobox' />
+	[6] (495,40)<input aria-label='쿼리를 입력하여 리소스, 문서, 제품 등 검색' class='cm-input gmat-mdc-input mat-mdc-input-element pcc-search-input ng-untouched ng-pristine ng-valid cdk-text-field-autofill-monitored' id='mat-input-0' placeholder='리소스, 문서, 제품 등 검색(/)' />
+검색
+[7] (895,40)<button aria-label='Cloud Shell 활성화 (G then S)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip ng-star-inserted cfc-tooltip-disable-user-select-on-touch-device' />
+	[8] (895,40)<cm-icon  />
+[9] (924,40)<button aria-label='읽지 않은 알림 2개 알림 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[10] (924,40)<div  />
+		[11] (924,40)<div  />
+			[12] (924,30)<div >2 />
+[13] (953,40)<button aria-label='설정 및 유틸리티' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='pcc-utilities-menu-trigger' />
+	[14] (953,40)<cm-icon  />
+[15] (982,40)<button aria-label='계정: 김더케빈 (kkseob0116@gmail.com)' class='cfc-accountchooser-link mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+새 프로젝트
+projects 할당량이 16개 남았습니다. 할당량 증가를 요청하거나 프로젝트를 삭제하세요.
+[16] (171,268)<a aria-label='자세히 알아보기 새 창에서 외부 링크 열기' class='cfc-doc-link' href='https://support.google.com/cloud/answer/6330231?hl=ko' />
+	[17] (165,269)<span >자세히 알아보기 />
+	[18] (205,268)<cm-icon aria-label='새 창에서 외부 링크 열기' class='cm-icon-external-link' role='img' />
+[19] (120,326)<button class='mdc-button mat-mdc-button-base gmat-mdc-button cm-button mat-unthemed mdc-button--outlined mat-mdc-outlined-button' />
+	[20] (120,326)<a aria-label='Manage Quotas 새 창에서 외부 링크 열기' class='cfc-doc-link' href='https://support.google.com/code/contact/project_quota_increase?hl=ko' />
+		[21] (115,326)<span >Manage Quotas />
+		[22] (158,326)<cm-icon aria-label='새 창에서 외부 링크 열기' class='cm-icon-external-link' role='img' />
+[23] (205,434)<div  />
+	[24] (205,434)<div  />
+		[25] (55,406)<label class='mdc-floating-label mat-mdc-floating-label mdc-floating-label--float-above ng-star-inserted' id='mat-mdc-form-field-label-0' />
+			[26] (52,408)<mat-label >프로젝트 이름 />
+			[27] (80,408)<span  />
+		[28] (193,434)<div  />
+			[29] (193,434)<input class='cm-input gmat-mdc-input mat-mdc-input-element ng-pristine ng-valid mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored ng-touched' id='p6ntest-name-input' />
+		[30] (372,434)<div  />
+			[31] (373,434)<cfc-help-button  />
+				[32] (376,433)<button aria-label='Help popup for project ID' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-help-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+					[33] (376,434)<cm-icon  />
+프로젝트 ID:
+neural-house-494909-q6.
+나중에 변경할 수 없습니다
+.
+[34] (294,494)<button aria-label='프로젝트 ID를 수정합니다.' class='mdc-button mat-mdc-button-base gmat-mdc-button mat-mdc-button mat-primary cm-button' id='p6ntest-show-edit-proj-id'>수정 />
+	수정
+[35] (205,584)<div  />
+	[36] (205,584)<div  />
+		[37] (51,556)<label class='mdc-floating-label mat-mdc-floating-label mdc-floating-label--float-above ng-star-inserted' id='mat-mdc-form-field-label-1' />
+			[38] (48,558)<mat-label >상위 리소스 />
+			[39] (72,558)<span  />
+		[40] (34,584)<div  />
+			[41] (33,583)<span  />
+				[42] (33,584)<cfc-icon  />
+					[43] (33,584)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+		[44] (182,584)<div  />
+			[45] (182,584)<input class='cm-input gmat-mdc-input mat-mdc-input-element ng-untouched ng-pristine mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored ng-valid' id='cfctest-locked-org-picker' />
+		[46] (353,584)<div  />
+			[47] (354,583)<span  />
+				[48] (357,584)<button aria-label='상위 리소스 찾아보기' class='mdc-button mat-mdc-button-base gmat-mdc-button mat-mdc-button mat-primary cm-button'>찾아보기 />
+					찾아보기
+이 리소스가 생성될 조직 또는 폴더를 선택하세요.
+[49] (41,701)<button class='mdc-button mat-mdc-button-base gmat-mdc-button projtest-create-form-submit mdc-button--unelevated mat-mdc-unelevated-button mat-primary cm-button' />
+	[50] (41,701)<span >만들기 />
+[51] (88,701)<button class='mdc-button mat-mdc-button-base gmat-mdc-button projtest-create-form-cancel mat-mdc-button mat-secondary cm-button'>취소 />
+	취소
+
+</current_dom>

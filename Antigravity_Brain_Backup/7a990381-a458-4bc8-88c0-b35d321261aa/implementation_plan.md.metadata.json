@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Implementation plan to bypass AliExpress anti-bot detection for the Windly scraper. Includes updates to Playwright configuration for stealth and persistent sessions, and improvements to the JS scraper's request patterns.",
+  "updatedAt":  "2026-04-21T09:12:26.074616100Z",
+  "requestFeedback":  true
+}

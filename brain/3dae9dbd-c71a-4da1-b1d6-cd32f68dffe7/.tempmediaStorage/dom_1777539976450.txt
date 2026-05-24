@@ -1,0 +1,112 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+신규: API 비용 관리
+실수로 초과 지출하는 것을 방지하기 위해 월별 지출 한도를 설정하세요.
+[0] (287,462)<button aria-label='둘러보기 닫기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button xap-tour-exit-button gmat-mdc-button-with-prefix mat-unthemed' />
+	[1] (287,462)<mat-icon class='mat-icon notranslate overlay-icon google-symbols mat-icon-no-color' role='img'>close />
+[2] (178,609)<a aria-label='추가 자료' class='mdc-button mat-mdc-button-base gmat-mdc-button xap-tour-navigation mat-mdc-button mat-unthemed ng-star-inserted' href='/spend' />
+	[3] (178,609)<span >지출 한도 만들기 />
+Google AI Studio 은(는) 서비스 제공 및 서비스 품질 개선과 트래픽 분석을 위해 쿠키를 사용합니다. 동의 시 광고를 게재하고 표시되는 콘텐츠 및 광고를 맞춤설정하는 데도 쿠키가 사용됩니다.
+[4] (775,40)<a aria-label='Google에서 쿠키를 사용하는 방법을 자세히 알아보세요. 새 탭에서 열립니다.' class='glue-cookie-notification-bar__more' href='https://policies.google.com/technologies/cookies?hl=ko'>자세히 알아보세요 />
+[5] (923,40)<button class='glue-cookie-notification-bar__accept'>동의함 />
+[6] (964,40)<button class='glue-cookie-notification-bar__reject'>나중에 />
+We have updated our
+[7] (516,124)<a href='https://ai.google.dev/gemini-api/terms'>Terms of Service />
+[8] (581,125)<button class='dismiss custom-theme ms-button-primary'>Dismiss />
+[9] (167,214)<button aria-label='Toggle navigation menu' class='mat-mdc-tooltip-trigger floating-toggle-button ng-tns-c3997297598-1 expanded banner-visible ng-trigger ng-trigger-fadeInOut ms-button-icon ms-button-primary ng-star-inserted' />
+	[10] (167,214)<span >menu_open />
+[11] (72,584)<div class='nav-content v3-left-nav nesting-enabled ng-tns-c3997297598-1 expanded ng-trigger ng-trigger-parent' scrollable='true' />
+	[12] (53,214)<a class='logo-wrapper logo-link ng-tns-c3997297598-1 ms-button-borderless' href='/app/prompts/new_chat' />
+		[13] (53,214)<ms-logo-icon  />
+	[14] (117,214)<button aria-label='View related products' class='mat-mdc-menu-trigger dropdown-trigger ng-tns-c3997297598-1 ms-button-borderless ms-button-icon' />
+		[15] (117,214)<span >expand_more />
+	[16] (66,283)<a class='back-item ms-button-borderless ng-star-inserted' href='/app/prompts/new_chat'>Dashboard />
+		[17] (19,283)<span >chevron_left />
+	[18] (66,335)<a class='ms-button-borderless ng-star-inserted active' href='/app/api-keys'>API Keys />
+	[19] (66,387)<a class='ms-button-borderless ng-star-inserted' href='/app/projects'>프로젝트 />
+	[20] (66,439)<a class='ms-button-borderless ng-star-inserted' href='/app/usage'>사용량 />
+	[21] (66,490)<a class='ms-button-borderless ng-star-inserted' href='/app/rate-limit'>비율 제한 />
+	[22] (66,542)<a class='ms-button-borderless ng-star-inserted xap-tour-element-active' href='/app/spend'>지출 />
+	[23] (66,594)<a class='ms-button-borderless ng-star-inserted' href='/app/billing'>결제 />
+	[24] (66,646)<a class='ms-button-borderless ng-star-inserted' href='/app/logs'>로그 및 데이터 세트 />
+	[25] (66,698)<a class='ms-button-borderless ng-star-inserted' href='https://ai.google.dev/gemini-api/docs/changelog'>변경 로그 />
+		[26] (57,698)<span >arrow_outward />
+	[27] (66,758)<button class='command-palette-button ng-tns-c3997297598-1 ms-button-borderless' />
+		[28] (19,758)<span >search />
+		[29] (44,758)<span >Search />
+		[30] (111,758)<span  />
+	[31] (66,807)<button aria-label='What's new' class='ng-tns-c3299693842-3 ms-button-borderless'>What's new />
+		[32] (19,807)<span >notifications />
+	[33] (66,856)<button class='ms-button-borderless'>Get API key />
+		[34] (19,856)<span >key />
+	[35] (66,905)<button class='mat-mdc-menu-trigger trigger-button ms-button-borderless'>Settings />
+		[36] (19,905)<span >settings />
+	[37] (66,968)<button class='account-switcher-button ng-tns-c3997297598-1 v3-container-485387979 ms-button-primary' />
+		[38] (72,968)<span >kkseob0116@gmail.com />
+	[39] (19,967)<div aria-label='Google 계정: 김더케빈(kkseob0116@gmail.com)' class='mat-mdc-tooltip-trigger button-container' role='button' />
+		[40] (19,967)<div  />
+			[41] (19,967)<connect-avatar  />
+				[42] (19,967)<img  />
+[43] (572,584)<div class='layout-main ng-tns-c3872533921-0' scrollable='true' />
+	API 키
+	[44] (794,260)<a aria-label='API 빠른 시작' class='api-quickstart-link ms-button-borderless' href='https://ai.google.dev/gemini-api/docs/quickstart'>API 빠른 시작 />
+		[45] (766,260)<span >docs />
+	[46] (892,260)<button class='ms-button-primary'>API 키 만들기 />
+		[47] (864,260)<span >key />
+	그룹화 기준
+	[48] (273,352)<button class='ms-button-active ms-button-filter-chip'>API Key />
+	[49] (333,352)<button class='ms-button-filter-chip'>프로젝트 />
+	필터링 기준
+	[50] (870,352)<div  />
+		[51] (870,352)<div  />
+			[52] (870,352)<div  />
+				[53] (870,352)<mat-select class='mat-mdc-select mat-mdc-select-empty' id='mat-select-0' placeholder='모든 프로젝트' role='combobox' />
+					[54] (870,352)<div  />
+						[55] (867,352)<div  />
+							[56] (838,352)<span >모든 프로젝트 />
+						[57] (925,352)<div  />
+	키
+	프로젝트
+	[58] (681,444)<th class='mat-sort-header mat-mdc-header-cell mdc-data-table__header-cell cdk-header-cell table-header-cell cdk-column-Created-On mat-column-Created-On ng-star-inserted' role='columnheader' />
+		[59] (681,444)<div class='mat-sort-header-container mat-focus-indicator' role='button' />
+			[60] (649,444)<div >생성일 />
+			[61] (670,444)<div  />
+	결제 등급
+	...kRU0
+	Gemini API Key
+	[62] (377,520)<button class='key-table-link ms-button-link'>kevin1231 />
+	gen-lang-client-0762672309
+	2026. 4. 26.
+	[63] (765,520)<button class='xap-inline-dialog link ms-button-link ng-star-inserted'>결제 설정 />
+	무료 등급
+	[64] (845,533)<button aria-label='API 키 복사' class='xap-copy-to-clipboard ms-button-borderless ms-button-icon' />
+		[65] (845,533)<span >content_copy />
+	[66] (871,533)<button aria-label='지출 보기' class='ms-button-borderless ms-button-icon' />
+		[67] (871,533)<span >paid />
+	[68] (897,533)<button aria-label='사용량 보기' class='ms-button-borderless ms-button-icon' />
+		[69] (897,533)<span >bar_chart />
+	[70] (923,533)<button aria-label='작업 더보기' class='mat-mdc-menu-trigger mat-mdc-tooltip-trigger ms-button-borderless ms-button-icon' />
+		[71] (923,533)<span >more_vert />
+	...Ne3k
+	kevincity
+	[72] (377,629)<button class='key-table-link ms-button-link'>kevin1231 />
+	gen-lang-client-0762672309
+	2025. 12. 31.
+	[73] (765,629)<button class='xap-inline-dialog link ms-button-link ng-star-inserted'>결제 설정 />
+	무료 등급
+	[74] (845,642)<button aria-label='API 키 복사' class='xap-copy-to-clipboard ms-button-borderless ms-button-icon' />
+		[75] (845,642)<span >content_copy />
+	[76] (871,642)<button aria-label='지출 보기' class='ms-button-borderless ms-button-icon' />
+		[77] (871,642)<span >paid />
+	[78] (897,642)<button aria-label='사용량 보기' class='ms-button-borderless ms-button-icon' />
+		[79] (897,642)<span >bar_chart />
+	[80] (923,642)<button aria-label='작업 더보기' class='mat-mdc-menu-trigger mat-mdc-tooltip-trigger ms-button-borderless ms-button-icon' />
+		[81] (923,642)<span >more_vert />
+	여기에 API 키가 표시되지 않나요?
+	이 목록에는 Google AI Studio로 가져온 프로젝트의 API 키만 표시됩니다. 연결된 API 키를 관리하려면 다른 프로젝트를 가져오세요. 위에서 새 API 키를 만들 수도 있습니다.
+	[82] (592,898)<a href='https://ai.google.dev/gemini-api/docs/api-key#import-projects'>자세히 알아보기 />
+	[83] (567,987)<button class='ms-button-large ms-button-primary ng-star-inserted'>프로젝트 가져오기 />
+
+</current_dom>

@@ -1,0 +1,80 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+DESKTOP-2T9HMFI
+[0] (708,29)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (686,29)<span  />
+	[2] (708,29)<span >Korean />
+	[3] (733,31)<span  />
+[4] (781,29)<a class='dropdown-toggle' href='#' />
+	[5] (760,29)<span  />
+	[6] (782,29)<span >도움말 />
+	[7] (803,31)<span  />
+[8] (846,29)<a class='dropdown-toggle' href='#' />
+	[9] (830,29)<span  />
+	[10] (848,29)<span >동작 />
+	[11] (864,31)<span  />
+폴더
+[12] (307,190)<button class='btn panel-heading' />
+	[13] (307,190)<h4  />
+		[14] (141,190)<div  />
+			[15] (141,190)<span  />
+		[16] (455,190)<div  />
+			[17] (453,189)<span >최신 상태 />
+		[18] (289,190)<div  />
+			[19] (209,189)<span >desktop_kevincity />
+[20] (313,260)<button class='btn btn-sm btn-default ng-scope' />
+	[21] (283,261)<span  />
+	[22] (318,260)<span >모두 일시 중지 />
+[23] (391,260)<button class='btn btn-sm btn-default ng-scope' />
+	[24] (367,261)<span  />
+	[25] (396,260)<span >모두 재탐색 />
+[26] (460,260)<button class='btn btn-sm btn-default' />
+	[27] (440,261)<span  />
+	[28] (465,260)<span >폴더 추가 />
+현재 기기
+[29] (693,191)<button class='btn panel-heading' />
+	[30] (693,190)<h4  />
+		[31] (526,190)<identicon  />
+		[32] (704,190)<div >DESKTOP-2T9HMFI />
+수신 속도
+[33] (842,236)<a class='toggler ng-binding' href='#'>(366 B) />
+	[34] (824,236)<span >0 B/s />
+송신 속도
+[35] (842,267)<a class='toggler ng-binding' href='#'>(547 B) />
+	[36] (824,267)<span >0 B/s />
+현재 기기 상태(합계)
+0
+0
+~0 B
+대기자
+[37] (864,330)<a class='ng-binding text-success'>3/3 />
+탐지
+[38] (864,361)<a class='ng-binding'>4/5 />
+가동 시간
+39분
+아이디
+[39] (849,424)<a class='ng-binding'>73K7NTN />
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+[40] (693,583)<button class='btn panel-heading' />
+	[41] (693,583)<h4  />
+		[42] (526,583)<identicon  />
+		[43] (832,583)<div  />
+			[44] (822,582)<span >최신 상태 />
+			[45] (859,583)<span  />
+				[46] (859,582)<span  />
+		[47] (665,583)<div >kevincityHQ />
+[48] (665,654)<button class='btn btn-sm btn-default ng-scope' />
+	[49] (635,654)<span  />
+	[50] (670,654)<span >모두 일시 중지 />
+[51] (751,654)<button class='btn btn-sm btn-default' />
+	[52] (721,654)<span  />
+	[53] (758,654)<span >최근 변경 항목 />
+[54] (836,654)<button class='btn btn-sm btn-default' />
+	[55] (807,654)<span  />
+	[56] (841,654)<span >다른 기기 추가 />
+
+</current_dom>

@@ -1,0 +1,39 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (30,55)<button class='btn_prev' />
+[1] (463,244)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[2] (953,244)<button class='btn_search'>검색 />
+	검색
+RTX 4060
+에 대한 검색결과입니다.
+[3] (80,429)<label >전체
+(5175) />
+	(5175)
+[4] (322,429)<label >그래픽카드
+(206) />
+	(206)
+[5] (529,429)<label >노트북
+(4963) />
+	(4963)
+[6] (731,429)<label >베어본
+(6) />
+	(6)
+[7] (78,771)<a >인기상품순 />
+[8] (233,771)<a >신상품순 />
+[9] (388,771)<a >낮은 가격순 />
+[10] (542,771)<a >높은 가격순 />
+[11] (697,771)<a >상품명순 />
+[12] (576,1788)<div class='scroll_box' scrollable='true' />
+	상품에 대한 품목 및 최저가에 대한 리스트입니다.
+	상품
+	품목
+	선택
+	비교
+	[13] (435,869)<a >COLORFUL 지포스 RTX 4060 Ti 토마호크 DUO D6 8GB />
+	[14] (554,907)<a class='spec'>RTX 4060 Ti / PCIe4.0x16(at x8) / 정격파워550W 이상 / 전원 포트:8핀 x1 / 가로(길이):248.9mm / 베이스클럭:2310MHz / 부스트클럭:2535MHz / 스트림 프로세서:4352개 / 최대 AI TOPS:353(sparsity) / GDDR6 / 출력단자:HDMI2.1;DP1.4 / 지원정보:8K 지원;HDCP 2.3 / 사용전력:160W / 전원부:5+1페이즈 / 2팬 / 두께:41.9mm / 제로팬(0-dB기술) / 백플레이트 / LED 라이트 / A/S 3년 />
+	[15] (213,956)<a class='icon_style btn_review'>상품의견 />
+	683,560
+
+</current_dom>

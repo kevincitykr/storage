@@ -1,0 +1,86 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+자동선택
+전체
+[0] (268,138)<dd class='ls_div ' id='ls_div2036' />
+	[1] (209,138)<label >PC용 />
+[2] (268,186)<dd class='ls_div ' id='ls_div2037' />
+	[3] (216,186)<label >노트북용 />
+[4] (268,235)<dd class='ls_div ' id='ls_div2038' />
+	[5] (211,235)<label >서버용 />
+[6] (268,283)<dd class='ls_div ' id='ls_div2474' />
+	[7] (235,283)<label >XMP/EXPO 메모리 />
+[8] (666,225)<a href='https://www.compuzone.co.kr/cscenter/service_guide.htm?bannerid=OnlineBanner' />
+	[9] (666,225)<img  />
+메모리
+[10] (353,497)<input id='Search_free' />
+무료배송
+[11] (418,497)<input id='Search_Event' />
+행사제품보기
+총
+878
+건
+[12] (307,574)<input id='SearchKeyword' />
+[13] (363,576)<a href='javascript:search_keyword();' />
+[14] (433,574)<select  />
+[15] (259,1073)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[16] (65,733)<a class='imgbox' href='javascript:detail_show('1081858')' title='[제품코드:1081858]' />
+	[17] (221,729)<a class='imgbox' href='javascript:detail_show('1081858')'>DDR5 / 16GB / 5600MHz (PC5-44800) / CL46 / 1개 / XMP3.0 / EXPO / 방열판 유 / CP16G56C46U5 />
+		[18] (221,702)<b >[마이크론] 마이크론 Crucial DDR5 PC5-44800 CL46 PRO 대원씨티에스 [16GB] (5600)[1081858] />
+	판매가격
+	303,460
+	[19] (451,733)<a class='buttons' href='javascript:void(0)' />
+		[20] (451,733)<span >재입고알림 />
+	[21] (65,902)<a class='imgbox' href='javascript:detail_show('1197279')' title='[제품코드:1197279]' />
+	[22] (221,897)<a class='imgbox' href='javascript:detail_show('1197279')'>16GB / 6000MHz (PC5-48000) / CL36-36-36-96 / 1.35V / 1개 / XMP3.0 / EXPO / 방열판 무 / F5-6000J3636F16GX1-IS />
+		[23] (221,871)<b >[G.SKILL] DDR5 PC5-48000 CL36 AEGIS 5 [16GB] (6000)[1197279] />
+	판매가격
+	340,000
+	[24] (451,902)<a class='buttons' href='javascript:select_basket('1197279','N',1);' id='basket1197279' />
+		[25] (451,902)<span >담기 />
+총 견적금액
+750,150
+원
+[26] (536,574)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[27] (565,574)<input  />
+[28] (594,574)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[29] (658,574)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[30] (658,575)<span >전체수량변경 />
+[31] (546,685)<label  />
+	[32] (528,684)<span  />
+		[33] (528,685)<input  />
+	[34] (554,684)<span >전체선택 />
+[35] (713,684)<a class='wbtn' href='javascript:add_wish_list();' />
+	[36] (713,685)<span >관심상품추가 />
+[37] (774,684)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[38] (774,685)<span >장바구니담기 />
+[39] (833,684)<a class='wbtn' />
+	[40] (833,685)<span >견적서출력 />
+[41] (891,684)<a class='wbtn' href='javascript:speck_form();' />
+	[42] (891,685)<span >사양검토요청 />
+초기화
+[43] (529,776)<label  />
+	[44] (529,775)<span  />
+		[45] (528,778)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[46] (563,775)<span >인텔 병행수입 />
+[47] (640,828)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[48] (873,807)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[49] (896,807)<input class='change__ea' id='Amount_1108547' />
+[50] (919,807)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[51] (529,923)<label  />
+	[52] (529,923)<span  />
+		[53] (528,925)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[54] (565,923)<span >인텔 소켓 1700 />
+[55] (640,963)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[56] (690,964)<i  />
+판매가격
+174,150
+[57] (873,942)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[58] (896,942)<input class='change__ea' id='Amount_1118926' />
+[59] (919,942)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+
+</current_dom>

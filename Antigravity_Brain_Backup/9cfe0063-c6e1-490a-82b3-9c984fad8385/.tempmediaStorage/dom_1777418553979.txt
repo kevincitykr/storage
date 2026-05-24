@@ -1,0 +1,44 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (567,59)<details  />
+	[1] (567,59)<summary role='button' />
+		[2] (318,59)<span  />
+			[3] (311,59)<span >Assets />
+			[4] (342,59)<span >3 />
+v2.9.1 — Antigravity LM 통합 롤백 (검증 안 된 기능 제거)
+[5] (175,227)<a class='color-fg-muted wb-break-all' href='/wonseokjung'>wonseokjung />
+[6] (151,262)<a class='Link Link--muted' href='/wonseokjung/connect-ai/tree/v2.9.1' />
+	[7] (151,262)<div  />
+		[8] (159,262)<span >v2.9.1 />
+[9] (157,295)<a class='Link Link--muted mb-2 tmp-mb-2' href='/wonseokjung/connect-ai/commit/82b986f95d3d1550c89b92ab105149973cae215c' />
+	[10] (165,297)<code >82b986f />
+[11] (160,332)<button class='Button--secondary Button--small Button' id='select-panel-a993bd9b-800f-4aac-a5f5-29916b1f97f6-button' />
+	[12] (160,332)<span  />
+		[13] (154,332)<span >Compare />
+[14] (535,198)<a class='Link--primary Link' href='/wonseokjung/connect-ai/releases/tag/v2.9.1'>v2.9.1 — Antigravity LM 통합 롤백 (검증 안 된 기능 제거) />
+🔙 v2.9.0 롤백
+v2.9.0의 "⚡ Antigravity 연결됨" 그룹이 실제 Antigravity에서 빈 상태로 확인됐어요.
+vscode.lm
+API로 모델이 노출되지 않습니다.
+동작하지 않는 기능을 그대로 두는 대신 깔끔하게 제거
+모델 셀렉트는 v2.8.4와 동일한 단일 리스트 (로컬만)
+VS Code 엔진 요구사항 1.95 → 1.80 (구버전 호환 복구)
+사용자에게 거짓 약속 X
+그대로 유지된 기능 (v2.8.4의 모든 것)
+지식 공간 메뉴 + 삭제 옵션
+상태 바
+Thinking Mode
+출처 배지
+진짜 지식 그래프 (위키링크/마크다운/태그)
+자율 터미널 (출력 캡처 → AI 자동 피드백)
+모든 v2.8.x 개선
+다음 길
+✅ Antigravity 실제 API 찾기 (조사 필요)
+✅ Gemini/Claude API 직접 통합 (사용자 키 발급)
+✅ 로컬에 집중 + 오케스트라 Phase 2
+🤖 Generated with
+[15] (398,994)<a href='https://claude.com/claude-code'>Claude Code />
+
+</current_dom>

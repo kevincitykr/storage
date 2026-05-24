@@ -1,0 +1,257 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (323,125)<a class='inline shrink-0' href='/search/%EB%9E%91%EB%B0%A9' />
+	[7] (323,125)<span >랑방 />
+		[8] (316,125)<span >6
+. />
+[9] (365,125)<a class='inline shrink-0' href='/search/%ED%94%84%EB%9E%98%EA%B7%B8%EB%A7%88%ED%83%80' />
+	[10] (365,125)<span >프래그마타 />
+		[11] (348,125)<span >7
+. />
+[12] (414,125)<a class='inline shrink-0' href='/search/%EC%8A%A4%ED%83%80%EB%B2%85%EC%8A%A4' />
+	[13] (414,125)<span >스타벅스 />
+		[14] (400,125)<span >8
+. />
+[15] (460,125)<a class='inline shrink-0' href='/search/%EB%A9%94%ED%83%88%EB%B9%8C%EB%93%9C' />
+	[16] (460,125)<span >메탈빌드 />
+		[17] (446,125)<span >9
+. />
+[18] (504,125)<a class='inline shrink-0' href='/search/%EC%8A%A4%ED%8C%80%EB%8D%B1' />
+	[19] (504,125)<span >스팀덱 />
+		[20] (494,125)<span >10
+. />
+[21] (666,69)<a href='/search/4070?minPrice=1400000&maxPrice=1650000&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+추천순
+최신순
+낮은가격순
+높은가격순
+[36] (239,328)<div  />
+	[37] (239,318)<a class='w-full' href='/product/228234218' />
+		[38] (239,318)<div  />
+			[39] (239,242)<div  />
+				[40] (239,242)<div  />
+				[41] (284,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[42] (239,457)<div  />
+				[43] (239,438)<div  />
+					[44] (239,418)<span >급처 i9-9900k RTX 4070 SUPER / 32GB 게이밍 컴퓨터 />
+					[45] (239,468)<div  />
+						[46] (239,468)<div  />
+							[47] (208,468)<span >1,400,000 />
+							[48] (241,470)<span >원 />
+				[49] (239,511)<div  />
+					[50] (239,511)<div  />
+						[51] (188,511)<div  />
+							[52] (188,511)<div  />
+								[53] (193,511)<span >4 />
+						[54] (200,511)<div  />
+						[55] (219,511)<span >5시간 전 />
+[56] (369,328)<div  />
+	[57] (369,318)<a class='w-full' href='/product/228243185' />
+		[58] (369,318)<div  />
+			[59] (369,242)<div  />
+				[60] (369,242)<div  />
+				[61] (415,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[62] (369,457)<div  />
+				[63] (369,438)<div  />
+					[64] (369,418)<span >레노버 리전 프로 5 16irx8 4070 게이밍 노트북 판매 />
+					[65] (369,468)<div  />
+						[66] (369,468)<div  />
+							[67] (339,468)<span >1,550,000 />
+							[68] (371,470)<span >원 />
+				[69] (369,511)<div  />
+					[70] (369,511)<div  />
+						[71] (328,511)<div  />
+							[72] (318,511)<div  />
+								[73] (324,511)<span >2 />
+							[74] (337,511)<div  />
+								[75] (343,511)<span >2 />
+						[76] (350,511)<div  />
+						[77] (369,511)<span >6시간 전 />
+[78] (500,328)<div  />
+	[79] (500,317)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=9513313353&itemId=28351309665&vendorItemId=95303435914&traceid=V0-153-45dabe21513e564f&clickBeacon=7f05be60-4920-11f1-bc16-e29da5a4084b%7E3&requestid=20260506165214387020419263&token=31850C%7CMIXED' />
+		[80] (500,317)<div  />
+			[81] (500,242)<div  />
+				[82] (500,242)<div  />
+			[83] (500,455)<div  />
+				[84] (500,438)<div  />
+					[85] (500,418)<span >RTX3060Ti UltraWOC G6X CF 게임 화이트 그래픽카드, 2023년형 3060Ti G6 8G 2년 1815MHz />
+					[86] (500,468)<div  />
+						[87] (500,468)<div  />
+							[88] (465,468)<span >832,600 />
+							[89] (494,470)<span >원 />
+				[90] (500,510)<div  />
+					[91] (500,510)<span >광고 |
+쿠팡 />
+[92] (631,328)<div  />
+	[93] (631,328)<a class='w-full' href='/product/228226660' />
+		[94] (631,328)<div  />
+			[95] (631,242)<div  />
+				[96] (631,242)<div  />
+				[97] (677,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[98] (631,467)<div  />
+				[99] (631,424)<div  />
+					[100] (631,403)<span >갤럭시북3 울트라 i9 4070 />
+					[101] (631,439)<div  />
+						[102] (631,439)<div  />
+							[103] (600,439)<span >1,650,000 />
+							[104] (633,441)<span >원 />
+				[105] (631,507)<div  />
+					[106] (631,483)<div  />
+						[107] (589,483)<div  />
+							[108] (580,483)<div  />
+								[109] (585,483)<span >5 />
+							[110] (598,483)<div  />
+								[111] (604,483)<span >1 />
+						[112] (610,483)<div  />
+						[113] (625,483)<span >2일 전 />
+					[114] (631,529)<div  />
+						[115] (587,529)<div  />
+							[116] (587,529)<span >무료배송 />
+[117] (761,328)<div  />
+	[118] (761,318)<a class='w-full' href='/product/227575281' />
+		[119] (761,318)<div  />
+			[120] (761,242)<div  />
+				[121] (761,242)<div  />
+				[122] (807,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[123] (761,457)<div  />
+				[124] (761,438)<div  />
+					[125] (761,418)<span >7800x3d, 4070ti or 4070 super, 32기가 램 완본체 사요 />
+					[126] (761,468)<div  />
+						[127] (761,468)<div  />
+							[128] (731,468)<span >1,400,000 />
+							[129] (764,470)<span >원 />
+				[130] (761,511)<div  />
+					[131] (761,511)<div  />
+						[132] (720,511)<div  />
+							[133] (711,511)<div  />
+								[134] (716,511)<span >2 />
+							[135] (729,511)<div  />
+								[136] (735,511)<span >1 />
+						[137] (741,511)<div  />
+						[138] (759,511)<span >20일 전 />
+[139] (239,804)<div  />
+	[140] (239,780)<a class='w-full' href='/product/227230424' />
+		[141] (239,780)<div  />
+			[142] (239,703)<div  />
+				[143] (239,703)<div  />
+				[144] (284,805)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[145] (239,918)<div  />
+				[146] (239,900)<div  />
+					[147] (239,879)<span >고사양 게이밍 노트북 HP 2023 오멘 16 코어i-9 인텔 13세대 지포스 RTX 4070 />
+					[148] (239,930)<div  />
+						[149] (239,930)<div  />
+							[150] (208,930)<span >1,500,000 />
+							[151] (241,931)<span >원 />
+				[152] (239,973)<div  />
+					[153] (239,973)<div  />
+						[154] (197,973)<div  />
+							[155] (188,973)<div  />
+								[156] (193,973)<span >2 />
+							[157] (207,973)<div  />
+								[158] (213,973)<span >2 />
+						[159] (219,973)<div  />
+						[160] (237,973)<span >28일 전 />
+[161] (369,804)<div  />
+	[162] (369,804)<a class='w-full' href='/product/226595875' />
+		[163] (369,804)<div  />
+			[164] (369,703)<div  />
+				[165] (369,703)<div  />
+				[166] (415,805)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[167] (369,943)<div  />
+				[168] (369,900)<div  />
+					[169] (369,879)<span >RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) />
+					[170] (369,930)<div  />
+						[171] (369,930)<div  />
+							[172] (339,930)<span >1,600,000 />
+							[173] (372,931)<span >원 />
+				[174] (369,997)<div  />
+					[175] (369,973)<div  />
+						[176] (328,973)<div  />
+							[177] (319,973)<div  />
+								[178] (324,973)<span >9 />
+							[179] (337,973)<div  />
+								[180] (343,973)<span >7 />
+[181] (500,804)<div  />
+	[182] (500,791)<a class='w-full' href='/product/226577434' />
+		[183] (500,791)<div  />
+			[184] (500,703)<div  />
+				[185] (500,703)<div  />
+				[186] (546,805)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[187] (500,930)<div  />
+				[188] (500,900)<div  />
+					[189] (500,879)<span >[S급/풀박스]ASUS TUF F17 (RTX 4070 /i7-13620H/32GB RAM/1TB/WIN11pro) />
+					[190] (500,930)<div  />
+						[191] (500,930)<div  />
+							[192] (470,930)<span >1,450,000 />
+							[193] (502,931)<span >원 />
+				셀프검수
+[194] (631,804)<div  />
+	[195] (631,804)<a class='w-full' href='/product/225504626' />
+		[196] (631,804)<div  />
+			[197] (631,703)<div  />
+				[198] (631,703)<div  />
+				[199] (677,805)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[200] (631,943)<div  />
+				[201] (631,900)<div  />
+					[202] (631,879)<span >레이저 블레이드 18 4070 구해요 />
+					[203] (631,930)<div  />
+						[204] (631,930)<div  />
+							[205] (600,930)<span >1,500,000 />
+							[206] (633,931)<span >원 />
+				[207] (631,997)<div  />
+					[208] (631,973)<div  />
+						[209] (580,973)<div  />
+							[210] (580,973)<div  />
+								[211] (586,973)<span >2 />
+[212] (761,804)<div  />
+	[213] (761,778)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=9470678138&itemId=28188543089&vendorItemId=95142987884&traceid=V0-153-77cbbfae93a4eddb&requestid=20260506165214387020419263&token=31850C%7CMIXED' />
+		[214] (761,778)<div  />
+			[215] (761,703)<div  />
+				[216] (761,703)<div  />
+			[217] (761,917)<div  />
+				[218] (761,900)<div  />
+					[219] (761,879)<span >4070TI 엔비디아 그래픽카드 레노버제품 중고 />
+					[220] (761,930)<div  />
+						[221] (761,930)<div  />
+							[222] (726,930)<span >870,000 />
+							[223] (755,931)<span >원 />
+				[224] (761,972)<div  />
+					[225] (761,972)<span >광고 |
+쿠팡 />
+[226] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[227] (854,907)<div  />
+		[228] (903,907)<div  />
+[229] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[230] (902,799)<span  />
+
+</current_dom>

@@ -1,0 +1,93 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+$300 크레딧으로 무료 체험판을 시작해 보세요. 크레딧을 모두 사용해도 요금이 청구되지 않으니 걱정하지 마세요.
+자세히 알아보기
+닫기
+무료로 시작하기
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+프로젝트 선택
+검색
+1
+API 및 서비스
+사용 설정된 API 및 서비스
+라이브러리
+사용자 인증 정보
+OAuth 동의 화면
+페이지 사용 동의
+[0] (567,556)<div class='pcc-scrollable-panel' scrollable='true' />
+	추가 액세스 권한 필요
+	프로젝트에 대한 추가 액세스 권한 필요:
+	305318265369
+	리소스에 액세스할 권한이 없거나 거부 또는 주 구성원 액세스 경계 정책이 리소스에 대한 액세스를 차단하기 때문일 수 있습니다.
+	자세히 알아보기
+	누락되거나 차단된 권한
+	문제 해결 도구 URL 복사
+	resourcemanager.projects.get(누락됨)
+	액세스 요청
+	적용할 수 있는 역할
+	다음 역할에는 이 리소스에 액세스하는 데 필요한 누락된 권한이 모두 포함되어 있습니다. 순서는 역할, 서비스 관련성, 권한 수에 따라 허용되는 작업 유형을 기준으로 합니다.
+	프로젝트 이동자
+	역할 이름
+	roles/resourcemanager.projectMover
+	제목
+	프로젝트 이동자
+	설명
+	프로젝트를 업데이트하고 이동할 수 있는 액세스 권한입니다.
+	권한
+	포함된 권한 보기
+	대상 리소스
+	305318265369
+	역할 뷰어
+	IAM 뷰어
+	태그 사용자
+	채팅 뷰어
+	문제 해결 세부정보 보기
+김광섭
+현재 Google Cloud에 로그인한 사용자 이름은 sohwe124@gmail.com입니다.
+sohwe124@gmail.com
+[1] (931,203)<a aria-label='내 Google 계정으로 이동, 새 탭에서 열기' class='mdc-button mat-mdc-button-base gmat-mdc-button cfc-profilebutton mdc-button--unelevated mat-mdc-unelevated-button mat-primary cm-button ng-star-inserted' href='https://accounts.google.com/ManageAccount' />
+	[2] (931,203)<span  />
+		[3] (931,203)<b >계정 관리 />
+[4] (917,300)<a aria-label='새 창에서 kevincitykr002@gmail.com 계정으로 Google Cloud에 로그인' class='mat-focus-indicator ng-star-inserted' href='https://console.cloud.google.com/apis/api/youtube.googleapis.com/overview?project=&authuser=1&folder=&organizationId=' />
+	[5] (862,300)<img  />
+	[6] (926,303)<div  />
+		[7] (926,291)<div >김광섭 />
+		[8] (926,314)<span >kevincitykr002@gmail.com />
+[9] (917,380)<a aria-label='새 창에서 kevincitykr001@gmail.com 계정으로 Google Cloud에 로그인' class='mat-focus-indicator ng-star-inserted' href='https://console.cloud.google.com/apis/api/youtube.googleapis.com/overview?project=&authuser=2&folder=&organizationId=' />
+	[10] (862,380)<img  />
+	[11] (925,382)<div  />
+		[12] (925,371)<div >김광섭 />
+		[13] (925,394)<span >kevincitykr001@gmail.com />
+[14] (917,459)<a aria-label='새 창에서 jaehoon34769@gmail.com 계정으로 Google Cloud에 로그인' class='mat-focus-indicator ng-star-inserted' href='https://console.cloud.google.com/apis/api/youtube.googleapis.com/overview?project=&authuser=3&folder=&organizationId=' />
+	[15] (862,459)<img  />
+	[16] (924,461)<div  />
+		[17] (924,450)<div >김재훈 />
+		[18] (924,473)<span >jaehoon34769@gmail.com />
+[19] (917,527)<a class='mat-mdc-menu-item mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='//cloud.google.com/terms/cloud-privacy-notice?hl=ko' role='menuitem' />
+	[20] (917,527)<span  />
+		[21] (917,527)<div  />
+			[22] (917,527)<div  />
+				[23] (917,527)<div  />
+					[24] (852,528)<cfc-icon  />
+						[25] (852,527)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+					[26] (924,527)<div >Google Cloud 개인 정보 보호 />
+						[27] (957,526)<cm-icon aria-label='외부' class='cm-icon--legacy-margins cm-icon-external-link ng-star-inserted' role='img' />
+[28] (917,564)<a class='mat-mdc-menu-item mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/terms' role='menuitem' />
+	[29] (917,564)<span  />
+		[30] (917,564)<div  />
+			[31] (917,564)<div  />
+				[32] (917,564)<div  />
+					[33] (852,564)<cfc-icon  />
+						[34] (852,564)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+					[35] (924,564)<div >Google Cloud 서비스 약관 />
+[36] (871,623)<a aria-label='계정 추가' class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed cm-button ng-star-inserted' href='/AddSession' />
+	[37] (871,623)<span >계정 추가 />
+[38] (965,623)<a aria-label='sohwe124@gmail.com 로그아웃' class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed cm-button ng-star-inserted' href='https://accounts.google.com/Logout?service=cloudconsole&continue=https://console.cloud.google.com/apis/api/youtube.googleapis.com/overview?project%3D305318265369&hl=ko' role='button' />
+	[39] (965,623)<span >로그아웃 />
+
+</current_dom>

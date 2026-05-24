@@ -1,0 +1,150 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (20,40)<button id='back-button' />
+	[1] (20,37)<span >arrow_back />
+[2] (79,40)<input class='sans-flex round w-500' id='tab-title' />
+Draft
+[3] (482,40)<button class=' sans-flex round w-500 md-body-small selected ' id='canvas'>Editor />
+[4] (522,40)<button class=' sans-flex round w-500 md-body-small ' id='app'>App />
+Saved
+cloud_upload
+Publish
+[5] (873,40)<button class=' sans-flex round w-500 owner sharing-v2 ' id='share-button'>Share />
+	[6] (856,40)<span >share />
+[7] (923,40)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (923,40)<span >more_vert />
+[9] (898,103)<button class=' icon round w-500 sans-flex ' />
+	[10] (822,103)<span >edit />
+	[11] (909,103)<span  />
+		[12] (909,103)<span >Edit title and description... />
+[13] (898,172)<button class=' icon round w-500 sans-flex ' />
+	[14] (822,172)<span >delete />
+	[15] (909,172)<span  />
+		[16] (909,172)<span >Delete />
+[17] (898,241)<button class=' icon round w-500 sans-flex ' />
+	[18] (822,241)<span >file_copy />
+	[19] (909,241)<span  />
+		[20] (909,241)<span >Duplicate App />
+[21] (898,310)<button class=' icon round w-500 sans-flex ' />
+	[22] (822,310)<span >history />
+	[23] (909,310)<span  />
+		[24] (909,310)<span >Show version history />
+[25] (898,379)<button class=' icon round w-500 sans-flex ' />
+	[26] (822,379)<span >content_copy />
+	[27] (909,379)<span  />
+		[28] (909,379)<span >Copy JSON />
+[29] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[30] (949,40)<span >settings />
+[31] (978,40)<button id='toggle-user-menu' />
+	[32] (978,40)<span >person />
+[33] (700,540)<div  />
+[34] (374,577)<section  />
+	[35] (374,577)<div  />
+	[36] (374,522)<header  />
+		[37] (315,522)<span >button_magic />
+		[38] (371,522)<span >Generate Seoul Night View Image />
+		[39] (429,522)<bb-node-run-control  />
+		[40] (447,521)<button id='connection-trigger' />
+	[41] (374,602)<div  />
+		[42] (374,600)<div  />
+			[43] (374,600)<div  />
+				[44] (374,600)<p >Generate a visual representation of a Seoul night view based on the user's detailed textual description. />
+[45] (544,564)<section  />
+	[46] (544,564)<div  />
+	[47] (544,522)<header  />
+		[48] (484,522)<span >web />
+		[49] (541,522)<span >Generate Seoul Night View Webpage />
+		[50] (599,522)<bb-node-run-control  />
+		[51] (616,521)<button id='connection-trigger' />
+	[52] (544,590)<div  />
+		[53] (544,587)<div  />
+			[54] (544,587)<div  />
+				[55] (544,587)<p >Create an HTML webpage to display the generated Seoul night view image. />
+[56] (156,497)<section  />
+	[57] (156,497)<div  />
+	[58] (156,468)<header  />
+		[59] (96,468)<span >chat_mirror />
+		[60] (153,468)<span >Instruction />
+		[61] (211,468)<bb-node-run-control  />
+			[62] (211,468)<button class='node-controls' />
+				[63] (211,468)<span  />
+		[64] (228,467)<button id='connection-trigger' />
+	[65] (156,523)<div  />
+		[66] (156,521)<div  />
+			[67] (152,521)<div  />
+				[68] (152,521)<p >Describe your desired Seoul night view />
+[69] (355,493)<section  />
+	[70] (355,493)<div  />
+	[71] (355,468)<header  />
+		[72] (295,468)<span >responsive_layout />
+		[73] (352,468)<span >Output />
+		[74] (410,468)<bb-node-run-control  />
+		[75] (427,467)<button id='connection-trigger' />
+	[76] (355,519)<div  />
+		[77] (355,517)<div  />
+			[78] (320,517)<div  />
+				[79] (320,517)<div  />
+					[80] (320,517)<p >Select to edit in editor />
+[81] (355,493)<section  />
+	[82] (355,493)<div  />
+	[83] (355,468)<header  />
+		[84] (295,468)<span >responsive_layout />
+		[85] (352,468)<span >Output 1 />
+		[86] (410,468)<bb-node-run-control  />
+		[87] (427,467)<button id='connection-trigger' />
+	[88] (355,519)<div  />
+		[89] (355,517)<div  />
+			[90] (320,517)<div  />
+				[91] (320,517)<div  />
+					[92] (320,517)<p >Select to edit in editor />
+[93] (242,138)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[94] (220,138)<span >chat_mirror />
+[95] (316,138)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[96] (294,138)<span >spark />
+[97] (381,138)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[98] (364,138)<span >responsive_layout />
+[99] (455,138)<button class=' selected icon round w-500 sans-flex ' />
+	[100] (428,138)<span >add_box />
+	[101] (463,138)<span >Add Assets />
+[102] (520,158)<button >Pick File />
+[103] (544,199)<button >Create New Document />
+[104] (350,902)<bb-expanding-textarea >send />
+	[105] (350,902)<div  />
+		[106] (325,902)<div  />
+			[107] (325,902)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[108] (498,902)<button aria-label='Submit' id='submit' />
+	[109] (472,902)<bb-speech-to-text  />
+		[110] (472,902)<button  />
+			[111] (472,902)<span >mic />
+	send
+[112] (673,724)<button id='zoom-to-fit' />
+	[113] (673,724)<span >fit_screen />
+[114] (673,784)<button id='zoom-in' />
+	[115] (673,784)<span >add />
+[116] (673,831)<button id='zoom-out' />
+	[117] (673,831)<span >remove />
+[118] (673,877)<button id='undo' />
+	[119] (673,877)<span >undo />
+redo
+Opal can make mistakes, so double-check it
+[120] (773,121)<button class='sans-flex w-500 round'>Preview />
+[121] (830,121)<button class=' sans-flex w-500 round '>Console />
+Step
+[122] (929,121)<button class=' sans-flex w-500 round '>Theme />
+responsive_layout
+[123] (857,196)<input class='sans-flex round w-500 md-title-medium' id='node-title' />
+[124] (765,275)<button class=' selected icon round w-500 sans-flex ' />
+	[125] (730,275)<span >responsive_layout />
+	[126] (769,275)<span >Manual layout />
+	[127] (800,275)<span >arrow_drop_down />
+[128] (973,275)<button id='tools' />
+	[129] (973,275)<span >home_repair_service />
+[130] (973,355)<button id='edit-button' />
+	[131] (973,355)<span >pen_spark />
+[132] (850,700)<span class='placeholder' id='editor' />
+[133] (712,928)<button id='close' />
+	[134] (712,928)<span  />
+
+</current_dom>

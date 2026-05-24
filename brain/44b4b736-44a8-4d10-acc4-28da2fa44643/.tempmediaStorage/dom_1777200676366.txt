@@ -1,0 +1,129 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (20,40)<button id='back-button' />
+	[1] (20,37)<span >arrow_back />
+[2] (67,40)<input class='sans-flex round w-500' id='tab-title' />
+Draft
+[3] (482,40)<button class=' sans-flex round w-500 md-body-small selected ' id='canvas'>Editor />
+[4] (522,40)<button class=' sans-flex round w-500 md-body-small ' id='app'>App />
+Saved
+cloud_upload
+Publish
+[5] (873,40)<button class=' sans-flex round w-500 owner sharing-v2 ' id='share-button'>Share />
+	[6] (856,40)<span >share />
+[7] (923,40)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (923,40)<span >more_vert />
+[9] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[10] (949,40)<span >settings />
+[11] (898,103)<button class=' icon round w-500 sans-flex ' />
+	[12] (822,103)<span >flag />
+	[13] (909,103)<span  />
+		[14] (909,103)<span >Send feedback />
+[15] (898,172)<button class=' icon round w-500 sans-flex ' />
+	[16] (822,172)<span >quick_reference_all />
+	[17] (909,172)<span  />
+		[18] (909,172)<span >Read Documentation />
+[19] (898,241)<button class=' icon round w-500 sans-flex ' />
+	[20] (822,241)<span  />
+	[21] (909,241)<span  />
+		[22] (909,241)<span >Discord />
+[23] (898,310)<button class=' icon round w-500 sans-flex ' />
+	[24] (822,310)<span >settings_2 />
+	[25] (909,310)<span  />
+		[26] (909,310)<span >Global Settings />
+[27] (898,379)<button class=' icon round w-500 sans-flex ' />
+	[28] (822,379)<span >videocam />
+	[29] (909,379)<span  />
+		[30] (909,379)<span >Watch Demo Video />
+[31] (978,40)<button id='toggle-user-menu' />
+	[32] (978,40)<span >person />
+[33] (700,540)<div  />
+[34] (239,383)<section  />
+	[35] (239,383)<div  />
+	[36] (239,350)<header  />
+		[37] (159,350)<span >chat_mirror />
+		[38] (235,350)<span >User Input />
+		[39] (313,350)<bb-node-run-control  />
+			[40] (313,350)<button class='node-controls' />
+				[41] (313,350)<span  />
+		[42] (336,349)<button id='connection-trigger' />
+	[43] (239,418)<div  />
+		[44] (239,415)<div  />
+			[45] (192,415)<div  />
+				[46] (192,415)<div  />
+					[47] (192,415)<p >Select to edit in editor />
+[48] (461,389)<section  />
+	[49] (461,389)<div  />
+	[50] (461,350)<header  />
+		[51] (380,350)<span >button_magic />
+		[52] (457,350)<span >Generate Image />
+		[53] (534,350)<bb-node-run-control  />
+		[54] (558,349)<button id='connection-trigger' />
+	[55] (461,424)<div  />
+		[56] (461,421)<div  />
+			[57] (452,421)<div  />
+				[58] (452,421)<p >User Input 을 기반으로 16:9 이미지 생성 />
+[59] (461,648)<section  />
+	[60] (461,648)<div  />
+	[61] (461,609)<header  />
+		[62] (380,609)<span >responsive_layout />
+		[63] (457,609)<span >Output />
+		[64] (534,609)<bb-node-run-control  />
+		[65] (558,608)<button id='connection-trigger' />
+	[66] (461,683)<div  />
+		[67] (461,680)<div  />
+			[68] (426,680)<div  />
+				[69] (426,680)<p >Generate Image 다운로드 />
+[70] (242,138)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[71] (220,138)<span >chat_mirror />
+[72] (316,138)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[73] (294,138)<span >spark />
+[74] (381,138)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[75] (364,138)<span >responsive_layout />
+[76] (455,138)<button class=' selected icon round w-500 sans-flex ' />
+	[77] (428,138)<span >add_box />
+	[78] (463,138)<span >Add Assets />
+[79] (520,158)<button >Pick File />
+[80] (544,199)<button >Create New Document />
+[81] (350,902)<bb-expanding-textarea >send />
+	[82] (350,902)<div  />
+		[83] (325,902)<div  />
+			[84] (325,902)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[85] (498,902)<button aria-label='Submit' id='submit' />
+	[86] (472,902)<bb-speech-to-text  />
+		[87] (472,902)<button  />
+			[88] (472,902)<span >mic />
+	send
+[89] (673,724)<button id='zoom-to-fit' />
+	[90] (673,724)<span >fit_screen />
+[91] (673,784)<button id='zoom-in' />
+	[92] (673,784)<span >add />
+[93] (673,831)<button id='zoom-out' />
+	[94] (673,831)<span >remove />
+undo
+redo
+Opal can make mistakes, so double-check it
+[95] (773,121)<button class='sans-flex w-500 round'>Preview />
+[96] (830,121)<button class=' sans-flex w-500 round '>Console />
+Step
+[97] (929,121)<button class=' sans-flex w-500 round '>Theme />
+spark
+[98] (857,196)<input class='sans-flex round w-500 md-title-medium' id='node-title' />
+[99] (751,275)<button class=' selected icon round w-500 sans-flex ' />
+	[100] (730,275)<span >button_magic />
+	[101] (755,275)<span >Agent />
+	[102] (772,275)<span >arrow_drop_down />
+[103] (973,275)<button id='tools' />
+	[104] (973,275)<span >home_repair_service />
+[105] (973,355)<button id='edit-button' />
+	[106] (973,355)<span >pen_spark />
+[107] (850,700)<span id='editor'>을 기반으로 16:9 이미지 생성 />
+	[108] (751,418)<label class='chiclet quickaccess core input in' />
+		[109] (726,418)<span  />
+		[110] (757,418)<span  />
+[111] (712,928)<button id='close' />
+	[112] (712,928)<span  />
+
+</current_dom>

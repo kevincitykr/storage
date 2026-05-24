@@ -1,0 +1,21 @@
+# Task: Economy Dashboard Automation
+
+## Plan
+- [x] Navigate to http://127.0.0.1:5000/economy
+- [x] Verify dashboard loaded
+- [ ] Select 'Economy' if applicable
+- [ ] Input '경제이야기' (Economic Story)
+- [ ] Click 'Run' or 'Start'
+- [ ] Verify generation started
+
+## Progress
+- Initialized plan.
+- Navigated to http://127.0.0.1:5000/economy.
+- Dashboard loaded with cards: MR, CS, LR.
+- Verified /psychology exists and has "RUN AUTO BOT" buttons.
+- /economy has "GENERATE SCRIPT" buttons.
+- Terminal area found on the right with a thin horizontal line that might be an input.
+- Tried Tab navigation; it only cycles through sidebar icons and card buttons.
+- Scrolled through cards; only MR, CS, LR found.
+- Attempted to type 'Economic Story' in the terminal area; no response in log.
+- Need to find where to input '경제이야기'.

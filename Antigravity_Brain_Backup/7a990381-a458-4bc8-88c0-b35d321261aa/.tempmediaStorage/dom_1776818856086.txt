@@ -1,0 +1,173 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (129,50)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (225,52)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (431,49)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='…을 사고 싶습니다.' role='searchbox' />
+[3] (595,52)<div  />
+	[4] (595,48)<img  />
+[5] (646,49)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (733,49)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (724,49)<span  />
+	[8] (749,49)<span  />
+[9] (797,49)<div  />
+	[10] (797,49)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[11] (787,49)<span  />
+		[12] (809,49)<span  />
+[13] (860,49)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[14] (851,49)<span  />
+	[15] (877,49)<span  />
+[16] (915,49)<div  />
+	[17] (919,49)<a aria-label='0 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[18] (919,49)<span  />
+		[19] (931,37)<span >0 />
+[20] (429,568)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005009084986255.html?algo_pvid=6bf861c4-5583-474f-a7b2-cf9679104ead&algo_exp_id=6bf861c4-5583-474f-a7b2-cf9679104ead-0&pdp_ext_f=%7B%22order%22%3A%2227269%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%2140987%2133408%21%21%2127.04%2122.04%21%40212a6e2917768188522258094e381f%2112000048853600958%21sea%21KR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6264bbd6%3Bm03_new_user%3A-29895%3BpisId%3A5000000203687443&curPageLogUid=37MJga7mYWxt&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009084986255%7C_p_origin_prod%3A' />
+	[21] (429,486)<div  />
+		[22] (429,486)<div  />
+			[23] (429,474)<div  />
+				[24] (429,474)<div  />
+			[25] (429,629)<div  />
+				[26] (394,629)<div  />
+				[27] (408,629)<div  />
+				[28] (422,629)<div  />
+				[29] (437,629)<div  />
+				[30] (451,629)<div  />
+				[31] (465,629)<div  />
+		[32] (495,552)<div  />
+			[33] (495,552)<div  />
+				[34] (495,552)<span  />
+	[35] (429,723)<div  />
+		[36] (429,654)<div aria-label='QCY Crossky C50 오픈 이어 무선 이어버드 블루투스 6.0 컴포트 클립온 이어폰 4 마이크 AI 클리어 콜 베이스 부스트 헤드폰 35시간 재생 시간 스포츠 러닝용' class='lw_an' role='heading' title='QCY Crossky C50 오픈 이어 무선 이어버드 블루투스 6.0 컴포트 클립온 이어폰 4 마이크 AI 클리어 콜 베이스 부스트 헤드폰 35시간 재생 시간 스포츠 러닝용'>QCY Crossky C50 오픈 이어 무선 이어버드 블루투스 6.0 컴포트 클립온 이어폰 4 마이크 AI 클리어 콜 베이스 부스트 헤드폰 35시간 재생 시간 스포츠 러닝용 />
+			[37] (345,654)<img  />
+			[38] (381,654)<img  />
+			QCY Crossky C50 오픈 이어 무선 이어버드 블루투스 6.0 컴포트 클립온 이어폰 4 마이크 AI 클리어 콜 베이스 부스트 헤드폰 35시간 재생 시간 스포츠 러닝용
+		[39] (429,692)<div aria-label='₩33,408' class='lw_el' />
+			[40] (356,692)<span >-18% />
+			[41] (424,692)<div  />
+				[42] (391,692)<span >₩ />
+				[43] (410,692)<span >33 />
+				[44] (424,692)<span >, />
+				[45] (445,692)<span >408 />
+			[46] (494,692)<div  />
+				[47] (494,692)<span >₩40,987 />
+		[48] (429,729)<div  />
+			[49] (374,731)<div  />
+				[50] (337,731)<img  />
+				[51] (350,731)<img  />
+				[52] (362,731)<img  />
+				[53] (374,731)<img  />
+				[54] (387,731)<img  />
+				[55] (405,731)<span >4.9 />
+			[56] (462,731)<span  />
+				[57] (421,732)<span  />
+				[58] (467,733)<span >10,000+ 판매 />
+		[59] (429,772)<div  />
+			[60] (429,757)<div  />
+				[61] (339,757)<img  />
+				[62] (438,757)<span >₩30,000 구매 시 ₩3,000 할인 />
+			[63] (429,787)<div  />
+				[64] (337,787)<img  />
+				[65] (412,787)<span >신규 회원 ₩7,579 할인 />
+		[66] (429,804)<div  />
+[67] (650,568)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005009926833649.html?algo_pvid=6bf861c4-5583-474f-a7b2-cf9679104ead&algo_exp_id=6bf861c4-5583-474f-a7b2-cf9679104ead-1&pdp_ext_f=%7B%22order%22%3A%228998%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%2134881%2123777%21%21%21156.84%21106.91%21%40212a6e2917768188522258094e381f%2112000050602181512%21sea%21KR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6264bbd6%3Bm03_new_user%3A-29895%3BpisId%3A5000000203687443&curPageLogUid=soYLemtSxNnm&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009926833649%7C_p_origin_prod%3A' />
+	[68] (650,486)<div  />
+		[69] (650,486)<div  />
+			[70] (650,474)<div  />
+				[71] (650,474)<div  />
+			[72] (650,629)<div  />
+				[73] (614,629)<div  />
+				[74] (629,629)<div  />
+				[75] (643,629)<div  />
+				[76] (657,629)<div  />
+				[77] (672,629)<div  />
+				[78] (686,629)<div  />
+		[79] (716,552)<div  />
+			[80] (716,552)<div  />
+				[81] (716,552)<span  />
+	[82] (650,723)<div  />
+		[83] (650,656)<div aria-label='베이스어스 BC1 이어 클립 이어버드 오픈 이어 무선 이어폰 블루투스 6.0 클립 온 스포츠 헤드폰 4-마이크 슈퍼 베이스 IP55 이어버드' class='lw_an' role='heading' title='베이스어스 BC1 이어 클립 이어버드 오픈 이어 무선 이어폰 블루투스 6.0 클립 온 스포츠 헤드폰 4-마이크 슈퍼 베이스 IP55 이어버드'>베이스어스 BC1 이어 클립 이어버드 오픈 이어 무선 이어폰 블루투스 6.0 클립 온 스포츠 헤드폰 4-마이크 슈퍼 베이스 IP55 이어버드 />
+			[84] (572,656)<img  />
+			베이스어스 BC1 이어 클립 이어버드 오픈 이어 무선 이어폰 블루투스 6.0 클립 온 스포츠 헤드폰 4-마이크 슈퍼 베이스 IP55 이어버드
+		[85] (650,695)<div aria-label='₩23,777' class='lw_el' />
+			[86] (577,695)<span >-31% />
+			[87] (645,695)<div  />
+				[88] (612,695)<span >₩ />
+				[89] (631,695)<span >23 />
+				[90] (645,695)<span >, />
+				[91] (666,695)<span >777 />
+			[92] (715,695)<div  />
+				[93] (715,695)<span >₩34,881 />
+		[94] (650,732)<div  />
+			[95] (595,734)<div  />
+				[96] (558,734)<img  />
+				[97] (571,734)<img  />
+				[98] (583,734)<img  />
+				[99] (595,734)<img  />
+				[100] (607,734)<img  />
+				[101] (625,734)<span >4.8 />
+			[102] (679,734)<span  />
+				[103] (642,735)<span  />
+				[104] (684,736)<span >5,000+ 판매 />
+		[105] (650,776)<div  />
+			[106] (650,760)<div  />
+				[107] (560,760)<img  />
+				[108] (659,760)<span >₩30,000 구매 시 ₩3,000 할인 />
+			[109] (650,791)<div  />
+				[110] (558,791)<img  />
+				[111] (637,791)<span >신규 회원 ₩11,104 할인 />
+[112] (871,568)<a class='lw_b h7_ic search-card-item' href='https://www.aliexpress.com/ssr/300000512/kr2024update?productIds=1005011668792580:12000056198766325&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005011668792580%7C_p_origin_prod%3A&pvid=6bf861c4-5583-474f-a7b2-cf9679104ead' />
+	[113] (871,486)<div  />
+		[114] (871,486)<div  />
+			[115] (871,474)<div  />
+				[116] (871,474)<div  />
+			[117] (871,629)<div  />
+				[118] (835,629)<div  />
+				[119] (850,629)<div  />
+				[120] (864,629)<div  />
+				[121] (878,629)<div  />
+				[122] (893,629)<div  />
+				[123] (907,629)<div  />
+	[124] (871,723)<div  />
+		[125] (871,656)<div aria-label='TWS 블루투스 헤드셋 5.3 무선 공기전도 헤드폰 클립형 이어폰 음악 노이즈 캔슬링 HD 통화 스포츠 게임용 이어폰' class='lw_an' role='heading' title='TWS 블루투스 헤드셋 5.3 무선 공기전도 헤드폰 클립형 이어폰 음악 노이즈 캔슬링 HD 통화 스포츠 게임용 이어폰'>TWS 블루투스 헤드셋 5.3 무선 공기전도 헤드폰 클립형 이어폰 음악 노이즈 캔슬링 HD 통화 스포츠 게임용 이어폰 />
+			[126] (793,656)<img  />
+			TWS 블루투스 헤드셋 5.3 무선 공기전도 헤드폰 클립형 이어폰 음악 노이즈 캔슬링 HD 통화 스포츠 게임용 이어폰
+		[127] (871,695)<div aria-label='₩3,500' class='lw_el' />
+			[128] (798,695)<span >-45% />
+			[129] (860,695)<div  />
+				[130] (833,695)<span >₩ />
+				[131] (845,695)<span >3 />
+				[132] (854,695)<span >, />
+				[133] (875,695)<span >500 />
+			[134] (919,695)<div  />
+				[135] (919,695)<span >₩6,456 />
+		[136] (871,732)<div  />
+			[137] (816,734)<div  />
+				[138] (779,734)<img  />
+				[139] (791,734)<img  />
+				[140] (804,734)<img  />
+				[141] (816,734)<img  />
+				[142] (828,734)<img  />
+				[143] (846,734)<span >3.8 />
+			[144] (900,734)<span  />
+				[145] (863,735)<span  />
+				[146] (905,736)<span >2,000+ 판매 />
+		[147] (871,764)<div  />
+			[148] (799,764)<span >알뜰마트 />
+			[149] (834,764)<span  />
+		[150] (871,791)<div  />
+[151] (429,995)<div  />
+	[152] (429,995)<div  />
+		[153] (429,984)<div  />
+			[154] (429,984)<div  />
+[155] (507,867)<div >광고 />
+[156] (650,995)<div  />
+	[157] (650,995)<div  />
+		[158] (650,984)<div  />
+			[159] (650,984)<div  />
+[160] (871,995)<div  />
+	[161] (871,995)<div  />
+		[162] (871,984)<div  />
+			[163] (871,984)<div  />
+
+</current_dom>

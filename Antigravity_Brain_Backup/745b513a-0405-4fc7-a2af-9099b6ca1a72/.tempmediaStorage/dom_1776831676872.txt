@@ -1,0 +1,96 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (807,29)<a href='https://www.notion.so/ownerclan/3PL-312d971668d280cb870ee2ebfec666ac' />
+	[1] (807,29)<div >의 재고도 보관할 수 있는
+📦 />
+		[2] (648,29)<span >단 1개 />
+		[3] (907,29)<span >오너클랜 3PL />
+[4] (194,337)<a href='https://ownerclan.notion.site/292d971668d28097af21cc06ee7f52b8' />
+	[5] (194,496)<img  />
+[6] (194,683)<a href='https://pf.kakao.com/_pUyxixb/friend' />
+	[7] (194,690)<div  />
+		[8] (194,690)<img  />
+[9] (194,729)<div  />
+	[10] (194,729)<img  />
+[11] (294,115)<a href='/vender/'>공급사 로그인 />
+[12] (194,199)<div  />
+	[13] (194,199)<img  />
+[14] (341,185)<a href='/' />
+	[15] (358,212)<img  />
+[16] (973,212)<div >통합검색 />
+[17] (185,287)<a class='menu_item' href='/V2/info_page/subscription_page.php' />
+	[18] (185,287)<img  />
+[19] (334,287)<a class='menu_item' href='/V2/info_page/eduservice_page.php' />
+	[20] (334,287)<img  />
+[21] (502,287)<a class='menu_item' href='/V2/info_page/dafalza2.php' />
+	[22] (502,287)<img  />
+[23] (676,287)<a class='menu_item' href='/V2/info_page/aisellerbot.php' />
+	[24] (676,287)<img  />
+[25] (835,287)<a class='menu_item' href='/V2/info_page/virtual_office.php' />
+	[26] (835,287)<img  />
+[27] (959,287)<a class='menu_item' href='/V2/info_page/shared_office.php' />
+	[28] (959,287)<img  />
+[29] (807,332)<a href='https://ownerclan.notion.site/292d971668d28097af21cc06ee7f52b8' id='category_main_ad_link' />
+	[30] (807,446)<img  />
+카테고리
+[31] (527,623)<li  />
+	[32] (474,623)<span >▷ 패션의류 />
+[33] (707,612)<li  />
+[34] (887,612)<li  />
+[35] (527,670)<li >여성의류 />
+	[36] (520,671)<font >(361,176) />
+[37] (707,670)<li >남성의류 />
+	[38] (701,671)<font >(323,105) />
+[39] (887,670)<li >여성언더웨어/잠옷 />
+	[40] (940,671)<font >(119,041) />
+남성언더웨어/잠옷
+과세/면세
+[41] (459,756)<label >전체 />
+	[42] (444,757)<input class='searchFieldRadio' id='taxType_0' />
+[43] (511,756)<label >과세 />
+	[44] (496,757)<input class='searchFieldRadio' id='taxType_1' />
+[45] (563,756)<label >면세 />
+	[46] (549,757)<input class='searchFieldRadio' id='taxType_2' />
+배송비
+[47] (988,756)<label >전체 />
+	[48] (973,757)<input class='searchFieldRadio' id='deliType_0' />
+배송지
+[49] (459,790)<label >전체 />
+	[50] (444,791)<input class='searchFieldRadio' id='origin_0' />
+[51] (523,790)<label >국내배송 />
+	[52] (496,791)<input class='searchFieldRadio' id='origin_1' />
+[53] (600,790)<label >해외배송 />
+	[54] (573,791)<input class='searchFieldRadio' id='origin_2' />
+반품가능 여부
+[55] (988,790)<label >전체 />
+	[56] (973,791)<input class='searchFieldRadio' id='returnRefuse_0' />
+반품접수 유형
+[57] (459,824)<label >전체 />
+	[58] (444,825)<input class='searchFieldRadio' id='returnStatus_0' />
+[59] (543,824)<label >공급사 반품접수 />
+	[60] (496,825)<input class='searchFieldRadio' id='returnStatus_1' />
+[61] (665,824)<label >원운송장 반품접수 />
+	[62] (612,825)<input class='searchFieldRadio' id='returnStatus_2' />
+판매타입
+[63] (988,824)<label >전체 />
+	[64] (973,825)<input class='searchFieldRadio' id='saleType_0' />
+상품가격
+[65] (465,861)<input class='searchFieldText' />
+~
+[66] (546,861)<input class='searchFieldText' />
+검색
+[67] (488,899)<select  />
+[68] (766,899)<input  />
+품/단종 상품은 노출되지 않습니다. 최근 3개월 이내 품/단종 상품은
+[
+[69] (936,935)<a href='/V2/service/soldout.php'>여기 />
+]
+서 확인 가능합니다.
+총
+827,255
+개
+의 상품이 있습니다.
+
+</current_dom>

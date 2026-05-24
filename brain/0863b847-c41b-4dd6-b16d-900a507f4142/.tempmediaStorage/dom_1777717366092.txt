@@ -1,0 +1,201 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+자동선택
+[0] (280,107)<div class='scroll_ctgr' scrollable='true' />
+	전체
+	AMD 소켓
+	인텔 소켓 1851
+	[1] (279,115)<dd class='ls_div on' id='ls_div4560' />
+		[2] (242,115)<label >인텔 소켓 1700 />
+	[3] (279,157)<dd class='ls_div' id='ls_div4421' />
+		[4] (241,157)<label >인텔 소켓 1200 />
+	[5] (279,198)<dd class='ls_div' id='ls_div3480' />
+		[6] (247,198)<label >인텔 소켓 1151-V2 />
+	[7] (279,240)<dd class='ls_div' id='ls_div3209' />
+		[8] (241,240)<label >인텔 소켓 1151 />
+	인텔 소켓 1150/1155
+	인텔 소켓 2066
+	서버/워크스테이션
+	산업용 메인보드
+필터
+초기화
+[9] (663,147)<div class='scroll_opt' scrollable='true' />
+	13~14페이즈
+	15~16페이즈
+	17~18페이즈
+	19~20페이즈
+	21~25페이즈
+	26~30페이즈
+	DrMOS/SPS
+	DrMOS
+	SPS
+	특징
+	[10] (467,99)<input class='ch_bx' id='chk_105119' />
+	[11] (519,98)<label >전원부 방열판 />
+	[12] (574,99)<input class='ch_bx' id='chk_111212' />
+	[13] (626,98)<label >후면커넥터(BTF) />
+	[14] (681,99)<input class='ch_bx' id='chk_111211' />
+	[15] (732,98)<label >화이트 컨셉 />
+	[16] (925,150)<a class='btn_toggle' href='javascript:open_opt(6021);' id='btn_toggle6021' />
+	보조전원 핀
+	[17] (467,156)<input class='ch_bx' id='chk_97825' />
+	[18] (519,155)<label >4핀 />
+	[19] (574,156)<input class='ch_bx' id='chk_97826' />
+	[20] (626,155)<label >8핀 />
+	[21] (681,156)<input class='ch_bx' id='chk_97827' />
+	[22] (732,155)<label >8+4핀 />
+	[23] (787,156)<input class='ch_bx' id='chk_104206' />
+	[24] (839,155)<label >8+8핀 />
+	DC-IN
+	[25] (925,207)<a class='btn_toggle' href='javascript:open_opt(6294);' id='btn_toggle6294' />
+	PCIe 버전
+	[26] (467,213)<input class='ch_bx' id='chk_105569' />
+	[27] (519,212)<label >PCIe5.0 />
+	[28] (574,213)<input class='ch_bx' id='chk_105570' />
+	[29] (626,212)<label >PCIe4.0 />
+	[30] (681,213)<input class='ch_bx' id='chk_105571' />
+	[31] (732,212)<label >PCIe3.0 />
+	[32] (787,213)<input class='ch_bx' id='chk_105700' />
+	[33] (839,212)<label >PCIe />
+	PCI
+	PCIe 확장슬롯
+	PCIex16*1개
+	PCIex16*2개
+	PCIex16*3개
+	PCIex16(at x8)*1개
+	PCIex16(at x4)*1개
+	PCIex16(at x4)*2개
+	PCIex16(at x4)*3개
+	PCIex16(at x1)*1개
+	PCIex16(at x1)*2개
+	PCIex4*1개
+	PCIex4*2개
+	PCIex1*1개
+	PCIex1*2개
+	PCIex1*3개
+	PCI
+	스토리지 인터페이스
+	M.2 (NVMe)
+	SATA3
+	M.2 PCIe 버전
+	PCIe Gen5
+	PCIe Gen4
+	PCIe Gen3
+	M.2
+	1개
+	2개
+	3개
+	4개
+	5개
+	SATA3
+	2개
+	3개
+	4개
+	6개
+	8개
+	Wi-Fi
+	Wi-Fi
+	일체형 I/O쉴드
+	일체형
+	영상출력단자
+	Thunderbolt™ (Type-C)
+	HDMI
+	DisplayPort
+	D-SUB (VGA)
+	DVI
+	음성출력단자
+	디지털 S/PDIF
+	아날로그 7.1채널(8ch)
+	아날로그 5.1채널(6ch)
+	백패널출력
+	Thunderbolt™4
+	Thunderbolt™3
+	USB Type-C
+	USB4 40Gbps
+	USB 20Gbps
+	USB 10Gbps
+	USB 5Gbps
+	USB2.0
+	LAN 10Gbps
+	LAN 5Gbps
+	LAN 2.5Gbps
+	LAN 1Gbps
+	듀얼 랜
+	블루투스
+	BIOS 플래시백
+	클리어 CMOS
+	PS/2
+	COM포트
+	RGB 커넥터
+	ARGB 5V(3핀)
+	RGB 12V(4핀)
+	없음
+	USB C-Type 헤더
+	USB Type-C
+	없음
+	USB2.0 헤더
+	1개
+	2개
+	3개
+메인보드
+[34] (360,340)<input id='Search_free' />
+무료배송
+[35] (423,340)<input id='Search_Event' />
+행사제품보기
+총
+52
+건
+[36] (317,406)<input id='SearchKeyword' />
+[37] (370,408)<a href='javascript:search_keyword();' />
+[38] (436,406)<select  />
+[39] (272,834)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[40] (88,542)<a class='imgbox' href='javascript:detail_show('982373')' title='[제품코드:982373]' />
+	[41] (236,629)<a class='imgbox' href='javascript:detail_show('982373')'>인텔 B760 / 인텔(소켓1700) / DDR4 / VGA 연결: PCIe4.0 x16 / M-ATX (24.4x24.4cm) / 전원부: 6+2+1페이즈 / [메모리] 5333MHz (PC4-42600) / 4개 / 메모리 용량: 최대 128GB / XMP3.0 / [확장슬롯] PCIe버전: PCIe4.0, PCIe3.0 / PCIex16: 1개 / PCIex1: 2개 / [저장장치] M.2: 2개 / SATA3: 4개 / M.2 연결: PCIe4.0, NVMe / [후면단자] HDMI / DP / D-SUB / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입: 5개 / USB C타입: 1개 / [랜/오디오] 유선랜 칩셋: Realtek / 2.5Gbps / RJ-45: 1개 / 오디오 칩셋: Realtek / 7.1채널(8ch) / [내부I/O] USB/팬 헤더: USB3.0 헤더 , USB2.0 헤더 , RGB 12V 4핀 헤더 , ARGB 5V 3핀 헤더 / 시스템팬 4핀: 3개 / I/O 헤더: TPM 헤더 / [특징] 전원부 방열판 / M.2 히트싱크 / UEFI />
+		[42] (236,504)<b >[GIGABYTE] B760M DS3H D4 제이씨현 (인텔B760/M-ATX) [982373] />
+	후기
+	구매왕
+	판매가격
+	139,000
+	[43] (453,652)<a class='buttons' href='javascript:select_basket('982373','N',1);' id='basket982373' />
+		[44] (453,652)<span >담기 />
+	[45] (88,906)<a class='imgbox' href='javascript:detail_show('1039081')' title='[제품코드:1039081]' />
+	[46] (236,993)<a class='imgbox' href='javascript:detail_show('1039081')'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결: PCIe5.0 x16 / M-ATX (24.4x22cm) / [메모리] 2개 / 메모리 용량: 최대 64GB / XMP / [확장슬롯] PCIe버전: PCIe5.0, PCIe3.0 / PCIex16: 1개 / PCIex1: 1개 / PCI: 1개 / [저장장치] M.2: 2개 / SATA3: 4개 / M.2 연결: PCIe4.0, NVMe / [후면단자] HDMI / DP / DVI / D-SUB / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / 시리얼포트 / USB A타입: 5개 / USB C타입: 1개 / [랜/오디오] 유선랜 칩셋: Realtek / 2.5Gbps / RJ-45: 1개 / 오디오 칩셋: Realtek / 7.1채널(8ch) / [내부I/O] USB/팬 헤더: USB3.0 헤더 , USB2.0 헤더 / 시스템팬 4핀: 2개 / I/O 헤더: TPM 헤더, 프론트오디오AAFP 헤더 , 침입감지 헤더 , COM포트 헤더, LPT포트 헤더 / UEFI />
+		[47] (236,867)<b >[ASUS] PRIME B760M-KS 코잇 (벌크) (인텔 B760/M-ATX) [1039081] />
+	판매가격
+총 견적금액
+576,000
+원
+[48] (534,406)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[49] (562,406)<input  />
+[50] (590,406)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[51] (650,406)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[52] (650,407)<span >전체수량변경 />
+[53] (544,501)<label  />
+	[54] (526,501)<span  />
+		[55] (526,501)<input  />
+	[56] (551,501)<span >전체선택 />
+[57] (702,501)<a class='wbtn' href='javascript:add_wish_list();' />
+	[58] (702,501)<span >관심상품추가 />
+[59] (760,501)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[60] (760,501)<span >장바구니담기 />
+[61] (815,501)<a class='wbtn' />
+	[62] (815,501)<span >견적서출력 />
+[63] (871,501)<a class='wbtn' href='javascript:speck_form();' />
+	[64] (871,501)<span >사양검토요청 />
+[65] (919,501)<a class='wbtn' href='javascript:sess_init();' />
+	[66] (919,501)<span >초기화 />
+[67] (527,579)<label  />
+	[68] (527,579)<span  />
+		[69] (526,581)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[70] (560,579)<span >인텔 병행수입 />
+[71] (633,624)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[72] (853,606)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[73] (876,606)<input class='change__ea' id='Amount_1108547' />
+[74] (898,606)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[75] (922,606)<span class='delete' />
+
+</current_dom>

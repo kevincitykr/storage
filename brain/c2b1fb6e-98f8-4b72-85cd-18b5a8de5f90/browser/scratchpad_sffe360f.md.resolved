@@ -1,0 +1,35 @@
+# 유튜브 자동화 작업 진행 상황
+
+## 목표
+- Psych2Go 유튜브 채널에서 5-10개의 비디오 제목과 URL 추출
+- 추출된 정보를 바탕으로 NotebookLM 등을 활용한 후속 작업 준비
+
+## 체크리스트
+- [x] Psych2Go 비디오 페이지 접속 (@Psych2go/videos)
+- [x] 비디오 제목 및 URL 5-10개 추출
+- [x] 결과 요약 및 보고
+
+## 추출된 비디오 목록
+1. **This Isn’t Love… It’s Lust (And It’s Fooling You)**
+   - URL: https://www.youtube.com/watch?v=7tsmqaLMBrc
+2. **What Happens If You've Been Through Too Much**
+   - URL: https://www.youtube.com/watch?v=yYHKboSA7jE
+3. **Why You Feel Overwhelmed in Public (Even If You’re “Fine”)**
+   - URL: https://www.youtube.com/watch?v=fR4D09QshsY
+4. **Why Am I Always Horny - Sexual Intrusive Thoughts Explained**
+   - URL: https://www.youtube.com/watch?v=vP6DbSjjQ1E
+5. **How To BUILD an UNBREAKABLE mindset (PREVIEW)**
+   - URL: https://www.youtube.com/watch?v=WcgcPWo7tO0
+6. **7 Signs You’re Lonely in Your Relationship**
+   - URL: https://www.youtube.com/watch?v=y3gxDIb-Skw
+7. **Your Dating Style Might be Keeping You Single**
+   - URL: https://www.youtube.com/watch?v=tna5aQEcieQ
+8. **You Help Everyone… But No One Helps You**
+   - URL: https://www.youtube.com/watch?v=wIdClKb_8VE
+9. **Too Tired, so You Procrastinate** (URL: https://www.youtube.com/watch?v=vhCPLbCBzp8)
+10. **Why You Feel Sexual Urges Without Wanting Sex** (URL: https://www.youtube.com/watch?v=_eXcyAywVK8)
+11. **Quiz: How Are You Really Doing? (You Might Be Wrong)** (URL: https://www.youtube.com/watch?v=mod3W-63VcA)
+12. **It Is NOT Laziness, It Is Something DARKER** (URL: https://www.youtube.com/watch?v=f1RQZEvjICg)
+
+## 작업 기록
+- 2026-04-13: Psych2Go 채널에서 비디오 10개의 제목과 URL 추출 완료.

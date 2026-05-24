@@ -1,0 +1,109 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (153,65)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (367,63)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='수향미 10kg 쌀' role='searchbox' />
+[2] (493,67)<div  />
+	[3] (493,63)<img  />
+[4] (529,63)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[5] (623,63)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[6] (585,63)<span  />
+	[7] (636,63)<div  />
+		[8] (636,63)<b >AliExpress 앱을 다운로드하세요 />
+[9] (721,63)<div  />
+	[10] (721,63)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[11] (693,63)<span  />
+		[12] (731,63)<div  />
+			[13] (731,48)<span >해운대구/
+KO
+/ />
+			[14] (723,74)<b >KRW />
+				[15] (734,73)<span  />
+[16] (801,63)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[17] (781,63)<span  />
+	[18] (815,63)<div  />
+		[19] (815,48)<span >Hi, sohwe />
+		[20] (811,74)<b >계정 />
+			[21] (820,73)<span  />
+[22] (872,63)<div  />
+	[23] (875,63)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[24] (857,63)<span  />
+		[25] (888,63)<div  />
+			[26] (888,43)<div  />
+				[27] (881,45)<span >21 />
+			[28] (888,74)<b >장바구니 />
+[29] (190,167)<div aria-label='모든 카테고리' class='Categoey--categoryTitle--_3bKGRN' role='button'>모든 카테고리 />
+	모든 카테고리
+[30] (325,167)<a aria-label='천원마트' class='bp_bu' href='https://www.aliexpress.com/ssr/300000512/kr2024update?disableNav=YES&pha_manifest=ssr&_immersiveMode=true@3973026109'>천원마트 />
+[31] (393,167)<a aria-label='Choice' class='bp_bu' href='https://www.aliexpress.com/ssr/300000556/zQFHEaEPNJ?disableNav=YES&pha_manifest=ssr&_immersiveMode=true'>Choice />
+[32] (462,167)<a aria-label='K-venue' class='bp_bu' href='https://www.aliexpress.com/ssr/300001014/kvenue-update?disableNav=YES&pha_manifest=ssr&_immersiveMode=true'>K-venue />
+[33] (535,167)<a aria-label='직구 핫딜' class='bp_bu' href='https://www.aliexpress.com/ssr/300002660/Deals-HomePage?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&source=superdeals'>직구 핫딜 />
+[34] (612,167)<a aria-label='A.Fashion' class='bp_bu' href='https://www.aliexpress.com/ssr/300000462/AFashionv2-PC?disableNav=YES&pha_manifest=ssr&_immersiveMode=true'>A.Fashion />
+[35] (682,167)<a aria-label='자동차' class='bp_bu' href='https://www.aliexpress.com/p/calp-plus/index.html?osf=category_navigate_newTab2&queryFrom=kingKong&categoryTab=automotive'>자동차 />
+[36] (748,167)<a aria-label='가전제품' class='bp_bu' href='https://www.aliexpress.com/p/calp-plus/index.html?osf=category_navigate_newTab2&queryFrom=kingKong&categoryTab=appliances'>가전제품 />
+[37] (820,167)<a aria-label='여성 의류' class='bp_bu' href='https://www.aliexpress.com/p/calp-plus/index.html?osf=category_navigate_newTab2&queryFrom=kingKong&categoryTab=women%27s_clothing'>여성 의류 />
+남성 의류
+[38] (880,167)<div aria-label='더' class='bp_bx' role='button' />
+	[39] (874,167)<span >더 />
+	[40] (887,167)<span  />
+세일 종료:
+5월 7일 23:59
+[41] (145,487)<a class='pf_ay' href='//www.aliexpress.com/ssr/300003014/KR5CDMainVenue?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=3b2c713d-87b7-40f1-8e02-7ea8d44d2439&productIds=5000000205618035' />
+	[42] (145,436)<span >₩23,000 할인 />
+	[43] (145,476)<span >₩200,000+ 구매 시 />
+	[44] (145,529)<div  />
+		[45] (145,529)<div  />
+			[46] (145,529)<span >코드：AEKZ16 />
+[47] (238,487)<a class='pf_ay' href='//www.aliexpress.com/ssr/300003014/KR5CDMainVenue?disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=3b2c713d-87b7-40f1-8e02-7ea8d44d2439&productIds=5000000205609770' />
+	[48] (238,436)<span >₩15,000 할인 />
+	[49] (238,476)<span >₩125,000+ 구매 시 />
+	[50] (238,529)<div  />
+		[51] (238,529)<div  />
+			[52] (238,529)<span >코드：AEKZ10 />
+[53] (377,487)<a class='pb_a0' href='//www.aliexpress.com/ssr/300003014/5CD-bestsellers?productIds=1005006959700436&disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=3b2c713d-87b7-40f1-8e02-7ea8d44d2439' />
+	[54] (377,487)<div  />
+		[55] (337,487)<div  />
+			[56] (337,487)<img  />
+		[57] (419,487)<div  />
+			[58] (407,432)<p >베스트셀러 />
+			[59] (406,541)<div  />
+				[60] (406,541)<span >₩42,630 />
+[61] (544,487)<a class='pb_a0' href='//www.aliexpress.com/ssr/300003014/family?productIds=1005009776165279&disableNav=YES&pha_manifest=ssr&_immersiveMode=true&businessCode=guide&scm=1007.31960.458249.0&scm_id=1007.31960.458249.0&scm-url=1007.31960.458249.0&pvid=3b2c713d-87b7-40f1-8e02-7ea8d44d2439' />
+	[62] (544,487)<div  />
+		[63] (504,487)<div  />
+			[64] (504,487)<img  />
+		[65] (586,487)<div  />
+			[66] (570,432)<p >가정의 달 />
+			[67] (573,541)<div  />
+				[68] (573,541)<span >₩17,640 />
+패션 트렌드
+₩3,080
+베스트셀러
+₩42,630
+오늘의 특가
+[69] (292,886)<div  />
+	[70] (292,886)<div  />
+		[71] (292,849)<h3 >알뜰마트 />
+		[72] (292,918)<div  />
+			[73] (229,918)<img  />
+			[74] (292,918)<span >전 상품 1000원부터 />
+			[75] (355,918)<div  />
+[76] (708,886)<div  />
+	[77] (708,886)<div  />
+		[78] (708,849)<h3 >직구 핫딜 />
+		[79] (708,918)<div  />
+			[80] (643,918)<img  />
+			[81] (708,918)<span >종료까지: />
+				[82] (732,918)<div  />
+					[83] (732,918)<div  />
+						[84] (732,918)<div  />
+							[85] (732,918)<div  />
+								[86] (713,918)<span >05 />
+								[87] (723,918)<span >: />
+								[88] (732,918)<span >48 />
+								[89] (741,918)<span >: />
+								[90] (750,918)<span >13 />
+			[91] (773,918)<div  />
+
+</current_dom>

@@ -1,0 +1,104 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (20,40)<button id='back-button' />
+	[1] (20,37)<span >arrow_back />
+[2] (79,40)<input class='sans-flex round w-500' id='tab-title' />
+Draft
+[3] (482,40)<button class=' sans-flex round w-500 md-body-small selected ' id='canvas'>Editor />
+[4] (522,40)<button class=' sans-flex round w-500 md-body-small ' id='app'>App />
+Saved
+cloud_upload
+Publish
+[5] (873,40)<button class=' sans-flex round w-500 owner sharing-v2 ' id='share-button'>Share />
+	[6] (856,40)<span >share />
+[7] (923,40)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (923,40)<span >more_vert />
+[9] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[10] (949,40)<span >settings />
+[11] (978,40)<button id='toggle-user-menu' />
+	[12] (978,40)<span >person />
+[13] (700,540)<div  />
+[14] (350,557)<section  />
+	[15] (350,557)<div  />
+	[16] (350,467)<header  />
+		[17] (270,467)<span >photo_spark />
+		[18] (346,467)<span >Generate />
+		[19] (424,467)<bb-node-run-control  />
+			[20] (424,467)<button class='node-controls' />
+				[21] (424,467)<span  />
+		[22] (447,465)<button id='connection-trigger' />
+	[23] (350,592)<div  />
+		[24] (350,589)<div  />
+			[25] (350,589)<div  />
+				[26] (350,589)<p >A wide 16:9 peaceful early morning in a modern Seoul area, soft blue dawn light, calm urban atmosphere, high-end photography lifestyle aesthetic,... />
+[27] (363,506)<section  />
+	[28] (363,506)<div  />
+	[29] (363,467)<header  />
+		[30] (283,467)<span >photo_spark />
+		[31] (359,467)<span >Generate 1 />
+		[32] (437,467)<bb-node-run-control  />
+		[33] (460,465)<button id='connection-trigger' />
+	[34] (363,540)<div  />
+		[35] (363,537)<div  />
+			[36] (293,537)<div  />
+				[37] (293,537)<p >(Empty) />
+[38] (242,138)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[39] (220,138)<span >chat_mirror />
+[40] (316,138)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[41] (294,138)<span >spark />
+[42] (381,138)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[43] (364,138)<span >responsive_layout />
+[44] (455,138)<button class=' selected icon round w-500 sans-flex ' />
+	[45] (428,138)<span >add_box />
+	[46] (463,138)<span >Add Assets />
+[47] (520,158)<button >Pick File />
+[48] (544,199)<button >Create New Document />
+[49] (350,902)<bb-expanding-textarea >send />
+	[50] (350,902)<div  />
+		[51] (325,902)<div  />
+			[52] (325,902)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Describe what you want to build' />
+		[53] (498,902)<button aria-label='Submit' id='submit' />
+	[54] (472,902)<bb-speech-to-text  />
+		[55] (472,902)<button  />
+			[56] (472,902)<span >mic />
+	send
+[57] (673,724)<button id='zoom-to-fit' />
+	[58] (673,724)<span >fit_screen />
+[59] (673,784)<button id='zoom-in' />
+	[60] (673,784)<span >add />
+[61] (673,831)<button id='zoom-out' />
+	[62] (673,831)<span >remove />
+[63] (673,877)<button id='undo' />
+	[64] (673,877)<span >undo />
+redo
+Opal can make mistakes, so double-check it
+[65] (773,121)<button class='sans-flex w-500 round'>Preview />
+[66] (830,121)<button class='sans-flex w-500 round'>Console />
+Step
+[67] (929,121)<button class=' sans-flex w-500 round '>Theme />
+spark
+[68] (857,196)<input class='sans-flex round w-500 md-title-medium' id='node-title' />
+[69] (771,275)<button class=' selected icon round w-500 sans-flex ' />
+	[70] (730,275)<span >photo_spark />
+	[71] (775,275)<span >Nano Banana Pro />
+	[72] (812,275)<span >arrow_drop_down />
+[73] (973,275)<button id='tools' />
+	[74] (973,275)<span >home_repair_service />
+info
+Image generation has a daily limit
+[75] (973,437)<button id='edit-button' />
+	[76] (973,437)<span >pen_spark />
+[77] (850,668)<span class='placeholder' id='editor' />
+[78] (850,928)<details id='advanced-settings' />
+	[79] (850,888)<summary >Advanced settings />
+		[80] (722,888)<span  />
+	[81] (738,943)<label class='  '>Aspect Ratio />
+	[82] (784,946)<button class=' selected round w-500 sans-flex ' />
+		[83] (778,946)<span >1:1 />
+		[84] (789,946)<span >arrow_drop_down />
+[85] (712,928)<button id='close' />
+	[86] (712,928)<span  />
+
+</current_dom>

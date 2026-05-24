@@ -1,0 +1,361 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,38)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (115,40)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (357,37)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='고단백두유' role='searchbox' />
+[3] (579,40)<div  />
+	[4] (579,37)<img  />
+[5] (605,37)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (672,37)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (644,37)<span  />
+	[8] (681,37)<div  />
+		[9] (681,37)<b >AliExpress 앱을 다운로드하세요 />
+[10] (738,37)<div  />
+	[11] (738,37)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[12] (721,37)<span  />
+		[13] (745,37)<div  />
+			[14] (745,26)<span >김해시/
+KO
+/ />
+			[15] (742,44)<b >KRW />
+				[16] (749,45)<span  />
+[17] (793,37)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[18] (777,37)<span  />
+	[19] (802,37)<div  />
+		[20] (802,26)<span >Hi, sohwe />
+		[21] (799,44)<b >계정 />
+			[22] (806,45)<span  />
+[23] (844,37)<div  />
+	[24] (846,37)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[25] (833,37)<span  />
+		[26] (855,37)<div  />
+			[27] (855,23)<div  />
+				[28] (850,24)<span >21 />
+			[29] (855,46)<b >장바구니 />
+[30] (42,141)<div  />
+	[31] (42,141)<img  />
+[32] (188,360)<div  />
+	[33] (188,360)<div  />
+[소비기한 9월4일] 연세두유 아몬드 앤 잣 두유 190ml x 48팩
+원산지:상품 상세설명 참조
+[34] (489,169)<div class='es--root--wdlxWrx reviewer--slider--qWpbOtA' scrollable='true' />
+	2 개 판매
+	[35] (489,169)<a class='reviewer--sliderItem--cwGn8yq' href='https://www.aliexpress.com/p/secondaryPage/app-pop.html?popText=%3Cb%3E%22%EC%9C%A0%EC%82%AC%ED%95%9C%20%EC%83%81%ED%92%88%22%20%EC%9D%80%20%EB%AC%B4%EC%97%87%EC%9D%B8%EA%B0%80%EC%9A%94%3F%3C%2Fb%3E%3Cbr%2F%3E%EC%83%89%EC%83%81%2C%20%EB%B8%8C%EB%9E%9C%EB%93%9C%2C%20%EC%8A%A4%ED%83%80%EC%9D%BC%20%EB%93%B1%EC%9D%98%20%EC%B8%A1%EB%A9%B4%EC%97%90%EC%84%9C%20%ED%98%84%EC%9E%AC%20%ED%83%90%EC%83%89%20%EC%A4%91%EC%9D%B8%20%ED%95%AD%EB%AA%A9%EA%B3%BC%20%EC%9C%A0%EC%82%AC%ED%95%9C%20%EA%B4%80%EC%8B%AC%20%EC%9E%88%EB%8A%94%20%ED%95%AD%EB%AA%A9%EC%9D%84%20%EB%82%98%ED%83%80%EB%83%85%EB%8B%88%EB%8B%A4.%3Cbr%2F%3E%3Cbr%2F%3E%3Cb%3E%ED%8C%90%EB%A7%A4%20%EB%90%9C%20%EC%9C%A0%EC%82%AC%ED%95%9C%20%EC%83%81%ED%92%88%EC%9D%98%20%EC%88%98%EB%8A%94%20%EC%96%B4%EB%96%BB%EA%B2%8C%20%EA%B3%84%EC%82%B0%EB%90%98%EB%82%98%EC%9A%94%3F%3C%2Fb%3E%3Cbr%2F%3E%EC%9D%B4%EA%B3%B3%EC%97%90%20%ED%91%9C%EC%8B%9C%EB%90%9C%20%ED%8C%90%EB%A7%A4%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%8A%94%20%EB%AA%A8%EB%93%A0%20AliExpress%EC%97%90%EC%84%9C%20%ED%8C%90%EB%A7%A4%EB%90%9C%20%EC%9C%A0%EC%82%AC%ED%95%9C%20%EC%83%81%ED%92%88%EC%9D%98%20%EC%B4%9D%20%EC%88%98%EC%9E%85%EB%8B%88%EB%8B%A4.%20%ED%98%84%EC%9E%AC%20%EB%91%98%EB%9F%AC%EB%B3%B4%EA%B3%A0%20%EC%9E%88%EB%8A%94%20%EC%83%81%ED%92%88%EC%9D%98%20%ED%8C%90%EB%A7%A4%EC%99%80%20%EA%B4%80%EB%A0%A8%EC%9D%B4%20%EC%97%86%EC%8A%B5%EB%8B%88%EB%8B%A4.' />
+		[36] (363,170)<span >비슷한 상품 10만+ 개 판매 />
+		[37] (408,170)<img  />
+	2 개 판매
+	비슷한 상품 10만+ 개 판매
+원가
+₩21,900
+[38] (363,204)<span  />
+15%
+₩18,615
+[39] (489,278)<div  />
+	[40] (484,278)<div  />
+		[41] (484,278)<div  />
+			[42] (341,278)<img  />
+			[43] (499,278)<div >₩30,000 구매 시 ₩4,100 할인 />
+	[44] (647,278)<span  />
+연관 상품
+[45] (340,970)<div  />
+	[46] (77,915)<div class='slick-slide slick-active slick-current' />
+		[47] (77,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005007243825057.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=375fa6ca-139f-4588-aca9-b3a331221322&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:375fa6ca-139f-4588-aca9-b3a331221322,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%2227469%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%219638%218690%21%21%219638%218690%21%402141131717776522642517746ede97%2112000039928440366%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007243825057%7C_p_origin_prod%3A' />
+			[48] (77,848)<div  />
+				[49] (77,848)<div  />
+				[50] (97,891)<div  />
+					[51] (97,891)<div  />
+						[52] (97,891)<span  />
+			[53] (77,998)<div  />
+				[54] (77,951)<div aria-label='푼푼마녀 수제 도넛 10개 세트 (제주 감귤 초코렛 딸기 바바리안 블랙라즈베리) 커피 빵' class='_2BLrX' role='heading' title='푼푼마녀 수제 도넛 10개 세트 (제주 감귤 초코렛 딸기 바바리안 블랙라즈베리) 커피 빵'>푼푼마녀 수제 도넛 10개 세트 (제주 감귤 초코렛 딸기 바바리안 블랙라즈베리) 커피 빵 />
+					푼푼마녀 수제 도넛 10개 세트 (제주 감귤 초코렛 딸기 바바리안 블랙라즈베리) 커피 빵
+				[55] (77,981)<div aria-label='₩8,690' class='_23lt5' />
+					[56] (50,982)<span >-9% />
+					[57] (79,982)<div  />
+						[58] (65,982)<span >₩ />
+						[59] (71,982)<span >8 />
+						[60] (76,982)<span >, />
+						[61] (87,982)<span >690 />
+					₩9,638
+				4.8
+	[62] (181,915)<div class='slick-slide slick-active' />
+		[63] (181,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005011986996376.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=375fa6ca-139f-4588-aca9-b3a331221322&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:375fa6ca-139f-4588-aca9-b3a331221322,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%223%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2111455%2111745%21%21%2111455%2111745%21%402141131717776522642517746ede97%2112000057213650705%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005011986996376%7C_p_origin_prod%3A' />
+			[64] (181,848)<div  />
+				[65] (181,848)<div  />
+				[66] (202,891)<div  />
+					[67] (202,891)<div  />
+						[68] (202,891)<span  />
+			[69] (181,998)<div  />
+				[70] (181,951)<div aria-label='연세우유 뼈를 생각한 두유 호두&아몬드 190ml 24팩' class='_2BLrX' role='heading' title='연세우유 뼈를 생각한 두유 호두&아몬드 190ml 24팩' />
+					[71] (181,973)<h3 >연세우유 뼈를 생각한 두유 호두&아몬드 190ml 24팩 />
+				[72] (181,981)<div aria-label='₩11,745' class='_23lt5' />
+					[73] (164,982)<div  />
+						[74] (147,982)<span >₩ />
+						[75] (157,982)<span >11 />
+						[76] (164,982)<span >, />
+						[77] (175,982)<span >745 />
+				3 판매
+	[78] (285,915)<div class='slick-slide slick-active' />
+		[79] (285,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005010754941670.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=375fa6ca-139f-4588-aca9-b3a331221322&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:375fa6ca-139f-4588-aca9-b3a331221322,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%227210%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2120000%219400%21%21%2120000%219400%21%402141131717776522642517746ede97%2112000053405580093%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005010754941670%7C_p_origin_prod%3A' />
+			[80] (285,848)<div  />
+				[81] (285,848)<div  />
+				[82] (306,891)<div  />
+					[83] (306,891)<div  />
+						[84] (306,891)<span  />
+			[85] (285,998)<div  />
+				[86] (285,951)<div aria-label='[1+1] 땅콩100% 땅콩버터 크런치 500g 1개+스무스 500g 1개' class='_2BLrX' role='heading' title='[1+1] 땅콩100% 땅콩버터 크런치 500g 1개+스무스 500g 1개' />
+					[87] (285,973)<h3 >[1+1] 땅콩100% 땅콩버터 크런치 500g 1개+스무스 500g 1개 />
+				[88] (285,981)<div aria-label='₩9,400' class='_23lt5' />
+					[89] (262,982)<span >-53% />
+					[90] (294,982)<div  />
+						[91] (280,982)<span >₩ />
+						[92] (286,982)<span >9 />
+						[93] (291,982)<span >, />
+						[94] (302,982)<span >400 />
+					₩20,000
+				4.7
+	[95] (390,915)<div class='slick-slide slick-active' />
+		[96] (390,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005007546532143.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=375fa6ca-139f-4588-aca9-b3a331221322&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:375fa6ca-139f-4588-aca9-b3a331221322,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%223715%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2136900%2121033%21%21%2136900%2121033%21%402141131717776522642517746ede97%2112000041241782904%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007546532143%7C_p_origin_prod%3A' />
+			[97] (390,848)<div  />
+				[98] (390,848)<div  />
+				[99] (410,891)<div  />
+					[100] (410,891)<div  />
+						[101] (410,891)<span  />
+				[102] (390,922)<img  />
+			[103] (390,998)<div  />
+				[104] (390,951)<div aria-label='할리스 스테비아 커피믹스 100T' class='_2BLrX' role='heading' title='할리스 스테비아 커피믹스 100T' />
+					[105] (388,962)<h3 >할리스 스테비아 커피믹스 100T />
+				[106] (390,981)<div aria-label='₩21,033' class='_23lt5' />
+					[107] (366,982)<span >-43% />
+					[108] (401,982)<div  />
+						[109] (384,982)<span >₩ />
+						[110] (393,982)<span >21 />
+						[111] (401,982)<span >, />
+						[112] (412,982)<span >033 />
+					₩36,900
+				4.8
+	[113] (494,915)<div class='slick-slide slick-active' />
+		[114] (494,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005011932638718.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=375fa6ca-139f-4588-aca9-b3a331221322&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:375fa6ca-139f-4588-aca9-b3a331221322,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22354%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2120900%2120700%21%21%2120900%2120700%21%402141131717776522642517746ede97%2112000057065654630%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005011932638718%7C_p_origin_prod%3A' />
+			[115] (494,848)<div  />
+				[116] (494,848)<div  />
+				[117] (514,891)<div  />
+					[118] (514,891)<div  />
+						[119] (514,891)<span  />
+			[120] (494,951)<div aria-label='[개별포장] 쫀떡고소달콤 풍미가득 호박인절미/찹쌀떡/쑥개떡/두텁떡 1.5kg (50g x 30개입)' class='_2BLrX' role='heading' title='[개별포장] 쫀떡고소달콤 풍미가득 호박인절미/찹쌀떡/쑥개떡/두텁떡 1.5kg (50g x 30개입)'>[개별포장] 쫀떡고소달콤 풍미가득 호박인절미/찹쌀떡/쑥개떡/두텁떡 1.5kg (50g x 30개입) />
+				[개별포장] 쫀떡고소달콤 풍미가득 호박인절미/찹쌀떡/쑥개떡/두텁떡 1.5kg (50g x 30개입)
+			[121] (477,982)<div >700 />
+				[122] (460,982)<span >₩ />
+				[123] (469,982)<span >20 />
+				[124] (477,982)<span >, />
+				700
+			₩20,900
+			4.8
+	[125] (598,915)<div class='slick-slide slick-active' />
+		[126] (598,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005007971791461.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.14452.491826.0&scm_id=1007.14452.491826.0&scm-url=1007.14452.491826.0&pvid=0932fa15-ca64-4b54-9347-a34231ad4cb0&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.14452.491826.0,pvid:0932fa15-ca64-4b54-9347-a34231ad4cb0,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%2256%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%216200%216200%21%21%216200%216200%21%402141131717776522642517746ede97%2112000043092385530%21rec%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007971791461%7C_p_origin_prod%3A&search_p4p_id=20260501091744280289025548079642146_0' />
+			[127] (598,848)<div  />
+				[128] (598,848)<div  />
+				[129] (618,891)<div  />
+					[130] (618,891)<div  />
+						[131] (618,891)<span  />
+			[132] (598,998)<div  />
+				[133] (598,951)<div aria-label='[말리지오] 볶은 피땅콩 200g 500g 껍질땅콩 겉껍질땅콩 볶은피땅콩 국산땅콩 영양견과 자연간식 고소함 심심풀이 부모님간식 간편간식 신선배송' class='_2BLrX' role='heading' title='[말리지오] 볶은 피땅콩 200g 500g 껍질땅콩 겉껍질땅콩 볶은피땅콩 국산땅콩 영양견과 자연간식 고소함 심심풀이 부모님간식 간편간식 신선배송'>[말리지오] 볶은 피땅콩 200g 500g 껍질땅콩 겉껍질땅콩 볶은피땅콩 국산땅콩 영양견과 자연간식 고소함 심심풀이 부모님간식 간편간식 신선배송 />
+					[말리지오] 볶은 피땅콩 200g 500g 껍질땅콩 겉껍질땅콩 볶은피땅콩 국산땅콩 영양견과 자연간식 고소함 심심풀이 부모님간식 간편간식 신선배송
+				[134] (598,981)<div aria-label='₩6,200' class='_23lt5' />
+					[135] (578,982)<div  />
+						[136] (564,982)<span >₩ />
+						[137] (570,982)<span >6 />
+						[138] (575,982)<span >, />
+						[139] (586,982)<span >200 />
+				56 판매
+		[140] (633,767)<div >광고 />
+[141] (652,935)<button class='slick-arrow slick-next slick-next-default' />
+[142] (768,135)<a class='store-detail--wrap--IhR4e1j' href='//ko.aliexpress.com/store/1105447062' />
+	[143] (690,135)<div >판매자 />
+	[144] (816,135)<div  />
+		[145] (795,135)<span >탑프로 스토어 />
+		[146] (833,135)<span >(거래 업체) />
+		[147] (854,135)<span  />
+AliExpress의 약속
+[148] (768,277)<div  />
+	[149] (768,277)<div  />
+		[150] (768,235)<div  />
+			[151] (703,234)<span  />
+				[152] (703,234)<span  />
+					[153] (703,234)<strong >무료 배송 />
+			[154] (723,234)<span >· />
+			[155] (733,234)<span  />
+				[156] (733,234)<img  />
+			[157] (755,234)<span  />
+				[158] (755,234)<span >한국 발송 />
+		[159] (768,263)<div  />
+			[160] (745,261)<span  />
+				[161] (745,262)<span  />
+					[162] (745,264)<strong >배송: 5월 07일,목요일 이전에 받기 />
+		[163] (768,305)<div  />
+			[164] (703,292)<span  />
+				[165] (703,294)<span >택배회사: />
+			[166] (727,292)<span  />
+				[167] (726,295)<img  />
+			[168] (755,292)<span  />
+				[169] (755,294)<span >CJLogistics />
+			[170] (784,292)<span  />
+				[171] (782,295)<img  />
+			[172] (815,292)<span  />
+				[173] (815,294)<span >Korea ePOST />
+			[174] (694,317)<span  />
+				[175] (693,320)<img  />
+			[176] (714,317)<span  />
+				[177] (714,319)<span >Hanjin />
+			[178] (733,317)<span  />
+				[179] (733,320)<img  />
+			[180] (779,317)<span  />
+				[181] (779,319)<span >Lotte Global Logistics />
+			[182] (829,317)<span  />
+				[183] (829,319)<span >,etc. />
+[184] (768,369)<div  />
+	[185] (682,357)<img  />
+	[186] (768,369)<div  />
+		[187] (768,357)<div  />
+			[188] (706,357)<span >서비스 약속 />
+		[189] (768,380)<div  />
+			[190] (709,381)<div  />
+				[191] (709,381)<div >개인 정보 보호 />
+			[192] (757,381)<div  />
+				[193] (757,381)<div >반품 및 환불 정책 />
+	[194] (854,370)<span  />
+수량
+[195] (684,464)<div  />
+[196] (701,464)<input class='comet-v2-input-number-input' />
+[197] (717,464)<div  />
+	[198] (717,465)<span  />
+재고수량 98
+[199] (768,546)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large buy-now--buynow--OH44OI8 comet-v2-btn-important' />
+	[200] (768,546)<span >바로 구매 />
+[201] (768,607)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large add-to-cart--addtocart--Qhoji3M add-to-cart--hasBuyNow--QxW176q comet-v2-btn-important' />
+	[202] (768,608)<span >장바구니 담기 />
+[203] (704,669)<a class='share-and-wish--store--Zsc9uDn' href='//ko.aliexpress.com/store/1105447062' />
+	[204] (704,669)<span  />
+[205] (764,669)<div  />
+	[206] (764,669)<span  />
+[207] (828,669)<div  />
+	[208] (824,669)<span  />
+	[209] (834,669)<span >1 />
+[210] (879,917)<a aria-label='survey' class='survey--wrap--wg1Og56' href='https://survey.aliexpress.com/uone/sg/survey/09hOVpomv' />
+[211] (946,587)<div class='infinite-scroll-component comet-v2-infinite-scroll' scrollable='true' />
+	알뜰마트
+	무료 배송까지
+	3
+	개 더 담기
+	[212] (909,272)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[213] (909,272)<span  />
+			[214] (909,272)<span  />
+	[215] (921,301)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008660314411.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2074786%21KRW%2036000%21%21KRW%2036000%21%21%21%40210156fc17776522647136880e67ad%2112000046135626885%21ct%21KR%214595490757%21%215%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[216] (921,301)<span  />
+			[217] (921,334)<div >품절 임박 />
+	₩36,000
+	[218] (906,395)<div  />
+		[219] (906,396)<span  />
+	[220] (921,395)<input aria-label='number' class='comet-v2-input-number-input' />
+	[221] (937,395)<div  />
+		[222] (937,396)<span  />
+	[223] (952,272)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[224] (952,272)<span  />
+			[225] (952,272)<span  />
+	[226] (964,301)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005009355572334.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207036%21KRW%202150%21%21KRW%202150%21%21%21%40210156fc17776522647136880e67ad%2112000048851956318%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[227] (964,301)<span  />
+			[228] (964,334)<div >품절 임박 />
+	₩2,150
+	[229] (949,395)<div  />
+		[230] (949,396)<span  />
+	[231] (965,395)<input aria-label='number' class='comet-v2-input-number-input' />
+	[232] (980,395)<div  />
+		[233] (980,396)<span  />
+	[234] (909,443)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[235] (909,443)<span  />
+			[236] (909,443)<span  />
+	[237] (921,472)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005007173650980.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%205515%21KRW%202400%21%21KRW%202400%21%21%21%40210156fc17776522647136880e67ad%2112000042253953998%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[238] (921,472)<span  />
+			[239] (921,505)<div >6개 남음 />
+	₩2,400
+	[240] (906,566)<div  />
+		[241] (906,568)<span  />
+	[242] (921,566)<input aria-label='number' class='comet-v2-input-number-input' />
+	[243] (937,566)<div  />
+		[244] (937,568)<span  />
+	[245] (952,443)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[246] (952,443)<span  />
+			[247] (952,443)<span  />
+	[248] (964,472)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008521349459.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%203862%21KRW%201650%21%21KRW%201650%21%21%21%40210156fc17776522647136880e67ad%2112000045544167512%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[249] (964,472)<span  />
+			[250] (964,505)<div >품절 임박 />
+	₩1,650
+	[251] (949,566)<div  />
+		[252] (949,568)<span  />
+	[253] (965,566)<input aria-label='number' class='comet-v2-input-number-input' />
+	[254] (980,566)<div  />
+		[255] (980,568)<span  />
+	[256] (909,615)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[257] (909,615)<span  />
+			[258] (909,615)<span  />
+	[259] (921,643)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005005770724463.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%209219%21KRW%202500%21%21KRW%202500%21%21%21%40210156fc17776522647136880e67ad%2112000034291787603%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[260] (921,643)<span  />
+			[261] (921,676)<div >품절 임박 />
+	₩2,500
+	[262] (906,738)<div  />
+		[263] (906,739)<span  />
+	[264] (921,738)<input aria-label='number' class='comet-v2-input-number-input' />
+	[265] (937,738)<div  />
+		[266] (937,739)<span  />
+	[267] (952,615)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[268] (952,615)<span  />
+			[269] (952,615)<span  />
+	[270] (964,643)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005007010550225.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207084%21KRW%203400%21%21KRW%203400%21%21%21%40210156fc17776522647136880e67ad%2112000039050871250%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[271] (964,643)<span  />
+			[272] (964,676)<div >품절 임박 />
+	₩3,400
+	[273] (949,738)<div  />
+		[274] (949,739)<span  />
+	[275] (965,738)<input aria-label='number' class='comet-v2-input-number-input' />
+	[276] (980,738)<div  />
+		[277] (980,739)<span  />
+	[278] (909,786)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[279] (909,786)<span  />
+			[280] (909,786)<span  />
+	[281] (921,814)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008660171757.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2027161%21KRW%208650%21%21KRW%208650%21%21%21%40210156fc17776522647136880e67ad%2112000046136151160%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[282] (921,814)<span  />
+			[283] (921,847)<div >품절 임박 />
+	₩8,650
+	[284] (906,909)<div  />
+		[285] (906,910)<span  />
+	[286] (921,909)<input aria-label='number' class='comet-v2-input-number-input' />
+	[287] (937,909)<div  />
+		[288] (937,910)<span  />
+	[289] (952,786)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[290] (952,786)<span  />
+			[291] (952,786)<span  />
+	[292] (964,814)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008830774016.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2027428%21KRW%2011150%21%21KRW%2011150%21%21%21%40210156fc17776522647136880e67ad%2112000046865093685%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[293] (964,814)<span  />
+			[294] (964,847)<div >품절 임박 />
+	₩11,150
+	[295] (949,909)<div  />
+		[296] (949,910)<span  />
+	[297] (965,909)<input aria-label='number' class='comet-v2-input-number-input' />
+	[298] (980,909)<div  />
+		[299] (980,910)<span  />
+	[300] (909,957)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[301] (909,957)<span  />
+			[302] (909,957)<span  />
+	[303] (921,986)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005005265418112.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2011503%21KRW%203650%21%21KRW%203650%21%21%21%40210156fc17776522647136880e67ad%2112000032435352812%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[304] (921,986)<span  />
+	[305] (952,957)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[306] (952,957)<span  />
+			[307] (952,957)<span  />
+	[308] (964,986)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005009928052981.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%206225%21KRW%202900%21%21KRW%202900%21%21%21%40210156fc17776522647136880e67ad%2112000050601640678%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[309] (964,986)<span  />
+₩0
+결제하기
+[310] (946,120)<a class='cart-summary-tocart' href='https://www.aliexpress.com/p/shoppingcart/index.html'>카트로 가기 />
+[311] (972,59)<button class='sesame-floating-action-legacy' />
+
+</current_dom>

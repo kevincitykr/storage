@@ -1,0 +1,584 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (230,28)<div class='_18RYS3F-' role='button' />
+	[1] (241,28)<div  />
+		[2] (241,28)<div  />
+			[3] (241,16)<div  />
+				[4] (191,16)<div  />
+					[5] (186,16)<div >무료 배송 />
+			[6] (241,40)<div >최소 주문 금액 13,000원 (국내 발송 상품 제외) />
+[7] (431,28)<li  />
+	[8] (431,28)<div class='_18RYS3F-' role='button' />
+		[9] (442,28)<div  />
+			[10] (442,28)<div  />
+				[11] (442,16)<div  />
+					[12] (418,16)<div  />
+						[13] (418,16)<div >배송 보장 />
+				[14] (442,40)<div >모든 문제에 대한 반품 가능 />
+무료 반품
+최대 90일*
+가격 조정
+30일 이내
+배송 보장
+모든 문제에 대한 반품 가능
+[15] (593,28)<div class='_18RYS3F-' role='button' />
+	[16] (604,28)<div  />
+		[17] (604,28)<div  />
+			[18] (604,28)<div  />
+				[19] (604,28)<div  />
+					[20] (604,28)<div >Temu 앱 다운로드 />
+[21] (778,28)<div class='_1_ixefkT' role='none' />
+	[22] (778,28)<div  />
+		[23] (778,28)<div  />
+			[24] (751,28)<div  />
+				[25] (750,38)<span >수백만 명의 구매자가 이용하는 Temu에서 판매를 시작해 보세요. />
+			[26] (824,28)<a class='_2Tl9qLr1 _1dANk6WB' href='https://kr.seller.temu.com/login.html?login_scene=201&shop_region=185&shop_site=119' />
+				[27] (824,28)<div  />
+					[28] (821,28)<div >참여하기 />
+[29] (160,92)<a alt='temu' class='_2Tl9qLr1 _1LssdoSX _3Dio8XUP _3BXnNo54' href='/kr' title='temu' />
+	[30] (160,92)<div  />
+[31] (211,92)<a class='_2Tl9qLr1 om4n6mFo IGF4LXWi _18U1wRIT _3BXnNo54 _3GBVQxAr' href='/kr/channel/best-sellers.html' />
+	[32] (217,92)<span >베스트셀러 상품 />
+[33] (267,92)<a class='_2Tl9qLr1 om4n6mFo IGF4LXWi _18U1wRIT _3BXnNo54 _3GBVQxAr' href='/kr/channel/full-star.html' />
+	[34] (272,92)<span >별점 5점 />
+[35] (304,92)<a class='_2Tl9qLr1 om4n6mFo IGF4LXWi _18U1wRIT _3BXnNo54 _3GBVQxAr' href='/kr/channel/new-in.html' />
+	[36] (304,92)<span >신상품 />
+[37] (355,92)<div  />
+	[38] (355,92)<div aria-label='파티오&잔디&정원' class='_2jbDKJi2 _1ds_vWpj _3BXnNo54' role='button' />
+		[39] (355,92)<div  />
+			[40] (351,92)<div  />
+				[41] (351,92)<span >파티오&잔디&정원 />
+[42] (527,91)<input aria-label='검색창. 더블 클릭하여 검색어를 입력하고 Temu에서 검색할 수 있습니다.' class='_7H3Q1N2_' id='searchInput' />
+[43] (664,91)<div aria-label='검색 제출' class='_3c7A9Vnx Ekwe4GOT' role='button' />
+풍경종
+[44] (712,92)<div aria-label='주문 & 계정' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[45] (712,92)<div  />
+		[46] (694,92)<div  />
+		[47] (719,92)<div  />
+			[48] (719,84)<div  />
+				[49] (719,84)<div >님 />
+					[50] (714,84)<span >김더케빈 />
+			[51] (719,100)<div >주문 & 계정 />
+[52] (766,92)<div aria-label='지원 센터' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[53] (766,92)<div  />
+		[54] (752,92)<div  />
+		[55] (773,92)<div  />
+			[56] (773,92)<div >지원 센터 />
+[57] (813,92)<div aria-label='한국 한국어' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='button' />
+	[58] (813,92)<div  />
+		[59] (803,92)<div  />
+			[60] (803,92)<img  />
+		[61] (820,92)<div  />
+			[62] (820,92)<div >한국어 />
+[63] (846,92)<div aria-label='장바구니' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[64] (846,92)<div  />
+		[65] (846,92)<div  />
+[66] (500,163)<div  />
+	[67] (151,163)<a class='_2Tl9qLr1 _2wejj5dI' href='/kr'>홈 />
+	[68] (193,163)<a class='_2Tl9qLr1 _2wejj5dI' href='/kr/patio-lawn-garden-o3-885.html'>파티오&잔디&정원 />
+	야외 장식
+[69] (166,215)<li aria-label='1 of 16' class='splide__slide SD0guxyu is-active is-visible' id='splide01-slide01' role='group' />
+	[70] (165,215)<div  />
+		[71] (165,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[72] (165,215)<span  />
+				[73] (165,215)<div  />
+					[74] (165,215)<span  />
+						[75] (170,215)<span >필터 />
+[76] (220,215)<li aria-label='2 of 16' class='splide__slide SD0guxyu _3is8Lbim is-visible is-next' id='splide01-slide02' role='group' />
+	[77] (220,215)<div  />
+		[78] (220,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[79] (220,215)<span  />
+				[80] (216,215)<div  />
+					[81] (216,215)<span >정렬 기준: 관련성 />
+[82] (274,215)<li aria-label='3 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide03' role='group' />
+	[83] (274,215)<div  />
+		[84] (274,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[85] (274,215)<span  />
+				[86] (270,215)<div  />
+					[87] (270,215)<span >색상 />
+[88] (309,215)<li aria-label='4 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide04' role='group' />
+	[89] (309,215)<div  />
+		[90] (309,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[91] (309,215)<span  />
+				[92] (306,215)<div  />
+					[93] (306,215)<span >소재 />
+[94] (348,215)<li aria-label='5 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide05' role='group' />
+	[95] (348,215)<div  />
+		[96] (348,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[97] (348,215)<span  />
+				[98] (344,215)<div  />
+					[99] (344,215)<span >공휴일 />
+[100] (401,215)<li aria-label='6 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide06' role='group' />
+	[101] (401,215)<div  />
+		[102] (401,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[103] (401,215)<span  />
+				[104] (397,215)<div  />
+					[105] (397,215)<span >전력 공급 방식 />
+[106] (457,215)<li aria-label='7 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide07' role='group' />
+	[107] (457,215)<div  />
+		[108] (457,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[109] (457,215)<span  />
+				[110] (454,215)<div  />
+					[111] (454,215)<span >관리 설명 />
+[112] (500,215)<li aria-label='8 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide08' role='group' />
+	[113] (500,215)<div  />
+		[114] (500,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[115] (500,215)<span  />
+				[116] (496,215)<div  />
+					[117] (496,215)<span >모양 />
+[118] (558,215)<li aria-label='9 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide09' role='group' />
+	[119] (558,215)<div  />
+		[120] (558,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[121] (558,215)<span  />
+				[122] (554,215)<div  />
+					[123] (554,215)<span >제곱그램 중량(g/㎡) />
+[124] (623,215)<li aria-label='10 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide10' role='group' />
+	[125] (623,215)<div  />
+		[126] (623,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[127] (623,215)<span  />
+				[128] (619,215)<div  />
+					[129] (619,215)<span >뒷면 재료 />
+[130] (680,215)<li aria-label='11 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide11' role='group' />
+	[131] (680,215)<div  />
+		[132] (680,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[133] (680,215)<span  />
+				[134] (676,215)<div  />
+					[135] (676,215)<span >제품 솜털 유형 />
+[136] (740,215)<li aria-label='12 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide12' role='group' />
+	[137] (740,215)<div  />
+		[138] (740,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[139] (740,215)<span  />
+				[140] (736,215)<div  />
+					[141] (736,215)<span >배터리 속성 />
+[142] (786,215)<li aria-label='13 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide13' role='group' />
+	[143] (786,215)<div  />
+		[144] (786,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[145] (786,215)<span  />
+				[146] (782,215)<div  />
+					[147] (782,215)<span >무늬 />
+[148] (828,215)<li aria-label='14 of 16' class='splide__slide SD0guxyu is-visible' id='splide01-slide14' role='group' />
+	[149] (828,215)<div  />
+		[150] (828,215)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 FV_bzeK7' role='button' />
+			[151] (828,215)<span  />
+				[152] (824,215)<div  />
+					[153] (824,215)<span >고객 리뷰 />
+할인
+배송 출발지:
+[154] (852,215)<div aria-label='Next slide' class='_1tO9F9cV splide__arrow splide__arrow--next _1yFtAeN8 o7j3XJhC' role='presentation' />
+	[155] (852,215)<div  />
+[156] (215,453)<div aria-label='블랙 메탈 풍경 1개 - 젠 스타일 야외 및 정원 장식, 계단식 튜브, 멜로디어스한 소리, 매달린 윈드 캐쳐 포함 - 파티오, 안뜰 또는 선물용으로 적합, 창문용 풍경 걸이 장식, 엄마를 위한 위로 추모 풍경 선물, 명상용 풍경' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[157] (215,453)<div  />
+		[158] (215,396)<div  />
+			[159] (215,396)<div  />
+				[160] (215,396)<div  />
+					[161] (215,396)<div  />
+					[162] (215,515)<div  />
+						[163] (215,515)<div  />
+							[164] (163,514)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 _2Hxnz2ye UdkGbCQU' role='button' />
+								[165] (163,514)<span  />
+									[166] (165,514)<span  />
+			[167] (284,396)<div  />
+			[168] (146,396)<div  />
+		[169] (215,552)<div  />
+			[170] (215,552)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/%EB%B8%94%EB%9E%99-%EB%A9%94%ED%83%88-%ED%92%8D%EA%B2%BD-1%EA%B0%9C-%EC%A0%A0-%EC%8A%A4%ED%83%80%EC%9D%BC-%EC%95%BC%EC%99%B8-%EB%B0%8F-%EC%A0%95%EC%9B%90-%EC%9E%A5%EC%8B%9D-%EA%B3%84%EB%8B%A8%EC%8B%9D-%ED%8A%9C%EB%B8%8C-%EB%A9%9C%EB%A1%9C%EB%94%94%EC%96%B4%EC%8A%A4%ED%95%9C-%EC%86%8C%EB%A6%AC-%EB%A7%A4%EB%8B%AC%EB%A6%B0-%EC%9C%88%EB%93%9C-%EC%BA%90%EC%B3%90-%ED%8F%AC%ED%95%A8-%ED%8C%8C%ED%8B%B0%EC%98%A4-%EC%95%88%EB%9C%B0-%EB%98%90%EB%8A%94-%EC%84%A0%EB%AC%BC%EC%9A%A9%EC%9C%BC%EB%A1%9C-%EC%A0%81%ED%95%A9-%EC%B0%BD%EB%AC%B8%EC%9A%A9-%ED%92%8D%EA%B2%BD-%EA%B1%B8%EC%9D%B4-%EC%9E%A5%EC%8B%9D-%EC%97%84%EB%A7%88%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%9C%84%EB%A1%9C-%EC%B6%94%EB%AA%A8-%ED%92%8D%EA%B2%BD-%EC%84%A0%EB%AC%BC-%EB%AA%85%EC%83%81%EC%9A%A9-%ED%92%8D%EA%B2%BD-g-601101574982830.html' />
+				[171] (215,552)<h2 >새 탭에서 열기. />
+					[172] (215,552)<span >블랙 메탈 풍경 1개 - 젠 스타일 야외 및 정원 장식, 계단식 튜브, 멜로디어스한 소리, 매달린 윈드 캐쳐 포함 - 파티오, 안뜰 또는 선물용으로 적합, 창문용 풍경 걸이 장식, 엄마를 위한 위로 추모 풍경 선물, 명상용 풍경 />
+					새 탭에서 열기.
+			[173] (215,534)<div  />
+			[174] (284,552)<div  />
+			[175] (146,552)<div  />
+		[176] (215,582)<div  />
+			[177] (203,582)<div  />
+				[178] (180,582)<div  />
+					[179] (196,582)<div >3,638원 />
+						3,638원
+						[180] (196,583)<div  />
+							[181] (193,582)<span >3,638 />
+							[182] (209,585)<span >원 />
+					[183] (165,584)<div  />
+						[184] (164,584)<span >원가 4,851원
+원 />
+							원가 4,851원
+							[185] (162,582)<span >4,851 />
+							원
+				[186] (235,585)<div  />
+					[187] (233,589)<div  />
+						[188] (234,583)<div  />
+							[189] (217,581)<div  />
+							[190] (237,583)<span >2.2만판매됨 />
+								[191] (228,583)<span >2.2만 />
+								[192] (245,583)<span >판매됨 />
+								2.2만판매됨
+			[193] (270,582)<div  />
+				[194] (270,582)<div aria-label='장바구니에 담기' class='_3nOB8RhB _1eNOXhtH' role='button' />
+					[195] (270,582)<div  />
+		[196] (215,609)<div  />
+			[197] (178,609)<div >최고 평점 - 야외 장식 />
+				최고 평점 - 야외 장식
+				[198] (178,609)<div  />
+					[199] (178,609)<div  />
+						[200] (178,609)<div  />
+							[201] (163,609)<span >최고 평점 />
+							[202] (193,609)<span >야외 장식 />
+		[203] (215,633)<div  />
+			[204] (180,633)<div class='_3UEP91lE' role='region' />
+				[205] (170,634)<div class='oMRVEXZ7 _19DJKl1C' role='img' />
+					[206] (168,634)<div  />
+				[207] (203,634)<span >리뷰 1,187건 />
+					리뷰 1,187건
+					[208] (203,634)<span >1,187 />
+[209] (357,453)<div aria-label='야광석 60개 - 수족관, 웨딩 장면, 할로윈 장식, 파티오, 어항, 화분, 정원 길 몽환적인 악센트용 | 실내외 분위기 연출을 위한 로맨틱한 야광석, 모든 계절용, 연못 장식석, 사이즈 L' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[210] (357,453)<div  />
+		[211] (357,396)<div  />
+			[212] (357,396)<div  />
+				[213] (357,396)<div  />
+					[214] (357,396)<div  />
+						[215] (416,268)<div >광고 />
+					[216] (357,515)<div  />
+						[217] (357,515)<div  />
+							[218] (305,514)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 _2Hxnz2ye UdkGbCQU' role='button' />
+								[219] (305,514)<span  />
+									[220] (307,514)<span  />
+			[221] (426,396)<div  />
+			[222] (288,396)<div  />
+		[223] (357,552)<div  />
+			[224] (357,552)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/%EC%95%BC%EA%B4%91%EC%84%9D-60%EA%B0%9C-%EC%88%98%EC%A1%B1%EA%B4%80-%EC%9B%A8%EB%94%A9-%EC%9E%A5%EB%A9%B4-%ED%95%A0%EB%A1%9C%EC%9C%88-%EC%9E%A5%EC%8B%9D-%ED%8C%8C%ED%8B%B0%EC%98%A4-%EC%96%B4%ED%95%AD-%ED%99%94%EB%B6%84-%EC%A0%95%EC%9B%90-%EA%B8%B8-%EB%AA%BD%ED%99%98%EC%A0%81%EC%9D%B8-%EC%95%85%EC%84%BC%ED%8A%B8%EC%9A%A9-%EC%8B%A4%EB%82%B4%EC%99%B8-%EB%B6%84%EC%9C%84%EA%B8%B0-%EC%97%B0%EC%B6%9C%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%A1%9C%EB%A7%A8%ED%8B%B1%ED%95%9C-%EC%95%BC%EA%B4%91%EC%84%9D-%EB%AA%A8%EB%93%A0-%EA%B3%84%EC%A0%88%EC%9A%A9-%EC%97%B0%EB%AA%BB-%EC%9E%A5%EC%8B%9D%EC%84%9D-%EC%82%AC%EC%9D%B4%EC%A6%88-l-g-606339388538240.html' />
+				[225] (357,552)<h2 >새 탭에서 열기. />
+					[226] (357,552)<span >야광석 60개 - 수족관, 웨딩 장면, 할로윈 장식, 파티오, 어항, 화분, 정원 길 몽환적인 악센트용 | 실내외 분위기 연출을 위한 로맨틱한 야광석, 모든 계절용, 연못 장식석, 사이즈 L />
+					새 탭에서 열기.
+			[227] (357,534)<div  />
+			[228] (426,552)<div  />
+			[229] (288,552)<div  />
+		[230] (357,582)<div  />
+			[231] (345,582)<div  />
+				[232] (306,582)<div  />
+					[233] (306,582)<div >2,273원 />
+						2,273원
+						[234] (306,583)<div  />
+							[235] (303,582)<span >2,273 />
+							[236] (319,585)<span >원 />
+				[237] (361,585)<div  />
+					[238] (345,589)<div  />
+						[239] (346,583)<div  />
+							[240] (328,581)<div  />
+							[241] (349,583)<span >2,566판매됨 />
+								[242] (339,583)<span >2,566 />
+								[243] (358,583)<span >판매됨 />
+								2,566판매됨
+			[244] (413,582)<div  />
+				[245] (413,582)<div aria-label='장바구니에 담기' class='_3nOB8RhB _1eNOXhtH' role='button' />
+					[246] (413,582)<div  />
+		[247] (357,609)<div  />
+			[248] (313,609)<div class='_3UEP91lE' role='region' />
+				[249] (313,610)<div class='oMRVEXZ7 _19DJKl1C' role='img' />
+					[250] (313,610)<div  />
+[251] (500,453)<div aria-label='원윈도우 원월드 허밍버드 윈드 차임: 빛과 그림자를 포착하여 집안 분위기를 더욱 아름답게 만들어주는 신성한 예술 작품' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[252] (500,453)<div  />
+		[253] (500,396)<div  />
+			[254] (500,396)<div  />
+				[255] (500,396)<div  />
+					[256] (500,396)<div  />
+						[257] (559,268)<div >광고 />
+					[258] (500,515)<div  />
+						[259] (500,515)<div  />
+							[260] (448,514)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 _2Hxnz2ye UdkGbCQU' role='button' />
+								[261] (448,514)<span  />
+									[262] (450,514)<span  />
+			[263] (569,396)<div  />
+			[264] (431,396)<div  />
+		[265] (500,552)<div  />
+			[266] (500,552)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/%EC%9B%90%EC%9C%88%EB%8F%84%EC%9A%B0-%EC%9B%90%EC%9B%94%EB%93%9C-%ED%97%88%EB%B0%8D%EB%B2%84%EB%93%9C-%EC%9C%88%EB%93%9C-%EC%B0%A8%EC%9E%84-%EB%B9%9B%EA%B3%BC-%EA%B7%B8%EB%A6%BC%EC%9E%90%EB%A5%BC-%ED%8F%AC%EC%B0%A9%ED%95%98%EC%97%AC-%EC%A7%91%EC%95%88-%EB%B6%84%EC%9C%84%EA%B8%B0%EB%A5%BC-%EB%8D%94%EC%9A%B1-%EC%95%84%EB%A6%84%EB%8B%B5%EA%B2%8C-%EB%A7%8C%EB%93%A4%EC%96%B4%EC%A3%BC%EB%8A%94-%EC%8B%A0%EC%84%B1%ED%95%9C-%EC%98%88%EC%88%A0-%EC%9E%91%ED%92%88-g-606435488430644.html' />
+				[267] (500,552)<h2 >새 탭에서 열기. />
+					[268] (500,552)<span >원윈도우 원월드 허밍버드 윈드 차임: 빛과 그림자를 포착하여 집안 분위기를 더욱 아름답게 만들어주는 신성한 예술 작품 />
+					새 탭에서 열기.
+			[269] (500,534)<div  />
+			[270] (569,552)<div  />
+			[271] (431,552)<div  />
+		[272] (500,582)<div  />
+			[273] (488,582)<div  />
+				[274] (449,582)<div  />
+					[275] (449,582)<div >4,220원 />
+						4,220원
+						[276] (449,583)<div  />
+							[277] (446,582)<span >4,220 />
+							[278] (462,585)<span >원 />
+				[279] (504,585)<div  />
+					[280] (479,589)<div  />
+						[281] (480,583)<div  />
+							[282] (480,583)<span >18판매됨 />
+								[283] (471,583)<span >18 />
+								[284] (485,583)<span >판매됨 />
+								18판매됨
+			[285] (555,582)<div  />
+				[286] (555,582)<div aria-label='장바구니에 담기' class='_3nOB8RhB _1eNOXhtH' role='button' />
+					[287] (555,582)<div  />
+[288] (643,453)<div aria-label='정원, 발코니, 거실, 안뜰용 특대형 청동 풍경, 선물 - 크고 선명한 음질, 정신 건강 및 명상에 최적' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[289] (643,453)<div  />
+		[290] (643,396)<div  />
+			[291] (643,396)<div  />
+				[292] (643,396)<div  />
+					[293] (643,396)<div  />
+					[294] (643,515)<div  />
+						[295] (643,515)<div  />
+							[296] (591,514)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 _2Hxnz2ye UdkGbCQU' role='button' />
+								[297] (591,514)<span  />
+									[298] (593,514)<span  />
+			[299] (712,396)<div  />
+			[300] (574,396)<div  />
+		[301] (643,552)<div  />
+			[302] (643,552)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/%EC%A0%95%EC%9B%90-%EB%B0%9C%EC%BD%94%EB%8B%88-%EA%B1%B0%EC%8B%A4-%EC%95%88%EB%9C%B0%EC%9A%A9-%ED%8A%B9%EB%8C%80%ED%98%95-%EC%B2%AD%EB%8F%99-%ED%92%8D%EA%B2%BD-%EC%84%A0%EB%AC%BC-%ED%81%AC%EA%B3%A0-%EC%84%A0%EB%AA%85%ED%95%9C-%EC%9D%8C%EC%A7%88-%EC%A0%95%EC%8B%A0-%EA%B1%B4%EA%B0%95-%EB%B0%8F-%EB%AA%85%EC%83%81%EC%97%90-%EC%B5%9C%EC%A0%81-g-601099731573569.html' />
+				[303] (643,552)<h2 >새 탭에서 열기. />
+					[304] (643,552)<span >정원, 발코니, 거실, 안뜰용 특대형 청동 풍경, 선물 - 크고 선명한 음질, 정신 건강 및 명상에 최적 />
+					새 탭에서 열기.
+			[305] (643,534)<div  />
+			[306] (712,552)<div  />
+			[307] (574,552)<div  />
+		[308] (643,582)<div  />
+			[309] (631,582)<div  />
+				[310] (609,582)<div  />
+					[311] (627,582)<div >6,290원 />
+						6,290원
+						[312] (627,583)<div  />
+							[313] (624,582)<span >6,290 />
+							[314] (640,585)<span >원 />
+					[315] (595,584)<div  />
+						[316] (594,584)<span >원가 10,704원
+원 />
+							원가 10,704원
+							[317] (591,583)<span >10,704 />
+							원
+				[318] (664,585)<div  />
+					[319] (663,589)<div  />
+						[320] (664,584)<div  />
+							[321] (648,581)<div  />
+							[322] (667,584)<span >6,264판매됨 />
+								[323] (658,584)<span >6,264 />
+								[324] (674,584)<span >판매됨 />
+								6,264판매됨
+			[325] (698,582)<div  />
+				[326] (698,582)<div aria-label='장바구니에 담기' class='_3nOB8RhB _1eNOXhtH' role='button' />
+					[327] (698,582)<div  />
+		[328] (643,609)<div  />
+			[329] (605,609)<div class='_3UEP91lE' role='region' />
+				[330] (598,610)<div class='oMRVEXZ7 _19DJKl1C' role='img' />
+					[331] (596,610)<div  />
+				[332] (628,610)<span >리뷰 281건 />
+					리뷰 281건
+					[333] (628,610)<span >281 />
+[334] (785,453)<div aria-label='고양이 발바닥 디딤돌 20개, 수지 정원용 디딤돌, 정원, 잔디, 길, 분재 장식용 야외 장식석, 고양이 애호가를 위한 휴일 기념품' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[335] (785,453)<div  />
+		[336] (785,396)<div  />
+			[337] (785,396)<div  />
+				[338] (785,396)<div  />
+					[339] (785,396)<div  />
+						[340] (845,268)<div >광고 />
+					[341] (785,515)<div  />
+						[342] (785,515)<div  />
+							[343] (733,514)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 _2Hxnz2ye UdkGbCQU' role='button' />
+								[344] (734,514)<span  />
+									[345] (735,514)<span  />
+			[346] (854,396)<div  />
+			[347] (716,396)<div  />
+		[348] (785,552)<div  />
+			[349] (785,552)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/%EA%B3%A0%EC%96%91%EC%9D%B4-%EB%B0%9C%EB%B0%94%EB%8B%A5-%EB%94%94%EB%94%A4%EB%8F%8C-20%EA%B0%9C-%EC%88%98%EC%A7%80-%EC%A0%95%EC%9B%90%EC%9A%A9-%EB%94%94%EB%94%A4%EB%8F%8C-%EC%A0%95%EC%9B%90-%EC%9E%94%EB%94%94-%EA%B8%B8-%EB%B6%84%EC%9E%AC-%EC%9E%A5%EC%8B%9D%EC%9A%A9-%EC%95%BC%EC%99%B8-%EC%9E%A5%EC%8B%9D%EC%84%9D-%EA%B3%A0%EC%96%91%EC%9D%B4-%EC%95%A0%ED%98%B8%EA%B0%80%EB%A5%BC-%EC%9C%84%ED%95%9C-%ED%9C%B4%EC%9D%BC-%EA%B8%B0%EB%85%90%ED%92%88-g-605731264810093.html' />
+				[350] (785,552)<h2 >새 탭에서 열기. />
+					[351] (733,552)<div  />
+						[352] (732,552)<div >인기 추천 />
+							인기 추천
+					[353] (799,552)<span >고양이 발바닥 디딤돌 20개, 수지 정원용 디딤돌, 정원, 잔디, 길, 분재 장식용 야외 장식석, 고양이 애호가를 위한 휴일 기념품 />
+					새 탭에서 열기.
+			[354] (785,534)<div  />
+			[355] (854,552)<div  />
+			[356] (716,552)<div  />
+		[357] (785,582)<div  />
+			[358] (773,582)<div  />
+				[359] (752,582)<div  />
+					[360] (770,582)<div >6,945원 />
+						6,945원
+						[361] (770,583)<div  />
+							[362] (767,582)<span >6,945 />
+							[363] (782,585)<span >원 />
+					[364] (737,584)<div  />
+						[365] (736,584)<span >원가 10,933원
+원 />
+							원가 10,933원
+							[366] (734,583)<span >10,933 />
+							원
+				[367] (807,585)<div  />
+					[368] (805,589)<div  />
+						[369] (806,584)<div  />
+							[370] (790,581)<div  />
+							[371] (809,584)<span >9,052판매됨 />
+								[372] (801,584)<span >9,052 />
+								[373] (817,584)<span >판매됨 />
+								9,052판매됨
+			[374] (841,582)<div  />
+				[375] (841,582)<div aria-label='장바구니에 담기' class='_3nOB8RhB _1eNOXhtH' role='button' />
+					[376] (841,582)<div  />
+		[377] (785,609)<div  />
+			[378] (758,609)<div >베스트셀러 상품 - 야외 장식 />
+				베스트셀러 상품 - 야외 장식
+				[379] (758,609)<div  />
+					[380] (758,609)<div  />
+						[381] (758,609)<div  />
+							[382] (744,609)<span >베스트셀러 상품 />
+							[383] (784,609)<span >야외 장식 />
+		[384] (785,633)<div  />
+			[385] (748,633)<div class='_3UEP91lE' role='region' />
+				[386] (741,634)<div class='oMRVEXZ7 _19DJKl1C' role='img' />
+					[387] (739,634)<div  />
+				[388] (771,634)<span >리뷰 142건 />
+					리뷰 142건
+					[389] (771,634)<span >142 />
+[390] (215,902)<div aria-label='2D 평면 앵무새 울타리 장식 2개 세트, 정원, 파티오, 야외 울타리 장식용, 내후성 - 재사용 가능, H, 2D 평면' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[391] (215,902)<div  />
+		[392] (215,820)<div  />
+			[393] (215,820)<div  />
+				[394] (215,820)<div  />
+					[395] (215,820)<div  />
+						[396] (274,692)<div >광고 />
+					[397] (215,939)<div  />
+						[398] (215,939)<div  />
+							[399] (163,939)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 _2Hxnz2ye UdkGbCQU' role='button' />
+								[400] (163,939)<span  />
+									[401] (165,939)<span  />
+			[402] (215,676)<div  />
+			[403] (284,820)<div  />
+			[404] (146,820)<div  />
+		[405] (215,976)<div  />
+			[406] (215,976)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/2d-%ED%8F%89%EB%A9%B4-%EC%95%B5%EB%AC%B4%EC%83%88-%EC%9A%B8%ED%83%80%EB%A6%AC-%EC%9E%A5%EC%8B%9D-2%EA%B0%9C-%EC%84%B8%ED%8A%B8-%EC%A0%95%EC%9B%90-%ED%8C%8C%ED%8B%B0%EC%98%A4-%EC%95%BC%EC%99%B8-%EC%9A%B8%ED%83%80%EB%A6%AC-%EC%9E%A5%EC%8B%9D%EC%9A%A9-%EB%82%B4%ED%9B%84%EC%84%B1-%EC%9E%AC%EC%82%AC%EC%9A%A9-%EA%B0%80%EB%8A%A5-h-2d-%ED%8F%89%EB%A9%B4-g-605892124721941.html' />
+				[407] (215,976)<h2 >새 탭에서 열기. />
+					[408] (162,976)<div  />
+						[409] (161,976)<div >인기 추천 />
+							인기 추천
+					[410] (228,976)<span >2D 평면 앵무새 울타리 장식 2개 세트, 정원, 파티오, 야외 울타리 장식용, 내후성 - 재사용 가능, H, 2D 평면 />
+					새 탭에서 열기.
+			[411] (215,959)<div  />
+			[412] (284,976)<div  />
+			[413] (146,976)<div  />
+		3,728원
+		3,728
+		원
+		72
+		판매됨
+		72판매됨
+[414] (357,902)<div aria-label='마녀 벨 문 손잡이 보호 마법을 위한 동동 벨 할로윈 마녀 벨 - 보헤미안 라탄 윈드 차임 (크리스탈 & 비즈 장식) 전통적 으스스한 홈 데코 (문 손잡이/정원/방 장식) 배터리 불필요 할로윈 장식품 정원 장식 러스틱 매력 자연스러운 텍스처' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[415] (357,902)<div  />
+		[416] (357,820)<div  />
+			[417] (357,820)<div  />
+				[418] (357,820)<div  />
+					[419] (357,820)<div  />
+						[420] (416,692)<div >광고 />
+					[421] (357,939)<div  />
+						[422] (357,939)<div  />
+							[423] (305,939)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 _2Hxnz2ye UdkGbCQU' role='button' />
+								[424] (305,939)<span  />
+									[425] (307,939)<span  />
+			[426] (357,676)<div  />
+			[427] (288,820)<div  />
+		[428] (357,976)<div  />
+			[429] (357,976)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/%EB%A7%88%EB%85%80-%EB%B2%A8-%EB%AC%B8-%EC%86%90%EC%9E%A1%EC%9D%B4-%EB%B3%B4%ED%98%B8-%EB%A7%88%EB%B2%95%EC%9D%84-%EC%9C%84%ED%95%9C-%EB%8F%99%EB%8F%99-%EB%B2%A8-%ED%95%A0%EB%A1%9C%EC%9C%88-%EB%A7%88%EB%85%80-%EB%B2%A8--%EB%9D%BC%ED%83%84-%EC%9C%88%EB%93%9C-%EC%B0%A8%EC%9E%84--%EB%B9%84%EC%A6%88-%EC%9E%A5%EC%8B%9D-%EC%A0%84%ED%86%B5%EC%A0%81-%EC%9C%BC%EC%8A%A4%EC%8A%A4%ED%95%9C-%ED%99%88-%EB%8D%B0%EC%BD%94-%EB%AC%B8-%EC%86%90%EC%9E%A1%EC%9D%B4-%EC%A0%95%EC%9B%90-%EB%B0%A9-%EC%9E%A5%EC%8B%9D-%EB%B0%B0%ED%84%B0%EB%A6%AC-%EB%B6%88%ED%95%84%EC%9A%94-%ED%95%A0%EB%A1%9C%EC%9C%88-%EC%9E%A5%EC%8B%9D%ED%92%88-%EC%A0%95%EC%9B%90-%EC%9E%A5%EC%8B%9D-%EB%9F%AC%EC%8A%A4%ED%8B%B1-%EB%A7%A4%EB%A0%A5-%EC%9E%90%EC%97%B0%EC%8A%A4%EB%9F%AC%EC%9A%B4-%ED%85%8D%EC%8A%A4%EC%B2%98-g-605126764949938.html' />
+				[430] (357,976)<h2 >마녀 벨 문 손잡이 보호 마법을 위한 동동 벨 할로윈 마녀 벨 - 보헤미안 라탄 윈드 차임 (크리스탈 & 비즈 장식) 전통적 으스스한 홈 데코 (문 손잡이/정원/방 장식) 배터리 불필요 할로윈 장식품 정원 장식 러스틱 매력 자연스러운 텍스처
+새 탭에서 열기. />
+					[431] (335,976)<div  />
+						[432] (315,976)<div >인기 추천 />
+							인기 추천
+						[433] (360,976)<div class='_1O9WmJi_ _9Y1bI7Z0 _2goKs_0n' role='button' />
+							[434] (347,976)<img  />
+							[435] (364,976)<span >국내발송 />
+					마녀 벨 문 손잡이 보호 마법을 위한 동동 벨 할로윈 마녀 벨 - 보헤미안 라탄 윈드 차임 (크리스탈 & 비즈 장식) 전통적 으스스한 홈 데코 (문 손잡이/정원/방 장식) 배터리 불필요 할로윈 장식품 정원 장식 러스틱 매력 자연스러운 텍스처
+					새 탭에서 열기.
+			[436] (357,959)<div  />
+			[437] (288,976)<div  />
+		4,951원
+		4,951
+		원
+		원가 5,988원
+		5,988
+		원
+		3
+		판매됨
+		3판매됨
+[438] (500,676)<div  />
+인기 추천
+55개 초대형 야광 조약돌 - 수족관, 결혼식 장면, 할로윈, 테라스, 정원용 꿈 같은 장식 | 실내 별빛 분위기 연출, 로맨틱 야간 조명 돌 야외, 사계절 사용, 연못 장식 돌, 발광 특성
+새 탭에서 열기.
+2,382원
+2,382
+원
+632
+판매됨
+632판매됨
+[439] (643,902)<div aria-label='1개 해안 레진 불가사리 풍경 벨 - 가정, 파티오, 현관용 해양 해변 장식 | 파란색 불가사리, 나무 구슬, 소박한 금속 벨 | 여름, 해안, 지중해 및 보헤미안 스타일의 해양 테마 걸이 장식' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[440] (643,902)<div  />
+		[441] (643,820)<div  />
+			[442] (643,820)<div  />
+				[443] (643,820)<div  />
+					[444] (643,820)<div  />
+					[445] (643,939)<div  />
+						[446] (643,939)<div  />
+			[447] (643,676)<div  />
+			[448] (712,820)<div  />
+		[449] (643,976)<div  />
+			[450] (643,976)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/1%EA%B0%9C-%ED%95%B4%EC%95%88-%EB%A0%88%EC%A7%84--%ED%92%8D%EA%B2%BD-%EB%B2%A8-%EA%B0%80%EC%A0%95-%ED%8C%8C%ED%8B%B0%EC%98%A4-%ED%98%84%EA%B4%80%EC%9A%A9-%ED%95%B4%EC%96%91-%ED%95%B4%EB%B3%80-%EC%9E%A5%EC%8B%9D-%ED%8C%8C%EB%9E%80%EC%83%89--%EB%82%98%EB%AC%B4-%EA%B5%AC%EC%8A%AC-%EC%86%8C%EB%B0%95%ED%95%9C-%EA%B8%88%EC%86%8D-%EB%B2%A8-%EC%97%AC%EB%A6%84-%ED%95%B4%EC%95%88-%EC%A7%80%EC%A4%91%ED%95%B4-%EB%B0%8F--%EC%8A%A4%ED%83%80%EC%9D%BC%EC%9D%98-%ED%95%B4%EC%96%91-%ED%85%8C%EB%A7%88-%EA%B1%B8%EC%9D%B4-%EC%9E%A5%EC%8B%9D-g-605516717775422.html' />
+				[451] (643,976)<h2 >새 탭에서 열기. />
+					[452] (643,976)<span >1개 해안 레진 불가사리 풍경 벨 - 가정, 파티오, 현관용 해양 해변 장식 | 파란색 불가사리, 나무 구슬, 소박한 금속 벨 | 여름, 해안, 지중해 및 보헤미안 스타일의 해양 테마 걸이 장식 />
+					새 탭에서 열기.
+			[453] (643,959)<div  />
+			[454] (712,976)<div  />
+		3,097원
+		3,097
+		원
+		원가 4,786원
+		4,786
+		원
+		1,945
+		판매됨
+		1,945판매됨
+[455] (785,902)<div aria-label='2D 아크릴 독수리 풍경, 구리 벨 - 야외 정원 및 파티오 장식, 야외 공간 및 안뜰 장식에 적합, 밝은 색상 디자인과 정교한 깃털 장인 정신 특징' class='Ois68FAW _3qGJLBpe _2Y2Y4-8H GLHvMp17' role='group' />
+	[456] (785,902)<div  />
+		[457] (785,820)<div  />
+			[458] (785,820)<div  />
+				[459] (785,820)<div  />
+					[460] (785,820)<div  />
+						[461] (845,692)<div >광고 />
+					[462] (785,939)<div  />
+						[463] (785,939)<div  />
+							[464] (733,939)<div class='_2ugbvrpI _1TeP2qll _28_m8Owy _3RLRwCY0 _2Hxnz2ye UdkGbCQU' role='button' />
+								[465] (734,939)<span  />
+									[466] (735,939)<span  />
+			[467] (785,676)<div  />
+			[468] (854,820)<div  />
+			[469] (716,820)<div  />
+		[470] (785,976)<div  />
+			[471] (785,976)<a class='_2Tl9qLr1 _1ak1dai3' href='/kr/2d-%EC%95%84%ED%81%AC%EB%A6%B4-%EB%8F%85%EC%88%98%EB%A6%AC-%ED%92%8D%EA%B2%BD-%EA%B5%AC%EB%A6%AC-%EB%B2%A8-%EC%95%BC%EC%99%B8-%EC%A0%95%EC%9B%90-%EB%B0%8F-%ED%8C%8C%ED%8B%B0%EC%98%A4-%EC%9E%A5%EC%8B%9D-%EC%95%BC%EC%99%B8-%EA%B3%B5%EA%B0%84-%EB%B0%8F-%EC%95%88%EB%9C%B0-%EC%9E%A5%EC%8B%9D%EC%97%90-%EC%A0%81%ED%95%A9-%EB%B0%9D%EC%9D%80-%EC%83%89%EC%83%81-%EB%94%94%EC%9E%90%EC%9D%B8%EA%B3%BC-%EC%A0%95%EA%B5%90%ED%95%9C-%EA%B9%83%ED%84%B8-%EC%9E%A5%EC%9D%B8-%EC%A0%95%EC%8B%A0-%ED%8A%B9%EC%A7%95-g-606183645613167.html' />
+				[472] (785,976)<h2 >새 탭에서 열기. />
+					[473] (733,976)<div  />
+						[474] (732,976)<div >인기 추천 />
+							인기 추천
+					[475] (799,976)<span >2D 아크릴 독수리 풍경, 구리 벨 - 야외 정원 및 파티오 장식, 야외 공간 및 안뜰 장식에 적합, 밝은 색상 디자인과 정교한 깃털 장인 정신 특징 />
+					새 탭에서 열기.
+			[476] (785,959)<div  />
+			[477] (854,976)<div  />
+			[478] (716,976)<div  />
+		4,621원
+		4,621
+		원
+		104
+		판매됨
+		104판매됨
+[479] (983,882)<div  />
+	[480] (983,882)<div class='_1A56ey7K _2VcQ2ZrB' id='bg-chat-entry' role='button' />
+		[481] (983,873)<div  />
+			[482] (983,872)<div  />
+		[483] (983,896)<div >메시지 />
+			메시지
+			[484] (983,896)<div  />
+[485] (983,943)<div  />
+	[486] (983,943)<div class='_2e0jpr6E' role='button' />
+		[487] (983,933)<div  />
+		[488] (983,958)<div >피드백 />
+
+</current_dom>

@@ -1,0 +1,63 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (130,89)<div class='scroll_ctgr' scrollable='true' />
+	아이웍스PC
+	추천조립PC
+	프리미엄PC
+	[1] (129,117)<dd class='ls_mid ' id='ls_mid1003' />
+		[2] (81,117)<label >브랜드PC />
+	[3] (129,158)<dd class='ls_mid ' id='ls_mid1169' />
+		[4] (81,158)<label >올인원PC />
+	[5] (129,200)<dd class='ls_mid ' id='ls_mid1005' />
+		[6] (77,200)<label >미니PC />
+데스크탑ㆍ조립PC
+무료배송
+행사제품보기
+총
+7,250
+건
+[7] (272,815)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[8] (88,524)<a class='imgbox' href='javascript:detail_show('1298544')' title='[제품코드:1298544]' />
+	[HP] 24-CR0021KR Intel N100 (8GB/256GB/Win11Home) [기본제품][1298544]
+	컨슈머/기본제품/24형/인텔 N100/12세대 엘더레이크/8GB RAM/256GB SSD/HDD없음/1920x1080 (FHD)/내장그래픽/Windows11Home/1년/HP올인원PC/HP데스크탑/HP일체형PC/HP올인원데스크탑/HP일체형데스크탑/올인원PC/일체형PC
+	무료배송
+	특가
+	판매가격
+	849,000
+	829,000
+	담기
+	[9] (88,750)<a class='imgbox' href='javascript:detail_show('1315555')' title='[제품코드:1315555]' />
+	[10] (236,768)<a class='imgbox' href='javascript:detail_show('1315555')'>[Dell] Pro Slim Essential QVS1260-UB01KR (i3-14100/8GB/512GB/Ubuntu) [기본제품] ▶컴퓨존 단독 최저가◀[1315555]
+Dell / 기본제품 / 슬림타워 / 랩터레이크R(14세대) / 인텔 코어 i3 / ~8GB RAM / 512GB SSD 이하 / HDD 미포함 / Ubuntu / 내장그래픽 / DisplayPort / HDMI / USB3.2 / USB2.0 / ODD미포함 / 무선랜 / 블루투스 / 커머셜 />
+		[Dell] Pro Slim Essential QVS1260-UB01KR (i3-14100/8GB/512GB/Ubuntu) [기본제품] ▶컴퓨존 단독 최저가◀[1315555]
+	판매가격
+	899,000
+	799,000
+	[11] (453,772)<a class='buttons' href='javascript:select_basket('1315555','N',1);' id='basket1315555' />
+		[12] (453,772)<span >담기 />
+	[13] (88,938)<a class='imgbox' href='javascript:detail_show('1301137')' title='[제품코드:1301137]' />
+	[14] (236,957)<a class='imgbox' href='javascript:detail_show('1301137')'>커머셜 / Dell Pro / 기본제품 / 미들타워 / 애로우레이크(S2) / 인텔 코어 울트라5 / 16GB RAM(슬롯 1/2) / 512GB SSD / HDD 미포함 / Windows11 Pro / 내장그래픽 / DisplayPort / HDMI / USB3.2 / USB2.0 / USBType-C / ODD미포함 / 무선랜 / 블루투스 />
+		[15] (236,911)<b >[Dell] Pro Tower QCT1250 (Ultra5 235/16GB/512GB/Win11Pro) [기본제품] ▶한정 수량 특가◀[1301137] />
+	판매가격
+	1,599,000
+	1,499,000
+	담기
+총 견적금액
+0
+원
+전체수량변경
+전체선택
+관심상품추가
+[16] (760,482)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[17] (760,483)<span >장바구니담기 />
+[18] (815,482)<a class='wbtn' />
+	[19] (815,483)<span >견적서출력 />
+[20] (871,482)<a class='wbtn' href='javascript:speck_form();' />
+	[21] (871,483)<span >사양검토요청 />
+[22] (919,482)<a class='wbtn' href='javascript:sess_init();' />
+	[23] (919,483)<span >초기화 />
+상품을 선택해주세요
+
+</current_dom>

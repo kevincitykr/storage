@@ -1,0 +1,82 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Opal
+Experiment
+[0] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[1] (949,40)<span >settings />
+[2] (978,40)<button id='toggle-user-menu' />
+	[3] (978,40)<span >person />
+[4] (500,540)<bb-project-listing scrollable='true' />
+	Build, edit and share mini-AI apps using natural language
+	Your Opal apps
+	[5] (739,340)<button  />
+		[6] (724,340)<span >search />
+		[7] (747,340)<span >Search />
+	[8] (821,340)<button class='md-title-small sans-flex w-400 round' id='create-new-button-inline'>Create New />
+		[9] (792,340)<span  />
+	[10] (210,652)<div class=' board mine ' />
+		[11] (210,652)<img  />
+		[12] (145,486)<button class=' overflow-pin ' />
+			[13] (145,486)<span  />
+		[14] (278,492)<button class='overflow-menu' />
+			[15] (278,492)<span >more_vert />
+		[16] (213,745)<div  />
+			[17] (213,710)<h4 >Pratfall Effect Explainer />
+			[18] (213,802)<p >Create 10 16:9 images illustrating the Pratfall Effect concept. />
+	[19] (400,652)<div class=' board mine ' />
+		[20] (400,652)<img  />
+		[21] (335,486)<button class=' overflow-pin ' />
+			[22] (335,486)<span  />
+		[23] (468,492)<button class='overflow-menu' />
+			[24] (468,492)<span >more_vert />
+		[25] (403,771)<div  />
+			[26] (403,736)<h4 >Seoul Night View />
+			[27] (403,802)<p >Generate a beautiful 16:9 night view of Seoul. />
+	[28] (590,652)<div class=' board mine ' />
+		[29] (590,652)<img  />
+		[30] (525,486)<button class=' overflow-pin ' />
+			[31] (525,486)<span  />
+		[32] (658,492)<button class='overflow-menu' />
+			[33] (658,492)<span >more_vert />
+		[34] (593,771)<div  />
+			[35] (593,736)<h4 >AI Series Creator />
+			[36] (593,802)<p >Create a 4-part AI influencer video series. />
+	[37] (780,652)<div class=' board mine ' />
+		[38] (780,652)<img  />
+		[39] (715,486)<button class=' overflow-pin ' />
+			[40] (715,486)<span  />
+		[41] (848,492)<button class='overflow-menu' />
+			[42] (848,492)<span >more_vert />
+		[43] (783,745)<div  />
+			[44] (783,710)<h4 >Video Dashboard />
+			[45] (783,802)<p >Create an interactive dashboard from your video data. />
+	[46] (210,1103)<div class=' board mine ' />
+		[47] (210,1103)<img  />
+		[48] (145,938)<button class=' overflow-pin ' />
+			[49] (145,938)<span  />
+		[50] (278,943)<button class='overflow-menu' />
+			[51] (278,943)<span >more_vert />
+	[52] (400,1103)<div class=' board mine ' />
+		[53] (400,1103)<img  />
+		[54] (335,938)<button class=' overflow-pin ' />
+			[55] (335,938)<span  />
+		[56] (468,943)<button class='overflow-menu' />
+			[57] (468,943)<span >more_vert />
+	[58] (590,1103)<div class=' board mine ' />
+		[59] (590,1103)<img  />
+		[60] (525,938)<button class=' overflow-pin ' />
+			[61] (525,938)<span  />
+		[62] (658,943)<button class='overflow-menu' />
+			[63] (658,943)<span >more_vert />
+	[64] (780,1103)<div class=' board mine ' />
+		[65] (780,1103)<img  />
+		[66] (715,938)<button class=' overflow-pin ' />
+			[67] (715,938)<span  />
+		[68] (848,943)<button class='overflow-menu' />
+			[69] (848,943)<span >more_vert />
+[70] (712,928)<button id='close' />
+	[71] (712,928)<span  />
+
+</current_dom>

@@ -1,0 +1,15 @@
+# Task: Economy Factory Script Generation Automation
+
+## Plan
+1. [x] Navigate to http://127.0.0.1:5000/economy
+2. [/] Click 'GENERATE SCRIPT' on '자본주의 생존자들' card (Batched attempt)
+3. [/] Handle confirmation dialog (Batched attempt)
+4. [ ] Monitor console for progress
+5. [ ] Verify status changed to 'RUNNING'
+
+## Progress
+- Navigated to the economy dashboard.
+- Located '자본주의 생존자들' card.
+- Attempted clicking multiple times, but status remained 'ACTIVE'.
+- No DOM modal found; likely a browser `confirm()`.
+- Plan: Use a batched tool call (Click -> Wait -> Enter) to handle the browser dialog.

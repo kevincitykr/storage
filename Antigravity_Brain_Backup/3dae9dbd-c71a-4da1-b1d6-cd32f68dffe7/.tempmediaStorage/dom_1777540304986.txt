@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+신규: API 비용 관리
+실수로 초과 지출하는 것을 방지하기 위해 월별 지출 한도를 설정하세요.
+[0] (287,462)<button aria-label='둘러보기 닫기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button xap-tour-exit-button gmat-mdc-button-with-prefix mat-unthemed' />
+	[1] (287,462)<mat-icon class='mat-icon notranslate overlay-icon google-symbols mat-icon-no-color' role='img'>close />
+[2] (178,609)<a aria-label='추가 자료' class='mdc-button mat-mdc-button-base gmat-mdc-button xap-tour-navigation mat-mdc-button mat-unthemed ng-star-inserted' href='/spend' />
+	[3] (178,609)<span >지출 한도 만들기 />
+We have updated our
+Terms of Service
+Dismiss
+[4] (500,243)<label class='input-wrapper ng-star-inserted' />
+	[5] (500,243)<div  />
+		[6] (320,243)<span >search />
+		[7] (497,243)<input aria-label='Start a chat or vibe code an app' class='ng-untouched ng-valid ng-dirty' placeholder='Start a chat or vibe code an app' role='combobox' />
+		[8] (678,243)<button aria-label='Submit' class='action-button ng-star-inserted' />
+			[9] (678,243)<span >arrow_forward />
+[10] (500,345)<li aria-label='Start a chat: AIzaSyBvDNNFJqWJxs2ktJzQ_GsVKU_rm0DNe3k. Start a chat in playground' class='result-item ng-star-inserted' id='omnibar-item-0' role='option' />
+	[11] (327,345)<div  />
+		[12] (327,345)<span >chat_spark />
+	[13] (514,345)<div  />
+		[14] (514,332)<span >Start a chat: AIzaSyBvDNNFJqWJxs2ktJzQ_GsVKU_rm0DNe3k />
+		[15] (514,360)<p >Start a chat in playground />
+[16] (500,427)<li aria-label='Build an app: AIzaSyBvDNNFJqWJxs2ktJzQ_GsVKU_rm0DNe3k. Vibe code an app' class='result-item ng-star-inserted' id='omnibar-item-1' role='option' />
+	[17] (327,427)<div  />
+		[18] (327,427)<span >design_services />
+	[19] (514,427)<div  />
+		[20] (514,414)<span >Build an app: AIzaSyBvDNNFJqWJxs2ktJzQ_GsVKU_rm0DNe3k />
+		[21] (514,442)<p >Vibe code an app />
+menu_open
+expand_more
+chevron_left
+Dashboard
+API Keys
+프로젝트
+사용량
+비율 제한
+지출
+결제
+로그 및 데이터 세트
+변경 로그
+arrow_outward
+search
+Search
+notifications
+What's new
+key
+Get API key
+settings
+Settings
+kkseob0116@gmail.com
+[22] (572,543)<div class='layout-main ng-tns-c3872533921-0' scrollable='true' />
+	API 키
+	docs
+	API 빠른 시작
+	key
+	API 키 만들기
+	그룹화 기준
+	API Key
+	프로젝트
+	필터링 기준
+	모든 프로젝트
+	키
+	프로젝트
+	생성일
+	결제 등급
+	...kRU0
+	Gemini API Key
+	kevin1231
+	gen-lang-client-0762672309
+	2026. 4. 26.
+	결제 설정
+	무료 등급
+	content_copy
+	paid
+	bar_chart
+	more_vert
+	...Ne3k
+	kevincity
+	kevin1231
+	gen-lang-client-0762672309
+	2025. 12. 31.
+	결제 설정
+	무료 등급
+	content_copy
+	paid
+	bar_chart
+	more_vert
+	여기에 API 키가 표시되지 않나요?
+	이 목록에는 Google AI Studio로 가져온 프로젝트의 API 키만 표시됩니다. 연결된 API 키를 관리하려면 다른 프로젝트를 가져오세요. 위에서 새 API 키를 만들 수도 있습니다.
+	자세히 알아보기
+	프로젝트 가져오기
+2 results available
+
+</current_dom>

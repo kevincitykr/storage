@@ -1,0 +1,98 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (601,47)<button class='btn_next' />
+[1] (183,47)<button class='btn_prev' />
+2
+/
+4
+[2] (815,7)<button class='button__control' />
+[3] (817,47)<button aria-label='Next slide' class='btn_next' role='button' />
+[4] (632,47)<button aria-label='Previous slide' class='btn_prev' role='button' />
+[5] (349,175)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[6] (536,175)<button class='btn_search'>검색 />
+	검색
+[7] (581,175)<a class='btn_esti_02 btn_srch_reset' href='javascript:;' id='searchProductReset'>검색 초기화 />
+	[8] (562,174)<span  />
+마이크론 DDR5 32GB
+에 대한 검색결과입니다.
+[9] (200,300)<label >전체
+(34) />
+	(34)
+[10] (286,300)<label >메모리
+(34) />
+	(34)
+[11] (202,531)<a >인기상품순 />
+[12] (261,531)<a >신상품순 />
+[13] (321,531)<a >낮은 가격순 />
+[14] (380,531)<a >높은 가격순 />
+[15] (439,531)<a >상품명순 />
+[16] (586,533)<button class='btn__search-detail' id='searchDetailButton'>결과 내 검색 />
+[17] (392,1218)<div class='scroll_box' scrollable='true' />
+	상품에 대한 품목 및 최저가에 대한 리스트입니다.
+	상품
+	품목
+	선택
+	[18] (187,589)<a class='btn_compare'>비교 />
+		비교
+	[19] (341,598)<a >마이크론 Crucial DDR5-5600 CL46 대원씨티에스 (32GB) />
+	[20] (384,623)<a class='spec'>데스크탑용 / DDR5 / 5600MHz (PC5-44800) / 램타이밍:CL46-45-45 / 1.10V / 램개수:1개 / 온다이ECC / 히트싱크:미포함 / 모듈제조사:마이크론 />
+	[21] (257,656)<div class='ninety_help distribution' />
+		[22] (256,656)<span >다나와유통 />
+	[23] (292,656)<a class='icon_style btn_review'>상품의견 />
+	597,300
+	원
+	[24] (578,648)<a class='btn_choice2 wishAction'>담기 />
+	[25] (187,711)<a class='btn_compare'>비교 />
+		비교
+	[26] (312,739)<a >타무즈 노트북 DDR5-5600 CL46 (32GB) />
+	[27] (384,764)<a class='spec'>노트북용 / DDR5 / 5600MHz (PC5-44800) / 램타이밍:CL46-45-45-90 / 1.10V / 램개수:1개 / 온다이ECC / 히트싱크:미포함 / 높이:30mm / 모듈제조사:마이크론 />
+	606,620
+	원
+	[28] (578,769)<a class='btn_choice2 wishAction'>담기 />
+	[29] (187,833)<a class='btn_compare'>비교 />
+		비교
+	[30] (319,842)<a >마이크론 Crucial DDR5-5600 CL46 (32GB) />
+	[31] (384,867)<a class='spec'>데스크탑용 / DDR5 / 5600MHz (PC5-44800) / 램타이밍:CL46-45-45 / 1.10V / 램개수:1개 / 온다이ECC / 히트싱크:미포함 / 모듈제조사:마이크론 />
+	[32] (253,900)<a class='icon_style btn_review'>상품의견 />
+	592,410
+	원
+	[33] (578,891)<a class='btn_choice2 wishAction'>담기 />
+	[34] (187,954)<a class='btn_compare'>비교 />
+		비교
+	[35] (378,964)<a >마이크론 Crucial DDR5-5600 CL46 PRO 패키지 대원씨티에스 (32GB(16Gx2)) />
+	[36] (384,988)<a class='spec'>데스크탑용 / DDR5 / 5600MHz (PC5-44800) / 램타이밍:CL46-45-45 / 1.10V / 램개수:2개 / XMP3.0 / EXPO / 온다이ECC / 히트싱크:방열판 / 방열판 색상:블랙 / 높이:31.9mm />
+	633,950
+	원
+[37] (673,171)<a href='javascript:;'>현금 최저가 />
+[38] (776,171)<a href='javascript:;'>카드 최저가 />
+[39] (651,222)<a href='javascript:;' role='button'>견적카트 />
+[40] (741,222)<a class='btn__estimate-login checkLogin' href='javascript:;'>로그인하여 저장한 견적들을 확인해보세요. />
+[41] (724,935)<div class='pd_list_area' scrollable='true' />
+	PC 주요구성
+	[42] (747,279)<a class='btn_close_cell' />
+	[43] (721,330)<a class='pd_item_title' href='#'>CPU />
+	[44] (713,372)<a >인텔 코어i7-14세대 14700 (랩터레이크 리프레시) (정품) />
+	[45] (654,397)<input class='input_qnt' title='주문수량 선택' />
+	[46] (666,397)<button class='btn_qnt_up' title='수량 증가' />
+	635,580
+	원
+	[47] (798,396)<a class='btn_delete_cell' />
+	[48] (721,452)<a class='pd_item_title' href='#'>쿨러/튜닝 />
+	[49] (721,507)<a class='pd_item_title' href='#'>메인보드 />
+	[50] (675,548)<a >MSI MAG B760M 박격포 II />
+	[51] (654,574)<input class='input_qnt' title='주문수량 선택' />
+	[52] (666,574)<button class='btn_qnt_up' title='수량 증가' />
+	181,390
+	원
+	[53] (798,573)<a class='btn_delete_cell' />
+	[54] (721,629)<a class='pd_item_title' href='#'>메모리 />
+	[55] (721,684)<a class='pd_item_title' href='#'>그래픽카드 />
+	[56] (721,739)<a class='pd_item_title' href='#'>SSD />
+	[57] (721,794)<a class='pd_item_title' href='#'>HDD />
+	[58] (721,849)<a class='pd_item_title' href='#'>케이스 />
+	[59] (721,904)<a class='pd_item_title' href='#'>파워 />
+	[60] (721,958)<a class='pd_item_title' href='#'>소프트웨어 />
+
+</current_dom>

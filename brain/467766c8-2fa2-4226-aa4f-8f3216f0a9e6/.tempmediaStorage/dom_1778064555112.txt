@@ -1,0 +1,115 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (327,125)<a class='inline shrink-0' href='/search/5090' />
+	[6] (327,125)<span >5090 />
+		[7] (317,125)<span >11
+. />
+[8] (365,125)<a class='inline shrink-0' href='/search/%EB%8B%88%EC%BD%98' />
+	[9] (365,125)<span >니콘 />
+		[10] (358,125)<span >12
+. />
+[11] (419,125)<a class='inline shrink-0' href='/search/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%B9%B4%EB%93%9C%20%EB%B0%95%EC%8A%A4' />
+	[12] (419,125)<span >포켓몬카드 박스 />
+		[13] (394,125)<span >13
+. />
+[14] (476,125)<a class='inline shrink-0' href='/search/%EC%98%A4%EB%A9%94%EA%B0%80' />
+	[15] (476,125)<span >오메가 />
+		[16] (466,125)<span >14
+. />
+[17] (514,125)<a class='inline shrink-0' href='/search/shf' />
+	[18] (514,125)<span >shf />
+		[19] (509,125)<span >15
+. />
+[20] (666,69)<a href='/product/226595875?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+[35] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[36] (215,187)<span  />
+		[37] (215,187)<div  />
+			[38] (225,187)<span >카테고리 />
+[39] (245,576)<div class='z-auto rounded-none static w-[200px] h-full bg-gray-200 overflow-y-auto scroll-bar' scrollable='true' />
+	[40] (244,266)<a href='/search?category=1' />
+		[41] (244,266)<div >수입명품 />
+	[42] (244,335)<a href='/search?category=2' />
+		[43] (244,335)<div >패션의류 />
+	[44] (244,404)<a href='/search?category=3' />
+		[45] (244,404)<div >패션잡화 />
+	[46] (244,473)<a href='/search?category=4' />
+		[47] (244,473)<div >뷰티 />
+	[48] (244,542)<a href='/search?category=5' />
+		[49] (244,542)<div >출산/유아동 />
+	[50] (244,611)<a href='/search?category=6' />
+		[51] (244,611)<div >모바일/태블릿 />
+	[52] (244,680)<a href='/search?category=7' />
+		[53] (244,680)<div >가전제품 />
+	[54] (244,749)<a href='/search?category=8' />
+		[55] (244,749)<div >노트북/PC />
+	[56] (244,818)<a href='/search?category=9' />
+		[57] (244,818)<div >카메라/캠코더 />
+	[58] (244,887)<a href='/search?category=10' />
+		[59] (244,887)<div >가구/인테리어 />
+	리빙/생활
+[60] (286,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/event/list?searchType=ING' />
+	[61] (286,190)<span >이벤트 />
+[62] (338,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/fraud' />
+	[63] (338,190)<span >사기조회 />
+[64] (395,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/search-price' />
+	[65] (395,190)<span >시세조회 />
+[66] (452,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/contents' />
+	[67] (452,190)<span >읽을거리 />
+[68] (505,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/favorite' />
+	[69] (505,190)<span >내 관심 />
+최근 본 상품
+[70] (904,411)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[71] (886,451)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[72] (886,451)<img  />
+홈
+노트북/PC
+데스크탑/본체
+조립PC
+무료배송
+RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함)
+1,600,000원
+[73] (801,544)<a aria-label='RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 시세조회' class='ga4_product_detail_price' href='/search-price/RTX%204070%20Super%20%2B%20i7-13700F%20%EA%B3%A0%EC%82%AC%EC%96%91%20%EA%B2%8C%EC%9D%B4%EB%B0%8D%20%EB%8D%B0%EC%8A%A4%ED%81%AC%ED%83%91(%EC%9C%88%EB%8F%84%EC%9A%B0%20%ED%8F%AC%ED%95%A8)?productSeq=226595875' />
+	[74] (801,544)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-500 hover:bg-gray-500/5 active:bg-gray-500/10' />
+		[75] (801,544)<span >시세조회 />
+		[76] (801,554)<div  />
+2026.03.22
+408
+8
+10
+무료배송
+직거래
+택배거래
+무료배송
+직거래
+만나서 직거래
+[77] (771,873)<li  />
+	[78] (771,873)<span class='text-13 whitespace-nowrap underline underline-offset-2' role='button'>신촌동 />
+[79] (798,873)<li  />
+	[80] (798,873)<span class='text-13 whitespace-nowrap underline underline-offset-2' role='button'>고등동 />
+상품 상태
+중고, 구성품 없음
+결제 혜택 수수료
+모아보기
+
+</current_dom>

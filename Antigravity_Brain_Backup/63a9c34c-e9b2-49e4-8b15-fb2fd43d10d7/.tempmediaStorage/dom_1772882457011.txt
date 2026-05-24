@@ -1,0 +1,110 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (24,153)<a href='https://domemedb.domeggook.com/index/' id='domeme' title='도매매'>도매매 />
+	[1] (6,152)<img  />
+|
+[2] (93,153)<a href='http://naggama.com/' id='naggama' title='나까마'>나까마 />
+	[3] (75,151)<img  />
+|
+[4] (168,153)<a href='http://campus.domeggook.com/' title='교육센터'>교육센터 />
+	[5] (145,152)<img  />
+|
+[6] (243,153)<a href='https://eggdome.ggook.com/' title='에그돔'>에그돔 />
+	[7] (225,152)<img  />
+[8] (858,153)<a href='/main/member/mem_formLogin.php?back=LzQ4OTk1MDU1P25vPTQ4OTk1MDU1' title='로그인'>로그인 />
+[9] (914,153)<a href='/main/member/mem_formNormal.php?back=LzQ4OTk1MDU1P25vPTQ4OTk1MDU1' title='회원가입'>회원가입 />
+[10] (984,153)<a href='/main/myPage/my_pageMain.php' title='마이페이지'>마이페이지 />
+[11] (83,287)<a href='/main/index.php' />
+	[12] (83,258)<img  />
+[13] (453,267)<div  />
+	[14] (453,267)<div  />
+		[15] (447,259)<span >상품명 />
+		[16] (493,263)<img  />
+[17] (632,266)<input class='kwd' id='searchWordForm' />
+[18] (776,258)<img alt='꾹AI:렌즈' id='lensBtn' title='꾹AI:렌즈' />
+[19] (828,258)<input id='searchWordSubmit' />
+[20] (638,316)<a href='http://domeggook.com/main/mySell/adv/my_psKeywordReg.php'>인기검색어 />
+[21] (669,326)<a  />
+[22] (757,316)<div  />
+	[23] (757,316)<div  />
+		[24] (757,317)<div  />
+			1
+			가방
+			1
+			2
+			키링
+			1
+			3
+			케이스
+			1
+			4
+			양말
+			1
+			5
+			모자
+			2
+			6
+			겨울
+			3
+			7
+			파우치
+			4
+			8
+			크리스마스
+			6
+			[25] (757,317)<div  />
+				[26] (693,316)<div >9 />
+				[27] (723,316)<div  />
+					[28] (723,316)<a href='/main/item/itemList.php?sw=%C0%E5%B0%A9&sf=ttl'>장갑 />
+				[29] (833,316)<div  />
+					[30] (805,318)<div  />
+						[31] (821,318)<img  />
+						[32] (828,318)<span >2 />
+			10
+			거치대
+			2
+[33] (954,258)<a href='https://domemedb.domeggook.com/index/static/partnerShip.php'>서비스 한눈에 보기 />
+[34] (73,374)<div  />
+	[35] (29,375)<img  />
+	[36] (80,374)<span >카테고리 />
+[37] (196,374)<a href='https://1688.domeggook.com/'>1688상품관 />
+[38] (278,374)<a href='/main/item/itemEventBusinessMall.php'>사업자전용 />
+[39] (352,374)<a href='/main/item/itemPackDelivery.php'>묶음배송 />
+[40] (413,374)<a href='/main/item/itemLowestPrice.php'>최저가 />
+[41] (466,374)<a href='/main/item/itemPopular.php'>베스트 />
+[42] (518,374)<a href='/main/item/itemMdPrivate.php'>MD관 />
+[43] (569,374)<a href='/main/item/itemEvent.php?no=866'>땡처리 />
+[44] (623,374)<a href='/main/item/itemEventList.php'>기획전 />
+[45] (676,374)<a href='/main/item/itemSalesPromotion.php'>판촉관 />
+[46] (749,374)<a href='https://domemedb.domeggook.com/index/static/domeggookEvent.php'>이벤트&제휴 />
+[47] (831,374)<a href='/main/item/itemRecomm.php'>추천 />
+	[48] (817,374)<font >꾹AI: />
+[49] (31,443)<li  />
+	[50] (25,442)<a href='/main/'>도매꾹홈 />
+[51] (112,443)<li >디지털/가전 />
+[52] (206,443)<li  />
+	[53] (185,442)<a href='/main/item/itemList.php?ca=17_05_00_00_00'>계절가전 />
+[54] (301,443)<li  />
+	[55] (280,442)<a href='/main/item/itemList.php?ca=17_05_07_00_00'>선풍기 />
+[56] (405,443)<li  />
+	[57] (393,442)<a href='/main/item/itemList.php?ca=17_05_07_01_00'>스탠드형선풍기 />
+[58] (308,942)<a class='thumbLightbox' href='#' title='샤오미 미지아 6세대 선풍기 써큘레이터 스마트 에어 선풍기 탁상 스탠드형 BPLDS06DM' />
+	[59] (308,942)<img  />
+[60] (712,522)<button class='lBtn' id='lBtnShowSellerInfo' />
+	[61] (698,519)<b >싸요싸cheaper />
+	[62] (772,520)<img  />
+[해외]
+샤오미 미지아 6세대 선풍기 써큘레이터 스마트 에어 선풍기 탁상 스탠드형 BPLDS06DM
+83,500
+원
+구매수량
+최소구매수량
+1
+개
+[63] (875,928)<div  />
+	[64] (797,928)<img  />
+	[65] (894,928)<span >꾹AI:톡톡24H챗봇상담 />
+
+</current_dom>

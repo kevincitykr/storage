@@ -1,0 +1,11 @@
+- [x] 환경 및 필수 도구 설치
+  - [x] `winget` 사용 가능 여부 확인
+  - [x] Python 3.12 설치 (환경 구축용)
+  - [x] `uv` 설치 (NotebookLM용)
+  - [x] `Node.js` 설치 (Stitch용)
+  - [x] `Google Cloud CLI` 설치 (Stitch용)
+- [x] MCP 서버 설치
+  - [x] `notebooklm-mcp-server` 설치
+- [/] MCP 서버 설정 및 검증
+  - [ ] 인증 진행 (사용자 수동 작업 필요)
+  - [ ] 클라이언트 설정 적용

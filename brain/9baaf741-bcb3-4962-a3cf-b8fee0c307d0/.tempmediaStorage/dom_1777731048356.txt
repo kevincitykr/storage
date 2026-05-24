@@ -1,0 +1,249 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (72,53)<a href='../main/main.htm' />
+	[1] (72,53)<img  />
+[2] (299,53)<div class='search_bar on' />
+	[3] (277,53)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (408,53)<button aria-label='검색삭제' class='close12_FF' id='search_close_btn' />
+	[5] (430,53)<button aria-label='검색' class='search28_3A' />
+[6] (878,53)<a href='javascript:void(0);'>로그인 />
+[7] (921,53)<a href='../member/member_kind.htm'>회원가입 />
+[8] (968,53)<a href='javascript:void(0);'>상담센터 />
+[9] (29,140)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[10] (64,140)<a class='prev24_6C nav_prev_btn' href='javascript:void(0);' />
+견적
+파격할인
+[11] (104,144)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[12] (159,144)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[13] (209,144)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[14] (273,144)<a href='javascript:void(0);'>컴퓨존추천 />
+[15] (325,144)<a href='javascript:void(0);'>전용관 />
+[16] (367,144)<a href='javascript:void(0);'>매거진 />
+[17] (414,144)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[18] (456,144)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[19] (509,144)<a href='javascript:void(0);'>컴퓨존 라이브 />
+[20] (651,140)<div  />
+	[21] (575,140)<p >공식 />
+	[22] (655,140)<div  />
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+		HP 브랜드스토어
+		[23] (655,140)<div >LG gram & 브랜드스토어 />
+		Microsoft 브랜드스토어
+		AMD 브랜드스토어
+		Intel 브랜드스토어
+		RAZER 브랜드스토어
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+[24] (714,140)<a class='next24_6C nav_next_btn' href='javascript:void(0);' />
+[25] (898,124)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[26] (898,157)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[27] (930,150)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[28] (971,150)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[29] (956,519)<a href='javascript:void(0);' />
+	[30] (946,519)<span  />
+		[31] (946,519)<img  />
+	[32] (968,519)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+HP노트북
+마스터팩
+Dell
+배민5만원
+[33] (956,654)<a href='../event_zone/eventzone_view.htm?EventNo=60917&bannerid=QuickMenuRolling' />
+	[34] (956,654)<img  />
+	[35] (956,684)<p >황야의
+아스널 />
+어린이날
+드론 특가
+[36] (937,736)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+4
+/
+5
+[37] (975,736)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[38] (956,786)<p class='ntRB12 co6C'>최근 본 상품 />
+[39] (956,846)<a href='javascript:;' />
+	[40] (956,846)<img  />
+[41] (940,938)<a href='javascript:void(0);' />
+	[42] (940,938)<img  />
+[43] (973,938)<a href='javascript:void(0);' />
+	[44] (973,938)<img  />
+온라인견적
+[45] (103,391)<li class='cate_tab_all pc cate_tab1' id='cate_tab1'>데스크탑ㆍ조립PC />
+[46] (262,391)<li class='cate_tab_all  cate_tab8' id='cate_tab8'>키보드ㆍ마우스ㆍ저장장치 />
+[47] (420,391)<li class='cate_tab_all  cate_tab88' id='cate_tab88'>스마트폰ㆍ액세서리 />
+[48] (579,391)<li class='cate_tab_all  cate_tab87' id='cate_tab87'>가구ㆍ조명ㆍ전기 />
+[49] (737,391)<li class='cate_tab_all  cate_tab5' id='cate_tab5'>모니터ㆍ모니터주변기기 />
+[50] (896,391)<li class='cate_tab_all  cate_tab11' id='cate_tab11'>프린터ㆍ전산소모품 />
+[51] (103,459)<li class='cate_tab_all pc cate_tab2' id='cate_tab2'>노트북ㆍ태블릿 />
+[52] (262,459)<li class='cate_tab_all  cate_tab7' id='cate_tab7'>음향ㆍ영상ㆍ카메라 />
+[53] (420,459)<li class='cate_tab_all  cate_tab14' id='cate_tab14'>자동차ㆍ공구ㆍ안전 />
+[54] (579,459)<li class='cate_tab_all  cate_tab12' id='cate_tab12'>네트워크ㆍ케이블ㆍCCTV />
+[55] (737,459)<li class='cate_tab_all pc cate_tab3' id='cate_tab3'>Apple />
+[56] (896,459)<li class='cate_tab_all  cate_tab101' id='cate_tab101'>영상가전 />
+[57] (103,528)<li class='cate_tab_all  cate_tab13' id='cate_tab13'>생활가전 />
+[58] (262,528)<li class='cate_tab_all  cate_tab110' id='cate_tab110'>주방가전 />
+[59] (420,528)<li class='cate_tab_all  cate_tab107' id='cate_tab107'>계절가전 />
+[60] (579,528)<li class='cate_tab_all  cate_tab103' id='cate_tab103'>게임ㆍ드론ㆍ완구 />
+[61] (737,528)<li class='cate_tab_all  cate_tab105' id='cate_tab105'>스포츠ㆍ레저 />
+[62] (896,528)<li class='cate_tab_all  cate_tab89' id='cate_tab89'>중고ㆍ리퍼비시 />
+[63] (103,596)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[64] (262,596)<li  />
+[65] (420,596)<li  />
+[66] (579,596)<li  />
+[67] (737,596)<li  />
+[68] (896,596)<li  />
+PC구성
+[69] (187,710)<li class='cate_tab_all cate0 cate_tab_iworks' id='cate_tab_iwork'>아이웍스PC />
+[70] (240,710)<li class='cate_tab_all cate1 cate_tab1012' id='cate_tab1012'>CPU />
+[71] (288,710)<li class='cate_tab_all cate2 cate_tab1013' id='cate_tab1013'>메인보드 />
+[72] (340,710)<li class='cate_tab_all cate3 cate_tab1014' id='cate_tab1014'>메모리 />
+[73] (396,710)<li class='cate_tab_all cate4 cate_tab1016 ON' id='cate_tab1016'>그래픽카드 />
+[74] (447,710)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[75] (487,710)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[76] (531,710)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[77] (573,710)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[78] (631,710)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[79] (693,710)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[80] (740,710)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[81] (796,710)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[82] (857,710)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[83] (924,710)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+[84] (268,824)<dd class='ls_div' id='ls_div0' />
+	[85] (207,824)<label >전체 />
+[86] (268,872)<dd class='ls_div on' id='ls_div2043' />
+	[87] (235,872)<label >NVIDIA 그래픽카드 />
+[88] (268,921)<dd class='ls_div' id='ls_div2042' />
+	[89] (231,921)<label >AMD 그래픽카드 />
+[90] (268,969)<dd class='ls_div' id='ls_div4682' />
+	[91] (233,969)<label >INTEL 그래픽카드 />
+필터
+초기화
+[92] (672,1006)<div class='scroll_opt' scrollable='true' />
+	RTX5060Ti
+	RTX5060
+	RTX5050
+	RTX4080 SUPER
+	RTX4070Ti SUPER
+	RTX4070Ti
+	RTX4070 SUPER
+	RTX4070
+	RTX4060Ti
+	RTX4060
+	RTX3090
+	RTX3070Ti
+	RTX3070
+	RTX3060Ti
+	RTX3060
+	RTX3050
+	RTX2060 SUPER
+	RTX3080
+	GTX시리즈
+	GTX1660 SUPER
+	GTX1650
+	GTX1050Ti
+	기타VGA시리즈
+	GT1030
+	GT730
+	GT710
+	G210
+	연결방식
+	PCI Express 5.0 x16
+	PCI Express 4.0 x16
+	PCI-Express 4.0
+	PCI-Express 3.0
+	PCI-Express 2.0
+	메모리용량
+	32GB
+	24GB
+	16GB
+	12GB
+	8GB
+	6GB
+	4GB
+	2GB
+	1GB
+	512MB이하
+	메모리종류
+	GDDR7
+	GDDR6X
+	GDDR6
+	GDDR6
+	GDDR5
+	DDR6
+	DDR5
+	DDR4
+	DDR3
+	DDR6X
+	메모리버스
+	512bit
+	384bit
+	256bit
+	192bit
+	128bit
+	96bit
+	64bit이하
+	카드형태
+	일반
+	LP(브라켓포함)
+	LP(브라켓미포함)
+	출력단자(HDMI)
+	1개
+	2개
+	4개
+	3개
+	출력단자(DVI)
+	1개
+	출력단자(DP)
+	1개
+	2개
+	3개
+	출력단자(D-sub)
+	1개
+	출력단자
+	DisplayPortx1개
+	DisplayPortx2개
+	DisplayPortx3개
+	HDMIx1개
+	HDMIx2개
+	DVIx1개
+	D-SUBx1개
+	보조전원(Pin)
+	16Pin
+	8Pin x2
+	8Pin
+	6Pin
+	없음
+	GC-HPWR 전용
+	VGA길이
+	[93] (466,917)<input class='ch_bx' id='chk_10930' />
+	[94] (520,916)<label >VGA150mm미만 />
+	[95] (578,917)<input class='ch_bx' id='chk_98970' />
+	[96] (632,916)<label >VGA151~170mm />
+	[97] (690,917)<input class='ch_bx' id='chk_10932' />
+	[98] (745,916)<label >VGA171~190mm />
+	[99] (803,917)<input class='ch_bx' id='chk_10933' />
+	[100] (857,916)<label >VGA191~210mm />
+	VGA211~230mm
+	VGA231~250mm
+	VGA251~270mm
+	VGA271~290mm
+	VGA290mm초과
+	VGA291~310mm
+	VGA311~330mm
+	VGA331~350mm
+	[101] (948,977)<a class='btn_toggle' href='javascript:open_opt(6301);' id='btn_toggle6301' />
+	권장파워용량
+	300W
+	[102] (632,982)<label >350W />
+	[103] (690,983)<input class='ch_bx' id='chk_105756' />
+	[104] (745,982)<label >450W />
+	[105] (803,983)<input class='ch_bx' id='chk_105757' />
+	[106] (857,982)<label >500W />
+
+</current_dom>

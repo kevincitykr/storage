@@ -1,0 +1,18 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to main content
+[0] (183,76)<button class='svg-icon-24-button hamburger-menu flat-icon-button ripple' />
+[1] (817,86)<button aria-label='Search' class='search-expand touch-icon-button' />
+	[2] (817,81)<div  />
+kevincity.com
+Posts
+[3] (325,386)<a href='https://kevinbueno2428.blogspot.com/2025/04/tabla-de-tipos-pokemon.html'>Tabla de Tipos Pokemon />
+[4] (788,382)<button aria-label='Share' class='sharing-button touch-icon-button' id='sharing-button-FeaturedPost1-byline-8435072315971580257' role='button' />
+	[5] (788,376)<div  />
+-
+[6] (243,460)<a class='timestamp-link' href='https://kevinbueno2428.blogspot.com/2025/04/tabla-de-tipos-pokemon.html' title='permanent link' />
+	[7] (243,460)<time >April 09, 2025 />
+
+</current_dom>

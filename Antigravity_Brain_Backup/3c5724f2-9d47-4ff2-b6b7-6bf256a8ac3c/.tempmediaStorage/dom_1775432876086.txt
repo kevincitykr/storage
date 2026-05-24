@@ -1,0 +1,257 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (26,51)<div aria-label='Main menu' class='gb_1c' role='button' />
+[1] (87,54)<a aria-label='Gmail' class='gb_de gb_Vc gb_he' href='#inbox' />
+	[2] (87,51)<img class='gb_0c' role='presentation' />
+[3] (436,49)<input aria-label='Search mail' class='gb_ze aJh afOp8c' placeholder='Search mail' role='combobox' />
+[4] (694,49)<button aria-label='Advanced search options' class='gb_Ue' role='button' />
+[5] (208,49)<button aria-label='Search mail' class='gb_Oe gb_Pe bEP' role='button' />
+[6] (846,51)<a class='gb_se gb_h gb_Ed' id='lZwQje' role='button' />
+	[7] (846,51)<img  />
+[8] (878,51)<a aria-label='Settings' class='FH' role='button' />
+[9] (909,51)<button aria-label='Try Gemini' class='VYBDae-JX-I VYBDae-JX-I-ql-ay5-ays XyWBof' />
+	[10] (909,51)<div  />
+[11] (940,51)<a aria-label='Google apps' class='gb_B' href='https://www.google.co.kr/intl/en/about/products?tab=mh' role='button' />
+[12] (975,51)<a aria-label='Google Account: 김광섭  
+(kevincitykr001@gmail.com)' class='gb_B gb_0a gb_1' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://mail.google.com/mail/&service=mail&ec=GBRAFw' role='button' />
+Enable desktop notifications for Gmail.
+[13] (239,921)<span class='a8k' id='link_enable_notifications' role='link'>OK />
+[14] (288,921)<span class='a8k' id='link_enable_notifications_hide' role='link'>No thanks />
+[15] (338,921)<div aria-label='Close' class='bBe' role='button' />
+[16] (58,158)<div class='T-I T-I-KE L3' role='button'>Compose />
+[17] (61,253)<span  />
+	[18] (61,253)<a aria-label='Inbox 5 unread' class='J-Ke n0' href='https://mail.google.com/mail/u/0/#inbox'>Inbox />
+5
+[19] (64,303)<span  />
+	[20] (64,303)<a aria-label='Starred' class='J-Ke n0' href='https://mail.google.com/mail/u/0/#starred'>Starred />
+[21] (67,354)<span  />
+	[22] (67,354)<a aria-label='Snoozed' class='J-Ke n0' href='https://mail.google.com/mail/u/0/#snoozed'>Snoozed />
+[23] (57,404)<span  />
+	[24] (57,404)<a aria-label='Sent' class='J-Ke n0' href='https://mail.google.com/mail/u/0/#sent'>Sent />
+[25] (61,455)<span  />
+	[26] (61,455)<a aria-label='Drafts' class='J-Ke n0' href='https://mail.google.com/mail/u/0/#drafts'>Drafts />
+[27] (71,506)<span  />
+	[28] (71,506)<a aria-label='Purchases has menu' class='J-Ke n0' href='https://mail.google.com/mail/u/0/#category/purchases'>Purchases />
+[29] (88,556)<span aria-label='More labels' class='J-Ke n4 ah9' id=':5e' role='button' />
+	[30] (59,556)<span >More />
+	[31] (33,556)<span  />
+		[32] (26,556)<div  />
+Labels
+[33] (163,641)<div aria-label='Create new label' class='aAu arN' role='button' />
+Upgrade
+[34] (214,139)<div aria-label='Select' class='T-I J-J5-Ji T-Pm T-I-ax7 L3 J-JN-M-I' id=':21' role='button' />
+	[35] (214,139)<div  />
+		[36] (206,139)<span class='T-Jo J-J5-Ji' role='checkbox' />
+		[37] (221,139)<div  />
+[38] (250,139)<div aria-label='Refresh' class='T-I J-J5-Ji nu T-I-ax7 L3' role='button' />
+	[39] (250,139)<div  />
+[40] (280,139)<div aria-label='More email options' class='T-I J-J5-Ji nf T-I-ax7 L3' id=':23' role='button' />
+	[41] (280,139)<div  />
+[42] (813,139)<div aria-label='Show more messages' class='J-J5-Ji amH J-JN-I' id=':4q' role='button' />
+	[43] (813,139)<span >of />
+		[44] (804,139)<span >– />
+			[45] (799,139)<span >1 />
+			[46] (808,139)<span >6 />
+		[47] (826,139)<span >6 />
+[48] (858,139)<div aria-label='Newer' class='T-I J-J5-Ji amD T-I-awG HeQuj T-I-ax7 T-I-Js-IF T-I-JE L3' id=':4s' role='button' />
+[49] (887,139)<div aria-label='Older' class='T-I J-J5-Ji amD T-I-awG HeQuj T-I-ax7 T-I-Js-Gs T-I-JE L3' id=':4t' role='button' />
+[50] (914,139)<a aria-label='Input tools on/off (Ctrl-Shift-K)' class='d-Na-JX-I d-Na-M7-JX d-Na-axY d-Na-Gs' role='button' />
+[51] (928,139)<a aria-label='Select input tool' class='d-Na-JX-I d-Na-JG d-Na-IF' role='button' />
+	[52] (928,139)<span  />
+[53] (573,576)<div class='Tm aeJ' id=':3' scrollable='true' />
+	[54] (279,221)<div aria-label='Primary, 2 new messages,' class='aAy J-KU-KO aIf-aLe aE2' id=':1y' role='tab' />
+		[55] (206,221)<div  />
+		[56] (264,221)<div >Google — 보안 알림 />
+			[57] (264,201)<div  />
+				[58] (264,220)<div  />
+					[59] (284,220)<div  />
+					[60] (244,220)<div >Primary />
+			Google — 보안 알림
+	[61] (465,221)<div aria-label='Promotions' class='aAy aJi-aLe' id=':1z' role='tab' />
+		[62] (392,221)<div  />
+		[63] (438,221)<div  />
+			[64] (438,201)<div  />
+				[65] (438,220)<div  />
+					[66] (438,220)<div >Promotions />
+	[67] (650,221)<div aria-label='Social' class='aAy aKe-aLe' id=':20' role='tab' />
+		[68] (577,221)<div  />
+		[69] (610,221)<div  />
+			[70] (610,201)<div  />
+				[71] (610,220)<div  />
+					[72] (610,220)<div >Social />
+	Get started with Gmail
+	[73] (235,419)<span aria-label='Customize your inbox' class='OT ' role='button' />
+	[74] (314,419)<div  />
+		[75] (314,420)<span >Customize your inbox />
+	[76] (412,419)<span aria-label='Change profile image' class='OT ' role='button' />
+	[77] (491,419)<div  />
+		[78] (491,420)<span >Change profile image />
+	[79] (590,419)<span aria-label='Import contacts and mail' class='OT ' role='button' />
+	[80] (669,419)<div  />
+		[81] (669,420)<span >Import contacts and mail />
+	[82] (767,419)<span aria-label='Get Gmail for mobile' class='OT ' role='button' />
+	[83] (846,419)<div  />
+		[84] (846,420)<span >Get Gmail for mobile />
+	[85] (922,333)<div aria-label='Dismiss' class='O5' role='button' />
+	[86] (567,550)<tr class='zA zE' id=':26' role='row' />
+		[87] (205,550)<td  />
+			[88] (206,550)<div class='oZ-jc T-Jo J-J5-Ji ' id=':29' role='checkbox' />
+		[89] (232,550)<td  />
+			[90] (228,550)<span aria-label='Not starred' class='aXw T-KT' id=':2a' role='button' />
+		[91] (316,550)<td class='yX xY ulKHrd ' role='gridcell' />
+			[92] (305,550)<div  />
+				[93] (261,549)<span  />
+					[94] (261,549)<span >Google />
+				[95] (284,551)<span >2 />
+		[96] (632,550)<td class='xY a4W' id=':2c' role='gridcell' />
+			[97] (628,550)<div  />
+				[98] (628,550)<div class='xS' role='link' />
+					[99] (628,550)<div  />
+						[100] (410,550)<div  />
+							[101] (410,550)<span  />
+								[102] (410,550)<span >보안 알림 />
+						[103] (648,550)<span >계정에 새 패스키 추가됨 kevincitykr001@gmail.com 내가 패스키를 추가하지 않았다면 다른 사람이 내 계정을 사용하는 것일 수 있습니다. 지금 계정 보안을 점검하고 강화하세요. 활동 확인 다음 페이지에서 보안 활동도 확인할 수 있습니다. https://myaccount.google.com/notifications 이 이메일은 Google 계정 />
+							[104] (435,550)<span >- />
+		[105] (884,550)<td  />
+		[106] (921,550)<td class='xW xY ' role='gridcell' />
+			[107] (924,550)<span  />
+				[108] (924,549)<span >Apr 3 />
+	[109] (567,607)<tr class='zA zE' id=':2j' role='row' />
+		[110] (205,607)<td  />
+			[111] (206,607)<div class='oZ-jc T-Jo J-J5-Ji ' id=':2m' role='checkbox' />
+		[112] (232,607)<td  />
+			[113] (228,607)<span aria-label='Not starred' class='aXw T-KT' id=':2n' role='button' />
+		[114] (316,607)<td class='yX xY ulKHrd ' role='gridcell' />
+			[115] (305,607)<div  />
+				[116] (261,606)<span  />
+					[117] (261,606)<span >Google />
+				[118] (284,607)<span >2 />
+		[119] (632,607)<td class='xY a4W' id=':2p' role='gridcell' />
+			[120] (628,607)<div  />
+				[121] (628,607)<div class='xS' role='link' />
+					[122] (628,607)<div  />
+						[123] (410,607)<div  />
+							[124] (410,607)<span  />
+								[125] (410,607)<span >보안 알림 />
+						[126] (648,607)<span >Windows에서 새로 로그인함 kevincitykr001@gmail.com Windows 기기에서 내 Google 계정에 새로 로그인했습니다. 직접 로그인한 것이 맞다면 아무런 조치를 취하지 않아도 됩니다. 본인이 아니라면 안내에 따라 계정을 보호하세요. 활동 확인 다음 페이지에서 보안 활동도 확인할 수 있습니다. https://myaccount. />
+							[127] (435,607)<span >- />
+		[128] (884,607)<td  />
+		[129] (921,607)<td class='xW xY ' role='gridcell' />
+			[130] (921,607)<span  />
+				[131] (921,606)<span >Mar 25 />
+	[132] (567,664)<tr class='zA yO' id=':2w' role='row' />
+		[133] (205,664)<td  />
+			[134] (206,664)<div class='oZ-jc T-Jo J-J5-Ji ' id=':2z' role='checkbox' />
+		[135] (232,664)<td  />
+			[136] (228,664)<span aria-label='Not starred' class='aXw T-KT' id=':30' role='button' />
+		[137] (316,664)<td class='yX xY ulKHrd ' role='gridcell' />
+			[138] (305,664)<div  />
+				[139] (260,663)<span  />
+					[140] (260,663)<span >Google />
+				[141] (282,664)<span >3 />
+		[142] (632,664)<td class='xY a4W' id=':32' role='gridcell' />
+			[143] (628,664)<div  />
+				[144] (628,664)<div class='xS' role='link' />
+					[145] (628,664)<div  />
+						[146] (472,664)<div  />
+							[147] (472,664)<span  />
+								[148] (472,664)<span >광섭님, YouTube 인증 영상을 만드세요 />
+						[149] (711,664)<span >영상 인증을 사용하여 고급 YouTube 기능을 이용하세요 kevincitykr001@gmail.com 한 번의 영상 인증으로 고급 YouTube 기능을 이용하세요. 스팸 발송자를 제한하고 모두에게 더욱 안전한 커뮤니티를 조성하기 위한 추가 단계입니다. Google의 도움을 받아 휴대전화 카메라를 바라보는 모습을 담은 30초 길이의 동영상을 만듭니다. 원활한 />
+							[150] (560,664)<span >- />
+		[151] (884,664)<td  />
+		[152] (921,664)<td class='xW xY ' role='gridcell' />
+			[153] (922,664)<span  />
+				[154] (922,663)<span >Mar 25 />
+	[155] (567,720)<tr class='zA zE' id=':39' role='row' />
+		[156] (205,720)<td  />
+			[157] (206,720)<div class='oZ-jc T-Jo J-J5-Ji ' id=':3c' role='checkbox' />
+		[158] (232,720)<td  />
+			[159] (228,720)<span aria-label='Not starred' class='aXw T-KT' id=':3d' role='button' />
+		[160] (316,720)<td class='yX xY ulKHrd ' role='gridcell' />
+			[161] (305,720)<div  />
+				[162] (266,720)<span  />
+					[163] (266,720)<span >ChatGPT />
+		[164] (632,720)<td class='xY a4W' id=':3f' role='gridcell' />
+			[165] (628,720)<div  />
+				[166] (628,720)<div class='xS' role='link' />
+					[167] (628,720)<div  />
+						[168] (439,720)<div  />
+							[169] (439,720)<span  />
+								[170] (439,720)<span >계정 설정을 완료하세요 />
+						[171] (678,720)<span >1분이면 됩니다 설정을 이어서 완료하세요 몇 단계만 더 진행하면 무료 ChatGPT 계정을 만들 수 있습니다. 지금까지 입력한 정보는 모두 저장되어 있으니 이어서 필요한 정보만 입력하세요. 계정 설정하러 가기 감사합니다. ChatGPT 팀 드림 If you have any questions please contact us through our help />
+							[172] (494,720)<span >- />
+		[173] (884,720)<td  />
+		[174] (921,720)<td class='xW xY ' role='gridcell' />
+			[175] (922,720)<span  />
+				[176] (922,720)<span >Mar 19 />
+	[177] (567,777)<tr class='zA zE' id=':3m' role='row' />
+		[178] (205,777)<td  />
+			[179] (206,777)<div class='oZ-jc T-Jo J-J5-Ji ' id=':3p' role='checkbox' />
+		[180] (232,777)<td  />
+			[181] (228,777)<span aria-label='Not starred' class='aXw T-KT' id=':3q' role='button' />
+		[182] (316,777)<td class='yX xY ulKHrd ' role='gridcell' />
+			[183] (305,777)<div  />
+				[184] (261,777)<span  />
+					[185] (261,777)<span >Google />
+		[186] (632,777)<td class='xY a4W' id=':3s' role='gridcell' />
+			[187] (628,777)<div  />
+				[188] (628,777)<div class='xS' role='link' />
+					[189] (628,777)<div  />
+						[190] (410,777)<div  />
+							[191] (410,777)<span  />
+								[192] (410,777)<span >보안 알림 />
+						[193] (648,777)<span >복구 전화번호가 변경됨 kevincitykr001@gmail.com 계정의 복구 전화번호가 변경되었습니다. 변경한 적이 없는 경우 계정 활동기록을 확인하시기 바랍니다. 활동 확인 다음 페이지에서 보안 활동도 확인할 수 있습니다. https://myaccount.google.com/notifications 이 이메일은 Google 계정 및 서비스의 중요한 변경 />
+							[194] (435,777)<span >- />
+		[195] (884,777)<td  />
+		[196] (921,777)<td class='xW xY ' role='gridcell' />
+			[197] (924,777)<span  />
+				[198] (924,776)<span >Mar 2 />
+	[199] (567,834)<tr class='zA zE' id=':3z' role='row' />
+		[200] (205,834)<td  />
+			[201] (206,834)<div class='oZ-jc T-Jo J-J5-Ji ' id=':42' role='checkbox' />
+		[202] (232,834)<td  />
+			[203] (228,834)<span aria-label='Not starred' class='aXw T-KT' id=':43' role='button' />
+		[204] (316,834)<td class='yX xY ulKHrd ' role='gridcell' />
+			[205] (305,834)<div  />
+				[206] (290,834)<span  />
+					[207] (290,834)<span >Google Antigravity />
+		[208] (632,834)<td class='xY a4W' id=':45' role='gridcell' />
+			[209] (628,834)<div  />
+				[210] (628,834)<div class='xS' role='link' />
+					[211] (628,834)<div  />
+						[212] (478,834)<div  />
+							[213] (478,834)<span  />
+								[214] (478,834)<span >Get started with Google Antigravity />
+						[215] (717,834)<span >Welcome to Google Antigravity! Unlock the full potential of your workflow and experience liftoff. Here are 3 ways to start elevating your development with Antigravity: Build with Browser Antigravity is />
+							[216] (572,834)<span >- />
+		[217] (884,834)<td  />
+		[218] (921,834)<td class='xW xY ' role='gridcell' />
+			[219] (922,834)<span  />
+				[220] (922,833)<span >Feb 27 />
+	0%
+	of
+	15 GB
+	used
+	[221] (513,903)<a class='l9' href='https://www.google.com/intl/en/policies/terms/'>Terms />
+	·
+	[222] (546,903)<a class='l9' href='https://www.google.com/intl/en/policies/privacy/'>Privacy />
+	·
+	[223] (600,903)<a class='l9' href='https://www.google.com/gmail/about/policy/'>Program Policies />
+	Last account activity: 3 days ago
+	[224] (921,934)<span class='l8 LJOhwe' id=':66' role='link'>Details />
+[225] (980,145)<div aria-label='Calendar' class='bse-bvF-I aT5-aOt-I bse-bvF-aLp' id='gsc-gab-6' role='tab' />
+	[226] (980,145)<div  />
+[227] (980,234)<div aria-label='Keep' class='bse-bvF-I aT5-aOt-I bse-bvF-a9p' id='gsc-gab-2' role='tab' />
+	[228] (980,234)<div  />
+[229] (980,322)<div aria-label='Tasks' class='bse-bvF-I aT5-aOt-I bse-bvF-aLp' id='gsc-gab-4' role='tab' />
+	[230] (980,322)<div  />
+[231] (980,411)<div aria-label='Contacts' class='bse-bvF-I aT5-aOt-I bse-bvF-aLp' id='gsc-gab-9' role='tab' />
+	[232] (980,411)<div  />
+[233] (980,551)<div aria-label='Get Add-ons' class='bse-bvF-I aT5-aOt-I' id='qJTzr' role='tab' />
+	[234] (980,551)<div  />
+[235] (980,956)<div aria-label='Hide side panel' class='aT5-aOt-I brC-dA-I' role='button' />
+	[236] (980,956)<div  />
+
+</current_dom>

@@ -1,0 +1,90 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (338,125)<a class='inline shrink-0' href='/search/%EA%B7%B8%EB%9E%9C%EB%93%9C%EC%84%B8%EC%9D%B4%EC%BD%94' />
+	[6] (338,125)<span >그랜드세이코 />
+		[7] (318,125)<span >16
+. />
+[8] (397,125)<a class='inline shrink-0' href='/search/%EB%8D%94%EC%BA%90%EC%8B%9C%EB%AF%B8%EC%96%B4' />
+	[9] (397,125)<span >더캐시미어 />
+		[10] (380,125)<span >17
+. />
+[11] (446,125)<a class='inline shrink-0' href='/search/%EC%95%84%EC%9D%B4%ED%8F%B0' />
+	[12] (446,125)<span >아이폰 />
+		[13] (436,125)<span >18
+. />
+[14] (500,125)<a class='inline shrink-0' href='/search/%EB%8B%8C%ED%85%90%EB%8F%84%20%EC%8A%A4%EC%9C%84%EC%B9%98' />
+	[15] (500,125)<span >닌텐도 스위치 />
+		[16] (479,125)<span >19
+. />
+[17] (562,125)<a class='inline shrink-0' href='/search/%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0' />
+	[18] (562,125)<span >전기자전거 />
+		[19] (545,125)<span >20
+. />
+[20] (666,69)<a href='/search?keyword=i7-13700F+4070%EC%8A%88%ED%8D%BC&openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+추천순
+최신순
+낮은가격순
+높은가격순
+[35] (239,193)<div  />
+	RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함)
+	[36] (239,180)<div  />
+		[37] (239,180)<div  />
+			[38] (208,180)<span >1,600,000 />
+			[39] (241,182)<span >원 />
+	[40] (239,248)<div  />
+		[41] (239,224)<div  />
+			[42] (199,224)<div  />
+				[43] (190,224)<div  />
+					[44] (195,224)<span >10 />
+				[45] (211,224)<div  />
+					[46] (216,224)<span >8 />
+		[47] (239,270)<div  />
+			[48] (195,270)<div  />
+				[49] (195,270)<span >무료배송 />
+[50] (499,429)<button class='w-10 h-10 rounded-lg bg-jnGreen-400 text-white'>1 />
+자세히 알아보기
+[51] (500,672)<div aria-label='자전거' class='google-anno-skip goog-rentry' role='link' />
+	[52] (215,672)<span >자전거 />
+	[53] (792,672)<span  />
+[54] (500,759)<div aria-label='스쿠터' class='google-anno-skip goog-rentry' role='link' />
+	[55] (215,759)<span >스쿠터 />
+	[56] (792,759)<span  />
+[57] (500,845)<div aria-label='리셀러 및 중고 매장' class='google-anno-skip goog-rentry' role='link' />
+	[58] (246,845)<span >리셀러 및 중고 매장 />
+	[59] (792,845)<span  />
+[60] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[61] (854,907)<div  />
+		[62] (903,907)<div  />
+[63] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[64] (902,799)<span  />
+
+</current_dom>

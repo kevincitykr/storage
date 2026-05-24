@@ -1,0 +1,141 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+console.cloud.google.com 에서는 서비스 제공 및 서비스 품질 개선과 트래픽 분석을 위해 Google 쿠키를 사용합니다.
+[0] (645,953)<a aria-label='Google에서 쿠키를 사용하는 방법을 자세히 알아보세요. 새 탭에서 열립니다.' class='glue-cookie-notification-bar__more' href='https://policies.google.com/technologies/cookies?hl=ko'>자세히 알아보세요 />
+[1] (964,953)<button class='glue-cookie-notification-bar__accept'>확인 />
+$300 크레딧으로 무료 체험판을 시작해 보세요. 크레딧을 모두 사용해도 요금이 청구되지 않으니 걱정하지 마세요.
+[2] (503,35)<a aria-label='무료 체험 프로그램 자세히 알아보기 새 창에서 외부 링크 열기' class='cfc-doc-link' href='https://cloud.google.com/free/?hl=ko&_gl=1*52fo8s*_ga*MTY0NzQyOTY5Ni4xNzc3NDQzNjg1*_ga_WH2QY8WWF5*czE3Nzc0NDM2ODQkbzEkZzEkdDE3Nzc0NDM3MDAkajQ0JGwwJGgw' />
+	[3] (498,35)<span >자세히 알아보기 />
+	[4] (533,35)<cm-icon aria-label='새 창에서 외부 링크 열기' class='cm-icon-external-link' role='img' />
+[5] (896,35)<button aria-label='전체 계정 활성화 배너 닫기' class='mdc-button mat-mdc-button-base gmat-mdc-button mat-mdc-button mat-unthemed cm-button ng-star-inserted'>닫기 />
+	닫기
+[6] (956,35)<button aria-label='무료로 시작하기' class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--unelevated mat-mdc-unelevated-button mat-primary cm-button ng-star-inserted'>무료로 시작하기 />
+	무료로 시작하기
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+[7] (18,105)<button aria-label='탐색 메뉴 (.)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[8] (18,105)<cm-icon  />
+[9] (78,105)<a aria-label='Google Cloud Platform 홈' class='cfc-logo-anchor mat-focus-indicator' href='/?project=gen-lang-client-0937252527' />
+[10] (179,105)<button aria-label='현재 Gemini Project에서 작업 중입니다. 프로젝트, 폴더 또는 조직을 전환하려면 Enter 키를 누르세요.' class='mdc-button mat-mdc-button-base gmat-mdc-button ng-tns-c1277316461-2 mat-mdc-button cfc-switcher-button new-switcher-button mat-unthemed cm-button' />
+	Gemini Project
+[11] (509,105)<div class='pcc-combobox' role='combobox' />
+	[12] (521,105)<input aria-label='쿼리를 입력하여 리소스, 문서, 제품 등 검색' class='cm-input gmat-mdc-input mat-mdc-input-element pcc-search-input ng-valid cdk-text-field-autofill-monitored ng-dirty ng-touched' id='mat-input-0' placeholder='리소스, 문서, 제품 등 검색(/)' />
+[13] (713,105)<button aria-label='입력한 검색어 지우기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-clear-input-button cfc-button-medium mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+	[14] (713,107)<cm-icon  />
+검색
+[15] (880,105)<button aria-label='Gemini AI 채팅 열기 (Alt G)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='pcc-duet-chat-container' />
+	[16] (880,105)<cm-icon  />
+[17] (906,105)<button aria-label='Cloud Shell 활성화 (G then S)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip ng-star-inserted cfc-tooltip-disable-user-select-on-touch-device' />
+	[18] (906,105)<cm-icon  />
+[19] (932,105)<button aria-label='읽지 않은 알림 1개 알림 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[20] (932,105)<div  />
+		[21] (932,105)<div  />
+			[22] (932,96)<div >1 />
+[23] (958,105)<button aria-label='설정 및 유틸리티' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='pcc-utilities-menu-trigger' />
+	[24] (958,105)<cm-icon  />
+[25] (984,105)<button aria-label='계정: 김광섭 (sohwe124@gmail.com)' class='cfc-accountchooser-link mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+[26] (17,162)<a class='mdc-button mat-mdc-button-base gmat-mdc-button cfc-text-button cfc-button-centered cfc-button-small pcc-breadcrumb-link-button mat-mdc-button mat-unthemed cm-button cfc-tooltip' href='/search;q=YouTube%20Data%20API%20v3;searchScope=projects%2Fgen-lang-client-0937252527;tab=all?project=gen-lang-client-0937252527' />
+	[27] (17,162)<span  />
+		[28] (17,162)<span >검색 />
+검색
+[29] (959,216)<button class='mdc-button mat-mdc-button-base gmat-mdc-button mat-mdc-button mat-primary cm-button'>의견 보내기 />
+	의견 보내기
+[30] (191,224)<div class='mdc-tab mat-mdc-tab mat-focus-indicator all-tab mdc-tab--active cm-mat-focus-indicator mdc-tab-indicator--active' id='_2rif_mat-tab-group-0-label-0' role='tab' />
+	[31] (191,224)<span  />
+		[32] (191,224)<span >전체 />
+[33] (258,224)<div class='mdc-tab mat-mdc-tab mat-focus-indicator documentation-tab cm-mat-focus-indicator' id='_2rif_mat-tab-group-0-label-1' role='tab' />
+	[34] (258,224)<span  />
+		[35] (258,224)<span  />
+			[36] (258,224)<span >문서 및 튜토리얼 />
+[37] (329,224)<div class='mdc-tab mat-mdc-tab mat-focus-indicator resources-tab cm-mat-focus-indicator' id='_2rif_mat-tab-group-0-label-2' role='tab' />
+	[38] (329,224)<span  />
+		[39] (329,224)<span  />
+			[40] (329,224)<span >리소스 />
+[41] (409,224)<div class='mdc-tab mat-mdc-tab mat-focus-indicator apis-tab cm-mat-focus-indicator' id='_2rif_mat-tab-group-0-label-3' role='tab' />
+	[42] (409,224)<span  />
+		[43] (409,224)<span >Marketplace 및 API />
+다음을 기준으로 필터링:
+[44] (25,363)<div  />
+	[45] (25,363)<input class='mdc-checkbox__native-control' id='_2rif_mat-mdc-checkbox-0-input' />
+[46] (67,363)<label class='mdc-label'>제품 또는 페이지 />
+[47] (25,404)<div  />
+	[48] (25,404)<input class='mdc-checkbox__native-control' id='_2rif_mat-mdc-checkbox-1-input' />
+[49] (71,404)<label class='mdc-label'>문서 또는 튜토리얼 />
+[50] (25,444)<div  />
+	[51] (25,444)<input class='mdc-checkbox__native-control' id='_2rif_mat-mdc-checkbox-2-input' />
+[52] (74,444)<label class='mdc-label'>Marketplace 및 API />
+[53] (25,484)<div  />
+	[54] (25,484)<input class='mdc-checkbox__native-control' id='_2rif_mat-mdc-checkbox-3-input' />
+[55] (44,484)<label class='mdc-label'>조직 />
+[56] (25,525)<div  />
+	[57] (25,525)<input class='mdc-checkbox__native-control' id='_2rif_mat-mdc-checkbox-4-input' />
+[58] (44,525)<label class='mdc-label'>폴더 />
+[59] (25,565)<div  />
+	[60] (25,565)<input class='mdc-checkbox__native-control' id='_2rif_mat-mdc-checkbox-5-input' />
+[61] (52,565)<label class='mdc-label'>프로젝트 />
+[62] (25,605)<div  />
+	[63] (25,605)<input class='mdc-checkbox__native-control' id='_2rif_mat-mdc-checkbox-6-input' />
+[64] (48,605)<label class='mdc-label'>리소스 />
+리소스 필터
+[65] (78,740)<div  />
+	[66] (78,740)<div  />
+		[67] (63,716)<label class='mdc-floating-label mat-mdc-floating-label mdc-floating-label--float-above' id='_2rif_mat-mdc-form-field-label-4' />
+			[68] (63,717)<mat-label >프로젝트, 폴더 또는 조직 />
+		[69] (78,740)<div  />
+			[70] (78,740)<cfc-select class='cfc-select ng-untouched ng-pristine ng-valid' id='_2rif_cfc-select-4' role='combobox' />
+				[71] (78,740)<div  />
+					[72] (71,740)<div  />
+						[73] (54,740)<span  />
+							[74] (54,740)<span >Gemini Project />
+					[75] (126,740)<cm-icon  />
+[76] (78,824)<div  />
+	[77] (78,824)<div  />
+		[78] (42,799)<label class='mdc-floating-label mat-mdc-floating-label mdc-floating-label--float-above' id='_2rif_mat-mdc-form-field-label-5' />
+			[79] (42,801)<mat-label >리소스 유형 />
+		[80] (78,824)<div  />
+			[81] (78,824)<cfc-select aria-label='필터링할 리소스 유형을 선택하세요.' class='cfc-select ng-untouched ng-pristine ng-valid' id='_2rif_cfc-select-5' role='combobox' />
+				[82] (78,824)<div  />
+					[83] (71,824)<div  />
+						[84] (32,824)<span  />
+							[85] (32,824)<span >모두 />
+					[86] (126,824)<cm-icon  />
+[87] (578,626)<cfc-virtual-viewport class='cfc-virtual-scroll-viewport cfc-panel-body cfc-panel-body-scrollable cfc-panel-disable-border-bottom cfc-virtual-scroll-orientation-vertical' role='presentation' scrollable='true' />
+	검색결과
+	‘YouTube Data API v3’의 검색결과 11개 중 11개가 표시됩니다.
+	[88] (258,415)<a href='/marketplace/product/google/youtube.googleapis.com?q=search&referrer=search&project=gen-lang-client-0937252527'>YouTube Data API v3 />
+	The YouTube Data API v3 is an API that provides access to YouTube data, such as videos, playlists,…
+	유형:
+	API
+	제작자:
+	Google
+	[89] (373,648)<a aria-label='실패한 요청 재시도 | Identity and Access Management (IAM) 새 창에서 외부 링크 열기' class='cfc-external-link' href='https://docs.cloud.google.com/iam/docs/retry-strategy?hl=ko' />
+		[90] (368,648)<span  />
+			[91] (368,648)<span >실패한 요청 재시도 | Identity and Access Management (IAM) />
+		[92] (544,649)<cm-icon aria-label='새 창에서 외부 링크 열기' class='cm-icon-external-link' role='img' />
+	IAM API에 대한 각 요청은 성공하거나 실패할 수 있습니다. 대기 없이 애플리케이션 재시도가 실패하면 짧은 기간 내에 많은 수의 재시도가 IAM에 전송될 수 있습니다.
+	유형:
+	문서
+	[93] (226,846)<a aria-label='API 작업 새 창에서 외부 링크 열기' class='cfc-external-link' href='https://docs.cloud.google.com/stackdriver/docs/solutions/slo-monitoring/api/using-api?hl=ko' />
+		[94] (221,847)<span  />
+			[95] (221,846)<span >API 작업 />
+		[96] (250,847)<cm-icon aria-label='새 창에서 외부 링크 열기' class='cm-icon-external-link' role='img' />
+	이 문서에서는 Cloud Monitoring API를 사용하여 서비스와 서비스 수준 목표(SLO)를 관리하는 방법을 설명합니다. 서비스 모니터링은 Monitoring API에 다음 리소스를 ...
+	유형:
+	문서
+	빠른 도움말을 통해 검색 속도 높이기
+	[97] (798,425)<button aria-label='도움말 숨기기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+		[98] (798,427)<cfc-icon  />
+			[99] (798,427)<mat-icon class='mat-icon notranslate mat-icon-no-color' role='img' />
+	콘솔 어디서나 검색하려면 / 키를 누르세요.
+	이 페이지의 새 필터를 사용하여 111가지 리소스 유형 등을 찾으세요.
+	검색에서 키 문자열을 입력하여 API 키를 찾으세요.
+	주요 AWS 또는 Azure 제품을 검색하고 유사한 Google Cloud 제품에 대한 추천을 받으세요.
+	[100] (755,787)<a aria-label='Google Cloud와 유사한 주요 AWS 또는 Azure 제품 자세히 알아보기 새 창에서 외부 링크 열기' class='cfc-doc-link search-tips-card-link' href='https://cloud.google.com/free/docs/aws-azure-gcp-service-comparison?hl=ko' />
+		[101] (750,788)<span >자세히 알아보기 />
+		[102] (783,789)<cm-icon aria-label='새 창에서 외부 링크 열기' class='cm-icon-external-link' role='img' />
+
+</current_dom>

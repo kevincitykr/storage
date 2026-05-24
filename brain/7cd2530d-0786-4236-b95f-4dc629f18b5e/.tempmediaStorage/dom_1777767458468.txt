@@ -1,0 +1,398 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,27)<div  />
+	[1] (500,27)<a class='new-alluser-webcx_cpn-spu-mobile-2_20260427' href='https://cdn.rex.contents.rakuten.co.jp/webcx-redirect-module/1.3.0/index.html?clientId=d40535ac09aac0ef32f8a23b8bb8e04bc2e8f9d6b0981fa98a16d0382f558d83&version=2.73.0&sessionId=ec7dee56-fa2d-4035-822c-e4921036c935&screen=WB&issueId=F01184-001752&campaignId=fd7648d5-2a62-4d7a-863e-72f890827805&contentId=383a4ef8-a156-4029-959b-a31af87e4118&replacementId=94ac1766-3ec5-11f1-ae25-00505699bfcf&impressionId=8997d37b-1edd-4fce-8e97-cab226cb607d&selector=mkdiv_header_pitari&redirect=aHR0cHM6Ly9uZXR3b3JrLm1vYmlsZS5yYWt1dGVuLmNvLmpwL2NhbXBhaWduL3NwdS8=&origin=aHR0cHM6Ly9zZWFyY2gucmFrdXRlbi5jby5qcA==' id='cmo_pitari_banner' />
+		[2] (500,27)<img  />
+ようこそ 楽天市場へ
+[3] (874,82)<a aria-label='ログイン' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/authorize?client_id=rakuten_ichiba_search_web&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4070%252F100026%252F%253Fs%253D2%2526used%253D0%22%7D' />
+	[4] (874,82)<span >ログイン />
+[5] (909,82)<a aria-label='会員登録' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/register?client_id=rakuten_ichiba_search_web&service_id=r19&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4070%252F100026%252F%253Fs%253D2%2526used%253D0%22%7D' />
+	[6] (909,82)<span >会員登録 />
+[7] (944,78)<span  />
+	[8] (944,78)<div  />
+Language
+[9] (40,131)<a class='logo--2gpI-' href='https://www.rakuten.co.jp/?l-id=pc_header_logo' />
+	[10] (40,128)<div  />
+[11] (425,131)<input class='input-text--TRaVo' id='common-header-search-input' placeholder='キーワードから探す' />
+[12] (767,132)<div aria-label='すべての入力をクリア' class='clear-button--2KXPD' role='button' />
+[13] (789,131)<a aria-label='検索' class='link--1aOXp' href='https://search.rakuten.co.jp/search/mall' />
+	[14] (789,131)<div  />
+		[15] (789,131)<div  />
+			[16] (789,131)<div  />
+[17] (824,131)<a aria-label='Display notifications button to hover' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://t3.basket.step.rakuten.co.jp/rms/mall/bs/cartall/?l-id=pc_header_func_cart' />
+	[18] (824,122)<span  />
+		[19] (824,122)<div  />
+	[20] (824,146)<span >買い物かご />
+[21] (854,131)<span class='reference--1B7iW' role='button' />
+	[22] (854,131)<div  />
+		[23] (854,131)<button aria-label='お知らせ' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' />
+			[24] (854,122)<span  />
+				[25] (854,122)<div  />
+			[26] (854,146)<span >お知らせ />
+[27] (881,131)<a aria-label='閲覧履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://ashiato.rakuten.co.jp/rms/ashiato/page?l-id=pc_header_func_bh' />
+	[28] (881,122)<span  />
+		[29] (881,122)<div  />
+	[30] (881,146)<span >閲覧履歴 />
+[31] (911,131)<a aria-label='お気に入り' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://my.bookmark.rakuten.co.jp/?l-id=pc_header_func_bookmark' />
+	[32] (911,122)<span  />
+		[33] (911,122)<div  />
+	[34] (911,146)<span >お気に入り />
+[35] (941,131)<a aria-label='購入履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://order.my.rakuten.co.jp/?l-id=pc_header_func_ph' />
+	[36] (941,122)<span  />
+		[37] (941,122)<div  />
+	[38] (941,146)<span >購入履歴 />
+[39] (972,131)<a aria-label='myクーポン' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://coupon.rakuten.co.jp/myCoupon/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4?l-id=pc_header_func_coupon' />
+	[40] (972,122)<span  />
+		[41] (972,122)<div  />
+	[42] (972,146)<span >myクーポン />
+[43] (31,199)<a class='breadcrumbs-name--1ahfw' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?s=2&used=0'>すべてのジャンル />
+パソコン・周辺機器
+「
+RTX 4070
+」の検索結果
+1〜45件 （2,267件）
+お届け先
+[44] (969,199)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='prefecture-filter-select' />
+送料
+[45] (54,284)<label class='item' />
+	[46] (12,281)<input aria-label='すべて' id='shipping-fee-0' role='radio' />
+	[47] (26,284)<span >すべて />
+[48] (54,311)<label class='item' />
+	[49] (12,308)<input aria-label='送料無料' id='shipping-fee-1' role='radio' />
+	[50] (30,311)<span >送料無料 />
+[51] (54,337)<label class='item' />
+	[52] (12,334)<input aria-label='送料無料 + 送料無料ライン' id='shipping-fee-2' role='radio' />
+	[53] (56,337)<span >送料無料 + 送料無料ライン />
+ジャンル
+[54] (54,421)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?s=2&used=0'>すべてのジャンル />
+パソコン・周辺機器
+[55] (57,474)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100087/?s=2&used=0' title='PCパーツ' />
+	[56] (57,474)<div >PCパーツ />
+[57] (58,501)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?s=2&used=0' title='グラフィックボード' />
+	[58] (58,501)<div >グラフィックボード />
+[59] (57,527)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/565162/?s=2&used=0' title='パソコン' />
+	[60] (57,527)<div >パソコン />
+[61] (58,553)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/211368/?s=2&used=0' title='デスクトップPC' />
+	[62] (58,553)<div >デスクトップPC />
+[63] (58,580)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100040/?s=2&used=0' title='ノートPC' />
+	[64] (58,580)<div >ノートPC />
+[65] (57,606)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100094/?s=2&used=0' title='PCアクセサリー' />
+	[66] (57,606)<div >PCアクセサリー />
+[67] (57,632)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/560062/?s=2&used=0' title='外付けドライブ・ストレージ' />
+	[68] (57,632)<div >外付けドライブ・ストレージ />
+[69] (57,659)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/101451/?s=2&used=0' title='ネットワーク機器' />
+	[70] (57,659)<div >ネットワーク機器 />
+[71] (29,685)<span class='toggle _link more' role='button'>さらに表示 />
+商品価格
+[72] (9,784)<div class='histogram bar' role='button' />
+[73] (11,784)<div class='histogram bar' role='button' />
+[74] (14,784)<div class='histogram bar' role='button' />
+[75] (16,784)<div class='histogram bar' role='button' />
+[76] (18,784)<div class='histogram bar' role='button' />
+[77] (20,784)<div class='histogram bar' role='button' />
+[78] (22,784)<div class='histogram bar' role='button' />
+[79] (24,784)<div class='histogram bar' role='button' />
+[80] (26,784)<div class='histogram bar' role='button' />
+[81] (28,784)<div class='histogram bar' role='button' />
+[82] (30,784)<div class='histogram bar' role='button' />
+[83] (32,784)<div class='histogram bar' role='button' />
+[84] (34,784)<div class='histogram bar' role='button' />
+[85] (36,784)<div class='histogram bar' role='button' />
+[86] (38,784)<div class='histogram bar' role='button' />
+[87] (40,784)<div class='histogram bar' role='button' />
+[88] (42,784)<div class='histogram bar' role='button' />
+[89] (45,784)<div class='histogram bar' role='button' />
+[90] (47,784)<div class='histogram bar' role='button' />
+[91] (49,784)<div class='histogram bar' role='button' />
+[92] (51,784)<div class='histogram bar' role='button' />
+[93] (53,784)<div class='histogram bar' role='button' />
+[94] (55,784)<div class='histogram bar' role='button' />
+[95] (57,784)<div class='histogram bar' role='button' />
+[96] (59,784)<div class='histogram bar' role='button' />
+[97] (61,784)<div class='histogram bar' role='button' />
+[98] (63,784)<div class='histogram bar' role='button' />
+[99] (65,784)<div class='histogram bar' role='button' />
+[100] (67,784)<div class='histogram bar' role='button' />
+[101] (69,784)<div class='histogram bar' role='button' />
+[102] (71,784)<div class='histogram bar' role='button' />
+[103] (73,784)<div class='histogram bar' role='button' />
+[104] (76,784)<div class='histogram bar' role='button' />
+[105] (78,784)<div class='histogram bar' role='button' />
+[106] (80,784)<div class='histogram bar' role='button' />
+[107] (82,784)<div class='histogram bar' role='button' />
+[108] (84,784)<div class='histogram bar' role='button' />
+[109] (86,784)<div class='histogram bar' role='button' />
+[110] (88,784)<div class='histogram bar' role='button' />
+[111] (90,784)<div class='histogram bar' role='button' />
+[112] (92,784)<div class='histogram bar' role='button' />
+[113] (94,784)<div class='histogram bar' role='button' />
+[114] (96,784)<div class='histogram bar' role='button' />
+[115] (98,784)<div class='histogram bar' role='button' />
+[116] (9,812)<div aria-label='Decrease price range' class='slider control left' role='slider' />
+[117] (99,812)<div aria-label='Increase price range' class='slider control right' role='slider' />
+~
+[118] (54,897)<button class='dui-button -fluid'>検索 />
+	[119] (47,899)<i  />
+コンディション
+[120] (54,987)<a class='item -active' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/?s=2'>新品 />
+[121] (188,261)<label class='final-price-label--jzBLS'>「商品価格＋送料−獲得予定ポイント」で価格表示 />
+[122] (271,261)<span  />
+	[123] (271,261)<input class='control--FQ2nD' id='final-price-switch' role='switch' />
+並べ替え
+[124] (888,261)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='search-sort' />
+表示切替
+[125] (986,261)<a class='item viewtype' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/?s=2&set=view&used=0&v=2' />
+	[126] (985,261)<i  />
+価格や送料、納期等の詳細は、商品のサイズや色によって異なる場合があります
+[127] (981,332)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+商品のお届けに関するお客様ニーズを幅広く満たす商品に「最強翌日配送」ラベルを表示しています。
+[128] (436,376)<a class='text-container--2tSUW default-size--1kRiQ default-color--2fMVe style-underscore--2T7Fb link--1A1up' href='https://ichiba.faq.rakuten.net/detail/000037270'>詳細を見る />
+[129] (981,376)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+[130] (156,433)<a aria-label='パソコン・周辺機器' class='button--3YE3u button-ellipsis--34Ga8 size-xs--1qW4M size-xs-pill--3-AVi size-xs-padding--1Ud4D border-radius--11uG4 block--1_kw1 type-tag--ZajN2 active--btVZs' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?s=2&used=0' />
+	[131] (151,433)<span >パソコン・周辺機器 />
+	[132] (185,433)<span  />
+		[133] (185,433)<div  />
+[134] (214,433)<a aria-label='新品' class='button--3YE3u button-ellipsis--34Ga8 size-xs--1qW4M size-xs-pill--3-AVi size-xs-padding--1Ud4D border-radius--11uG4 block--1_kw1 type-tag--ZajN2 active--btVZs' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/?s=2' />
+	[135] (209,433)<span >新品 />
+	[136] (221,433)<span  />
+		[137] (221,433)<div  />
+[138] (249,433)<a aria-label='すべて解除' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius--11uG4 no-padding--287kX type-link--3U8Az' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?s=2' />
+	[139] (249,433)<span >すべて解除 />
+関連性の高い商品のみ表示中
+[140] (228,471)<a href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/?s=7&used=0'>すべての商品を表示 />
+[141] (959,473)<div class='disclaimer-trigger--3NWjq' role='button' />
+	[142] (956,473)<div >検索結果に関する注意 />
+	[143] (988,473)<div  />
+		[144] (989,473)<div  />
+[145] (179,612)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/r-kojima/4713227533621/?variantId=4713227533621' />
+	[146] (179,612)<img  />
+[147] (157,690)<div  />
+	[148] (156,690)<div  />
+		[149] (156,690)<span class='reference--4whr_' role='button' />
+			[150] (156,690)<div  />
+				[151] (156,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[152] (156,690)<span  />
+						[153] (156,690)<div  />
+[154] (202,690)<span  />
+	[155] (202,690)<div  />
+		[156] (202,690)<div  />
+			[157] (202,690)<span class='reference--4whr_' role='button' />
+				[158] (202,690)<div  />
+					[159] (202,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[160] (202,690)<span  />
+							[161] (202,690)<div  />
+[162] (178,785)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/r-kojima/4713227533621/?variantId=4713227533621' title='THERMALTAKE　Sleeved PCIe Gen 5 Splitter Cables (Dual 8Pin to 12+4Pin)/600mm　AC-063-CN1NAN-A1'>THERMALTAKE　Sleeved PCIe Gen 5 Splitter Cables (Dual 8Pin to 12+4Pin)/600mm　AC-063-CN1NAN-A1 />
+2,600円(価格+送料)
+2,050
+円
++送料550円
+18
+ポイント
+(
+1
+倍)
+16:00までの注文で
+最短5/4(翌日)
+お届け
+[163] (182,911)<span class='reference--4whr_' role='button' />
+	[164] (182,911)<span  />
+		[165] (182,906)<div  />
+			[166] (182,906)<img  />
+[167] (159,938)<a class='_ellipsis' href='https://www.rakuten.co.jp/r-kojima/'>コジマ楽天市場店 />
+[168] (179,975)<a class='dui-button -bestshop -fluid' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/?ran=30010004713227533621&s=11&used=0'>同じ商品を安い順で見る />
+[169] (304,612)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/lavett-shop/5mmmcqsyghmz/?variantId=5mmmcqsyghmz' />
+	[170] (304,612)<img  />
+[171] (282,690)<div  />
+	[172] (281,690)<div  />
+		[173] (281,690)<span class='reference--4whr_' role='button' />
+			[174] (281,690)<div  />
+				[175] (281,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[176] (281,690)<span  />
+						[177] (281,690)<div  />
+[178] (327,690)<span  />
+	[179] (327,690)<div  />
+		[180] (327,690)<div  />
+			[181] (327,690)<span class='reference--4whr_' role='button' />
+				[182] (327,690)<div  />
+					[183] (327,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[184] (327,690)<span  />
+							[185] (327,690)<div  />
+ATX3.0 12VHPWR 2x 8ピン 電源コードPCI-e 5.0 12VHPWR ATX3.0 600W 16ピンオス-2x8ピン (6+2) メスケーブル グラフィックカード用 GPU 12+4ピン RTX 3090Ti 4070Ti 4080 4090 0.3M 送料無料
+2,162
+円
+送料無料
+19
+ポイント
+(
+1
+倍)
+2から4営業日以内に出荷予定
+[186] (267,889)<span class='reference--4whr_' role='button' />
+	[187] (267,889)<span  />
+		[188] (267,885)<div  />
+			[189] (267,885)<img  />
+[190] (271,916)<a class='_ellipsis' href='https://www.rakuten.co.jp/lavett-shop/'>LAVETT />
+[191] (429,612)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/orange-island/ys264wfmg6xcjcmxfwg6mx433y/?variantId=normal-inventory' />
+	[192] (429,612)<img  />
+[193] (407,690)<div  />
+	[194] (406,690)<div  />
+		[195] (406,690)<span class='reference--4whr_' role='button' />
+			[196] (406,690)<div  />
+				[197] (406,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[198] (406,690)<span  />
+						[199] (406,690)<div  />
+[200] (452,690)<span  />
+	[201] (452,690)<div  />
+		[202] (452,690)<div  />
+			[203] (452,690)<span class='reference--4whr_' role='button' />
+				[204] (452,690)<div  />
+					[205] (452,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[206] (452,690)<span  />
+							[207] (452,690)<div  />
+16 AWG PCIE 5.0 12VHPWR 600W 3x8ピンから16ピン(12+4ピン)への90度直角電源アダプタケーブル グラフィックスカードRTX 4090 4080 3090TI 4070Ti (タイプA)用
+2,377
+円
+送料無料
+21
+ポイント
+(
+1
+倍)
+5/7 12:00までの注文で最短5/13お届け
+[208] (392,889)<span class='reference--4whr_' role='button' />
+	[209] (392,889)<span  />
+		[210] (392,885)<div  />
+			[211] (392,885)<img  />
+[212] (412,916)<a class='_ellipsis' href='https://www.rakuten.co.jp/orange-island/'>オレンジアイランド />
+[213] (554,612)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/forest369/s-b0ck2211rz-20251013/?variantId=s-b0ck2211rz-20251013' />
+	[214] (554,612)<img  />
+[215] (532,690)<div  />
+	[216] (531,690)<div  />
+		[217] (531,690)<span class='reference--4whr_' role='button' />
+			[218] (531,690)<div  />
+				[219] (531,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[220] (531,690)<span  />
+						[221] (531,690)<div  />
+[222] (577,690)<span  />
+	[223] (577,690)<div  />
+		[224] (577,690)<div  />
+			[225] (577,690)<span class='reference--4whr_' role='button' />
+				[226] (577,690)<div  />
+					[227] (577,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[228] (577,690)<span  />
+							[229] (577,690)<div  />
+【送料無料】16 AWG PCIE 5.0 12VHPWR 600W 3x8ピンから16ピン(12+4ピン)への90度直角電源アダプタケーブル グラフィックスカードRTX 4090 4080 3090TI 4070Ti (タイプA)用
+2,437
+円
+送料無料
+22
+ポイント
+(
+1
+倍)
+1〜3日以内にお届け【一部地域を除く】
+[230] (517,889)<span class='reference--4whr_' role='button' />
+	[231] (517,889)<span  />
+		[232] (517,885)<div  />
+			[233] (517,885)<img  />
+[234] (541,916)<a class='_ellipsis' href='https://www.rakuten.co.jp/forest369/'>フォレストオンライン />
+[235] (679,612)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/wechante/s-b0ck2211rz-20250909/?variantId=s-b0ck2211rz-20250909' />
+	[236] (679,612)<img  />
+[237] (657,690)<div  />
+	[238] (656,690)<div  />
+		[239] (656,690)<span class='reference--4whr_' role='button' />
+			[240] (656,690)<div  />
+				[241] (656,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[242] (656,690)<span  />
+						[243] (656,690)<div  />
+[244] (702,690)<span  />
+	[245] (702,690)<div  />
+		[246] (702,690)<div  />
+			[247] (702,690)<span class='reference--4whr_' role='button' />
+				[248] (702,690)<div  />
+					[249] (702,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[250] (702,690)<span  />
+							[251] (702,690)<div  />
+16 AWG PCIE 5.0 12VHPWR 600W 3x8ピンから16ピン(12+4ピン)への90度直角電源アダプタケーブル グラフィックスカードRTX 4090 4080 3090TI 4070Ti (タイプA)用
+2,437
+円
+送料無料
+22
+ポイント
+(
+1
+倍)
+0~2営業日以内に発送
+[252] (642,889)<span class='reference--4whr_' role='button' />
+	[253] (642,889)<span  />
+		[254] (642,885)<div  />
+			[255] (642,885)<img  />
+[256] (644,916)<a class='_ellipsis' href='https://www.rakuten.co.jp/wechante/'>彩り堂 />
+[257] (804,612)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kirarido/s-b0ck2211rz-20250624/?variantId=s-b0ck2211rz-20250624' />
+	[258] (804,612)<img  />
+[259] (782,690)<div  />
+	[260] (781,690)<div  />
+		[261] (781,690)<span class='reference--4whr_' role='button' />
+			[262] (781,690)<div  />
+				[263] (781,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[264] (781,690)<span  />
+						[265] (781,690)<div  />
+[266] (827,690)<span  />
+	[267] (827,690)<div  />
+		[268] (827,690)<div  />
+			[269] (827,690)<span class='reference--4whr_' role='button' />
+				[270] (827,690)<div  />
+					[271] (827,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[272] (827,690)<span  />
+							[273] (827,690)<div  />
+16 AWG PCIE 5.0 12VHPWR 600W 3x8ピンから16ピン(12+4ピン)への90度直角電源アダプタケーブル グラフィックスカードRTX 4090 4080 3090TI 4070Ti (タイプA)用
+2,590
+円
+送料無料
+23
+ポイント
+(
+1
+倍)
+0~2営業日以内に発送
+[274] (767,889)<span class='reference--4whr_' role='button' />
+	[275] (767,889)<span  />
+		[276] (767,885)<div  />
+			[277] (767,885)<img  />
+[278] (772,916)<a class='_ellipsis' href='https://www.rakuten.co.jp/kirarido/'>きらり堂 />
+[279] (929,612)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/natuarc/s-b0ck2211rz-20250905/?variantId=s-b0ck2211rz-20250905' />
+	[280] (929,612)<img  />
+[281] (907,690)<div  />
+	[282] (906,690)<div  />
+		[283] (906,690)<span class='reference--4whr_' role='button' />
+			[284] (906,690)<div  />
+				[285] (906,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[286] (906,690)<span  />
+						[287] (906,690)<div  />
+[288] (952,690)<span  />
+	[289] (952,690)<div  />
+		[290] (952,690)<div  />
+			[291] (952,690)<span class='reference--4whr_' role='button' />
+				[292] (952,690)<div  />
+					[293] (952,690)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[294] (952,690)<span  />
+							[295] (952,690)<div  />
+16 AWG PCIE 5.0 12VHPWR 600W 3x8ピンから16ピン(12+4ピン)への90度直角電源アダプタケーブル グラフィックスカードRTX 4090 4080 3090TI 4070Ti (タイプA)用
+2,613
+円
+送料無料
+23
+ポイント
+(
+1
+倍)
+2〜3日以内に発送手配
+[296] (892,889)<span class='reference--4whr_' role='button' />
+	[297] (892,889)<span  />
+		[298] (892,885)<div  />
+			[299] (892,885)<img  />
+[300] (928,916)<a class='_ellipsis' href='https://www.rakuten.co.jp/natuarc/'>ナチュアークSHOP 楽天市場店 />
+
+</current_dom>

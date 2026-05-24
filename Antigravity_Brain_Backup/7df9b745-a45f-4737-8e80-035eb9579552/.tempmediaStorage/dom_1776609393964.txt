@@ -1,0 +1,92 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+kevincityHQ
+[0] (705,37)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (683,38)<span  />
+	[2] (705,37)<span >Korean />
+	[3] (729,41)<span  />
+[4] (777,37)<a class='dropdown-toggle' href='#' />
+	[5] (756,38)<span  />
+	[6] (778,37)<span >도움말 />
+	[7] (799,41)<span  />
+[8] (841,37)<a class='dropdown-toggle' href='#' />
+	[9] (825,38)<span  />
+	[10] (842,37)<span >동작 />
+	[11] (859,41)<span  />
+[12] (813,103)<a  />
+	[13] (775,104)<span  />
+	[14] (794,102)<span >설정 />
+[15] (813,146)<a  />
+	[16] (775,147)<span  />
+	[17] (794,146)<span >고급 />
+[18] (813,222)<a  />
+	[19] (775,224)<span  />
+	[20] (821,222)<span >기기 아이디 보기 />
+[21] (813,266)<a  />
+	[22] (775,267)<span  />
+	[23] (794,265)<span >기록 />
+[24] (813,309)<a href='/rest/debug/support' />
+	[25] (775,310)<span  />
+	[26] (805,308)<span >지원 묶음 />
+[27] (813,385)<a  />
+	[28] (775,386)<span  />
+	[29] (799,384)<span >재시작 />
+[30] (813,428)<a  />
+	[31] (775,429)<span  />
+	[32] (794,428)<span >종료 />
+GUI 인증: 사용자 이름과 비밀번호를 설정하십시오
+GUI 인증을 위한 사용자 이름과 비밀번호가 설정되지 않았습니다. 이들을 설정하는 것을 고려해 주십시오.
+현재 컴퓨터의 다른 사용자로부터 Syncthing과 이를 통한 파일 접속을 차단하려면 인증을 설정하는 것이 좋습니다.
+설정
+[33] (160,358)<button class='btn btn-sm btn-default pull-left' />
+	[34] (150,360)<span  />
+	[35] (165,357)<span >확인 />
+새 폴더
+2026-04-19 23:32:50
+upload2601 기기가 "kevincity share" (embcu-ntnsc) 폴더를 공유하길 원합니다.
+새 폴더를 추가하시겠습니까?
+[36] (746,629)<button class='btn btn-sm btn-success ng-scope' />
+	[37] (736,631)<span  />
+	[38] (751,628)<span >추가 />
+[39] (789,629)<button class='btn btn-sm btn-danger' />
+	[40] (779,631)<span  />
+	[41] (793,628)<span >무시 />
+[42] (836,629)<button class='btn btn-sm btn-default' />
+	[43] (822,631)<span  />
+	[44] (841,628)<span >나중에 />
+폴더
+[45] (310,837)<button class='btn panel-heading' />
+	[46] (310,836)<h4  />
+		[47] (147,837)<div  />
+			[48] (147,836)<span  />
+		[49] (450,836)<div  />
+			[50] (449,836)<span >동기화 준비 />
+		[51] (287,836)<div  />
+			[52] (206,836)<span >Kevincity Share />
+폴더 아이디
+rlpuk-xkiiv
+폴더 경로
+D:\20260412 kevincity share
+전체 기기 상태
+40,810
+122,178
+~121 GiB
+현재 기기
+[53] (690,837)<button class='btn panel-heading' />
+	[54] (690,836)<h4  />
+		[55] (526,836)<identicon  />
+		[56] (701,836)<div >kevincityHQ />
+수신 속도
+[57] (830,895)<a class='toggler ng-binding' href='#'>(9.52 MiB) />
+	[58] (806,895)<span >1 B/s />
+송신 속도
+[59] (830,935)<a class='toggler ng-binding' href='#'>(11.8 MiB) />
+	[60] (806,935)<span >1 B/s />
+현재 기기 상태(합계)
+4,608
+92,758
+~110 GiB
+
+</current_dom>

@@ -1,0 +1,324 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+Navigation Menu
+[0] (32,40)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[1] (85,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Platform />
+[2] (150,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Solutions />
+[3] (219,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Resources />
+[4] (296,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Open Source />
+[5] (373,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Enterprise />
+[6] (430,40)<a class='NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM' href='https://github.com/pricing' />
+	[7] (430,40)<span >Pricing />
+[8] (736,40)<button aria-label='Search or jump to…' class='header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none' placeholder='Search or jump to...' />
+	[9] (642,40)<div  />
+	[10] (736,40)<span >Search or jump to... />
+	[11] (833,40)<div  />
+[12] (872,40)<a class='HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fnotebooklm-mcp%2Fblob%2Fmain%2Fpyproject.toml'>Sign in />
+[13] (926,40)<a class='HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1' href='/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=wonseokjung%2Fnotebooklm-mcp'>Sign up />
+[14] (968,40)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-4083a49e-3898-4f55-88a6-14e8f0a06817' />
+[15] (76,115)<a class='url fn' href='/wonseokjung'>wonseokjung />
+/
+[16] (177,115)<a href='/wonseokjung/notebooklm-mcp'>notebooklm-mcp />
+Public
+forked from
+[17] (118,145)<a class='Link--inTextBlock' href='/jacob-bd/notebooklm-mcp-cli'>jacob-bd/notebooklm-mcp-cli />
+[18] (787,114)<a aria-label='You must be signed in to change notification settings' class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fnotebooklm-mcp' id='repository-details-watch-button'>Notifications />
+[19] (867,114)<a class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fnotebooklm-mcp' id='fork-button'>Fork />
+	[20] (885,114)<span >24 />
+[21] (943,114)<a aria-label='You must be signed in to star a repository' class='tooltipped tooltipped-sw btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fnotebooklm-mcp' />
+	[22] (942,114)<span >Star />
+	[23] (961,114)<span >42 />
+[24] (45,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected' href='/wonseokjung/notebooklm-mcp' id='code-tab' />
+	[25] (53,201)<span >Code />
+[26] (115,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/pulls' id='pull-requests-tab' />
+	[27] (123,201)<span >Pull requests />
+[28] (189,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/actions' id='actions-tab' />
+	[29] (197,201)<span >Actions />
+[30] (253,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/projects' id='projects-tab' />
+	[31] (261,201)<span >Projects />
+[32] (343,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/security' id='security-and-quality-tab' />
+	[33] (351,201)<span >Security and quality />
+[34] (433,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/pulse' id='insights-tab' />
+	[35] (440,201)<span >Insights />
+[36] (21,264)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[37] (93,318)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[38] (93,318)<span  />
+		[39] (85,318)<span  />
+			[40] (85,318)<div  />
+				[41] (24,318)<div  />
+				[42] (44,318)<div  />
+					[43] (44,318)<span >main />
+[44] (190,318)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[45] (106,363)<span  />
+	[46] (22,363)<span  />
+	[47] (111,363)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+[48] (101,633)<div  />
+	[49] (101,412)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.github-item' role='treeitem' />
+		[50] (101,412)<div  />
+			[51] (16,412)<div  />
+			[52] (106,412)<div  />
+				[53] (32,412)<div  />
+					[54] (32,412)<div  />
+				[55] (114,412)<span  />
+					[56] (57,412)<span >.github />
+	[57] (101,448)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs-item' role='treeitem' />
+		[58] (101,448)<div  />
+			[59] (16,448)<div  />
+			[60] (106,448)<div  />
+				[61] (32,448)<div  />
+					[62] (32,448)<div  />
+				[63] (114,448)<span  />
+					[64] (52,448)<span >docs />
+	[65] (101,484)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[66] (101,484)<div  />
+			[67] (16,484)<div  />
+			[68] (106,484)<div  />
+				[69] (32,484)<div  />
+					[70] (32,484)<div  />
+				[71] (114,484)<span  />
+					[72] (48,484)<span >src />
+	[73] (101,520)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tests-item' role='treeitem' />
+		[74] (101,520)<div  />
+			[75] (16,520)<div  />
+			[76] (106,520)<div  />
+				[77] (32,520)<div  />
+					[78] (32,520)<div  />
+				[79] (114,520)<span  />
+					[80] (52,520)<span >tests />
+	[81] (101,557)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.claude_settings.json-item' role='treeitem' />
+		[82] (101,557)<div  />
+			[83] (106,557)<div  />
+				[84] (32,556)<div  />
+				[85] (114,557)<span  />
+					[86] (84,557)<span >.claude_settings.json />
+	[87] (101,593)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[88] (101,593)<div  />
+			[89] (106,593)<div  />
+				[90] (32,593)<div  />
+				[91] (114,593)<span  />
+					[92] (62,593)<span >.gitignore />
+	[93] (101,629)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CHANGELOG.md-item' role='treeitem' />
+		[94] (101,629)<div  />
+			[95] (106,629)<div  />
+				[96] (32,629)<div  />
+				[97] (114,629)<span  />
+					[98] (77,629)<span >CHANGELOG.md />
+	[99] (101,665)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CLAUDE.md-item' role='treeitem' />
+		[100] (101,665)<div  />
+			[101] (106,665)<div  />
+				[102] (32,665)<div  />
+				[103] (114,665)<span  />
+					[104] (67,665)<span >CLAUDE.md />
+	[105] (101,701)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='GEMINI.md-item' role='treeitem' />
+		[106] (101,701)<div  />
+			[107] (106,701)<div  />
+				[108] (32,701)<div  />
+				[109] (114,701)<span  />
+					[110] (66,701)<span >GEMINI.md />
+	[111] (101,737)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[112] (101,737)<div  />
+			[113] (106,737)<div  />
+				[114] (32,737)<div  />
+				[115] (114,737)<span  />
+					[116] (59,737)<span >LICENSE />
+	[117] (101,773)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[118] (101,773)<div  />
+			[119] (106,773)<div  />
+				[120] (32,773)<div  />
+				[121] (114,773)<span  />
+					[122] (68,773)<span >README.md />
+	[123] (101,809)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pyproject.toml-item' role='treeitem' />
+		[124] (101,809)<div  />
+			[125] (106,809)<div  />
+				[126] (32,809)<div  />
+				[127] (114,809)<span  />
+					[128] (72,809)<span >pyproject.toml />
+	[129] (101,846)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='uv.lock-item' role='treeitem' />
+		[130] (101,846)<div  />
+			[131] (106,846)<div  />
+				[132] (32,845)<div  />
+				[133] (114,846)<span  />
+					[134] (56,846)<span >uv.lock />
+[135] (212,728)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[136] (264,263)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/notebooklm-mcp/tree/main'>notebooklm-mcp />
+/
+pyproject.toml
+[137] (406,264)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[138] (979,264)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_R_icql3al1d_' />
+Latest commit
+Jacob BD
+and
+Jacob BD
+[139] (434,325)<a class='Link--secondary' href='/wonseokjung/notebooklm-mcp/commit/43b30fd12d5e7ca6774ffd3a1a1f9153a9d726d3'>chore: release v0.1.15 (docs updated) />
+[140] (858,325)<a aria-label='Commit 43b30fd' class='Link--secondary prc-Link-Link-9ZwDx' href='/wonseokjung/notebooklm-mcp/commit/43b30fd12d5e7ca6774ffd3a1a1f9153a9d726d3'>43b30fd />
+·
+History
+[141] (958,325)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/wonseokjung/notebooklm-mcp/commits/main/pyproject.toml' />
+	[142] (958,325)<span  />
+		[143] (964,325)<span  />
+			[144] (964,325)<span >History />
+File metadata and controls
+[145] (248,395)<button class='prc-SegmentedControl-Button-E48xz' />
+	[146] (248,395)<span  />
+		[147] (248,395)<div >Code />
+[148] (290,395)<button class='prc-SegmentedControl-Button-E48xz' />
+	[149] (290,395)<span  />
+		[150] (290,395)<div >Blame />
+40 lines (36 loc) · 980 Bytes
+[151] (870,395)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/wonseokjung/notebooklm-mcp/raw/refs/heads/main/pyproject.toml' />
+	[152] (870,395)<span  />
+		[153] (870,395)<span >Raw />
+[154] (892,395)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[155] (910,395)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[156] (951,395)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_2c_' />
+[157] (974,395)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[158] (606,888)<textarea aria-label='file content' class='react-blob-textarea react-blob-print-hide' id='read-only-cursor-text-area' />
+[159] (258,441)<div >1 />
+[160] (258,464)<div >2 />
+[161] (258,486)<div >3 />
+[162] (258,508)<div >4 />
+[163] (258,531)<div >5 />
+[164] (258,553)<div >6 />
+[165] (258,576)<div >7 />
+[166] (258,598)<div >8 />
+[167] (258,621)<div >9 />
+[168] (256,643)<div >10 />
+[169] (256,666)<div >11 />
+[170] (256,688)<div >12 />
+[171] (256,710)<div >13 />
+[172] (256,733)<div >14 />
+[173] (256,755)<div >15 />
+[174] (256,778)<div >16 />
+[175] (256,800)<div >17 />
+[176] (256,823)<div >18 />
+[177] (256,845)<div >19 />
+[178] (256,868)<div >20 />
+[179] (256,890)<div >21 />
+[180] (256,912)<div >22 />
+[181] (256,935)<div >23 />
+[182] (256,957)<div >24 />
+[183] (256,980)<div >25 />
+26
+[
+build-system
+]
+requires
+= [
+"
+hatchling
+"
+]
+build-backend
+=
+"
+hatchling.build
+"
+[
+project
+]
+name
+=
+"
+notebooklm-mcp-server
+"
+version
+=
+"
+0.1.15
+"
+description
+=
+"
+MCP server for NotebookLM (notebooklm.google.com)
+"
+readme
+=
+"
+README.md
+"
+license
+=
+"
+MIT
+"
+requires-python
+=
+"
+>=3.11
+"
+authors
+= [
+{
+name
+=
+"
+Jacob Ben-David
+"
+}
+]
+keywords
+= [
+"
+mcp
+"
+,
+"
+notebooklm
+"
+,
+"
+google
+"
+,
+"
+ai
+"
+,
+"
+research
+"
+]
+classifiers
+= [
+"
+Development Status :: 3 - Alpha
+"
+,
+"
+Intended Audience :: Developers
+"
+,
+"
+License :: OSI Approved :: MIT License
+"
+,
+"
+Programming Language :: Python :: 3.11
+"
+,
+"
+Programming Language :: Python :: 3.12
+"
+,
+]
+dependencies
+= [
+"
+fastmcp>=0.1.0
+"
+,
+"
+httpx>=0.27.0
+"
+,
+"
+websocket-client>=1.6.0
+"
+,
+
+</current_dom>

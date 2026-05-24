@@ -1,0 +1,26 @@
+# Exclude everything by default
+**/*
+
+# Include necessary files
+!package.json
+!out/extension.js
+!assets/**
+!readme.md
+!LICENSE.txt
+!index.html
+!style.css
+!brain-viz.html
+!.vscode/**
+
+# Exclude massive folders specifically
+AI_Director_Prototype/
+Antigravity_Brain_Backup/
+knowledge/
+*.pdf
+node_modules/
+src/
+tsconfig.json
+esbuild.js
+.git/
+.gitignore
+.antigravityignore

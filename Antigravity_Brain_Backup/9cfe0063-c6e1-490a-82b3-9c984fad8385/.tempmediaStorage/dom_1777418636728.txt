@@ -1,0 +1,54 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Repository files navigation
+[0] (136,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (115,27)<span  />
+	[2] (144,27)<span >README />
+[3] (201,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[4] (183,27)<span  />
+	[5] (209,27)<span >License />
+[6] (678,26)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+audio_overview_create
+오디오 팟캐스트 생성 (확인 필요)
+video_overview_create
+비디오 오버뷰 생성 (확인 필요)
+infographic_create
+인포그래픽 생성 (확인 필요)
+slide_deck_create
+슬라이드 덱 생성 (확인 필요)
+studio_status
+스튜디오 아티팩트 생성 상태 확인
+studio_delete
+스튜디오 아티팩트 삭제 (확인 필요)
+refresh_auth
+디스크에서 인증 토큰 다시 로드 또는 헤드리스 재인증 실행
+save_auth_tokens
+인증용 쿠키 저장
+중요 고지 사항
+[7] (111,364)<a aria-label='Permalink: 중요 고지 사항' class='anchor' href='#중요-고지-사항' id='user-content-중요-고지-사항' />
+이 MCP는 다음과 같은
+내부 API
+를 사용합니다:
+문서화되지 않았으며 예고 없이 변경될 수 있습니다.
+브라우저에서 쿠키 추출이 필요합니다.
+개인적/실험적 목적으로만 사용해 주십시오.
+설치 방법
+[8] (111,600)<a aria-label='Permalink: 설치 방법' class='anchor' href='#설치-방법' id='user-content-설치-방법' />
+선호하는 Python 패키지 관리자(uv, pip, pipx 등)를 사용하여 PyPI에서
+notebooklm-mcp-server
+를 설치할 수 있습니다.
+소스 코드에서 직접 설치하는 방법도 지원합니다.
+업데이트 방법
+[9] (111,759)<a aria-label='Permalink: 업데이트 방법' class='anchor' href='#업데이트-방법' id='user-content-업데이트-방법' />
+패키지 관리자의 업그레이드 명령어를 사용하여 최신 버전으로 업데이트하세요.
+업데이트 후에는 AI 도구를 재시작하여 연결을 갱신해야 합니다:
+Claude Code:
+애플리케이션을 재시작하거나 재연결 명령을 사용
+Cursor:
+애플리케이션 재시작
+Gemini CLI:
+CLI 세션 재시작
+
+</current_dom>

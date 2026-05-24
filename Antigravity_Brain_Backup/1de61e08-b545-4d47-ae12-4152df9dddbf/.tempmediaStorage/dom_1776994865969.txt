@@ -1,0 +1,29 @@
+[0] (500,30)<a class='block w-full shrink-0 bg-accent-blue' href='/account?source=springSaleBanner' />
+	[1] (500,30)<div  />
+		[2] (650,30)<div  />
+			[3] (262,30)<span >Save 20% on Annual Pro and Premier />
+			Spring Sale Extended: Lock in for less
+[4] (500,530)<div class='scrollbar-hide relative flex h-full w-full flex-col overflow-x-hidden overflow-y-scroll scroll-smooth' scrollable='true' />
+	[5] (61,118)<a class='relative inline-block h-[19.394px] w-[78.709px]' href='/home' />
+	[6] (832,118)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 text-[15px] leading-[24px] rounded-md text-foreground-primary bg-transparent enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50' />
+		[7] (832,118)<span >Log In />
+	[8] (929,118)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 text-[15px] leading-[24px] rounded-full text-white bg-black bg-cover bg-center bg-(image:--button-background-image) before:bg-cover before:bg-center before:opacity-50 before:bg-(image:--button-background-image-overlay) enabled:hover:before:bg-black/25 enabled:hover:before:opacity-45 animate-aura-background animate-stop hover:animate-play animate-duration-(--button-background-hover-speed) disabled:after:bg-background-primary disabled:after:opacity-50' />
+		[9] (929,118)<span >Open App />
+	[10] (224,271)<button class='relative font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-background-primary enabled:hover:before:bg-overlay-on-light disabled:after:bg-background-primary disabled:after:opacity-50 flex h-[40px] w-[40px] items-center justify-center bg-primary/10' />
+		[11] (224,271)<span  />
+	Turn any idea into a song
+	Beat, lyrics, or both
+	Lyrics
+	[12] (653,413)<button class='css-jhj0x4 e2bc4gy0' id='base-ui-_r_3a_' />
+		[13] (653,413)<span >Auto />
+	[14] (729,413)<button class='active css-jhj0x4 e2bc4gy0' id='base-ui-_r_3c_'>Write Lyrics />
+		Write Lyrics
+	[15] (500,582)<textarea class='custom-textarea w-full flex-1 p-4 pb-8 font-sans text-foreground-primary focus:outline-none text placeholder:lighterGray placeholder:select-none resize-none bg-transparent placeholder:brightness-150 h-full custom-scrollbar-transparent' placeholder='Add your own lyrics here' />
+	[16] (244,748)<div aria-label='Instrumental' class='relative inline-flex items-center rounded-full transition-colors duration-300 ease-in-out ring-foreground-tertiary/20 cursor-pointer h-8 w-12 border-0 ring-0 bg-white/10' role='switch' />
+		[17] (236,748)<span  />
+	Instrumental
+	[18] (500,856)<div  />
+		[19] (480,856)<div >Styles />
+		[20] (760,856)<div  />
+			[21] (760,856)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary-on-dark bg-background-fog-thin before:border-border-primary-on-dark backdrop-blur-md enabled:hover:bg-background-fog-dense disabled:opacity-30' />
+				[22] (760,856)<span  />

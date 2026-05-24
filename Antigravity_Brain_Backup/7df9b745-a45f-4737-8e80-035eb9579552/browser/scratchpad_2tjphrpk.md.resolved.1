@@ -1,0 +1,20 @@
+# Task: Investigate Syncthing Folders and Failed Items
+
+## Plan
+1. [x] Navigate to http://localhost:8384
+2. [x] List all folders in Syncthing
+3. [x] Verify 'Kevincity Share' absolute path (D:\20260412 kevincity share)
+4. [x] Check for 'Goodtobehere공유폴더' (Not present as a root folder)
+5. [x] Examine 'Failed Items' for 'Kevincity Share' (Program Files found)
+6. [x] Determine why 'Program Files' and 'Recycle Bin' are involved
+7. [ ] Report findings
+
+## Findings
+- **Kevincity Share Path**: `D:\20260412 kevincity share`.
+- **Goodtobehere공유폴더**: This path is NOT currently added as a folder in Syncthing.
+- **Program Files/Recycle Bin**: 
+    - The 'Failed Items' list shows paths like `Program Files\nodejs\...`. 
+    - Since the folder root is `D:\20260412 kevincity share`, this indicates that a folder named `Program Files` exists **inside** `D:\20260412 kevincity share`.
+    - Syncthing is attempting to sync these because they are within the designated share directory.
+    - If the user sees these and doesn't want them shared, they should either move them out or add them to the `.stignore` file.
+- **Incoming Request**: There is a pending request from `upload2601` to share a folder named `kevincity share` (ID: `embcu-ntnsc`). This is separate from the existing folder.

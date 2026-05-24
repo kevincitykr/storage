@@ -1,0 +1,147 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (329,125)<a class='inline shrink-0' href='/search/%EB%A9%94%EA%B0%80%EC%BB%A4%ED%94%BC' />
+	[7] (329,125)<span >메가커피 />
+		[8] (316,125)<span >1
+. />
+[9] (374,125)<a class='inline shrink-0' href='/search/%EB%B0%94%EC%9D%B4%EC%94%A8%EB%8B%88' />
+	[10] (374,125)<span >바이씨니 />
+		[11] (361,125)<span >2
+. />
+[12] (414,125)<a class='inline shrink-0' href='/search/%EC%A4%8C%EB%B0%94' />
+	[13] (414,125)<span >줌바 />
+		[14] (407,125)<span >3
+. />
+[15] (448,125)<a class='inline shrink-0' href='/search/ddr5' />
+	[16] (448,125)<span >ddr5 />
+		[17] (439,125)<span >4
+. />
+[18] (485,125)<a class='inline shrink-0' href='/search/%EA%B3%A8%EB%93%9C%EB%B0%94' />
+	[19] (485,125)<span >골드바 />
+		[20] (475,125)<span >5
+. />
+[21] (666,69)<a href='/search/4070?sort=RECENT&minPrice=1400000&maxPrice=1650000&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+[36] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[37] (215,187)<span  />
+		[38] (215,187)<div  />
+			[39] (225,187)<span >카테고리 />
+[40] (286,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/event/list?searchType=ING' />
+	[41] (286,190)<span >이벤트 />
+[42] (338,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/fraud' />
+	[43] (338,190)<span >사기조회 />
+[44] (395,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/search-price' />
+	[45] (395,190)<span >시세조회 />
+[46] (452,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/contents' />
+	[47] (452,190)<span >읽을거리 />
+[48] (505,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/favorite' />
+	[49] (505,190)<span >내 관심 />
+최근 본 상품
+[50] (904,411)<button aria-label='최근 본 상품 14600kf 4070ti super 모든거 다처분함 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[51] (886,451)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/213254091' />
+	[52] (886,451)<img  />
+[53] (904,543)<button aria-label='최근 본 상품 그램 15 판매합니다. 미개봉 새상품 15ZD80T-GX56K 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[54] (886,584)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228196645' />
+	[55] (886,584)<img  />
+[56] (904,676)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[57] (886,716)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[58] (886,716)<img  />
+4070 중고거래 | 중고나라 - 안심되는 중고거래
+검색결과
+연관검색어
+[59] (528,436)<div class='outline-none gap-2 flex flex-row justify-start items-stretch flex-nowrap flex-1 overflow-x-scroll w-full relative' scrollable='true' />
+	[60] (260,436)<a aria-label='연관검색어 "rtx 4070" 검색 결과보기' class='min-w-fit' href='/search/rtx%204070?keywordSource=RELATED_KEYWORD' />
+		[61] (260,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[62] (260,436)<span >rtx 4070 />
+	[63] (304,436)<a aria-label='연관검색어 "msi 4070" 검색 결과보기' class='min-w-fit' href='/search/msi%204070?keywordSource=RELATED_KEYWORD' />
+		[64] (304,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[65] (304,436)<span >msi 4070 />
+	[66] (354,436)<a aria-label='연관검색어 "4070 super" 검색 결과보기' class='min-w-fit' href='/search/4070%20super?keywordSource=RELATED_KEYWORD' />
+		[67] (354,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[68] (354,436)<span >4070 super />
+	[69] (399,436)<a aria-label='연관검색어 "4070 ti" 검색 결과보기' class='min-w-fit' href='/search/4070%20ti?keywordSource=RELATED_KEYWORD' />
+		[70] (399,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[71] (399,436)<span >4070 ti />
+	[72] (433,436)<a aria-label='연관검색어 "4060" 검색 결과보기' class='min-w-fit' href='/search/4060?keywordSource=RELATED_KEYWORD' />
+		[73] (433,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[74] (433,436)<span >4060 />
+	[75] (482,436)<a aria-label='연관검색어 "지포스 rtx 5070" 검색 결과보기' class='min-w-fit' href='/search/%EC%A7%80%ED%8F%AC%EC%8A%A4%20rtx%205070?keywordSource=RELATED_KEYWORD' />
+		[76] (482,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[77] (482,436)<span >지포스 rtx 5070 />
+	[78] (531,436)<a aria-label='연관검색어 "2060" 검색 결과보기' class='min-w-fit' href='/search/2060?keywordSource=RELATED_KEYWORD' />
+		[79] (531,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[80] (531,436)<span >2060 />
+	[81] (567,436)<a aria-label='연관검색어 "rtx 4070" 검색 결과보기' class='min-w-fit' href='/search/rtx%204070?keywordSource=RELATED_KEYWORD' />
+		[82] (567,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[83] (567,436)<span >rtx 4070 />
+	[84] (602,436)<a aria-label='연관검색어 "2070" 검색 결과보기' class='min-w-fit' href='/search/2070?keywordSource=RELATED_KEYWORD' />
+		[85] (602,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[86] (602,436)<span >2070 />
+	[87] (632,436)<a aria-label='연관검색어 "2080" 검색 결과보기' class='min-w-fit' href='/search/2080?keywordSource=RELATED_KEYWORD' />
+		[88] (632,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[89] (632,436)<span >2080 />
+	[90] (661,436)<a aria-label='연관검색어 "4080" 검색 결과보기' class='min-w-fit' href='/search/4080?keywordSource=RELATED_KEYWORD' />
+		[91] (661,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[92] (661,436)<span >4080 />
+	[93] (698,436)<a aria-label='연관검색어 "rtx 3080" 검색 결과보기' class='min-w-fit' href='/search/rtx%203080?keywordSource=RELATED_KEYWORD' />
+		[94] (698,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[95] (698,436)<span >rtx 3080 />
+	[96] (754,436)<a aria-label='연관검색어 "지포스 rtx 4060" 검색 결과보기' class='min-w-fit' href='/search/%EC%A7%80%ED%8F%AC%EC%8A%A4%20rtx%204060?keywordSource=RELATED_KEYWORD' />
+		[97] (754,436)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit' />
+			[98] (754,436)<span >지포스 rtx 4060 />
+	rtx 3060
+	rtx 4070 ti
+	[99] (805,436)<button class='w-6 h-6 aspect-square rounded-full border border-gray-300 bg-white flex items-center justify-center' />
+카테고리
+[100] (253,513)<button  />
+[101] (298,513)<a role='button'>전체 />
+가격
+[102] (331,609)<input class='bg-transparent border-none outline-none text-[16px] flex-1' placeholder='최소 가격' />
+[103] (378,609)<button class='p-1' />
+~
+[104] (452,609)<input class='bg-transparent border-none outline-none text-[16px] flex-1' placeholder='최대 가격' />
+[105] (500,609)<button class='p-1' />
+[106] (544,609)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700' />
+	[107] (544,609)<span >적용 />
+옵션
+[108] (317,706)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>무료배송 />
+	[109] (297,706)<span  />
+[110] (398,706)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>인증셀러 상품 />
+	[111] (367,706)<span  />
+[112] (498,706)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>판매완료 상품 제외 />
+	[113] (457,706)<span  />
+선택한 필터
+전체
+1,400,000원 ~ 1,650,000원
+판매완료 상품 제외
+[114] (792,787)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit h-fit' />
+	[115] (792,787)<span >초기화 />
+	[116] (792,798)<div  />
+검색 상품 가격 요약
+[117] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 bg-white/90 border border-gray-300 rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto' />
+	[118] (854,907)<div  />
+		[119] (841,907)<span >키워드 알림 받기 />
+		[120] (903,907)<div  />
+
+</current_dom>

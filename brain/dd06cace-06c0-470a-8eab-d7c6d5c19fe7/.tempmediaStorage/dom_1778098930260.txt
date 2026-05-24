@@ -1,0 +1,102 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (327,125)<a class='inline shrink-0' href='/search/3080' />
+	[6] (327,125)<span >3080 />
+		[7] (318,125)<span >16
+. />
+[8] (370,125)<a class='inline shrink-0' href='/search/9600x' />
+	[9] (370,125)<span >9600x />
+		[10] (359,125)<span >17
+. />
+[11] (421,125)<a class='inline shrink-0' href='/search/%ED%8F%AC%EC%BC%93%EB%AA%AC%EC%B9%B4%EB%93%9C' />
+	[12] (421,125)<span >포켓몬카드 />
+		[13] (404,125)<span >18
+. />
+[14] (467,125)<a class='inline shrink-0' href='/search/%EB%8D%98%EC%8A%A4' />
+	[15] (467,125)<span >던스 />
+		[16] (460,125)<span >19
+. />
+[17] (504,125)<a class='inline shrink-0' href='/search/%EC%83%A4%EB%84%AC' />
+	[18] (504,125)<span >샤넬 />
+		[19] (497,125)<span >20
+. />
+[20] (666,69)<a href='/product/228244891?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+[35] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[36] (215,187)<span  />
+		[37] (215,187)<div  />
+			[38] (225,187)<span >카테고리 />
+[39] (286,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/event/list?searchType=ING' />
+	[40] (286,190)<span >이벤트 />
+[41] (338,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/fraud' />
+	[42] (338,190)<span >사기조회 />
+[43] (395,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/search-price' />
+	[44] (395,190)<span >시세조회 />
+[45] (452,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/contents' />
+	[46] (452,190)<span >읽을거리 />
+[47] (505,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/favorite' />
+	[48] (505,190)<span >내 관심 />
+최근 본 상품
+[49] (904,411)<button aria-label='최근 본 상품 i7-14700K, RTX 4060 영상 및 게이밍 컴퓨터 PC 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[50] (886,451)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228244891' />
+	[51] (886,451)<img  />
+[52] (904,543)<button aria-label='최근 본 상품 특가 38만원/인텔 14400f 14700k 14900 14100 주식컴퓨터 영상편집 사무용 조립pc 게이밍컴퓨터 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[53] (886,584)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228315998' />
+	[54] (886,584)<img  />
+[55] (320,610)<div  />
+[56] (444,610)<button aria-label='다음 슬라이드' class='absolute top-1/2 -translate-y-1/2 z-10 p-2 rounded-full hover:bg-white/60 disabled:hidden right-1' />
+1
+/
+5
+[57] (490,315)<a class='whitespace-pre-line text-14 font-regular max-md:text-12 text-gray-500' href='https://web.joongna.com/'>홈 />
+[58] (534,315)<a class='whitespace-pre-line text-14 font-regular max-md:text-12 text-gray-500' href='/search?category=8'>노트북/PC />
+[59] (599,315)<a class='whitespace-pre-line text-14 font-regular max-md:text-12 text-gray-500' href='/search?category=159'>데스크탑/본체 />
+[60] (659,315)<a class='whitespace-pre-line text-14 font-regular max-md:text-12' href='/search?category=1199'>조립PC />
+i7-14700K, RTX 4060 영상 및 게이밍 컴퓨터 PC
+1,300,000원
+[61] (801,495)<a aria-label='i7-14700K, RTX 4060 영상 및 게이밍 컴퓨터 PC 시세조회' class='ga4_product_detail_price' href='/search-price/i7-14700K%2C%20RTX%204060%20%EC%98%81%EC%83%81%20%EB%B0%8F%20%EA%B2%8C%EC%9D%B4%EB%B0%8D%20%EC%BB%B4%ED%93%A8%ED%84%B0%20PC?productSeq=228244891' />
+	[62] (801,495)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-500 hover:bg-gray-500/5 active:bg-gray-500/10' />
+		[63] (801,495)<span >시세조회 />
+		[64] (801,505)<div  />
+1일 전
+117
+1
+1
+직거래
+직거래
+만나서 직거래
+[65] (798,747)<li  />
+	[66] (798,747)<span class='text-13 whitespace-nowrap underline underline-offset-2' role='button'>감일동 />
+상품 상태
+중고, 구성품 없음
+[67] (594,987)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] bg-white border border-gray-400 text-gray-900 active:border-gray-900 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16 max-md:ml-2' />
+	[68] (594,987)<span >채팅하기 />
+[69] (748,987)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] text-white bg-gray-900 border active:border-gray-700 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16' />
+	[70] (748,987)<span >구매하기 />
+[71] (500,913)<button class='flex items-center gap-1 py-2 px-4 min-w-max bg-white border border-gray-200 shadow-lg rounded-full fixed md:bottom-10 max-md:bottom-20 left-1/2 -translate-x-1/2 z-20' />
+	[72] (438,913)<div  />
+		[73] (438,913)<img  />
+	[74] (501,913)<span >모아보기 />
+		[75] (481,913)<strong >결제 혜택 수수료 />
+
+</current_dom>

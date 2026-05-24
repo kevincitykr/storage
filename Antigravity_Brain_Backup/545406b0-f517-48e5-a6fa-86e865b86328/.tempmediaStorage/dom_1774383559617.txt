@@ -1,0 +1,323 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+연속 스크롤 사용 중지
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (56,73)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjisPXprbmTAxVymq8BHdVVLikQPAgK' id='logo' title='Google 홈페이지로 이동' />
+[1] (329,71)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (548,71)<div  />
+	[3] (546,71)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (546,71)<span  />
+	[5] (562,71)<span  />
+[6] (578,71)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (578,71)<span  />
+[8] (604,71)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (630,71)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (660,71)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (656,71)<div  />
+		[12] (656,71)<span  />
+[13] (914,71)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp&authuser=0' role='button' />
+[14] (945,71)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,71)<a aria-label='Google 계정: 김광섭  
+(kevincitykr001@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%2522OpenAI%2BAPI%2Bkey%2522%2B%25EB%25B0%259C%25EA%25B8%2589%2B%25EB%25B0%25A9%25EB%25B2%2595%2B2024%26udm%3D2&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (141,156)<a class='XVMlrc C6AK7c' href='/search?q=%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVfC6Ie7udEaADo6Oll41VwiTK4mktyhGXhsHi1Y9iVIDt-5xBEoatvVukOw01xNLjCjP_QsYoeCdsfZATjsRsLbLvHGcbLWGHXAxWTLMFwtIyi-gig&aep=1&ntc=1&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQ2J8OegQICRAD' />
+	[17] (141,156)<div  />
+		[18] (141,168)<div  />
+			[19] (141,161)<span >AI 모드 />
+[20] (179,156)<a class='C6AK7c' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVfC6Ie7udEaADo6Oll41VwiTK4mktyhGXhsHi1Y9iVIDt-5xBEoatvVukOw01xNLjCjP_QsYoeCdsfZATjsRsLbLvHGcbLWGHXAxWTLMFwtIyi-gig&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQ0pQJegQIDRAB' />
+	[21] (179,156)<div  />
+		[22] (179,168)<span >전체 />
+[23] (225,156)<a class='C6AK7c' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVfC6Ie7udEaADo6Oll41VwiTK4mktyhGXhsHi1Y9iVIDt-5xBEoatvVukOw01xNLjCjP_QsYoeCdsfZATjsRsLbLvHGcbLWGHXAxWTLMFwtIyi-gig&q=%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQs6gLegQICxAB' />
+	[24] (225,156)<div  />
+		[25] (225,168)<span >짧은 동영상 />
+[26] (272,156)<a class='C6AK7c' href='/finance?sca_esv=3631f857cd865840&output=search&q=%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVfC6Ie7udEaADo6Oll41VwiTK4mktyhGXhsHi1Y9iVIDt-5xBEoatvVukOw01xNLjCjP_QsYoeCdsfZATjsRsLbLvHGcbLWGHXAxWTLMFwtIyi-gig&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQ0pQJegQIDBAB' />
+	[27] (272,156)<div  />
+		[28] (272,168)<span >금융 />
+[29] (308,156)<a class='C6AK7c' role='link' />
+	이미지
+[30] (341,156)<a class='C6AK7c' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&udm=web&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVfC6Ie7udEaADo6Oll41VwiTK4mktyhGXhsHi1Y9iVIDt-5xBEoatvVukOw01xNLjCjP_QsYoeCdsfZATjsRsLbLvHGcbLWGHXAxWTLMFwtIyi-gig&q=%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQs6gLegQIDxAB' />
+	[31] (341,156)<div  />
+		[32] (341,168)<span >웹 />
+[33] (369,156)<a class='C6AK7c' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVfC6Ie7udEaADo6Oll41VwiTK4mktyhGXhsHi1Y9iVIDt-5xBEoatvVukOw01xNLjCjP_QsYoeCdsfZATjsRsLbLvHGcbLWGHXAxWTLMFwtIyi-gig&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQ0pQJegQIChAB' />
+	[34] (369,156)<div  />
+		[35] (369,168)<span >뉴스 />
+[36] (411,156)<div class='mTpL7c' role='button' />
+	[37] (411,156)<div  />
+		[38] (411,168)<div  />
+			[39] (405,161)<span >더보기 />
+			[40] (424,161)<span  />
+[41] (660,156)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (660,156)<div  />
+		[43] (660,168)<div  />
+			[44] (655,161)<span >도구 />
+			[45] (669,161)<span  />
+[46] (958,157)<a href='/save?sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQ7XV6BAgHEAA' />
+	[47] (939,159)<span  />
+	[48] (966,158)<span >저장 항목 />
+[49] (70,249)<a aria-label='Openai platform 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=openai+platform+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-lZXy4WXjCBs-WMfCmu8tIfTB4foMtsXavr1-1fUSrdk4a3aW13Wdg54hYlDJgGTnSPmn7IItbJtpq7imiNheD4BWihK7ErgDnO8eW8rVVZPVh0VViyWDLRjsTY2DLA1PSb7MeBqgrY_h6S-HBVtZPgqndgo5fwRkK7bbODIcP3lb_k6w&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAB6BAgQEAE&ictx=0' role='link' />
+	[50] (70,249)<div  />
+		[51] (29,249)<span  />
+			[52] (29,249)<div  />
+		[53] (84,249)<span >Openai platform />
+[54] (170,249)<a aria-label='Gpt 4o 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=gpt+4o+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-1SJLs6PR4i_l8aWdSowUAYST5DyxfEr6qKa4s2SdKCJenDH0OyaaEcOGk4PVzDfLLM9qWNAlJK_UBBogy5PAVv-zIQIp3RRpdRXlB0tC28E_jLwPeo2ShatIsNkFkIJU1ksRJPB3Ke1bwDqpCH_ohwiBI4OfZDAgVwkxkLmYAGu-4XSs&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAF6BAgbEAE&ictx=0' role='link' />
+	[55] (170,249)<div  />
+		[56] (148,249)<span  />
+			[57] (148,249)<div  />
+		[58] (184,249)<span >Gpt 4o />
+[59] (254,249)<a aria-label='Chatgpt 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=chatgpt+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ii7VtfXZnR55IuglcdQbH4Zzm6rilAzy6eJA3Uw-LyE6nDPDCqkO-m4JS7cAvyO3mjFb8kKX9uoJK4DRMo65skSK03UP7tLAHRPzY_jkiC1BU1USJx5mWYUq22yWGvaR584DsxEP5tCn3VXSvYR84FE4G8px0CvABC0PSQvHsbTHbDOI&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAJ6BAgcEAE&ictx=0' role='link' />
+	[60] (254,249)<div  />
+		[61] (229,249)<span  />
+			[62] (229,249)<div  />
+		[63] (268,249)<span >Chatgpt />
+[64] (342,249)<a aria-label='Open api 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=open+api+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FI12WB8XefYsPz5ZDjWI97cJpKm4AOJndALT7fyfpw2iG3Lis4WW8QjGKLTRshFPnauXysXqh_nojuSFLRVC3AQhJsCNXRav1H4SgwOK5yR9KxjBmnurTF3Tcr2fWYw_DyplvrQ5XjBUDikSgCFCCWkFjGy3aLAAPAemvec28KtASu2S&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAN6BAgfEAE&ictx=0' role='link' />
+	[65] (342,249)<div  />
+		[66] (315,249)<span  />
+			[67] (315,249)<div  />
+		[68] (356,249)<span >Open api />
+[69] (429,249)<a aria-label='4o mini 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=4o+mini+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ii7VtfXZnR55IuglcdQbH4Zzm6rilAzy6eJA3Uw-LyE6nDPDCqkO-m4JS7cAvyO3Xq_joyC3y3oWBizMmxmAqO_5OmuCRbk5QOwWw30-YZjepAmRqYsCEQjz6Rx-qTBgPUqaBDnWsTRTOHOlu63aFtTt10lIEn7kVfS0cQK1-MWw5aff&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAR6BAgeEAE&ictx=0' role='link' />
+	[70] (429,249)<div  />
+		[71] (406,249)<span  />
+			[72] (406,249)<div  />
+		[73] (443,249)<span >4o mini />
+[74] (515,249)<a aria-label='Api keys 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=api+keys+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-FI12WB8XefYsPz5ZDjWI97cJpKm4AOJndALT7fyfpw2iG3Lis4WW8QjGKLTRshFPvGHJepJb04jsfVYhq05lpGJx7YWsvVNjpbPNQOEoF3P7v2qKsGv8y_DB5EmmdqFxFWoW91UUdMW_U2iI29qAHed-6JFeYG4PpLEC16rRtDyBPen1&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAV6BQiCARAB&ictx=0' role='link' />
+	[75] (515,249)<div  />
+		[76] (489,249)<span  />
+			[77] (489,249)<div  />
+		[78] (529,249)<span >Api keys />
+[79] (603,249)<a aria-label='Open ai 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=open+ai+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ii7VtfXZnR55IuglcdQbH4Zzm6rilAzy6eJA3Uw-LyE6nDPDCqkO-m4JS7cAvyO3d0VDwCG0VMdLd6-ozIimcAaxRMuN70ekgP8toD0okGLvHFfohYge0Umf-WyPEkqaHpvUrBy3j4AdX3XhI03gGDg3UPLZZZyFV2jeWtOsdmpnzkPY&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAZ6BQiEARAB&ictx=0' role='link' />
+	[80] (603,249)<div  />
+		[81] (578,249)<span  />
+			[82] (578,249)<div  />
+		[83] (617,249)<span >Open ai />
+[84] (686,249)<a aria-label='오픈 ai 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=%EC%98%A4%ED%94%88+ai+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ibi_YxfvgNKakgd6aFgw6t6cy4uyPrFwqWPeG7B3T4NCedrf_oY4Gc3xoUnD5fV2hfCFqRbaqeWDOLKpPlRfmhuGpuMoHiLCQqeWojPUUduBUyXvYZwo4QiCMPNL7YSpBajh5Jn14kwSUAmgwTXaoGR1K40NOgDL194LBEcp92P-fU8B&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAd6BQiFARAB&ictx=0' role='link' />
+	[85] (686,249)<div  />
+		[86] (664,249)<span  />
+			[87] (664,249)<div  />
+		[88] (700,249)<span >오픈 ai />
+[89] (774,249)<a aria-label='Langchain 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=langchain+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-ibi_YxfvgNKakgd6aFgw6t6cy4uyPrFwqWPeG7B3T4NCedrf_oY4Gc3xoUnD5fV2yxU4eNTv7WP10P5V5c-0QWrfno0a9LBX0bQDqr7DNWB5Fc1uftZzpqnudzTDjmFySmnWcltjgaN_hgAr8VEIg_8wUpJvDjN3wzczaNLD3CKi0iqe&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAh6BQiDARAB&ictx=0' role='link' />
+	[90] (774,249)<div  />
+		[91] (744,249)<span  />
+			[92] (744,249)<div  />
+		[93] (788,249)<span >Langchain />
+[94] (852,249)<a aria-label='인공지능 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-C2wfRk_WPCwv56JaUFp85mm68ankuGg1jajFHRFbDuEJ2yE0n8N6Yyr304i2B96hXohvmsXjy8wyXWgEnFlBuWk8Zq1gxo0sw5ZGjEfyD9ftfU3uvoO8Phzwsnrjeg-GydnqajSsWOMSBi5HWk-wJUbcRKyx9fAglME8QT6U1e53ZyJl&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAl6BQiAARAB&ictx=0' role='link' />
+	[95] (852,249)<div  />
+		[96] (852,249)<span >인공지능 />
+[97] (929,249)<a aria-label='Api 사용법 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n4vk8nDPGgcs3CzGTPJ3jno8qcloQ:1774383550787&q=api+%EC%82%AC%EC%9A%A9%EB%B2%95+%22OpenAI+API+key%22+%EB%B0%9C%EA%B8%89+%EB%B0%A9%EB%B2%95+2024&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-p2edqP4ik7v2FPRwJbsSBBIA9dBUzkCPrtpDhyzn5YBRCSptiYo3w8_LKLoYK9hwj931snKdl02Idd5YfPANcrYrDIR4ZBRH8QkCA0Gul_owZqsY2lAfdynXpca1X2We-mb4-iVoQ5Yo3dwAW7mBq_XipkZtv_vgJLlEK0OYO4gKR63W&udm=2&sa=X&ved=2ahUKEwjisPXprbmTAxVymq8BHdVVLikQxKsJKAp6BQiBARAB&ictx=0' role='link' />
+	[98] (929,249)<div  />
+		[99] (900,249)<span  />
+			[100] (900,249)<div  />
+		[101] (943,249)<span >Api 사용법 />
+검색결과
+[102] (107,473)<div  />
+	[103] (107,440)<div  />
+		[104] (107,440)<h3  />
+			[105] (107,440)<a  />
+				[106] (107,440)<div class='F0uyec' id='e-Lv8fns-JMdvOMM' role='button' />
+					[107] (107,440)<div  />
+						[108] (107,440)<div  />
+							[109] (107,440)<img  />
+	[110] (107,596)<div  />
+		[111] (107,596)<a class='EZAeBe' href='https://teddylee777.github.io/openai/openai-api-key/' />
+			[112] (107,585)<div  />
+				[113] (20,584)<div  />
+					[114] (20,584)<div  />
+						[115] (20,584)<img  />
+				[116] (41,585)<div  />
+					[117] (41,585)<div  />
+						[118] (41,584)<span >테디노트 />
+			[119] (107,611)<div  />
+				[120] (107,611)<div >2024년 UPDATE] OpenAI Python API 키 발급방법, 요금체계 - 테디노트 />
+[121] (287,473)<div  />
+	[122] (287,440)<div  />
+		[123] (287,440)<h3  />
+			[124] (287,440)<a  />
+				[125] (287,440)<div class='F0uyec' id='e-Y27e62BFrGlwqM' role='button' />
+					[126] (287,440)<div  />
+						[127] (287,440)<div  />
+							[128] (287,440)<img  />
+	[129] (287,596)<div  />
+		[130] (287,596)<a class='EZAeBe' href='https://teddylee777.github.io/openai/openai-api-key/' />
+			[131] (287,585)<div  />
+				[132] (220,584)<div  />
+					[133] (220,584)<div  />
+						[134] (220,584)<img  />
+				[135] (241,585)<div  />
+					[136] (241,585)<div  />
+						[137] (241,584)<span >테디노트 />
+			[138] (287,611)<div  />
+				[139] (287,611)<div >2024년 UPDATE] OpenAI Python API 키 발급방법, 요금체계 - 테디노트 />
+[140] (431,473)<div  />
+	[141] (431,440)<div  />
+		[142] (431,440)<h3  />
+			[143] (431,440)<a  />
+				[144] (431,440)<div class='F0uyec' id='e-HCnKGiMg570TrM' role='button' />
+					[145] (431,440)<div  />
+						[146] (431,440)<div  />
+							[147] (431,440)<img  />
+	[148] (431,596)<div  />
+		[149] (431,596)<a class='EZAeBe' href='https://deepdaive.com/openai-api-key/' />
+			[150] (431,585)<div  />
+				[151] (380,584)<div  />
+					[152] (380,584)<div  />
+						[153] (380,584)<img  />
+				[154] (406,585)<div  />
+					[155] (406,585)<div  />
+						[156] (406,584)<span >DeepdAive />
+			[157] (431,611)<div  />
+				[158] (431,611)<div >OpenAI API Key 발급 방법 (2025년) - DeepdAive />
+[159] (548,473)<div  />
+	[160] (548,440)<div  />
+		[161] (548,440)<h3  />
+			[162] (548,440)<a  />
+				[163] (548,440)<div class='F0uyec' id='e-SVFwuaVWe53mIM' role='button' />
+					[164] (548,440)<div  />
+						[165] (548,440)<div  />
+							[166] (548,440)<img  />
+	[167] (548,596)<div  />
+		[168] (548,596)<a class='EZAeBe' href='https://deepdaive.com/openai-api-key/' />
+			[169] (548,585)<div  />
+				[170] (507,584)<div  />
+					[171] (507,584)<div  />
+						[172] (507,584)<img  />
+				[173] (533,585)<div  />
+					[174] (533,585)<div  />
+						[175] (533,584)<span >DeepdAive />
+			[176] (548,611)<div  />
+				[177] (548,611)<div >OpenAI API Key 발급 방법 (2025년) - DeepdAive />
+[178] (701,473)<div  />
+	[179] (701,440)<div  />
+		[180] (701,440)<h3  />
+			[181] (701,440)<a  />
+				[182] (701,440)<div class='F0uyec' id='e-o59UcPRuXcxfTM' role='button' />
+					[183] (701,440)<div  />
+						[184] (701,440)<div  />
+							[185] (701,440)<img  />
+	[186] (701,596)<div  />
+		[187] (701,596)<a class='EZAeBe' href='https://wikidocs.net/233342' />
+			[188] (701,585)<div  />
+				[189] (615,584)<div  />
+					[190] (615,584)<div  />
+						[191] (615,584)<img  />
+				[192] (636,585)<div  />
+					[193] (636,585)<div  />
+						[194] (636,584)<span >위키독스 />
+			[195] (701,611)<div  />
+				[196] (701,611)<div >02. OpenAI API 키 발급 및 테스트 - <랭체인LangChain 노트> - LangChain 한국어 튜토리얼🇰🇷 />
+[197] (896,473)<div  />
+	[198] (896,440)<div  />
+		[199] (896,440)<h3  />
+			[200] (896,440)<a  />
+				[201] (896,440)<div class='F0uyec' id='e-Ym5MO6mYb9_pEM' role='button' />
+					[202] (896,440)<div  />
+						[203] (896,440)<div  />
+							[204] (896,440)<img  />
+	[205] (896,596)<div  />
+		[206] (896,596)<a class='EZAeBe' href='https://www.cobang.co.kr/ko/forum/manual/openai-chatgpt-api-key-%EB%B0%9C%EA%B8%89-%EB%B0%A9%EB%B2%95-2025%EB%85%84-7%EC%9B%94-%EA%B0%9C%EC%A0%95-60' />
+			[207] (896,585)<div  />
+				[208] (813,584)<div  />
+					[209] (813,584)<div  />
+						[210] (813,584)<img  />
+				[211] (834,585)<div  />
+					[212] (834,585)<div  />
+						[213] (834,584)<span >코드공방 />
+			[214] (896,611)<div  />
+				[215] (896,611)<div >OpenAI(ChatGPT) API Key 발급 방법 (2025년 7월 개정) - 코드공방 />
+[216] (70,812)<div  />
+	[217] (70,779)<div  />
+		[218] (70,779)<h3  />
+			[219] (70,779)<a  />
+				[220] (70,779)<div class='F0uyec' id='e-Gg7EmjX-RgesbM' role='button' />
+					[221] (70,779)<div  />
+						[222] (70,779)<div  />
+							[223] (70,779)<img  />
+	[224] (70,936)<div  />
+		[225] (70,936)<a class='EZAeBe' href='https://deepdaive.com/openai-api-key/' />
+			[226] (70,925)<div  />
+				[227] (20,924)<div  />
+					[228] (20,924)<div  />
+						[229] (20,924)<img  />
+				[230] (46,925)<div  />
+					[231] (46,925)<div  />
+						[232] (46,924)<span >DeepdAive />
+			[233] (70,951)<div  />
+				[234] (70,951)<div >OpenAI API Key 발급 방법 (2025년) - DeepdAive />
+[235] (241,812)<div  />
+	[236] (241,779)<div  />
+		[237] (241,779)<h3  />
+			[238] (241,779)<a  />
+				[239] (241,779)<div class='F0uyec' id='e-kvKZ5ATfim6EpM' role='button' />
+					[240] (241,779)<div  />
+						[241] (241,779)<div  />
+							[242] (241,779)<img  />
+	[243] (241,936)<div  />
+		[244] (241,936)<a class='EZAeBe' href='https://teddylee777.github.io/openai/openai-api-key/' />
+			[245] (241,925)<div  />
+				[246] (147,924)<div  />
+					[247] (147,924)<div  />
+						[248] (147,924)<img  />
+				[249] (168,925)<div  />
+					[250] (168,925)<div  />
+						[251] (168,924)<span >테디노트 />
+			[252] (241,951)<div  />
+				[253] (241,951)<div >2024년 UPDATE] OpenAI Python API 키 발급방법, 요금체계 - 테디노트 />
+[254] (447,812)<div  />
+	[255] (447,779)<div  />
+		[256] (447,779)<h3  />
+			[257] (447,779)<a  />
+				[258] (447,779)<div class='F0uyec' id='e-L5GvdCwo52RKqM' role='button' />
+					[259] (447,779)<div  />
+						[260] (447,779)<div  />
+							[261] (447,779)<img  />
+	[262] (447,936)<div  />
+		[263] (447,936)<a class='EZAeBe' href='https://www.cobang.co.kr/ko/forum/manual/openai-chatgpt-api-key-%EB%B0%9C%EA%B8%89-%EB%B0%A9%EB%B2%95-2025%EB%85%84-7%EC%9B%94-%EA%B0%9C%EC%A0%95-60' />
+			[264] (447,925)<div  />
+				[265] (361,924)<div  />
+					[266] (361,924)<div  />
+						[267] (361,924)<img  />
+				[268] (382,925)<div  />
+					[269] (382,925)<div  />
+						[270] (382,924)<span >코드공방 />
+			OpenAI(ChatGPT) API Key 발급 방법 (2025년 7월 개정) - 코드공방
+[271] (657,812)<div  />
+	[272] (657,779)<div  />
+		[273] (657,779)<h3  />
+			[274] (657,779)<a  />
+				[275] (657,779)<div class='F0uyec' id='e-rVWDcdCr_PMDfM' role='button' />
+					[276] (657,779)<div  />
+						[277] (657,779)<div  />
+							[278] (657,779)<img  />
+	[279] (657,936)<div  />
+		[280] (657,936)<a class='EZAeBe' href='https://deepdaive.com/openai-api-key/' />
+			[281] (657,925)<div  />
+				[282] (560,924)<div  />
+					[283] (560,924)<div  />
+						[284] (560,924)<img  />
+				[285] (586,925)<div  />
+					[286] (586,925)<div  />
+						[287] (586,924)<span >DeepdAive />
+			[288] (657,951)<div  />
+				[289] (656,951)<div >OpenAI API Key 발급 방법 (2025년) - DeepdAive />
+[290] (880,812)<div  />
+	[291] (880,779)<div  />
+		[292] (880,779)<h3  />
+			[293] (880,779)<a  />
+				[294] (880,779)<div class='F0uyec' id='e-gvZ3-FbpFEq2rM' role='button' />
+					[295] (880,779)<div  />
+						[296] (880,779)<div  />
+							[297] (880,779)<img  />
+	[298] (880,936)<div  />
+		[299] (880,936)<a class='EZAeBe' href='https://teddylee777.github.io/openai/openai-api-key/' />
+			[300] (880,925)<div  />
+				[301] (780,924)<div  />
+					[302] (780,924)<div  />
+						[303] (780,924)<img  />
+				[304] (801,925)<div  />
+					[305] (801,925)<div  />
+						[306] (801,924)<span >테디노트 />
+			[307] (880,951)<div  />
+				[308] (880,951)<div >2024년 UPDATE] OpenAI Python API 키 발급방법, 요금체계 - 테디노트 />
+
+</current_dom>

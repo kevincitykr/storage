@@ -1,0 +1,124 @@
+[0] (19,31)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (19,31)<yt-icon  />
+[2] (61,31)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[3] (61,31)<div  />
+		[4] (61,30)<ytd-logo  />
+			[5] (61,31)<yt-icon  />
+KR
+[6] (470,31)<div  />
+	[7] (465,31)<form  />
+		[8] (465,31)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[9] (599,31)<div  />
+		[10] (599,31)<ytd-text-input-assistant  />
+			[11] (599,31)<button class='ytdTextInputAssistantButton' />
+				[12] (599,31)<img  />
+[13] (626,31)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[14] (626,31)<span  />
+[15] (662,31)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[16] (662,31)<yt-touch-feedback-shape  />
+		[17] (662,31)<div  />
+[18] (899,31)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[19] (899,31)<yt-touch-feedback-shape  />
+		[20] (899,31)<div  />
+[21] (938,31)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[22] (938,30)<yt-icon-badge-shape  />
+		[23] (938,31)<div  />
+			[24] (938,31)<div  />
+				[25] (938,31)<span  />
+[26] (968,31)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[27] (968,31)<yt-img-shadow  />
+[28] (357,834)<div  />
+	[29] (357,834)<div aria-label='탐색 슬라이더' class='ytp-progress-bar' role='slider' />
+		[30] (357,829)<div  />
+		[31] (357,834)<div  />
+		[32] (267,834)<div  />
+			[33] (267,834)<div  />
+[34] (26,868)<button aria-label='일시중지(k)' class='ytp-play-button ytp-button' />
+[35] (53,868)<button aria-label='음소거(m)' class='ytp-volume-icon ytp-button' />
+[36] (100,868)<div  />
+	[37] (100,868)<div  />
+		[38] (100,868)<div aria-label='29 분 11 초/1 시간 19 분 16 초' class='ytp-time-contents' role='button' />
+			[39] (85,868)<span  />
+			[40] (97,868)<span  />
+			[41] (113,868)<span  />
+[42] (583,868)<button aria-label='자동재생 사용 중지' class='ytp-button ytp-autonav-toggle delhi-fast-follow-autonav-toggle' />
+	[43] (583,868)<div  />
+		[44] (583,868)<div  />
+[45] (608,868)<button aria-label='자막 사용 불가' class='ytp-subtitles-button ytp-button' />
+	[46] (608,881)<div  />
+[47] (633,868)<button aria-label='설정' class='ytp-button ytp-settings-button' />
+[48] (658,868)<button aria-label='영화관 모드(t)' class='ytp-size-button ytp-button' />
+[49] (683,868)<button aria-label='전체 화면(f)' class='ytp-fullscreen-button ytp-button' />
+🔴 [Live] 제2두뇌 인젝트 하다가 막히신 분들 다 들어오세요 (에이전트 학교 심야 보충반)
+[50] (28,953)<yt-metadata-badge-renderer  />
+	회원 전용
+[51] (22,995)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@CONNECT-AI-LAB' />
+	[52] (19,993)<yt-img-shadow  />
+		[53] (19,993)<img  />
+[54] (69,985)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@CONNECT-AI-LAB'>CONNECT AI LAB />
+[55] (107,985)<yt-metadata-badge-renderer  />
+구독자 10.4만명
+[56] (145,995)<a aria-label='이 채널의 멤버십 관리' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='/channel/UCdLZ0MsYS4hmqFgOYCB6C9w/membership' />
+	혜택 보기
+	[57] (145,995)<yt-touch-feedback-shape  />
+		[58] (145,995)<div  />
+[59] (191,995)<button aria-label='현재 설정은 맞춤설정 알림 수신입니다. CONNECT AI LAB 채널의 알림 설정을 변경하려면 탭하세요.' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading-trailing yt-spec-button-shape-next--icon-leading-trailing-no-text yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[60] (191,995)<yt-touch-feedback-shape  />
+		[61] (191,995)<div  />
+40
+[62] (517,995)<button aria-label='동영상에 싫어요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[63] (517,995)<yt-touch-feedback-shape  />
+		[64] (517,995)<div  />
+[65] (556,995)<button aria-label='공유' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>공유 />
+	공유
+	[66] (556,995)<yt-touch-feedback-shape  />
+		[67] (556,995)<div  />
+[68] (608,995)<button aria-label='Thanks' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Thanks />
+	Thanks
+	[69] (608,995)<yt-touch-feedback-shape  />
+		[70] (608,995)<div  />
+[71] (660,995)<button aria-label='재생목록에 저장' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>저장 />
+	저장
+	[72] (660,995)<yt-touch-feedback-shape  />
+		[73] (660,995)<div  />
+[74] (695,995)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[75] (695,995)<yt-touch-feedback-shape  />
+		[76] (695,995)<div  />
+[77] (848,529)<div class='style-scope ytd-watch-flexy' id='related' scrollable='true' />
+	모두
+	CONNECT AI LAB 제공
+	추천
+	최근에 업로드된 동영상
+	감상한 동영상
+	23:07
+	세계 최초의 AI 에이전트 학교를 만들겁니다.
+	CONNECT AI LAB
+	조회수 4.3천회
+	•
+	6시간 전
+	새 동영상
+	7:10
+	실버버튼 함께 개봉해요
+	CONNECT AI LAB
+	스트리밍 시간: 1시간 전
+	회원 전용
+	새 동영상
+	38:27
+	신분을 숨기고 조용히 살아가던 무공의 여신을 건드려버린 마교의 처참한 최후;;
+	무협 소림사
+	조회수 61만회
+	•
+	1개월 전
+	19:05
+	정적 요청 vs 동적 요청
+	알클 ALOHA CLASS
+	조회수 7회
+	•
+	스트리밍 시간: 12시간 전
+	새 동영상
+	ENG)[몰카] 대전에서 혼술하는 역대급 미녀 꼬시기ㅋㅋㅋㅋㅋㅋㅋㅋㅋㅋ (Seduce a girl who drinks alone)
+	코믹마트
+	조회수 113만회
+	•
+	3년 전

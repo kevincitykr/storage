@@ -1,0 +1,66 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (666,69)<a href='/search?keyword=14700+%EB%B3%B8%EC%B2%B4&sort=RECENT_SORT&minPrice=1300000&maxPrice=1600000&openChat=true' />
+	[6] (666,69)<div  />
+		[7] (649,69)<div  />
+			[8] (649,69)<img  />
+		[9] (675,69)<span >채팅하기 />
+[10] (732,69)<a href='/product/form?type=regist' />
+	[11] (732,69)<div  />
+		[12] (715,69)<div  />
+			[13] (715,69)<img  />
+		[14] (741,69)<span >판매하기 />
+[15] (790,69)<a href='/mystore' />
+	[16] (790,69)<div  />
+		[17] (781,69)<div  />
+			[18] (781,69)<img  />
+		[19] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[20] (904,329)<button aria-label='최근 본 상품 i7-14700K, RTX 4060 영상 및 게이밍 컴퓨터 PC 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[21] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228244891' />
+	[22] (886,369)<img  />
+추천순
+최신순
+낮은가격순
+높은가격순
+[23] (239,318)<div  />
+	[24] (239,318)<a class='w-full' href='/product/222765130' />
+		[25] (239,318)<div  />
+			[26] (239,242)<div  />
+				[27] (239,242)<div  />
+				[28] (284,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[29] (239,457)<div  />
+				[30] (239,438)<div  />
+					[31] (239,418)<span >14700kf 5.6GHZ 고정클럭 오버클럭 고성능 PC반본체 />
+					[32] (239,468)<div  />
+						[33] (239,468)<div  />
+							[34] (208,468)<span >1,450,000 />
+							[35] (241,470)<span >원 />
+				[36] (239,511)<div  />
+					[37] (239,511)<div  />
+						[38] (199,511)<div  />
+							[39] (190,511)<div  />
+								[40] (195,511)<span >16 />
+							[41] (211,511)<div  />
+								[42] (217,511)<span >9 />
+[43] (499,668)<button class='w-10 h-10 rounded-lg bg-jnGreen-400 text-white'>1 />
+[44] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[45] (854,907)<div  />
+		[46] (903,907)<div  />
+[47] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[48] (902,799)<span  />
+
+</current_dom>

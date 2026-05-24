@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (451,377)<div class='z-10 absolute scroll-bar flex flex-col bg-white w-full shadow-md rounded-sm h-96 overflow-y-scroll' scrollable='true' />
+	[5] (372,138)<button class='p-0.5 relative disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center flex-1 text-jnGray-900 font-semibold h-[52px] text-16 hover:bg-gray-900/[.05] transition-colors active:bg-gray-900/[12.5%] after:content-[""] after:absolute after:bottom-0 after:left-[1px] after:right-[1px] after:h-[2px] after:bg-gray-900' id='tab-product' role='tab'>상품 />
+	[6] (527,138)<button class='p-0.5 relative disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center flex-1 text-gray-500 font-medium h-[52px] text-16 hover:bg-gray-900/[.05] transition-colors active:bg-gray-900/[12.5%]' id='tab-store' role='tab'>가게 />
+	[7] (449,211)<li >13700k />
+	[8] (449,281)<li >13700 />
+	[9] (449,351)<li >13700kf />
+	[10] (449,421)<li >i7 13700 />
+	[11] (449,492)<li >i7 13700k />
+	[12] (449,562)<li >13700f />
+	[13] (449,632)<li >i7 13700kf />
+	i7-13700
+	i7-13700k
+	i7 13700f
+11
+.
+오토아트
+12
+.
+닌텐도 스위치2
+13
+.
+론진
+14
+.
+5060
+15
+.
+y700
+[14] (666,69)<a href='/?openChat=true' />
+	[15] (666,69)<div  />
+		[16] (649,69)<div  />
+			[17] (649,69)<img  />
+		[18] (675,69)<span >채팅하기 />
+[19] (732,69)<a href='/product/form?type=regist' />
+	[20] (732,69)<div  />
+		[21] (715,69)<div  />
+			[22] (715,69)<img  />
+		[23] (741,69)<span >판매하기 />
+[24] (790,69)<a href='/mystore' />
+	[25] (790,69)<div  />
+		[26] (781,69)<div  />
+			[27] (781,69)<img  />
+		[28] (799,69)<span >마이 />
+[29] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[30] (215,187)<span  />
+		[31] (215,187)<div  />
+			[32] (225,187)<span >카테고리 />
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+중고나라 홈
+앱에서 시작하면,
+거래가 빨라집니다.
+판/구매가 빨라지는 꿀 기능 보기
+→
+오늘도
+안심하는 중고나라
+[33] (281,666)<h3 >안심보장 프로젝트의 시작
+→ />
+중고나라가 알려주는
+사기 예방 tip!
+[34] (500,666)<h3 >주요 사기 패턴 확인하기
+→ />
+[35] (719,490)<a class='relative block' href='https://vvd.bz/hd6K' />
+	[36] (719,490)<img  />
+	[37] (719,623)<div  />
+		[38] (719,584)<h2 >앱에서 시작하면, />
+		[39] (719,621)<h2 >거래가 빨라집니다. />
+		[40] (719,666)<h3 >판/구매가 빨라지는 꿀 기능 보기
+→ />
+[41] (193,490)<button aria-label='이전 슬라이드' class='absolute left-0 top-1/2 -translate-y-1/2 z-10 p-2 rounded-full disabled:hidden hover:bg-transparent' />
+[42] (807,490)<button aria-label='다음 슬라이드' class='absolute right-0 top-1/2 -translate-y-1/2 z-10 p-2 rounded-full disabled:hidden hover:bg-transparent' />
+[43] (492,742)<div aria-label='페이지 1' class='z-auto static w-1.5 h-1.5 rounded-full transition-colors bg-gray-300 cursor-pointer' role='tab' />
+[44] (500,742)<div aria-label='페이지 2' class='z-auto static w-1.5 h-1.5 rounded-full transition-colors bg-gray-900 cursor-pointer' role='tab' />
+[45] (508,742)<div aria-label='페이지 3' class='z-auto static w-1.5 h-1.5 rounded-full transition-colors bg-gray-300 cursor-pointer' role='tab' />
+많이 본 상품
+[46] (231,998)<div  />
+	[47] (231,998)<div  />
+[48] (339,998)<div  />
+	[49] (339,998)<div  />
+[50] (661,998)<div  />
+	[51] (661,998)<div  />
+[52] (769,998)<div  />
+	[53] (769,998)<div  />
+[54] (866,828)<button class='relative w-40 h-16 rounded-full bg-black font-normal py-[15px] text-lg text-gray-200 flex items-center justify-center shadow-[0px_4px_8px_0px_rgba(0,0,0,0.24)] after:w-full after:h-full after:rounded-full after:absolute after:top-0 after:left-0 after:bg-white/[.1]'>QR 코드 찍기 />
+	QR 코드 찍기
+
+</current_dom>

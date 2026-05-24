@@ -1,0 +1,124 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (960,557)<div  />
+	[1] (960,557)<img  />
+1
+/
+1
+최대
+원
+추가
+200만원~250만원
+[2] (140,289)<div  />
+	[3] (140,289)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_boxShadow__7nn0kn39 Flex__wsrgth3 Flex_flexRecipe_align_center__wsrgthp base_baseElementStyle__ri2cmp0 ChoiceChip_labelRecipe__1my9qg91 ChoiceChip_labelRecipe_size_medium__1my9qg93 ChoiceChip_labelRecipe_variant_pill__1my9qg96 ChoiceChip_labelRecipe_checked_false__1my9qg98 ChoiceChip_labelRecipe_disabled_false__1my9qg9a ChoiceChip_labelRecipe_isColumn_false__1my9qg9c ChoiceChip_labelRecipe_hasIcon_false__1my9qg9e ChoiceChip_labelRecipe_compound_6__1my9qg9l'>250만원~300만원 />
+[4] (168,392)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[5] (122,392)<span >결과내검색 />
+	[6] (235,392)<div  />
+[7] (168,470)<input class='TextField_inputStyle__7b6rfem TextField_inputStyle_size_m__7b6rfeo TextField_inputStyle_disabled_false__7b6rfeq' placeholder='검색어를 입력하세요' />
+추가
+[8] (168,654)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[9] (117,654)<span >상품상태 />
+	[10] (235,654)<div  />
+[11] (168,712)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Flex__wsrgth3 Flex_flexRecipe_direction_row__wsrgth4 Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[12] (103,712)<label class='Checkbox_baseCheckboxContainer__134wlvc0 Checkbox_checkboxContainer_size_large__134wlvc3 bun-ui-checkbox-container' />
+	[13] (178,712)<div  />
+		[14] (178,712)<div  />
+			[15] (178,712)<span >새상품 />
+[16] (168,764)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Flex__wsrgth3 Flex_flexRecipe_direction_row__wsrgth4 Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[17] (103,764)<label class='Checkbox_baseCheckboxContainer__134wlvc0 Checkbox_checkboxContainer_size_large__134wlvc3 bun-ui-checkbox-container' />
+	[18] (178,764)<div  />
+		[19] (178,764)<div  />
+			[20] (178,764)<span >사용감 없음 />
+[21] (168,816)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Flex__wsrgth3 Flex_flexRecipe_direction_row__wsrgth4 Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[22] (103,816)<label class='Checkbox_baseCheckboxContainer__134wlvc0 Checkbox_checkboxContainer_size_large__134wlvc3 bun-ui-checkbox-container' />
+	[23] (178,816)<div  />
+		[24] (178,816)<div  />
+			[25] (178,816)<span >사용감 적음 />
+[26] (168,868)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Flex__wsrgth3 Flex_flexRecipe_direction_row__wsrgth4 Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[27] (103,868)<label class='Checkbox_baseCheckboxContainer__134wlvc0 Checkbox_checkboxContainer_size_large__134wlvc3 bun-ui-checkbox-container' />
+	[28] (178,868)<div  />
+		[29] (178,868)<div  />
+			[30] (178,868)<span >사용감 많음 />
+[31] (168,920)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Flex__wsrgth3 Flex_flexRecipe_direction_row__wsrgth4 Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[32] (103,920)<label class='Checkbox_baseCheckboxContainer__134wlvc0 Checkbox_checkboxContainer_size_large__134wlvc3 bun-ui-checkbox-container' />
+	[33] (178,920)<div  />
+		[34] (178,920)<div  />
+			[35] (178,920)<span >고장/파손 상품 />
+[36] (168,971)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Flex__wsrgth3 Flex_flexRecipe_direction_row__wsrgth4 Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+	[37] (103,971)<label class='Checkbox_baseCheckboxContainer__134wlvc0 Checkbox_checkboxContainer_size_large__134wlvc3 bun-ui-checkbox-container' />
+	[38] (178,971)<div  />
+		[39] (178,971)<div  />
+			[40] (178,971)<span >상태 미분류 />
+2,200,000원
+인텔 i7 14700F RTX4070SUPER 램32G SSD 1TB 컴
+22분 전
+6
+1
+2,650,000원
+인텔 고사양 컴퓨터 i7 14700kf rtx 4070 ti super
+1시간 전
+14
+2
+2,425,000원
+14700KF/h810/RTX4070/1TB
+1일 전
+2,325,000원
+14700KF/h810/RTX4070/512GB
+1일 전
+[41] (360,482)<a class='_container_15rjm_1' href='/products/405921632' />
+	[42] (360,419)<div  />
+		[43] (360,419)<img  />
+	[44] (360,628)<div  />
+	[45] (360,652)<p >2,875,000원 />
+	[46] (360,672)<div  />
+	[47] (360,690)<p >14700KF/h810/RTX4070TI/1TB />
+	[48] (360,712)<div  />
+	[49] (360,733)<div  />
+		[50] (297,733)<span >1일 전 />
+[51] (517,482)<a class='_container_15rjm_1' href='/products/405919289' />
+	[52] (517,419)<div  />
+		[53] (517,419)<img  />
+	[54] (517,628)<div  />
+	[55] (517,652)<p >2,475,000원 />
+	[56] (517,672)<div  />
+	[57] (517,690)<p >14700KF/h810/RTX4070SUPER/1TB />
+	[58] (517,712)<div  />
+	[59] (517,733)<div  />
+		[60] (454,733)<span >1일 전 />
+[61] (674,482)<a class='_container_15rjm_1' href='/products/405906902' />
+	[62] (674,419)<div  />
+		[63] (674,419)<img  />
+	[64] (674,628)<div  />
+	[65] (674,652)<p >2,375,000원 />
+	[66] (674,672)<div  />
+	[67] (674,690)<p >14700KF/h810/RTX4070SUPER/512GB />
+	[68] (674,712)<div  />
+	[69] (674,733)<div  />
+		[70] (611,733)<span >1일 전 />
+[71] (830,482)<a class='_container_15rjm_1' href='/products/405909419' />
+	[72] (830,419)<div  />
+		[73] (830,419)<img  />
+	[74] (830,628)<div  />
+	[75] (830,652)<p >2,775,000원 />
+	[76] (830,672)<div  />
+	[77] (830,690)<p >14700KF/h810/RTX4070TI/512GB />
+	[78] (830,712)<div  />
+	[79] (830,733)<div  />
+		[80] (768,733)<span >1일 전 />
+[81] (416,851)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+[82] (573,851)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+[83] (730,851)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+[84] (887,851)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+[85] (954,898)<button aria-label='페이지 상단으로 이동' class='_top-button_12t4m_1 _show_12t4m_17' />
+[86] (59,921)<div class='ap-toolbar-tab-tab' role='tab' />
+	[87] (59,921)<div  />
+		[88] (59,921)<i  />
+[89] (33,900)<div class='ap-toolbar-tab-tab' role='tab' />
+	[90] (33,900)<div  />
+		[91] (33,900)<div  />
+			[92] (33,900)<div class='ap-notification-cover' />
+				[93] (33,900)<img  />
+
+</current_dom>

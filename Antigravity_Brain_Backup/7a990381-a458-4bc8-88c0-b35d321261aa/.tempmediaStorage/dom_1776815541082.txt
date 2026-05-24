@@ -1,0 +1,200 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (129,50)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (226,53)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (438,49)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='버즈3프로 충전본체' role='searchbox' />
+[3] (609,52)<div  />
+	[4] (609,48)<img  />
+[5] (660,49)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (748,49)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (738,49)<span  />
+	[8] (764,49)<span  />
+[9] (811,49)<div  />
+	[10] (811,49)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[11] (802,49)<span  />
+		[12] (824,49)<span  />
+[13] (875,49)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[14] (866,49)<span  />
+	[15] (892,49)<span  />
+[16] (930,49)<div  />
+	[17] (934,49)<a aria-label='0 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[18] (934,49)<span  />
+		[19] (946,37)<span >0 />
+[20] (164,174)<div  />
+	[21] (83,174)<span >할인/혜택 />
+	[22] (272,174)<span  />
+[23] (164,219)<span aria-label='filterCode:bigsale' class='jz_j0 ie_ig' />
+	[24] (60,219)<input class='jz_ar' id='filterCode:bigsale' />
+	[25] (175,219)<label class='jz_it'>세일 />
+		세일
+[26] (164,312)<div  />
+	[27] (91,312)<span >배송/서비스 />
+	[28] (272,312)<span  />
+[29] (164,357)<span aria-label='filterCode:xdaydelivery' class='jz_j0 ie_ig' />
+	[30] (60,357)<input class='jz_ar' id='filterCode:xdaydelivery' />
+	[31] (175,357)<label class='jz_it'>5-10일 배송 />
+		5-10일 배송
+[32] (164,398)<span aria-label='filterCode:choice_atm' class='jz_j0 ie_ig' />
+	[33] (60,398)<input class='jz_ar' id='filterCode:choice_atm' />
+	[34] (175,398)<label class='jz_it'>Choice />
+		Choice
+[35] (164,489)<div  />
+	[36] (83,489)<span >품질/신뢰 />
+	[37] (272,489)<span  />
+[38] (164,535)<span aria-label='filterCode:4StarRating' class='jz_j0 ie_ig' />
+	[39] (60,535)<input class='jz_ar' id='filterCode:4StarRating' />
+	[40] (175,535)<label class='jz_it' />
+		이상
+[41] (164,627)<div  />
+	[42] (81,627)<span >발송 국가 />
+	[43] (272,627)<span  />
+[44] (164,672)<span aria-label='-1' class='ip_iq' />
+	[45] (60,672)<input class='ip_ar ip_is' id='-1' />
+	[46] (175,672)<label class='ip_it'>모든 />
+[47] (164,714)<span aria-label='KR' class='ip_iq' />
+	[48] (60,714)<input class='ip_ar' id='KR' />
+	[49] (175,714)<label class='ip_it' />
+		대한민국
+[50] (164,755)<span aria-label='CN' class='ip_iq' />
+	[51] (60,755)<input class='ip_ar' id='CN' />
+	[52] (175,755)<label class='ip_it' />
+		중국
+[53] (164,847)<div  />
+	[54] (72,847)<span >가격대 />
+	[55] (272,847)<span  />
+₩
+[56] (94,895)<input class='comet-input' placeholder='최소' />
+-
+₩
+[57] (184,895)<input class='comet-input' placeholder='최대' />
+[58] (248,895)<span >OK />
+에 따라 분류
+:
+[59] (762,165)<div  />
+	[60] (762,165)<span >가장 일치하는 내용 />
+[61] (872,165)<div  />
+	[62] (872,165)<span >주문 />
+[63] (940,165)<div  />
+	[64] (933,165)<span >가격 />
+	[65] (955,165)<div  />
+		[66] (954,167)<div  />
+		[67] (962,167)<div  />
+종료시간 :
+4월 24일 23:59
+[68] (431,563)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005007421996481.html?algo_pvid=1885e5e7-426d-44a6-a635-362ec320a309&algo_exp_id=1885e5e7-426d-44a6-a635-362ec320a309-0&pdp_ext_f=%7B%22order%22%3A%22229%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%2140900%2134837%21%21%2140900%2134837%21%40213ba0c517768155248784521ecab6%2112000040688648777%21sea%21KR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6264bbd6%3Bm03_new_user%3A-29895%3BpisId%3A5000000203687442&curPageLogUid=OoeWanUPzCZb&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007421996481%7C_p_origin_prod%3A' />
+	[69] (431,474)<div  />
+		[70] (431,474)<div  />
+		[71] (497,566)<div  />
+			[72] (497,566)<div  />
+				[73] (497,566)<span  />
+		[74] (431,603)<img  />
+		[75] (524,345)<div  />
+			[76] (524,345)<span  />
+	[77] (431,706)<div  />
+		[78] (431,645)<div aria-label='맥심 모카 골드 커피믹스 280T 동서식품' class='lw_an' role='heading' title='맥심 모카 골드 커피믹스 280T 동서식품' />
+			[79] (430,661)<h3 >맥심 모카 골드 커피믹스 280T 동서식품 />
+		[80] (431,684)<div aria-label='₩34,837' class='lw_el' />
+			[81] (358,684)<span >-14% />
+			[82] (426,684)<div  />
+				[83] (393,684)<span >₩ />
+				[84] (411,684)<span >34 />
+				[85] (426,684)<span >, />
+				[86] (447,684)<span >837 />
+			[87] (496,684)<div  />
+				[88] (496,684)<span >₩40,900 />
+		[89] (431,721)<div  />
+			[90] (375,723)<div  />
+				[91] (339,723)<img  />
+				[92] (351,723)<img  />
+				[93] (363,723)<img  />
+				[94] (376,723)<img  />
+				[95] (388,723)<img  />
+				[96] (406,723)<span >4.7 />
+			[97] (450,723)<span  />
+				[98] (423,724)<span  />
+				[99] (455,725)<span >229 판매 />
+		[100] (431,765)<div  />
+			[101] (431,749)<div  />
+				[102] (339,749)<img  />
+				[103] (414,749)<span >신규 회원 ₩6,063 할인 />
+			[104] (431,780)<div  />
+				[105] (341,780)<img  />
+				[106] (440,780)<span >비슷한 특가 중 혜택 TOP 상품 />
+[107] (653,563)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005007517168281.html?algo_pvid=1885e5e7-426d-44a6-a635-362ec320a309&algo_exp_id=1885e5e7-426d-44a6-a635-362ec320a309-1&pdp_ext_f=%7B%22order%22%3A%22443%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%2126900%2119321%21%21%2126900%2119321%21%40213ba0c517768155248784521ecab6%2112000041098539662%21sea%21KR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6264bbd6%3Bm03_new_user%3A-29895%3BpisId%3A5000000203687444&curPageLogUid=0egy0ZGiRyuo&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007517168281%7C_p_origin_prod%3A' />
+	[108] (653,474)<div  />
+		[109] (653,474)<div  />
+		[110] (719,566)<div  />
+			[111] (719,566)<div  />
+				[112] (719,566)<span  />
+		[113] (653,603)<img  />
+		[114] (745,345)<div  />
+			[115] (745,345)<span  />
+	[116] (653,706)<div  />
+		[117] (653,645)<div aria-label='맥심 모카 골드 라이트 믹스 180T (150Tx30T) 동서식품' class='lw_an' role='heading' title='맥심 모카 골드 라이트 믹스 180T (150Tx30T) 동서식품' />
+			[118] (652,661)<h3 >맥심 모카 골드 라이트 믹스 180T (150Tx30T) 동서식품 />
+		[119] (653,684)<div aria-label='₩19,321' class='lw_el' />
+			[120] (579,684)<span >-28% />
+			[121] (648,684)<div  />
+				[122] (615,684)<span >₩ />
+				[123] (633,684)<span >19 />
+				[124] (648,684)<span >, />
+				[125] (669,684)<span >321 />
+			[126] (718,684)<div  />
+				[127] (718,684)<span >₩26,900 />
+		[128] (653,721)<div  />
+			[129] (597,723)<div  />
+				[130] (561,723)<img  />
+				[131] (573,723)<img  />
+				[132] (585,723)<img  />
+				[133] (598,723)<img  />
+				[134] (610,723)<img  />
+				[135] (628,723)<span >4.4 />
+			[136] (672,723)<span  />
+				[137] (645,724)<span  />
+				[138] (677,725)<span >443 판매 />
+		[139] (653,749)<div  />
+			[140] (653,749)<div  />
+				[141] (561,749)<img  />
+				[142] (636,749)<span >신규 회원 ₩7,579 할인 />
+		[143] (653,780)<div  />
+[144] (875,563)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005008007099818.html?algo_pvid=1885e5e7-426d-44a6-a635-362ec320a309&algo_exp_id=1885e5e7-426d-44a6-a635-362ec320a309-2&pdp_ext_f=%7B%22order%22%3A%2228%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%214500%211501%21%21%214500%211501%21%40213ba0c517768155248784521ecab6%2112000043237268575%21sea%21KR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3A6264bbd6%3Bm03_new_user%3A-29895%3BpisId%3A5000000203687442&curPageLogUid=BXYSEC0hRV6F&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008007099818%7C_p_origin_prod%3A' />
+	[145] (875,474)<div  />
+		[146] (875,474)<div  />
+		[147] (940,566)<div  />
+			[148] (940,566)<div  />
+				[149] (940,566)<span  />
+		[150] (875,603)<img  />
+		[151] (967,345)<div  />
+			[152] (967,345)<span  />
+	[153] (875,706)<div  />
+		[154] (875,645)<div aria-label='맥심 슈프림 골드 믹스 모카 20T' class='lw_an' role='heading' title='맥심 슈프림 골드 믹스 모카 20T' />
+			[155] (870,646)<h3 >맥심 슈프림 골드 믹스 모카 20T />
+		[156] (875,684)<div aria-label='₩1,501' class='lw_el' />
+			[157] (801,684)<span >-66% />
+			[158] (864,684)<div  />
+				[159] (837,684)<span >₩ />
+				[160] (849,684)<span >1 />
+				[161] (857,684)<span >, />
+				[162] (878,684)<span >501 />
+			[163] (923,684)<div  />
+				[164] (923,684)<span >₩4,500 />
+		[165] (875,721)<div  />
+			[166] (799,723)<span  />
+				[167] (799,725)<span >28 판매 />
+		[168] (875,749)<div  />
+			[169] (875,749)<div  />
+				[170] (782,749)<img  />
+				[171] (858,749)<span >신규 회원 ₩2,999 할인 />
+		[172] (875,780)<div  />
+[173] (524,844)<div  />
+	[174] (524,844)<span  />
+[175] (653,973)<div  />
+	[176] (653,973)<div  />
+	[177] (745,844)<div  />
+		[178] (745,844)<span  />
+[179] (875,973)<div  />
+	[180] (875,973)<div  />
+
+</current_dom>

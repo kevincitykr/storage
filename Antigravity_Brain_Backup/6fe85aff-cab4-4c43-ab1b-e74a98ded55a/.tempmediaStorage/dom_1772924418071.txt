@@ -1,0 +1,124 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,34)<div aria-label='기본 메뉴' class='gb_1c' role='button' />
+[1] (44,36)<a aria-label='Blogger' class='gb_de gb_Vc gb_he' href='/?hl=ko&tab=jj&authuser=1' id='sdgBod' />
+	[2] (44,36)<img class='gb_0c' role='presentation' />
+[3] (932,34)<div aria-label='도움말 및 의견' class='U26fgb JRtysb WzwrXb' role='button' />
+	[4] (932,40)<span  />
+		[5] (932,40)<span  />
+			[6] (932,32)<span > />
+[7] (957,34)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=jh' role='button' />
+[8] (982,34)<a aria-label='Google 계정: 김광섭  
+(kevincity0127@gmail.com)' class='gb_B gb_0a gb_1' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.blogger.com/u/1/blog/earnings/6577533901683534947&service=blogger&ec=GBRAHg' role='button' />
+[9] (500,534)<c-wiz class='zQTmif SSPGKf eejsDc qWnhY O3LMFb haXJ6e' scrollable='true' />
+	[10] (67,102)<div aria-label='Blog Selection' class='jgvuAb nFaJic ij0xy' role='listbox' />
+		[11] (67,102)<div role='presentation' />
+			[12] (67,102)<div class='ry3kXd Ulgu9' role='presentation' />
+				[13] (67,102)<div aria-label='놓치면 손해보는 혜택 저장소' class='MocG8c iRqe nj0FMe F8KQq XbY4gb LMgvRb KKjvXb' role='option' />
+					[14] (65,102)<span  />
+						[15] (65,102)<div  />
+							[16] (65,102)<div >놓치면 손해보는 혜택 저장소 />
+			[17] (128,102)<div class='e2CuFe fWxnwc eU809d' role='presentation' />
+	[18] (42,161)<div aria-label='새 글 작성' class='U26fgb O0WRkf zZhnYe e3Duub C0oVfc zr7Fj zFM5pd M9Bg4d' role='button' />
+		[19] (33,161)<span  />
+			[20] (33,161)<span  />
+				[21] (23,161)<span > />
+				[22] (39,161)<span >새 글 />
+	[23] (67,242)<span aria-label='글' class='N9wOvf m54AJ aaG7md HJKtLb' role='menuitem' />
+		[24] (67,242)<div  />
+			[25] (67,242)<a class='Un8wMb zRRGMc' href='./blog/posts/6577533901683534947' />
+				[26] (31,242)<div  />
+					[27] (27,242)<span >article />
+					[28] (41,242)<div >글 />
+	[29] (67,293)<span aria-label='통계' class='N9wOvf m54AJ aaG7md NnFS8c' role='menuitem' />
+		[30] (67,293)<div  />
+			[31] (67,293)<a class='Un8wMb zRRGMc' href='./blog/stats/week/6577533901683534947' />
+				[32] (35,293)<div  />
+					[33] (27,293)<span > />
+					[34] (45,293)<div >통계 />
+	[35] (67,344)<span aria-label='댓글' class='N9wOvf m54AJ aaG7md XI9J4' role='menuitem' />
+		[36] (67,344)<div  />
+			[37] (67,344)<a class='Un8wMb zRRGMc' href='./blog/comments/6577533901683534947' />
+				[38] (34,344)<div  />
+					[39] (27,344)<span > />
+					[40] (44,344)<div >댓글 />
+	[41] (67,395)<span aria-label='수익' class='N9wOvf m54AJ aaG7md uH29Zd Pao7hd' role='menuitem' />
+		[42] (67,395)<div  />
+			[43] (67,395)<a class='Un8wMb zRRGMc' href='./blog/earnings/6577533901683534947' />
+				[44] (34,395)<div  />
+					[45] (27,395)<span > />
+					[46] (44,395)<div >수익 />
+	[47] (67,446)<span aria-label='페이지' class='N9wOvf m54AJ aaG7md OYwhHf' role='menuitem' />
+		[48] (67,446)<div  />
+			[49] (67,446)<a class='Un8wMb zRRGMc' href='./blog/pages/6577533901683534947' />
+				[50] (38,446)<div  />
+					[51] (27,446)<span > />
+					[52] (48,446)<div >페이지 />
+	[53] (67,496)<span aria-label='레이아웃' class='N9wOvf m54AJ aaG7md n65pv' role='menuitem' />
+		[54] (67,496)<div  />
+			[55] (67,496)<a class='Un8wMb zRRGMc' href='./blog/layout/6577533901683534947' />
+				[56] (43,496)<div  />
+					[57] (27,496)<span >wysiwyg />
+					[58] (53,496)<div >레이아웃 />
+	[59] (67,547)<span aria-label='테마' class='N9wOvf m54AJ aaG7md Pv5exd' role='menuitem' />
+		[60] (67,547)<div  />
+			[61] (67,547)<a class='Un8wMb zRRGMc' href='./blog/themes/6577533901683534947' />
+				[62] (34,547)<div  />
+					[63] (27,547)<span > />
+					[64] (44,547)<div >테마 />
+	[65] (67,598)<span aria-label='설정' class='N9wOvf m54AJ aaG7md gnUDWc' role='menuitem' />
+		[66] (67,598)<div  />
+			[67] (67,598)<a class='Un8wMb zRRGMc' href='./blog/settings/6577533901683534947' />
+				[68] (34,598)<div  />
+					[69] (27,598)<span > />
+					[70] (44,598)<div >설정 />
+	[71] (67,649)<span aria-label='읽기 목록' class='N9wOvf m54AJ aaG7md IGfGs' role='menuitem' />
+		[72] (67,649)<div  />
+			[73] (67,649)<a class='Un8wMb zRRGMc' href='./blog/reading/6577533901683534947' />
+				[74] (43,649)<div  />
+					[75] (27,649)<span > />
+					[76] (53,649)<div >읽기 목록 />
+	[77] (67,701)<div class='U26fgb A9jyad O0WRkf oG5Srb HQ8yf C0oVfc bbypmb M9Bg4d' role='presentation' />
+		[78] (71,701)<a class='FKF6mc TpQm9d kFANI' href='https://no-loss-info.blogspot.com/' />
+			[79] (44,708)<span  />
+				[80] (44,701)<span  />
+					[81] (44,701)<div >블로그 보기 />
+						[82] (28,701)<span > />
+	[83] (25,741)<a class='NUK5Wd' href='https://www.blogger.com/u/1/go/terms'>서비스 약관 />
+	·
+	[84] (65,741)<a class='NUK5Wd' href='https://www.blogger.com/u/1/go/privacy'>개인정보 보호 />
+	·
+	[85] (106,741)<a class='NUK5Wd' href='https://www.blogger.com/u/1/go/contentpolicy'>콘텐츠 정책 />
+	[86] (569,123)<div class='oX8Xbb Tj1T2' role='button' />
+		[87] (559,123)<span  />
+			[88] (559,123)<div  />
+				[89] (313,123)<span > />
+				[90] (342,123)<div >공지사항(1) />
+		[91] (821,123)<div  />
+			[92] (825,121)<span > />
+	유럽 연합 법규는 유럽 연합 방문자에게 블로그에 사용되는 쿠키 및 수집되는 데이터에 대한 정보를 제공하도록 규제하고 있습니다. 또한 대부분의 경우 이러한 법규는 사용자의 동의를 얻도록 요구합니다.
+	이 규제를 준수할 수 있도록 Google은 귀하의 블로그에 Google이 특정 Blogger를 사용하며 Google 애널리틱스와 애드센스 쿠키를 비롯한 Google 쿠키와 Google이 수집한 기타 데이터 사용을 알리는 공지사항을 추가했습니다.
+	귀하는 이 공지사항이 블로그에 실제로 적용되고 표시되도록 할 책임이 있습니다. 타사 제품의 기능을 추가하는 등 다른 쿠키를 사용하는 경우 이 공지사항이 귀하에게 적합하지 않을 수 있습니다. 다른 제공업체의 기능을 포함하는 경우 사용자로부터 수집한 추가 정보가 있을 수 있습니다.
+	이 공지사항 및 책임에 대해
+	[93] (418,403)<a href='./go/cookiechoices'>자세히 알아보기 />
+	[94] (822,172)<div aria-label='알림 취소 버튼입니다.' class='U26fgb mUbCce fKz7Od FPbn3c M9Bg4d' role='button' />
+		[95] (822,175)<span  />
+			[96] (822,172)<span > />
+	게시자 ID:
+	pub-4467016835612686
+	블로그에 광고 게재 준비 중
+	애드센스에서 귀하의 사이트를 검토 중입니다. 활성화 절차는 짧게는 하루, 길게는 몇 주가 걸릴 수 있습니다.
+	[97] (348,651)<div class='U26fgb O0WRkf oG5Srb HQ8yf C0oVfc M9Bg4d' role='presentation' />
+		[98] (348,651)<a aria-label='애드센스로 이동' class='FKF6mc TpQm9d' href='/go/adsensedashboard' />
+			[99] (348,650)<span  />
+				[100] (348,651)<span >애드센스로 이동 />
+	게시자 ID:
+	pub-4467016835612686
+	사이트:
+	no-loss-info.blogspot.com
+	블로그에 광고 게재 준비 중
+	애드센스 계정은 연결되어 있지만, 블로그에 광고를 게재할 준비가 되었는지 확인하기 위해 애드센스에서 블로그를 검토하는 중입니다. 검토는 짧게는 하루, 길게는 몇 주가 걸릴 수 있습니다.
+
+</current_dom>

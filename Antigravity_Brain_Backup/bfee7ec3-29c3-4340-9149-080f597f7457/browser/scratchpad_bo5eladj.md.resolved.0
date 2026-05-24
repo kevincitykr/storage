@@ -1,0 +1,10 @@
+# Windly Product Deletion Test Plan
+
+- [ ] Navigate to Windly Interested Products page
+- [ ] Search for 'Jeep'
+- [ ] If found, select one 'Jeep' product
+- [ ] If not found, search for 'MSGM' or '메디힐'
+- [ ] Click 'Delete' (삭제)
+- [ ] Select 'Delete from Market' (마켓 상품도 삭제) in the modal
+- [ ] Confirm deletion
+- [ ] Verify deletion success

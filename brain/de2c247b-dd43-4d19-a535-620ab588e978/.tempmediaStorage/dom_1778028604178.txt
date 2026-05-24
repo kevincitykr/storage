@@ -1,0 +1,104 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+배송 현황
+배송 중
+주문일:
+2026년 5월 5일
+주문 ID
+:
+1120468449920757
+[0] (856,161)<span >복사 />
+[1] (914,144)<a href='https://www.aliexpress.com/p/order/detail.html?orderId=1120468449920757' />
+	[2] (906,144)<span >주문 상세 />
+	[3] (937,142)<span  />
+[4] (323,233)<a href='//www.aliexpress.com/store/1103752286' />
+	[5] (318,233)<span >닥터문 공식 스토어 />
+	[6] (363,231)<span  />
+[7] (379,233)<a class='order-item-store-message' href='//msg.aliexpress.com/msgDetail.htm?from=orderDetail&digest=6d0c5e2e0058a42586331cf42a2fbf42dc536ee1fbfd6609086f6ced794c47e17e69adbd549f372edfce2b3331ea742d' />
+	[8] (379,231)<span  />
+[9] (326,369)<a href='//www.aliexpress.com/item/1005007143616878.html' />
+	[10] (322,369)<div  />
+[11] (483,287)<a href='//www.aliexpress.com/item/1005007143616878.html' />
+	[12] (483,286)<span >일본 정품 동전파스 아요이 동전패치 100매입 2세트 />
+₩
+1
+6
+,
+9
+5
+8
+x
+1
+[13] (404,390)<span >한국에서 발송 />
+	한국에서 발송
+·
+[14] (459,390)<span  />
+	[15] (459,390)<font >무료 반품 />
+총 금액:
+₩
+1
+6
+,
+1
+1
+0
+[16] (840,341)<button class='comet-btn comet-btn-primary comet-btn-block order-item-btn' />
+	[17] (840,341)<span >배송 완료 확인 />
+[18] (840,414)<a class='comet-btn comet-btn-block order-item-btn' href='https://www.aliexpress.com/p/tracking/index.html?_addShare=no&_login=yes&tradeOrderId=1120468449920757' />
+	[19] (840,414)<span >배송 현황 />
+배송 예정
+주문일:
+2026년 5월 5일
+주문 ID
+:
+1120391529170757
+복사
+주문 상세
+[20] (317,661)<a href='//www.aliexpress.com/store/1103718311' />
+	[21] (312,662)<span >고기중독 스토어 />
+	[22] (351,659)<span  />
+[23] (367,661)<a class='order-item-store-message' href='//msg.aliexpress.com/msgDetail.htm?from=orderDetail&digest=e1681101443e6df1e9d2e1d16c213373a7585ec40a1912ff3f7484f60d37cbf59d75df349665533cdae7fc882c0658c7' />
+	[24] (367,660)<span  />
+[25] (326,798)<a href='//www.aliexpress.com/item/1005009972440413.html' />
+	[26] (322,798)<div  />
+[27] (480,715)<a href='//www.aliexpress.com/item/1005009972440413.html' />
+	[28] (480,715)<span >[1+1]고기중독 호주산 목초우 안창살 500g+500g />
+Anchangsaal 500g X 2 Packs
+₩
+2
+7
+,
+2
+4
+2
+x
+1
+[29] (404,870)<span >한국에서 발송 />
+	한국에서 발송
+총 금액:
+₩
+2
+7
+,
+2
+4
+2
+취소
+주문일:
+2026년 5월 5일
+주문 상세
+[30] (857,933)<div  />
+	[31] (857,933)<div  />
+		[32] (857,933)<div  />
+			[33] (857,931)<span  />
+Eva
+[34] (960,620)<span  />
+[35] (901,679)<li >상품을 받지 못함 />
+[36] (901,730)<li >환불을 받지 못함 />
+[37] (901,780)<li >주문 상태 확인 />
+[38] (901,830)<li >주문 취소 />
+[39] (901,886)<p >물어보세요 />
+
+</current_dom>

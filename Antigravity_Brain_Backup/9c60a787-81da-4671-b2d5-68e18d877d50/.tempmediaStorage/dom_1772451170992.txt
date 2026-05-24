@@ -1,0 +1,26 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,45)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (38,45)<yt-icon  />
+[2] (461,45)<div  />
+	[3] (451,45)<form  />
+		[4] (451,45)<input class='ytSearchboxComponentInput yt-searchbox-input title' role='combobox' />
+	[5] (627,45)<div  />
+		[6] (627,45)<ytd-text-input-assistant  />
+			[7] (627,45)<button class='ytdTextInputAssistantButton' />
+				[8] (627,46)<img  />
+[9] (681,45)<button aria-label='Search' class='ytSearchboxComponentSearchButton' />
+	[10] (681,45)<span  />
+보안 걱정 없이 무료로 오픈클로 사용하기
+김효율의 AI 개발단
+구독자 2.75천명
+구독
+76
+공유
+질문하기
+저장
+오프라인 저장
+
+</current_dom>

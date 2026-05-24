@@ -1,0 +1,239 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (711,19)<a class='link__cw-gnb enuri' href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>에누리 />
+[1] (742,19)<a class='link__cw-gnb malltail' href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>몰테일 />
+[2] (778,19)<a class='link__cw-gnb plto' href='https://www.plto.com/?utm_source=danawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[3] (814,19)<a class='link__cw-gnb makeshop' href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>메이크샵 />
+DDR5 32GB : 다나와 통합검색
+[4] (204,110)<a class='logo-ci' href='https://www.danawa.com' />
+	[5] (204,110)<img  />
+[6] (499,106)<fieldset  />
+	[7] (478,110)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[8] (591,110)<button class='search__delete on'>삭제 />
+		삭제
+	[9] (612,110)<button class='search__submit'>검색 />
+		검색
+[10] (730,115)<a class='btn_user btn_user--recent' href='#' role='button' />
+	[11] (730,130)<span >최근 />
+[12] (772,115)<a class='btn_user btn_user--wish' href='https://www.danawa.com/main/wish/wishList.php' role='button' />
+	[13] (772,130)<span >관심 />
+[14] (811,115)<a class='btn_user btn_user--login' href='https://auth.danawa.com/login?url=https%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fquery%3DDDR5%2B32GB%26tab%3Dmain%26sort%3DpriceASC%26attribute%3D278-1223-OR%252C277-748099-OR%252C282-109194-OR%252C279-1228-OR' role='button' />
+	[15] (811,131)<span >로그인 />
+[16] (187,58)<a class='btn_app' href='#mobile_service_layer' role='button'>다나와 앱 />
+[17] (574,57)<a href='https://auto.danawa.com'>자동차 />
+[18] (602,57)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain'>조립PC />
+[19] (630,57)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti'>PC견적 />
+[20] (665,57)<a href='https://pc26.danawa.com/bbs/?logger_kw=dnw_gnb_pc26'>PC구매상담 />
+[21] (703,57)<a href='https://plan.danawa.com'>쇼핑기획전 />
+[22] (737,57)<a href='https://dpg.danawa.com/bbs'>커뮤니티 />
+[23] (766,57)<a href='https://event.danawa.com/'>이벤트 />
+/
+[24] (787,57)<a href='https://event.danawa.com/experience/'>체험단 />
+[25] (817,57)<a class='more_sevice_click' href='#more_service_layer2'>서비스
+더보기 />
+	서비스
+[26] (205,183)<a class='view_all_category btn_cate_all btn_cate' href='#sectionExplodeLayer' />
+	[27] (201,183)<strong >전체 카테고리 />
+[28] (266,183)<a href='#'>통합검색 />
+[29] (301,183)<a href='#'>상품 />
+[30] (329,183)<a href='#'>장터 />
+[31] (368,183)<a href='#'>쇼핑가이드 />
+[32] (407,183)<a href='#'>뉴스 />
+[33] (442,183)<a href='#'>커뮤니티 />
+[34] (477,183)<a href='#'>리뷰 />
+[35] (508,183)<a href='#'>동영상 />
+[36] (552,183)<a href='#'>다나와Q&A />
+[37] (817,182)<a class='btn_sns_share' href='#' id='share'>공유 />
+	[38] (810,181)<span  />
+연관검색어
+[39] (263,238)<a href='/dsearch.php?query=%EB%85%B8%ED%8A%B8%EB%B6%81%EC%9A%A9%20ddr5%2032gb%20%EB%9E%A8'>노트북용ddr532gb램 />
+[40] (322,238)<a href='/dsearch.php?query=ddr4%2016gb'>ddr416gb />
+[41] (366,238)<a href='/dsearch.php?query=ddr5%2016gb'>ddr516gb />
+[42] (410,238)<a href='/dsearch.php?query=ddr4%2032gb'>ddr432gb />
+[43] (455,238)<a href='/dsearch.php?query=ddr5%2064gb'>ddr564gb />
+[44] (500,238)<a href='/dsearch.php?query=gamesir%20g7'>gamesirg7 />
+[45] (546,238)<a href='/dsearch.php?query=%EC%99%B8%EC%9E%A5%ED%95%98%EB%93%9C%201tb'>외장하드1tb />
+[46] (595,238)<a href='/dsearch.php?query=%EC%82%BC%EC%84%B1%2085%EC%9D%B8%EC%B9%98%20tv'>삼성85인치tv />
+[47] (645,238)<a href='/dsearch.php?query=ddr5%20128gb'>ddr5128gb />
+ssd2tb
+갤럭시탭s11울트라
+ssd1tb
+필립스전기면도기
+9600x
+ddr464gb
+ddr58gb
+ddr516
+ddr596gb
+rtx5070ti
+갤럭시버즈4프로
+[48] (681,240)<a class='btn_rel more' />
+추천 카테고리
+[49] (256,296)<a href='https://prod.danawa.com/list/?cate=112752'>주요부품 > RAM />
+이런 상품 어때요?
+[50] (216,467)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS90SXBURGhpSXk3b1JMRzFibkR5dGswdThKblphYWtmLXhIWU1XNGRPMFJSWEVoOVlQckRhVXVzZVctYXpaRGJ2U3duR0VCWVR5UW9BQjcwN1A0NVdLck1Xa0h5ZFJlZDlRV1FjOU9QU1pIdXcyNHhEczEwRWdFdEwzS3NIcDNhT2t2ZlVaMUlPN1paVXBxR2prM2tyLXRYaFZ5WVZTa05DZ3pQN0N6YUk5SmttRnZoa1JZaGhRTzlrT1NjdWMyQW9vMzZYd0dHRjllSDk3X3dvUzU2dlF4YVBtNDFrUTdxbDhIMTBTZkotaFN5V084alFWNjZfdUtHV2dDQzFaSU5PYmZCLVlqQXRROXdLMlFSMG5ySXEwM0NCWmpsclJiZzV2LVpZb3J5bDBGbVZGWERCQ0wzN3FtMmhiYmtsYlBSLVpWajQ5NW5LaXkzLXJWOWJFd1hZX1FsY0tSbXBScTBCS195TmMtTDcxOTNFaHFKamotWFkzWmI3YWw0dUM1NHRtZEd4UDJKTThwR1pnLXZ4M0tDRk93ZlVtTWtjeGNaTkM1SERkQVdYMVhfRWxRYkpIbllZSzRjUFhNTW51MGpDP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=508000&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search' />
+[51] (216,563)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS90SXBURGhpSXk3b1JMRzFibkR5dGswdThKblphYWtmLXhIWU1XNGRPMFJSWEVoOVlQckRhVXVzZVctYXpaRGJ2U3duR0VCWVR5UW9BQjcwN1A0NVdLck1Xa0h5ZFJlZDlRV1FjOU9QU1pIdXcyNHhEczEwRWdFdEwzS3NIcDNhT2t2ZlVaMUlPN1paVXBxR2prM2tyLXRYaFZ5WVZTa05DZ3pQN0N6YUk5SmttRnZoa1JZaGhRTzlrT1NjdWMyQW9vMzZYd0dHRjllSDk3X3dvUzU2dlF4YVBtNDFrUTdxbDhIMTBTZkotaFN5V084alFWNjZfdUtHV2dDQzFaSU5PYmZCLVlqQXRROXdLMlFSMG5ySXEwM0NCWmpsclJiZzV2LVpZb3J5bDBGbVZGWERCQ0wzN3FtMmhiYmtsYlBSLVpWajQ5NW5LaXkzLXJWOWJFd1hZX1FsY0tSbXBScTBCS195TmMtTDcxOTNFaHFKamotWFkzWmI3YWw0dUM1NHRtZEd4UDJKTThwR1pnLXZ4M0tDRk93ZlVtTWtjeGNaTkM1SERkQVdYMVhfRWxRYkpIbllZSzRjUFhNTW51MGpDP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=508000&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search'>G.SKILL DDR4-3200 CL16 TRIDENT ZKW 패키지 (32GB(16Gx2)) />
+508,000
+원
+3,000원
+마이피씨샵
+[52] (301,467)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9wMVJBbVRUaXBMckI2TWd1cGMyczhaSDZnR2dtRU9FVHl4QjlQV00wbE5ySDhKR3ZTVGtfcXBrMlpwcngwbW9YWnRzemVVNTRQeTUyYWV3LThGR3RjOFlHVEJDYV8wU2pCU3VITTlodENSa2QzSEp1Rk5YNHcyUnhsSXhoRWloQW1fQklhQWwxcW00SFB6SjJ3ZzU3YmkwNjVBT0VNT0NaSm5NUUticWlhZGpCa2hvQlI0bjBuY1dHWm9ZLTg3Q0lNWnVaT3VnSmdDNEVGcS1sSEFJU1Yza1F3YjF3WlZNX3BmcWU4eEJiWHEzR1FGUTg2TGdOUXY3aXp6M1YwUWtQNDZUTzJzQ1RvSmJWam9xV0lINXgtSkJrUmd0R1lDUnpHYVFweTRfNWJyaU5QWDlyMllXcFlvbHlIYzc2MTJxNjc5NVJnbDdkV3BxeVFqVnBDMXUwMmw4WUdmeV9ZamdLZmhlUUdlbEEwNloweUVNN3ZRUHpVa3d5bVZRb2VmQnNIZ2lOT1VETUpNbGdBQ0xKOHU5N3p0TkpzbE1fcGR1TVdCcktMUXl2anM4MVhrUEpJVkRqeHdJRGl0WVJMYmtNP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=389400&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search' />
+[53] (301,563)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9wMVJBbVRUaXBMckI2TWd1cGMyczhaSDZnR2dtRU9FVHl4QjlQV00wbE5ySDhKR3ZTVGtfcXBrMlpwcngwbW9YWnRzemVVNTRQeTUyYWV3LThGR3RjOFlHVEJDYV8wU2pCU3VITTlodENSa2QzSEp1Rk5YNHcyUnhsSXhoRWloQW1fQklhQWwxcW00SFB6SjJ3ZzU3YmkwNjVBT0VNT0NaSm5NUUticWlhZGpCa2hvQlI0bjBuY1dHWm9ZLTg3Q0lNWnVaT3VnSmdDNEVGcS1sSEFJU1Yza1F3YjF3WlZNX3BmcWU4eEJiWHEzR1FGUTg2TGdOUXY3aXp6M1YwUWtQNDZUTzJzQ1RvSmJWam9xV0lINXgtSkJrUmd0R1lDUnpHYVFweTRfNWJyaU5QWDlyMllXcFlvbHlIYzc2MTJxNjc5NVJnbDdkV3BxeVFqVnBDMXUwMmw4WUdmeV9ZamdLZmhlUUdlbEEwNloweUVNN3ZRUHpVa3d5bVZRb2VmQnNIZ2lOT1VETUpNbGdBQ0xKOHU5N3p0TkpzbE1fcGR1TVdCcktMUXl2anM4MVhrUEpJVkRqeHdJRGl0WVJMYmtNP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=389400&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search'>마이크론 Crucial DDR4-3200 CL22 PRO 패키지 대원씨티에스 (32GB(16Gx2)) />
+389,400
+원
+3,000원
+마이피씨샵
+[54] (386,467)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9hXy1fbHlLNVFUVk9Fd1JDNkdOWUktY283Tl9jTXZnVU5ZYWdQSnJRbGY2emtCRkR4cnJrcnpvbnluOGc2cTlqUUVHbTFtQUdodHJ4cVh0aEpvUXdKdmV6ZHhsTnp2T1kyOEJsTVlwVW5odnkyMTBZbW9CY1R4d1NXSEFzemhSRUdob1p2aVd2b284Y1pRaW5XTUhjNEpSZExjZ0stS0ZKMzhGVWNUTHprandFN2U1ejJmNVQ5M3pCSENKNlJDeWhIZ1JwcHlzcjA4ZWtYU3ppTHVodG9UdUd3Mnhfc1AwaHpLel80N3hNUlVpZ0RRcDVWenBEbXc1eWljRExKb0hqUFNBZVBNVkJOa1Jyb3laVDZ4RDl2a0VJODhkamFkVzY0ajAwaEVMWWFqZEYxc0I5UUsxNk15U3I1aUs4VUowTXdXV2ZSOURjU2ttOFVXbVBGeTg1VFJMN3ZlT2l2UkI2bldwZGZKOXRZZ0hKTEh3aEprTkZLR280clZpSW9mWTJvY0tNNWVUakdmX3NsaV9XRHpScVk0eFBRd3NjR2ZFcl9mWWZDdGxCNjA0UTRVNlRFWWZGMGZXYWdObUx3elNqP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=919200&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search' />
+[55] (386,563)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9hXy1fbHlLNVFUVk9Fd1JDNkdOWUktY283Tl9jTXZnVU5ZYWdQSnJRbGY2emtCRkR4cnJrcnpvbnluOGc2cTlqUUVHbTFtQUdodHJ4cVh0aEpvUXdKdmV6ZHhsTnp2T1kyOEJsTVlwVW5odnkyMTBZbW9CY1R4d1NXSEFzemhSRUdob1p2aVd2b284Y1pRaW5XTUhjNEpSZExjZ0stS0ZKMzhGVWNUTHprandFN2U1ejJmNVQ5M3pCSENKNlJDeWhIZ1JwcHlzcjA4ZWtYU3ppTHVodG9UdUd3Mnhfc1AwaHpLel80N3hNUlVpZ0RRcDVWenBEbXc1eWljRExKb0hqUFNBZVBNVkJOa1Jyb3laVDZ4RDl2a0VJODhkamFkVzY0ajAwaEVMWWFqZEYxc0I5UUsxNk15U3I1aUs4VUowTXdXV2ZSOURjU2ttOFVXbVBGeTg1VFJMN3ZlT2l2UkI2bldwZGZKOXRZZ0hKTEh3aEprTkZLR280clZpSW9mWTJvY0tNNWVUakdmX3NsaV9XRHpScVk0eFBRd3NjR2ZFcl9mWWZDdGxCNjA0UTRVNlRFWWZGMGZXYWdObUx3elNqP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=919200&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search'>킹스톤 FURY DDR5-6000 CL30 Beast RGB 화이트 패키지 코잇 (32GB(16Gx2)) />
+919,200
+원
+3,000원
+마이피씨샵
+[56] (471,467)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9wSFN4RkNSYWU4S05BMEM0eEIyVzI5eW0waVJ1dHlKUk1QbDkzOXNRWldzVjV3SWxiazM3WktRdzgxYnU2elBsbGJzamdaejJRZ3JJQzg2emo0UkpsT0sxbWxZb2g3b2NFbEMtOG44UnRxa19rZ1dqaUkxa3ZsSjFZS0EwckJfU2tSajlXeTAwVHBCemxVNl9OTDhDTF9rTDV6UmZvNXh2czByWWNNQzB3WGl6bVJZMEJxX3B5UkV5cUJ6azNWblMtOTdPRVZ2Z19kNmpQWENNN2dKVkhna29PMVF4R3prTUhFTHhmcV9OV1pxMVhkSkpoLTBrcmtfY1NoZm5ieHh1UGVxTEU2UUVKT3Vhd3VYRFJraEVpQkFuRDhXM0U1QmdPMVlCVHhtYUNROGdsNHBSOVd5QzlId1hUU1hBVmxsc3pFdEpnR1F5V3FFdENzV0VLRUw2RGlZdHJLcXVBY3M1ekppam9rbFVvMFdGSWt2X2tINHhTdkpaZUtmcWlkV2M5ZVVXRXQ2Mk92Zl9YVVFFZlRmZWN5M0lpcGdzelNlWlA3d0ZHcE9rMWRLNFRncEJTN0hVazVpdjFQODNlNGtGP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=919200&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search' />
+[57] (471,563)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9wSFN4RkNSYWU4S05BMEM0eEIyVzI5eW0waVJ1dHlKUk1QbDkzOXNRWldzVjV3SWxiazM3WktRdzgxYnU2elBsbGJzamdaejJRZ3JJQzg2emo0UkpsT0sxbWxZb2g3b2NFbEMtOG44UnRxa19rZ1dqaUkxa3ZsSjFZS0EwckJfU2tSajlXeTAwVHBCemxVNl9OTDhDTF9rTDV6UmZvNXh2czByWWNNQzB3WGl6bVJZMEJxX3B5UkV5cUJ6azNWblMtOTdPRVZ2Z19kNmpQWENNN2dKVkhna29PMVF4R3prTUhFTHhmcV9OV1pxMVhkSkpoLTBrcmtfY1NoZm5ieHh1UGVxTEU2UUVKT3Vhd3VYRFJraEVpQkFuRDhXM0U1QmdPMVlCVHhtYUNROGdsNHBSOVd5QzlId1hUU1hBVmxsc3pFdEpnR1F5V3FFdENzV0VLRUw2RGlZdHJLcXVBY3M1ekppam9rbFVvMFdGSWt2X2tINHhTdkpaZUtmcWlkV2M5ZVVXRXQ2Mk92Zl9YVVFFZlRmZWN5M0lpcGdzelNlWlA3d0ZHcE9rMWRLNFRncEJTN0hVazVpdjFQODNlNGtGP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=919200&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search'>킹스톤 FURY DDR5-6000 CL30 Beast RGB 블랙 패키지 코잇 (32GB(16Gx2)) />
+919,200
+원
+3,000원
+마이피씨샵
+[58] (555,467)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS96RTFWdURNMzRyU1RFMGdVOWtydHAyQlZoaGt0Wkw1M1JybDd0Rm95TnVnbzFRb0QzcFJ1ME9ZUXFhaU9LRzFNVFlfNXFmbDFacVdfV2EySlc3UTJtelF5Q29EbjhleVZNTlVDdnRsSjREWW9IQVl0S19Kc3J6emlYN0RsRVRaYmx3cXpIOUJadFoyMy1zWlRTelYzb19NRURlRktjQUV4WFoxMDdRYVlsdjBTNXc0MlhxdUZfQ3hJTzEwSFdqdDNMUVhXSUZ4dHRvZmZSVUcyWUFHMjBsSEltQ0FtRUI3SkxtbXNicTlvTG45WFdwUGVQcEtfZTdrSjEwTGZrZzk2dEJlYnhSN0xNTkwwbDdYc3BkQ2pUZTJkbHVnSERST3VtS1NkN25FOFo0bDQwQUJneFdybktaMTBoaXk2eDdiSWFFS1hOM0xLcHMxV243X0dxZVBXVHl2T3dRSXpQRmdvUFUtb1JCaGpsZXlKRC1oOWVXYng0eUNsTl9uNHEyZUtQX2s4QklCVnF2YXFIQWJGbDlMeElkLTBzM1VmdEo0UG1OT19Mem95WURoR0NkOHBCSk1CTWRNUVJyUkM4OGhDP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=840000&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search' />
+[59] (555,563)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS96RTFWdURNMzRyU1RFMGdVOWtydHAyQlZoaGt0Wkw1M1JybDd0Rm95TnVnbzFRb0QzcFJ1ME9ZUXFhaU9LRzFNVFlfNXFmbDFacVdfV2EySlc3UTJtelF5Q29EbjhleVZNTlVDdnRsSjREWW9IQVl0S19Kc3J6emlYN0RsRVRaYmx3cXpIOUJadFoyMy1zWlRTelYzb19NRURlRktjQUV4WFoxMDdRYVlsdjBTNXc0MlhxdUZfQ3hJTzEwSFdqdDNMUVhXSUZ4dHRvZmZSVUcyWUFHMjBsSEltQ0FtRUI3SkxtbXNicTlvTG45WFdwUGVQcEtfZTdrSjEwTGZrZzk2dEJlYnhSN0xNTkwwbDdYc3BkQ2pUZTJkbHVnSERST3VtS1NkN25FOFo0bDQwQUJneFdybktaMTBoaXk2eDdiSWFFS1hOM0xLcHMxV243X0dxZVBXVHl2T3dRSXpQRmdvUFUtb1JCaGpsZXlKRC1oOWVXYng0eUNsTl9uNHEyZUtQX2s4QklCVnF2YXFIQWJGbDlMeElkLTBzM1VmdEo0UG1OT19Mem95WURoR0NkOHBCSk1CTWRNUVJyUkM4OGhDP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=840000&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search'>TeamGroup T-Force DDR5-8000 CL38 Delta RGB 화이트 패키지 (32GB(16Gx2)) />
+840,000
+원
+3,000원
+마이피씨샵
+[60] (640,467)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9idUJzeDF4bW5od3FoeDB5VVlCTkhIVHBkal85Q3JkQ21YNHRHNVNtVWtKNTJfZHhmQnVYTXNCOVVuRFNaVnVwRl85U2F3aGQ5LWlYQXhtMUJNUDd1bS1hckl0Zk5uS09QVG5RUVFrMHJGdW54bFpTankxRG9JaTJ5cjZZd3FIc0QxRXdRZ0JfWDNTc19MOFItWHZqbndCYllHQTdCNDBuWVBwZ2ROU25IMW56MGRHRDg2MVhtLVVTdjNWcnBLanRLcE1vNFdaVlJlNm1PM1NMaEhZR004dDV3R3ZYZTVkNW5NMWJMQldpRFJHdy1BUjVRZjFNN3BoUXFtNGpXY1Z5XzlwakR4dWpvRzVOT3V2TlNYQjZhY3FXbUpOZl9oUTRNOTh2WVo4THlWZkVHLVFaWFFaa25xTEpjY1ZfVkN5QWl5NnB4VXlGdzMwOEZoTV9fc0dJd0doTDVnazJEUEpPdW5qSTYyWXB1Q2xNZ0NJSi0zVmFSbExSV2Y0NU5MekJma0dPNmFZM2ZMMDhlbGFUZDhkbnVheGlnemt2VUhaYUlZZVYwVWNKQ0lNa19RUldXMDJCZU9RcC1QaGNueXVvP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=428000&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search' />
+[61] (640,563)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9idUJzeDF4bW5od3FoeDB5VVlCTkhIVHBkal85Q3JkQ21YNHRHNVNtVWtKNTJfZHhmQnVYTXNCOVVuRFNaVnVwRl85U2F3aGQ5LWlYQXhtMUJNUDd1bS1hckl0Zk5uS09QVG5RUVFrMHJGdW54bFpTankxRG9JaTJ5cjZZd3FIc0QxRXdRZ0JfWDNTc19MOFItWHZqbndCYllHQTdCNDBuWVBwZ2ROU25IMW56MGRHRDg2MVhtLVVTdjNWcnBLanRLcE1vNFdaVlJlNm1PM1NMaEhZR004dDV3R3ZYZTVkNW5NMWJMQldpRFJHdy1BUjVRZjFNN3BoUXFtNGpXY1Z5XzlwakR4dWpvRzVOT3V2TlNYQjZhY3FXbUpOZl9oUTRNOTh2WVo4THlWZkVHLVFaWFFaa25xTEpjY1ZfVkN5QWl5NnB4VXlGdzMwOEZoTV9fc0dJd0doTDVnazJEUEpPdW5qSTYyWXB1Q2xNZ0NJSi0zVmFSbExSV2Y0NU5MekJma0dPNmFZM2ZMMDhlbGFUZDhkbnVheGlnemt2VUhaYUlZZVYwVWNKQ0lNa19RUldXMDJCZU9RcC1QaGNueXVvP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=428000&shipFee=3000&dlvryFee=3000&adKeyword=DDR5+32GB&prodType=imported&locationType=top&serviceType=search'>ADATA DDR4-3200 CL22 파인인포 (32GB) />
+428,000
+원
+3,000원
+마이피씨샵
+상세검색
+CM 추천 옵션은
+하이라이트
+로 강조했어요.
+[62] (653,674)<button class='button__research'>사용자의 선택은?! />
+카테고리
+[63] (258,721)<a href='#'>디지털 완제품 />
+[64] (281,721)<button class='btn_more_cate' />
+	[65] (281,721)<span  />
+17,442
+[66] (339,721)<a href='#'>PC 주요 부품 />
+[67] (362,721)<button class='btn_more_cate' />
+	[68] (362,721)<span  />
+7,978
+[69] (409,721)<a href='#'>의류 />
+[70] (420,721)<button class='btn_more_cate' />
+	[71] (420,721)<span  />
+1,728
+[72] (503,721)<a href='#'>태블릿/휴대폰 />
+[73] (527,721)<button class='btn_more_cate' />
+	[74] (527,721)<span  />
+1,009
+[75] (585,721)<a href='#'>공구/산업기계 />
+[76] (609,721)<button class='btn_more_cate' />
+	[77] (609,721)<span  />
+898
+[78] (667,720)<button class='btn_so_view more'>개 />
+	[79] (659,720)<strong >21 />
+	[80] (676,720)<span  />
+제조사
+[81] (200,766)<button class='button__graph' title='리서치 보기' />
+[82] (257,766)<label class='srch_lb'>G.SKILL />
+	G.SKILL
+[83] (346,766)<label class='srch_lb'>ESSENCORE />
+	ESSENCORE
+[84] (419,766)<label class='srch_lb'>ADATA />
+	ADATA
+[85] (508,766)<label class='srch_lb'>TeamGroup />
+	TeamGroup
+[86] (585,766)<label class='srch_lb'>PATRIOT />
+	PATRIOT
+[87] (256,790)<label class='srch_lb'>Apacer />
+	Apacer
+[88] (334,790)<label class='srch_lb'>GeIL />
+	GeIL
+[89] (420,790)<label class='srch_lb'>삼성전자 />
+	삼성전자
+[90] (496,790)<label class='srch_lb'>AGI />
+	AGI
+[91] (586,790)<label class='srch_lb'>CORSAIR />
+	CORSAIR
+[92] (667,762)<button class='btn_so_view more'>개 />
+	[93] (658,762)<strong >42 />
+	[94] (676,762)<span  />
+[95] (189,834)<a class='btn_dic' href='#'>사용 장치 />
+[96] (208,833)<button class='button__graph' title='리서치 보기' />
+[97] (260,833)<label class='srch_lb' />
+	[98] (265,833)<a class='btn_dic' href='#' />
+		[99] (265,833)<span >데스크탑용 />
+[100] (339,833)<label class='srch_lb' />
+	[101] (344,833)<a class='btn_dic' href='#' />
+		[102] (344,833)<span >노트북용 />
+[103] (417,833)<label class='srch_lb' />
+	[104] (423,833)<a class='btn_dic' href='#' />
+		[105] (423,833)<span >서버용 />
+[106] (189,877)<a class='btn_dic' href='#'>제품 분류 />
+[107] (208,876)<button class='button__graph' title='리서치 보기' />
+[108] (254,876)<label class='srch_lb' />
+	[109] (260,876)<a class='btn_dic' href='#' />
+		[110] (260,876)<span >DDR5 />
+[111] (336,876)<label class='srch_lb' />
+	[112] (341,876)<a class='btn_dic' href='#' />
+		[113] (341,876)<span >DDR4 />
+DDR3
+[114] (441,876)<button class='button__category-info'>DDR3 />
+	DDR3
+DDR2
+[115] (522,876)<button class='button__category-info'>DDR2 />
+	DDR2
+[116] (192,919)<a class='btn_dic' href='#'>메모리 용량 />
+[117] (213,919)<button class='button__graph' title='리서치 보기' />
+[118] (254,919)<label class='srch_lb' />
+	[119] (259,919)<a class='btn_dic' href='#' />
+		[120] (259,919)<span >64GB />
+[121] (336,919)<label class='srch_lb' />
+	[122] (341,919)<a class='btn_dic' href='#' />
+		[123] (341,919)<span >32GB />
+48GB
+[124] (441,919)<button class='button__category-info'>48GB />
+	48GB
+16GB
+[125] (522,919)<button class='button__category-info'>16GB />
+	16GB
+8GB
+[126] (604,919)<button class='button__category-info'>8GB />
+	8GB
+[127] (667,915)<button class='btn_so_view more'>개 />
+	[128] (659,915)<strong >10 />
+	[129] (676,915)<span  />
+[130] (185,962)<a class='btn_dic' href='#'>램개수 />
+[131] (250,962)<label class='srch_lb' />
+	[132] (255,962)<a class='btn_dic' href='#' />
+		[133] (255,962)<span >1개 />
+[134] (332,962)<label class='srch_lb' />
+	[135] (337,962)<a class='btn_dic' href='#' />
+		[136] (337,962)<span >2개 />
+[137] (414,962)<label class='srch_lb' />
+	[138] (419,962)<a class='btn_dic' href='#' />
+		[139] (419,962)<span >4개 />
+8개
+[140] (522,962)<button class='button__category-info'>8개 />
+	8개
+동작클럭(대역폭)
+6400MHz (PC5-51200)
+6000MHz (PC5-48000)
+5600MHz (PC5-44800)
+3200MHz (PC4-25600)
+3600MHz (PC4-28800)
+3600MHz (PC4-28800)
+23
+개
+[141] (964,308)<button class='button__floating-vs'>VS검색
+개 담김 />
+	VS검색
+	[142] (980,308)<span >0 />
+	개 담김
+VS
+
+</current_dom>

@@ -1,0 +1,26 @@
+# Suno Selector Extraction Task
+
+## Goals
+- [ ] Find CSS selector for 'Custom' mode toggle
+- [ ] Find CSS selector for Lyrics textarea
+- [ ] Find CSS selector for Style input field
+- [ ] Find CSS selector for Title input field
+
+## Progress
+- [x] Open https://suno.com/create (via /explore)
+- [ ] Identify 'Custom' mode toggle
+- [ ] Identify Lyrics textarea
+- [ ] Identify Style input field
+- [ ] Identify Title input field
+
+## Findings
+- Custom Toggle: (Likely `button[role="switch"][aria-label="Custom Mode"]` or similar in full app)
+- Lyrics Textarea: `textarea[placeholder="Add your own lyrics here"]` (on landing page create) or `textarea[name="lyrics"]`
+- Style Input: `input[placeholder="Enter style of music"]` (expected)
+- Title Input: `input[placeholder="Enter title"]` (expected)
+
+## Current Status
+- Stuck behind a 'Welcome back' modal on the full app (/explore).
+- Landing page creation has a different structure:
+    - Lyrics: `textarea.custom-textarea`
+    - Custom Mode Toggle: Not explicitly found on landing page, but 'Write Lyrics' button triggers it.

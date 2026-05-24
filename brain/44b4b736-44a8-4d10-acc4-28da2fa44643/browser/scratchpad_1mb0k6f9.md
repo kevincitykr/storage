@@ -1,0 +1,24 @@
+# Task: Extract 6 Clean 16:9 Images from Opal
+
+## Checklist
+- [x] Navigate to Opal project
+- [ ] Locate 6 generated images
+- [ ] Capture Track 1 (Clean)
+- [ ] Capture Track 2 (Clean)
+- [ ] Capture Track 3 (Clean)
+- [ ] Capture Track 4 (Clean)
+- [ ] Capture Track 5 (Clean)
+- [ ] Capture Track 6 (Clean)
+- [ ] Verify 6 files are saved as Track_1_Clean.png to Track_6_Clean.png
+
+## Notes
+- URL: https://opal.google/edit/1BcgE9roFC40A6VDq-3L91GW9B0nPnFp6
+- Need 16:9 urban/aesthetic images without Opal UI.
+- Currently in Editor view. "Generate Seoul Night View Image" node exists.
+- "App" view shows a "Start" button and asks for description.
+- Trying to find where the 6 already generated images are stored.
+- Searched "Seoul Night View" project but only found 1 generation node.
+- Checked dashboard Page 1 and 2. Found "YouTube Image Sequence" which might be relevant.
+- Noticed "Sia Drama Studio" has a thumbnail with digital circuits, likely the "circuit_bloom" image.
+- "Seoul Night View" likely has the first image.
+- Will check "App" view and "Start" button to see if it reveals results.

@@ -53,6 +53,8 @@ async def run_automation(dummy_path=None):
             args=["--disable-blink-features=AutomationControlled", "--no-sandbox"]
         )
         page = await context.new_page()
+        # webdriver 감지 방지 (구글 로그인 세션 유지)
+        await page.add_init_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
         print("[*] NotebookLM 접속...", flush=True)
         await page.goto(BASE_URL, wait_until="load")

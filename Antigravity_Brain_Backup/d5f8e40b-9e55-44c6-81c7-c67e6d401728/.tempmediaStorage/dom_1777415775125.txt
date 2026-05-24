@@ -1,0 +1,88 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (63,40)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwj117j5zJGUAxWln68BHdsSEY4QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (313,39)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (518,39)<div  />
+	[3] (517,39)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (517,39)<span  />
+	[5] (530,39)<span  />
+[6] (546,39)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[7] (542,39)<div  />
+		[8] (542,39)<span  />
+[9] (334,87)<div aria-label='behance' class='lnnVSe' id='jZ2SBf' role='option' />
+	be
+	hance
+[10] (334,125)<div aria-label='before spring ends' class='lnnVSe' id='ERWdKc' role='option' />
+	Before spring ends
+	노래
+[11] (334,162)<div aria-label='be' class='lnnVSe' id='c7mM1c' role='option' />
+	be
+[12] (334,191)<div aria-label='bear' class='lnnVSe' id='Zrbbw' role='option' />
+	be
+	ar
+[13] (334,229)<div aria-label='beef' class='lnnVSe' id='sBQTL' role='option' />
+	BEEF
+	성난 사람들
+[14] (334,266)<div aria-label='beyond' class='lnnVSe' id='vTtioc' role='option' />
+	be
+	yond
+[15] (334,303)<div aria-label='beauty and a beat' class='lnnVSe' id='gLuoSb' role='option' />
+	Beauty and a Beat
+	저스틴 비버의 노래
+[16] (334,341)<div aria-label='be9400qca' class='lnnVSe' id='mdzGzd' role='option' />
+	be
+	9400qca
+[17] (334,378)<div aria-label='beggin' class='lnnVSe' id='hwdq1' role='option' />
+	Beggin’
+	모네스킨의 노래
+[18] (334,415)<div aria-label='beams' class='lnnVSe' id='HFKcI' role='option' />
+	be
+	ams
+[19] (516,452)<div class='WzNHm mWcf0e' role='button' />
+	[20] (516,452)<div >부적절한 예상 검색어 신고 />
+[21] (929,39)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' role='button' />
+[22] (954,39)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[23] (979,39)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%2522UColempvnpX_9ql68nsipzOQ%2522&ec=futura_srp_og_si_72236_p' role='button' />
+AI 모드
+전체
+쇼핑
+이미지
+동영상
+뉴스
+짧은 동영상
+더보기
+도구
+검색결과
+"UColempvnpX_9ql68nsipzOQ"
+와(과) 일치하는 검색결과가 없습니다.
+제안:
+모든 단어의 철자가 정확한지 확인하세요.
+다른 검색어를 사용해 보세요.
+더 일반적인 검색어를 사용해 보세요.
+바닥글 링크
+검색 결과가 맞춤설정되었습니다.
+-
+[24] (266,876)<a href='https://www.google.com/search?q=%22UColempvnpX_9ql68nsipzOQ%22&peek_pws=0&sxsrf=ANbL-n57pqFg_-2GXXou_UyMKWPlZI7NUg:1777415561823' />
+	[25] (266,876)<span  />
+		[26] (266,876)<span >맞춤설정 사용 중지해 보기 />
+대한민국
+[27] (265,920)<a href='#' role='button' />
+	[28] (216,920)<div  />
+		[29] (167,920)<span  />
+		[30] (220,920)<span >도농로 경기도 남양주시 다산1동 />
+	[31] (318,920)<div  />
+		[32] (272,920)<span >- />
+		[33] (321,920)<span  />
+			[34] (321,920)<span >내 위치(집)를 기반으로 추정됨 />
+-
+[35] (394,920)<update-location >위치 업데이트 />
+	위치 업데이트
+[36] (137,965)<a class='Fx4vi wHYlTd ZYHQ7e' href='https://support.google.com/websearch/?p=ws_results_help&hl=ko&fg=1'>도움말 />
+[37] (179,965)<a class='Fx4vi wHYlTd' href='#'>의견 보내기 />
+[38] (237,965)<a class='Fx4vi wHYlTd ZYHQ7e' href='https://policies.google.com/privacy?hl=ko&fg=1'>개인정보처리방침 />
+[39] (285,965)<a class='Fx4vi wHYlTd ZYHQ7e' href='https://policies.google.com/terms?hl=ko&fg=1'>약관 />
+
+</current_dom>

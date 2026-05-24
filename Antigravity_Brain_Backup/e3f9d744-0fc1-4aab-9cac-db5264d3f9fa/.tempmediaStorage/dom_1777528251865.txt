@@ -1,0 +1,47 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (311,30)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[1] (545,30)<button class='btn_search'>검색 />
+	검색
+[2] (601,31)<a class='btn_esti_02 btn_srch_reset' href='javascript:;' id='searchProductReset'>검색 초기화 />
+	[3] (578,30)<span  />
+i7-14700KRTX 4060ARTX 4060
+에 대한 검색결과입니다.
+[4] (121,194)<label >전체
+(0) />
+	(0)
+[5] (127,497)<a >인기상품순 />
+[6] (201,497)<a >신상품순 />
+[7] (275,497)<a >낮은 가격순 />
+[8] (349,497)<a >높은 가격순 />
+[9] (423,497)<a >상품명순 />
+[10] (607,500)<button class='btn__search-detail' id='searchDetailButton'>결과 내 검색 />
+상품에 대한 품목 및 최저가에 대한 리스트입니다.
+상품
+품목
+선택
+등록된 상품이 없습니다.
+카테고리나 검색 조건을 다시 확인해 주세요.
+[11] (716,26)<a href='javascript:;'>현금 최저가 />
+[12] (845,26)<a href='javascript:;'>카드 최저가 />
+[13] (689,92)<a href='javascript:;' role='button'>견적카트 />
+[14] (801,92)<a class='btn__estimate-login checkLogin' href='javascript:;'>로그인하여 저장한 견적들을 확인해보세요. />
+[15] (781,1027)<div class='pd_list_area' scrollable='true' />
+	PC 주요구성
+	[16] (809,166)<a class='btn_close_cell' />
+	[17] (776,234)<a class='pd_item_title' href='#'>CPU />
+	[18] (776,305)<a class='pd_item_title' href='#'>쿨러/튜닝 />
+	[19] (776,376)<a class='pd_item_title' href='#'>메인보드 />
+	[20] (776,448)<a class='pd_item_title' href='#'>메모리 />
+	[21] (776,519)<a class='pd_item_title' href='#'>그래픽카드 />
+	[22] (776,591)<a class='pd_item_title' href='#'>SSD />
+	[23] (776,662)<a class='pd_item_title' href='#'>HDD />
+	[24] (776,733)<a class='pd_item_title' href='#'>케이스 />
+	[25] (776,805)<a class='pd_item_title' href='#'>파워 />
+	[26] (776,876)<a class='pd_item_title' href='#'>소프트웨어 />
+	모니터 및 주변기기
+	[27] (821,972)<a class='btn_close_cell' />
+
+</current_dom>

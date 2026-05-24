@@ -1,0 +1,170 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (865,19)<a href='https://wing.coupang.com/tenants/vendor-signup/signup?utm_source=button_pc_coupang_top_right_cta&utm_medium=non_paid&utm_campaign=seller_registration'>판매자 가입 />
+[1] (832,19)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+[2] (803,19)<a href='https://login.coupang.com/login/memberJoinFrm.pang' title='회원가입'>회원가입 />
+[3] (777,19)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fvp%252Fproducts%252F8866246284%253FitemId%253D25858334864%2526vendorItemId%253D92844677775' title='로그인'>로그인 />
+[4] (127,19)<a class='bookmark' id='wa-bookmark'>즐겨찾기 />
+[5] (160,19)<a class='dropdown_menu_flag'>입점신청 />
+	[6] (173,21)<i  />
+[7] (134,102)<div  />
+	[8] (134,86)<div  />
+		[9] (134,76)<div  />
+		[10] (134,86)<div  />
+		[11] (134,96)<div  />
+	[12] (134,125)<div >카테고리 />
+[13] (218,91)<a class='fw-mr-[25px] fw-inline-block fw-flex-none' href='https://www.coupang.com' />
+	[14] (218,91)<img  />
+[15] (308,91)<a class='select--category__current rlux:fw-text-bluegray-800' href='#' id='sbSelector_56102497'>전체 />
+[16] (556,92)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800 ad-keyword is-speech' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[17] (775,91)<a class='speech-mic fw-mr-[12px] fw-hidden fw-flex-none fw-cursor-pointer' />
+[18] (791,91)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[19] (791,91)<img  />
+[20] (829,91)<a href='https://mc.coupang.com/ssr/desktop/order/list' id='wa-mycoupang-link' />
+	[21] (828,82)<img  />
+	[22] (829,115)<div >마이쿠팡 />
+[23] (866,91)<a href='//cart.coupang.com/cartView.pang' id='wa-cart-link' />
+	[24] (865,82)<img  />
+	[25] (876,65)<em >0 />
+	[26] (866,115)<div >장바구니 />
+[27] (171,149)<a class='gnb-menu-btn gnb-menu-btn-left' />
+[28] (201,149)<a href='https://www.coupangplay.com/catalog' />
+	[29] (185,149)<img  />
+	[30] (207,149)<span >쿠팡플레이 />
+[31] (252,149)<a href='https://www.coupang.com/np/campaigns/82' />
+	[32] (239,149)<img  />
+	[33] (258,149)<span >로켓배송 />
+[34] (302,149)<a href='https://www.coupang.com/np/categories/393760' />
+	[35] (286,149)<img  />
+	[36] (308,149)<span >로켓프레시 />
+[37] (358,149)<a href='https://pages.coupang.com/p/168131' />
+	[38] (340,149)<img  />
+	[39] (360,149)<span >가정의 달 />
+	[40] (377,148)<i  />
+[41] (414,149)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[42] (397,149)<img  />
+	[43] (417,149)<span >다시 구매 />
+	[44] (434,148)<i  />
+[45] (467,149)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[46] (454,149)<img  />
+	[47] (472,149)<span >쿠팡비즈 />
+[48] (514,149)<a href='https://www.coupang.com/np/coupangglobal' />
+	[49] (501,149)<img  />
+	[50] (520,149)<span >로켓직구 />
+[51] (561,149)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[52] (548,149)<img  />
+	[53] (567,149)<span >골드박스 />
+[54] (612,149)<a href='https://pages.coupang.com/p/136938' />
+	[55] (596,149)<img  />
+	[56] (618,149)<span >이달의신상 />
+[57] (666,149)<a href='https://www.coupang.com/np/omp' />
+	[58] (649,149)<img  />
+	[59] (671,149)<span >판매자특가 />
+[60] (722,149)<a href='https://www.coupang.com/np/campaigns/83' />
+	[61] (703,149)<img  />
+	[62] (728,149)<span >와우회원할인 />
+[63] (780,149)<a href='https://www.coupang.com/np/coupangbenefit' />
+	[64] (763,149)<img  />
+	[65] (786,149)<span >이벤트/쿠폰 />
+[66] (832,149)<a href='https://pages.coupang.com/p/54908' />
+	[67] (819,149)<img  />
+	[68] (838,149)<span >반품마켓 />
+착한상점
+기획전
+쿠팡트래블
+[69] (876,149)<a class='gnb-menu-btn gnb-menu-btn-right gnb-menu-btn-active' />
+	[70] (876,149)<span  />
+[71] (126,191)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com'>쿠팡 홈 />
+[72] (163,191)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/178255?eventCategory=breadcrumb' title='가전디지털'>가전디지털 />
+[73] (201,191)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/497136?eventCategory=breadcrumb' title='데스크탑'>데스크탑 />
+[74] (234,191)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/497139?eventCategory=breadcrumb' title='조립PC'>조립PC />
+[75] (134,257)<li  />
+	[76] (134,257)<i  />
+[77] (432,256)<button class='twc-flex twc-h-[36px] twc-w-[36px] twc-items-center twc-justify-center twc-bg-[#fff] twc-rounded-full twc-shadow-[0_0_8px_0_rgba(0,0,0,0.15)] desktop-hover:twc-bg-[#DADCDE] active:twc-bg-[#C7CACD] focus-visible:twc-ring-2 focus-visible:twc-ring-[#0AB0FF]' />
+[78] (432,308)<button class='twc-flex twc-h-[36px] twc-w-[36px] twc-items-center twc-justify-center twc-bg-[#fff] twc-rounded-full twc-shadow-[0_0_8px_0_rgba(0,0,0,0.15)] desktop-hover:twc-bg-[#DADCDE] active:twc-bg-[#C7CACD] focus-visible:twc-ring-2 focus-visible:twc-ring-[#0AB0FF]' />
+단 2개 남음
+빨리 주문하세요!
+보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터
+[79] (491,298)<a class='twc-flex twc-items-center' href='#sdpReview' id='prod-review-nav-link' />
+	[80] (491,298)<div  />
+		[81] (481,298)<div  />
+		[82] (515,298)<div >(136) />
+100명 이상
+만족했어요
+22%
+2,179,000원
+2,799,000원
+[83] (503,370)<span  />
+	[84] (503,370)<div  />
+이 상품은
+내일 도착,
+무료배송
+내일(일) 5/3
+도착 보장
+(
+16시간 7분
+내 주문 시
+/ 서울⋅경기 기준
+)
+무료배송
+판매자:
+[85] (548,525)<a class='twc-flex twc-justify-start twc-items-center twc-mx-[3px] twc-text-[#346aff]' href='https://shop.coupang.com/vid/A01144592?source=brandstore_sdp_atf&pid=8866246284&viid=92844677775&platform=p'>주식회사 보아스시스템 />
+	[86] (582,525)<div >판매자 상품 보러가기 />
+운영체제
+:
+WIN11 Home
+[87] (630,640)<div  />
+	[88] (626,640)<div  />
+		[89] (626,632)<div >저장용량 × RAM용량 × GPU 모델명 × CPU 모델 번호 />
+		[90] (626,648)<div >1TB × 32GB × 지포스 RTX 5060 Ti × i7-14700F />
+	[91] (791,640)<div  />
+		[92] (791,640)<i  />
+적립
+최대 50,000원
+[93] (566,717)<button  />
+	[94] (566,717)<span >쿠팡캐시 적립 />
+·
+쿠페이 머니 결제시
+[95] (782,717)<div  />
+	[96] (778,717)<div >혜택보기 />
+PC에서도 간편한 결제
+쿠페이머니
+카드
+계좌이체
+[97] (475,823)<input class='twc-text-center twc-text-[16px] twc-text-[#111] twc-font-bold twc-leading-[40px] twc-border-solid twc-border-r twc-border-r-[#eee] twc-bg-transparent twc-w-[61px] twc-h[40px] max-[600px]:twc-w-[78px] max-[600px]:twc-h-[30px] max-[600px]:twc-border-none' />
+[98] (496,812)<button class='twc-relative twc-flex twc-items-center twc-justify-center twc-w-[20px] twc-h-[20px] twc-bg-transparent twc-text-[0] twc-leading-0 max-[600px]:twc-w-[30px] max-[600px]:twc-h-[30px] max-[600px]:twc-border-none twc-border-b twc-border-solid twc-border-b-[#ccc] twc-cursor-pointer' />
+	[99] (496,811)<i  />
+[100] (579,823)<button class='prod-cart-btn twc-flex-1 max-[600px]:twc-rounded-[4px]'>장바구니 담기 />
+[101] (728,823)<button class='prod-buy-btn twc-flex-1 max-[600px]:twc-rounded-[4px]' />
+	[102] (724,823)<span >바로구매 />
+종류: 조립PC
+쿠팡상품번호: 8866246284 - 25858334864
+[103] (630,963)<div  />
+	[104] (630,963)<a class='impression-logged view-logged' href='/vp/products/7342370420?itemId=24503140130&vendorItemId=89214599232&sourceType=SDP_MID_BANNER&clickEventId=77a24580-45b0-11f1-8432-54152db4636f' />
+		[105] (630,963)<div  />
+			[106] (617,963)<div  />
+				[107] (593,963)<div  />
+					[108] (593,942)<div  />
+						[109] (538,942)<h4 >이런건 어때요? />
+							[110] (512,941)<strong >추천 />
+					[111] (593,963)<div  />
+						17%
+						[112] (603,965)<div  />
+							[113] (603,965)<span >피씨오브플레이어 컴퓨터 게이밍 조립컴퓨터 올인원 풀세트 모니터포함 고사양PC 오버워치 피파, 풀세트 11번, 라데온 RX 7600, 16GB, 500GB, WIN11 Home />
+					[114] (593,985)<div  />
+						[115] (530,985)<div  />
+							[116] (523,985)<img  />
+							[117] (548,985)<img  />
+						[118] (585,985)<div  />
+							[119] (575,985)<div  />
+								[120] (575,985)<div  />
+							[121] (604,986)<span >(
+7,676
+) />
+				[122] (691,963)<div  />
+			[123] (786,963)<div  />
+				[124] (786,964)<span >광고 />
+
+</current_dom>

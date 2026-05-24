@@ -1,0 +1,147 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (666,69)<a href='/search/14700%204070%20%EB%B3%B8%EC%B2%B4?priceMin=1300000&priceMax=1700000&openChat=true' />
+	[7] (666,69)<div  />
+		[8] (649,69)<div  />
+			[9] (649,69)<img  />
+		[10] (675,69)<span >채팅하기 />
+[11] (732,69)<a href='/product/form?type=regist' />
+	[12] (732,69)<div  />
+		[13] (715,69)<div  />
+			[14] (715,69)<img  />
+		[15] (741,69)<span >판매하기 />
+[16] (790,69)<a href='/mystore' />
+	[17] (790,69)<div  />
+		[18] (781,69)<div  />
+			[19] (781,69)<img  />
+		[20] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[21] (904,329)<button aria-label='최근 본 상품 아수스 최신 TUF 고성능 i7/램32G,4070 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[22] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/221112542' />
+	[23] (886,369)<img  />
+[24] (904,462)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[25] (886,502)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[26] (886,502)<img  />
+추천순
+최신순
+낮은가격순
+높은가격순
+[27] (239,318)<div  />
+	[28] (239,318)<a class='w-full' href='/product/228107090' />
+		[29] (239,318)<div  />
+			[30] (239,242)<div  />
+				[31] (239,242)<div  />
+				[32] (284,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[33] (239,457)<div  />
+				[34] (239,438)<div  />
+					[35] (239,418)<span >i7 14700kf , 4070 ti 완본체 급처 />
+					[36] (239,468)<div  />
+						[37] (239,468)<div  />
+							[38] (209,468)<span >2,200,000 />
+							[39] (243,470)<span >원 />
+				[40] (239,511)<div  />
+					[41] (239,511)<div  />
+						[42] (197,511)<div  />
+							[43] (188,511)<div  />
+								[44] (193,511)<span >2 />
+							[45] (207,511)<div  />
+								[46] (213,511)<span >2 />
+						[47] (219,511)<div  />
+						[48] (234,511)<span >1일 전 />
+[49] (369,318)<div  />
+	[50] (369,318)<a class='w-full' href='/product/228005196' />
+		[51] (369,318)<div  />
+			[52] (369,242)<div  />
+				[53] (369,242)<div  />
+				[54] (415,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[55] (369,457)<div  />
+				[56] (369,438)<div  />
+					[57] (369,418)<span >14700k rtx 4070super 게이밍 컴퓨터 본체 />
+					[58] (369,468)<div  />
+						[59] (369,468)<div  />
+							[60] (340,468)<span >2,200,000 />
+							[61] (374,470)<span >원 />
+				[62] (369,511)<div  />
+					[63] (369,511)<div  />
+						[64] (319,511)<div  />
+							[65] (319,511)<div  />
+								[66] (324,511)<span >3 />
+						[67] (331,511)<div  />
+						[68] (346,511)<span >3일 전 />
+[69] (500,318)<div  />
+	[70] (500,317)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=7830109112&itemId=21294015388&vendorItemId=94111628504&traceid=V0-153-cbc80227c70df283&requestid=20260507065924720184430113&token=31850C%7CGM' />
+		[71] (500,317)<div  />
+			[72] (500,242)<div  />
+				[73] (500,242)<div  />
+			[74] (500,455)<div  />
+				[75] (500,438)<div  />
+					[76] (500,418)<span >i7 갓성비 대용량 듀얼하드 장착 게이밍 컴퓨터 배그 디아블로4 발로란트 롤 팰월드 발로란트 로블록스 오버워치2 조립 데스크탑 디자인 포토샵 데스크탑 본체 PC />
+					[77] (500,468)<div  />
+						[78] (500,468)<div  />
+							[79] (466,468)<span >699,000 />
+							[80] (494,470)<span >원 />
+				[81] (500,510)<div  />
+					[82] (500,510)<span >광고 |
+쿠팡 />
+[83] (631,318)<div  />
+	[84] (631,318)<a class='w-full' href='/product/227354876' />
+		[85] (631,318)<div  />
+			[86] (631,242)<div  />
+				[87] (631,242)<div  />
+				[88] (677,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[89] (631,457)<div  />
+				[90] (631,438)<div  />
+					[91] (631,418)<span >i7-14700K RTX4070TI SUPER 본체 팝니다 />
+					[92] (631,468)<div  />
+						[93] (631,468)<div  />
+							[94] (601,468)<span >2,750,000 />
+							[95] (634,470)<span >원 />
+				[96] (631,511)<div  />
+					[97] (631,511)<div  />
+						[98] (579,511)<div  />
+							[99] (579,511)<div  />
+								[100] (585,511)<span >1 />
+						[101] (591,511)<div  />
+						[102] (608,511)<span >22일 전 />
+[103] (761,318)<div  />
+	[104] (761,318)<a class='w-full' href='/product/227325936' />
+		[105] (761,318)<div  />
+			[106] (761,242)<div  />
+				[107] (761,242)<div  />
+				[108] (807,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[109] (761,457)<div  />
+				[110] (761,438)<div  />
+					[111] (761,418)<span >i7-14700K RTX4070TI 슈퍼본체 팝니다 />
+					[112] (761,468)<div  />
+						[113] (761,468)<div  />
+							[114] (732,468)<span >2,700,000 />
+							[115] (765,470)<span >원 />
+				[116] (761,511)<div  />
+					[117] (761,511)<div  />
+						[118] (710,511)<div  />
+							[119] (710,511)<div  />
+								[120] (716,511)<span >1 />
+						[121] (722,511)<div  />
+						[122] (739,511)<span >26일 전 />
+[123] (499,668)<button class='w-10 h-10 rounded-lg bg-jnGreen-400 text-white'>1 />
+[124] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[125] (854,907)<div  />
+		[126] (903,907)<div  />
+[127] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[128] (902,799)<span  />
+
+</current_dom>

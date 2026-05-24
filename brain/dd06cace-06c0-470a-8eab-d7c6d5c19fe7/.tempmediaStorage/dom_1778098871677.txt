@@ -1,0 +1,162 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (326,125)<a class='inline shrink-0' href='/search/%EB%A7%A5%EB%AF%B8%EB%8B%88' />
+	[6] (326,125)<span >맥미니 />
+		[7] (316,125)<span >6
+. />
+[8] (362,125)<a class='inline shrink-0' href='/search/%EB%A0%88%EC%A7%84' />
+	[9] (362,125)<span >레진 />
+		[10] (355,125)<span >7
+. />
+[11] (404,125)<a class='inline shrink-0' href='/search/%EA%B0%80%EB%A9%B4%EB%9D%BC%EC%9D%B4%EB%8D%94' />
+	[12] (404,125)<span >가면라이더 />
+		[13] (387,125)<span >8
+. />
+[14] (446,125)<a class='inline shrink-0' href='/search/%EA%B1%B4%EB%8B%B4' />
+	[15] (446,125)<span >건담 />
+		[16] (440,125)<span >9
+. />
+[17] (494,125)<a class='inline shrink-0' href='/search/%EA%B7%B8%EB%9E%9C%EB%93%9C%EC%84%B8%EC%9D%B4%EC%BD%94' />
+	[18] (494,125)<span >그랜드세이코 />
+		[19] (474,125)<span >10
+. />
+[20] (666,69)<a href='/product/228244891?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 i7-14700K, RTX 4060 영상 및 게이밍 컴퓨터 PC 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228244891' />
+	[37] (886,369)<img  />
+이런 상품은 어때요?
+[38] (229,375)<a href='/product/228325293' />
+	[39] (229,375)<div  />
+		[40] (229,298)<div  />
+			[41] (229,298)<div  />
+		[42] (229,492)<div  />
+			[43] (229,473)<div  />
+				[44] (229,453)<span >인텔 정품 i9-13900 Es2 / ddr5 32gb 작업용 컴퓨터 급처 />
+				[45] (229,503)<div  />
+					[46] (229,503)<div  />
+						[47] (207,503)<span >1,100,000 />
+						[48] (238,505)<span >원 />
+			[49] (229,546)<div  />
+				[50] (229,546)<div  />
+					[51] (194,546)<span >5시간 전 />
+[52] (337,375)<a href='/product/228324809' />
+	[53] (337,375)<div  />
+		[54] (337,298)<div  />
+			[55] (337,298)<div  />
+		[56] (337,492)<div  />
+			[57] (337,473)<div  />
+				[58] (337,453)<span >WIN11 삼성 DDR4 8G램 인텔 6세대 CPU 128 SSD 고속 사무용 피시 데스크탑 컴퓨터 PC 무선 />
+				[59] (337,503)<div  />
+					[60] (337,503)<div  />
+						[61] (312,503)<span >130,000 />
+						[62] (339,505)<span >원 />
+			[63] (337,546)<div  />
+				[64] (337,546)<div  />
+					[65] (303,546)<span >5시간 전 />
+[66] (446,375)<a href='/product/228070794' />
+	[67] (446,375)<div  />
+		[68] (446,298)<div  />
+			[69] (446,298)<div  />
+		[70] (446,492)<div  />
+			[71] (446,473)<div  />
+				[72] (446,453)<span >[A/S넉넉/정비완료] 인텔 12세대 i5 + RTX 4060 게이밍 본체 />
+				[73] (446,503)<div  />
+					[74] (446,503)<div  />
+						[75] (424,503)<span >1,010,000 />
+						[76] (456,505)<span >원 />
+			[77] (446,546)<div  />
+				[78] (446,546)<div  />
+					[79] (411,546)<span >6시간 전 />
+[80] (554,375)<a href='/product/228321891' />
+	[81] (554,375)<div  />
+		[82] (554,298)<div  />
+			[83] (554,298)<div  />
+		[84] (554,492)<div  />
+			[85] (554,473)<div  />
+				[86] (554,453)<span >인텔 11400F 2060슈퍼 게이밍본체 pc />
+				[87] (554,503)<div  />
+					[88] (554,503)<div  />
+						[89] (529,503)<span >650,000 />
+						[90] (558,505)<span >원 />
+			[91] (554,546)<div  />
+				[92] (554,546)<div  />
+					[93] (520,546)<span >7시간 전 />
+[94] (663,375)<a href='/product/228224901' />
+	[95] (663,375)<div  />
+		[96] (663,298)<div  />
+			[97] (663,298)<div  />
+		[98] (663,492)<div  />
+			[99] (663,473)<div  />
+				[100] (663,453)<span >인텔 i7 14700F RTX4070SUPER 램32G SSD 1TB 컴퓨터 />
+				[101] (663,503)<div  />
+					[102] (663,503)<div  />
+						[103] (643,503)<span >2,200,000 />
+						[104] (677,505)<span >원 />
+			[105] (663,546)<div  />
+				[106] (663,546)<div  />
+					[107] (628,546)<span >7시간 전 />
+[108] (771,375)<a href='/product/228315998' />
+	[109] (771,375)<div  />
+		[110] (771,298)<div  />
+			[111] (771,298)<div  />
+		[112] (771,492)<div  />
+			[113] (771,473)<div  />
+				[114] (771,453)<span >특가 38만원/인텔 14400f 14700k 14900 14100 주식컴퓨터 영상편집 사무용 조립pc 게이밍컴퓨터 />
+				[115] (771,503)<div  />
+					[116] (771,503)<div  />
+						[117] (746,503)<span >333,333 />
+						[118] (774,505)<span >원 />
+			[119] (771,546)<div  />
+				[120] (771,546)<div  />
+					[121] (737,546)<span >8시간 전 />
+BEELINK 비링크 EQ13 미니PC 인텔 12세대 Alder Lake 미니컴퓨터
+250,000
+원
+8
+8시간 전
+퍼플랩 2025 게이밍 PC 코어i5 인텔 12세대 지포스 RTX 5060
+990,000
+원
+9시간 전
+[122] (807,303)<button aria-label='다음 슬라이드' class='absolute right-0 -translate-y-1/2 z-10 p-2 hover:bg-white/60 disabled:hidden top-[27%] rounded-none' />
+파워링크
+AD
+[123] (302,816)<a class='text-gray-500 leading-[17px] break-all' href='https://ader.naver.com/v1/CzvwT2A3aP85y4RL15NjZKl-O8YaBMWwErqO2b-sKI2lSwKL0H9u9fojSGjMFAcizdLgBygAqebfh5eYrnx_qxZqnLhS7gojzDbcZ5dVkDc8UofQi8EIzM2IVy62AupuVqbg1fmJz8BB_SqiZdl8WaidlVzuMvD1jlwYvk87kdwBmB3dI8JD6IQH6b_LWNwamFiVwtXqbxmhTVL-qhmX0zbqanrilBsJQjvR7p0uuE5dntMsg35ck3zsfsD6QMUk-s9oq7WA1lcmsKfqhMFQ_9gnw9rDvOW7x7sakbqsQy7LcfYxBTkRN11ZODgu17hYhZtb6MlfA1xkehYjPoyU0SvpdqbEE7Ujx7BYXxxpNewn3dT0LE-NCrvS8tYJyrMCvbg17FiMZ1ttjxjTtl-li7J6t5vBQb0IvbvXfKRU1VM=?c=m_joongna.ch2&t=0'>http://shop.danawa.com />
+[124] (239,856)<a class='border-b border-success mr-1' href='https://ader.naver.com/v1/CzvwT2A3aP85y4RL15NjZKl-O8YaBMWwErqO2b-sKI2lSwKL0H9u9fojSGjMFAcizdLgBygAqebfh5eYrnx_qxZqnLhS7gojzDbcZ5dVkDc8UofQi8EIzM2IVy62AupuVqbg1fmJz8BB_SqiZdl8WaidlVzuMvD1jlwYvk87kdwBmB3dI8JD6IQH6b_LWNwamFiVwtXqbxmhTVL-qhmX0zbqanrilBsJQjvR7p0uuE5dntMsg35ck3zsfsD6QMUk-s9oq7WA1lcmsKfqhMFQ_9gnw9rDvOW7x7sakbqsQy7LcfYxBTkRN11ZODgu17hYhZtb6MlfA1xkehYjPoyU0SvpdqbEE7Ujx7BYXxxpNewn3dT0LE-NCrvS8tYJyrMCvbg17FiMZ1ttjxjTtl-li7J6t5vBQb0IvbvXfKRU1VM=?c=m_joongna.ch2&t=0'>조립PC구매는 역시 샵다나와 />
+[125] (355,855)<a href='https://ader.naver.com/v1/CzvwT2A3aP85y4RL15NjZKl-O8YaBMWwErqO2b-sKI2lSwKL0H9u9fojSGjMFAcizdLgBygAqebfh5eYrnx_qxZqnLhS7gojzDbcZ5dVkDc8UofQi8EIzM2IVy62AupuVqbg1fmJz8BB_SqiZdl8WaidlVzuMvD1jlwYvk87kdwBmB3dI8JD6IQH6b_LWNwamFiVwtXqbxmhTVL-qhmX0zbqanrilBsJQjvR7p0uuE5dntMsg35ck3zsfsD6QMUk-s9oq7WA1lcmsKfqhMFQ_9gnw9rDvOW7x7sakbqsQy7LcfYxBTkRN11ZODgu17hYhZtb6MlfA1xkehYjPoyU0SvpdqbEE7Ujx7BYXxxpNewn3dT0LE-NCrvS8tYJyrMCvbg17FiMZ1ttjxjTtl-li7J6t5vBQb0IvbvXfKRU1VM=?c=m_joongna.ch2&t=0'>•
+최대 36개월 무이자 할부 />
+[126] (302,895)<a class='text-gray-900 text-ellipsis line-clamp-2 break-all leading-[17px]' href='https://ader.naver.com/v1/CzvwT2A3aP85y4RL15NjZKl-O8YaBMWwErqO2b-sKI2lSwKL0H9u9fojSGjMFAcizdLgBygAqebfh5eYrnx_qxZqnLhS7gojzDbcZ5dVkDc8UofQi8EIzM2IVy62AupuVqbg1fmJz8BB_SqiZdl8WaidlVzuMvD1jlwYvk87kdwBmB3dI8JD6IQH6b_LWNwamFiVwtXqbxmhTVL-qhmX0zbqanrilBsJQjvR7p0uuE5dntMsg35ck3zsfsD6QMUk-s9oq7WA1lcmsKfqhMFQ_9gnw9rDvOW7x7sakbqsQy7LcfYxBTkRN11ZODgu17hYhZtb6MlfA1xkehYjPoyU0SvpdqbEE7Ujx7BYXxxpNewn3dT0LE-NCrvS8tYJyrMCvbg17FiMZ1ttjxjTtl-li7J6t5vBQb0IvbvXfKRU1VM=?c=m_joongna.ch2&t=0' />
+	[127] (302,895)<span >컴퓨터의 모든것! 실시간 견적상담, 정품&새제품, 조립PC전문 다나와 공식쇼핑몰 />
+[128] (203,946)<a class='inline-block py-[9.5px] px-3 border border-gray-300 rounded font-medium leading-[17px]' href='https://ader.naver.com/v1/yFK0R6ON9-hlJls1D5ZF37vcAC72nolfKmVS5WXhvg_d1Yq14X3qcMpOqkIaBxgTT_zexNUZWR6TVDY9x7y7Ah76LHLPgNJ3DcepNWSRq6NM9QtA4YGcpCDTQbLRaCUtpkhJqH3b1Fwo9Q9Nla6EbFvFdUIG7DKnG6BSmLKUm_jM-xUjFJCZozXtWkiUGErHbioQ09-MZ78-FGbCdqK0g-zKqHb88lCyvbmvZhXDn4C8txisH8eJD01EEfP41TzvEtkDQPbCyqL1kL6jXbJ6ChpcnnYlzXlJ1AlQVe3P2JApqZ2fMI7PcsBG_eajY9At-ZljPEXXniZo5cTAl6TDLIphJ665VgiUrWPMz_ACUtA=?c=m_joongna.ch2&t=0'>게임용PC />
+[129] (258,946)<a class='inline-block py-[9.5px] px-3 border border-gray-300 rounded font-medium leading-[17px]' href='https://ader.naver.com/v1/yFK0R6ON9-hlJls1D5ZF34MlGnWjL6bMU8XYF7Hr7lRLBzrzpWX9nDS__5yuWrxSIgZfxJH1Z8Dvp67ARn15cJALYOXTCMAf3GucygGaaxQhfF6H4lg3iSDPlnZwGAzjWlagR1TbEqe8DS1sK70neauJlOH_TW_gbYiO2xULPs5U59inoaCvObgQlY9wjvKJ_Ps9IhtcpOVMEzr0vRoJDBUApvBCn9W3MnYb7NDw5eWD6i4ikxSMnaOZM5wi__yHtoScNELGRfYM-TU8F42KoAcFwyvYVyvvPI-Qn2sFet22VP7OVIu_lhcMR2B6yylzf9tY7wR-8Agu-CyVGQCCI_l9Lv_SzQmAYJu_p1HqaRo=?c=m_joongna.ch2&t=0'>무이자 할부 />
+[130] (310,946)<a class='inline-block py-[9.5px] px-3 border border-gray-300 rounded font-medium leading-[17px]' href='https://ader.naver.com/v1/m3K1x2iuIBkiAF_GfPfIJ0cU4s-ieP_NhBb_qEIVhn9ddWEpkldyulSWawJa5gMpzgSg4ZQB2L8XTP-ZMRmkXDtJeCDqw6LumCh3FwalHGM5t6-uFw-siRztRXrovi0rr_P1Xb-QmYUDxZKfjDpngehcAbqEIccDH5yO3vm_RPIfxuJJc4d9pMdIhZJvT34vIA0zUDGIqZa67VVINO1KmISGrJ46NgMj2vnzPt1I9xuMpcAkjiDi3OWBW3VKQCx9RboUFrfzcFpYXY96qNvPIvwAY58DWya5IhwDPTUAQRr1lQEgcMdfFxnIDJBNsICAL2ibXt3ct__xi5W8wySfoqmOi5jm_dE6iHjMVE58qa0=?c=m_joongna.ch2&t=0'>PC견적 />
+
+</current_dom>

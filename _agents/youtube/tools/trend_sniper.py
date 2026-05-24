@@ -11,6 +11,15 @@ Requires:  pip install google-api-python-client requests
 """
 import os, json, time, random, datetime, sys
 
+# Windows Unicode Console encoding fix
+if sys.platform == 'win32':
+    try:
+        sys.stdout.reconfigure(encoding='utf-8')
+        sys.stderr.reconfigure(encoding='utf-8')
+    except Exception:
+        pass
+
+
 HERE = os.path.dirname(os.path.abspath(__file__))
 CONFIG_PATH = os.path.join(HERE, "trend_sniper.json")
 ACCOUNT_PATH = os.path.join(HERE, "youtube_account.json")

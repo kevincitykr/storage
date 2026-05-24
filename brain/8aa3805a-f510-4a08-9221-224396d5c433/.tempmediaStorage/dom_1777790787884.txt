@@ -1,0 +1,103 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,38)<div class='_18RYS3F-' role='button' />
+	[1] (164,38)<div  />
+		[2] (164,38)<div  />
+			[3] (164,25)<div  />
+				[4] (96,25)<div  />
+					[5] (89,25)<div >무료 배송 />
+			[6] (164,50)<div >최소 주문 금액 13,000원 (국내 발송 상품 제외) />
+[7] (390,38)<li  />
+	[8] (390,38)<div class='_18RYS3F-' role='button' />
+		[9] (405,38)<div  />
+			[10] (405,38)<div  />
+				[11] (405,25)<div  />
+					[12] (371,25)<div  />
+						[13] (371,25)<div >배송 보장 />
+				[14] (405,50)<div >모든 문제에 대한 반품 가능 />
+무료 반품
+최대 90일*
+가격 조정
+30일 이내
+배송 보장
+모든 문제에 대한 반품 가능
+[15] (578,38)<div class='_18RYS3F-' role='button' />
+	[16] (592,38)<div  />
+		[17] (592,38)<div  />
+			[18] (592,38)<div  />
+				[19] (592,38)<div  />
+					[20] (592,38)<div >Temu 앱 다운로드 />
+[21] (822,38)<div class='_1_ixefkT' role='none' />
+	[22] (822,38)<div  />
+		[23] (822,38)<div  />
+			[24] (779,38)<div  />
+				[25] (777,38)<span >수백만 명의 구매자가 이용하는 Temu에서 판매를 시작해 보세요. />
+			[26] (903,38)<a class='_2Tl9qLr1 _1dANk6WB' href='https://kr.seller.temu.com/login.html?login_scene=201&shop_region=185&shop_site=119' />
+				[27] (903,38)<div  />
+					[28] (898,38)<div >참여하기 />
+[29] (61,124)<a alt='temu' class='_2Tl9qLr1 _1LssdoSX _3Dio8XUP _3BXnNo54' href='/kr' title='temu' />
+	[30] (61,124)<div  />
+[31] (118,124)<div  />
+	[32] (118,124)<div aria-label='카테고리' class='_2jbDKJi2 _1ds_vWpj _3BXnNo54' role='button' />
+		[33] (118,124)<div  />
+			[34] (111,124)<div  />
+				[35] (111,124)<span >카테고리 />
+[36] (421,123)<input aria-label='검색창. 더블 클릭하여 검색어를 입력하고 Temu에서 검색할 수 있습니다.' class='_7H3Q1N2_' id='searchInput' />
+[37] (695,123)<div aria-label='검색 제출' class='_3c7A9Vnx Ekwe4GOT' role='button' />
+Temu 검색
+[38] (760,124)<div aria-label='주문 & 계정' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[39] (760,124)<div  />
+		[40] (733,124)<div  />
+		[41] (773,124)<div  />
+			[42] (773,124)<div >주문 & 계정 />
+[43] (825,124)<div aria-label='지원 센터' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[44] (825,124)<div  />
+		[45] (825,124)<div  />
+[46] (880,124)<div aria-label='한국 한국어' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='button' />
+	[47] (880,124)<div  />
+		[48] (864,124)<div  />
+			[49] (864,124)<img  />
+		[50] (895,124)<div  />
+			[51] (895,124)<div >한국어 />
+[52] (935,124)<div aria-label='장바구니' class='_313Z71lG _3BXnNo54 _3GBVQxAr' role='link' />
+	[53] (935,124)<div  />
+		[54] (935,124)<div  />
+이 상품은 품절되었습니다.
+비슷한 상품을 결제합니다.
+회사 정보
+[55] (67,750)<a class='_2Tl9qLr1 eUtuP8SK' href='/kr/about-temu.html'>Temu 소개 />
+[56] (178,796)<a class='_2Tl9qLr1 eUtuP8SK' href='/kr/affiliate_influencer_program.html'>제휴 & 인플루언서 프로그램: 가입하고 수익을 창출하세요 />
+[57] (61,841)<a class='_2Tl9qLr1 eUtuP8SK' href='/kr/contact-us.html'>문의하기 />
+[58] (63,887)<a class='_2Tl9qLr1 eUtuP8SK' href='/kr/careers.html'>채용 정보 />
+[59] (50,932)<a class='_2Tl9qLr1 eUtuP8SK' href='/kr/press.html'>뉴스 />
+[60] (108,977)<a class='_2Tl9qLr1 eUtuP8SK' href='/kr/tree-landing.html'>Temu의 나무 심기 프로그램 />
+고객 센터
+반품 및 환불 정책
+지적재산권
+배송 정보
+의심스러운 활동 신고하기
+유해 제품 정보
+도움말
+고객센터 및 FAQ
+안전 센터
+Temu 구매 보호
+Temu와 제휴하기
+수백만 명의 구매자가 이용하는 Temu에서 판매를 시작해 보세요.
+판매 계정 시작하기
+[61] (787,894)<a class='_2Tl9qLr1 _1JKc-xuA' href='/kr/app.html' />
+	[62] (787,894)<div >Temu 앱 다운로드 />
+가격 인하 알림
+실시간 주문 추적
+더 빠르고 안전한 결제
+재고 부족 상품 알림
+[63] (969,842)<div  />
+	[64] (969,842)<div class='_1A56ey7K _2VcQ2ZrB' id='bg-chat-entry' role='button' />
+		[65] (969,842)<div  />
+			[66] (969,840)<div  />
+[67] (969,924)<div  />
+	[68] (969,924)<div class='_2e0jpr6E' role='button' />
+		[69] (969,921)<div  />
+
+</current_dom>

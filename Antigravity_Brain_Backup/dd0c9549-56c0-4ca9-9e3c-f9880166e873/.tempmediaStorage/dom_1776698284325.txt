@@ -1,0 +1,102 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+Navigation Menu
+[0] (40,46)<button aria-label='Toggle navigation' class='js-details-target js-nav-padding-recalculate js-header-menu-toggle Button--link Button--medium Button d-lg-none color-fg-inherit p-1 tmp-p-1' />
+	[1] (40,46)<span  />
+		[2] (40,46)<span  />
+			[3] (40,38)<div  />
+			[4] (40,46)<div  />
+			[5] (40,54)<div  />
+[6] (500,47)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[7] (898,47)<a class='HeaderMenu-link HeaderMenu-button d-inline-flex f5 no-underline border color-border-default rounded-2 px-2 py-1 color-fg-inherit js-prevent-focus-on-mobile-nav' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fmemory'>Sign in />
+[8] (959,47)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-22dd1db4-3ea1-4a04-b6f8-ec909b8ebcc2' />
+[9] (102,139)<a class='url fn' href='/wonseokjung'>wonseokjung />
+/
+[10] (219,139)<a href='/wonseokjung/memory'>memory />
+Public
+[11] (699,137)<a aria-label='You must be signed in to change notification settings' class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' id='repository-details-watch-button'>Notifications />
+[12] (820,137)<a class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' id='fork-button'>Fork />
+	[13] (848,137)<span >0 />
+[14] (932,137)<a aria-label='You must be signed in to star a repository' class='tooltipped tooltipped-sw btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' />
+	[15] (933,137)<span >Star />
+	[16] (960,137)<span >0 />
+[17] (63,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected' href='/wonseokjung/memory' id='code-tab' />
+	[18] (75,218)<span >Code />
+[19] (149,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/issues' id='issues-tab' />
+	[20] (162,218)<span >Issues />
+[21] (261,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/pulls' id='pull-requests-tab' />
+	[22] (273,218)<span >Pull requests />
+[23] (377,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/actions' id='actions-tab' />
+	[24] (390,218)<span >Actions />
+[25] (478,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/projects' id='projects-tab' />
+	[26] (490,218)<span >Projects />
+[27] (619,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/security' id='security-and-quality-tab' />
+	[28] (631,218)<span >Security and quality />
+[29] (760,218)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/pulse' id='insights-tab' />
+	[30] (772,218)<span >Insights />
+[31] (33,299)<button class='prc-Button-ButtonBase-9n-Xk react-tree-toggle-button-with-indicator position-relative ExpandFileTreeButton-module__expandButton__hDOcv ExpandFileTreeButton-module__filesButtonBreakpoint__zEvz3 fgColor-muted prc-Button-IconButton-fyge7' />
+[32] (113,299)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector-wide' />
+	[33] (113,299)<span  />
+		[34] (100,299)<span  />
+			[35] (100,299)<div  />
+				[36] (80,299)<div  />
+				[37] (110,299)<div  />
+					[38] (110,298)<span >main />
+Breadcrumbs
+[39] (215,298)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/memory/tree/main'>memory />
+/
+[40] (298,298)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/wonseokjung/memory/tree/main/10_Wiki'>10_Wiki />
+/
+📊 Media Performance Analysis.md
+[41] (642,299)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[42] (830,299)<span  />
+	[43] (739,299)<span  />
+	[44] (838,299)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+[45] (967,299)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_r_hb_' />
+Latest commit
+Jay
+and
+Jay
+[46] (305,377)<a class='Link--secondary' href='/wonseokjung/memory/commit/de4368047b5460fa6fb078aa84352c1a78392c65'>[P-Reinforce] Auto-synced structured knowledge />
+[47] (832,378)<a aria-label='Commit de43680' class='Link--secondary prc-Link-Link-9ZwDx' href='/wonseokjung/memory/commit/de4368047b5460fa6fb078aa84352c1a78392c65'>de43680 />
+·
+History
+[48] (957,378)<a aria-label='View commit history for this file.' class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/wonseokjung/memory/commits/main/10_Wiki/%F0%9F%93%8A%20Media%20Performance%20Analysis.md' />
+	[49] (957,378)<span  />
+20 lines (17 loc) · 1.02 KB
+File metadata and controls
+[50] (64,524)<button class='prc-SegmentedControl-Button-E48xz' />
+	[51] (64,524)<span  />
+		[52] (64,524)<div >Preview />
+[53] (135,524)<button class='prc-SegmentedControl-Button-E48xz' />
+	[54] (135,524)<span  />
+		[55] (135,524)<div >Code />
+[56] (200,524)<button class='prc-SegmentedControl-Button-E48xz' />
+	[57] (200,524)<span  />
+		[58] (200,524)<div >Blame />
+[59] (788,524)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/wonseokjung/memory/raw/refs/heads/main/10_Wiki/%F0%9F%93%8A%20Media%20Performance%20Analysis.md' />
+	[60] (788,524)<span  />
+		[61] (788,524)<span >Raw />
+[62] (823,524)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[63] (851,524)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[64] (915,524)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_ie_' />
+[65] (951,524)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+id: a1b2c3d4-e5f6-7890-abcd-ef0123456789
+category: "[[10_Wiki/📊 Metrics]]"
+confidence_score: 0.9
+tags: [YouTube SEO, KPI, Creator Economy]
+last_reinforced: 2026-04-20
+[66] (36,667)<a aria-label='Permalink: id: a1b2c3d4-e5f6-7890-abcd-ef0123456789
+category: "[[10_Wiki/📊 Metrics]]"
+confidence_score: 0.9
+tags: [YouTube SEO, KPI, Creator Economy]
+last_reinforced: 2026-04-20' class='anchor' href='#id-a1b2c3d4-e5f6-7890-abcd-ef0123456789category-10_wiki-metricsconfidence_score-09tags-youtube-seo-kpi-creator-economylast_reinforced-2026-04-20' id='user-content-id-a1b2c3d4-e5f6-7890-abcd-ef0123456789category-10_wiki-metricsconfidence_score-09tags-youtube-seo-kpi-creator-economylast_reinforced-2026-04-20' />
+영상 성과 지표 및 SEO 분석
+[67] (36,808)<a aria-label='Permalink: 영상 성과 지표 및 SEO 분석' class='anchor' href='#영상-성과-지표-및-seo-분석' id='user-content-영상-성과-지표-및-seo-분석' />
+📌 한 줄 통찰
+크리에이터의 성공은 단순히 조회수를 넘어, 명확한 KPI 설정과 매력적인 디스크립션 작성에 달려 있다.
+
+</current_dom>

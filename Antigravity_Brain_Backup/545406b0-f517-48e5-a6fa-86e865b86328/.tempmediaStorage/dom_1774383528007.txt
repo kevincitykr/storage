@@ -1,0 +1,291 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+연속 스크롤 사용 중지
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (56,73)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQPAgK' id='logo' title='Google 홈페이지로 이동' />
+[1] (329,71)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (548,71)<div  />
+	[3] (546,71)<div aria-label='지우기' class='M2vV3 vOY7J' role='button' />
+		[4] (546,71)<span  />
+	[5] (562,71)<span  />
+[6] (578,71)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (578,71)<span  />
+[8] (604,71)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (630,71)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (660,71)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (656,71)<div  />
+		[12] (656,71)<span  />
+[13] (914,71)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp&authuser=0' role='button' />
+[14] (945,71)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,71)<a aria-label='Google 계정: 김광섭  
+(kevincitykr001@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dopenai%2Bplatform%2Bapi%2Bkeys%2Bpage%2Bscreenshot%26udm%3D2&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (141,156)<a class='XVMlrc C6AK7c' href='/search?q=openai+platform+api+keys+page+screenshot&sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVTng_ZsS_9LP2qYmC-AVs73-8wYtxd6YxwH7PfcXaAe2wLaOHB1-49ctbn2jhNn79zMxK76A53RudbKhyWCqEsQoZLJ-BVTivQMDYk8rwFBZDtPtKw&aep=1&ntc=1&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQ2J8OegQICRAD' />
+	[17] (141,156)<div  />
+		[18] (141,168)<div  />
+			[19] (141,161)<span >AI 모드 />
+[20] (179,156)<a class='C6AK7c' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=openai+platform+api+keys+page+screenshot&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVTng_ZsS_9LP2qYmC-AVs73-8wYtxd6YxwH7PfcXaAe2wLaOHB1-49ctbn2jhNn79zMxK76A53RudbKhyWCqEsQoZLJ-BVTivQMDYk8rwFBZDtPtKw&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQ0pQJegQIDhAB' />
+	[21] (179,156)<div  />
+		[22] (179,168)<span >전체 />
+[23] (225,156)<a class='C6AK7c' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVTng_ZsS_9LP2qYmC-AVs73-8wYtxd6YxwH7PfcXaAe2wLaOHB1-49ctbn2jhNn79zMxK76A53RudbKhyWCqEsQoZLJ-BVTivQMDYk8rwFBZDtPtKw&q=openai+platform+api+keys+page+screenshot&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQs6gLegQIDBAB' />
+	[24] (225,156)<div  />
+		[25] (225,168)<span >짧은 동영상 />
+[26] (272,156)<a class='C6AK7c' href='/finance?sca_esv=3631f857cd865840&output=search&q=openai+platform+api+keys+page+screenshot&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVTng_ZsS_9LP2qYmC-AVs73-8wYtxd6YxwH7PfcXaAe2wLaOHB1-49ctbn2jhNn79zMxK76A53RudbKhyWCqEsQoZLJ-BVTivQMDYk8rwFBZDtPtKw&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQ0pQJegQICxAB' />
+	[27] (272,156)<div  />
+		[28] (272,168)<span >금융 />
+[29] (308,156)<a class='C6AK7c' role='link' />
+	이미지
+[30] (341,156)<a class='C6AK7c' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&udm=web&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVTng_ZsS_9LP2qYmC-AVs73-8wYtxd6YxwH7PfcXaAe2wLaOHB1-49ctbn2jhNn79zMxK76A53RudbKhyWCqEsQoZLJ-BVTivQMDYk8rwFBZDtPtKw&q=openai+platform+api+keys+page+screenshot&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQs6gLegQIDxAB' />
+	[31] (341,156)<div  />
+		[32] (341,168)<span >웹 />
+[33] (373,156)<a class='C6AK7c' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaBkmA9lspdD-ot5uaUJv6OchNZwR_lLqRvsW7r92zBEA0Uc6VnI-l3Ze_QU0cP_IcN_DL9yQVf37P9lcI0ldnVTng_ZsS_9LP2qYmC-AVs73-8wYtxd6YxwH7PfcXaAe2wLaOHB1-49ctbn2jhNn79zMxK76A53RudbKhyWCqEsQoZLJ-BVTivQMDYk8rwFBZDtPtKw&q=openai+platform+api+keys+page+screenshot&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQtKgLegQIDRAB' />
+	[34] (373,156)<div  />
+		[35] (373,168)<span >동영상 />
+[36] (420,156)<div class='mTpL7c' role='button' />
+	[37] (420,156)<div  />
+		[38] (420,168)<div  />
+			[39] (414,161)<span >더보기 />
+			[40] (432,161)<span  />
+[41] (660,156)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (660,156)<div  />
+		[43] (660,168)<div  />
+			[44] (655,161)<span >도구 />
+			[45] (669,161)<span  />
+[46] (958,157)<a href='/save?sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQ7XV6BAgHEAA' />
+	[47] (939,159)<span  />
+	[48] (966,158)<span >저장 항목 />
+[49] (78,249)<a aria-label='Openai organization 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=openai+organization+openai+platform+api+keys+page+screenshot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-9374Zu-0QADT4DIeY78kEotIIXREcFBLev5kTgyCeuWu6kPIoazCqhdca-md8qddIEFlpIXSyni9xo4e0lh1AU_lp1_f-T-72f4U1ldn6mYhQLHofzLKxE-GYvqXbZdyM3MEZMc38yvTmy14-6gcwWkH8dt7ScEhDQV7OSRlA1ke_NnshCCmxZzJioy8el68VYD90w&udm=2&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQxKsJKAB6BAgQEAE&ictx=0' role='link' />
+	[50] (78,249)<div  />
+		[51] (29,249)<span  />
+			[52] (29,249)<div  />
+		[53] (92,249)<span >Openai organization />
+[54] (196,249)<a aria-label='Playground 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=playground+openai+platform+api+keys+page+screenshot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-lZXy4WXjCBs-WMfCmu8tIXPkQE9cV0xFCqyO39tVFoY_rUiGgrG7F1mAQirnBUHZFl5TEt8qhGB3qz1eT7tBCS8FgdfzzMzhKmNfPa49JwkY0UaQFRW7lGWxvQH5omohxqedaAJODDVkoAxGvqxCHs8U7g7AXqYctJCF20nliZDRgsBX&udm=2&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQxKsJKAF6BAgUEAE&ictx=0' role='link' />
+	[55] (196,249)<div  />
+		[56] (164,249)<span  />
+			[57] (164,249)<div  />
+		[58] (210,249)<span >Playground />
+[59] (292,249)<a aria-label='Api token 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=api+token+openai+platform+api+keys+page+screenshot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-IIbmuN17vZnJaP4VY6fO-BSgq1S9yVDrR7eN9h9dgZy02Mt0ZyIfIAdcPoUwOcbk4imLoOQ63t6s3JlEzpdYWk0AcrofOAnB0Ok9R2KCFlJssfEDw5xSrx0DbFbJhVadgdZl7CaYhX2C7dPGRXlYEapQT_qKz7M4LciKYEu-AVrWZT1B&udm=2&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQxKsJKAJ6BAgTEAE&ictx=0' role='link' />
+	[60] (292,249)<div  />
+		[61] (264,249)<span  />
+			[62] (264,249)<div  />
+		[63] (306,249)<span >Api token />
+[64] (401,249)<a aria-label='Openai developer 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=openai+developer+openai+platform+api+keys+page+screenshot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-vtWgw14fk27IASKBwlXbuPqeifsbrdFHA8did6xIO_ztoD6uBp0xsdZzh9fhjrys1W6ESi96twHmVI6eiCGyzHu-k-dRmMzaZ6e560q49siqjgPkGQTV_lh8B1Q5dwV_RZ8j1aBkhxlAvYU5pWwq4lbFg6-M4fysYqkWKDN6Ol3vpM-ZQ0nEpX_Wm17GIAqzs6ILkg&udm=2&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQxKsJKAN6BAgSEAE&ictx=0' role='link' />
+	[65] (401,249)<div  />
+		[66] (356,249)<span  />
+			[67] (356,249)<div  />
+		[68] (415,249)<span >Openai developer />
+[69] (521,249)<a aria-label='Openai project 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=openai+project+openai+platform+api+keys+page+screenshot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-K1fm-6MbHrVPgWC5v0Ha2iQdo7hR4rhTizaavQGe9Uj20PKAS4c_gax2BPqtCdI6IrEnW-sWpWdqhMqoBxSOkJ5hulBc0tMv5sEC_TTsb4SRO97QKTw9vD9vyGP-G8oeo5-QDDPPFbsyg5wMRquAaT2ayfDiK54ra6Eln7OT5qI66J1b&udm=2&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQxKsJKAR6BAgREAE&ictx=0' role='link' />
+	[70] (521,249)<div  />
+		[71] (482,249)<span  />
+			[72] (482,249)<div  />
+		[73] (535,249)<span >Openai project />
+[74] (635,249)<a aria-label='Openai models 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=openai+models+openai+platform+api+keys+page+screenshot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-JaQUCHPjKSMgcjMla-aoi4zMBQ6uNXlZunfbDeHRKKZ-plOcu_MMhgxyvi3m6aLi6UF4sQmUqwX1ecanqsKFRt9imZl8B0eRXLa9RJ2qk0bsf0piq5GQEyfqWuaJPT8ThnmXpvM6VV-nupg_oCAUB403IaLiqigOBnTXtt7leHZCZP6A&udm=2&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQxKsJKAV6BQiBARAB&ictx=0' role='link' />
+	[75] (635,249)<div  />
+		[76] (596,249)<span  />
+			[77] (596,249)<div  />
+		[78] (649,249)<span >Openai models />
+[79] (732,249)<a aria-label='키발급 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=%ED%82%A4%EB%B0%9C%EA%B8%89+openai+platform+api+keys+page+screenshot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-IIbmuN17vZnJaP4VY6fO-BSgq1S9yVDrR7eN9h9dgZy02Mt0ZyIfIAdcPoUwOcbkLWOTv7APVAsvf19A7xdlX8BwOTf8cTsfuYlDcwIZT4xMPvcSSo7seO6YMV4jP_rHYBUw161SRNrDMI15HsrhAoMwTjlD6cMzAvy7wIDdC-siPhpW&udm=2&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQxKsJKAZ6BQiDARAB&ictx=0' role='link' />
+	[80] (732,249)<div  />
+		[81] (711,249)<span  />
+			[82] (711,249)<div  />
+		[83] (746,249)<span >키발급 />
+[84] (819,249)<a aria-label='Ai chatbot 추가' class='nPDzT T3FoJb' href='/search?sca_esv=3631f857cd865840&sxsrf=ANbL-n6hWed5Y6URFGKzxODs5VaCRwPcKA:1774383519254&q=ai+chatbot+openai+platform+api+keys+page+screenshot&uds=ALYpb_ncDc7jTlmw6Mmq7NjuX5c-lZXy4WXjCBs-WMfCmu8tIXPkQE9cV0xFCqyO39tVFoY_rUiGgrG7F1mAQirnBUHZ2krlEOMwqJBXWGM9SM5YevTOvCfNExASbRO9w7LNLf0qQdVxY5rOeU9gEJ0Z3oRA5T8FpNeKCi8Zh8Cf5qQ6Ye-1cQAZdx_YT7e4MGltd2-Kiw12&udm=2&sa=X&ved=2ahUKEwio5PDarbmTAxX9gK8BHUjCMbUQxKsJKAd6BQiCARAB&ictx=0' role='link' />
+	[85] (819,249)<div  />
+		[86] (790,249)<span  />
+			[87] (790,249)<div  />
+		[88] (833,249)<span >Ai chatbot />
+검색결과
+[89] (104,473)<div  />
+	[90] (104,440)<div  />
+		[91] (104,440)<h3  />
+			[92] (104,440)<a  />
+				[93] (104,440)<div class='F0uyec' id='e-LgqPsKVpvhi7yM' role='button' />
+					[94] (104,440)<div  />
+						[95] (104,440)<div  />
+							[96] (104,440)<img  />
+	[97] (104,596)<div  />
+		[98] (104,596)<a class='EZAeBe' href='https://happy-metamong.tistory.com/12' />
+			[99] (104,585)<div  />
+				[100] (20,584)<div  />
+					[101] (20,584)<div  />
+						[102] (20,584)<img  />
+				[103] (81,585)<div  />
+					[104] (81,585)<div  />
+						[105] (81,584)<span >Cherish the Moment - 티스토리 />
+			[106] (104,611)<div  />
+				[107] (104,611)<div >OpenAI API 발급하기 🚀 [GPT API Key 생성/과금 방지/월 한도 설정법] />
+[108] (310,473)<div  />
+	[109] (310,440)<div  />
+		[110] (310,440)<h3  />
+			[111] (310,440)<a  />
+				[112] (310,440)<div class='F0uyec' id='e-4jcI42q6Kg6rYM' role='button' />
+					[113] (310,440)<div  />
+						[114] (310,440)<div  />
+							[115] (310,440)<img  />
+	[116] (310,596)<div  />
+		[117] (310,596)<a class='EZAeBe' href='https://www.codecademy.com/article/creating-an-openai-api-key' />
+			[118] (310,585)<div  />
+				[119] (215,584)<div  />
+					[120] (215,584)<div  />
+						[121] (215,584)<img  />
+				[122] (245,585)<div  />
+					[123] (245,585)<div  />
+						[124] (245,584)<span >Codecademy />
+			[125] (310,611)<div  />
+				[126] (310,611)<div >How to Create and Use an OpenAI ChatGPT API Key | Codecademy />
+[127] (513,473)<div  />
+	[128] (513,440)<div  />
+		[129] (513,440)<h3  />
+			[130] (513,440)<a  />
+				[131] (513,440)<div class='F0uyec' id='e-DSj1LyKDjmBV5M' role='button' />
+					[132] (513,440)<div  />
+						[133] (513,440)<div  />
+							[134] (513,440)<img  />
+	[135] (513,596)<div  />
+		[136] (513,596)<a class='EZAeBe' href='https://help.openai.com/en/articles/9186755-managing-your-work-in-the-api-platform-with-projects' />
+			[137] (513,585)<div  />
+				[138] (430,584)<div  />
+					[139] (430,584)<div  />
+						[140] (430,584)<img  />
+				[141] (473,585)<div  />
+					[142] (473,585)<div  />
+						[143] (473,584)<span >OpenAI Help Center />
+			[144] (513,611)<div  />
+				[145] (513,611)<div >Managing projects in the API platform | OpenAI Help Center />
+[146] (705,473)<div  />
+	[147] (705,440)<div  />
+		[148] (705,440)<h3  />
+			[149] (705,440)<a  />
+				[150] (705,440)<div class='F0uyec' id='e-Ym5MO6mYb9_pEM' role='button' />
+					[151] (705,440)<div  />
+						[152] (705,440)<div  />
+							[153] (705,440)<img  />
+	[154] (705,596)<div  />
+		[155] (705,596)<a class='EZAeBe' href='https://www.cobang.co.kr/ko/forum/manual/openai-chatgpt-api-key-%EB%B0%9C%EA%B8%89-%EB%B0%A9%EB%B2%95-2025%EB%85%84-7%EC%9B%94-%EA%B0%9C%EC%A0%95-60' />
+			[156] (705,585)<div  />
+				[157] (622,584)<div  />
+					[158] (622,584)<div  />
+						[159] (622,584)<img  />
+				[160] (643,585)<div  />
+					[161] (643,585)<div  />
+						[162] (643,584)<span >코드공방 />
+			[163] (705,611)<div  />
+				[164] (705,611)<div >OpenAI(ChatGPT) API Key 발급 방법 (2025년 7월 개정) - 코드공방 />
+[165] (897,473)<div  />
+	[166] (897,440)<div  />
+		[167] (897,440)<h3  />
+			[168] (897,440)<a  />
+				[169] (897,440)<div class='F0uyec' id='e-lU4buye5tgkeRM' role='button' />
+					[170] (897,440)<div  />
+						[171] (897,440)<div  />
+							[172] (897,440)<img  />
+	[173] (897,596)<div  />
+		[174] (897,596)<a class='EZAeBe' href='https://wikidocs.net/233342' />
+			[175] (897,585)<div  />
+				[176] (814,584)<div  />
+					[177] (814,584)<div  />
+						[178] (814,584)<img  />
+				[179] (835,585)<div  />
+					[180] (835,585)<div  />
+						[181] (835,584)<span >위키독스 />
+			[182] (897,611)<div  />
+				[183] (897,611)<div >02. OpenAI API 키 발급 및 테스트 - <랭체인LangChain 노트> - LangChain 한국어 튜토리얼🇰🇷 />
+[184] (130,812)<div  />
+	[185] (130,779)<div  />
+		[186] (130,779)<h3  />
+			[187] (130,779)<a  />
+				[188] (130,779)<div class='F0uyec' id='e-B8Y1Y4iTsaYKkM' role='button' />
+					[189] (130,779)<div  />
+						[190] (130,779)<div  />
+							[191] (130,779)<img  />
+	[192] (130,936)<div  />
+		[193] (130,936)<a class='EZAeBe' href='https://vectorize.io/blog/how-to-get-an-openai-api-key' />
+			[194] (130,925)<div  />
+				[195] (20,924)<div  />
+					[196] (20,924)<div  />
+						[197] (20,924)<img  />
+				[198] (43,925)<div  />
+					[199] (43,925)<div  />
+						[200] (43,924)<span >Vectorize />
+			[201] (130,951)<div  />
+				[202] (81,951)<div >How to Get an OpenAI API Key />
+[203] (350,812)<div  />
+	[204] (350,779)<div  />
+		[205] (350,779)<h3  />
+			[206] (350,779)<a  />
+				[207] (350,779)<div class='F0uyec' id='e-pQFFh4nWSU8hHM' role='button' />
+					[208] (350,779)<div  />
+						[209] (350,779)<div  />
+							[210] (350,779)<img  />
+	[211] (350,936)<div  />
+		[212] (350,936)<a class='EZAeBe' href='https://community.openai.com/t/i-cant-see-api-usage-by-key-only-by-project/1129907' />
+			[213] (350,925)<div  />
+				[214] (267,924)<div  />
+					[215] (267,924)<div  />
+						[216] (267,924)<img  />
+				[217] (329,925)<div  />
+					[218] (329,925)<div  />
+						[219] (329,924)<span >OpenAI Developer Community />
+			[220] (350,951)<div  />
+				[221] (350,951)<div >I can't see API usage by key, only by project - Feedback - OpenAI Developer  Community />
+[222] (545,812)<div  />
+	[223] (545,779)<div  />
+		[224] (545,779)<h3  />
+			[225] (545,779)<a  />
+				[226] (545,779)<div class='F0uyec' id='e-zVZroLr-qZm0kM' role='button' />
+					[227] (545,779)<div  />
+						[228] (545,779)<div  />
+							[229] (545,779)<img  />
+	[230] (545,936)<div  />
+		[231] (545,936)<a class='EZAeBe' href='https://docs.griptapenodes.com/en/stable/how_to/keys/openai/' />
+			[232] (545,925)<div  />
+				[233] (459,924)<div  />
+					[234] (459,924)<div  />
+						[235] (459,924)<img  />
+				[236] (509,925)<div  />
+					[237] (509,925)<div  />
+						[238] (509,924)<span >Nodes - Griptape Nodes />
+			OpenAI - Documentation
+[239] (716,812)<div  />
+	[240] (716,779)<div  />
+		[241] (716,779)<h3  />
+			[242] (716,779)<a  />
+				[243] (716,779)<div class='F0uyec' id='e-oyeXFh29bS5FoM' role='button' />
+					[244] (716,779)<div  />
+						[245] (716,779)<div  />
+							[246] (716,779)<img  />
+	[247] (716,936)<div  />
+		[248] (716,936)<a class='EZAeBe' href='https://our-hometown.com/how-to-get-api-keys-for-ai-services/' />
+			[249] (716,925)<div  />
+				[250] (656,924)<div  />
+					[251] (656,924)<div  />
+						[252] (656,924)<img  />
+				[253] (690,925)<div  />
+					[254] (690,925)<div  />
+						[255] (690,924)<span >Our-Hometown />
+			[256] (716,951)<div  />
+				[257] (716,951)<div >How to get API keys for AI services - Our-Hometown />
+[258] (890,812)<div  />
+	[259] (890,779)<div  />
+		[260] (890,779)<h3  />
+			[261] (890,779)<a  />
+				[262] (890,779)<div class='F0uyec' id='e-uymslKBpQt30CM' role='button' />
+					[263] (890,779)<div  />
+						[264] (890,779)<div  />
+							[265] (890,779)<img  />
+	[266] (890,936)<div  />
+		[267] (890,936)<a class='EZAeBe' href='https://faq.businesstech.fr/en/faq/598-how-to-get-an-openai-api-key' />
+			[268] (890,925)<div  />
+				[269] (802,924)<div  />
+					[270] (802,924)<div  />
+						[271] (802,924)<img  />
+				[272] (842,925)<div  />
+					[273] (842,925)<div  />
+						[274] (842,924)<span >FAQ BusinessTech />
+			[275] (890,951)<div  />
+				[276] (864,951)<div >How to get an OpenAI API key? />
+
+</current_dom>

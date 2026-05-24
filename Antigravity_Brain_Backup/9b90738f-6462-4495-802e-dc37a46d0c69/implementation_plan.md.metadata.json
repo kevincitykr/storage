@@ -1,0 +1,7 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "영구적인 '기피단어(Forbidden Keywords)' 관리 시스템 구축.\n1. 이메일에서 추출된 브랜드 및 법적 키워드를 `forbidden_master_list.json`에 영구 저장.\n2. 수집기가 매번 메일을 스캔할 필요 없이 이 마스터 리스트를 즉시 활용.\n3. 북마클릿에도 이 리스트를 반영하여 브라우저 수집 단계부터 차단.",
+  "updatedAt":  "2026-04-20T07:13:24.120591100Z",
+  "version":  "2",
+  "requestFeedback":  true
+}

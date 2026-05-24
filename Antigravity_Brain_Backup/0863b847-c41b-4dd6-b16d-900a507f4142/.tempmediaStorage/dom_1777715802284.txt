@@ -1,0 +1,117 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (69,46)<a href='../main/main.htm' />
+	[1] (69,46)<img  />
+[2] (283,46)<div class='search_bar' />
+	[3] (263,46)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (408,46)<button aria-label='검색' class='search28_3A' />
+[5] (884,46)<a href='javascript:void(0);'>로그인 />
+[6] (925,46)<a href='../member/member_kind.htm'>회원가입 />
+[7] (970,46)<a href='javascript:void(0);'>상담센터 />
+[8] (28,120)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[9] (61,120)<a class='prev24_6C nav_prev_btn' href='javascript:void(0);' />
+[10] (91,123)<a href='javascript:void(0);'>조립PC />
+[11] (127,123)<a href='javascript:void(0);'>견적 />
+[12] (167,123)<a href='../hotsale/hotsale.htm?bannerid=GNBBannerHotsale'>파격할인 />
+[13] (216,123)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[14] (268,123)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[15] (316,123)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[16] (377,123)<a href='javascript:void(0);'>컴퓨존추천 />
+[17] (426,123)<a href='javascript:void(0);'>전용관 />
+[18] (465,123)<a href='javascript:void(0);'>매거진 />
+[19] (510,123)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[20] (550,123)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[21] (600,123)<a href='javascript:void(0);'>컴퓨존 라이브 />
+[22] (663,120)<p >공식 />
+PlayStation 브랜드스토어
+Apple 기업전용관
+HP 브랜드스토어
+LG gram & 브랜드스토어
+Microsoft 브랜드스토어
+AMD 브랜드스토어
+Intel 브랜드스토어
+RAZER 브랜드스토어
+PlayStation 브랜드스토어
+Apple 기업전용관
+[23] (729,120)<a class='next24_6C nav_next_btn' href='javascript:void(0);' />
+[24] (903,106)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[25] (903,134)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[26] (933,129)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[27] (972,129)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[28] (958,588)<a href='javascript:void(0);' />
+	[29] (949,588)<span  />
+		[30] (949,588)<img  />
+	[31] (969,588)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+HP노트북
+마스터팩
+Dell
+배민5만원
+[32] (958,704)<a href='../event_zone/eventzone_view.htm?EventNo=60917&bannerid=QuickMenuRolling' />
+	[33] (958,704)<img  />
+	[34] (958,730)<p >황야의
+아스널 />
+어린이날
+드론 특가
+[35] (940,774)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+4
+/
+5
+[36] (976,774)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[37] (958,817)<p class='ntRB12 co6C'>최근 본 상품 />
+[38] (958,868)<a href='javascript:;' />
+	[39] (958,868)<img  />
+[40] (943,947)<a href='javascript:void(0);' />
+	[41] (943,947)<img  />
+[42] (974,947)<a href='javascript:void(0);' />
+	[43] (974,947)<img  />
+온라인견적
+[44] (124,335)<li class='cate_tab_all pc cate_tab1' id='cate_tab1'>데스크탑ㆍ조립PC />
+[45] (274,335)<li class='cate_tab_all  cate_tab8' id='cate_tab8'>키보드ㆍ마우스ㆍ저장장치 />
+[46] (424,335)<li class='cate_tab_all  cate_tab88' id='cate_tab88'>스마트폰ㆍ액세서리 />
+[47] (575,335)<li class='cate_tab_all  cate_tab87' id='cate_tab87'>가구ㆍ조명ㆍ전기 />
+[48] (725,335)<li class='cate_tab_all  cate_tab5' id='cate_tab5'>모니터ㆍ모니터주변기기 />
+[49] (876,335)<li class='cate_tab_all  cate_tab11' id='cate_tab11'>프린터ㆍ전산소모품 />
+[50] (124,393)<li class='cate_tab_all pc cate_tab2' id='cate_tab2'>노트북ㆍ태블릿 />
+[51] (274,393)<li class='cate_tab_all  cate_tab7' id='cate_tab7'>음향ㆍ영상ㆍ카메라 />
+[52] (424,393)<li class='cate_tab_all  cate_tab14' id='cate_tab14'>자동차ㆍ공구ㆍ안전 />
+[53] (575,393)<li class='cate_tab_all  cate_tab12' id='cate_tab12'>네트워크ㆍ케이블ㆍCCTV />
+[54] (725,393)<li class='cate_tab_all pc cate_tab3' id='cate_tab3'>Apple />
+[55] (876,393)<li class='cate_tab_all  cate_tab101' id='cate_tab101'>영상가전 />
+[56] (124,452)<li class='cate_tab_all  cate_tab13' id='cate_tab13'>생활가전 />
+[57] (274,452)<li class='cate_tab_all  cate_tab110' id='cate_tab110'>주방가전 />
+[58] (424,452)<li class='cate_tab_all  cate_tab107' id='cate_tab107'>계절가전 />
+[59] (575,452)<li class='cate_tab_all  cate_tab103' id='cate_tab103'>게임ㆍ드론ㆍ완구 />
+[60] (725,452)<li class='cate_tab_all  cate_tab105' id='cate_tab105'>스포츠ㆍ레저 />
+[61] (876,452)<li class='cate_tab_all  cate_tab89' id='cate_tab89'>중고ㆍ리퍼비시 />
+[62] (124,511)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[63] (274,511)<li  />
+[64] (424,511)<li  />
+[65] (575,511)<li  />
+[66] (725,511)<li  />
+[67] (876,511)<li  />
+PC구성
+[68] (203,609)<li class='cate_tab_all cate0 cate_tab_iworks' id='cate_tab_iwork'>아이웍스PC />
+[69] (254,609)<li class='cate_tab_all cate1 cate_tab1012 ON' id='cate_tab1012'>CPU />
+[70] (299,609)<li class='cate_tab_all cate2 cate_tab1013' id='cate_tab1013'>메인보드 />
+[71] (348,609)<li class='cate_tab_all cate3 cate_tab1014' id='cate_tab1014'>메모리 />
+[72] (401,609)<li class='cate_tab_all cate4 cate_tab1016' id='cate_tab1016'>그래픽카드 />
+[73] (450,609)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[74] (487,609)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[75] (529,609)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[76] (570,609)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[77] (624,609)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[78] (683,609)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[79] (728,609)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[80] (781,609)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[81] (839,609)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[82] (903,609)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+[83] (658,823)<a href='https://www.compuzone.co.kr/cscenter/service_guide.htm?bannerid=OnlineBanner' />
+	[84] (658,823)<img  />
+
+</current_dom>

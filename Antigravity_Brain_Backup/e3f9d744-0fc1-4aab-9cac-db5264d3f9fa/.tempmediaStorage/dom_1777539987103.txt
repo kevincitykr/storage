@@ -1,0 +1,61 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (779,157)<a class='HTTLogBtn' href='//sso.pping.kr'>로그인 />
+[1] (853,157)<a href='//sso.pping.kr/join'>회원가입 />
+[2] (941,158)<a href='//my2.pping.kr/' />
+	[3] (941,158)<span >마이쇼핑 />
+[4] (123,274)<a href='//www.pping.kr' />
+	[5] (123,277)<img  />
+[6] (582,277)<input class='search_input' placeholder='성능은 높이고, 소비전력은 줄이다. AMD 라이젠 9700X' />
+[7] (900,276)<button class='search_button' />
+	[8] (900,275)<span  />
+[9] (997,277)<button class='search_detail_button '>상세검색 />
+[10] (123,407)<button class='GNCAllBtn ' />
+	[11] (31,409)<i  />
+	[12] (117,407)<span >전체 상품분류 />
+[13] (123,493)<a  />
+	[14] (34,494)<i  />
+	[15] (115,492)<span >가전·TV·카메라 />
+[16] (123,543)<a  />
+	[17] (34,545)<i  />
+	[18] (138,543)<span >컴퓨터·노트북·모바일 />
+[19] (123,594)<a  />
+	[20] (34,595)<i  />
+	[21] (118,593)<span >e쿠폰·취미·악기 />
+[22] (123,644)<a  />
+	[23] (34,646)<i  />
+	[24] (138,644)<span >아웃도어·스포츠·골프 />
+[25] (123,694)<a  />
+	[26] (34,696)<i  />
+	[27] (129,694)<span >가구·침구·인테리어 />
+[28] (123,745)<a  />
+	[29] (34,747)<i  />
+	[30] (100,744)<span >출산·유아동 />
+[31] (123,795)<a  />
+	[32] (34,797)<i  />
+	[33] (129,795)<span >식품·건강·다이어트 />
+[34] (123,846)<a  />
+	[35] (34,847)<i  />
+	[36] (108,845)<span >패션의류·잡화 />
+[37] (123,896)<a  />
+	[38] (34,898)<i  />
+	[39] (100,896)<span >화장품·미용 />
+[40] (123,947)<a  />
+	[41] (34,948)<i  />
+	[42] (129,946)<span >생활·주방·실버용품 />
+[43] (123,997)<a  />
+	[44] (34,999)<i  />
+	[45] (116,996)<span >자동차용품·공구 />
+[46] (761,407)<ul  />
+	[47] (308,411)<a href='//pc.pping.kr'>PC견적 />
+	[48] (410,411)<a href='//stdpc.pping.kr/list/2010000000'>표준PC />
+	[49] (520,411)<a href='//stdpc.pping.kr/list/2040000000'>무이자24 />
+	[50] (640,411)<a href='//stdpc.pping.kr/list/2030000000'>게임별PC />
+	[51] (751,411)<a href='//stdpc.pping.kr/list/srch'>PC검색 />
+	[52] (894,411)<a href='//talk.pping.kr'>톡톡 커뮤니티 />
+		[53] (954,406)<img  />
+[54] (647,793)<a class='alink' href='https://www.pping.kr/partner/?sch_auth_seller=power' />
+
+</current_dom>

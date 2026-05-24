@@ -1,0 +1,8 @@
+# Syncthing Status Check Checklist
+
+- [ ] Open http://localhost:8384
+- [ ] Check 'Kevincity Share' folder status
+- [ ] Check remote device 'upload2601' status
+- [ ] Check for 'Failed Items' or 'Out of Sync Items'
+- [ ] Verify if everything is 100% and green
+- [ ] Report final status in Korean

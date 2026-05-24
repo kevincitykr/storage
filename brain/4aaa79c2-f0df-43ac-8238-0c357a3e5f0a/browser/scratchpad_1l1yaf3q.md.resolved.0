@@ -1,0 +1,18 @@
+# Used PC Search Task
+
+## Criteria
+- **CPU**: i7-13700F, i7-14700K, i9-13900, i9-14900
+- **GPU**: RTX 4070, RTX 4070 Ti, RTX 4060 Ti 16GB
+- **Price Range**: 1.4M - 1.7M KRW
+- **Platforms**: Joonggonara, Bunjang
+
+## Checklist
+- [ ] Search Joonggonara
+- [ ] Search Bunjang
+- [ ] Find 2-3 good listings
+- [ ] Extract details (Platform, Title/Spec, Price, Location, Condition, Status)
+- [ ] Take screenshots
+- [ ] Final summary
+
+## Findings
+- Reference: Mangwol-dong (1.55M, i7-13700F, 4070)

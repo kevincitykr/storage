@@ -1,0 +1,46 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (169,94)<a class='logo-ci' href='https://www.danawa.com' />
+	[1] (169,94)<img  />
+[2] (490,88)<fieldset  />
+	[3] (476,93)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[4] (611,93)<button class='search__submit' />
+[5] (730,100)<a class='btn_user btn_user--recent' href='#' role='button' />
+	[6] (729,120)<span >최근 />
+[7] (782,100)<a class='btn_user btn_user--wish' href='https://www.danawa.com/main/wish/wishList.php' role='button' />
+	[8] (782,120)<span >관심 />
+[9] (831,100)<a class='btn_user btn_user--login' href='https://auth.danawa.com/login?url=https%3A%2F%2Fplan.danawa.com%2Finfo%2Findex.php%3FnPlanSeq%3D12108' role='button' />
+	[10] (831,121)<span >로그인 />
+[11] (156,25)<a class='btn_app' href='#mobile_service_layer' role='button'>다나와 앱 />
+[12] (581,24)<a href='https://auto.danawa.com'>자동차 />
+[13] (615,24)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain'>조립PC />
+[14] (651,24)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti'>PC견적 />
+[15] (694,24)<a href='https://pc26.danawa.com/bbs/?logger_kw=dnw_gnb_pc26'>PC구매상담 />
+[16] (738,24)<a href='https://dpg.danawa.com/bbs'>커뮤니티 />
+[17] (774,24)<a href='https://event.danawa.com/'>이벤트 />
+/
+[18] (801,24)<a href='https://event.danawa.com/experience/'>체험단 />
+[19] (838,24)<a class='more_sevice_click' href='#more_service_layer2'>더보기 />
+[20] (164,194)<a class='link link1' href='/?cate=hot' />
+	[21] (164,193)<span >HOT />
+[22] (234,194)<a class='link link2' href='/?cate=tip' />
+	[23] (234,193)<span >쇼핑꿀팁 />
+[24] (324,194)<a class='link link3' href='/?cate=1' />
+	[25] (324,193)<span >컴퓨터/모바일 />
+[26] (417,194)<a class='link link4' href='/?cate=2' />
+	[27] (417,193)<span >가전/디카 />
+[28] (511,194)<a class='link link5' href='/?cate=3' />
+	[29] (511,193)<span >식품/유아/완구 />
+[30] (617,194)<a class='link link6' href='/?cate=4' />
+	[31] (617,193)<span >가구/생활/공구 />
+[32] (721,194)<a class='link link7' href='/?cate=5' />
+	[33] (721,193)<span >스포츠/자동차 />
+[34] (814,194)<a class='link link8' href='/?cate=6' />
+	[35] (814,193)<span >패션/뷰티 />
+타이어 렌탈로 알뜰하게 부담없이 타이어 교체!
+[36] (818,267)<a class='btn_sns_share' href='#' id='share'>공유 />
+	[37] (810,262)<span  />
+
+</current_dom>

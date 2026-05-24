@@ -1,0 +1,10 @@
+# Syncthing Connection Troubleshooting
+
+## Checklist
+- [ ] Open Syncthing dashboard (http://localhost:8384)
+- [ ] Click 'Actions' (작업)
+- [ ] Click 'Restart' (재시작)
+- [ ] Wait for page refresh and 'upload2601' reconnection
+- [ ] Wait 30 seconds
+- [ ] Check transfer speed for 'upload2601'
+- [ ] Report results

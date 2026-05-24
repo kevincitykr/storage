@@ -1,0 +1,219 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (184,21)<a href='/main/?logger_kw=main_shop_top' />
+[1] (216,20)<a href='https://pc26.danawa.com/bbs/?logger_kw=shop_top_pc26' />
+	[2] (220,18)<span >PC26 />
+[3] (254,20)<a href='https://shop.danawa.com/ssancom/?logger_kw=shop_top_ssancom' />
+	[4] (258,18)<span >싼컴 />
+[5] (295,20)<a href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=194&logger_kw=shop_top_counseling' />
+	[6] (295,18)<span >PC구매상담 />
+[7] (343,20)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=46' />
+	[8] (343,18)<span >기업구매상담 />
+[9] (384,20)<a class='link__login' />
+	[10] (384,18)<span >로그인 />
+[11] (672,20)<a href='//www.danawa.com/?logger_kw=shop_top_danawa'>다나와 />
+[12] (705,20)<a href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>에누리 />
+[13] (738,20)<a href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>몰테일 />
+[14] (776,20)<a href='https://www.plto.com/?utm_source=shopdanawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[15] (816,20)<a href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>메이크샵 />
+[16] (244,48)<a href='/main/' />
+	[17] (244,89)<img  />
+[18] (464,94)<fieldset  />
+	[19] (456,94)<input class='search__input' id='gnbSearchKeyword' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[20] (573,94)<button class='search__submit' id='gnbSearchBtn' />
+실시간 PC견적
+[21] (728,98)<a class='link' href='https://shop.danawa.com/pc' />
+	[22] (689,93)<span >[21:31] />
+	[23] (729,98)<span >호환 및 견적 요청드립니다. />
+	[24] (806,93)<span >2,549,000원 />
+[20:38]
+견적신청합니다.
+831,000원
+[20:27]
+Pc 견적신청합니다!
+5,254,000원
+[20:25]
+게이밍pc 견적 신청합니다.
+5,199,000원
+[18:24]
+견적부탁드립니다~!!
+1,738,000원
+[23:10]
+견적부탁드립니다.
+3,203,000원
+[22:36]
+견적 요청드려요
+2,469,000원
+[22:22]
+무이자 12-24
+3,472,000원
+[22:14]
+현금가 로 견적 부탁드려요
+4,472,000원
+[22:00]
+그래픽작업용 데스크탑 / 무통장입금 / 호환성에 문제 없는지 체크 부탁드립니다.
+3,481,000원
+[25] (189,169)<button class='btn_cate' />
+[26] (226,167)<a class='link_nav' href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16'>PC견적 />
+[27] (267,167)<a class='link_nav' href='https://shop.danawa.com/pc/'>역경매 />
+[28] (309,167)<a class='link_nav' href='https://shop.danawa.com/shopmain/'>조립PC />
+[29] (355,167)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=5'>게임용PC />
+[30] (400,167)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=12'>노트북 />
+[31] (454,167)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=25'>가정/사무용PC />
+[32] (516,167)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=23'>전문가용PC />
+[33] (570,167)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=36'>무이자PC />
+[34] (617,167)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=usedMarket'>중고PC />
+[35] (658,167)<a class='link_nav' href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=41'>딜러몰 />
+[36] (708,167)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=46'>기업구매상담 />
+[37] (762,167)<a class='link_nav' href='https://shop.danawa.com/main/?controller=used&methods=index'>중고매입 />
+[38] (809,167)<a class='link_nav' href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=256'>이벤트 />
+	[39] (821,167)<span >외부 링크 />
+[40] (500,239)<a href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12103' />
+	[41] (500,239)<img  />
+[42] (140,389)<a class='link__banner' href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12820' />
+	[43] (140,389)<img  />
+[44] (140,577)<img  />
+[45] (140,712)<img  />
+[46] (140,794)<img  />
+[47] (140,875)<img  />
+[48] (140,974)<img  />
+[49] (857,341)<a class='wing-box__link' href='https://buyer.danawa.com/cart/Carts/cartList' />
+	[50] (857,362)<span >장바구니 />
+	[51] (864,316)<span >0 />
+[52] (857,416)<a class='wing-box__link' href='https://shop.danawa.com/main/?controller=estimate&methods=estimateList' />
+	[53] (857,436)<span >관심상품 />
+최근본
+상품
+상품이
+없습니다.
+[54] (857,640)<a class='sub-wing__link' href='https://buyer.danawa.com/order/Order/shopOrders/viewType/orderList'>주문/배송 />
+[55] (857,675)<a class='sub-wing__link' href='//help.danawa.com/'>고객센터 />
+[56] (858,747)<a class='bnr-wing__link' href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=194' />
+	[57] (858,793)<img  />
+[58] (870,738)<button class='btn_close' id='topDownWingBannerBtnClose' />
+HOT
+[59] (225,308)<a class='smart_banner' />
+	[60] (225,369)<img  />
+NEW
+[61] (336,308)<a class='smart_banner' />
+	[62] (336,369)<img  />
+[63] (448,308)<a class='smart_banner' />
+	[64] (448,369)<img  />
+[65] (559,308)<a class='smart_banner' />
+	[66] (559,369)<img  />
+[67] (601,367)<button class='btn_next' />
+[68] (183,367)<button class='btn_prev' />
+4
+/
+4
+[69] (815,326)<button class='button__control' />
+[70] (817,367)<button aria-label='Next slide' class='btn_next' role='button' />
+[71] (632,367)<button aria-label='Previous slide' class='btn_prev' role='button' />
+[72] (349,494)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[73] (536,494)<button class='btn_search'>검색 />
+	검색
+[74] (581,494)<a class='btn_esti_02 btn_srch_reset' href='javascript:;' id='searchProductReset'>검색 초기화 />
+	[75] (562,494)<span  />
+i7 14700
+에 대한 검색결과입니다.
+[76] (201,619)<label >전체
+(737) />
+	(737)
+[77] (284,619)<label >CPU
+(15) />
+	(15)
+[78] (371,619)<label >노트북
+(716) />
+	(716)
+[79] (451,619)<label >베어본
+(6) />
+	(6)
+[80] (202,850)<a >인기상품순 />
+[81] (261,850)<a >신상품순 />
+[82] (320,850)<a >낮은 가격순 />
+[83] (379,850)<a >높은 가격순 />
+[84] (438,850)<a >상품명순 />
+[85] (586,852)<button class='btn__search-detail' id='searchDetailButton'>결과 내 검색 />
+[86] (392,1536)<div class='scroll_box' scrollable='true' />
+	상품에 대한 품목 및 최저가에 대한 리스트입니다.
+	상품
+	품목
+	선택
+	비교
+	인텔 코어i7-14세대 14700F (랩터레이크 리프레시) (정품)
+	인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 미탑재 / 10nm(인텔7) / 기본 클럭:2.1GHz / 최대 클럭:5.4GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:65-219W / PCIe5.0, 4.0 / 5600, 3200MHz / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:인텔 기본쿨러 포함 / 시네벤치R23(싱글):2091 / 시네벤치R23(멀티):32090
+	다나와유통
+	세이프업+
+	상품의견
+	529,300
+	원
+	담기
+	비교
+	인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품)
+	인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:미탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 / 시네벤치R23(싱글):2145 / 시네벤치R23(멀티):35218
+	다나와유통
+	세이프업+
+	상품의견
+	536,060
+	원
+	담기
+	비교
+	인텔 코어i7-14세대 14700 (랩터레이크 리프레시) (정품)
+	인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 탑재 / 10nm(인텔7) / 기본 클럭:2.1GHz / 최대 클럭:5.4GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:65-219W / PCIe5.0, 4.0 / 5600, 3200MHz / 인텔 UHD 770 / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:인텔 기본쿨러 포함 / 시네벤치R23(싱글):2077 / 시네벤치R23(멀티):31928
+	다나와유통
+	세이프업+
+	상품의견
+	635,580
+	원
+	해제
+	비교
+	인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품)
+	인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 인텔 UHD 770 / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 / 시네벤치R23(싱글):2069 / 시네벤치R23(멀티):34818
+	다나와유통
+	세이프업+
+	상품의견
+	판매준비
+	담기
+	비교
+	인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (벌크)
+	[87] (384,902)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:미탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 />
+	[88] (257,935)<div class='ninety_help distribution' />
+		[89] (256,935)<span >다나와유통 />
+	[90] (295,935)<div class='ninety_help' />
+		[91] (294,935)<span >세이프업+ />
+	[92] (329,935)<a class='icon_style btn_review'>상품의견 />
+	525,600
+	원
+	[93] (578,926)<a class='btn_choice2 wishAction'>담기 />
+	[94] (187,989)<a class='btn_compare'>비교 />
+		비교
+	인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (벌크)
+	646,050
+[95] (673,490)<a href='javascript:;'>현금 최저가 />
+[96] (776,490)<a href='javascript:;'>카드 최저가 />
+[97] (651,541)<a href='javascript:;' role='button'>견적카트 />
+[98] (741,541)<a class='btn__estimate-login checkLogin' href='javascript:;'>로그인하여 저장한 견적들을 확인해보세요. />
+[99] (724,1254)<div class='pd_list_area' scrollable='true' />
+	HDD
+	케이스
+	파워
+	소프트웨어
+	모니터 및 주변기기
+	모니터
+	모니터 받침대
+	키보드
+	마우스
+	사운드바
+	스피커
+	[100] (721,619)<a class='pd_item_title' href='#'>PC헤드셋 />
+	[101] (721,674)<a class='pd_item_title' href='#'>이어폰 />
+	[102] (721,728)<a class='pd_item_title' href='#'>공유기/무선랜 />
+	[103] (721,783)<a class='pd_item_title' href='#'>IP공유기/허브 />
+	[104] (721,837)<a class='pd_item_title' href='#'>프린터/복합기 />
+	[105] (721,892)<a class='pd_item_title' href='#'>컴퓨터 의자 />
+	[106] (721,946)<a class='pd_item_title' href='#'>케이블 />
+	컨트롤러
+
+</current_dom>

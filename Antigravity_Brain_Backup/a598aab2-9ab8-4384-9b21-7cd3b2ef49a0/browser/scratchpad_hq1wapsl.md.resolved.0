@@ -1,0 +1,13 @@
+# NotebookLM UI Inspection Checklist
+
+- [ ] Navigate to https://notebooklm.google.com/
+- [ ] Handle login if necessary
+- [ ] Open or create a notebook
+- [ ] Click 'Add source' (소스 추가)
+- [ ] Inspect 'Copied text' (복사된 텍스트) button
+    - Exact text:
+    - Class:
+    - aria-label:
+- [ ] Inspect 'Insert' (삽입) button
+    - ID:
+    - Class:

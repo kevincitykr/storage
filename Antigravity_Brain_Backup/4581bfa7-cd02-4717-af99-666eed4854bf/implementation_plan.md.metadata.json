@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Improve the Windly domestic sourcing button click logic by refining Shadow DOM traversal, text matching robustness, and wait mechanisms.",
+  "updatedAt":  "2026-04-23T08:06:46.475342400Z",
+  "requestFeedback":  true
+}

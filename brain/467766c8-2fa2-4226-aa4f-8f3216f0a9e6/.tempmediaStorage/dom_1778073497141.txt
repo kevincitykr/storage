@@ -1,0 +1,238 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (327,125)<a class='inline shrink-0' href='/search/%EB%B8%8C%EB%A1%AC%ED%86%A4' />
+	[7] (327,125)<span >브롬톤 />
+		[8] (317,125)<span >11
+. />
+[9] (381,125)<a class='inline shrink-0' href='/search/%EA%B2%8C%EC%9D%B4%EB%B0%8D%20%EB%85%B8%ED%8A%B8%EB%B6%81' />
+	[10] (381,125)<span >게이밍 노트북 />
+		[11] (359,125)<span >12
+. />
+[12] (434,125)<a class='inline shrink-0' href='/search/5080' />
+	[13] (434,125)<span >5080 />
+		[14] (424,125)<span >13
+. />
+[15] (476,125)<a class='inline shrink-0' href='/search/%EB%A7%8C%EB%85%84%ED%95%84' />
+	[16] (476,125)<span >만년필 />
+		[17] (466,125)<span >14
+. />
+[18] (515,125)<a class='inline shrink-0' href='/search/%EB%98%90%EB%B4%87' />
+	[19] (515,125)<span >또봇 />
+		[20] (509,125)<span >15
+. />
+[21] (666,69)<a href='/search/13700%204070?openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+추천순
+최신순
+낮은가격순
+높은가격순
+[36] (239,342)<div  />
+	[37] (239,318)<a class='w-full' href='/product/228024090' />
+		[38] (239,318)<div  />
+			[39] (239,242)<div  />
+				[40] (239,242)<div  />
+				[41] (284,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[42] (239,457)<div  />
+				[43] (239,438)<div  />
+					[44] (239,418)<span >초고사양 인텔 케이밍 컴퓨터 13700k rtx 4070 ti 팝니다. />
+					[45] (239,468)<div  />
+						[46] (239,468)<div  />
+							[47] (209,468)<span >2,450,000 />
+							[48] (243,470)<span >원 />
+				[49] (239,511)<div  />
+					[50] (239,511)<div  />
+						[51] (187,511)<div  />
+							[52] (187,511)<div  />
+								[53] (193,511)<span >1 />
+						[54] (199,511)<div  />
+						[55] (218,511)<span >4시간 전 />
+[56] (369,342)<div  />
+	[57] (369,342)<a class='w-full' href='/product/226595875' />
+		[58] (369,342)<div  />
+			[59] (369,242)<div  />
+				[60] (369,242)<div  />
+				[61] (415,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[62] (369,481)<div  />
+				[63] (369,438)<div  />
+					[64] (369,418)<span >RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) />
+					[65] (369,468)<div  />
+						[66] (369,468)<div  />
+							[67] (339,468)<span >1,600,000 />
+							[68] (372,470)<span >원 />
+				[69] (369,536)<div  />
+					[70] (369,511)<div  />
+						[71] (330,511)<div  />
+							[72] (320,511)<div  />
+								[73] (326,511)<span >10 />
+							[74] (341,511)<div  />
+								[75] (347,511)<span >8 />
+					[76] (369,557)<div  />
+						[77] (325,557)<div  />
+							[78] (325,557)<span >무료배송 />
+[79] (500,342)<div  />
+	[80] (500,317)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=9021949384&itemId=26454002571&vendorItemId=93429399295&traceid=V0-153-61940f082604befc&requestid=20260506221756635167338532&token=31850C%7CGM' />
+		[81] (500,317)<div  />
+			[82] (500,242)<div  />
+				[83] (500,242)<div  />
+			[84] (500,455)<div  />
+				[85] (500,438)<div  />
+					[86] (500,418)<span >달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC />
+					[87] (500,468)<div  />
+						[88] (500,468)<div  />
+							[89] (471,468)<span >2,998,000 />
+							[90] (505,470)<span >원 />
+				[91] (500,510)<div  />
+					[92] (500,510)<span >광고 |
+쿠팡 />
+[93] (631,342)<div  />
+	[94] (631,318)<a class='w-full' href='/product/210896323' />
+		[95] (631,318)<div  />
+			[96] (631,242)<div  />
+				[97] (631,242)<div  />
+				[98] (677,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[99] (631,457)<div  />
+				[100] (631,438)<div  />
+					[101] (631,418)<span >13700/B760M/RTX4070/1TB />
+					[102] (631,468)<div  />
+						[103] (631,468)<div  />
+							[104] (601,468)<span >2,200,000 />
+							[105] (635,470)<span >원 />
+				[106] (631,511)<div  />
+					[107] (631,511)<div  />
+						[108] (579,511)<div  />
+							[109] (579,511)<div  />
+								[110] (585,511)<span >1 />
+[111] (761,342)<div  />
+	[112] (761,318)<a class='w-full' href='/product/210483708' />
+		[113] (761,318)<div  />
+			[114] (761,242)<div  />
+				[115] (761,242)<div  />
+				[116] (807,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[117] (761,457)<div  />
+				[118] (761,438)<div  />
+					[119] (761,418)<span >13700/B760M/RTX4070Ti/1TB />
+					[120] (761,468)<div  />
+						[121] (761,468)<div  />
+							[122] (732,468)<span >2,200,000 />
+							[123] (766,470)<span >원 />
+				[124] (761,511)<div  />
+					[125] (761,511)<div  />
+						[126] (720,511)<div  />
+							[127] (711,511)<div  />
+								[128] (716,511)<span >3 />
+							[129] (729,511)<div  />
+								[130] (735,511)<span >1 />
+[131] (239,833)<div  />
+	[132] (239,794)<a class='w-full' href='/product/209885561' />
+		[133] (239,794)<div  />
+			[134] (239,732)<div  />
+				[135] (239,732)<div  />
+				[136] (284,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[137] (239,933)<div  />
+				[138] (239,914)<div  />
+					[139] (239,894)<span >i7 13700 rtx4070슈퍼본체 />
+					[140] (239,930)<div  />
+						[141] (239,930)<div  />
+							[142] (208,930)<span >1,900,000 />
+							[143] (241,931)<span >원 />
+				[144] (239,973)<div  />
+					[145] (239,973)<div  />
+						[146] (197,973)<div  />
+							[147] (188,973)<div  />
+								[148] (193,973)<span >5 />
+							[149] (206,973)<div  />
+								[150] (212,973)<span >1 />
+[151] (369,833)<div  />
+	[152] (369,808)<a class='w-full' href='/product/202962254' />
+		[153] (369,808)<div  />
+			[154] (369,732)<div  />
+				[155] (369,732)<div  />
+				[156] (415,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[157] (369,947)<div  />
+				[158] (369,928)<div  />
+					[159] (369,908)<span >RTX 4070 + i7 13700k 본체 200판매 />
+					[160] (369,959)<div  />
+						[161] (369,959)<div  />
+							[162] (340,959)<span >2,000,000 />
+							[163] (374,960)<span >원 />
+				4
+[164] (500,833)<div  />
+	[165] (500,794)<a class='w-full' href='/product/224785370' />
+		[166] (500,794)<div  />
+			[167] (500,732)<div  />
+				[168] (500,732)<div  />
+				[169] (546,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[170] (500,933)<div  />
+				[171] (500,914)<div  />
+					[172] (500,894)<span >13700k z790 4070ti />
+					[173] (500,930)<div  />
+						[174] (500,930)<div  />
+							[175] (469,930)<span >1,750,000 />
+							[176] (501,931)<span >원 />
+				22
+				12
+				8일 전
+[177] (631,833)<div  />
+	[178] (631,833)<a class='w-full' href='/product/227929030' />
+		[179] (631,833)<div  />
+			[180] (631,732)<div  />
+				[181] (631,732)<div  />
+				[182] (677,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[183] (631,972)<div  />
+				[184] (631,928)<div  />
+					[185] (631,908)<span >MSI Vector GP77 13VG / i7-13700H / RTX4070 / 16GB / 1TB / 17인치 />
+					[186] (631,959)<div  />
+						[187] (631,959)<div  />
+							[188] (600,959)<span >1,300,000 />
+							[189] (633,960)<span >원 />
+				10일 전
+[190] (761,833)<div  />
+	[191] (761,807)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=9506761691&itemId=28394837579&vendorItemId=95346240973&traceid=V0-153-e9b874aeacff657a&requestid=20260506221756635167338532&token=31850C%7CGM' />
+		[192] (761,807)<div  />
+			[193] (761,732)<div  />
+				[194] (761,732)<div  />
+			[195] (761,946)<div  />
+				[196] (761,928)<div  />
+					[197] (761,908)<span >미국출고 평점4.5+ 158386 Skytech Gaming Chronos 게이밍 PC 데스크탑 - 인텔 코어 i7 13700K 3.4GHz, NVIDIA RTX 4070, 1 />
+					[198] (761,959)<div  />
+						[199] (761,959)<div  />
+							[200] (731,959)<span >4,237,200 />
+							[201] (764,960)<span >원 />
+				광고 |
+				쿠팡
+[202] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[203] (854,907)<div  />
+		[204] (903,907)<div  />
+[205] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[206] (902,799)<span  />
+
+</current_dom>

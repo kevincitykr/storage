@@ -1,0 +1,77 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (280,-54)<div class='scroll_ctgr' scrollable='true' />
+	인텔 소켓 1200
+	인텔 소켓 1151-V2
+	인텔 소켓 1151
+	인텔 소켓 1150/1155
+	인텔 소켓 2066
+	서버/워크스테이션
+	산업용 메인보드
+메인보드
+[1] (360,179)<input id='Search_free' />
+무료배송
+[2] (423,179)<input id='Search_Event' />
+행사제품보기
+총
+823
+건
+[3] (317,245)<input id='SearchKeyword' />
+[4] (370,246)<a href='javascript:search_keyword();' />
+[5] (436,245)<select  />
+[6] (272,672)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[7] (88,381)<a class='imgbox' href='javascript:detail_show('1329480')' title='[제품코드:1329480]' />
+	[8] (236,502)<a class='imgbox' href='javascript:detail_show('1329480')'>AMD(소켓AM5)/AMD B650/DDR5/VGA 연결: PCIe5.0 x16/M-ATX (24.4x24.4cm)/전원부: 8+2+1페이즈/[메모리] 8000MHz (PC5-64000)/4개/메모리 용량: 최대 256GB/EXPO/[확장슬롯] PCIe버전: PCIe5.0, PCIe4.0/PCIex16: 1개/PCIex16(at x1): 1개/[저장장치] M.2: 3개/SATA3: 4개/M.2 연결: PCIe5.0, PCIe4.0, NVMe/[후면단자] HDMI/DP/USB3.x 10Gbps/USB3.x 5Gbps/RJ-45/오디오잭/BIOS플래시백/USB A타입: 8개/[랜/오디오] 유선랜 칩셋: Realtek/2.5Gbps/RJ-45: 1개/오디오 칩셋: Realtek/7.1채널(8ch)/[내부I/O] USB/팬 헤더: USB3.0 헤더, USB2.0 헤더, USB3.0 Type C 헤더, CPU추가팬(OPT) 헤더, 펌프전용 헤더/시스템팬 4핀: 3개/I/O 헤더: TPM 헤더, 프론트오디오AAFP 헤더, 침입감지 헤더, COM포트 헤더, S/PDIF OUT 헤더/[특징] 전원부 방열판/M.2 히트싱크 />
+		[9] (236,365)<b >[ASUS] PRIME B650EM-A + DUAL 지포스 RTX 5060 TI OC D7 8GB 대원씨티에스 🌸가정愛달 가좍이되 (콤비 할인가 710,000원)🌸[1329480] />
+	후기
+	사은품
+	기타
+	댓글
+	판매가격
+	710,000
+	[10] (453,524)<a class='buttons' href='javascript:select_basket('1329480','N',1);' id='basket1329480' />
+		[11] (453,524)<span >담기 />
+	[12] (88,813)<a class='imgbox' href='javascript:detail_show('953528')' title='[제품코드:953528]' />
+	[13] (236,888)<a class='imgbox' href='javascript:detail_show('953528')'>인텔 H610 / 인텔(소켓1700) / DDR4 / VGA 연결: PCIe4.0 x16 / M-ATX (22.0x19.3cm) / 전원부: 7페이즈 / [메모리] 3200MHz (PC4-25600) / 2개 / 메모리 용량: 최대 64GB / XMP / [확장슬롯] PCIe버전: PCIe4.0, PCIe3.0 / PCIex16: 1개 / PCIex1: 1개 / [저장장치] M.2: 1개 / SATA3: 4개 / M.2 연결: PCIe , NVMe / [후면단자] HDMI / DP / D-SUB / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입: 6개 / [랜/오디오] 유선랜 칩셋: Realtek RTL8111H / 1Gbps / RJ-45: 1개 / 오디오 칩셋: Realtek ALC897/887 / 7.1채널(8ch) / [내부I/O] USB/팬 헤더: USB3.0 헤더 , USB2.0 헤더 / 시스템팬 4핀: 1개 / I/O 헤더: TPM 헤더 / [특징] UEFI />
+		[14] (236,785)<b >[ASRock] H610M-HDV/M.2 R2.0 D4 에즈윈 벌크 (인텔H610/M-ATX) [953528] />
+	판매가격
+	87,900
+	[15] (453,911)<a class='buttons' href='javascript:select_basket('953528','N',1);' id='basket953528' />
+		[16] (453,911)<span >담기 />
+총 견적금액
+576,000
+원
+[17] (534,245)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[18] (562,245)<input  />
+[19] (590,245)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[20] (650,245)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[21] (650,245)<span >전체수량변경 />
+[22] (544,340)<label  />
+	[23] (526,339)<span  />
+		[24] (526,339)<input  />
+	[25] (551,339)<span >전체선택 />
+[26] (702,339)<a class='wbtn' href='javascript:add_wish_list();' />
+	[27] (702,340)<span >관심상품추가 />
+[28] (760,339)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[29] (760,340)<span >장바구니담기 />
+[30] (815,339)<a class='wbtn' />
+	[31] (815,340)<span >견적서출력 />
+[32] (871,339)<a class='wbtn' href='javascript:speck_form();' />
+	[33] (871,340)<span >사양검토요청 />
+[34] (919,339)<a class='wbtn' href='javascript:sess_init();' />
+	[35] (919,340)<span >초기화 />
+[36] (527,418)<label  />
+	[37] (527,417)<span  />
+		[38] (526,419)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[39] (560,417)<span >인텔 병행수입 />
+[40] (633,462)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[41] (853,444)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[42] (876,444)<input class='change__ea' id='Amount_1108547' />
+[43] (898,444)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[44] (922,444)<span class='delete' />
+
+</current_dom>

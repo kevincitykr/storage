@@ -1,0 +1,145 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+[0] (15,28)<button aria-label='탐색 메뉴 (.)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[1] (15,28)<cm-icon  />
+[2] (63,28)<a aria-label='Google Cloud Platform 홈' class='cfc-logo-anchor mat-focus-indicator' href='/?authuser=1&project=gen-lang-client-0490519756' />
+[3] (156,28)<button aria-label='현재 Default Gemini Project에서 작업 중입니다. 프로젝트, 폴더 또는 조직을 전환하려면 Enter 키를 누르세요.' class='mdc-button mat-mdc-button-base gmat-mdc-button ng-tns-c1277316461-2 mat-mdc-button cfc-switcher-button new-switcher-button mat-unthemed cm-button' />
+	Default Gemini Project
+[4] (529,28)<div class='pcc-combobox' role='combobox' />
+	[5] (538,28)<input aria-label='쿼리를 입력하여 리소스, 문서, 제품 등 검색' class='cm-input gmat-mdc-input mat-mdc-input-element pcc-search-input ng-untouched ng-pristine ng-valid cdk-text-field-autofill-monitored' id='mat-input-0' placeholder='리소스, 문서, 제품 등 검색(/)' />
+검색
+[6] (904,28)<button aria-label='Gemini AI 채팅 열기 (Alt G)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='pcc-duet-chat-container' />
+	[7] (904,28)<cm-icon  />
+[8] (925,28)<button aria-label='Cloud Shell 활성화 (G then S)' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip ng-star-inserted cfc-tooltip-disable-user-select-on-touch-device' />
+	[9] (925,28)<cm-icon  />
+[10] (946,28)<button aria-label='알림 열기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' />
+	[11] (946,28)<cm-icon  />
+[12] (967,28)<button aria-label='설정 및 유틸리티' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button pcc-platform-bar-button mat-focus-indicator mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='pcc-utilities-menu-trigger' />
+	[13] (967,28)<cm-icon  />
+[14] (988,28)<button aria-label='계정: 김광섭 (kevincitykr002@gmail.com)' class='cfc-accountchooser-link mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+[15] (44,72)<a class='cfc-section-title-content-container cfc-section-path mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/auth?authuser=1&project=gen-lang-client-0490519756' />
+	[16] (11,72)<shell-nav-icon  />
+		[17] (11,72)<cm-icon  />
+	[18] (50,72)<span  />
+		[19] (50,72)<span >Google 인증 플랫폼 />
+/
+[20] (110,72)<a class='mdc-button mat-mdc-button-base gmat-mdc-button cfc-text-button cfc-button-centered cfc-button-small pcc-breadcrumb-link-button mat-mdc-button mat-unthemed cm-button cfc-tooltip' href='/auth/clients?authuser=1&project=gen-lang-client-0490519756' />
+	[21] (110,72)<span  />
+		[22] (110,72)<span >클라이언트 />
+[23] (60,119)<a aria-label='개요, 7개 중 1개' class='mdc-button mat-mdc-button-base gmat-mdc-button section-nav-item mat-mdc-button mat-mdc-button-disabled-interactive mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/auth/overview?authuser=1&project=gen-lang-client-0490519756' id='cfctest-section-nav-item-oauth_overview' />
+	[24] (60,119)<span  />
+		[25] (11,119)<shell-nav-icon  />
+			[26] (11,119)<cm-icon  />
+		[27] (67,119)<span >개요 />
+[28] (124,119)<button aria-label='옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-button-small nav-pin-menu-button unpinned mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='nav-pin-menu-button-oauth_overview' />
+	[29] (124,120)<cm-icon  />
+[30] (60,160)<a aria-label='브랜딩, 7개 중 2개' class='mdc-button mat-mdc-button-base gmat-mdc-button section-nav-item mat-mdc-button mat-mdc-button-disabled-interactive mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/auth/branding?authuser=1&project=gen-lang-client-0490519756' id='cfctest-section-nav-item-oauth_branding' />
+	[31] (60,160)<span  />
+		[32] (11,160)<shell-nav-icon  />
+			[33] (11,160)<cm-icon  />
+		[34] (67,160)<span >브랜딩 />
+[35] (124,160)<button aria-label='옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-button-small nav-pin-menu-button unpinned mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='nav-pin-menu-button-oauth_branding' />
+	[36] (124,162)<cm-icon  />
+[37] (60,201)<a aria-label='대상, 7개 중 3개' class='mdc-button mat-mdc-button-base gmat-mdc-button section-nav-item mat-mdc-button mat-mdc-button-disabled-interactive mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/auth/audience?authuser=1&project=gen-lang-client-0490519756' id='cfctest-section-nav-item-oauth_audience' />
+	[38] (60,201)<span  />
+		[39] (11,201)<shell-nav-icon  />
+			[40] (11,201)<cm-icon  />
+		[41] (67,201)<span >대상 />
+[42] (124,201)<button aria-label='옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-button-small nav-pin-menu-button unpinned mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='nav-pin-menu-button-oauth_audience' />
+	[43] (124,203)<cm-icon  />
+[44] (60,243)<a aria-label='클라이언트, 7개 중 4개' class='mdc-button mat-mdc-button-base gmat-mdc-button section-nav-item mat-mdc-button selected mat-mdc-button-disabled-interactive mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/auth/clients?authuser=1&project=gen-lang-client-0490519756' id='cfctest-section-nav-item-oauth_clients' />
+	[45] (60,243)<span  />
+		[46] (11,243)<shell-nav-icon  />
+			[47] (11,243)<cm-icon  />
+		[48] (67,243)<span >클라이언트 />
+[49] (124,243)<button aria-label='옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-button-small nav-pin-menu-button unpinned mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='nav-pin-menu-button-oauth_clients' />
+	[50] (124,244)<cm-icon  />
+[51] (60,284)<a aria-label='데이터 액세스, 7개 중 5개' class='mdc-button mat-mdc-button-base gmat-mdc-button section-nav-item mat-mdc-button mat-mdc-button-disabled-interactive mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/auth/scopes?authuser=1&project=gen-lang-client-0490519756' id='cfctest-section-nav-item-oauth_scopes' />
+	[52] (60,284)<span  />
+		[53] (11,284)<shell-nav-icon  />
+			[54] (11,284)<cm-icon  />
+		[55] (67,284)<span >데이터 액세스 />
+[56] (124,284)<button aria-label='옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-button-small nav-pin-menu-button unpinned mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='nav-pin-menu-button-oauth_scopes' />
+	[57] (124,286)<cm-icon  />
+[58] (60,326)<a aria-label='인증 센터, 7개 중 6개' class='mdc-button mat-mdc-button-base gmat-mdc-button section-nav-item mat-mdc-button mat-mdc-button-disabled-interactive mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/auth/verification?authuser=1&project=gen-lang-client-0490519756' id='cfctest-section-nav-item-oauth_verification' />
+	[59] (60,326)<span  />
+		[60] (11,326)<shell-nav-icon  />
+			[61] (11,326)<cm-icon  />
+		[62] (67,326)<span >인증 센터 />
+[63] (124,326)<button aria-label='옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-button-small nav-pin-menu-button unpinned mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='nav-pin-menu-button-oauth_verification' />
+	[64] (124,327)<cm-icon  />
+[65] (60,367)<a aria-label='설정, 7개 중 7개' class='mdc-button mat-mdc-button-base gmat-mdc-button section-nav-item mat-mdc-button mat-mdc-button-disabled-interactive mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/auth/settings?authuser=1&project=gen-lang-client-0490519756' id='cfctest-section-nav-item-oauth_settings' />
+	[66] (60,367)<span  />
+		[67] (11,367)<shell-nav-icon  />
+			[68] (11,367)<cm-icon  />
+		[69] (67,367)<span >설정 />
+[70] (124,367)<button aria-label='옵션 더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-button-small nav-pin-menu-button unpinned mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' id='nav-pin-menu-button-oauth_settings' />
+	[71] (124,369)<cm-icon  />
+[72] (9,972)<button aria-label='Google 인증 플랫폼 탐색 메뉴 전환' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button nav-minimize-toggle-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' id='nav-minimize-toggle-button' />
+	[73] (11,972)<shell-nav-icon  />
+		[74] (11,972)<cm-icon  />
+클라이언트
+[75] (254,116)<a aria-label='클라이언트 만들기' class='mdc-button mat-mdc-button-base gmat-mdc-button mat-mdc-button mat-primary cm-button' href='/auth/clients/create?authuser=1&project=gen-lang-client-0490519756' id='action-bar-create-client-button' />
+	[76] (225,116)<cfc-icon  />
+		[77] (225,116)<mat-icon class='mat-icon notranslate mat-icon-no-color' role='img' />
+	[78] (260,116)<span >클라이언트 만들기 />
+[79] (317,116)<button aria-label='클라이언트 삭제' class='mdc-button mat-mdc-button-base gmat-mdc-button mat-mdc-button mat-primary mat-mdc-button-disabled mat-mdc-button-disabled-interactive cm-button cm-disabled' id='_0rif_action-bar-delete-button'>삭제 />
+	삭제
+[80] (400,116)<button aria-label='삭제된 사용자 인증 정보 복원' class='mdc-button mat-mdc-button-base gmat-mdc-button cfc-cursor-pointer mat-mdc-button mat-primary cm-button' id='_0rif_action-bar-restore-deleted-credentials-button' />
+	[81] (351,116)<cfc-icon  />
+		[82] (351,116)<mat-icon class='mat-icon notranslate mat-icon-no-color' role='img' />
+	[83] (405,116)<span >삭제된 OAuth 클라이언트 복원 />
+OAuth 2.0 클라이언트 ID
+[84] (567,245)<tr  />
+	[85] (160,246)<mat-pseudo-checkbox aria-label='모든 행 선택' class='mat-pseudo-checkbox mat-focus-indicator cfctest-table-select-all-checkbox mat-pseudo-checkbox-full cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' role='checkbox' />
+	[86] (301,245)<cfc-table-column-header  />
+		[87] (301,245)<span  />
+			[88] (186,245)<span >이름 />
+			[89] (201,245)<button aria-label='정렬 기준: 이름' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-table-column-header-sort-button cfc-table-column-header-sort-ascending mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+				[90] (201,246)<cm-icon  />
+	[91] (507,245)<cfc-table-column-header  />
+		[92] (507,245)<span  />
+			[93] (450,245)<span >생성일 />
+			[94] (469,245)<button aria-label='정렬 기준: 생성일' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-table-column-header-sort-button cfc-table-column-header-sort-descending mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+				[95] (469,246)<cm-icon  />
+	[96] (647,245)<cfc-table-column-header  />
+		[97] (647,245)<span  />
+			[98] (597,245)<span >유형 />
+			[99] (612,245)<button aria-label='정렬 기준: 유형' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-table-column-header-sort-button cfc-table-column-header-sort-ascending mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+				[100] (612,246)<cm-icon  />
+	[101] (771,245)<cfc-table-column-header  />
+		[102] (771,245)<span  />
+			[103] (742,245)<span >클라이언트 ID />
+			[104] (772,245)<button aria-label='정렬 기준: 클라이언트 ID' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-table-column-header-sort-button cfc-table-column-header-sort-ascending mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+				[105] (772,246)<cm-icon  />
+	작업
+[106] (567,280)<tr class='cfctest-table-body-row cfc-table-body-row cfc-outline-focus-indicator' id='_0rif_cfc-table-caption-0-row-0' role='row' />
+	[107] (158,280)<td class='cfc-table-select-all-checkbox-column cfc-outline-focus-indicator' role='gridcell' />
+		[108] (160,278)<cfc-table-selection-control  />
+			[109] (160,278)<mat-pseudo-checkbox aria-label='Antigravity Master Key' class='mat-pseudo-checkbox mat-focus-indicator mat-pseudo-checkbox-full' role='checkbox' />
+	[110] (301,280)<td class='cfc-table-cell-container cfc-outline-focus-indicator' role='rowheader' />
+		[111] (215,278)<a href='/auth/clients/305318265369-rs2is408l6gj942mihi2d39c3d0a7sdm.apps.googleusercontent.com?authuser=1&project=gen-lang-client-0490519756'>Antigravity Master Key />
+	[112] (507,280)<td class='cfc-table-cell-container cfc-outline-focus-indicator' role='gridcell'>2026. 4. 6. />
+	[113] (647,280)<td class='cfc-table-cell-container cfc-outline-focus-indicator' role='gridcell'>데스크톱 />
+	[114] (771,280)<td class='cfc-table-cell-container cfc-outline-focus-indicator' role='gridcell' />
+		[115] (765,278)<code >305318265369-rs2i... />
+		[116] (815,278)<button aria-label='클릭하여 OAuth 클라이언트 복사' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+			[117] (815,279)<cfc-icon  />
+				[118] (815,279)<mat-icon class='mat-icon notranslate mat-icon-no-color' role='img' />
+	[119] (908,280)<td class='cfc-table-cell-container cfc-outline-focus-indicator cfc-table-column-right-align' role='gridcell' />
+		[120] (948,281)<a aria-label='클릭하여 OAuth 클라이언트 수정' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' href='/auth/clients/305318265369-rs2is408l6gj942mihi2d39c3d0a7sdm.apps.googleusercontent.com?authuser=1&project=gen-lang-client-0490519756' />
+			[121] (948,279)<cfc-icon  />
+				[122] (948,279)<mat-icon class='mat-icon notranslate mat-icon-no-color' role='img' />
+		[123] (960,279)<cfc-progress-button  />
+			[124] (960,279)<div  />
+				[125] (960,278)<button aria-label='클릭하여 OAuth 클라이언트 삭제' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button mat-mdc-button-disabled-interactive mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+					[126] (960,279)<cfc-icon  />
+						[127] (960,279)<mat-icon class='mat-icon notranslate mat-icon-no-color' role='img' />
+
+</current_dom>

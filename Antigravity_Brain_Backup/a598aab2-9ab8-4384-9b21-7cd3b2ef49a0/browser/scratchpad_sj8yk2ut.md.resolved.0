@@ -1,0 +1,12 @@
+# Task: Economy Dashboard Automation
+
+## Plan
+- [ ] Navigate to http://127.0.0.1:5000/economy
+- [ ] Verify dashboard loaded
+- [ ] Select 'Economy' if applicable
+- [ ] Input '경제이야기' (Economic Story)
+- [ ] Click 'Run' or 'Start'
+- [ ] Verify generation started
+
+## Progress
+- Initialized plan.

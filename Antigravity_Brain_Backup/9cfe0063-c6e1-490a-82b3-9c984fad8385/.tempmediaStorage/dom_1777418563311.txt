@@ -1,0 +1,94 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+Navigation Menu
+[0] (32,40)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[1] (85,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Platform />
+[2] (150,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Solutions />
+[3] (219,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Resources />
+[4] (296,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Open Source />
+[5] (373,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Enterprise />
+[6] (430,40)<a class='NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM' href='https://github.com/pricing' />
+	[7] (430,40)<span >Pricing />
+[8] (736,40)<button aria-label='Search or jump to…' class='header-search-button input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none placeholder' placeholder='Search or jump to...' />
+	[9] (642,40)<div  />
+	[10] (736,40)<span >Search or jump to... />
+	[11] (833,40)<div  />
+[12] (872,40)<a class='HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Drepo%253Awonseokjung%252Fconnect-ai%2BMCP%26type%3Dcode'>Sign in />
+[13] (926,40)<a class='HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1' href='/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2Fsearch&source=header'>Sign up />
+[14] (968,40)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-4bb0bba9-812d-434d-b48e-ca6678116677' />
+code Search Results · repo:wonseokjung/connect-ai MCP
+Filter by
+[15] (98,166)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=repo%3Awonseokjung%2Fconnect-ai+MCP&type=code' id='_R_5sraqdb_' />
+	[16] (106,166)<span  />
+		[17] (94,166)<span >Code />
+		...
+		(
+		...
+		)
+		results
+[18] (98,202)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=repo%3Awonseokjung%2Fconnect-ai+MCP&type=issues' id='_R_9sraqdb_' />
+	[19] (106,202)<span  />
+		[20] (95,202)<span >Issues />
+		0
+		(
+		0
+		)
+		results
+[21] (98,238)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=repo%3Awonseokjung%2Fconnect-ai+MCP&type=pullrequests' id='_R_dsraqdb_' />
+	[22] (106,238)<span  />
+		[23] (95,238)<span >Pull requests />
+		0
+		(
+		0
+		)
+		results
+[24] (98,274)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=repo%3Awonseokjung%2Fconnect-ai+MCP&type=discussions' id='_R_hsraqdb_' />
+	[25] (106,274)<span  />
+		[26] (95,274)<span >Discussions />
+		0
+		(
+		0
+		)
+		results
+[27] (98,310)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=repo%3Awonseokjung%2Fconnect-ai+MCP&type=commits' id='_R_lsraqdb_' />
+	[28] (106,310)<span  />
+		[29] (95,310)<span >Commits />
+		0
+		(
+		0
+		)
+		results
+[30] (98,346)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=repo%3Awonseokjung%2Fconnect-ai+MCP&type=registrypackages' id='_R_psraqdb_' />
+	[31] (106,346)<span  />
+		[32] (95,346)<span >Packages />
+		0
+		(
+		0
+		)
+		results
+[33] (98,382)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='https://github.com/search?q=repo%3Awonseokjung%2Fconnect-ai+MCP&type=wikis' id='_R_tsraqdb_' />
+	[34] (106,382)<span  />
+		[35] (95,382)<span >Wikis />
+		0
+		(
+		0
+		)
+		results
+[36] (98,437)<a class='prc-ActionList-ActionListContent-KBb8- prc-Link-Link-9ZwDx' href='/search/advanced' id='_R_2baqdb_' />
+	[37] (106,437)<span  />
+		[38] (106,437)<span >Advanced search />
+[39] (196,380)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+[40] (975,114)<button aria-label='Open column options' class='prc-Button-ButtonBase-9n-Xk ExtraMenu-module__menuButton__aaOBP prc-Button-IconButton-fyge7' id='_R_1mbadb_' />
+Sign in to search code on GitHub
+Before you can access our code search functionality please sign in or create a free account.
+[41] (571,590)<a class='prc-Button-ButtonBase-9n-Xk' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fsearch%3Fq%3Drepo%253Awonseokjung%252Fconnect-ai%2BMCP%26type%3Dcode' />
+	[42] (571,590)<span  />
+		[43] (571,590)<span >Sign in />
+[44] (624,590)<a class='prc-Button-ButtonBase-9n-Xk Code-module__signUpButton__mfBPI' href='/signup?source=code_search_results' />
+	[45] (624,590)<span  />
+		[46] (624,590)<span >Sign up />
+
+</current_dom>

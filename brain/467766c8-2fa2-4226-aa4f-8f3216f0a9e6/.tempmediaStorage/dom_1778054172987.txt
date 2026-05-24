@@ -1,0 +1,79 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (666,69)<a href='/product/213254091?openChat=true' />
+	[6] (666,69)<div  />
+		[7] (649,69)<div  />
+			[8] (649,69)<img  />
+		[9] (675,69)<span >채팅하기 />
+[10] (732,69)<a href='/product/form?type=regist' />
+	[11] (732,69)<div  />
+		[12] (715,69)<div  />
+			[13] (715,69)<img  />
+		[14] (741,69)<span >판매하기 />
+[15] (790,69)<a href='/mystore' />
+	[16] (790,69)<div  />
+		[17] (781,69)<div  />
+			[18] (781,69)<img  />
+		[19] (799,69)<span >마이 />
+[20] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[21] (215,187)<span  />
+		[22] (215,187)<div  />
+			[23] (225,187)<span >카테고리 />
+[24] (286,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/event/list?searchType=ING' />
+	[25] (286,190)<span >이벤트 />
+[26] (338,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/fraud' />
+	[27] (338,190)<span >사기조회 />
+[28] (395,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/search-price' />
+	[29] (395,190)<span >시세조회 />
+[30] (452,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/contents' />
+	[31] (452,190)<span >읽을거리 />
+[32] (505,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/favorite' />
+	[33] (505,190)<span >내 관심 />
+최근 본 상품
+[34] (904,411)<button aria-label='최근 본 상품 14600kf 4070ti super 모든거 다처분함 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[35] (886,451)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/213254091' />
+	[36] (886,451)<img  />
+[37] (904,543)<button aria-label='최근 본 상품 그램 15 판매합니다. 미개봉 새상품 15ZD80T-GX56K 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[38] (886,584)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228196645' />
+	[39] (886,584)<img  />
+[40] (904,676)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[41] (886,716)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[42] (886,716)<img  />
+[43] (320,610)<div  />
+[44] (444,610)<button aria-label='다음 슬라이드' class='absolute top-1/2 -translate-y-1/2 z-10 p-2 rounded-full hover:bg-white/60 disabled:hidden right-1' />
+1
+/
+3
+[45] (490,315)<a class='whitespace-pre-line text-14 font-regular max-md:text-12 text-gray-500' href='https://web.joongna.com/'>홈 />
+[46] (534,315)<a class='whitespace-pre-line text-14 font-regular max-md:text-12 text-gray-500' href='/search?category=8'>노트북/PC />
+[47] (599,315)<a class='whitespace-pre-line text-14 font-regular max-md:text-12' href='/search?category=159'>데스크탑/본체 />
+14600kf 4070ti super 모든거 다처분함
+1,500,000원
+[48] (801,449)<a aria-label='14600kf 4070ti super 모든거 다처분함 시세조회' class='ga4_product_detail_price' href='/search-price/14600kf%204070ti%20super%20%EB%AA%A8%EB%93%A0%EA%B1%B0%20%EB%8B%A4%EC%B2%98%EB%B6%84%ED%95%A8?productSeq=213254091' />
+	[49] (801,449)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-500 hover:bg-gray-500/5 active:bg-gray-500/10' />
+		[50] (801,449)<span >시세조회 />
+		[51] (801,459)<div  />
+배송비 별도
+택배거래
+배송비 별도(판매자 문의)
+상품 상태
+중고, 구성품 없음
+[52] (499,990)<button aria-label='찜 하기' />
+[53] (594,990)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] bg-white border border-gray-400 text-gray-900 active:border-gray-900 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16 max-md:ml-2' />
+	[54] (594,990)<span >채팅하기 />
+[55] (748,990)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-4 w-full h-[62px] text-white bg-gray-900 border active:border-gray-700 ga4_product_detail_bottom max-md:py-3 max-md:h-13 max-md:[&>span]:text-16' />
+	[56] (748,990)<span >구매하기 />
+[57] (500,913)<button class='flex items-center gap-1 py-2 px-4 min-w-max bg-white border border-gray-200 shadow-lg rounded-full fixed md:bottom-10 max-md:bottom-20 left-1/2 -translate-x-1/2 z-20' />
+	[58] (438,913)<div  />
+		[59] (438,913)<img  />
+	[60] (501,913)<span >모아보기 />
+		[61] (481,913)<strong >결제 혜택 수수료 />
+
+</current_dom>

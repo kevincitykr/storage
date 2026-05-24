@@ -1,0 +1,40 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (46,47)<a class='MV3Tnb' href='https://about.google/?fg=1&utm_source=google-KR&utm_medium=referral&utm_campaign=hp-header'>Google 정보 />
+[1] (103,47)<a class='MV3Tnb' href='https://store.google.com/KR?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=ko-KR'>스토어 />
+[2] (832,45)<a aria-label='Gmail ' class='gb_Z' href='https://mail.google.com/mail/?authuser=0&ogbl'>Gmail />
+[3] (869,45)<a aria-label='이미지 검색 ' class='gb_Z' href='https://www.google.com/imghp?hl=ko&authuser=0&ogbl'>이미지 />
+[4] (908,45)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=hp&authuser=0' role='button' />
+[5] (943,45)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[6] (978,45)<a aria-label='Google 계정: 김광섭  
+(kevincitykr001@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/&ec=futura_exp_og_si_72776762_e' role='button' />
+[7] (500,319)<a href='/search?sca_esv=6ed2f101db008005&sxsrf=ANbL-n7_15jNhWHkA6GBIvFyy1Njv1g-SQ:1772971527618&q=%EC%84%B8%EA%B3%84+%EC%97%AC%EC%84%B1%EC%9D%98+%EB%82%A0&oi=ddle&noiga=1&ct=458094404&hl=ko&si=AL3DRZEaipurC9pse1xO2aCwuJWfKA_Njx1c7Qs8ap9rx81jmqXhgzQ4vl6_Zi_3zZWMYdojlJMmuuGTCfdQ5374dtckhW0Y1pg4jp_XtE4l6begQg9UCgOSCyMdtWvvGcZO7QAeohGtEV7H6Q24clIil6PLVHoCJ8TSk5Q4Q--9FV_YYsG9m0s%3D&sa=X&ved=0ahUKEwjXseTQoZCTAxUcdfUHHSlHH2gQPQgO' />
+	[8] (500,319)<picture  />
+		[9] (500,213)<img  />
+[10] (655,294)<div aria-label='공유' role='button' />
+	[11] (655,294)<div  />
+		[12] (655,294)<div  />
+			[13] (654,294)<span  />
+[14] (436,414)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' title='검색' />
+[15] (603,414)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[16] (603,414)<span  />
+[17] (632,414)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[18] (661,414)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[19] (713,414)<button class='plR5qb Y5MKCd' role='link' />
+	[20] (713,414)<div  />
+		[21] (695,414)<span  />
+		[22] (721,414)<span >AI 모드 />
+[23] (443,529)<input aria-label='Google 검색' class='gNO89b' role='button' />
+[24] (544,531)<input aria-label='I’m Feeling Lucky' class='RNmpXc' />
+대한민국
+[25] (35,961)<a class='pHiOh' href='https://www.google.com/intl/ko_kr/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1'>광고 />
+[26] (85,961)<a class='pHiOh' href='https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1'>비즈니스 />
+[27] (151,961)<a class='pHiOh' href='https://google.com/search/howsearchworks/?fg=1'>검색의 원리 />
+[28] (855,961)<a class='pHiOh' href='https://policies.google.com/privacy?hl=ko&fg=1'>개인정보처리방침 />
+[29] (924,961)<a class='pHiOh' href='https://policies.google.com/terms?hl=ko&fg=1'>약관 />
+[30] (965,961)<div class='CcNe6e' role='button' />
+	[31] (965,961)<div >설정 />
+
+</current_dom>

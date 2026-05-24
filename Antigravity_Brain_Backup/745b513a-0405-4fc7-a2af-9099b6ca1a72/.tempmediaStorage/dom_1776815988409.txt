@@ -1,0 +1,81 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (90,25)<div role='button' />
+	[1] (90,25)<a href='/3a4e5da5-0d40-4bab-b386-0f118f722ce9' />
+		[2] (90,25)<div  />
+			[3] (30,25)<div  />
+				[4] (30,25)<div  />
+					[5] (30,25)<div  />
+						[6] (30,25)<img  />
+			[7] (104,25)<div >Windly 사용가이드 />
+/
+[8] (308,25)<div role='button' />
+	[9] (308,25)<a href='/cb8d7a3b-aacb-4e80-bef1-257ca2f37b26' />
+		[10] (308,25)<div  />
+			[11] (195,25)<div  />
+				[12] (195,25)<div  />
+					[13] (195,25)<div  />
+						[14] (195,25)<img  />
+			[15] (322,25)<div >윈들리가 지원하는 소싱몰/오픈마켓 />
+[16] (824,25)<div aria-label='검색' class='search-button css-nkjb6j' role='button' />
+	[17] (835,25)<span >검색 />
+[18] (895,25)<div class='share-button css-ax50c0 e1pzqsz00' role='button' />
+	[19] (907,25)<span >공유 />
+[20] (963,33)<label aria-label='다크모드를 켭니다' />
+	[21] (963,25)<div  />
+	[22] (950,25)<div  />
+⭐
+[23] (500,322)<div  />
+	[24] (500,322)<h1  />
+		[25] (433,322)<span >윈들리가 지원하는 소싱몰/오픈마켓 />
+소싱몰
+현재 윈들리에서 지원하는
+상품 수집 방식은 2가지
+예요.
+방식1) 전세계 어떤 쇼핑몰이든 윈들리 AI가 쉽고 간편하게 대신 수집해드리는 AI 전세계 상품 수집 방식
+방식2) 직접 수집하는 원클릭, URL, 엑셀 등 수집 방식
+직접 수집 방식은 수집이 가능한 소싱몰 사이트가 정해져 있어요.
+소싱몰
+은
+[26] (717,627)<a class='notion-link-token notion-enable-hover' href='https://world.taobao.com/' />
+	[27] (717,627)<span >타오바오 />
+,
+[28] (773,627)<a class='notion-link-token notion-enable-hover' href='https://www.tmall.com/' />
+	[29] (773,627)<span >티몰 />
+,
+[30] (816,627)<a class='notion-link-token notion-enable-hover' href='https://www.1688.com/' />
+	[31] (816,627)<span >1688 />
+,
+[32] (187,655)<a class='notion-link-token notion-enable-hover' href='https://www.vvic.com/gz' />
+	[33] (187,655)<span >VVIC />
+,
+[34] (269,655)<a class='notion-link-token notion-enable-hover' href='https://ko.aliexpress.com/?src=google&albch=fbrnd&acnt=304-410-9721&isdl=y&aff_short_key=UneMJZVf&albcp=20758378539&albag=152342056021&slnk=&trgt=kwd-464269150044&plac=&crea=680391421433&netw=g&device=c&mtctp=p&memo1=&albbt=Google_7_fbrnd&aff_platform=google&albagn=888888&isSmbActive=false&isSmbAutoCall=false&needSmbHouyi=false&gad_source=1&gclid=CjwKCAiA0PuuBhBsEiwAS7fsNXEEQaSfGoerXxPSRmxHlkBTAtEsHJBGS9GQkDF_2sGPVkGWLiPuuBoC_KoQAvD_BwE&gatewayAdapt=glo2kor' />
+	[35] (269,655)<span >알리익스프레스 />
+,
+[36] (348,655)<a class='notion-link-token notion-enable-hover' href='https://www.temu.com/' />
+	[37] (348,655)<span >테무 />
+,
+[38] (396,655)<a class='notion-link-token notion-enable-hover' href='https://www.rakuten.co.jp/?l-id=header_global_logo' />
+	[39] (396,655)<span >라쿠텐 />
+(라쿠텐 패션, 북스 제외), 아마존 10개국(중국, 브라질 제외),
+[40] (514,668)<a class='notion-link-token notion-enable-hover' href='https://domeggook.com/main/' />
+	[41] (514,668)<span >도매꾹 />
+,
+[42] (234,682)<a class='notion-link-token notion-enable-hover' href='https://domemedb.domeggook.com/index/' />
+	[43] (234,682)<span >도매매 />
+,
+[44] (297,682)<a class='notion-link-token notion-enable-hover' href='https://www.ownerclan.com/' />
+	[45] (297,682)<span >오너클랜 />
+입니다.
+소싱몰은 추후 지속적으로 추가 예정이니 참고해 주세요.
+AI 전세계 상품 수집 방식에서 지원하는 소싱몰
+AI 전세계 상품 수집은 전세계 어떤 사이트든 수집을 요청할 수 있어요.
+자세한 기능 안내는
+[46] (299,886)<a class='notion-link-token notion-enable-hover' href='https://bit.ly/4b7XSPf' />
+	[47] (299,886)<span >이곳(링크) />
+을 클릭해서 확인해 보세요!
+직접 수집 방식에서 지원하는 소싱몰
+
+</current_dom>

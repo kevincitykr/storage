@@ -1,0 +1,95 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (272,-43)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[1] (88,97)<a class='imgbox' href='javascript:detail_show('953528')' title='[제품코드:953528]' />
+	[2] (236,173)<a class='imgbox' href='javascript:detail_show('953528')'>[ASRock] H610M-HDV/M.2 R2.0 D4 에즈윈 벌크 (인텔H610/M-ATX) [953528]
+인텔 H610 / 인텔(소켓1700) / DDR4 / VGA 연결: PCIe4.0 x16 / M-ATX (22.0x19.3cm) / 전원부: 7페이즈 / [메모리] 3200MHz (PC4-25600) / 2개 / 메모리 용량: 최대 64GB / XMP / [확장슬롯] PCIe버전: PCIe4.0, PCIe3.0 / PCIex16: 1개 / PCIex1: 1개 / [저장장치] M.2: 1개 / SATA3: 4개 / M.2 연결: PCIe , NVMe / [후면단자] HDMI / DP / D-SUB / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입: 6개 / [랜/오디오] 유선랜 칩셋: Realtek RTL8111H / 1Gbps / RJ-45: 1개 / 오디오 칩셋: Realtek ALC897/887 / 7.1채널(8ch) / [내부I/O] USB/팬 헤더: USB3.0 헤더 , USB2.0 헤더 / 시스템팬 4핀: 1개 / I/O 헤더: TPM 헤더 / [특징] UEFI />
+		[ASRock] H610M-HDV/M.2 R2.0 D4 에즈윈 벌크 (인텔H610/M-ATX) [953528]
+	쿠폰
+	판매가격
+	87,900
+	[3] (453,195)<a class='buttons' href='javascript:select_basket('953528','N',1);' id='basket953528' />
+		[4] (453,195)<span >담기 />
+	[MSI] PRO H610M-E DDR4 (인텔H610/M-ATX) [963948]
+	인텔(소켓1700) / 인텔 H610 / M-ATX (23.6x20cm) / 메모리 DDR4 / 3200MHz (PC4-25600) / 2개 / 메모리 용량: 최대 64GB / 확장슬롯 VGA 연결: PCIe4.0 x16 / PCIe버전: PCIe4.0, PCIe3.0 / PCIex16: 1개 / PCIex1: 1개 / 저장장치 M.2: 1개 / SATA3: 4개 / M.2 연결: PCIe , NVMe / 후면단자 HDMI / D-SUB / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입: 6개 / 랜/오디오 유선랜 칩셋: Realtek RTL8111H / 1Gbps / RJ-45: 1개 / 오디오 칩셋: Realtek ALC897 / 7.1채널(8ch) / 내부I/O I/O 헤더: USB3.0 헤더 , USB2.0 헤더 , RGB 12V 4핀 헤더 , TPM 헤더 / 시스템팬 4핀: 2개 / USB2.0 헤더: 2개 / USB3.0 헤더: 1개 / 특징 UEFI
+	후기
+	판매가격
+	88,000
+	담기
+	[MSI] PRO B650M-P (AMD B650/M-ATX) [1028287]
+	AMD(소켓AM5) / AMD B650 / DDR5 / VGA 연결: PCIe4.0 x16 / M-ATX (24.4x24.4cm) / 전원부: 9페이즈 / [메모리] 7200MHz (PC5-57600) / 4개 / 메모리 용량: 최대 256GB / EXPO / [확장슬롯] PCIe버전: PCIe4.0, PCIe3.0 / PCIex1: 2개 / [저장장치] M.2: 2개 / SATA3: 4개 / M.2 연결: PCIe4.0, NVMe / [후면단자] HDMI / DP / D-SUB / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입: 8개 / 유선랜 칩셋: Realtek RTL8125B / 2.5Gbps / RJ-45: 1개 / 오디오 칩셋: Realtek ALC897 / 7.1채널(8ch) / [내부I/O] USB/팬 헤더: USB3.0 헤더 , USB2.0 헤더 , USB3.1 Type C 헤더, RGB 12V 4핀 헤더 , ARGB 5V 3핀 헤더 , 펌프전용 헤더 / 시스템팬 4핀: 3개 / [특징] 전원부 방열판 / UEFI
+	가산점 현장구매 가능 상품
+	후기
+	판매가격
+	125,130
+	담기
+[5] (140,372)<a class='num on' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',0,1);'>1 />
+[6] (165,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',50,2);'>2 />
+[7] (191,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',100,3);'>3 />
+[8] (217,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',150,4);'>4 />
+[9] (242,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',200,5);'>5 />
+[10] (268,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',250,6);'>6 />
+[11] (294,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',300,7);'>7 />
+[12] (319,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',350,8);'>8 />
+[13] (345,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',400,9);'>9 />
+[14] (371,372)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',450,10);'>10 />
+[15] (400,372)<a class='next' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1013','','recommand','','','N|N',500,11);' />
+[16] (271,546)<a href='../get_price/get_price.htm' />
+	[17] (271,546)<img  />
+[18] (729,546)<a href='../exc_event/discount_PC.htm' />
+	[19] (729,546)<img  />
+[20] (99,760)<a href='../company/index.htm' title='회사소개'>회사소개 />
+[21] (154,760)<a href='../company2013/new_user_agreement.htm' title='이용약관'>이용약관 />
+[22] (210,760)<a href='../customer_manager/partner.htm' title='입점신청'>입점신청 />
+[23] (282,760)<a href='../company2013/new_privacy_policy.htm' title='개인정보처리방침'>개인정보처리방침 />
+[24] (367,760)<a title='청소년보호정책'>청소년보호정책 />
+[25] (431,760)<a href='../customer_manager/customer_login.htm' title='협력사'>협력사 />
+[26] (482,760)<a >광고안내 />
+[27] (546,760)<a href='../company/location.htm' title='찾아오시는길'>찾아오시는길 />
+[28] (615,760)<a href='javascript:void(0)' title='앱 다운로드'>앱 다운로드 />
+㈜ 컴퓨존
+대표이사 : 노인호
+｜
+사업자등록번호 : 106-81-83458
+[29] (320,835)<a class='btn' href='javascript:window_open('http://www.ftc.go.kr/bizCommPop.do?wrkr_no=1068183458','980','620','scrollbars=yes','');'>사업자정보확인 />
+서울특별시 금천구 벚꽃로 278 SJ테크노빌
+｜
+E-mail :
+[30] (305,866)<a href='javascript:cozmail();'>coz_help@compuzone.co.kr />
+｜
+호스팅 제공자 : (주)컴퓨존
+｜
+개인정보보호책임자 : 김종석
+통신판매업신고 : 제 2026-서울금천-0667호
+｜
+분쟁조정기관 : 소비자보호원, 전자거래분쟁중재위원회
+｜
+에스크로 구매안전 서비스 이용가능
+[31] (580,895)<a class='btn' href='javascript:window_open('https://consumer.tosspayments.com/escrow/detail?mertid=compuzone','535','780','scrollbars=yes','');'>자세히보기 />
+[방문상담·구매·A/S]
+가산점:서울특별시 금천구 벚꽃로 278 SJ테크노빌/ 용산점: 서울특별시 용산구 원효로58길 1
+[32] (485,925)<a class='btn' href='javascript:window_open('../delivery_info/businesshours.htm','770','520','scrollbars=no','');'>영업시간 안내 />
+[택배A/S접수]
+서울특별시 금천구 벚꽃로 278 SJ테크노빌 3층 서비스팀
+｜
+[고객센터]
+1588-8377 (팩스번호 02-718-8276)
+고객의소리
+문자상담
+[33] (887,848)<a href='javascript:window_open('https://consumer.tosspayments.com/escrow/detail?mertid=compuzone','535','780','scrollbars=yes','');' />
+	[34] (887,848)<span  />
+[35] (815,848)<a  />
+[36] (733,848)<a  />
+	[37] (733,848)<span  />
+[38] (646,848)<a  />
+	[39] (646,848)<span  />
+[40] (869,915)<a href='../company/index.htm' />
+	[41] (869,915)<span  />
+[42] (766,915)<a href='../company/index.htm' />
+	[43] (766,915)<span  />
+[44] (677,915)<a href='javascript:window_open('../pop_page/itpp_pop.htm','908','680','scrollbars=no','');' />
+	[45] (677,915)<span  />
+
+</current_dom>

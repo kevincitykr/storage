@@ -1,0 +1,142 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (451,377)<div class='z-10 absolute scroll-bar flex flex-col bg-white w-full shadow-md rounded-sm h-96 overflow-y-scroll' scrollable='true' />
+	최근 검색어
+	[4] (587,154)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+		[5] (587,154)<span >전체삭제 />
+		[6] (587,166)<div  />
+	[7] (333,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[8] (333,227)<span >13700 4... />
+	[9] (418,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[10] (418,227)<span >13700 4... />
+	[11] (503,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[12] (503,227)<span >13700 4... />
+	[13] (331,308)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[14] (331,308)<span >i7 1370... />
+	[15] (414,308)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[16] (414,308)<span >13700 4... />
+	[17] (499,308)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[18] (499,308)<span >14700 4... />
+	[19] (333,388)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[20] (333,388)<span >14700 4... />
+	[21] (417,388)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[22] (417,388)<span >i7-1370... />
+	[23] (503,388)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[24] (503,388)<span >4070숈퍼 ... />
+	[25] (331,469)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[26] (331,469)<span >i7 1370... />
+	[27] (399,469)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[28] (399,469)<span  />
+	[29] (468,469)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[30] (468,469)<span >4070 i7... />
+	[31] (544,469)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[32] (544,469)<span >13700 />
+	[33] (323,550)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[34] (323,550)<span >4070 />
+	[35] (402,550)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[36] (402,550)<span >4070 슈퍼... />
+	[37] (493,550)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[38] (493,550)<span >4070 슈퍼... />
+	[39] (336,630)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[40] (336,630)<span >4070 본체... />
+	[41] (424,630)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[42] (424,630)<span >4070 14... />
+	[43] (509,630)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+		[44] (509,630)<span >4070 13... />
+	14700
+	최근 가게 검색어
+	최근 검색 내역이 없습니다.
+1
+.
+9800x3d
+2
+.
+5090
+3
+.
+오메가
+4
+.
+더캐시미어
+5
+.
+아이폰
+[45] (666,69)<a href='/search/13700%204070%20%EB%B3%B8%EC%B2%B4?openChat=true' />
+	[46] (666,69)<div  />
+		[47] (649,69)<div  />
+			[48] (649,69)<img  />
+		[49] (675,69)<span >채팅하기 />
+[50] (732,69)<a href='/product/form?type=regist' />
+	[51] (732,69)<div  />
+		[52] (715,69)<div  />
+			[53] (715,69)<img  />
+		[54] (741,69)<span >판매하기 />
+[55] (790,69)<a href='/mystore' />
+	[56] (790,69)<div  />
+		[57] (781,69)<div  />
+			[58] (781,69)<img  />
+		[59] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+추천순
+최신순
+낮은가격순
+높은가격순
+1
+자세히 알아보기
+[60] (222,324)<span >남성 의류 />
+[61] (792,324)<span  />
+[62] (232,410)<span >충전기 케이블 />
+[63] (792,410)<span  />
+[64] (222,497)<span >도서 음반 />
+[65] (792,497)<span  />
+새 상품은 어떠세요?
+AD
+[66] (229,913)<a aria-label='쇼핑 - 1 번째 상품 게이밍컴퓨터 조립PC 데스크탑 본체 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8501160855&itemId=24608820937&vendorItemId=92610184402&traceid=V0-153-30e68e94cb3373ed&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[67] (229,913)<div  />
+		[68] (229,838)<div  />
+			[69] (229,838)<div  />
+		[70] (229,992)<span >게이밍컴퓨터 조립PC 데스크탑 본체 />
+[71] (337,913)<a aria-label='쇼핑 - 2 번째 상품 달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC, 윈도우 11 홈, 1TB, 32GB, 지포스 RTX 4070 Ti, i7 13700F 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9021949384&itemId=26454002571&vendorItemId=93429399295&traceid=V0-153-61940f082604befc&clickBeacon=d16e6b20-494d-11f1-9fad-6a1f09df0d21%7E3&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[72] (337,913)<div  />
+		[73] (337,838)<div  />
+			[74] (337,838)<div  />
+		[75] (337,992)<span >달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC, 윈도우 11 홈, 1TB, 32GB, 지포스 RTX 4070 Ti, i7 13700F />
+[76] (446,913)<a aria-label='쇼핑 - 3 번째 상품 조립 컴퓨터 조립PC 게이밍 고사양 게임용 본체 롤 오버워치 메이플 배틀그라운드 팰월드 디아블로 피파 로아 마인크래프트 로블록스 호라이즌 컴퓨터본체 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8887484689&itemId=25947037099&vendorItemId=92877629355&traceid=V0-153-41c83bbb9eae21d2&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[77] (446,913)<div  />
+		[78] (446,838)<div  />
+			[79] (446,838)<div  />
+		조립 컴퓨터 조립PC 게이밍 고사양 게임용 본체 롤 오버워치 메이플 배틀그라운드 팰월드 디아블로 피파 로아 마인크래프트 로블록스 호라이즌 컴퓨터본체
+[80] (554,913)<a aria-label='쇼핑 - 4 번째 상품 i7 갓성비 대용량 듀얼하드 장착 게이밍 컴퓨터 배그 디아블로4 발로란트 롤 팰월드 발로란트 로블록스 오버워치2 조립 데스크탑 디자인 포토샵 데스크탑 본체 PC 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=7830109112&itemId=21294015388&vendorItemId=94111628504&traceid=V0-153-cbc80227c70df283&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[81] (554,913)<div  />
+		[82] (554,838)<div  />
+			[83] (554,838)<div  />
+		i7 갓성비 대용량 듀얼하드 장착 게이밍 컴퓨터 배그 디아블로4 발로란트 롤 팰월드 발로란트 로블록스 오버워치2 조립 데스크탑 디자인 포토샵 데스크탑 본체 PC
+[84] (663,913)<a aria-label='쇼핑 - 5 번째 상품 에스티컴퓨터 2025 게임용 조립PC 라이젠7 라이젠 9000 시리즈 라데온 RX 9070 XT 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9307525549&itemId=27576876157&vendorItemId=93594555455&traceid=V0-153-c7082fd8c42b82cc&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[85] (663,913)<div  />
+		[86] (663,838)<div  />
+			[87] (663,838)<div  />
+		[88] (663,992)<span >에스티컴퓨터 2025 게임용 조립PC 라이젠7 라이젠 9000 시리즈 라데온 RX 9070 XT />
+[89] (771,913)<a aria-label='쇼핑 - 6 번째 상품 구스페리 열전도율 17.8w/mk CPU 써멀구리스 4g 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9296755657&itemId=27537533368&vendorItemId=94502023421&traceid=V0-153-d2ca3fc906286ec1&requestid=20260506221639946241250224&token=31850C%7CMIXED' />
+	[90] (771,913)<div  />
+		[91] (771,838)<div  />
+			[92] (771,838)<div  />
+		[93] (771,992)<span >구스페리 열전도율 17.8w/mk CPU 써멀구리스 4g />
+[94] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[95] (854,907)<div  />
+		[96] (903,907)<div  />
+[97] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[98] (902,799)<span  />
+
+</current_dom>

@@ -1,0 +1,26 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (27,51)<a aria-label='(tabs), back' class='css-g5y9jx r-1otgn73 r-1awozwy r-1onu96p r-1dzdj1l r-18u37iz r-n5f61p r-jdiy1a r-60vfwk r-1e084wi' href='/' role='link' />
+	[1] (27,51)<div  />
+		[2] (27,51)<img  />
+index
+퇴근길 간식 기억하기
+현재 점수:
+0
+움직이는 간식의 순서를 기억하세요!
+[3] (413,535)<div class='css-g5y9jx r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-1h84pjw r-1ramspy r-1pi2tsx r-1777fci r-13qz1uu' />
+	[4] (413,514)<div >🍎 />
+	[5] (413,579)<div >사과 />
+[6] (587,535)<div class='css-g5y9jx r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-1h84pjw r-1ramspy r-1pi2tsx r-1777fci r-13qz1uu' />
+	[7] (587,514)<div >🍦 />
+	[8] (587,579)<div >아이스크림 />
+[9] (413,801)<div class='css-g5y9jx r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-1h84pjw r-1ramspy r-1pi2tsx r-1777fci r-13qz1uu' />
+	[10] (413,780)<div >🍩 />
+	[11] (413,845)<div >도넛 />
+[12] (587,801)<div class='css-g5y9jx r-1i6wzkk r-lrvibr r-1loqt21 r-1otgn73 r-1awozwy r-1h84pjw r-1ramspy r-1pi2tsx r-1777fci r-13qz1uu' />
+	[13] (587,780)<div >🍈 />
+	[14] (587,845)<div >멜론 />
+
+</current_dom>

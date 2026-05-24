@@ -1,0 +1,68 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,36)<button class='_top-banner-large-content_z6lgp_39' />
+		[2] (390,36)<img  />
+		[3] (510,36)<span  />
+			[4] (503,36)<span >앱을 다운로드하고 더 편리한 번개장터를 만나보세요! />
+	[5] (974,36)<button class='_top-banner-large-close_z6lgp_57' />
+	[6] (129,123)<a href='/' />
+		[7] (129,123)<img  />
+	[8] (350,123)<form  />
+		[9] (350,123)<input class='_input_au7f1_17' placeholder='상품명이나 상점명을 검색해주세요' />
+		[10] (497,123)<button class='_reset-button_au7f1_35' />
+	[11] (861,123)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxClassNames_flexShrink__7nn0kn30' href='/login?header=true' />
+		[12] (861,123)<button class='_button_1cw4e_1 _variant-normal_1cw4e_53 _size-M_1cw4e_93' />
+			[13] (861,123)<span >로그인/회원가입 />
+	[14] (124,215)<button  />
+		[15] (124,215)<div  />
+			[16] (132,215)<span >카테고리 />
+	[17] (200,215)<a href='/categories/700' />
+		[18] (200,214)<span >스포츠/레저 />
+	[19] (267,215)<a href='/categories/910' />
+		[20] (267,214)<span >스타굿즈 />
+	[21] (322,215)<a href='/categories/600' />
+		[22] (322,214)<span >디지털 />
+	[23] (372,215)<a href='/categories/930' />
+		[24] (372,214)<span >키덜트 />
+	[25] (427,215)<a href='/categories/310' />
+		[26] (427,214)<span >여성의류 />
+	[27] (814,215)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 _outlink-item_j2slt_1' href='https://mercari.bunjang.co.kr' />
+		[28] (808,215)<span >메루카리 />
+	[29] (877,215)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 _outlink-item_j2slt_1' href='https://seller.bunjang.co.kr' />
+		[30] (871,215)<span >판매자센터 />
+	최근본상품이
+	없어요.
+	[31] (500,502)<img  />
+	[32] (882,685)<div  />
+		2
+		/
+		8
+	[33] (301,874)<button  />
+		[34] (301,874)<div  />
+			[35] (301,852)<img  />
+			[36] (301,948)<span >찜 />
+	[37] (381,874)<button  />
+		[38] (381,874)<div  />
+			[39] (381,852)<img  />
+			[40] (381,948)<span >최근본상품 />
+	[41] (460,874)<a href='https://purchase.bunjang.co.kr/price-trend/phone' />
+		[42] (460,874)<div >내폰시세 />
+			[43] (460,852)<img  />
+			내폰시세
+	[44] (540,874)<a href='/categories/700' />
+		[45] (540,874)<div >스포츠 />
+			[46] (540,852)<img  />
+			스포츠
+	[47] (619,874)<a href='/categories/600' />
+		[48] (619,874)<div  />
+			[49] (619,852)<img  />
+			[50] (619,948)<span >디지털 />
+	[51] (699,874)<a href='/categories/910' />
+		[52] (699,874)<div  />
+			[53] (699,852)<img  />
+			[54] (699,948)<span >스타굿즈 />
+
+</current_dom>

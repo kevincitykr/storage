@@ -1,0 +1,116 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,76)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjZmvqGgKOUAxWIoK8BHT0hE60QPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,75)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,75)<div  />
+	[3] (561,75)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,75)<span  />
+	[5] (577,75)<span  />
+[6] (593,75)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,75)<span  />
+[8] (619,75)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,75)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,75)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,75)<div  />
+		[12] (670,75)<span  />
+[13] (943,75)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.jp/intl/ko/about/products?tab=wh' role='button' />
+[14] (974,75)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Di7-13700F%2BRTX%2B4070%2B%2522140%25EB%25A7%258C%2522%2B%25EC%25A4%2591%25EA%25B3%25A0%25EB%2582%2598%25EB%259D%25BC&ec=futura_srp_og_si_72236_p' role='button' />
+[15] (156,164)<a class='XVMlrc C6AK7c' href='/search?q=i7-13700F+RTX+4070+%22140%EB%A7%8C%22+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sca_esv=7f321bca7b936533&sxsrf=ANbL-n6ZPHccTkAiuTVVbySSiqfDSlgoGg:1778013395919&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkURtdZHedRsBfFQ9A1osweYH1tRNU6a_yxa5AAR2P-wIQGvTxAb4Oytop4IlfJAo0QUADsfLsjK5LDCNkFS02gLzMGpLl6eT8X4K6qsrB-TlUK_06ZAC4mB6ZkHNKd7ZQy1Y-_v8lLgaacE1vQgezLznWkCRktLqlFzqczQ6AhHrrmTfFQ&aep=1&ntc=1&sa=X&ved=2ahUKEwjZmvqGgKOUAxWIoK8BHT0hE60Q2J8OegQIERAD' />
+	[16] (156,164)<div  />
+		[17] (156,177)<div  />
+			[18] (156,169)<span  />
+				[19] (156,169)<span >AI 모드 />
+[20] (194,164)<a class='C6AK7c' role='link' />
+	전체
+[21] (226,164)<a class='C6AK7c' href='/search?sca_esv=7f321bca7b936533&sxsrf=ANbL-n6ZPHccTkAiuTVVbySSiqfDSlgoGg:1778013395919&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkURtdZHedRsBfFQ9A1osweYH1tRNU6a_yxa5AAR2P-wIQGvTxAb4Oytop4IlfJAo0QUADsfLsjK5LDCNkFS02gLzMGpLl6eT8X4K6qsrB-TlUK_06ZAC4mB6ZkHNKd7ZQy1Y-_v8lLgaacE1vQgezLznWkCRktLqlFzqczQ6AhHrrmTfFQ&q=i7-13700F+RTX+4070+%22140%EB%A7%8C%22+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&ved=1t:220175&ictx=111' />
+	[22] (226,164)<div  />
+		[23] (226,177)<span >쇼핑 />
+[24] (263,164)<a class='C6AK7c' href='/search?sca_esv=7f321bca7b936533&sxsrf=ANbL-n6ZPHccTkAiuTVVbySSiqfDSlgoGg:1778013395919&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkURtdZHedRsBfFQ9A1osweYH1tRNU6a_yxa5AAR2P-wIQGvTxAb4Oytop4IlfJAo0QUADsfLsjK5LDCNkFS02gLzMGpLl6eT8X4K6qsrB-TlUK_06ZAC4mB6ZkHNKd7ZQy1Y-_v8lLgaacE1vQgezLznWkCRktLqlFzqczQ6AhHrrmTfFQ&q=i7-13700F+RTX+4070+%22140%EB%A7%8C%22+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sa=X&ved=2ahUKEwjZmvqGgKOUAxWIoK8BHT0hE60QtKgLegQIGBAB' />
+	[25] (263,164)<div  />
+		[26] (263,177)<span >동영상 />
+[27] (313,164)<a class='C6AK7c' href='/search?sca_esv=7f321bca7b936533&sxsrf=ANbL-n6ZPHccTkAiuTVVbySSiqfDSlgoGg:1778013395919&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkURtdZHedRsBfFQ9A1osweYH1tRNU6a_yxa5AAR2P-wIQGvTxAb4Oytop4IlfJAo0QUADsfLsjK5LDCNkFS02gLzMGpLl6eT8X4K6qsrB-TlUK_06ZAC4mB6ZkHNKd7ZQy1Y-_v8lLgaacE1vQgezLznWkCRktLqlFzqczQ6AhHrrmTfFQ&q=i7-13700F+RTX+4070+%22140%EB%A7%8C%22+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sa=X&ved=2ahUKEwjZmvqGgKOUAxWIoK8BHT0hE60Qs6gLegQIFxAB' />
+	[28] (313,164)<div  />
+		[29] (313,177)<span >짧은 동영상 />
+[30] (364,164)<a class='C6AK7c' href='/search?sca_esv=7f321bca7b936533&sxsrf=ANbL-n6ZPHccTkAiuTVVbySSiqfDSlgoGg:1778013395919&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkURtdZHedRsBfFQ9A1osweYH1tRNU6a_yxa5AAR2P-wIQGvTxAb4Oytop4IlfJAo0QUADsfLsjK5LDCNkFS02gLzMGpLl6eT8X4K6qsrB-TlUK_06ZAC4mB6ZkHNKd7ZQy1Y-_v8lLgaacE1vQgezLznWkCRktLqlFzqczQ6AhHrrmTfFQ&q=i7-13700F+RTX+4070+%22140%EB%A7%8C%22+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&sa=X&ved=2ahUKEwjZmvqGgKOUAxWIoK8BHT0hE60QtKgLegQIFhAB' />
+	[31] (364,164)<div  />
+		[32] (364,177)<span >이미지 />
+[33] (400,164)<a class='C6AK7c' href='/search?sca_esv=7f321bca7b936533&sxsrf=ANbL-n6ZPHccTkAiuTVVbySSiqfDSlgoGg:1778013395919&q=i7-13700F+RTX+4070+%22140%EB%A7%8C%22+%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkURtdZHedRsBfFQ9A1osweYH1tRNU6a_yxa5AAR2P-wIQGvTxAb4Oytop4IlfJAo0QUADsfLsjK5LDCNkFS02gLzMGpLl6eT8X4K6qsrB-TlUK_06ZAC4mB6ZkHNKd7ZQy1Y-_v8lLgaacE1vQgezLznWkCRktLqlFzqczQ6AhHrrmTfFQ&sa=X&ved=2ahUKEwjZmvqGgKOUAxWIoK8BHT0hE60Q0pQJegQIFRAB' />
+	[34] (400,164)<div  />
+		[35] (400,177)<span >뉴스 />
+[36] (443,164)<div class='mTpL7c' role='button' />
+	[37] (443,164)<div  />
+		[38] (443,177)<div  />
+			[39] (437,169)<span >더보기 />
+			[40] (455,169)<span  />
+[41] (491,164)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,164)<div  />
+		[43] (491,177)<div  />
+			[44] (485,169)<span >도구 />
+			[45] (499,169)<span  />
+검색결과
+AI 개요
+[46] (852,265)<div aria-label='검색결과에 관한 정보' class='Mtffrd' role='button' />
+i7-13700F와 RTX 4070 조합의 중고 가격 140만 원은
+사양 대비 매우 저렴한 편
+입니다. 일반적인 시장 시세와 비교해 보았습니다.
+현재 시세:
+2024~2025년 기준, i7-13700F + RTX 4070 조합의 중고가는 보통 160~190만 원 선에서 형성됩니다.
+140만 원의 의미:
+급매/초특가:
+판매자가 빠른 판매를 위해 가격을 낮춘 경우입니다.
+부품 구성 확인:
+파워서플라이, 메인보드, SSD 등의 사양이 낮거나(저가형 보드), 채굴(그래픽카드) 이력이 있을 수 있습니다.
+주의사항 (중고나라 거래 시):
+사기 주의:
+140만 원은 시세보다 확연히 낮으므로, 안전거래(네이버 페이 등)를 사용하지 않거나 지나치게 입금을 요구하는 경우 피하세요.
+직거래 권장:
+직접 만나서 부품 구성을 확인하고, 벤치마크(3DMark 등)를 돌려보고 구매하세요.
+박스 유무:
+주요 부품(CPU, GPU)의 박스나 보증서가 있는지 확인하세요.
+결론:
+정상 제품이라면
+매우 좋은 가격
+이나, 사기 위험이 있으니 직거래 및 부품 검수를 철저히 해야 합니다.
+[47] (719,403)<a aria-label='i7 PC조립 : 다나와 통합검색. 새 탭에서 열립니다.' class='NDNGvf' href='https://search.danawa.com/dsearch.php?query=i7%20PC%EC%A1%B0%EB%A6%BD' />
+i7 PC조립 : 다나와 통합검색
+140만 원 이하 140만 원~190만 원 190만 원~260만 원 260만 원~360만 원 360만 원 .
+search.danawa.com
+[48] (842,468)<div aria-label='검색 결과 정보' class='xXnAhe' id='snui-atr-1FT6ab6JHP2Wvr0P-s6-8Qs_8' role='button' />
+[49] (500,731)<div aria-label='AI 개요 더보기' class='Jzkafd' role='button' />
+	[50] (348,731)<div  />
+		[51] (348,731)<div >더보기 />
+			더보기
+			[52] (363,731)<span  />
+웹 검색결과
+[53] (219,899)<a class='zReHs' href='https://search.danawa.com/dsearch.php?query=i7%20PC%EC%A1%B0%EB%A6%BD' />
+	[54] (219,927)<h3 >i7 PC조립 : 다나와 통합검색 />
+	[55] (219,876)<div  />
+		[56] (219,876)<div  />
+			[57] (151,876)<span  />
+				[58] (151,876)<div  />
+					[59] (151,876)<img  />
+			[60] (232,876)<div  />
+				[61] (232,863)<div  />
+					[62] (232,863)<span >danawa.com />
+				[63] (232,891)<div  />
+					[64] (232,891)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://search.danawa.com />
+						[65] (278,890)<span class='ylgVCe ob9lvb' role='text'>› dsearch />
+[66] (309,889)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[67] (309,889)<span  />
+		[68] (309,891)<span  />
+140만
+원 이하
+140만
+원~190만 원 190만 원~260만 원 260만 원~360만 원 360만 원 ...
+중고
+본체
+i7 13700F
+RTX3060 게이밍 컴퓨터 PC J378. 1,429,000원. 무료배송.
+
+</current_dom>

@@ -1,0 +1,157 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (398,45)<tr  />
+	[1] (151,45)<a aria-label='.gitignore, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/.gitignore' title='.gitignore'>.gitignore />
+	[2] (462,45)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/6333ca91b411104450b11d5cdebc78a071c08cda' title='🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트
+
+- 에이전트 코어: 파일 생성, 코드 편집, 터미널 실행
+- 프리미엄 UI: 글래스모피즘, shimmer 로딩, 구문 강조
+- Cmd+L 포커스, 코드 설명(우클릭), 대화 내보내기
+- VS Code Settings 통합 (Ollama URL, 모델, 타임아웃)
+- 대화 기록 영구 저장 (workspaceState)
+- 멀티파일 프로젝트 컨텍스트 자동 분석'>🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트 />
+[3] (398,104)<tr  />
+	[4] (160,103)<a aria-label='.vscodeignore, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/.vscodeignore' title='.vscodeignore'>.vscodeignore />
+	[5] (483,103)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/b795f705d14fb9887e680d87299606cbae7d1eb9' title='feat(2.10.0): obsidian-style brain graph + live synapse visualization
+
+- fix: #graph div was zero-sized (no css), so canvas never rendered;
+  now absolute-fills + ForceGraph gets explicit width/height up front.
+- design: obsidian-grade hierarchy — hubs scale up, leaves stay small,
+  labels fade with zoom (hubs/active/used always visible).
+- visualize search: while AI reads a note it pulses electric cyan,
+  1-hop neighbors get a ghost glow, adjacent links speed up their
+  particles. Used notes leave a warm-amber trail across the session.
+- palette: desaturated folder colors + softer link tones + subtle
+  vignette so the constellation reads as a brain, not a christmas tree.
+- forces: hubs repel harder for cleaner cluster centers; tag links
+  weakened so they don't dominate layout.
+- vsix hygiene: .vscodeignore now excludes .claude, .secondbrain,
+  ARCHITECTURE.md so private data doesn't ship.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>'>feat(2.10.0): obsidian-style brain graph + live synapse visualization />
+[6] (398,162)<tr  />
+	[7] (171,162)<a aria-label='ARCHITECTURE.md, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/ARCHITECTURE.md' title='ARCHITECTURE.md'>ARCHITECTURE.md />
+	[8] (469,162)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/947b5a381224d692ca97cf224f85347b40f656f6' title='fix: bundle force-graph locally to fix WebView CSP blocking'>fix: bundle force-graph locally to fix WebView CSP blocking />
+[9] (398,221)<tr  />
+	[10] (149,221)<a aria-label='LICENSE, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/LICENSE' title='LICENSE'>LICENSE />
+	[11] (499,221)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/23122feaca8cb40c9d848aac9b747b6bf9638b44' title='chore: Rename Connect AI LAB to Connect AI and bump version to v1.0.12'>chore: Rename Connect AI LAB to Connect AI and bump version to v1.0.12 />
+[12] (398,280)<tr  />
+	[13] (157,280)<a aria-label='README.md, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/README.md' title='README.md'>README.md />
+	[14] (498,280)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/4881a08e6cf27a8d2aac34fa744c314ed32f8e16' title='docs: restructure README.md for v2.1.30 P-Reinforce and Agent University integration'>docs: restructure README.md for v2.1.30 P-Reinforce and Agent Univers… />
+[15] (398,338)<tr  />
+	[16] (160,338)<a aria-label='brain-viz.html, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/brain-viz.html' title='brain-viz.html'>brain-viz.html />
+	[17] (449,338)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/85e1a4a778060b30165d2ede238b068095018a85' title='chore: add visualizer draft template to workspace'>chore: add visualizer draft template to workspace />
+[18] (398,397)<tr  />
+	[19] (175,397)<a aria-label='idea1_script_draft.md, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/idea1_script_draft.md' title='idea1_script_draft.md'>idea1_script_draft.md />
+	[20] (449,397)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/a7bd30000d24de4dfce6bfa71e747745972da3a4' title='Add idea1 script draft and update claude settings'>Add idea1 script draft and update claude settings />
+[21] (398,456)<tr  />
+	[22] (168,456)<a aria-label='package-lock.json, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/package-lock.json' title='package-lock.json'>package-lock.json />
+	[23] (490,456)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/82b986f95d3d1550c89b92ab105149973cae215c' title='revert(2.9.1): drop Antigravity vscode.lm integration — wasn't actually exposed
+
+Tested v2.9.0 in Antigravity: vscode.lm.selectChatModels() returns nothing.
+Antigravity does not register its built-in models (Gemini, Claude) through
+the standard VS Code Language Model API after all. So the ⚡ group was
+permanently empty and the dispatch code was dead.
+
+Rather than ship a feature that does nothing while pretending to, reverting
+the entire integration. Status returns to v2.8.4 — local Ollama / LM Studio
+models only, exactly as they were before.
+
+What got rolled back
+- engines.vscode: ^1.95.0 → ^1.80.0 (back to broad VS Code support)
+- @types/vscode: ~1.95.0 → ^1.80.0
+- Removed _streamViaLanguageModelApi() method
+- Removed `lm:`-prefix dispatch in _handlePrompt and _handlePromptWithFile
+- _sendModels() back to flat string[] payload
+- Webview dropdown back to plain <option> list (no <optgroup>)
+
+What stays unchanged
+- Brain menu redesign (지식 공간 terminology + 삭제 submenu) from v2.8.4
+- Status bar, Thinking Mode, citation badges, real graph, terminal capture
+- All v2.8.x improvements
+
+Path forward
+- Either find Antigravity's actual model API (research needed)
+- Or wire up a direct Gemini/Claude API key path (user provides their own key)
+- Or stay local-only and pour the effort into the orchestra Phase 2 instead
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>'>revert(2.9.1): drop Antigravity vscode.lm integration — wasn't actual… />
+[24] (398,515)<tr  />
+	[25] (158,514)<a aria-label='package.json, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/package.json' title='package.json'>package.json />
+	[26] (485,514)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/f2311c6aba617396c631f151e29e3060db511a67' title='fix(2.12.5): bridge server failures now surface instead of going silent
+
+http.createServer + server.listen reports failures via the 'error' event,
+not via throw — so the prior try/catch could not catch EADDRINUSE or
+permission errors. The bridge then silently never bound port 4825 and
+external tools (EZER / A.U Training) saw net::ERR_FAILED with zero
+indication on the IDE side.
+
+Now:
+- server.on('error') emits a vscode error toast with a specific message
+  (EADDRINUSE → "포트 이미 사용 중, 재시작 필요"; other → raw error).
+- server.listen success path posts a 4-second status-bar confirmation
+  "🟢 Connect AI Bridge: 포트 4825 listening" so the user can verify
+  the bridge is up at IDE startup.
+
+Co-Authored-By: Claude Opus 4.7 (1M context) <noreply@anthropic.com>'>fix(2.12.5): bridge server failures now surface instead of going silent />
+[27] (398,573)<tr  />
+	[28] (172,573)<a aria-label='system_schema.json, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/system_schema.json' title='system_schema.json'>system_schema.json />
+	[29] (451,573)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/7a803148625d45e5d90f4f4d97e78291b081993f' title='feat: Add P-Reinforce 00_Raw Auto-structure logic'>feat: Add P-Reinforce 00_Raw Auto-structure logic />
+[30] (398,632)<tr  />
+	[31] (157,632)<a aria-label='tsconfig.json, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/tsconfig.json' title='tsconfig.json'>tsconfig.json />
+	[32] (462,632)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/6333ca91b411104450b11d5cdebc78a071c08cda' title='🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트
+
+- 에이전트 코어: 파일 생성, 코드 편집, 터미널 실행
+- 프리미엄 UI: 글래스모피즘, shimmer 로딩, 구문 강조
+- Cmd+L 포커스, 코드 설명(우클릭), 대화 내보내기
+- VS Code Settings 통합 (Ollama URL, 모델, 타임아웃)
+- 대화 기록 영구 저장 (workspaceState)
+- 멀티파일 프로젝트 컨텍스트 자동 분석'>🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트 />
+Repository files navigation
+[33] (141,721)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[34] (120,721)<span  />
+	[35] (149,721)<span >README />
+[36] (214,721)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[37] (188,721)<span  />
+	[38] (222,721)<span >MIT license />
+[39] (676,720)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_r_r_' />
+[40] (398,964)<a href='/wonseokjung/connect-ai/blob/main/assets/icon.png' />
+	[41] (398,888)<img  />
+[42] (744,19)<a class='Link Link--muted' href='/wonseokjung/connect-ai/forks'>forks />
+	[43] (742,19)<strong >27 />
+[44] (754,60)<a class='Link--muted' href='/contact/report-content?content_url=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fconnect-ai&report=wonseokjung+%28user%29'>Report repository />
+[45] (749,140)<a class='Link--primary no-underline Link' href='/wonseokjung/connect-ai/releases'>Releases />
+	[46] (770,143)<span >38 />
+[47] (807,209)<a class='Link--primary d-flex no-underline' href='/wonseokjung/connect-ai/releases/tag/v2.10.1' />
+	[48] (789,209)<div  />
+		[49] (789,196)<div  />
+			[50] (772,196)<span >Connect AI v2.10.1 />
+			[51] (829,196)<span >Latest />
+		[52] (789,224)<div  />
+			[53] (751,224)<relative-time  />
+[54] (745,275)<a class='Link' href='/wonseokjung/connect-ai/releases'>+ 37 releases />
+[55] (807,355)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/users/wonseokjung/packages?repo_name=connect-ai'>Packages />
+No packages published
+[56] (807,485)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/wonseokjung/connect-ai/graphs/contributors'>Contributors />
+	[57] (788,485)<span >2 />
+[58] (729,549)<a class='mr-2' href='https://github.com/claude' />
+	[59] (729,549)<img  />
+[60] (773,548)<a class='Link--primary no-underline flex-self-center' href='https://github.com/claude' />
+	[61] (758,548)<strong >claude />
+	[62] (788,548)<span >Claude />
+[63] (729,606)<a class='mr-2' href='https://github.com/wonseokjung' />
+	[64] (729,606)<img  />
+[65] (803,606)<a class='Link--primary no-underline flex-self-center' href='https://github.com/wonseokjung' />
+	[66] (772,606)<strong >wonseokjung />
+	[67] (832,606)<span >Wonseok Jung />
+Languages
+[68] (757,782)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/wonseokjung/connect-ai/search?l=typescript' />
+	[69] (753,782)<span >TypeScript />
+	[70] (784,782)<span >96.9% />
+[71] (836,782)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/wonseokjung/connect-ai/search?l=html' />
+	[72] (834,782)<span >HTML />
+	[73] (855,782)<span >3.1% />
+
+</current_dom>

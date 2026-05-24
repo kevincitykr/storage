@@ -1,0 +1,19 @@
+# Task: Configure Syncthing Ignore Patterns
+
+## Checklist
+- [ ] Go to http://localhost:8384
+- [ ] Edit the folder 'Kevincity Share'
+- [ ] Go to the 'Ignore Patterns' (무시 패턴) tab
+- [ ] Enter ignore patterns: `$Recycle.Bin`, `System Volume Information`, `thumbs.db`, `desktop.ini`
+- [ ] Click 'Save'
+- [ ] Verify 'Failed Items' count decreases
+- [ ] Verify 'upload2601' transfer speed increases
+
+## Notes
+- Folder name: 'Kevincity Share'
+- Device: 'upload2601'
+- Patterns:
+    - $Recycle.Bin
+    - System Volume Information
+    - thumbs.db
+    - desktop.ini

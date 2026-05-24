@@ -1,0 +1,59 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Agent University 웹 플랫폼과 실시간으로 통신합니다.
+웹에서 버튼 한 번 누르는 즉시, 로컬 VS Code의
+4825
+포트를 통해 프리미엄 브레인 팩(Premium Brain Pack) 지식이 로컬 인공지능 뇌(
+~/.connect-ai-brain
+)에 자동 주입되어 신경망을 확장합니다.
+2. 📂 자율 지식 구조화 (Zero-Interaction Styling)
+유저가 던져주는 원시 데이터(Raw Data)를 에이전트가 스스로 판단해
+10_Wiki
+,
+00_Raw
+,
+🚀 Skills
+와 같은 완벽한 P-Reinforce 템플릿 규격의 Markdown 파일로 분할-조립하여 저장합니다.
+3. ☁️ 클라우드 동기화 (Auto-Git Sync 100%)
+로컬 PC에서 파일 생성이 일어나는 순간, 에이전트가 스스로 GitHub 저장소에
+git add
+,
+commit
+,
+push
+를 수행합니다.
+마스터는 이제 지루한 푸시 커맨드를 입력할 필요가 없습니다.
+4. 🔗 설치형 모델 자동 감지 (Dynamic Model Detection)
+Ollama 또는 LM Studio에 설치된 모델을 내부 API(
+v1/models
+)를 호출하여 자동 감지하고, UI의 스위치 보드(드롭다운)에 연결합니다. 어떤 모델을 쓸지 번거롭게 입력하지 마십시오.
+⚒️ Agent Capabilities (에이전트 권한)
+로컬 머신의 파일 시스템과 터미널에 대한 통제권을 인공지능에게 부여합니다. (100% 안전한 권한 승인 기반)
+Action
+Description
+📄 Create Files
+새로운 파일과 폴더를 생성합니다
+✏️ Edit Files
+기존 파일 내의 코드를 수정합니다
+🗑️ Delete Files
+불필요한 파일을 즉각 파쇄합니다
+Released on
+2026. 4. 17. 오후 10:21:20
+Last updated
+2026. 4. 17. 오후 10:27:35
+Publisher
+Connect AI Lab
+Unique Identifier
+connectailab.connect-ai-lab
+Report
+[0] (731,136)<a href='mailto:vsmarketplace@microsoft.com?subject=Report%20abuse%20-%20connectailab.connect-ai-lab&Body=https://marketplace.visualstudio.com/items?itemName=connectailab.connect-ai-lab%0D%0A%3Cplease%20provide%20a%20brief%20description%20of%20the%20issue%3E'>Report a concern />
+[1] (641,205)<a aria-label='share extension on twitter' href='https://www.twitter.com/home?status=Just%20discovered%20this%20on%20the%20%23VSMarketplace%3A%20https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dconnectailab.connect-ai-lab' />
+	[2] (640,198)<img  />
+[3] (662,205)<a aria-label='share extension on facebook' href='https://www.facebook.com/sharer/sharer.php?u=https://marketplace.visualstudio.com/items?itemName=connectailab.connect-ai-lab' />
+	[4] (660,198)<img  />
+[5] (681,205)<a aria-label='share extension on email' href='mailto:?subject=Check%20out%20-%20Connect%20AI%20for%20Visual%20Studio%20Code&Body=Hi%2C%20Just%20discovered%20this%20extension%20on%20the%20%23VSMarketplace%20that%20may%20be%20of%20interest%20to%20you.%20Check%20it%20out%20%40%20https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dconnectailab.connect-ai-lab%20%21' />
+	[6] (681,198)<img  />
+
+</current_dom>

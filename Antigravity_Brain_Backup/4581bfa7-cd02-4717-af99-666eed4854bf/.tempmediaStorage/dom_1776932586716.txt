@@ -1,0 +1,141 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (123,138)<a href='https://domemedb.domeggook.com/index/' id='domeme' title='도매매'>도매매 />
+	[1] (113,138)<img  />
+|
+[2] (164,138)<a href='http://naggama.com/' id='naggama' title='나까마'>나까마 />
+	[3] (155,137)<img  />
+|
+[4] (209,138)<a href='http://campus.domeggook.com/' title='교육센터'>교육센터 />
+	[5] (196,138)<img  />
+|
+[6] (254,138)<a href='https://eggdome.ggook.com/' title='에그돔'>에그돔 />
+	[7] (244,138)<img  />
+[8] (660,138)<a href='/main/member/mem_formLogin.php?back=LzUwMDA2NDU0P25vPTUwMDA2NDU0JmZyb209cG9wdWxhcjEwMA%3D%3D' title='로그인'>로그인 />
+[9] (692,138)<a href='/main/member/mem_formNormal.php?back=LzUwMDA2NDU0P25vPTUwMDA2NDU0JmZyb209cG9wdWxhcjEwMA%3D%3D' title='회원가입'>회원가입 />
+[10] (732,138)<a href='/main/myPage/my_pageMain.php' title='마이페이지'>마이페이지 />
+	[11] (749,141)<img  />
+[12] (778,138)<a href='/main/myBuy/order/my_orderCart.php' title='장바구니'>장바구니 />
+	[13] (765,138)<img  />
+상품공급사센터
+고객센터
+[14] (161,259)<a href='/main/index.php' />
+	[15] (161,234)<img  />
+[16] (390,241)<div  />
+	[17] (390,241)<div  />
+		[18] (387,234)<span >상품명 />
+		[19] (415,238)<img  />
+[20] (502,240)<input class='kwd' id='searchWordForm' />
+[21] (591,232)<img alt='꾹AI:렌즈' id='lensBtn' title='꾹AI:렌즈' />
+[22] (624,233)<input id='searchWordSubmit' />
+[23] (508,284)<a href='http://domeggook.com/main/mySell/adv/my_psKeywordReg.php'>인기검색어 />
+[24] (525,292)<a  />
+[25] (580,284)<div  />
+	[26] (580,284)<div  />
+		[27] (580,285)<div  />
+			1
+			키캡
+			2
+			선풍기
+			3
+			키링
+			4
+			양말
+			5
+			텀블러
+			1
+			6
+			어린이날
+			1
+			7
+			카네이션
+			2
+			8
+			모자
+			3
+			[28] (580,285)<div  />
+				[29] (540,284)<div >9 />
+				[30] (558,284)<div  />
+					[31] (558,284)<a href='/main/item/itemList.php?sw=%B0%A1%B9%E6&sf=ttl'>가방 />
+				[32] (627,284)<div  />
+					[33] (609,286)<div  />
+						[34] (619,286)<img  />
+						[35] (624,285)<span >2 />
+			10
+			우산
+			2
+[36] (698,234)<a href='https://domemedb.domeggook.com/index/static/partnerShip.php'>서비스 한눈에 보기 />
+[37] (155,339)<div  />
+	[38] (128,341)<img  />
+	[39] (157,339)<span >카테고리 />
+[40] (230,338)<a href='https://1688.domeggook.com/'>1688상품관 />
+[41] (279,338)<a href='/main/item/itemEventBusinessMall.php'>사업자전용 />
+[42] (322,338)<a href='/main/item/itemPackDelivery.php'>묶음배송 />
+[43] (357,338)<a href='/main/item/itemLowestPrice.php'>최저가 />
+[44] (388,338)<a href='/main/item/itemPopular.php'>베스트 />
+[45] (418,338)<a href='/main/item/itemMdPrivate.php'>MD관 />
+[46] (448,338)<a href='/main/item/itemEvent.php?no=866'>땡처리 />
+[47] (479,338)<a href='/main/item/itemEventList.php'>기획전 />
+[48] (510,338)<a href='/main/item/itemSalesPromotion.php'>판촉관 />
+[49] (553,338)<a href='https://domemedb.domeggook.com/index/static/domeggookEvent.php'>이벤트&제휴 />
+[50] (600,338)<a href='/main/item/itemRecomm.php'>추천 />
+	[51] (592,338)<font >꾹AI: />
+구매완료 상품수
+어제
+400,585
+상품
+오늘(현재)
+327,048
+상품
+[52] (940,785)<a href='https://domemedb.domeggook.com/index/static/newMemberBenefits.php' />
+	[53] (940,688)<img  />
+[54] (940,836)<a href='http://gm.domeggook.com/main/scout/scout_SellerInquiry.php' />
+	[55] (940,824)<div >다양한 입점혜택 />
+	[56] (940,850)<div >공급사입점상담 />
+[57] (940,897)<h4 >고객센터 />
+1588-0628
+[58] (128,399)<li  />
+	[59] (124,397)<a href='/main/'>도매꾹홈 />
+[60] (175,399)<li >스포츠/레저 />
+[61] (223,399)<li  />
+	[62] (210,397)<a href='/main/item/itemList.php?ca=14_24_00_00_00'>헬스 />
+[63] (275,399)<li  />
+	[64] (267,397)<a href='/main/item/itemList.php?ca=14_24_16_00_00'>헬스사이클 />
+베스트
+[65] (301,847)<a class='thumbLightbox' href='#' title='미니싸이클' />
+	[66] (301,812)<img  />
+상품번호 : 50006454
+랭킹점수 :
+[67] (869,467)<button class='lBtn'>133,170 />
+점
+[68] (545,471)<button class='lBtn' id='lBtnShowSellerInfo' />
+	[69] (536,468)<b >ymkorea11 />
+	[70] (575,468)<img  />
+미니싸이클
+15,800
+원
+구매수량
+최소구매수량
+1
+개
+[71] (865,779)<a class='lBtn' href='#' />
+	[72] (865,780)<button >흥정하기 />
+		[73] (882,782)<img  />
+배송정보
+당일출고
+(평균출고일
+0.5
+일)
+택배 / 수량별비례 적용 / 주문시결제
+묶음배송 불가능
+재고수량
+955개
+[74] (925,936)<div  />
+	[75] (879,936)<img  />
+	[76] (937,936)<span >꾹AI:톡톡24H챗봇상담 />
+[77] (978,51)<button class='sesame-floating-close' />
+사용중인 플랜이 만료되었습니다.
+
+</current_dom>

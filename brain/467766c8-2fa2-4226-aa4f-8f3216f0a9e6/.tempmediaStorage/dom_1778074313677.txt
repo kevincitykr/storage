@@ -1,0 +1,136 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,76)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiD-7X34qSUAxW5M9AFHZs3ItEQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,75)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,75)<div  />
+	[3] (561,75)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,75)<span  />
+	[5] (577,75)<span  />
+[6] (593,75)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,75)<span  />
+[8] (619,75)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,75)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,75)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,75)<div  />
+		[12] (670,75)<span  />
+[13] (911,75)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' />
+[14] (943,75)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,75)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3Dsite:daangn.com%2B%25ED%2595%2598%25EB%2582%25A8%2Bi7%2B4070%2BSUPER&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (156,164)<a class='XVMlrc C6AK7c' href='/search?q=site:daangn.com+%ED%95%98%EB%82%A8+i7+4070+SUPER&sca_esv=63ede5267938485e&sxsrf=ANbL-n7s0CqvFTDeBJnqe_GYR8numh4GVg:1778074298192&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV02gK8-bh9uQxb87Gnd1572bYi60SeiqDjP3Pd8YcIAJBp0bkA76t4TWjbTozAkDVSNsVHNKBUPqQr72DlpxrmythCfnrI7E4JGlt2Besx9JwrnwqCwzib6yIRupMcILzmHLxZSZsPPMTv815Z-_DwBiyI1ccmjC7FH7jQ8yEJlUv-6Fmo&aep=1&ntc=1&sa=X&ved=2ahUKEwiD-7X34qSUAxW5M9AFHZs3ItEQ2J8OegQIDhAD' />
+	[17] (156,164)<div  />
+		[18] (156,177)<div  />
+			[19] (156,169)<span  />
+				[20] (156,169)<span >AI 모드 />
+[21] (194,164)<a class='C6AK7c' role='link' />
+	전체
+[22] (226,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7s0CqvFTDeBJnqe_GYR8numh4GVg:1778074298192&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV02gK8-bh9uQxb87Gnd1572bYi60SeiqDjP3Pd8YcIAJBp0bkA76t4TWjbTozAkDVSNsVHNKBUPqQr72DlpxrmythCfnrI7E4JGlt2Besx9JwrnwqCwzib6yIRupMcILzmHLxZSZsPPMTv815Z-_DwBiyI1ccmjC7FH7jQ8yEJlUv-6Fmo&q=site:daangn.com+%ED%95%98%EB%82%A8+i7+4070+SUPER&ved=1t:220175&ictx=111' />
+	[23] (226,164)<div  />
+		[24] (226,177)<span >쇼핑 />
+[25] (263,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7s0CqvFTDeBJnqe_GYR8numh4GVg:1778074298192&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV02gK8-bh9uQxb87Gnd1572bYi60SeiqDjP3Pd8YcIAJBp0bkA76t4TWjbTozAkDVSNsVHNKBUPqQr72DlpxrmythCfnrI7E4JGlt2Besx9JwrnwqCwzib6yIRupMcILzmHLxZSZsPPMTv815Z-_DwBiyI1ccmjC7FH7jQ8yEJlUv-6Fmo&q=site:daangn.com+%ED%95%98%EB%82%A8+i7+4070+SUPER&sa=X&ved=2ahUKEwiD-7X34qSUAxW5M9AFHZs3ItEQtKgLegQIExAB' />
+	[26] (263,164)<div  />
+		[27] (263,177)<span >이미지 />
+[28] (299,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7s0CqvFTDeBJnqe_GYR8numh4GVg:1778074298192&q=site:daangn.com+%ED%95%98%EB%82%A8+i7+4070+SUPER&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV02gK8-bh9uQxb87Gnd1572bYi60SeiqDjP3Pd8YcIAJBp0bkA76t4TWjbTozAkDVSNsVHNKBUPqQr72DlpxrmythCfnrI7E4JGlt2Besx9JwrnwqCwzib6yIRupMcILzmHLxZSZsPPMTv815Z-_DwBiyI1ccmjC7FH7jQ8yEJlUv-6Fmo&sa=X&ved=2ahUKEwiD-7X34qSUAxW5M9AFHZs3ItEQ0pQJegQIEhAB' />
+	[29] (299,164)<div  />
+		[30] (299,177)<span >뉴스 />
+[31] (336,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7s0CqvFTDeBJnqe_GYR8numh4GVg:1778074298192&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV02gK8-bh9uQxb87Gnd1572bYi60SeiqDjP3Pd8YcIAJBp0bkA76t4TWjbTozAkDVSNsVHNKBUPqQr72DlpxrmythCfnrI7E4JGlt2Besx9JwrnwqCwzib6yIRupMcILzmHLxZSZsPPMTv815Z-_DwBiyI1ccmjC7FH7jQ8yEJlUv-6Fmo&q=site:daangn.com+%ED%95%98%EB%82%A8+i7+4070+SUPER&sa=X&ved=2ahUKEwiD-7X34qSUAxW5M9AFHZs3ItEQtKgLegQIEBAB' />
+	[32] (336,164)<div  />
+		[33] (336,177)<span >동영상 />
+[34] (386,164)<a class='C6AK7c' href='/search?sca_esv=63ede5267938485e&sxsrf=ANbL-n7s0CqvFTDeBJnqe_GYR8numh4GVg:1778074298192&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKEgfu6lcPwoTE2ivC7emLV02gK8-bh9uQxb87Gnd1572bYi60SeiqDjP3Pd8YcIAJBp0bkA76t4TWjbTozAkDVSNsVHNKBUPqQr72DlpxrmythCfnrI7E4JGlt2Besx9JwrnwqCwzib6yIRupMcILzmHLxZSZsPPMTv815Z-_DwBiyI1ccmjC7FH7jQ8yEJlUv-6Fmo&q=site:daangn.com+%ED%95%98%EB%82%A8+i7+4070+SUPER&sa=X&ved=2ahUKEwiD-7X34qSUAxW5M9AFHZs3ItEQs6gLegQIERAB' />
+	[35] (386,164)<div  />
+		[36] (386,177)<span >짧은 동영상 />
+[37] (443,164)<div class='mTpL7c' role='button' />
+	[38] (443,164)<div  />
+		[39] (443,177)<div  />
+			[40] (437,169)<span >더보기 />
+			[41] (455,169)<span  />
+[42] (491,164)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[43] (491,164)<div  />
+		[44] (491,177)<div  />
+			[45] (485,169)<span >도구 />
+			[46] (499,169)<span  />
+검색결과
+웹 검색결과
+[47] (291,292)<a class='zReHs' href='https://www.daangn.com/kr/buy-sell/%EA%B1%B0%ED%92%88%EA%B0%92-%EB%BA%80-%EA%B3%A0%EC%82%AC%EC%96%91-%EC%BB%B4%ED%93%A8%ED%84%B0%EC%9E%85%EB%8B%88%EB%8B%A4-4070%ED%8B%B0%EC%8A%88-r5fivf3si3qa/' />
+	[48] (291,320)<h3 >거품값 뺀 고사양 컴퓨터입니다. 4070티슈 | 디지털기기 />
+	[49] (245,269)<div  />
+		[50] (245,269)<div  />
+			[51] (151,269)<span  />
+				[52] (151,269)<div  />
+					[53] (151,269)<img  />
+			[54] (258,269)<div  />
+				[55] (258,256)<div  />
+					[56] (258,256)<span >당근 />
+				[57] (258,283)<div  />
+					[58] (258,283)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[59] (301,283)<span class='ylgVCe ob9lvb' role='text'>› buy-sell › 거품값-뺀-고사... />
+[60] (362,282)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[61] (362,282)<span  />
+		[62] (362,283)<span  />
+2026. 4. 2.
+—
+4070
+티슈. 디지털기기 · 끌올 3일 전. 3,000,000원. 고사양 커스텀 게이밍 PC 판매합니다 - CPU: 인텔 코어
+i7
+-14700K - GPU: GIGABYTE 지포스 RTX
+4070
+...
+₩3,000,000
+이미지
+[63] (208,734)<div  />
+	[64] (208,734)<div  />
+		[65] (208,734)<div  />
+			[66] (208,734)<div  />
+				[67] (208,698)<div  />
+					[68] (208,698)<div class='kwICDb DfMusf xZGX9 y9pG6d T3Fozb' role='button' />
+						[69] (208,698)<div  />
+							[70] (208,698)<img  />
+				거품값 뺀 고사양 컴퓨터입니다. 4070티슈
+				당근마켓
+				[71] (270,890)<div  />
+					[72] (272,890)<div  />
+						[73] (272,890)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[74] (270,890)<span  />
+								[75] (270,890)<span  />
+[76] (354,734)<div  />
+	[77] (354,734)<div  />
+		[78] (354,734)<div  />
+			[79] (354,734)<div  />
+				[80] (354,698)<div  />
+					[81] (354,698)<div class='kwICDb DfMusf xZGX9 y9pG6d T3Fozb' role='button' />
+						[82] (354,698)<div  />
+							[83] (354,698)<img  />
+				거품값 뺀 고사양 컴퓨터입니다. 4070티슈 | 디지털기기 | 당근 ...
+				당근마켓
+				[84] (415,890)<div  />
+					[85] (418,890)<div  />
+						[86] (418,890)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[87] (415,890)<span  />
+								[88] (415,890)<span  />
+[89] (500,734)<div  />
+	[90] (500,734)<div  />
+		[91] (500,734)<div  />
+			[92] (500,734)<div  />
+				[93] (500,698)<div  />
+					[94] (500,698)<div class='kwICDb DfMusf xZGX9 y9pG6d T3Fozb' role='button' />
+						[95] (500,698)<div  />
+							[96] (500,698)<img  />
+				파리바게트 모바일 금액권 100000원 | 티켓/교환권 | 당근 중고거래
+				당근마켓
+				[97] (561,890)<div  />
+					[98] (564,890)<div  />
+						[99] (564,890)<div aria-label='검색결과에 관한 정보' class='mzNRm iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+							[100] (561,890)<span  />
+								[101] (561,890)<span  />
+[102] (354,971)<div class='p8FEIf MmMIvd jRKCUd' role='button' />
+	[103] (354,971)<div  />
+		[104] (348,971)<span  />
+			[105] (345,970)<span >이미지 더보기 />
+		[106] (383,971)<span  />
+
+</current_dom>

@@ -1,0 +1,15 @@
+# Task Progress: Finding the lowest price for DDR5 32GB RAM (Single Stick)
+
+## Progress:
+- [x] Search for "DDR5 32GB" on Danawa.
+- [x] Apply filters:
+    - [x] Desktop (데스크탑용)
+    - [x] DDR5
+    - [x] 32GB
+    - [x] Single Stick (1개)
+- [ ] Sort by Lowest Price.
+- [ ] Identify the cheapest product and its price.
+
+## Current Status:
+- Filters applied but product list and sort bar not yet visible in the DOM/screenshot.
+- Attempting to scroll further or trigger a page refresh to see results.

@@ -1,0 +1,52 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (190,34)<a class='left' href='/' title='|   Marketplace' />
+	[1] (155,22)<img  />
+	[2] (225,19)<div >|   Marketplace />
+[3] (722,25)<a class='scarabLink' href='https://app.vssps.visualstudio.com/_signin?realm=marketplace.visualstudio.com&reply_to=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3Dconnectailab.connect-ai-lab&redirect=1&protocol=cookieless&context=eyJodCI6MywiaGlkIjoiMjY2M2IxM2YtNTBlMy1hNjU1LWExNTktMjJmNmY0NzI1ZmFiIiwicXMiOnt9LCJyciI6IiIsInZoIjoiIiwiY3YiOiIiLCJjcyI6IiJ90&lltid=94036f15-19fa-4d58-870d-97951632b9cd&workflowId=marketplace&wt.mc_id=o~msft~marketplace~signIn#ctx=eyJTaWduSW5Db29raWVEb21haW5zIjpbImh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbSIsImh0dHBzOi8vbG9naW4ubWljcm9zb2Z0b25saW5lLmNvbSJdfQ2'>Sign in />
+[4] (805,30)<input aria-label='search' class='header-search-textbox' id='header-search-textbox' />
+[5] (871,29)<button aria-label='search' class='header-search-button' id='header-search-button' />
+[6] (164,81)<a class='member' href='/vscode'>Visual Studio Code />
+>
+[7] (258,81)<a class='member' href='/search?sortBy=Installs&category=Programming%20Languages&target=VSCode'>Programming Languages />
+>
+Connect AI
+New to Visual Studio Code?
+[8] (851,81)<a aria-label='Get Visual Studio Code Now' class='vsCodeDownloadLink' href='https://go.microsoft.com/fwlink?linkid=846418&pub=connectailab&ext=connect-ai-lab&utm_source=vsmp&utm_campaign=mpdetails'>Get it now. />
+Connect AI
+[9] (277,234)<a aria-label='More from Connect AI Lab publisher' class='ux-item-publisher-link item-banner-focussable-child-item' href='publishers/connectailab'>Connect AI Lab />
+|
+102 installs
+[10] (447,237)<a aria-label='Average rating: 0 out of 5. Navigate to user reviews.' class='ux-item-review-rating-wrapper' href='#review-details' id='review-details' />
+	[11] (447,237)<span  />
+		[12] (401,237)<span >| />
+		[13] (441,240)<span  />
+			[14] (441,239)<span  />
+				[15] (415,237)<img  />
+				[16] (428,237)<img  />
+				[17] (441,237)<img  />
+				[18] (454,237)<img  />
+				[19] (467,237)<img  />
+		[20] (483,236)<span >(
+) />
+			[21] (483,236)<span >0 />
+|
+Free
+100% 로컬 AI 코딩 에이전트 — 파일 생성, 코드 편집, 터미널 실행을 오프라인으로. Ollama + Gemma/Llama/DeepSeek 지원.
+[22] (275,393)<a class='ms-Button ux-button install ms-Button--default root-39' href='vscode:extension/connectailab.connect-ai-lab' />
+	[23] (275,393)<div  />
+		[24] (275,393)<div  />
+			[25] (275,393)<div >Install />
+[26] (362,383)<a class='light' href='https://aka.ms/vscode_extn_install'>Trouble Installing? />
+	[27] (398,385)<i  />
+[28] (168,498)<button class='selected' id='overview'>Overview />
+[29] (245,498)<button id='versionHistory'>Version History />
+[30] (316,498)<button id='qna'>Q & A />
+[31] (390,498)<button id='rnr'>Rating & Review />
+Connect AI v2 (P-Reinforce)
+100% Local · 100% Offline · Autonomous Knowledge Engine
+VS Code / Cursor 확장 프로그램으로, 당신의 낡은 IDE를 최상위 에이전트 대학(A.U)의 심장으로 진화시킵니다.
+
+</current_dom>

@@ -1,0 +1,71 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+Default Gemini Project
+검색
+1
+[0] (500,528)<cfc-virtual-viewport class='cfc-virtual-scroll-viewport cfc-panel-body cfc-panel-body-flex cfc-panel-disable-border-bottom cfc-virtual-scroll-orientation-vertical' role='presentation' scrollable='true' />
+	시작하기
+	작업 중인 프로젝트:
+	Default Gemini Project
+	프로젝트 번호:
+	305318265369
+	프로젝트 ID:
+	gen-lang-client-0490519756
+	대시보드
+	Cloud Hub
+	Gemini API 키 만들기
+	에이전트 만들기
+	VM 만들기
+	BigQuery에서 쿼리 실행
+	애플리케이션 배포
+	스토리지 버킷 만들기
+	Google Developer Program에 가입하여 무료로 새로운 기술과 개발 도구에 대해 알아보세요.
+	지금 참여하기
+	빠른 액세스
+	API 및 서비스
+	IAM 및 관리자
+	결제
+	Compute Engine
+	Cloud Storage
+	BigQuery
+	VPC 네트워크
+	Kubernetes Engine
+	모든 제품 보기
+프로젝트 및 애플리케이션에 대한 중앙 집중식 인사이트로 클라우드 운영을 간소화하세요. 성능, 비용, 문제, 지원 케이스에 대한 주요 측정항목을 모니터링하세요.
+Learn more
+계정: 김광섭 (kevincitykr002@gmail.com)
+김광섭
+현재 Google Cloud에 로그인한 사용자 이름은 kevincitykr002@gmail.com입니다.
+kevincitykr002@gmail.com
+[1] (914,146)<a aria-label='내 Google 계정으로 이동, 새 탭에서 열기' class='mdc-button mat-mdc-button-base gmat-mdc-button cfc-profilebutton mdc-button--unelevated mat-mdc-unelevated-button mat-primary cm-button ng-star-inserted' href='https://accounts.google.com/ManageAccount' />
+	[2] (914,146)<span  />
+		[3] (914,146)<b >계정 관리 />
+[4] (909,232)<a class='mat-mdc-menu-item mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='//cloud.google.com/terms/cloud-privacy-notice?hl=ko' role='menuitem' />
+	[5] (909,232)<span  />
+		[6] (909,232)<div  />
+			[7] (909,232)<div  />
+				[8] (909,232)<div  />
+					[9] (835,233)<cfc-icon  />
+						[10] (835,232)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+					[11] (916,232)<div >Google Cloud 개인 정보 보호 />
+						[12] (940,232)<cm-icon aria-label='외부' class='cm-icon--legacy-margins cm-icon-external-link ng-star-inserted' role='img' />
+[13] (909,269)<a class='mat-mdc-menu-item mat-focus-indicator cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device ng-star-inserted' href='/terms?project=gen-lang-client-0490519756' role='menuitem' />
+	[14] (909,269)<span  />
+		[15] (909,269)<div  />
+			[16] (909,269)<div  />
+				[17] (909,269)<div  />
+					[18] (835,270)<cfc-icon  />
+						[19] (835,269)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+					[20] (916,269)<div >Google Cloud 서비스 약관 />
+[21] (854,328)<a aria-label='계정 추가' class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed cm-button ng-star-inserted' href='/AddSession' />
+	[22] (854,328)<span >계정 추가 />
+[23] (965,328)<a aria-label='kevincitykr002@gmail.com 로그아웃' class='mdc-button mat-mdc-button-base gmat-mdc-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed cm-button ng-star-inserted' href='https://accounts.google.com/Logout?service=cloudconsole&continue=https://console.cloud.google.com/&hl=ko' role='button' />
+	[24] (965,328)<span >로그아웃 />
+
+</current_dom>

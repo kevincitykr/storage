@@ -1,0 +1,352 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (21,36)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[1] (93,90)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (93,90)<span  />
+		[3] (85,90)<span  />
+			[4] (85,90)<div  />
+				[5] (24,90)<div  />
+				[6] (44,90)<div  />
+					[7] (44,90)<span >main />
+[8] (190,90)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[9] (106,135)<span  />
+	[10] (22,135)<span  />
+	[11] (111,135)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+[12] (101,460)<div  />
+	[13] (101,184)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.claude-item' role='treeitem' />
+		[14] (101,184)<div  />
+			[15] (16,184)<div  />
+			[16] (106,184)<div  />
+				[17] (32,184)<div  />
+					[18] (32,184)<div  />
+				[19] (114,184)<span  />
+					[20] (57,184)<span >.claude />
+	[21] (101,220)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.secondbrain-item' role='treeitem' />
+		[22] (101,220)<div  />
+			[23] (16,220)<div  />
+			[24] (106,220)<div  />
+				[25] (32,220)<div  />
+					[26] (32,220)<div  />
+				[27] (114,220)<span  />
+					[28] (68,220)<span >.secondbrain />
+	[29] (101,256)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.vscode-item' role='treeitem' />
+		[30] (101,256)<div  />
+			[31] (16,256)<div  />
+			[32] (106,256)<div  />
+				[33] (32,256)<div  />
+					[34] (32,256)<div  />
+				[35] (114,256)<span  />
+					[36] (57,256)<span >.vscode />
+	[37] (101,293)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='assets-item' role='treeitem' />
+		[38] (101,293)<div  />
+			[39] (16,293)<div  />
+			[40] (106,293)<div  />
+				[41] (32,292)<div  />
+					[42] (32,292)<div  />
+				[43] (114,293)<span  />
+					[44] (55,293)<span >assets />
+	[45] (101,329)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[46] (101,329)<div  />
+			[47] (16,329)<div  />
+			[48] (106,329)<div  />
+				[49] (32,329)<div  />
+					[50] (32,329)<div  />
+				[51] (114,329)<span  />
+					[52] (48,329)<span >src />
+	[53] (101,365)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[54] (101,365)<div  />
+			[55] (106,365)<div  />
+				[56] (32,365)<div  />
+				[57] (114,365)<span  />
+					[58] (62,365)<span >.gitignore />
+	[59] (101,401)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.vscodeignore-item' role='treeitem' />
+		[60] (101,401)<div  />
+			[61] (106,401)<div  />
+				[62] (32,401)<div  />
+				[63] (114,401)<span  />
+					[64] (71,401)<span >.vscodeignore />
+	[65] (101,437)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='ARCHITECTURE.md-item' role='treeitem' />
+		[66] (101,437)<div  />
+			[67] (106,437)<div  />
+				[68] (32,437)<div  />
+				[69] (114,437)<span  />
+					[70] (81,437)<span >ARCHITECTURE.md />
+	[71] (101,473)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[72] (101,473)<div  />
+			[73] (106,473)<div  />
+				[74] (32,473)<div  />
+				[75] (114,473)<span  />
+					[76] (59,473)<span >LICENSE />
+	[77] (101,509)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[78] (101,509)<div  />
+			[79] (106,509)<div  />
+				[80] (32,509)<div  />
+				[81] (114,509)<span  />
+					[82] (68,509)<span >README.md />
+	[83] (101,545)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='brain-viz.html-item' role='treeitem' />
+		[84] (101,545)<div  />
+			[85] (106,545)<div  />
+				[86] (32,545)<div  />
+				[87] (114,545)<span  />
+					[88] (70,545)<span >brain-viz.html />
+	[89] (101,582)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='idea1_script_draft.md-item' role='treeitem' />
+		[90] (101,582)<div  />
+			[91] (106,582)<div  />
+				[92] (32,581)<div  />
+				[93] (114,582)<span  />
+					[94] (86,582)<span >idea1_script_draft.md />
+	[95] (101,618)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package-lock.json-item' role='treeitem' />
+		[96] (101,618)<div  />
+			[97] (106,618)<div  />
+				[98] (32,618)<div  />
+				[99] (114,618)<span  />
+					[100] (79,618)<span >package-lock.json />
+	[101] (101,654)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[102] (101,654)<div  />
+			[103] (106,654)<div  />
+				[104] (32,654)<div  />
+				[105] (114,654)<span  />
+					[106] (69,654)<span >package.json />
+	[107] (101,690)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='system_schema.json-item' role='treeitem' />
+		[108] (101,690)<div  />
+			[109] (106,690)<div  />
+				[110] (32,690)<div  />
+				[111] (114,690)<span  />
+					[112] (83,690)<span >system_schema.json />
+	[113] (101,726)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tsconfig.json-item' role='treeitem' />
+		[114] (101,726)<div  />
+			[115] (106,726)<div  />
+				[116] (32,726)<div  />
+				[117] (114,726)<span  />
+					[118] (68,726)<span >tsconfig.json />
+[119] (212,500)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[120] (256,25)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/connect-ai/tree/main'>connect-ai />
+/
+package.json
+[121] (964,25)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[122] (964,25)<span  />
+		[123] (971,25)<span >Top />
+File metadata and controls
+[124] (248,75)<button class='prc-SegmentedControl-Button-E48xz' />
+	[125] (248,75)<span  />
+		[126] (248,75)<div >Code />
+[127] (290,75)<button class='prc-SegmentedControl-Button-E48xz' />
+	[128] (290,75)<span  />
+		[129] (290,75)<div >Blame />
+154 lines (154 loc) · 4.61 KB
+[130] (870,75)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/wonseokjung/connect-ai/raw/refs/heads/main/package.json' />
+	[131] (870,75)<span  />
+		[132] (870,75)<span >Raw />
+[133] (892,75)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[134] (910,75)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[135] (951,75)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_2o_' />
+[136] (974,75)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[137] (606,-802)<textarea aria-label='file content' class='react-blob-textarea react-blob-print-hide' id='read-only-cursor-text-area' scrollable='true' />
+[138] (606,-811)<div class='react-code-line-container CodeLines-module__scrollContainerHidden__g7TeZ' scrollable='true' />
+	114
+	115
+	116
+	117
+	118
+	[139] (254,120)<div >119 />
+	[140] (254,143)<div >120 />
+	[141] (254,165)<div >121 />
+	[142] (254,187)<div >122 />
+	[143] (254,210)<div >123 />
+	[144] (254,232)<div >124 />
+	[145] (254,255)<div >125 />
+	[146] (254,277)<div >126 />
+	[147] (254,300)<div >127 />
+	[148] (254,322)<div >128 />
+	[149] (254,345)<div >129 />
+	[150] (254,367)<div >130 />
+	[151] (254,389)<div >131 />
+	[152] (254,412)<div >132 />
+	[153] (254,434)<div >133 />
+	[154] (254,457)<div >134 />
+	[155] (254,479)<div >135 />
+	[156] (254,502)<div >136 />
+	[157] (254,524)<div >137 />
+	[158] (254,547)<div >138 />
+	[159] (254,569)<div >139 />
+	[160] (254,591)<div >140 />
+	[161] (254,614)<div >141 />
+	[162] (254,636)<div >142 />
+	[163] (254,659)<div >143 />
+	[164] (254,681)<div >144 />
+	[165] (254,704)<div >145 />
+	[166] (254,726)<div >146 />
+	[167] (254,749)<div >147 />
+	[168] (254,771)<div >148 />
+	[169] (254,793)<div >149 />
+	[170] (254,816)<div >150 />
+	[171] (254,838)<div >151 />
+	[172] (254,861)<div >152 />
+	[173] (254,883)<div >153 />
+	[174] (254,906)<div >154 />
+	"connectAiLab.localBrainPath"
+	: {
+	"type"
+	:
+	"
+	string
+	"
+	,
+	"default"
+	:
+	"
+	"
+	,
+	"description"
+	:
+	"
+	📁 내 지식 폴더 경로 — 내 PC의 특정 폴더(예: 바탕화면/MyBrain)를 지정하면, 그 안의 .md 파일들이 AI의 지식이 됩니다. 비워두면 기본 폴더를 자동 생성합니다.
+	},
+	"connectAiLab.secondBrainRepo"
+	: {
+	"type"
+	:
+	"
+	string
+	"
+	,
+	"default"
+	:
+	"
+	"
+	,
+	"description"
+	:
+	"
+	🔗 깃허브 저장소 URL — 내 지식을 클라우드에 백업하고 동기화할 깃허브 저장소 주소입니다. (예: https://github.com/사용자/memory)
+	"
+	},
+	"connectAiLab.companyDir"
+	: {
+	"type"
+	:
+	"
+	string
+	"
+	,
+	"default"
+	:
+	"
+	"
+	,
+	"description"
+	:
+	"
+	👔 1인 기업 폴더 경로 — 비워두면 ~/.connect-ai-brain/Company/에 자동 생성됩니다. 직접 지정하려면 절대 경로 또는 ~/로 시작하는 경로를 입력하세요.
+	"
+	},
+	"connectAiLab.assetsPath"
+	: {
+	"type"
+	:
+	"
+	string
+	"
+	,
+	"default"
+	:
+	"
+	"
+	,
+	"description"
+	:
+	"
+	🎨 (선택) LimeZu Modern Interiors 풀팩 폴더 — 사무실 뷰에 더 풍부한 캐릭터·인테리어를 쓰고 싶을 때만 지정합니다. 비워두면 vsix에 번들된 7개 캐릭터를 자동 사용합니다.
+	}
+	}
+	}
+	},
+	"scripts"
+	: {
+	"vscode:prepublish"
+	:
+	"
+	npm run compile
+	"
+	,
+	"compile"
+	:
+	"
+	esbuild src/extension.ts --bundle --platform=node --external:vscode --outfile=out/extension.js
+	"
+	,
+	"watch"
+	:
+	"
+	tsc -watch -p ./
+	"
+	,
+	"pretest"
+	:
+	"
+	npm run compile
+	"
+	},
+	"devDependencies"
+	: {
+	"@types/node"
+	:
+	"
+	18.x
+	"
+	,
+	"@types/vscode"
+	:
+	"
+	^1.80.0
+	"
+	,
+	"@vercel/ncc"
+	:
+	"
+	^0.38.4
+	"
+	,
+	"esbuild"
+	:
+	"
+	^0.28.0
+	"
+	,
+	"typescript"
+	:
+	"
+	^5.1.3
+	"
+	},
+	"dependencies"
+	: {
+	"axios"
+	:
+	"
+	^1.15.0
+	"
+	,
+	"jsdom"
+	:
+	"
+	^29.0.2
+	"
+	}
+	}
+[175] (606,926)<div class='CodeLines-module__scrollBarContainer__fsxaw' scrollable='true' />
+While the code is focused, press Alt+F1 for a menu of operations.
+[176] (59,938)<div class='ap-toolbar-tab-tab' role='tab' />
+	[177] (59,938)<div  />
+		[178] (59,938)<i  />
+[179] (33,921)<div class='ap-toolbar-tab-tab' role='tab' />
+	[180] (33,921)<div  />
+		[181] (33,921)<div  />
+			[182] (33,921)<div class='ap-notification-cover' />
+				[183] (33,921)<img  />
+
+</current_dom>

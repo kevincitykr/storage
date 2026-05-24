@@ -1,0 +1,38 @@
+# Shopmine Automation Implementation Plan
+
+This plan outlines the creation of a Python script to automatically run the "Shopmine" program at a specific time daily. It also includes a guide for an alternative method using Windows Task Scheduler.
+
+## User Review Required
+
+> [!IMPORTANT]
+> **Executable Path**: The script will require the absolute path to the Shopmine executable (`.exe`). I will use a placeholder path in the code which you will need to update, or I can add logic to prompt for it.
+> **Python Environment**: The script requires Python and the `schedule` library. I will include instructions for setting this up.
+
+## Proposed Changes
+
+### `c:\Upload2601공유폴더\샵마인 자동화`
+
+#### [NEW] [run_shopmine.py](file:///c:/Upload2601공유폴더/샵마인%20자동화/run_shopmine.py)
+- A Python script that:
+    - Imports `schedule`, `time`, `subprocess`, `os`.
+    - Defines a configuration section for `SHOPMINE_PATH` and `SCHEDULE_TIME`.
+    - Defines a function `run_job()` to launch the program.
+    - Sets up the schedule loop.
+    - Includes error handling (e.g., if path is incorrect).
+
+#### [NEW] [README.md](file:///c:/Upload2601공유폴더/샵마인%20자동화/README.md)
+- Documentation on:
+    - How to install Python and dependencies (`pip install schedule`).
+    - How to configure the script (path and time).
+    - How to run the script.
+    - **Alternative**: Step-by-step guide to using Windows Task Scheduler for the same purpose (often more reliable for system tasks).
+
+## Verification Plan
+
+### Automated Tests
+- I will create a dummy "Shopmine" script (e.g., a simple python script that prints "Shopmine started") to test the scheduling logic without launching the actual heavy program.
+- Run `run_shopmine.py` with the dummy script path and a time 1 minute from now to verify it triggers.
+
+### Manual Verification
+- User to update the `SHOPMINE_PATH` to the real executable.
+- User to run the script and verify Shopmine opens at the scheduled time.

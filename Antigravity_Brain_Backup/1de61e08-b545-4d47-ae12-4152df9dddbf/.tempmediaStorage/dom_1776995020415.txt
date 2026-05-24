@@ -1,0 +1,59 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,23)<a class='block w-full shrink-0 bg-accent-blue' href='/account?source=springSaleBanner' />
+	[1] (500,23)<div  />
+		[2] (192,23)<span >Spring Sale Extended: Lock in for less />
+		[3] (586,23)<span >Save 20% on Annual Pro and Premier />
+		[4] (980,23)<span >Spring Sale Extended: Lock in for less />
+[5] (500,523)<div class='scrollbar-hide relative flex h-full w-full flex-col overflow-x-hidden overflow-y-scroll scroll-smooth' scrollable='true' />
+	[6] (31,89)<a class='relative inline-block h-[19.394px] w-[78.709px]' href='/home' />
+	[7] (921,89)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 text-[15px] leading-[24px] rounded-full text-foreground-primary bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50' />
+		[8] (921,89)<span >Sign In />
+	[9] (968,89)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 text-[15px] leading-[24px] rounded-full text-background-primary bg-foreground-primary enabled:hover:before:bg-overlay-on-light disabled:after:bg-background-primary disabled:after:opacity-50' />
+		[10] (968,89)<span >Sign Up />
+	[11] (359,204)<button class='relative font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-background-primary enabled:hover:before:bg-overlay-on-light disabled:after:bg-background-primary disabled:after:opacity-50 flex h-[40px] w-[40px] items-center justify-center bg-primary/10' />
+		[12] (359,204)<span  />
+	Turn any idea into a song
+	Beat, lyrics, or both
+	Lyrics
+	[13] (578,312)<button class='css-jhj0x4 e2bc4gy0' id='base-ui-_r_b_' />
+		[14] (578,312)<span >Auto />
+	[15] (616,312)<button class='active css-jhj0x4 e2bc4gy0' id='base-ui-_r_d_'>Write Lyrics />
+		Write Lyrics
+	[16] (500,439)<textarea class='custom-textarea w-full flex-1 p-4 pb-8 font-sans text-foreground-primary focus:outline-none text placeholder:lighterGray placeholder:select-none resize-none bg-transparent placeholder:brightness-150 h-full custom-scrollbar-transparent' placeholder='Add your own lyrics here' />
+	[17] (370,564)<div aria-label='Instrumental' class='relative inline-flex items-center rounded-full transition-colors duration-300 ease-in-out ring-foreground-tertiary/20 cursor-pointer h-8 w-12 border-0 ring-0 bg-white/10' role='switch' />
+		[18] (366,564)<span  />
+	Instrumental
+	[19] (500,645)<div  />
+		[20] (477,645)<div >Styles />
+		[21] (620,645)<div  />
+			[22] (607,645)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 border-none!' />
+				[23] (607,645)<span  />
+			[24] (632,645)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary-on-dark bg-background-fog-thin before:border-border-primary-on-dark backdrop-blur-md enabled:hover:bg-background-fog-dense disabled:opacity-30' />
+				[25] (632,645)<span  />
+	[26] (500,773)<textarea class='custom-textarea w-full p-4 font-sans text-foreground-primary focus:outline-none text placeholder:lighterGray placeholder:select-none resize-none bg-transparent placeholder:brightness-150 flex-none pb-0 h-[calc(100%-53px)]' placeholder='Enter style tags' />
+	[27] (368,883)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-sm leading-[24px] rounded-full aspect-square p-0.5 text-gray-950 disabled:opacity-30 mt-[6px] ml-[6px] bg-transparent backdrop-blur-none enabled:hover:bg-transparent enabled:hover:backdrop-blur-none mb-2' />
+		[28] (368,883)<span  />
+	[29] (509,880)<div class='scrollbar-hide h-full w-full overflow-x-auto overflow-y-hidden' scrollable='true' />
+		[30] (403,880)<button class='relative font-sans text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 cursor-pointer rounded-full bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 line-clamp-1 flex w-full max-w-fit flex-row items-center gap-[2px] px-3 py-[6px] text-[16px] font-medium text-nowrap whitespace-nowrap text-foreground-secondary/70 select-none' />
+			[31] (403,880)<span >Electropop />
+		[32] (450,880)<button class='relative font-sans text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 cursor-pointer rounded-full bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 line-clamp-1 flex w-full max-w-fit flex-row items-center gap-[2px] px-3 py-[6px] text-[16px] font-medium text-nowrap whitespace-nowrap text-foreground-secondary/70 select-none' />
+			[33] (450,880)<span >Techno />
+		[34] (509,880)<button class='relative font-sans text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 cursor-pointer rounded-full bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 line-clamp-1 flex w-full max-w-fit flex-row items-center gap-[2px] px-3 py-[6px] text-[16px] font-medium text-nowrap whitespace-nowrap text-foreground-secondary/70 select-none' />
+			[35] (509,880)<span >Symphonic metal />
+		[36] (564,880)<button class='relative font-sans text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 cursor-pointer rounded-full bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 line-clamp-1 flex w-full max-w-fit flex-row items-center gap-[2px] px-3 py-[6px] text-[16px] font-medium text-nowrap whitespace-nowrap text-foreground-secondary/70 select-none' />
+			[37] (564,880)<span >Disco />
+		[38] (608,880)<button class='relative font-sans text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 cursor-pointer rounded-full bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 line-clamp-1 flex w-full max-w-fit flex-row items-center gap-[2px] px-3 py-[6px] text-[16px] font-medium text-nowrap whitespace-nowrap text-foreground-secondary/70 select-none' />
+			[39] (608,880)<span >Synthwave />
+		Brass band
+		Country
+		Barbershop quartet
+		Afro-Cuban jazz
+		Doo-wop
+		Ska
+		Afro-Rock
+	[40] (636,920)<div  />
+
+</current_dom>

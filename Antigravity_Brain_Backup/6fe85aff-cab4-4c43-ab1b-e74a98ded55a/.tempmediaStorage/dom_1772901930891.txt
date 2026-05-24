@@ -1,0 +1,133 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+menu
+광고
+help
+1
+home
+picture_in_picture
+drive_site
+not_interested
+assessment
+trending_up
+policy
+settings
+feedback
+home
+홈
+picture_in_picture
+광고
+drive_site
+사이트
+개인 정보 보호 및 메시지
+arrow_right
+not_interested
+브랜드 안전성
+assessment
+보고서
+arrow_right
+trending_up
+최적화
+policy
+정책 센터
+arrow_right
+지급
+arrow_right
+settings
+계정
+feedback
+의견
+개인정보처리방침
+약관
+warning_amber
+주의
+우크라이나에서 현재 진행 중인 전쟁으로 인해, 이 전쟁을 부당하게 이용하거나 부정하거나 용인하는 콘텐츠의 수익 창출이 일시중지됩니다.
+닫기
+사이트 기준
+광고 단위 기준
+전체 설정
+[0] (20,34)<button aria-label='닫기' class='_ngcontent-dkg-14 mdc-icon-button' />
+	[1] (20,34)<div  />
+		[2] (20,34)<material-icon  />
+			[3] (20,34)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>close />
+광고 설정 미리보기
+|
+no-loss-info.blogspot.com
+[4] (286,34)<material-icon class='_ngcontent-dkg-16 _nghost-dkg-2' role='button' />
+	[5] (286,34)<i aria-label='자세히' class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>info_outline />
+[6] (957,34)<button class='_ngcontent-dkg-14 mdc-button' />
+	feedback
+	의견 보내기
+[7] (859,94)<tab-button aria-label='광고 설정' class='tab-button _nghost-dkg-7 _ngcontent-dkg-6 active' role='tab'>광고 설정 />
+	광고 설정
+	[8] (859,94)<material-ripple  />
+[9] (953,94)<tab-button aria-label='자동 최적화' class='tab-button _nghost-dkg-7 _ngcontent-dkg-6' role='tab'>자동 최적화 />
+	자동 최적화
+	[10] (953,94)<material-ripple  />
+[11] (897,159)<label class='_ngcontent-dkg-30'>자동 광고 />
+done
+[12] (978,159)<input aria-label='자동 광고' class='mdc-switch__native-control _ngcontent-dkg-30' id='aDE25D4DE-4738-4AE1-869B-14385350EB7C--0' role='switch' />
+사이트 전체에서 가장 적합한 위치에 자동으로 광고 게재
+[13] (881,232)<a aria-label='자동 광고에 대해 자세히 알아보기, 새 탭에서 열기' class='help-link _ngcontent-dkg-9' href='https://support.google.com/adsense/answer/9261805?hl=ko#auto_ads' role='link'>자동 광고에 대해 자세히 알아보기 />
+	[14] (933,232)<span  />
+		[15] (933,232)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>open_in_new />
+일부 형식에서는 수익 공유가 다를 수 있습니다.
+[16] (915,317)<a aria-label='형식 수익 공유에 대해 자세히 알아보기, 새 탭에서 열기' class='help-link _ngcontent-dkg-9' href='https://support.google.com/adsense/answer/14099288?hl=ko' role='link'>형식 수익 공유에 대해 자세히 알아보기 />
+	[17] (899,328)<span  />
+		[18] (899,328)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>open_in_new />
+[19] (906,427)<material-list-item class='item a3B8FDB0A-32DD-4881-971B-61837DEE9BFA--2 _nghost-dkg-36 _ngcontent-dkg-32' role='menuitem' />
+	[20] (857,426)<span  />
+		[21] (850,426)<span >의도 기반 형식 />
+		[22] (885,425)<span >베타 />
+	[23] (969,426)<div  />
+		[24] (961,426)<div >(0/1개) />
+		[25] (981,426)<material-icon  />
+			[26] (981,426)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>chevron_right />
+[27] (906,487)<material-list-item class='item a3B8FDB0A-32DD-4881-971B-61837DEE9BFA--0 _nghost-dkg-36 _ngcontent-dkg-32' role='menuitem' />
+	[28] (848,487)<span  />
+		[29] (849,487)<span >오버레이 형식 />
+	[30] (969,487)<div  />
+		[31] (961,487)<div >(3/3개) />
+		[32] (981,487)<material-icon  />
+			[33] (981,487)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>chevron_right />
+[34] (906,548)<material-list-item class='item a3B8FDB0A-32DD-4881-971B-61837DEE9BFA--1 _nghost-dkg-36 _ngcontent-dkg-32' role='menuitem' />
+	[35] (848,547)<span  />
+		[36] (849,547)<span >인페이지 형식 />
+	[37] (969,547)<div  />
+		[38] (961,547)<div >(1/3개) />
+		[39] (981,547)<material-icon  />
+			[40] (981,547)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>chevron_right />
+[41] (906,608)<material-list-item class='item a3B8FDB0A-32DD-4881-971B-61837DEE9BFA--3 _nghost-dkg-36 _ngcontent-dkg-32' role='menuitem' />
+	[42] (844,607)<span  />
+		[43] (845,607)<span >제외된 영역 />
+	[44] (981,607)<div  />
+		[45] (981,607)<material-icon  />
+			[46] (981,607)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>chevron_right />
+[47] (906,668)<material-list-item class='item a3B8FDB0A-32DD-4881-971B-61837DEE9BFA--4 _nghost-dkg-36 _ngcontent-dkg-32' role='menuitem' />
+	[48] (848,668)<span  />
+		[49] (849,668)<span >제외된 페이지 />
+	[50] (981,668)<div  />
+		[51] (981,668)<material-icon  />
+			[52] (981,668)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>chevron_right />
+[53] (906,968)<button class='mdc-button mdc-button--unelevated save-button buttons _ngcontent-dkg-19'>사이트에 적용 />
+	사이트에 적용
+arrow_back
+[54] (77,132)<button aria-label='Refresh' class='_ngcontent-dkg-14 mdc-icon-button' />
+	[55] (77,132)<div  />
+		[56] (77,132)<material-icon  />
+			[57] (77,132)<i class='material-icon-i material-icons-extended _ngcontent-dkg-2' role='img'>refresh />
+[58] (346,132)<label class='input-container _ngcontent-dkg-23' />
+	[59] (346,132)<input class='input input-area _ngcontent-dkg-23' />
+인페이지 광고 1개
+[60] (700,133)<material-button aria-label='모바일 미리보기' class='mobile-button leading-icon _nghost-dkg-24 _ngcontent-dkg-19 selected' id='a8FD11200-0ADA-491F-861B-188D6BEF4E00--0' role='button' />
+	smartphone
+	모바일
+	[61] (700,133)<material-ripple  />
+[62] (750,133)<material-button aria-label='데스크톱 미리보기' class='desktop-button leading-icon _nghost-dkg-24 _ngcontent-dkg-19' id='a873EF752-94DC-4E71-936A-49A2244DEC6E--0' role='button' />
+	computer
+	Desktop
+	[63] (751,133)<material-ripple  />
+
+</current_dom>

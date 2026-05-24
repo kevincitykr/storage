@@ -1,0 +1,46 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,38)<div  />
+	[1] (484,38)<button class='opblock-summary-control' />
+		[2] (76,38)<span >GET />
+		[3] (525,38)<div  />
+			[4] (159,38)<span  />
+				[5] (159,38)<a class='nostyle' href='#/default/get_trends_trends_get' />
+					[6] (159,38)<span >/trends />
+			[7] (235,38)<div >Get Trends />
+	[8] (949,38)<button aria-label='get ​/trends' class='opblock-control-arrow' />
+[9] (500,124)<div  />
+	[10] (484,124)<button class='opblock-summary-control' />
+		[11] (76,124)<span >POST />
+		[12] (525,124)<div  />
+			[13] (164,124)<span  />
+				[14] (164,124)<a class='nostyle' href='#/default/refresh_all_refresh_post' />
+					[15] (164,124)<span >/refresh />
+			[16] (244,124)<div >Refresh All />
+	[17] (949,124)<button aria-label='post ​/refresh' class='opblock-control-arrow' />
+[18] (500,210)<div  />
+	[19] (484,210)<button class='opblock-summary-control' />
+		[20] (76,210)<span >POST />
+		[21] (525,210)<div  />
+			[22] (168,210)<span  />
+				[23] (168,210)<a class='nostyle' href='#/default/generate_batch_generate_post' />
+					[24] (168,210)<span >/generate />
+			[25] (268,210)<div >Generate Batch />
+	[26] (949,210)<button aria-label='post ​/generate' class='opblock-control-arrow' />
+[27] (111,278)<div  />
+	[28] (90,278)<h4  />
+		[29] (90,278)<span >Parameters />
+[30] (901,278)<button class='btn try-out__btn cancel'>Cancel />
+No parameters
+Request body
+[31] (832,431)<label id='post_generate_requests_select' />
+	[32] (832,431)<select aria-label='Request content type' class='content-type' id='post_generate_requests_select' />
+[33] (87,519)<li class='tabitem active' role='presentation' />
+	[34] (80,520)<button class='tablinks' id='JktJEXo=' role='tab'>Edit Value />
+[35] (154,519)<li class='tabitem' role='presentation' />
+	[36] (146,520)<button class='tablinks inactive' id='RMBVF9o=' role='tab'>Schema />
+[37] (500,760)<textarea class='body-param__text' />
+
+</current_dom>

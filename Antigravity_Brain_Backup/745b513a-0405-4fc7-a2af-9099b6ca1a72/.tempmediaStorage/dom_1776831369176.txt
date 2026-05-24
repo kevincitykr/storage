@@ -1,0 +1,92 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (185,60)<a class='menu_item' href='/V2/info_page/subscription_page.php' />
+	[1] (185,60)<img  />
+[2] (334,60)<a class='menu_item' href='/V2/info_page/eduservice_page.php' />
+	[3] (334,60)<img  />
+[4] (502,60)<a class='menu_item' href='/V2/info_page/dafalza2.php' />
+	[5] (502,60)<img  />
+[6] (676,60)<a class='menu_item' href='/V2/info_page/aisellerbot.php' />
+	[7] (676,60)<img  />
+[8] (835,60)<a class='menu_item' href='/V2/info_page/virtual_office.php' />
+	[9] (835,60)<img  />
+[10] (959,60)<a class='menu_item' href='/V2/info_page/shared_office.php' />
+	[11] (959,60)<img  />
+[12] (807,106)<a href='https://ownerclan.notion.site/292d971668d28097af21cc06ee7f52b8' id='category_main_ad_link' />
+	[13] (807,220)<img  />
+카테고리
+[14] (527,396)<li  />
+	[15] (460,396)<span >▷ 식품 />
+[16] (707,385)<li  />
+[17] (887,385)<li  />
+[18] (527,444)<li >음료 />
+	[19] (489,445)<font >(25,241) />
+[20] (707,444)<li >과자/베이커리 />
+	[21] (730,445)<font >(13,474) />
+[22] (887,444)<li >조미료 />
+	[23] (860,445)<font >(9,607) />
+냉동/간편조리식품
+[24] (527,480)<li >건강식품 />
+	[25] (514,481)<font >(8,325) />
+[26] (707,480)<li >소스/드레싱 />
+	[27] (713,481)<font >(7,450) />
+[28] (887,480)<li >수산 />
+	[29] (846,481)<font >(6,784) />
+라면/면류
+과세/면세
+[30] (459,600)<label >전체 />
+	[31] (444,601)<input class='searchFieldRadio' id='taxType_0' />
+[32] (511,600)<label >과세 />
+	[33] (496,601)<input class='searchFieldRadio' id='taxType_1' />
+[34] (563,600)<label >면세 />
+	[35] (549,601)<input class='searchFieldRadio' id='taxType_2' />
+배송비
+[36] (988,600)<label >전체 />
+	[37] (973,601)<input class='searchFieldRadio' id='deliType_0' />
+배송지
+[38] (459,634)<label >전체 />
+	[39] (444,635)<input class='searchFieldRadio' id='origin_0' />
+[40] (523,634)<label >국내배송 />
+	[41] (496,635)<input class='searchFieldRadio' id='origin_1' />
+[42] (600,634)<label >해외배송 />
+	[43] (573,635)<input class='searchFieldRadio' id='origin_2' />
+반품가능 여부
+[44] (988,634)<label >전체 />
+	[45] (973,635)<input class='searchFieldRadio' id='returnRefuse_0' />
+반품접수 유형
+[46] (459,668)<label >전체 />
+	[47] (444,669)<input class='searchFieldRadio' id='returnStatus_0' />
+[48] (543,668)<label >공급사 반품접수 />
+	[49] (496,669)<input class='searchFieldRadio' id='returnStatus_1' />
+[50] (665,668)<label >원운송장 반품접수 />
+	[51] (612,669)<input class='searchFieldRadio' id='returnStatus_2' />
+판매타입
+[52] (988,668)<label >전체 />
+	[53] (973,669)<input class='searchFieldRadio' id='saleType_0' />
+상품가격
+[54] (465,704)<input class='searchFieldText' />
+~
+[55] (546,704)<input class='searchFieldText' />
+검색
+[56] (488,743)<select  />
+[57] (766,743)<input  />
+품/단종 상품은 노출되지 않습니다. 최근 3개월 이내 품/단종 상품은
+[
+[58] (936,779)<a href='/V2/service/soldout.php'>여기 />
+]
+서 확인 가능합니다.
+총
+113,888
+개
+의 상품이 있습니다.
+[59] (304,889)<a href='javascript:changeRankType('rankUp', 1);'>오너클랜랭킹순 />
+[60] (384,889)<a href='javascript:changeRankType('date', 2);'>신상품순 />
+[61] (453,889)<a href='javascript:changeRankType('lowPrice', 3);'>낮은가격순 />
+[62] (527,889)<a href='javascript:changeRankType('highPrice', 4);'>높은가격순 />
+[63] (348,942)<a href='/V2/product/view.php?selfcode=WFLWJ8Z' />
+[64] (574,942)<a href='/V2/product/view.php?selfcode=WFKLUHJ' />
+[65] (800,942)<a href='/V2/product/view.php?selfcode=WFKX1JG' />
+
+</current_dom>

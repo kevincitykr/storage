@@ -1,0 +1,223 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (869,19)<a href='https://wing.coupang.com/tenants/vendor-signup/signup?utm_source=button_pc_coupang_top_right_cta&utm_medium=non_paid&utm_campaign=seller_registration'>판매자 가입 />
+[1] (836,19)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+[2] (807,19)<a href='https://login.coupang.com/login/memberJoinFrm.pang' title='회원가입'>회원가입 />
+[3] (781,19)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fvp%252Fproducts%252F9474258117%253FitemId%253D28202156855%2526vendorItemId%253D95198338809' title='로그인'>로그인 />
+[4] (131,19)<a class='bookmark' id='wa-bookmark'>즐겨찾기 />
+[5] (164,19)<a class='dropdown_menu_flag'>입점신청 />
+	[6] (177,21)<i  />
+[7] (138,102)<div  />
+	[8] (138,86)<div  />
+		[9] (138,76)<div  />
+		[10] (138,86)<div  />
+		[11] (138,96)<div  />
+	[12] (138,125)<div >카테고리 />
+[13] (222,91)<a class='fw-mr-[25px] fw-inline-block fw-flex-none' href='https://www.coupang.com' />
+	[14] (222,91)<img  />
+[15] (311,91)<a class='select--category__current rlux:fw-text-bluegray-800' href='#' id='sbSelector_28372497'>전체 />
+[16] (560,92)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800 ad-keyword is-speech' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[17] (779,91)<a class='speech-mic fw-mr-[12px] fw-hidden fw-flex-none fw-cursor-pointer' />
+[18] (795,91)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[19] (795,91)<img  />
+[20] (833,91)<a href='https://mc.coupang.com/ssr/desktop/order/list' id='wa-mycoupang-link' />
+	[21] (832,82)<img  />
+	[22] (833,115)<div >마이쿠팡 />
+[23] (870,91)<a href='//cart.coupang.com/cartView.pang' id='wa-cart-link' />
+	[24] (869,82)<img  />
+	[25] (880,65)<em >0 />
+	[26] (870,115)<div >장바구니 />
+[27] (175,149)<a class='gnb-menu-btn gnb-menu-btn-left' />
+[28] (205,149)<a href='https://www.coupangplay.com/catalog' />
+	[29] (189,149)<img  />
+	[30] (211,149)<span >쿠팡플레이 />
+[31] (256,149)<a href='https://www.coupang.com/np/campaigns/82' />
+	[32] (243,149)<img  />
+	[33] (261,149)<span >로켓배송 />
+[34] (306,149)<a href='https://www.coupang.com/np/categories/393760' />
+	[35] (290,149)<img  />
+	[36] (312,149)<span >로켓프레시 />
+[37] (362,149)<a href='https://pages.coupang.com/p/168131' />
+	[38] (344,149)<img  />
+	[39] (364,149)<span >가정의 달 />
+	[40] (381,148)<i  />
+[41] (418,149)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[42] (401,149)<img  />
+	[43] (420,149)<span >다시 구매 />
+	[44] (438,148)<i  />
+[45] (471,149)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[46] (458,149)<img  />
+	[47] (476,149)<span >쿠팡비즈 />
+[48] (518,149)<a href='https://www.coupang.com/np/coupangglobal' />
+	[49] (505,149)<img  />
+	[50] (524,149)<span >로켓직구 />
+[51] (565,149)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[52] (552,149)<img  />
+	[53] (571,149)<span >골드박스 />
+[54] (616,149)<a href='https://pages.coupang.com/p/136938' />
+	[55] (600,149)<img  />
+	[56] (622,149)<span >이달의신상 />
+[57] (669,149)<a href='https://www.coupang.com/np/omp' />
+	[58] (653,149)<img  />
+	[59] (675,149)<span >판매자특가 />
+[60] (726,149)<a href='https://www.coupang.com/np/campaigns/83' />
+	[61] (707,149)<img  />
+	[62] (732,149)<span >와우회원할인 />
+[63] (784,149)<a href='https://www.coupang.com/np/coupangbenefit' />
+	[64] (767,149)<img  />
+	[65] (790,149)<span >이벤트/쿠폰 />
+[66] (836,149)<a href='https://pages.coupang.com/p/54908' />
+	[67] (823,149)<img  />
+	[68] (842,149)<span >반품마켓 />
+착한상점
+기획전
+쿠팡트래블
+[69] (880,149)<a class='gnb-menu-btn gnb-menu-btn-right gnb-menu-btn-active' />
+	[70] (880,149)<span  />
+[71] (130,191)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com'>쿠팡 홈 />
+[72] (167,191)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/178255?eventCategory=breadcrumb' title='가전디지털'>가전디지털 />
+[73] (205,191)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/497136?eventCategory=breadcrumb' title='데스크탑'>데스크탑 />
+[74] (238,191)<a class='hover:twc-text-[#008cff] hover:twc-underline' href='https://www.coupang.com/np/categories/497139?eventCategory=breadcrumb' title='조립PC'>조립PC />
+[75] (138,257)<li  />
+	[76] (138,257)<i  />
+[77] (138,338)<li  />
+	[78] (138,338)<i  />
+[79] (138,419)<li  />
+	[80] (138,419)<i  />
+[81] (436,256)<button class='twc-flex twc-h-[36px] twc-w-[36px] twc-items-center twc-justify-center twc-bg-[#fff] twc-rounded-full twc-shadow-[0_0_8px_0_rgba(0,0,0,0.15)] desktop-hover:twc-bg-[#DADCDE] active:twc-bg-[#C7CACD] focus-visible:twc-ring-2 focus-visible:twc-ring-[#0AB0FF]' />
+[82] (436,308)<button class='twc-flex twc-h-[36px] twc-w-[36px] twc-items-center twc-justify-center twc-bg-[#fff] twc-rounded-full twc-shadow-[0_0_8px_0_rgba(0,0,0,0.15)] desktop-hover:twc-bg-[#DADCDE] active:twc-bg-[#C7CACD] focus-visible:twc-ring-2 focus-visible:twc-ring-[#0AB0FF]' />
+단 2개 남음
+빨리 주문하세요!
+왕가PC 게이밍 데스크탑 윈도우 포함 울트라 250KF 270K/ RTX5060Ti 5070Ti 5080 하이엔드 전문가 조립컴퓨터 본체 AI 딥러닝 배그 검은사막 아이온2 롤
+3,297,000원
+3,940,000원
+[83] (573,328)<span  />
+	[84] (573,328)<div  />
+[85] (511,357)<div  />
+	[86] (508,357)<div  />
+		[87] (480,357)<div  />
+			[88] (480,357)<div >150,000원 />
+		[89] (506,357)<div >할인 />
+		[90] (535,357)<div >3,447,000원 />
+	[91] (557,357)<div  />
+이 상품은
+내일 도착,
+무료배송
+내일(일) 5/3
+도착 보장
+(
+16시간 10분
+내 주문 시
+/ 서울⋅경기 기준
+)
+무료배송
+판매자:
+[92] (538,513)<a class='twc-flex twc-justify-start twc-items-center twc-mx-[3px] twc-text-[#346aff]' href='https://shop.coupang.com/vid/A00807356?source=brandstore_sdp_atf&pid=9474258117&viid=95198338809&platform=p'>(주) 청운테크 />
+	[93] (559,513)<div >판매자 상품 보러가기 />
+[94] (633,570)<div  />
+	[95] (630,570)<div  />
+		[96] (630,562)<div >모델명/품번 />
+		[97] (630,577)<div >왕가PC 프라임(PRIME) P07번 />
+	[98] (795,570)<div  />
+		[99] (795,570)<i  />
+[100] (633,742)<ul class='custom-scrollbar twc-mt-[5px] twc-z-[100] twc-border-1 twc-border twc-border-t-2 twc-border-[#ddd] twc-absolute twc-top-[54px] twc-left-0 twc-w-full twc-bg-[#fff] twc-max-h-[250px] twc-overflow-auto' scrollable='true' />
+	[101] (629,649)<li  />
+		[102] (629,649)<div  />
+			[103] (629,650)<div  />
+				[104] (629,627)<div >왕가PC 프라임(PRIME) P01번 />
+				[105] (629,650)<div  />
+					[106] (487,650)<strong >1,827,000 />
+						[107] (504,650)<strong >원 />
+					[108] (515,650)<span >할인 />
+					[109] (555,650)<span >품절임박 (5개 남음) />
+						[110] (527,650)<span  />
+				[111] (629,673)<div  />
+					[112] (482,672)<em >수요일 5/6 />
+					[113] (531,672)<em >도착 예정 (판매자배송) />
+	[114] (629,734)<li  />
+		[115] (629,734)<div  />
+			[116] (629,735)<div  />
+				[117] (629,712)<div >왕가PC 프라임(PRIME) P02번 />
+				[118] (629,735)<div  />
+					[119] (487,735)<strong >1,997,000 />
+						[120] (504,735)<strong >원 />
+					[121] (515,735)<span >할인 />
+					[122] (549,734)<span  />
+						[123] (549,734)<span  />
+							[124] (542,734)<img  />
+							[125] (568,734)<img  />
+					[126] (605,735)<span >품절임박 (2개 남음) />
+						[127] (577,735)<span  />
+				[128] (629,757)<div  />
+					[129] (484,757)<em >내일(일) 5/3 />
+					[130] (516,757)<em >도착 보장 />
+	[131] (629,819)<li  />
+		[132] (629,819)<div  />
+			[133] (629,820)<div  />
+				[134] (629,797)<div >왕가PC 프라임(PRIME) P03번 />
+				[135] (629,820)<div  />
+					[136] (487,820)<strong >2,487,000 />
+						[137] (504,820)<strong >원 />
+					[138] (515,820)<span >할인 />
+					[139] (549,819)<span  />
+						[140] (549,819)<span  />
+							[141] (542,819)<img  />
+							[142] (568,819)<img  />
+					[143] (605,820)<span >품절임박 (1개 남음) />
+						[144] (577,820)<span  />
+				[145] (629,842)<div  />
+					[146] (484,842)<em >내일(일) 5/3 />
+					[147] (516,842)<em >도착 보장 />
+	왕가PC 프라임(PRIME) P04번
+	2,797,000
+	원
+	할인
+	품절임박 (8개 남음)
+	수요일 5/6
+	도착 예정 (판매자배송)
+	왕가PC 프라임(PRIME) P05번
+	2,997,000
+	원
+	할인
+	품절임박 (4개 남음)
+적립
+최대 50,000원
+쿠팡캐시 적립
+·
+쿠페이 머니 결제시
+혜택보기
+PC에서도 간편한 결제
+쿠페이머니
+카드
+계좌이체
+장바구니 담기
+바로구매
+저장장치: SSD
+종류: 조립PC
+CPU 모델명: 코어Ultra7
+그래픽 브랜드: NVIDIA
+SSD용량: 1TB
+쿠팡상품번호: 9474258117 - 28202156855
+[148] (633,972)<div  />
+	[149] (633,972)<a class='impression-logged view-logged' href='/vp/products/7342370420?itemId=25129694062&vendorItemId=81729017624&sourceType=SDP_MID_BANNER&clickEventId=10f2e330-45b0-11f1-9b20-ed119304a37f' />
+		[150] (633,972)<div  />
+			[151] (621,972)<div  />
+				[152] (597,972)<div  />
+					[153] (597,950)<div  />
+						[154] (542,950)<h4 >이런건 어때요? />
+							[155] (516,950)<strong >추천 />
+					[156] (597,972)<div  />
+						10%
+						[157] (607,974)<div  />
+							[158] (607,974)<span >피씨오브플레이어 컴퓨터 게이밍 조립컴퓨터 올인원 풀세트 모니터포함 고사양PC 오버워치 피파, 풀세트 19번, 16GB, 500GB, WIN11 Home />
+					[159] (597,993)<div  />
+						(
+						7,676
+						)
+				[160] (695,972)<div  />
+			[161] (790,972)<div  />
+				[162] (790,972)<span >광고 />
+
+</current_dom>

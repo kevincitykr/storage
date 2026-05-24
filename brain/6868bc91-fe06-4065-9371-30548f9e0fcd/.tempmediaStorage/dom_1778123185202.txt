@@ -1,0 +1,126 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	30초만에 확장 프로그램을 설치하고 쉽고 빠르게 상품을 수집하세요
+	[1] (663,53)<a href='https://chromewebstore.google.com/detail/%EC%9C%88%EB%93%A4%EB%A6%AC/kopggmlhnhalanhapdmflfmboikpjjmn'>설치하러 가기 > />
+	[2] (94,169)<div  />
+		[3] (57,169)<div  />
+			[4] (41,169)<div  />
+				[5] (41,167)<button class='normal css-4tclo e1xqknlz1' />
+					[6] (41,167)<span  />
+			[7] (84,169)<div  />
+				[8] (84,169)<span >해구대 />
+	[9] (94,500)<div class='css-1tqvssv e13wsqyi2' scrollable='true' />
+		[10] (91,250)<div  />
+			[11] (91,249)<a href='/view3/main' />
+				[12] (91,249)<div  />
+					[13] (91,249)<div  />
+						[14] (20,249)<div  />
+						[15] (37,249)<div  />
+							[16] (37,249)<span >홈 />
+		[17] (91,478)<div  />
+			[18] (91,344)<div  />
+				[19] (58,344)<div  />
+					[20] (58,344)<div  />
+						[21] (67,344)<div  />
+							[22] (67,344)<span >상품 수집 및 검색 />
+			[23] (91,414)<div  />
+				[24] (91,414)<a href='/view3/product-import' />
+					[25] (91,414)<div  />
+						[26] (91,414)<div  />
+							[27] (60,414)<div  />
+								[28] (60,414)<span >상품 수집 />
+			[29] (91,481)<a href='/view3/global-sourcing' />
+				[30] (91,481)<div  />
+					[31] (91,481)<div  />
+						[32] (80,481)<div  />
+							[33] (80,481)<span >AI 전세계 상품 수집 />
+			[34] (91,548)<div  />
+				[35] (91,548)<a href='/view3/search-product' />
+					[36] (91,548)<div  />
+						[37] (91,548)<div  />
+							[38] (73,548)<div  />
+								[39] (73,548)<span >1688 상품 검색 />
+			[40] (91,614)<div  />
+				[41] (91,614)<a href='/view3/recommended-product' />
+					[42] (91,614)<div  />
+						[43] (91,614)<div  />
+							[44] (86,614)<div  />
+								[45] (70,614)<span >인기 상품 추천 />
+								[46] (118,614)<div  />
+									[47] (118,614)<span >New />
+		[48] (91,710)<div  />
+			[49] (42,710)<div  />
+				[50] (42,710)<div  />
+					[51] (51,710)<div  />
+						[52] (51,710)<span >상품 관리 />
+		[53] (91,780)<a href='https://global.windly.cc/view2/interested-product' />
+			[54] (91,780)<div  />
+				[55] (91,780)<div  />
+					[56] (59,780)<div  />
+						[57] (59,780)<span >수집상품 />
+		등록상품
+		재고 업데이트
+		상품 분석
+	[58] (94,858)<button class='css-1pic4j8 e1xsifz91' />
+		실시간 삭제
+	[59] (94,953)<a class='css-hyck8i' href='https://global.windly.cc/view2/mypage?planPayment=true' />
+		[60] (94,953)<div  />
+			[61] (60,953)<span >플랜 결제하기 />
+	[62] (193,553)<div  />
+		[63] (187,197)<button class='normal css-4tclo e1xqknlz1' />
+			[64] (187,197)<span  />
+	재고 업데이트
+	[65] (687,153)<div  />
+		[66] (685,153)<div  />
+			[67] (677,153)<span >AI 비서 윈비 />
+			[68] (712,153)<div  />
+	[69] (753,153)<div  />
+		[70] (753,153)<div  />
+			[71] (753,153)<div  />
+	[72] (789,153)<div  />
+		[73] (789,153)<div  />
+			[74] (789,153)<div  />
+	[75] (890,153)<div  />
+		[76] (890,153)<div  />
+			[77] (890,153)<div >kkseob0116@gmail.com />
+				[78] (828,153)<div  />
+	1
+	상품 선택
+	2
+	재고 수정 업로드
+	• '라쿠텐, 도매매, 도매꾹, 오너클랜'에서 수집한 상품만 재고를 불러올 수 있어요.
+	• 수집 후 상품의 옵션그룹을 추가 혹은 삭제한 상품은 확인할 수 없어요. 자세한 사항은 사용가이드를 참고해주세요.
+	[79] (846,331)<a class='css-nud9v3 e1th2k0e0' href='https://guide.windly.cc/stock-sync' />
+		[80] (838,331)<span >사용가이드 />
+	[81] (607,447)<input class='css-7c4ua5 e2jxjl02' placeholder='상품명 검색' />
+	[82] (924,447)<button class='secondary css-nftkjq e1xqknlz1' />
+		[83] (924,447)<span >상품 코드 검색 />
+	재고 불러오기
+	[84] (782,541)<button class='active css-17ewdqg e1xqknlz1' />
+		[85] (782,541)<span >최초 업로드일 순 />
+	[86] (911,541)<div  />
+		[87] (911,541)<button class='secondary css-nftkjq e1xqknlz1' />
+			[88] (911,541)<span >최근 업로드 상품 제외 />
+	[89] (346,634)<label class='css-17agcl e1ltdz974' />
+		[90] (346,634)<div  />
+			[91] (346,634)<span  />
+	상품명
+	소싱링크
+	유입수
+	마지막 수정 등록일
+	[92] (927,908)<div  />
+		[93] (927,908)<div  />
+			[94] (940,908)<span >문의 />
+[95] (704,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[96] (704,810)<span >홈 />
+[97] (806,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[98] (806,773)<div  />
+		[99] (814,755)<div  />
+	[100] (806,811)<span >대화 />
+[101] (908,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[102] (908,810)<span >설정 />
+
+</current_dom>

@@ -1,0 +1,115 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+배송 지연 보상 ₩1,300 쿠폰
+[0] (410,42)<span >한국에서 발송 />
+	한국에서 발송
+[1] (846,36)<button class='comet-btn comet-btn-block order-item-btn' />
+	[2] (846,36)<span >삭제 />
+[3] (617,165)<div  />
+	[4] (609,165)<div  />
+		[5] (295,144)<img  />
+		[6] (617,165)<div  />
+			[7] (617,149)<div >환불 완료 />
+			[8] (617,184)<div  />
+				[9] (482,187)<span >AliExpress 처리가 완료되었습니다. 금융기관의 환불 처리는 영업일 기준 2~3일 내에 이루어집니다. />
+	[10] (940,142)<div  />
+		[11] (940,142)<span  />
+배송 중
+주문일:
+2026년 5월 3일
+주문 ID
+:
+1120411020350757
+[12] (862,333)<span >복사 />
+[13] (920,316)<a href='https://www.aliexpress.com/p/order/detail.html?orderId=1120411020350757' />
+	[14] (912,316)<span >주문 상세 />
+	[15] (943,314)<span  />
+[16] (329,405)<a href='//www.aliexpress.com/store/1103752286' />
+	[17] (323,405)<span >닥터문 공식 스토어 />
+	[18] (369,403)<span  />
+[19] (385,405)<a class='order-item-store-message' href='//msg.aliexpress.com/msgDetail.htm?from=orderDetail&digest=6d0c5e2e0058a42586331cf42a2fbf423d159eda9cb59ec385d361e5c89f7432becfc23b452dd663a83c25a3cdf97c9c' />
+	[20] (385,403)<span  />
+[21] (332,541)<a href='//www.aliexpress.com/item/1005007143616878.html' />
+	[22] (327,541)<div  />
+[23] (488,459)<a href='//www.aliexpress.com/item/1005007143616878.html' />
+	[24] (488,458)<span >일본 정품 동전파스 아요이 동전패치 100매입 2세트 />
+₩
+1
+6
+,
+9
+5
+8
+x
+1
+[25] (410,562)<span >한국에서 발송 />
+	한국에서 발송
+·
+[26] (465,562)<span  />
+	[27] (465,562)<font >무료 반품 />
+총 금액:
+₩
+1
+6
+,
+3
+7
+3
+배송 완료 확인
+배송 현황
+배송 중
+주문일:
+2026년 5월 3일
+주문 ID
+:
+1120410903900757
+복사
+주문 상세
+[28] (329,833)<a href='//www.aliexpress.com/store/1103752286' />
+	[29] (323,833)<span >닥터문 공식 스토어 />
+	[30] (369,831)<span  />
+[31] (385,833)<a class='order-item-store-message' href='//msg.aliexpress.com/msgDetail.htm?from=orderDetail&digest=6d0c5e2e0058a42586331cf42a2fbf42d011f87a198b97ba90c0852fbae98e06fe490d14f9cb74e27e2d51f4170d5c98' />
+	[32] (385,832)<span  />
+[33] (332,970)<a href='//www.aliexpress.com/item/1005007143616878.html' />
+	[34] (327,970)<div  />
+[35] (488,887)<a href='//www.aliexpress.com/item/1005007143616878.html' />
+	[36] (488,886)<span >일본 정품 동전파스 아요이 동전패치 100매입 2세트 />
+₩
+1
+6
+,
+9
+5
+8
+x
+1
+[37] (410,991)<span >한국에서 발송 />
+	한국에서 발송
+·
+무료 반품
+총 금액:
+₩
+1
+6
+,
+1
+1
+0
+[38] (846,942)<button class='comet-btn comet-btn-primary comet-btn-block order-item-btn' />
+	[39] (846,942)<span >배송 완료 확인 />
+배송 현황
+[40] (868,933)<div  />
+	[41] (868,933)<div  />
+		[42] (868,933)<div  />
+			[43] (868,931)<span  />
+Eva
+[44] (971,620)<span  />
+[45] (912,679)<li >상품을 받지 못함 />
+[46] (912,730)<li >환불을 받지 못함 />
+[47] (912,780)<li >주문 상태 확인 />
+[48] (912,830)<li >주문 취소 />
+[49] (912,886)<p >물어보세요 />
+
+</current_dom>

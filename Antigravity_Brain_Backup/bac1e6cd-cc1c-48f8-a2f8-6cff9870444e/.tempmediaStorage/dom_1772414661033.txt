@@ -1,0 +1,51 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (19,34)<div aria-label='기본 메뉴' class='gb_1c' role='button' />
+[1] (72,35)<a href='/youtube'>YouTube 고객센터 />
+[2] (321,34)<input aria-label='문제를 설명해 주세요.' class='gb_ze' placeholder='문제를 설명해 주세요.' role='combobox' />
+[3] (147,34)<button aria-label='도움말 센터 검색' class='gb_Oe search-trigger' role='button' />
+[4] (929,34)<a aria-label='Google 앱' class='gb_B' href='https://www.google.co.kr/intl/ko/about/products?tab=uh' role='button' />
+[5] (967,34)<a aria-label='로그인' class='gb_Va gb_Wd gb_Od gb_Ed' href='https://accounts.google.com/ServiceLogin?hl=ko&passive=true&continue=http://support.google.com/youtube/answer/2657964%3Fhl%3Dko&ec=GAZAdQ'>로그인 />
+	로그인
+[6] (32,102)<a class='appbar-helpcenter-sections__link appbar-helpcenter-sections--helpcenter appbar-helpcenter-sections--active' href='/youtube/?hl=ko'>도움말 센터 />
+[7] (78,102)<a class='appbar-helpcenter-sections__link appbar-helpcenter-sections--community' href='/youtube/community?hl=ko&help_center_link=CKydogESMVlvdVR1YmUg7LGE64SQIO2UhOuhnO2VhCDqtIDrpqztlZjquLAgLSDsu7Ttk6jthLA'>커뮤니티 />
+[8] (128,102)<a class='appbar-helpcenter-sections__link appbar-helpcenter-sections--announcements' href='/youtube/announcements/11909013'>크리에이터 팁 />
+[9] (966,102)<a aria-label='YouTube (새 창에서 열기)' class='product-icon' href='//www.youtube.com/' />
+	[10] (958,101)<span >YouTube />
+[11] (24,154)<li role='tab' />
+	[12] (24,154)<a role='generic'>문제 해결 />
+[13] (74,154)<li role='tab' />
+	[14] (74,154)<a role='generic'>동영상 보기 />
+[15] (137,154)<li role='tab' />
+	[16] (137,154)<a role='generic'>계정 및 설정 관리 />
+[17] (214,154)<li role='tab' />
+	[18] (214,154)<a role='generic'>YouTube의 감독 환경 />
+[19] (297,154)<li role='tab' />
+	[20] (297,154)<a role='generic'>YouTube Premium />
+[21] (384,154)<li class='top-nav-selected' role='tab' />
+	[22] (384,154)<a role='generic'>채널을 만들고 성장시키기 />
+[23] (507,154)<li role='tab' />
+	[24] (507,154)<a role='generic'>YouTube 파트너 프로그램을 통한 수익 창출 />
+[25] (619,154)<li role='tab' />
+	[26] (619,154)<a role='generic'>정책, 안전, 저작권 />
+[27] (41,210)<a aria-label='채널 맞춤설정 및 관리' href='/youtube/topic/9257786?hl=ko&ref_topic=9257610' />
+	[28] (41,210)<span >채널 맞춤설정 및 관리 />
+[29] (143,210)<a aria-label='YouTube 채널 프로필 관리하기' href='/youtube/answer/2657964' />
+	[30] (143,210)<span >YouTube 채널 프로필 관리하기 />
+전기통신사업법에 따른 불법촬영물   등을 신고하려면 이
+[31] (191,260)<a href='https://support.google.com/youtube/contact/other_legal'>웹폼을 />
+사용해주세요
+[32] (980,263)<button aria-label='닫기' class='dismiss-link' id='Notification__Korean_users__Timestamp' title='닫기' />
+YouTube 채널 프로필 관리하기
+YouTube 채널을 관리하여 채널 이름, 설명, 번역, 링크 등을 변경할 수 있습니다.
+[33] (601,304)<a class='title-link' href='/youtube/topic/9257786?hl=ko&ref_topic=9257610'>채널 맞춤설정 및 관리 />
+[34] (606,348)<a class='sibling-link' href='/youtube/answer/3027950?hl=ko&ref_topic=9257884'>채널 맞춤설정 />
+[35] (606,395)<a class='sibling-link' href='/youtube/answer/3219384?hl=ko&ref_topic=9257884'>YouTube 채널 레이아웃 맞춤설정하기 />
+[36] (606,441)<a class='sibling-link' href='/youtube/answer/10456525?hl=ko&ref_topic=9257884'>채널 브랜딩 관리 />
+[37] (606,488)<a class='sibling-link sibling-link--current' href='#'>YouTube 채널 프로필 관리하기 />
+[38] (606,534)<a class='sibling-link' href='/youtube/answer/2657968?hl=ko&ref_topic=9257884'>맞춤 URL 개요 />
+[39] (606,581)<a class='sibling-link' href='/youtube/answer/6180214?hl=ko&ref_topic=9257884'>YouTube 채널의 URL 이해하기 />
+
+</current_dom>

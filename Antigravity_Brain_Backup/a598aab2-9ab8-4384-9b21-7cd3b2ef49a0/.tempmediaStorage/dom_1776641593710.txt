@@ -1,0 +1,178 @@
+[0] (945,46)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[1] (977,46)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_1a gb_2' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://notebooklm.google.com/&ec=GBRAmgU' role='button' />
+[2] (25,46)<a aria-label='NotebookLM 홈페이지' class='logo-link' href='/' />
+	[3] (25,46)<labs-tailwind-logo  />
+		[4] (25,46)<img  />
+[5] (169,46)<input class='title-input mat-title-large ng-untouched ng-pristine ng-valid' />
+[6] (766,46)<button aria-label='노트북 만들기' class='mdc-button mat-mdc-button-base create-notebook-button mat-tonal-button mat-unthemed ng-star-inserted'>add />
+	add
+	노트북 만들기
+[7] (845,46)<button aria-label='노트북 공유' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button extendable-button-extended mat-unthemed'>share />
+	share
+	공유
+[8] (901,46)<button aria-label='설정' class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger extendable-button mat-tonal-button extendable-button-extended mat-unthemed'>settings />
+	settings
+	설정
+Tags:
+[9] (73,134)<button class='inline-flex items-center gap-0.5 px-2 py-0.5 text-xs font-medium rounded-full border border-dashed text-gray-500 hover:text-gray-700 hover:bg-gray-100 border-gray-300' />
+	[10] (78,134)<span >Add />
+No tags yet
+출처
+[11] (243,209)<button aria-label='소스 패널 접기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger toggle-source-panel-button label-medium-button ng-tns-c1370865089-0 mat-unthemed' />
+	[12] (243,209)<mat-icon class='mat-icon notranslate material-symbols-outlined google-symbols mat-icon-no-color' role='img'>dock_to_right />
+[13] (133,297)<button aria-label='출처 추가' class='mdc-button mat-mdc-button-base mat-mdc-tooltip-trigger add-source-button ng-tns-c2656230561-2 mdc-button--outlined mat-mdc-outlined-button mat-unthemed cdk-focused cdk-program-focused'>add
+소스 추가 />
+	add
+	소스 추가
+search
+[14] (139,385)<textarea aria-label='입력된 질문을 기반으로 소스 검색' class='mat-mdc-input-element cdk-textarea-autosize query-box-textarea ng-untouched ng-pristine ng-invalid mat-mdc-form-field-textarea-control mat-mdc-form-field-input-control mdc-text-field__input cdk-text-field-autofill-monitored' id='mat-input-0' placeholder='웹에서 새 소스를 검색하세요' />
+[15] (52,448)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger corpus-select corpus-menu-trigger mat-mdc-button mat-unthemed' />
+	language
+	웹
+	keyboard_arrow_down
+[16] (127,448)<button class='mdc-button mat-mdc-button-base mat-mdc-menu-trigger corpus-select researcher-menu-trigger mat-mdc-button mat-unthemed' />
+	search_spark
+	Fast Research
+	keyboard_arrow_down
+arrow_forward
+모든 소스 선택
+[17] (231,518)<div  />
+	[18] (231,518)<input aria-label='모든 출처 선택' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-0-input' />
+[19] (133,581)<div  />
+	[20] (133,581)<button aria-label='붙여넣은 텍스트' class='source-stretched-button ng-tns-c2656230561-2' />
+	[21] (34,581)<div  />
+		[22] (34,581)<div  />
+			[23] (34,581)<div  />
+				[24] (34,581)<button aria-label='더보기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger source-item-more-button ng-tns-c2656230561-2 mat-unthemed' id='source-item-more-button-bd44a155-53b6-4513-bfc9-267ee5b7ab28' />
+					[25] (34,581)<div  />
+						[26] (34,578)<mat-icon class='mat-icon notranslate source-item-source-icon ng-tns-c2656230561-2 icon icon-color google-symbols mat-icon-no-color ng-star-inserted' role='img'>description />
+	붙여넣은 텍스트
+	[27] (231,581)<div  />
+		[28] (231,581)<mat-checkbox  />
+			[29] (231,581)<div  />
+				[30] (231,581)<div  />
+					[31] (231,581)<input aria-label='붙여넣은 텍스트' class='mdc-checkbox__native-control mdc-checkbox--selected' id='mat-mdc-checkbox-1-input' />
+[32] (260,572)<div  />
+채팅
+[33] (692,209)<button aria-label='노트북 구성' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger configure-settings-button label-medium-button ng-tns-c1370865089-0 mat-unthemed ng-star-inserted' />
+	[34] (692,209)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>tune />
+[35] (718,209)<button aria-label='채팅 옵션' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-menu-trigger mat-mdc-tooltip-trigger label-medium-button ng-tns-c1370865089-0 mat-unthemed ng-star-inserted' />
+	[36] (718,209)<mat-icon class='mat-icon notranslate google-symbols mat-icon-no-color' role='img'>more_vert />
+[37] (500,548)<div class='chat-panel-content' scrollable='true' />
+	[38] (309,355)<span >🔍 />
+	[39] (676,332)<button aria-label='노트북 맞춤설정' class='mdc-button mat-mdc-button-base mat-mdc-tooltip-trigger customize-button mat-label-medium mdc-button--outlined mat-mdc-outlined-button mat-unthemed mat-mdc-tooltip-disabled ng-star-inserted'>photo_spark />
+		photo_spark
+		맞춤설정
+	Selector Identification Test Analysis
+	소스 1개
+	·
+	2026. 4. 20.
+	이 제공된 텍스트는
+	선택기 식별
+	을 연습하기 위해 마련된 일종의
+	테스트용 자료
+	입니다. 이 문서는 구체적인 정보 전달보다는
+	기술적인 분석 과정
+	을 돕기 위한 보조 도구로 활용됩니다. 복사하여 붙여넣은 형태의 텍스트 조각을 통해
+	특정 요소를 선별
+	하는 기능을 시험하고 있습니다. 따라서 이 소스의 주된 목적은 사용자에게
+	데이터 구조
+	를 파악하게 하거나 시스템의
+	식별 능력
+	을 확인하는 데 있습니다. 이 간결한 문구는 복잡한 내용 대신
+	기능적 확인
+	이라는 명확한 의도를 담고 있습니다.
+	keep
+	메모에 저장
+	copy_all
+	thumb_up
+	thumb_down
+	이 소스 자료의 핵심 주제와 주요 목적은 무엇인가요?
+[40] (462,886)<textarea aria-label='쿼리 상자' class='cdk-textarea-autosize mat-mdc-autocomplete-trigger query-box-input ng-untouched ng-pristine ng-invalid' placeholder='입력을 시작하세요…' />
+소스 1개
+arrow_forward
+[41] (740,572)<div  />
+스튜디오
+[42] (978,209)<button aria-label='스튜디오 패널 접기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base mat-mdc-tooltip-trigger toggle-studio-panel-button label-medium-button ng-tns-c1370865089-0 mat-unthemed ng-star-inserted' />
+	[43] (978,209)<mat-icon class='mat-icon notranslate material-symbols-outlined mat-icon-rtl-mirror google-symbols mat-icon-no-color' role='img'>dock_to_left />
+[44] (811,308)<div aria-label='AI 오디오 오버뷰' class='mat-mdc-tooltip-trigger blue create-artifact-button-container mat-label-medium' role='button' />
+	[45] (811,308)<span  />
+		[46] (791,308)<span  />
+			[47] (791,291)<span  />
+				[48] (769,291)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>audio_magic_eraser />
+			[49] (791,326)<span >AI 오디오 오버뷰 />
+		[50] (853,308)<div  />
+			[51] (853,311)<mat-icon class='mat-icon notranslate edit-icon mat-icon-rtl-mirror google-symbols mat-icon-no-color ng-star-inserted' role='img'>chevron_forward />
+[52] (927,308)<div aria-label='슬라이드 자료' class='mat-mdc-tooltip-trigger create-artifact-button-container mat-label-medium yellow' role='button' />
+	[53] (927,308)<span  />
+		[54] (902,308)<span  />
+			[55] (902,294)<span  />
+				[56] (884,294)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>tablet />
+				[57] (916,294)<div >베타 />
+			[58] (902,326)<span >슬라이드 자료 />
+		[59] (969,308)<div  />
+			[60] (969,311)<mat-icon class='mat-icon notranslate edit-icon mat-icon-rtl-mirror google-symbols mat-icon-no-color ng-star-inserted' role='img'>chevron_forward />
+[61] (811,401)<div aria-label='동영상 개요' class='mat-mdc-tooltip-trigger create-artifact-button-container green mat-label-medium' role='button' />
+	[62] (811,401)<span  />
+		[63] (782,401)<span  />
+			[64] (782,383)<span  />
+				[65] (769,383)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>subscriptions />
+			[66] (782,418)<span >동영상 개요 />
+		[67] (853,401)<div  />
+			[68] (853,403)<mat-icon class='mat-icon notranslate edit-icon mat-icon-rtl-mirror google-symbols mat-icon-no-color ng-star-inserted' role='img'>chevron_forward />
+[69] (927,401)<div aria-label='마인드맵' class='mat-mdc-tooltip-trigger create-artifact-button-container mat-label-medium pink' role='button' />
+	[70] (927,401)<span  />
+		[71] (894,401)<span  />
+			[72] (894,383)<span  />
+				[73] (884,383)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>flowchart />
+			[74] (894,418)<span >마인드맵 />
+[75] (811,493)<div aria-label='보고서' class='mat-mdc-tooltip-trigger create-artifact-button-container mat-label-medium yellow' role='button' />
+	[76] (811,493)<span  />
+		[77] (774,493)<span  />
+			[78] (774,475)<span  />
+				[79] (769,475)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>auto_tab_group />
+			[80] (774,510)<span >보고서 />
+		[81] (853,493)<div  />
+			[82] (853,496)<mat-icon class='mat-icon notranslate edit-icon mat-icon-rtl-mirror google-symbols mat-icon-no-color ng-star-inserted' role='img'>chevron_forward />
+[83] (927,493)<div aria-label='플래시카드' class='mat-mdc-tooltip-trigger create-artifact-button-container mat-label-medium orange' role='button' />
+	[84] (927,493)<span  />
+		[85] (897,493)<span  />
+			[86] (897,475)<span  />
+				[87] (884,475)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>cards_star />
+			[88] (897,510)<span >플래시카드 />
+		[89] (969,493)<div  />
+			[90] (969,496)<mat-icon class='mat-icon notranslate edit-icon mat-icon-rtl-mirror google-symbols mat-icon-no-color ng-star-inserted' role='img'>chevron_forward />
+[91] (811,585)<div aria-label='퀴즈' class='mat-mdc-tooltip-trigger create-artifact-button-container cyan mat-label-medium' role='button' />
+	[92] (811,585)<span  />
+		[93] (771,585)<span  />
+			[94] (771,567)<span  />
+				[95] (769,567)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>quiz />
+			[96] (771,602)<span >퀴즈 />
+		[97] (853,585)<div  />
+			[98] (853,588)<mat-icon class='mat-icon notranslate edit-icon mat-icon-rtl-mirror google-symbols mat-icon-no-color ng-star-inserted' role='img'>chevron_forward />
+[99] (927,585)<div aria-label='인포그래픽' class='mat-mdc-tooltip-trigger create-artifact-button-container mat-label-medium pink' role='button' />
+	[100] (927,585)<span  />
+		[101] (897,585)<span  />
+			[102] (897,570)<span  />
+				[103] (884,570)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>stacked_bar_chart />
+				[104] (907,570)<div >베타 />
+			[105] (897,602)<span >인포그래픽 />
+		[106] (969,585)<div  />
+			[107] (969,588)<mat-icon class='mat-icon notranslate edit-icon mat-icon-rtl-mirror google-symbols mat-icon-no-color ng-star-inserted' role='img'>chevron_forward />
+[108] (811,677)<div aria-label='데이터 표' class='mat-mdc-tooltip-trigger blue create-artifact-button-container mat-label-medium' role='button' />
+	[109] (811,677)<span  />
+		[110] (779,677)<span  />
+			[111] (779,660)<span  />
+				[112] (769,660)<mat-icon class='mat-icon notranslate artifact-icon google-symbols mat-icon-no-color ng-star-inserted' role='img'>table_view />
+			[113] (779,694)<span >데이터 표 />
+		[114] (853,677)<div  />
+			[115] (853,680)<mat-icon class='mat-icon notranslate edit-icon mat-icon-rtl-mirror google-symbols mat-icon-no-color ng-star-inserted' role='img'>chevron_forward />
+edit_fix_auto
+스튜디오 출력이 여기에 저장됩니다
+소스를 추가한 후 클릭하여 AI 오디오 오버뷰, 학습 가이드, 마인드맵 등을 추가해 보세요.
+[116] (869,916)<button class='mdc-button mat-mdc-button-base add-note-button mdc-button--outlined mat-mdc-outlined-button mat-unthemed'>sticky_note_2
+메모 추가 />
+	sticky_note_2
+	메모 추가
+NotebookLM이 부정확한 정보를 표시할 수 있으므로 대답을 다시 한번 확인하세요.

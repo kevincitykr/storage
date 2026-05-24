@@ -1,0 +1,69 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (20,40)<button id='back-button' />
+	[1] (20,37)<span >arrow_back />
+[2] (79,40)<input class='sans-flex round w-500' id='tab-title' />
+Draft
+Saved
+cloud_upload
+Publish
+[3] (873,40)<button class=' sans-flex round w-500 owner sharing-v2 ' id='share-button'>Share />
+	[4] (856,40)<span >share />
+[5] (923,40)<button class=' selected icon round w-500 sans-flex ' />
+	[6] (923,40)<span >more_vert />
+[7] (949,40)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (949,40)<span >settings />
+[9] (978,40)<button id='toggle-user-menu' />
+	[10] (978,40)<span >person />
+[11] (700,540)<div  />
+[12] (242,138)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[13] (220,138)<span >chat_mirror />
+[14] (316,138)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[15] (294,138)<span >spark />
+[16] (381,138)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[17] (364,138)<span >responsive_layout />
+[18] (455,138)<button class=' selected icon round w-500 sans-flex ' />
+	[19] (428,138)<span >add_box />
+	[20] (463,138)<span >Add Assets />
+[21] (520,158)<button >Pick File />
+[22] (544,199)<button >Create New Document />
+[23] (498,851)<button aria-label='Submit' id='submit' />
+[24] (472,851)<button  />
+	[25] (472,851)<span >mic />
+[26] (498,851)<span >progress_activity />
+[27] (673,724)<button id='zoom-to-fit' />
+	[28] (673,724)<span >fit_screen />
+[29] (673,784)<button id='zoom-in' />
+	[30] (673,784)<span >add />
+[31] (673,831)<button id='zoom-out' />
+	[32] (673,831)<span >remove />
+[33] (673,877)<button id='undo' />
+	[34] (673,877)<span >undo />
+redo
+Preview
+[35] (830,120)<button class='sans-flex w-500 round invisible'>Console />
+[36] (881,120)<button class='sans-flex w-500 round invisible'>Step />
+[37] (929,120)<button class=' sans-flex w-500 round '>Theme />
+[38] (737,199)<button id='menu' />
+	[39] (720,199)<span >menu />
+[40] (963,199)<button id='replay' />
+	[41] (980,199)<span >replay />
+Seoul Night View
+[42] (507,859)<a class='w-400 round md-title-medium' href='https://policies.google.com/terms'>Privacy
+            & Terms />
+	[43] (463,859)<span >shield_person />
+	[44] (562,859)<span >open_in_new />
+[45] (520,934)<a class='w-400 round md-title-medium' href='/'>View more
+Opal
+apps />
+	[46] (463,934)<span >gallery_thumbnail />
+	[47] (587,934)<span >open_in_new />
+Your app will appear here once it's built
+error
+No images generated.
+[48] (712,908)<button id='close' />
+	[49] (712,908)<span >close />
+
+</current_dom>

@@ -1,0 +1,139 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,46)<a class='link' href='https://www.naver.com' />
+	[1] (150,46)<i  />
+[2] (379,40)<fieldset  />
+	[3] (340,46)<input class='box_window' id='nx_query' placeholder='검색어를 입력해 주세요.' role='combobox' />
+	[4] (575,46)<button class='bt_search' />
+		[5] (572,46)<i  />
+	[6] (530,46)<a class='bt_setkr' href='#' id='ke_kbd_btn' role='button' />
+		[7] (528,46)<i  />
+	[8] (546,44)<a class='bt_atcp _btn_arw' href='#' id='nautocomplete' role='button' />
+		[9] (546,47)<i  />
+[10] (943,46)<a class='gnb_btn_login' href='https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3D%25EC%25A4%2591%25EA%25B3%25A0%25EB%2582%2598%25EB%259D%25BC%2Bi7-13700%2B4060Ti%2B%25EB%25B3%25B8%25EC%25B2%25B4' id='gnb_login_button' />
+	[11] (943,46)<span >로그인 />
+[12] (975,45)<a class='gnb_service' href='javascript:;' />
+	[13] (975,46)<span  />
+[14] (348,136)<div class='api_flicking_wrap _conveyer_root' role='tablist' scrollable='true' />
+	[15] (164,136)<a class='tab' href='?ssc=tab.blog.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+4060Ti+%EB%B3%B8%EC%B2%B4' role='tab'>블로그 />
+	[16] (208,136)<a class='tab' href='?ssc=tab.cafe.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+4060Ti+%EB%B3%B8%EC%B2%B4' role='tab'>카페 />
+	[17] (251,136)<a class='tab' href='?ssc=tab.image.all&where=image&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+4060Ti+%EB%B3%B8%EC%B2%B4' role='tab'>이미지 />
+	[18] (294,136)<a class='tab' href='?ssc=tab.clip.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+4060Ti+%EB%B3%B8%EC%B2%B4' role='tab'>클립 />
+	[19] (338,136)<a class='tab' href='?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+4060Ti+%EB%B3%B8%EC%B2%B4' role='tab'>지식iN />
+	[20] (396,136)<a class='tab' href='?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+4060Ti+%EB%B3%B8%EC%B2%B4' role='tab'>인플루언서 />
+	[21] (453,136)<a class='tab' href='?ssc=tab.video.all&where=video&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+4060Ti+%EB%B3%B8%EC%B2%B4' role='tab'>동영상 />
+	[22] (497,136)<a class='tab' href='https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+4060Ti+%EB%B3%B8%EC%B2%B4' role='tab'>쇼핑 />
+	뉴스
+	숏텐츠
+	어학사전
+	지도
+	도서
+	지식백과
+	학술정보
+[23] (542,136)<a class='btn' href='#' role='button' />
+	[24] (542,136)<span  />
+		[25] (543,136)<i  />
+[26] (574,136)<a class='nav_more _more_btn' href='#' role='button' />
+	[27] (574,138)<i  />
+[28] (967,137)<a class='spnew2_bf bt_share naver-splugin' href='#' id='spiButton2' role='button'>공유 />
+중고나라 i7-13700 4060Ti 본체 검색 결과
+네이버플러스 스토어
+[29] (270,266)<button class='y5csIcy9'>이 정보가 표시된 이유 />
+	이 정보가 표시된 이유
+[30] (359,337)<a class='Nq0fVMzq' href='https://nid.naver.com/membership/join?dtm_source=naver_plusshoping&dtm_medium=display&dtm_campaign=point' />
+	[31] (355,337)<div >지금 시작하고 최대 5% 적립을 누려요! />
+		[32] (200,337)<span >네이버플러스 멤버십 />
+찾으시는 상품과 유사한 상품을 노출합니다.
+[33] (250,556)<a class='o_ELSfeN' href='https://smartstore.naver.com/main/products/13428127562?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm128%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Db73f84c0e23ec7180ee60dceac50431a497110fc' />
+[34] (297,490)<a class='GBrjh9Fl hGyO4Mqh' href='https://smartstore.naver.com/main/products/13428127562?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm128%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Db73f84c0e23ec7180ee60dceac50431a497110fc' />
+	[35] (296,505)<span >중고 본체 i5 13400F RTX4060TI 게이밍 컴퓨터 PC J1313 />
+1,191,000
+원
+배송비
+무료
+[36] (296,575)<a class='K3t5KkCj' href='https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fkready3826&tr=nsls&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582' />
+	[37] (293,575)<span >리메이드컴퓨터 주식회사 />
+[38] (468,556)<a class='o_ELSfeN' href='https://smartstore.naver.com/main/products/11928069121?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm129%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Df60ede3620c9fb0314ba3cbff223e1a86d88096a' />
+[39] (510,490)<a class='GBrjh9Fl hGyO4Mqh' href='https://smartstore.naver.com/main/products/11928069121?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm129%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Df60ede3620c9fb0314ba3cbff223e1a86d88096a' />
+	[40] (510,505)<span >조립PC i5 14400F 16G NVMe 512G RTX4060 고사양 중고컴퓨터 />
+1,223,000
+원
+배송비
+무료
+오늘출발
+15:00까지 주문 시
+5.0
+(
+2
+)
+[41] (477,639)<a class='K3t5KkCj' href='https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fallstarcnm&tr=nsls&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582' />
+	[42] (474,639)<span >올스타컴 />
+[43] (250,786)<a class='o_ELSfeN' href='https://smartstore.naver.com/main/products/9261140529?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm129%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Df60ede3620c9fb0314ba3cbff223e1a86d88096a' />
+[44] (297,732)<a class='GBrjh9Fl hGyO4Mqh' href='https://smartstore.naver.com/main/products/9261140529?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm129%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Df60ede3620c9fb0314ba3cbff223e1a86d88096a' />
+	[45] (296,763)<span >I5 13400F RTX 4060TI 게임용 조립PC본체 고사양 게이밍컴퓨터 C905 />
+1,879,000
+원
+배송비
+무료
+5.0
+(
+9
+)
+[46] (263,849)<a class='K3t5KkCj' href='https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fsangsang27&tr=nsls&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582' />
+	[47] (260,849)<span >넥스피씨 />
+[48] (468,786)<a class='o_ELSfeN' href='https://smartstore.naver.com/main/products/9225045162?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm129%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Df60ede3620c9fb0314ba3cbff223e1a86d88096a' />
+[49] (510,732)<a class='GBrjh9Fl hGyO4Mqh' href='https://smartstore.naver.com/main/products/9225045162?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm129%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Df60ede3620c9fb0314ba3cbff223e1a86d88096a' />
+	[50] (510,747)<span >I5 13400F RTX4070TI 조립 PC 데스크탑 게이밍 컴퓨터 C520 />
+3
+%
+할인
+2,540,430
+원
+배송비
+무료
+5.0
+(
+1
+)
+[51] (477,849)<a class='K3t5KkCj' href='https://smartstore.naver.com/inflow/outlink/url?url=https%3A%2F%2Fsmartstore.naver.com%2Fsangsang27&tr=nsls&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582' />
+	[52] (474,849)<span >넥스피씨 />
+[53] (297,952)<a class='GBrjh9Fl hGyO4Mqh' href='https://smartstore.naver.com/main/products/12120564148?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm129%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Df60ede3620c9fb0314ba3cbff223e1a86d88096a' />
+	[54] (296,983)<span >조립PC i5 12400F 16G NVMe 512G RTX4060 인텔 12세대 중고컴퓨터 />
+1,148,000
+원
+배송비
+무료
+[55] (510,952)<a class='GBrjh9Fl hGyO4Mqh' href='https://smartstore.naver.com/main/products/10241805910?nl-query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC%20i7-13700%204060Ti%20%EB%B3%B8%EC%B2%B4&nl-ts-pid=jQXVLlqpsW62KOGoN7R-226582&NaPm=ci%3DjQXVLlqpsW62KOGoN7R-226582%7Cct%3Dmoujm12a%7Ctr%3Dnsls%7Csn%3D0%7Chk%3Df40637714e6cdb0d3c59eb6318501dfe20538a71' />
+	[56] (510,983)<span >I5 13400F RTX4060 조립 PC 데스크탑 게이밍 컴퓨터 어항케이스 C103 />
+1,659,000
+원
+배송비
+무료
+[57] (747,272)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001' />
+	[58] (642,272)<div  />
+		[59] (642,272)<img  />
+	[60] (758,272)<div  />
+		[61] (758,259)<strong >좋아하는 건 누구나 남기고 싶으니까 />
+		[62] (758,285)<p >클립 올리면 매주 쌓이는 Npay 포인트 />
+[63] (747,373)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2604-shopping-004&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F69b749ff027d292a723a040c%3FlayerId%3DL_260324110101827%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2604-shopping-004' />
+	[64] (642,374)<div  />
+		[65] (642,374)<img  />
+	[66] (758,374)<div  />
+		[67] (758,361)<strong >가정의달+세일 />
+		[68] (758,386)<p >선물에 진심, 혜택에 진심 N+스토어 />
+[69] (747,475)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2509-shopping-007&target=https%3A%2F%2Fshopping.naver.com%2Fns%2Fhome%2Fkurlynmart%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2509-shopping-007' />
+	[70] (642,475)<div  />
+		[71] (642,475)<img  />
+	[72] (758,475)<div  />
+		[73] (758,462)<strong >네이버에서 컬리를 />
+		[74] (758,488)<p >멤버십 2만원 이상 무료배송 />
+[75] (747,577)<a class='spnew_bf item' href='https://naver.me/FWTmTscE' />
+	[76] (642,577)<div  />
+		[77] (642,577)<img  />
+	[78] (758,577)<div  />
+		[79] (758,564)<strong >네이버가 더 편해지는 순간 />
+		[80] (758,590)<p >웨일 브라우저 알아보기 />
+
+</current_dom>

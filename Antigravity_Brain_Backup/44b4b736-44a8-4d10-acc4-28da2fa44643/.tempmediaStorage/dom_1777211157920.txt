@@ -1,0 +1,41 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Opal
+[0] (900,52)<button class=' selected icon round w-500 sans-flex ' />
+	[1] (900,52)<span >settings />
+[2] (956,52)<button id='toggle-user-menu' />
+	[3] (956,52)<span >person />
+[4] (500,553)<bb-project-listing scrollable='true' />
+	[5] (255,-10)<div class=' board mine ' />
+		[6] (255,-10)<img  />
+		[7] (261,227)<div  />
+			[8] (261,181)<h4 >Seoul Night View />
+			[9] (261,269)<p >Generate a beautiful 16:9 night view of Seoul. />
+	[10] (725,-10)<div class=' board mine ' />
+		[11] (725,-10)<img  />
+		[12] (730,193)<div  />
+			[13] (730,147)<h4 >Pratfall Effect Explainer />
+			[14] (730,269)<p >Create 10 16:9 images illustrating the Pratfall Effect concept. />
+	[15] (255,745)<div class=' board mine ' />
+		[16] (255,745)<img  />
+		[17] (79,447)<button class=' overflow-pin ' />
+			[18] (79,447)<span  />
+		[19] (437,455)<button class='overflow-menu' />
+			[20] (437,455)<span >more_vert />
+		[21] (261,1001)<div  />
+			[22] (261,974)<h4 >AI Series Creator />
+	[23] (725,745)<div class=' board mine ' />
+		[24] (725,745)<img  />
+		[25] (549,447)<button class=' overflow-pin ' />
+			[26] (549,447)<span  />
+		[27] (907,455)<button class='overflow-menu' />
+			[28] (907,455)<span >more_vert />
+		[29] (730,982)<div  />
+			[30] (730,936)<h4 >Video Dashboard />
+			[31] (730,1024)<p >Create an interactive dashboard from your video data. />
+[32] (756,905)<button id='close' />
+	[33] (756,905)<span  />
+
+</current_dom>

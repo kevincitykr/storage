@@ -1,0 +1,164 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (37,40)<button aria-label='가이드' class='style-scope yt-icon-button' id='button' />
+	[1] (37,40)<yt-icon  />
+		[2] (37,40)<span  />
+			[3] (37,40)<div  />
+[4] (122,40)<a class='yt-simple-endpoint style-scope ytd-topbar-logo-renderer' href='/' id='logo' title='YouTube 홈' />
+	[5] (122,40)<div  />
+		[6] (122,39)<ytd-logo  />
+			[7] (122,40)<yt-icon  />
+				[8] (123,40)<span  />
+					[9] (123,40)<div  />
+KR
+[10] (440,40)<div  />
+	[11] (431,40)<form  />
+		[12] (431,40)<input class='ytSearchboxComponentInput yt-searchbox-input title' placeholder='검색' role='combobox' />
+	[13] (589,40)<div  />
+		[14] (589,40)<ytd-text-input-assistant  />
+			[15] (589,40)<button class='ytdTextInputAssistantButton' />
+				[16] (589,40)<img  />
+[17] (643,40)<button aria-label='Search' class='ytSearchboxComponentSearchButton' title='검색' />
+	[18] (643,40)<span  />
+		[19] (643,40)<span  />
+			[20] (643,40)<div  />
+[21] (713,40)<button aria-label='음성으로 검색' class='yt-spec-button-shape-next yt-spec-button-shape-next--text yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-only-default yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[22] (713,40)<yt-touch-feedback-shape  />
+		[23] (713,40)<div  />
+[24] (798,40)<button aria-label='만들기' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	만들기
+	[25] (798,40)<yt-touch-feedback-shape  />
+		[26] (798,40)<div  />
+[27] (877,40)<button aria-label='알림' class='style-scope yt-icon-button' id='button' />
+	[28] (877,39)<yt-icon-badge-shape  />
+		[29] (877,40)<div  />
+			[30] (877,40)<div  />
+				[31] (877,40)<span  />
+					[32] (877,40)<span  />
+						[33] (877,40)<div  />
+			[34] (886,31)<div >3 />
+[35] (937,40)<button aria-label='계정 메뉴' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[36] (937,40)<yt-img-shadow  />
+		[37] (937,40)<img  />
+[38] (809,95)<div  />
+🔴 [Live] 제2두뇌 인젝트 하다가 막히신 분들 다 들어오세요 (에이전트 학교 심야 보충반)
+[39] (55,189)<yt-metadata-badge-renderer  />
+	회원 전용
+[40] (44,244)<a class='yt-simple-endpoint style-scope ytd-video-owner-renderer' href='/@CONNECT-AI-LAB' />
+	[41] (37,242)<yt-img-shadow  />
+		[42] (37,242)<img  />
+[43] (137,231)<a class='yt-simple-endpoint style-scope yt-formatted-string' href='/@CONNECT-AI-LAB'>CONNECT AI LAB />
+[44] (212,231)<yt-metadata-badge-renderer  />
+구독자 10.4만명
+[45] (289,244)<a aria-label='이 채널의 멤버십 관리' class='yt-spec-button-shape-next yt-spec-button-shape-next--filled yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='/channel/UCdLZ0MsYS4hmqFgOYCB6C9w/membership' />
+	혜택 보기
+	[46] (289,244)<yt-touch-feedback-shape  />
+		[47] (289,244)<div  />
+[48] (381,244)<button aria-label='현재 설정은 맞춤설정 알림 수신입니다. CONNECT AI LAB 채널의 알림 설정을 변경하려면 탭하세요.' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading-trailing yt-spec-button-shape-next--icon-leading-trailing-no-text yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[49] (381,244)<yt-touch-feedback-shape  />
+		[50] (381,244)<div  />
+[51] (530,244)<button aria-label='다른 사용자 40명과 함께 이 동영상에 좋아요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--segmented-start yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	5
+	6
+	7
+	8
+	9
+	0
+	1
+	2
+	3
+	4
+	5
+	[52] (530,244)<yt-touch-feedback-shape  />
+		[53] (530,244)<div  />
+[54] (594,244)<button aria-label='동영상에 싫어요 표시' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--segmented-end yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[55] (594,244)<yt-touch-feedback-shape  />
+		[56] (594,244)<div  />
+[57] (672,244)<button aria-label='공유' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>공유 />
+	공유
+	[58] (672,244)<yt-touch-feedback-shape  />
+		[59] (672,244)<div  />
+[60] (776,244)<button aria-label='Thanks' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>Thanks />
+	Thanks
+	[61] (776,244)<yt-touch-feedback-shape  />
+		[62] (776,244)<div  />
+[63] (880,244)<button aria-label='재생목록에 저장' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment'>저장 />
+	저장
+	[64] (880,244)<yt-touch-feedback-shape  />
+		[65] (880,244)<div  />
+[66] (949,244)<button aria-label='추가 작업' class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-button yt-spec-button-shape-next--enable-backdrop-filter-experiment' />
+	[67] (949,244)<yt-touch-feedback-shape  />
+		[68] (949,244)<div  />
+이전 실시간 스트리밍: 3시간 전
+모르는건 AI 멘토 제이에게, 
+포기만 하지 않기
+[69] (492,473)<a class='yt-simple-endpoint style-scope ytd-video-description-infocards-section-renderer' href='/@CONNECT-AI-LAB' id='header' />
+	[70] (48,473)<yt-img-shadow  />
+		[71] (48,473)<img  />
+	[72] (152,473)<div  />
+		[73] (152,460)<h3 >CONNECT AI LAB />
+		[74] (152,492)<div >구독자 10.4만명 />
+[75] (78,553)<a aria-label='동영상' class='yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='/channel/UCdLZ0MsYS4hmqFgOYCB6C9w/videos' />
+	동영상
+	[76] (78,553)<yt-touch-feedback-shape  />
+		[77] (78,553)<div  />
+[78] (178,553)<a aria-label='정보' class='yt-spec-button-shape-next yt-spec-button-shape-next--outline yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-m yt-spec-button-shape-next--icon-leading yt-spec-button-shape-next--enable-backdrop-filter-experiment' href='/channel/UCdLZ0MsYS4hmqFgOYCB6C9w/about' />
+	정보
+	[79] (178,553)<yt-touch-feedback-shape  />
+		[80] (178,553)<div  />
+[81] (50,668)<tp-yt-paper-button class='button style-scope ytd-text-inline-expander' id='collapse' role='button'>간략히 />
+[82] (258,784)<yt-video-metadata-carousel-view-model  />
+	[83] (258,749)<div  />
+		[84] (258,749)<yt-carousel-title-view-model  />
+			[85] (93,749)<div  />
+				[86] (93,749)<h2 >실시간 채팅 다시보기 />
+	[87] (258,804)<div class='ytVideoMetadataCarouselViewModelCarouselContainer' scrollable='true' />
+		[88] (260,804)<div  />
+			[89] (260,804)<yt-carousel-item-view-model aria-label='실시간 채팅 다시보기' class='ytCarouselItemViewModelHost' />
+				[90] (260,804)<yt-text-carousel-item-view-model  />
+					[91] (42,804)<span  />
+						[92] (42,804)<span  />
+							[93] (42,804)<div  />
+					[94] (237,804)<span class='ytAttributedStringHost ytTextCarouselItemViewModelText ytAttributedStringEllipsisTruncate' role='text'>실시간 스트리밍 중에 다른 사용자가 이 동영상에 대해 어떤 이야기를 했는지 확인해 보세요. />
+					[95] (455,804)<button-view-model  />
+						[96] (455,804)<button class='yt-spec-button-shape-next yt-spec-button-shape-next--tonal yt-spec-button-shape-next--mono yt-spec-button-shape-next--size-xs yt-spec-button-shape-next--enable-backdrop-filter-experiment'>패널 열기 />
+							패널 열기
+							[97] (455,804)<yt-touch-feedback-shape  />
+								[98] (455,804)<div  />
+[99] (42,907)<button class='ytChipShapeButtonReset' role='tab' />
+	[100] (42,907)<div >모두 />
+		모두
+		[101] (42,907)<yt-touch-feedback-shape  />
+			[102] (42,907)<div  />
+[103] (161,907)<button class='ytChipShapeButtonReset' role='tab' />
+	[104] (161,907)<div >CONNECT AI LAB 제공 />
+		CONNECT AI LAB 제공
+		[105] (161,907)<yt-touch-feedback-shape  />
+			[106] (161,907)<div  />
+[107] (280,907)<button class='ytChipShapeButtonReset' role='tab' />
+	[108] (280,907)<div >추천 />
+		추천
+		[109] (280,907)<yt-touch-feedback-shape  />
+			[110] (280,907)<div  />
+[111] (397,907)<button class='ytChipShapeButtonReset' role='tab' />
+	[112] (397,907)<div >최근에 업로드된 동영상 />
+		최근에 업로드된 동영상
+		[113] (397,907)<yt-touch-feedback-shape  />
+			[114] (397,907)<div  />
+[115] (543,907)<button class='ytChipShapeButtonReset' role='tab' />
+	[116] (543,907)<div >감상한 동영상 />
+		감상한 동영상
+		[117] (543,907)<yt-touch-feedback-shape  />
+			[118] (543,907)<div  />
+
+</current_dom>

@@ -1,0 +1,429 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+ようこそ 楽天市場へ
+[0] (874,27)<a aria-label='ログイン' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/authorize?client_id=rakuten_ichiba_search_web&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4070%252F100026%252F%253Fused%253D0%22%7D' />
+	[1] (874,27)<span >ログイン />
+[2] (909,27)<a aria-label='会員登録' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/register?client_id=rakuten_ichiba_search_web&service_id=r19&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4070%252F100026%252F%253Fused%253D0%22%7D' />
+	[3] (909,27)<span >会員登録 />
+[4] (964,24)<span class='reference--1B7iW' role='button' />
+	[5] (964,23)<button aria-label='Language' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b border-radius--1rtls no-padding--3cVyl type-link--SjlsF variant-gray-darker--KREPV' />
+		[6] (944,23)<span  />
+			[7] (944,23)<div  />
+		[8] (964,23)<span >Language />
+		[9] (984,23)<span  />
+			[10] (984,23)<div  />
+[11] (40,76)<a class='logo--2gpI-' href='https://www.rakuten.co.jp/?l-id=pc_header_logo' />
+	[12] (40,73)<div  />
+[13] (425,76)<input class='input-text--TRaVo' id='common-header-search-input' placeholder='キーワードから探す' />
+[14] (767,77)<div aria-label='すべての入力をクリア' class='clear-button--2KXPD' role='button' />
+[15] (789,76)<a aria-label='検索' class='link--1aOXp' href='https://search.rakuten.co.jp/search/mall' />
+	[16] (789,76)<div  />
+		[17] (789,76)<div  />
+			[18] (789,76)<div  />
+[19] (824,76)<a aria-label='Display notifications button to hover' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://t3.basket.step.rakuten.co.jp/rms/mall/bs/cartall/?l-id=pc_header_func_cart' />
+	[20] (824,67)<span  />
+		[21] (824,67)<div  />
+	[22] (824,91)<span >買い物かご />
+[23] (854,76)<span class='reference--1B7iW' role='button' />
+	[24] (854,76)<div  />
+		[25] (854,76)<button aria-label='お知らせ' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' />
+			[26] (854,67)<span  />
+				[27] (854,67)<div  />
+			[28] (854,91)<span >お知らせ />
+[29] (881,76)<a aria-label='閲覧履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://ashiato.rakuten.co.jp/rms/ashiato/page?l-id=pc_header_func_bh' />
+	[30] (881,67)<span  />
+		[31] (881,67)<div  />
+	[32] (881,91)<span >閲覧履歴 />
+[33] (911,76)<a aria-label='お気に入り' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://my.bookmark.rakuten.co.jp/?l-id=pc_header_func_bookmark' />
+	[34] (911,67)<span  />
+		[35] (911,67)<div  />
+	[36] (911,91)<span >お気に入り />
+[37] (941,76)<a aria-label='購入履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://order.my.rakuten.co.jp/?l-id=pc_header_func_ph' />
+	[38] (941,67)<span  />
+		[39] (941,67)<div  />
+	[40] (941,91)<span >購入履歴 />
+[41] (972,76)<a aria-label='myクーポン' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://coupon.rakuten.co.jp/myCoupon/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4?l-id=pc_header_func_coupon' />
+	[42] (972,67)<span  />
+		[43] (972,67)<div  />
+	[44] (972,91)<span >myクーポン />
+[45] (31,144)<a class='breadcrumbs-name--1ahfw' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?used=0'>すべてのジャンル />
+パソコン・周辺機器
+「
+RTX 4070
+」の検索結果
+1〜45件 （2,267件）
+お届け先
+[46] (969,144)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='prefecture-filter-select' />
+送料
+[47] (54,229)<label class='item' />
+	[48] (12,227)<input aria-label='すべて' id='shipping-fee-0' role='radio' />
+	[49] (26,229)<span >すべて />
+[50] (54,256)<label class='item' />
+	[51] (12,253)<input aria-label='送料無料' id='shipping-fee-1' role='radio' />
+	[52] (30,256)<span >送料無料 />
+[53] (54,282)<label class='item' />
+	[54] (12,279)<input aria-label='送料無料 + 送料無料ライン' id='shipping-fee-2' role='radio' />
+	[55] (56,282)<span >送料無料 + 送料無料ライン />
+ジャンル
+[56] (54,367)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?used=0'>すべてのジャンル />
+パソコン・周辺機器
+[57] (57,419)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100087/?used=0' title='PCパーツ' />
+	[58] (57,419)<div >PCパーツ />
+[59] (58,446)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100081/?used=0' title='グラフィックボード' />
+	[60] (58,446)<div >グラフィックボード />
+[61] (57,472)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/565162/?used=0' title='パソコン' />
+	[62] (57,472)<div >パソコン />
+[63] (58,498)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/211368/?used=0' title='デスクトップPC' />
+	[64] (58,498)<div >デスクトップPC />
+[65] (58,525)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100040/?used=0' title='ノートPC' />
+	[66] (58,525)<div >ノートPC />
+[67] (57,551)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100094/?used=0' title='PCアクセサリー' />
+	[68] (57,551)<div >PCアクセサリー />
+[69] (57,577)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/560062/?used=0' title='外付けドライブ・ストレージ' />
+	[70] (57,577)<div >外付けドライブ・ストレージ />
+[71] (57,604)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/101451/?used=0' title='ネットワーク機器' />
+	[72] (57,604)<div >ネットワーク機器 />
+[73] (29,630)<span class='toggle _link more' role='button'>さらに表示 />
+商品価格
+[74] (9,729)<div class='histogram bar' role='button' />
+[75] (11,729)<div class='histogram bar' role='button' />
+[76] (14,729)<div class='histogram bar' role='button' />
+[77] (16,729)<div class='histogram bar' role='button' />
+[78] (18,729)<div class='histogram bar' role='button' />
+[79] (20,729)<div class='histogram bar' role='button' />
+[80] (22,729)<div class='histogram bar' role='button' />
+[81] (24,729)<div class='histogram bar' role='button' />
+[82] (26,729)<div class='histogram bar' role='button' />
+[83] (28,729)<div class='histogram bar' role='button' />
+[84] (30,729)<div class='histogram bar' role='button' />
+[85] (32,729)<div class='histogram bar' role='button' />
+[86] (34,729)<div class='histogram bar' role='button' />
+[87] (36,729)<div class='histogram bar' role='button' />
+[88] (38,729)<div class='histogram bar' role='button' />
+[89] (40,729)<div class='histogram bar' role='button' />
+[90] (42,729)<div class='histogram bar' role='button' />
+[91] (45,729)<div class='histogram bar' role='button' />
+[92] (47,729)<div class='histogram bar' role='button' />
+[93] (49,729)<div class='histogram bar' role='button' />
+[94] (51,729)<div class='histogram bar' role='button' />
+[95] (53,729)<div class='histogram bar' role='button' />
+[96] (55,729)<div class='histogram bar' role='button' />
+[97] (57,729)<div class='histogram bar' role='button' />
+[98] (59,729)<div class='histogram bar' role='button' />
+[99] (61,729)<div class='histogram bar' role='button' />
+[100] (63,729)<div class='histogram bar' role='button' />
+[101] (65,729)<div class='histogram bar' role='button' />
+[102] (67,729)<div class='histogram bar' role='button' />
+[103] (69,729)<div class='histogram bar' role='button' />
+[104] (71,729)<div class='histogram bar' role='button' />
+[105] (73,729)<div class='histogram bar' role='button' />
+[106] (76,729)<div class='histogram bar' role='button' />
+[107] (78,729)<div class='histogram bar' role='button' />
+[108] (80,729)<div class='histogram bar' role='button' />
+[109] (82,729)<div class='histogram bar' role='button' />
+[110] (84,729)<div class='histogram bar' role='button' />
+[111] (86,729)<div class='histogram bar' role='button' />
+[112] (88,729)<div class='histogram bar' role='button' />
+[113] (90,729)<div class='histogram bar' role='button' />
+[114] (92,729)<div class='histogram bar' role='button' />
+[115] (94,729)<div class='histogram bar' role='button' />
+[116] (96,729)<div class='histogram bar' role='button' />
+[117] (98,729)<div class='histogram bar' role='button' />
+[118] (9,757)<div aria-label='Decrease price range' class='slider control left' role='slider' />
+[119] (99,757)<div aria-label='Increase price range' class='slider control right' role='slider' />
+[120] (29,797)<input aria-label='min price filter' class='price input' id='min-price-filter' placeholder='円' />
+~
+[121] (79,797)<input aria-label='max price filter' class='price input' id='max-price-filter' placeholder='円' />
+検索
+コンディション
+新品
+中古品
+[122] (54,984)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/tg5002023/'>レンタル />
+[123] (188,206)<label class='final-price-label--jzBLS'>「商品価格＋送料−獲得予定ポイント」で価格表示 />
+[124] (271,206)<span  />
+	[125] (271,206)<input class='control--FQ2nD' id='final-price-switch' role='switch' />
+並べ替え
+[126] (888,206)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='search-sort' />
+表示切替
+[127] (986,206)<a class='item viewtype' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/?set=view&used=0&v=2' />
+	[128] (985,206)<i  />
+価格や送料、納期等の詳細は、商品のサイズや色によって異なる場合があります
+[129] (981,277)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+商品のお届けに関するお客様ニーズを幅広く満たす商品に「最強翌日配送」ラベルを表示しています。
+[130] (436,321)<a class='text-container--2tSUW default-size--1kRiQ default-color--2fMVe style-underscore--2T7Fb link--1A1up' href='https://ichiba.faq.rakuten.net/detail/000037270'>詳細を見る />
+[131] (981,321)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+[132] (156,378)<a aria-label='パソコン・周辺機器' class='button--3YE3u button-ellipsis--34Ga8 size-xs--1qW4M size-xs-pill--3-AVi size-xs-padding--1Ud4D border-radius--11uG4 block--1_kw1 type-tag--ZajN2 active--btVZs' href='https://search.rakuten.co.jp/search/mall/RTX+4070/?used=0' />
+	[133] (151,378)<span >パソコン・周辺機器 />
+	[134] (185,378)<span  />
+		[135] (185,378)<div  />
+[136] (214,378)<a aria-label='新品' class='button--3YE3u button-ellipsis--34Ga8 size-xs--1qW4M size-xs-pill--3-AVi size-xs-padding--1Ud4D border-radius--11uG4 block--1_kw1 type-tag--ZajN2 active--btVZs' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/' />
+	[137] (209,378)<span >新品 />
+	[138] (221,378)<span  />
+		[139] (221,378)<div  />
+[140] (249,378)<a aria-label='すべて解除' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius--11uG4 no-padding--287kX type-link--3U8Az' href='https://search.rakuten.co.jp/search/mall/RTX+4070/' />
+	[141] (249,378)<span >すべて解除 />
+[142] (959,379)<div class='disclaimer-trigger--3NWjq' role='button' />
+	[143] (956,379)<div >検索結果に関する注意 />
+	[144] (988,379)<div  />
+		[145] (989,379)<div  />
+[146] (179,527)<a class='image-link-wrapper--3XCNg' href='https://grp07.ias.rakuten.co.jp/redirect_rpp/?s=80mzhtMg7vA&l=m3sfg9fLxQ4&v=9BXO9lFCPQhsp7IWwXRrhYDPt85igmZ_0iofM_Z7TUE&d=2026-05-03&q=RTX+4070&g=Ri7QfBjIpbE&j=A1gm5N5yy1s&r=6jW_Z8j10ihdUUKSxt3n-mqfhKA_MoNwWP-YVIO4ZyKNx_UD-Umdw-VJVWTY-CZhURH6Y7COVdY&ii=JlRrWpOtCSO6F_XmIb9E5Q&si=XNlVs5ITpzE&ci=629F1SkCrew&as=dFFQAC3K2XA&cp=w1AackVRueI&lg=NGedUO74quogd06J6HOawroX9eYhv0Tl&ap=&ft=LaHvrd_XM6E&e=IE0wiWDnCZE' />
+	[147] (179,527)<img  />
+[148] (157,605)<div  />
+	[149] (156,605)<div  />
+		[150] (156,605)<span class='reference--4whr_' role='button' />
+			[151] (156,605)<div  />
+				[152] (156,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[153] (156,605)<span  />
+						[154] (156,605)<div  />
+[155] (202,605)<span  />
+	[156] (202,605)<div  />
+		[157] (202,605)<div  />
+			[158] (202,605)<span class='reference--4whr_' role='button' />
+				[159] (202,605)<div  />
+					[160] (202,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[161] (202,605)<span  />
+							[162] (202,605)<div  />
+[PR]
+ASUS ROG ZEPHYRUS G16 GA605WI ゲーミングノートパソコン 16型 GeForce RTX 4070 AMD Ryzen AI 9 HX 370 メモリ 32GB SSD 1TB Wi-Fi 7 Windows 11 Home GA605WI-AI9R4070W 【Xbox Game Pass Ultimate 3か月券付属(CERO区分_Z相当(18才以上のみ対象))】
+378,000
+円
+送料無料
+68,727
+ポイント
+(
+20
+%ポイントバック)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[163] (185,821)<span class='reference--4whr_' role='button' />
+	[164] (185,821)<span  />
+		[165] (185,817)<div  />
+			[166] (185,817)<img  />
+[167] (142,849)<span class='reference--4whr_' role='button' />
+	[168] (142,849)<span  />
+		[169] (142,845)<div  />
+			[170] (142,845)<img  />
+[171] (170,877)<a class='_ellipsis' href='https://grp07.ias.rakuten.co.jp/redirect_rpp/?s=80mzhtMg7vA&l=m3sfg9fLxQ4&v=9BXO9lFCPQhsp7IWwXRrhYDPt85igmZ_0iofM_Z7TUE&d=2026-05-03&q=RTX+4070&g=Ri7QfBjIpbE&j=A1gm5N5yy1s&r=6jW_Z8j10ihdUUKSxt3n-mqfhKA_MoNwWP-YVIO4ZyKNx_UD-Umdw-VJVWTY-CZhURH6Y7COVdY&ii=JlRrWpOtCSO6F_XmIb9E5Q&si=XNlVs5ITpzE&ci=629F1SkCrew&as=dFFQAC3K2XA&cp=w1AackVRueI&lg=NGedUO74quogd06J6HOawroX9eYhv0Tl&ap=&ft=LaHvrd_XM6E&e=m3Q9UsrwdRM'>楽天スーパーDEALSHOP />
+[172] (304,527)<a class='image-link-wrapper--3XCNg' href='https://grp07.ias.rakuten.co.jp/redirect_rpp/?s=80mzhtMg7vA&l=m3sfg9fLxQ4&v=9BXO9lFCPQhsp7IWwXRrhYDPt85igmZ_0iofM_Z7TUE&d=2026-05-03&q=RTX+4070&g=Ri7QfBjIpbE&j=A1gm5N5yy1s&r=6jW_Z8j10ihdUUKSxt3n-mqfhKA_MoNwWP-YVIO4ZyKNx_UD-Umdw-VJVWTY-CZhURH6Y7COVdY&ii=y8ds39A2cdm6F_XmIb9E5Q&si=V89jf4SWPYY&ci=URI_xbO6a7U&as=dFFQAC3K2XA&cp=wVBRgU7kvYs&lg=NGedUO74quogd06J6HOawroX9eYhv0Tl&ap=&ft=LaHvrd_XM6E&e=IE0wiWDnCZE' />
+	[173] (304,527)<img  />
+[174] (282,605)<div  />
+	[175] (281,605)<div  />
+		[176] (281,605)<span class='reference--4whr_' role='button' />
+			[177] (281,605)<div  />
+				[178] (281,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[179] (281,605)<span  />
+						[180] (281,605)<div  />
+[181] (327,605)<span  />
+	[182] (327,605)<div  />
+		[183] (327,605)<div  />
+			[184] (327,605)<span class='reference--4whr_' role='button' />
+				[185] (327,605)<div  />
+					[186] (327,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[187] (327,605)<span  />
+							[188] (327,605)<div  />
+[189] (304,689)<a class='title-link--3Yuev' href='https://grp07.ias.rakuten.co.jp/redirect_rpp/?s=80mzhtMg7vA&l=m3sfg9fLxQ4&v=9BXO9lFCPQhsp7IWwXRrhYDPt85igmZ_0iofM_Z7TUE&d=2026-05-03&q=RTX+4070&g=Ri7QfBjIpbE&j=A1gm5N5yy1s&r=6jW_Z8j10ihdUUKSxt3n-mqfhKA_MoNwWP-YVIO4ZyKNx_UD-Umdw-VJVWTY-CZhURH6Y7COVdY&ii=y8ds39A2cdm6F_XmIb9E5Q&si=V89jf4SWPYY&ci=URI_xbO6a7U&as=dFFQAC3K2XA&cp=wVBRgU7kvYs&lg=NGedUO74quogd06J6HOawroX9eYhv0Tl&ap=&ft=LaHvrd_XM6E&e=IE0wiWDnCZE' title='【純正】Blade 14 rtx 4070 15.4V 68.1Wh razer ノート PC ノートパソコン 純正 バッテリー 電池'>[PR]
+【純正】Blade 14 rtx 4070 15.4V 68.1Wh razer ノート PC ノートパソコン 純正 バッテリー 電池 />
+27,717
+円
+送料無料
+251
+ポイント
+(
+1
+倍)
+4422mAh
+5/7 15:00までの注文で最短6/11お届け
+[190] (267,833)<span class='reference--4whr_' role='button' />
+	[191] (267,833)<span  />
+		[192] (267,828)<div  />
+			[193] (267,828)<img  />
+[194] (309,860)<a class='_ellipsis' href='https://grp07.ias.rakuten.co.jp/redirect_rpp/?s=80mzhtMg7vA&l=m3sfg9fLxQ4&v=9BXO9lFCPQhsp7IWwXRrhYDPt85igmZ_0iofM_Z7TUE&d=2026-05-03&q=RTX+4070&g=Ri7QfBjIpbE&j=A1gm5N5yy1s&r=6jW_Z8j10ihdUUKSxt3n-mqfhKA_MoNwWP-YVIO4ZyKNx_UD-Umdw-VJVWTY-CZhURH6Y7COVdY&ii=y8ds39A2cdm6F_XmIb9E5Q&si=V89jf4SWPYY&ci=URI_xbO6a7U&as=dFFQAC3K2XA&cp=wVBRgU7kvYs&lg=NGedUO74quogd06J6HOawroX9eYhv0Tl&ap=&ft=LaHvrd_XM6E&e=m3Q9UsrwdRM'>バッテリーショップ FULL CHARGE />
+[195] (429,527)<a class='image-link-wrapper--3XCNg' href='https://grp07.ias.rakuten.co.jp/redirect_rpp/?s=80mzhtMg7vA&l=m3sfg9fLxQ4&v=9BXO9lFCPQhsp7IWwXRrhYDPt85igmZ_0iofM_Z7TUE&d=2026-05-03&q=RTX+4070&g=Ri7QfBjIpbE&j=A1gm5N5yy1s&r=6jW_Z8j10ihdUUKSxt3n-mqfhKA_MoNwWP-YVIO4ZyKNx_UD-Umdw-VJVWTY-CZhURH6Y7COVdY&ii=8olmul0yzHq6F_XmIb9E5Q&si=V89jf4SWPYY&ci=URI_xbO6a7U&as=dFFQAC3K2XA&cp=wVBRgU7kvYs&lg=NGedUO74quogd06J6HOawroX9eYhv0Tl&ap=&ft=LaHvrd_XM6E&e=IE0wiWDnCZE' />
+	[196] (429,527)<img  />
+[197] (407,605)<div  />
+	[198] (406,605)<div  />
+		[199] (406,605)<span class='reference--4whr_' role='button' />
+			[200] (406,605)<div  />
+				[201] (406,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[202] (406,605)<span  />
+						[203] (406,605)<div  />
+[204] (452,605)<span  />
+	[205] (452,605)<div  />
+		[206] (452,605)<div  />
+			[207] (452,605)<span class='reference--4whr_' role='button' />
+				[208] (452,605)<div  />
+					[209] (452,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[210] (452,605)<span  />
+							[211] (452,605)<div  />
+[212] (429,700)<a class='title-link--3Yuev' href='https://grp07.ias.rakuten.co.jp/redirect_rpp/?s=80mzhtMg7vA&l=m3sfg9fLxQ4&v=9BXO9lFCPQhsp7IWwXRrhYDPt85igmZ_0iofM_Z7TUE&d=2026-05-03&q=RTX+4070&g=Ri7QfBjIpbE&j=A1gm5N5yy1s&r=6jW_Z8j10ihdUUKSxt3n-mqfhKA_MoNwWP-YVIO4ZyKNx_UD-Umdw-VJVWTY-CZhURH6Y7COVdY&ii=8olmul0yzHq6F_XmIb9E5Q&si=V89jf4SWPYY&ci=URI_xbO6a7U&as=dFFQAC3K2XA&cp=wVBRgU7kvYs&lg=NGedUO74quogd06J6HOawroX9eYhv0Tl&ap=&ft=LaHvrd_XM6E&e=IE0wiWDnCZE' title='【純正】Xps 15 9530 rtx 4070 11.4V 86Wh dell ノート PC ノートパソコン 純正 バッテリー 電池'>[PR]
+【純正】Xps 15 9530 rtx 4070 11.4V 86Wh dell ノート PC ノートパソコン 純正 バッテリー 電池 />
+21,214
+円
+送料無料
+192
+ポイント
+(
+1
+倍)
+7167mAh
+5/7 15:00までの注文で最短6/11お届け
+[213] (392,833)<span class='reference--4whr_' role='button' />
+	[214] (392,833)<span  />
+		[215] (392,828)<div  />
+			[216] (392,828)<img  />
+[217] (434,860)<a class='_ellipsis' href='https://grp07.ias.rakuten.co.jp/redirect_rpp/?s=80mzhtMg7vA&l=m3sfg9fLxQ4&v=9BXO9lFCPQhsp7IWwXRrhYDPt85igmZ_0iofM_Z7TUE&d=2026-05-03&q=RTX+4070&g=Ri7QfBjIpbE&j=A1gm5N5yy1s&r=6jW_Z8j10ihdUUKSxt3n-mqfhKA_MoNwWP-YVIO4ZyKNx_UD-Umdw-VJVWTY-CZhURH6Y7COVdY&ii=8olmul0yzHq6F_XmIb9E5Q&si=V89jf4SWPYY&ci=URI_xbO6a7U&as=dFFQAC3K2XA&cp=wVBRgU7kvYs&lg=NGedUO74quogd06J6HOawroX9eYhv0Tl&ap=&ft=LaHvrd_XM6E&e=m3Q9UsrwdRM'>バッテリーショップ FULL CHARGE />
+[218] (554,527)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/do-mu/bcdm9144007/?variantId=BCDM9144007' />
+	[219] (554,527)<img  />
+[220] (532,605)<div  />
+	[221] (531,605)<div  />
+		[222] (531,605)<span class='reference--4whr_' role='button' />
+			[223] (531,605)<div  />
+				[224] (531,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[225] (531,605)<span  />
+						[226] (531,605)<div  />
+[227] (577,605)<span  />
+	[228] (577,605)<div  />
+		[229] (577,605)<div  />
+			[230] (577,605)<span class='reference--4whr_' role='button' />
+				[231] (577,605)<div  />
+					[232] (577,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[233] (577,605)<span  />
+							[234] (577,605)<div  />
+【新品】Panoplia Powered by msi R7B65407SPM3D デスクトップパソコン /Windows11 Home /AMD Ryzen 7 7800X3D /メモリ 32GB /M.2 1TB /NVIDIA GeForce RTX 4070 SUPER 12GB
+306,380
+円
+送料無料
+2,785
+ポイント
+(
+1
+倍)
+1000GB
+1〜5日程度で発送予定(年末年始等を除く)
+[235] (517,833)<span class='reference--4whr_' role='button' />
+	[236] (517,833)<span  />
+		[237] (517,828)<div  />
+			[238] (517,828)<img  />
+[239] (559,860)<a class='_ellipsis' href='https://www.rakuten.co.jp/do-mu/'>パソコンショップドーム楽天市場店 />
+[240] (679,527)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/fuku_game_04/' />
+	[241] (679,527)<img  />
+[242] (657,605)<div  />
+	[243] (656,605)<div  />
+		[244] (656,605)<span class='reference--4whr_' role='button' />
+			[245] (656,605)<div  />
+				[246] (656,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[247] (656,605)<span  />
+						[248] (656,605)<div  />
+[249] (702,605)<span  />
+	[250] (702,605)<div  />
+		[251] (702,605)<div  />
+			[252] (702,605)<span class='reference--4whr_' role='button' />
+				[253] (702,605)<div  />
+					[254] (702,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[255] (702,605)<span  />
+							[256] (702,605)<div  />
+【RTX5060×Ryzen7 5700X】ゲーミングPC 新生活応援 福袋セット デスクトップPC Apex 原神対応 メモリ16GB SSD500GB Windows11 キーボード マウス 無線LAN ヘッドセット付き パソコン VALORANT フォートナイト フルHD快適 初心者 1年保証【国内組立 新品】
+165,400
+円
+送料無料
+1,503
+ポイント
+(
+1
+倍)
+500GB
+[257] (655,831)<a class='dui-rating-filter _link' href='https://review.rakuten.co.jp/item/1/425218_10000617/1.1/' />
+	[258] (628,830)<span  />
+		[259] (628,830)<i  />
+	[260] (634,830)<span  />
+		[261] (634,830)<i  />
+	[262] (641,830)<span  />
+		[263] (641,830)<i  />
+	[264] (647,830)<span  />
+		[265] (647,830)<i  />
+	[266] (653,830)<span  />
+		[267] (653,830)<i  />
+	[268] (664,830)<span >4.75 />
+	[269] (678,830)<span >(4件) />
+12:00までの注文で最短5/6お届け
+[270] (642,885)<span class='reference--4whr_' role='button' />
+	[271] (642,885)<span  />
+		[272] (642,881)<div  />
+			[273] (642,881)<img  />
+[274] (676,912)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[275] (804,527)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/superdeal/16061ga605wiai9r4070w2509/?variantId=16061ga605wiai9r4070w2509' />
+	[276] (804,527)<img  />
+[277] (782,605)<div  />
+	[278] (781,605)<div  />
+		[279] (781,605)<span class='reference--4whr_' role='button' />
+			[280] (781,605)<div  />
+				[281] (781,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[282] (781,605)<span  />
+						[283] (781,605)<div  />
+[284] (827,605)<span  />
+	[285] (827,605)<div  />
+		[286] (827,605)<div  />
+			[287] (827,605)<span class='reference--4whr_' role='button' />
+				[288] (827,605)<div  />
+					[289] (827,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[290] (827,605)<span  />
+							[291] (827,605)<div  />
+ASUS ROG ZEPHYRUS G16 GA605WI ゲーミングノートパソコン 16型 GeForce RTX 4070 AMD Ryzen AI 9 HX 370 メモリ 32GB SSD 1TB Wi-Fi 7 Windows 11 Home GA605WI-AI9R4070W 【Xbox Game Pass Ultimate 3か月券付属(CERO区分_Z相当(18才以上のみ対象))】
+378,000
+円
+送料無料
+68,727
+ポイント
+(
+20
+%ポイントバック)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[292] (810,821)<span class='reference--4whr_' role='button' />
+	[293] (810,821)<span  />
+		[294] (810,817)<div  />
+			[295] (810,817)<img  />
+[296] (767,849)<span class='reference--4whr_' role='button' />
+	[297] (767,849)<span  />
+		[298] (767,845)<div  />
+			[299] (767,845)<img  />
+[300] (795,877)<a class='_ellipsis' href='https://www.rakuten.co.jp/superdeal/'>楽天スーパーDEALSHOP />
+[301] (804,914)<a class='dui-button -bestshop -fluid' href='https://search.rakuten.co.jp/search/mall/RTX+4070/100026/?ran=40010000197105662742&s=11&used=0'>同じ商品を安い順で見る />
+[302] (929,527)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/aysgt3rkny/?variantId=aysgt3rkny' />
+	[303] (929,527)<img  />
+[304] (907,605)<div  />
+	[305] (906,605)<div  />
+		[306] (906,605)<span class='reference--4whr_' role='button' />
+			[307] (906,605)<div  />
+				[308] (906,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[309] (906,605)<span  />
+						[310] (906,605)<div  />
+[311] (952,605)<span  />
+	[312] (952,605)<div  />
+		[313] (952,605)<div  />
+			[314] (952,605)<span class='reference--4whr_' role='button' />
+				[315] (952,605)<div  />
+					[316] (952,605)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[317] (952,605)<span  />
+							[318] (952,605)<div  />
+MSI Gaming RTX 4070 Ti Super 16G Ventus 2X OC グラフィックスカード (NVIDIA Super、256ビット、エクストリームクロック:2655MHz、16GB GDRR6X 21Gbps、HDMI/DP、Ada Lovelace Architecture)
+289,513
+円
+送料無料
+2,895
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[319] (892,804)<span class='reference--4whr_' role='button' />
+	[320] (892,804)<span  />
+		[321] (892,800)<div  />
+			[322] (892,800)<img  />
+[323] (909,831)<a class='_ellipsis' href='https://www.rakuten.co.jp/palmsamerica/'>パームスアメリカ />
+
+</current_dom>

@@ -1,0 +1,112 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (349,23)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[1] (536,23)<button class='btn_search'>검색 />
+	검색
+[2] (581,23)<a class='btn_esti_02 btn_srch_reset' href='javascript:;' id='searchProductReset'>검색 초기화 />
+	[3] (562,23)<span  />
+B760M DDR5
+에 대한 검색결과입니다.
+[4] (201,148)<label >전체
+(135) />
+	(135)
+[5] (291,148)<label >메인보드
+(135) />
+	(135)
+[6] (202,380)<a >인기상품순 />
+[7] (261,380)<a >신상품순 />
+[8] (321,380)<a >낮은 가격순 />
+[9] (380,380)<a >높은 가격순 />
+[10] (439,380)<a >상품명순 />
+[11] (586,382)<button class='btn__search-detail' id='searchDetailButton'>결과 내 검색 />
+[12] (392,1066)<div class='scroll_box' scrollable='true' />
+	상품에 대한 품목 및 최저가에 대한 리스트입니다.
+	상품
+	품목
+	선택
+	[13] (187,437)<a class='btn_compare'>비교 />
+		비교
+	[14] (314,447)<a >GIGABYTE B760M DS3H GEN5 제이씨현 />
+	[15] (384,471)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / M-ATX (24.4x24.4cm) / 전원부:6+2+1페이즈 / [메모리] / 7600MHz (PC5-60800) / 4개 / 메모리 용량:최대 256GB / XMP3.0 / [확장슬롯] / PCIe버전:PCIe5.0;PCIe3.0 / PCIex16:1개 / PCIex1:2개 / [저장장치] / M.2:2개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / DP / D-SUB / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입:5개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek / 2.5Gbps / RJ-45:1개 / 오디오 칩셋:Realtek / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB3.0 헤더;USB2.0 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:3개 / I/O 헤더:TPM 헤더;프론트오디오AAFP 헤더;COM포트 헤더;LPT포트 헤더;S/PDIF OUT 헤더 / [특징] / 전원부 방열판 / M.2 히트싱크 / UEFI />
+	[16] (257,504)<div class='ninety_help distribution' />
+		[17] (256,504)<span >다나와유통 />
+	[18] (292,504)<a class='icon_style btn_review'>상품의견 />
+	136,630
+	원
+	[19] (578,496)<a class='btn_choice2 wishAction'>담기 />
+	[20] (187,559)<a class='btn_compare'>비교 />
+		비교
+	[21] (286,569)<a >MSI MAG B760M 박격포 II />
+	[22] (384,593)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / M-ATX (24.4x24.4cm) / 전원부:12+1+1페이즈 / 페이즈당75A / Vcore출력합계:900A / [메모리] / 7800MHz (PC5-62400) / 4개 / 메모리 용량:최대 256GB / XMP3.0 / [확장슬롯] / PCIe버전:PCIe5.0;PCIe3.0 / PCIex16:1개 / PCIex4:1개 / [저장장치] / M.2:3개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe;SATA / [후면단자] / HDMI / DP / USB3.x 20Gbps / USB3.x 10Gbps / USB 2.0 / RJ-45 / S/PDIF / 오디오잭 / USB A타입:7개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek 8125BG / 2.5Gbps / RJ-45:1개 / 오디오 칩셋:Realtek ALC897 / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB3.0 헤더;USB2.0 헤더;USB3.1 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더;펌프전용 헤더 / 시스템팬 4핀:4개 / I/O 헤더:TPM 헤더;디버그LED;프론트오디오AAFP 헤더 / [특징] / SPS(DrMOS) / 전원부 방열판 / M.2 히트싱크 / UEFI />
+	[23] (257,626)<div class='ninety_help distribution' />
+		[24] (256,626)<span >다나와유통 />
+	[25] (295,626)<div class='ninety_help' />
+		[26] (294,626)<span >세이프업+ />
+	[27] (329,626)<a class='icon_style btn_review'>상품의견 />
+	181,390
+	원
+	[28] (578,618)<a class='btn_choice2 wishAction'>담기 />
+	[29] (187,681)<a class='btn_compare'>비교 />
+		비교
+	[30] (317,690)<a >GIGABYTE B760M DS3H GEN5 피씨디렉트 />
+	[31] (384,715)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / M-ATX (24.4x24.4cm) / 전원부:6+2+1페이즈 / [메모리] / 7600MHz (PC5-60800) / 4개 / 메모리 용량:최대 256GB / XMP3.0 / [확장슬롯] / PCIe버전:PCIe5.0;PCIe3.0 / PCIex16:1개 / PCIex1:2개 / [저장장치] / M.2:2개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / DP / D-SUB / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입:5개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek / 2.5Gbps / RJ-45:1개 / 오디오 칩셋:Realtek / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB3.0 헤더;USB2.0 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:3개 / I/O 헤더:TPM 헤더;프론트오디오AAFP 헤더;COM포트 헤더;LPT포트 헤더;S/PDIF OUT 헤더 / [특징] / 전원부 방열판 / M.2 히트싱크 / UEFI />
+	[32] (257,748)<div class='ninety_help distribution' />
+		[33] (256,748)<span >다나와유통 />
+	[34] (295,748)<div class='ninety_help' />
+		[35] (294,748)<span >세이프업+ />
+	[36] (329,748)<a class='icon_style btn_review'>상품의견 />
+	148,650
+	원
+	[37] (578,740)<a class='btn_choice2 wishAction'>담기 />
+	[38] (187,803)<a class='btn_compare'>비교 />
+		비교
+	[39] (305,812)<a >ASUS PRIME B760M-K 인텍앤컴퍼니 />
+	[40] (384,837)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe4.0 x16 / M-ATX (24.4x21.1cm) / 전원부:8페이즈 / [메모리] / 8000MHz (PC5-64000) / 2개 / 메모리 용량:최대 96GB / XMP / [확장슬롯] / PCIe버전:PCIe4.0 / PCIex16:1개 / PCIex1:2개 / [저장장치] / M.2:2개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe / [후면단자] / HDMI / D-SUB / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입:6개 / [랜/오디오] / 유선랜 칩셋:Realtek / 2.5Gbps / RJ-45:1개 / 오디오 칩셋:Realtek / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB3.0 헤더;USB2.0 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:2개 / I/O 헤더:TPM 헤더;프론트오디오AAFP 헤더;COM포트 헤더;S/PDIF OUT 헤더 / [특징] / 전원부 방열판 / UEFI />
+	[41] (257,870)<div class='ninety_help distribution' />
+		[42] (256,870)<span >다나와유통 />
+	[43] (295,870)<div class='ninety_help' />
+		[44] (294,870)<span >세이프업+ />
+	[45] (329,870)<a class='icon_style btn_review'>상품의견 />
+	137,180
+	원
+	[46] (578,862)<a class='btn_choice2 wishAction'>담기 />
+	[47] (187,925)<a class='btn_compare'>비교 />
+		비교
+	[48] (292,934)<a >MSI MAG B760 토마호크 WIFI />
+	[49] (384,959)<a class='spec'>인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결:PCIe5.0 x16 / ATX (30.5x24.4cm) / 전원부:14페이즈 / 페이즈당75A / Vcore출력합계:900A / [메모리] / 7000MHz (PC5-56000) / 4개 / 메모리 용량:최대 192GB / XMP3.0 / [확장슬롯] / PCIe버전:PCIe5.0;PCIe4.0;PCIe3.0 / PCIex16:1개 / PCIex16(at x4):1개 / PCIex1:1개 / [저장장치] / M.2:3개 / SATA3:4개 / M.2 연결:PCIe4.0;NVMe;SATA / [후면단자] / HDMI / DP / USB3.x 20Gbps / USB3.x 10Gbps / USB 2.0 / RJ-45 / S/PDIF / 오디오잭 / USB A타입:8개 / USB C타입:1개 / [랜/오디오] / 유선랜 칩셋:Realtek 8125BG / 2.5Gbps / RJ-45:1개 / Intel 계열 / 무선랜(Wi-Fi) / 블루투스 / 오디오 칩셋:Realtek ALC897 / 7.1채널(8ch) / [내부I/O] / USB/팬 헤더:USB3.0 헤더;USB2.0 헤더;USB3.1 Type C 헤더;RGB 12V 4핀 헤더;ARGB 5V 3핀 헤더 / 시스템팬 4핀:5개 / [특징] / DrMOS / 전원부 방열판 / M.2 히트싱크 / UEFI />
+	[50] (257,992)<div class='ninety_help distribution' />
+		[51] (256,992)<span >다나와유통 />
+	[52] (295,992)<div class='ninety_help' />
+		[53] (294,992)<span >세이프업+ />
+	[54] (329,992)<a class='icon_style btn_review'>상품의견 />
+	238,700
+	원
+	[55] (578,984)<a class='btn_choice2 wishAction'>담기 />
+[56] (673,20)<a href='javascript:;'>현금 최저가 />
+[57] (776,20)<a href='javascript:;'>카드 최저가 />
+[58] (651,70)<a href='javascript:;' role='button'>견적카트 />
+[59] (741,70)<a class='btn__estimate-login checkLogin' href='javascript:;'>로그인하여 저장한 견적들을 확인해보세요. />
+[60] (724,784)<div class='pd_list_area' scrollable='true' />
+	모니터 받침대
+	키보드
+	[61] (721,152)<a class='pd_item_title' href='#'>마우스 />
+	[62] (721,206)<a class='pd_item_title' href='#'>사운드바 />
+	[63] (721,261)<a class='pd_item_title' href='#'>스피커 />
+	[64] (721,316)<a class='pd_item_title' href='#'>PC헤드셋 />
+	[65] (721,371)<a class='pd_item_title' href='#'>이어폰 />
+	[66] (721,426)<a class='pd_item_title' href='#'>공유기/무선랜 />
+	[67] (721,481)<a class='pd_item_title' href='#'>IP공유기/허브 />
+	[68] (721,536)<a class='pd_item_title' href='#'>프린터/복합기 />
+	[69] (721,591)<a class='pd_item_title' href='#'>컴퓨터 의자 />
+	[70] (721,645)<a class='pd_item_title' href='#'>케이블 />
+	[71] (721,700)<a class='pd_item_title' href='#'>컨트롤러 />
+	[72] (721,755)<a class='pd_item_title' href='#'>멀티탭 />
+	저장장치 및 멀티미디어
+	[73] (763,829)<a class='btn_close_cell' />
+	[74] (721,880)<a class='pd_item_title' href='#'>ODD />
+	[75] (721,935)<a class='pd_item_title' href='#'>외장HDD/SSD />
+	[76] (721,990)<a class='pd_item_title' href='#'>USB />
+
+</current_dom>

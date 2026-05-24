@@ -1,0 +1,84 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (210,14)<a href='https://www.njobapp.com/' />
+	[1] (210,85)<img  />
+[2] (629,14)<a href='https://domemedb.domeggook.com/index/notice/view.php?no=852' />
+	[3] (629,85)<img  />
+[4] (47,194)<a href='https://domeggook.com/main/board/boardList.php?mode=inNB&no=2643'>앱다운로드 />
+	[5] (81,197)<img  />
+[6] (131,194)<a href='https://domeggook.com/main/'>도매꾹 />
+	[7] (116,194)<img  />
+[8] (199,194)<a href='http://naggama.com/main/item/itemList.php'>나까마 />
+	[9] (184,194)<img  />
+[10] (273,194)<a href='https://campus.domeggook.com/'>교육센터 />
+	[11] (252,194)<img  />
+[12] (347,194)<a href='https://eggdome.ggook.com/'>에그돔 />
+	[13] (332,194)<img  />
+[14] (721,195)<a href='https://domeme.domeggook.com/main/member/mem_formLogin.php?back=aHR0cHM6Ly9kb21lbWVkYi5kb21lZ2dvb2suY29tL2luZGV4'>로그인 />
+[15] (777,195)<a href='https://domeme.domeggook.com/main/member/mem_formNormal.php'>회원가입 />
+[16] (852,195)<a href='https://domeme.domeggook.com/main/myPage/my_pageMain.php' title='마이페이지'>마이페이지 />
+	[17] (880,197)<img  />
+[18] (939,196)<a href='https://domeme.domeggook.com/main/myBuy/order/my_orderCart.php' title='장바구니'>장바구니 />
+	[19] (912,195)<img  />
+스피드고전송기
+[20] (119,251)<a href='https://domemedb.domeggook.com/index?fromOversea=2&mainChannel=home' id='logo' />
+	[21] (119,302)<img  />
+[22] (323,318)<a href='javascript:void(0);'>상품명 />
+[23] (602,316)<input title='검색' />
+[24] (890,318)<button class='fr' />
+	[25] (890,318)<img  />
+[26] (840,318)<a class='fr layer_btn2' href='javascript:void(0);' id='lensBtn' />
+	[27] (840,318)<img  />
+인기검색어
+3
+[28] (754,384)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=케이스'>케이스 />
+1
+4
+[29] (747,419)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=양말'>양말 />
+1
+5
+[30] (747,455)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=모자'>모자 />
+2
+6
+[31] (747,490)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=겨울'>겨울 />
+3
+7
+[32] (754,525)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=파우치'>파우치 />
+4
+8
+[33] (766,560)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=크리스마스'>크리스마스 />
+6
+9
+[34] (747,595)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=장갑'>장갑 />
+2
+10
+[35] (754,631)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=거치대'>거치대 />
+2
+1
+[36] (747,666)<a href='https://domemedb.domeggook.com/index/item/supplyList.php?sf=subject&enc=utf8&fromOversea=0&mode=search&sw=가방'>가방 />
+1
+[37] (971,311)<a class='flex-prev' href='#' />
+[38] (72,449)<a >전체카테고리 />
+	전체카테고리
+[39] (179,450)<a href='https://domemedb.domeggook.com/index/item/itemDBSearch.php?fromOversea=2'>상품검색 />
+[40] (269,450)<a href='https://domemedb.domeggook.com/index/item/safeDbList.php?fromOversea=0'>상품DB보관함 />
+[41] (374,450)<a href='https://domemedb.domeggook.com/index/item/itemDbkeepList.php?fromOversea=2'>엑셀다운로드 />
+[42] (475,450)<a href='https://domemedb.domeggook.com/index/item/itemOrderkeepList.php?fromOversea=2'>엑셀일괄주문 />
+[43] (570,450)<a href='https://domemedb.domeggook.com/index/item/itemEvent.php?fromOversea=2'>상품기획전 />
+[44] (645,450)<a href='/town/'>꾹타운 />
+[45] (725,450)<a href='https://domemedb.domeggook.com/index/static/domeggookEvent.php '>이벤트&제휴 />
+[46] (849,450)<a href='https://domemedb.domeggook.com/index/item/itemEventFromOversea.php?fromOversea=1'>해외직배송상품관 />
+|
+해외소싱&직수입지원
+[47] (629,746)<a href='javascript:void(0);' />
+	[48] (629,746)<img  />
+N잡AI전송기 PC베타버전
+[49] (186,970)<a href='javascript:void(0);' id='main_mt_2'>도매매 꾹AI추천홈 />
+[50] (395,970)<a href='javascript:void(0);' id='main_mt_3'>1688상품관APP 출시 />
+[51] (605,970)<a href='javascript:void(0);' id='main_mt_4'>신규회원 이벤트 />
+[52] (814,970)<a href='javascript:void(0);' id='main_mt_5'>해외소싱에그돔APP />
+도매꾹X쿠팡 공식협업교육
+
+</current_dom>

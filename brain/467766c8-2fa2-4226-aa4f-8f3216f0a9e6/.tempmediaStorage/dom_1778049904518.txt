@@ -1,0 +1,176 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (327,125)<a class='inline shrink-0' href='/search/%EC%8A%A4%ED%8C%80%EB%8D%B1' />
+	[7] (327,125)<span >스팀덱 />
+		[8] (317,125)<span >11
+. />
+[9] (370,125)<a class='inline shrink-0' href='/search/%EB%85%B8%ED%8A%B8%EB%B6%81' />
+	[10] (370,125)<span >노트북 />
+		[11] (359,125)<span >12
+. />
+[12] (420,125)<a class='inline shrink-0' href='/search/%EB%A0%88%EA%B3%A0%20%EC%BB%A4%EC%8A%A4%ED%85%80' />
+	[13] (420,125)<span >레고 커스텀 />
+		[14] (402,125)<span >13
+. />
+[15] (477,125)<a class='inline shrink-0' href='/search/%EB%B2%84%EC%A6%884%ED%94%84%EB%A1%9C' />
+	[16] (477,125)<span >버즈4프로 />
+		[17] (461,125)<span >14
+. />
+[18] (522,125)<a class='inline shrink-0' href='/search/%EC%A7%80%EC%83%A5' />
+	[19] (522,125)<span >지샥 />
+		[20] (515,125)<span >15
+. />
+[21] (666,69)<a href='/search/RTX%204070%20i7?sort=RECENT_SORT&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[36] (904,329)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[37] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[38] (886,369)<img  />
+검색 상품 가격 요약
+평균 가격
+2,136,750원
+가장 높은 가격
+4,500,000원
+가장 낮은 가격
+1,300,000원
+[39] (664,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[40] (664,342)<span >추천순 />
+[41] (701,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[42] (701,342)<span >최신순 />
+[43] (746,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[44] (746,342)<span >낮은가격순 />
+[45] (799,342)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[46] (799,342)<span >높은가격순 />
+[47] (239,630)<div  />
+	[48] (239,606)<a class='w-full' href='/product/228224901' />
+		[49] (239,606)<div  />
+			[50] (239,529)<div  />
+				[51] (239,529)<div  />
+				[52] (284,631)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[53] (239,744)<div  />
+				[54] (239,726)<div  />
+					[55] (239,706)<span >인텔 i7 14700F RTX4070SUPER 램32G SSD 1TB 컴퓨터 />
+					[56] (239,756)<div  />
+						[57] (239,756)<div  />
+							[58] (209,756)<span >2,200,000 />
+							[59] (243,757)<span >원 />
+				[60] (239,799)<div  />
+					[61] (239,799)<div  />
+						[62] (190,799)<span >1일 전 />
+[63] (369,630)<div  />
+	[64] (369,606)<a class='w-full' href='/product/228100535' />
+		[65] (369,606)<div  />
+			[66] (369,529)<div  />
+				[67] (369,529)<div  />
+				[68] (415,631)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[69] (369,744)<div  />
+				[70] (369,726)<div  />
+					[71] (369,706)<span >인텔 고사양 컴퓨터 i7 14700kf rtx 4070 ti super 판매합니다. />
+					[72] (369,756)<div  />
+						[73] (369,756)<div  />
+							[74] (340,756)<span >2,650,000 />
+							[75] (373,757)<span >원 />
+				[76] (369,799)<div  />
+					[77] (369,799)<div  />
+						[78] (318,799)<div  />
+							[79] (318,799)<div  />
+								[80] (323,799)<span >1 />
+						[81] (329,799)<div  />
+						[82] (344,799)<span >1일 전 />
+[83] (500,630)<div  />
+	[84] (500,604)<a class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsamd&pageKey=9021949384&itemId=26454002571&vendorItemId=93429399295&traceid=V0-153-61940f082604befc&clickBeacon=0faf7af0-4917-11f1-9923-22908a1a441a%7E3&requestid=20260506154442071309809845&token=31850C%7CMIXED' />
+		[85] (500,604)<div  />
+			[86] (500,529)<div  />
+				[87] (500,529)<div  />
+			[88] (500,743)<div  />
+				[89] (500,726)<div  />
+					[90] (500,706)<span >달컴 게이밍 풀세트 본체 배그 디아블로4 고사양PC 조립PC, 윈도우 11 홈, 1TB, 32GB, 지포스 RTX 4070 Ti, i7 13700F />
+					[91] (500,756)<div  />
+						[92] (500,756)<div  />
+							[93] (471,756)<span >3,048,000 />
+							[94] (505,757)<span >원 />
+				[95] (500,798)<div  />
+					[96] (500,798)<span >광고 |
+쿠팡 />
+[97] (631,630)<div  />
+	[98] (631,630)<a class='w-full' href='/product/228145169' />
+		[99] (631,630)<div  />
+			[100] (631,529)<div  />
+				[101] (631,529)<div  />
+				[102] (677,631)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[103] (631,769)<div  />
+				[104] (631,726)<div  />
+					[105] (631,706)<span >RTX 4070 Ti SUPER /i7-14700k고사양 게이밍 컴퓨터 />
+					[106] (631,756)<div  />
+						[107] (631,756)<div  />
+							[108] (601,756)<span >1,900,000 />
+							[109] (633,757)<span >원 />
+				[110] (631,824)<div  />
+					[111] (631,799)<div  />
+						[112] (592,799)<div  />
+							[113] (582,799)<div  />
+								[114] (587,799)<span >13 />
+							[115] (603,799)<div  />
+								[116] (609,799)<span >8 />
+						[117] (616,799)<div  />
+						[118] (630,799)<span >1일 전 />
+					[119] (631,845)<div  />
+						[120] (587,845)<div  />
+							[121] (587,845)<span >무료배송 />
+[122] (761,630)<div  />
+	[123] (761,630)<a class='w-full' href='/product/227481548' />
+		[124] (761,630)<div  />
+			[125] (761,529)<div  />
+				[126] (761,529)<div  />
+				[127] (807,631)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[128] (761,769)<div  />
+				[129] (761,726)<div  />
+					[130] (761,706)<span >빅터스 고사양 노트북 판매합니다 i7 14700hx / rtx4070 />
+					[131] (761,756)<div  />
+						[132] (761,756)<div  />
+							[133] (731,756)<span >1,300,000 />
+							[134] (764,757)<span >원 />
+				[135] (761,824)<div  />
+					[136] (761,799)<div  />
+						[137] (711,799)<div  />
+							[138] (711,799)<div  />
+								[139] (717,799)<span >5 />
+						[140] (724,799)<div  />
+						[141] (738,799)<span >1일 전 />
+					[142] (761,845)<div  />
+						[143] (718,845)<div  />
+							[144] (718,845)<span >무료배송 />
+[145] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[146] (854,907)<div  />
+		[147] (903,907)<div  />
+[148] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[149] (902,799)<span  />
+
+</current_dom>

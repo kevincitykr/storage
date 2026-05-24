@@ -1,0 +1,458 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+ようこそ 楽天市場へ
+[0] (867,27)<a aria-label='ログイン' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/authorize?client_id=rakuten_ichiba_search_web&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4060%252BTi%252B16GB%252F%253Fs%253D2%2526used%253D0%22%7D' />
+	[1] (867,27)<span >ログイン />
+[2] (902,27)<a aria-label='会員登録' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/register?client_id=rakuten_ichiba_search_web&service_id=r19&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4060%252BTi%252B16GB%252F%253Fs%253D2%2526used%253D0%22%7D' />
+	[3] (902,27)<span >会員登録 />
+[4] (957,24)<span class='reference--1B7iW' role='button' />
+	[5] (957,23)<button aria-label='Language' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b border-radius--1rtls no-padding--3cVyl type-link--SjlsF variant-gray-darker--KREPV' />
+		[6] (937,23)<span  />
+			[7] (937,23)<div  />
+		[8] (957,23)<span >Language />
+		[9] (977,23)<span  />
+			[10] (977,23)<div  />
+[11] (40,76)<a class='logo--2gpI-' href='https://www.rakuten.co.jp/?l-id=pc_header_logo' />
+	[12] (40,73)<div  />
+[13] (421,76)<input class='input-text--TRaVo' id='common-header-search-input' placeholder='キーワードから探す' />
+[14] (760,77)<div aria-label='すべての入力をクリア' class='clear-button--2KXPD' role='button' />
+[15] (782,76)<a aria-label='検索' class='link--1aOXp' href='https://search.rakuten.co.jp/search/mall' />
+	[16] (782,76)<div  />
+		[17] (782,76)<div  />
+			[18] (782,76)<div  />
+[19] (818,76)<a aria-label='Display notifications button to hover' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://t3.basket.step.rakuten.co.jp/rms/mall/bs/cartall/?l-id=pc_header_func_cart' />
+	[20] (818,67)<span  />
+		[21] (818,67)<div  />
+	[22] (818,91)<span >買い物かご />
+[23] (847,76)<span class='reference--1B7iW' role='button' />
+	[24] (847,76)<div  />
+		[25] (847,76)<button aria-label='お知らせ' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' />
+			[26] (847,67)<span  />
+				[27] (847,67)<div  />
+			[28] (847,91)<span >お知らせ />
+[29] (875,76)<a aria-label='閲覧履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://ashiato.rakuten.co.jp/rms/ashiato/page?l-id=pc_header_func_bh' />
+	[30] (875,67)<span  />
+		[31] (875,67)<div  />
+	[32] (875,91)<span >閲覧履歴 />
+[33] (904,76)<a aria-label='お気に入り' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://my.bookmark.rakuten.co.jp/?l-id=pc_header_func_bookmark' />
+	[34] (904,67)<span  />
+		[35] (904,67)<div  />
+	[36] (904,91)<span >お気に入り />
+[37] (934,76)<a aria-label='購入履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://order.my.rakuten.co.jp/?l-id=pc_header_func_ph' />
+	[38] (934,67)<span  />
+		[39] (934,67)<div  />
+	[40] (934,91)<span >購入履歴 />
+[41] (965,76)<a aria-label='myクーポン' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://coupon.rakuten.co.jp/myCoupon/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4?l-id=pc_header_func_coupon' />
+	[42] (965,67)<span  />
+		[43] (965,67)<div  />
+	[44] (965,91)<span >myクーポン />
+すべてのジャンル
+「
+RTX 4060 Ti 16GB
+」の検索結果
+1〜45件 （1,803件）
+お届け先
+[45] (963,144)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='prefecture-filter-select' />
+送料
+[46] (54,229)<label class='item' />
+	[47] (12,227)<input aria-label='すべて' id='shipping-fee-0' role='radio' />
+	[48] (26,229)<span >すべて />
+[49] (54,256)<label class='item' />
+	[50] (12,253)<input aria-label='送料無料' id='shipping-fee-1' role='radio' />
+	[51] (30,256)<span >送料無料 />
+[52] (54,282)<label class='item' />
+	[53] (12,279)<input aria-label='送料無料 + 送料無料ライン' id='shipping-fee-2' role='radio' />
+	[54] (56,282)<span >送料無料 + 送料無料ライン />
+ジャンル
+[55] (55,367)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/100026/?s=2&used=0' title='パソコン・周辺機器' />
+	[56] (55,367)<div >パソコン・周辺機器 />
+[57] (55,393)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/101164/?s=2&used=0' title='ホビー' />
+	[58] (55,393)<div >ホビー />
+商品価格
+[59] (10,492)<div class='histogram bar' role='button' />
+[60] (15,492)<div class='histogram bar' role='button' />
+[61] (19,492)<div class='histogram bar' role='button' />
+[62] (23,492)<div class='histogram bar' role='button' />
+[63] (27,492)<div class='histogram bar' role='button' />
+[64] (31,492)<div class='histogram bar' role='button' />
+[65] (35,492)<div class='histogram bar' role='button' />
+[66] (39,492)<div class='histogram bar' role='button' />
+[67] (44,492)<div class='histogram bar' role='button' />
+[68] (48,492)<div class='histogram bar' role='button' />
+[69] (52,492)<div class='histogram bar' role='button' />
+[70] (56,492)<div class='histogram bar' role='button' />
+[71] (60,492)<div class='histogram bar' role='button' />
+[72] (64,492)<div class='histogram bar' role='button' />
+[73] (68,492)<div class='histogram bar' role='button' />
+[74] (73,492)<div class='histogram bar' role='button' />
+[75] (77,492)<div class='histogram bar' role='button' />
+[76] (81,492)<div class='histogram bar' role='button' />
+[77] (85,492)<div class='histogram bar' role='button' />
+[78] (89,492)<div class='histogram bar' role='button' />
+[79] (93,492)<div class='histogram bar' role='button' />
+[80] (97,492)<div class='histogram bar' role='button' />
+[81] (9,520)<div aria-label='Decrease price range' class='slider control left' role='slider' />
+[82] (99,520)<div aria-label='Increase price range' class='slider control right' role='slider' />
+[83] (29,560)<input aria-label='min price filter' class='price input' id='min-price-filter' placeholder='円' />
+~
+[84] (79,560)<input aria-label='max price filter' class='price input' id='max-price-filter' placeholder='円' />
+[85] (54,605)<button class='dui-button -fluid'>検索 />
+	[86] (47,607)<i  />
+コンディション
+[87] (54,695)<a class='item -active' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/?s=2'>新品 />
+[88] (54,721)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/?s=2&used=1'>中古品 />
+[89] (54,747)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg5002023/?s=2'>レンタル />
+[90] (54,797)<div class='header -clickable' role='button' title='メーカー' />
+	[91] (96,797)<div  />
+		[92] (97,794)<div  />
+	[93] (51,797)<div >メーカー />
+[94] (54,832)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004776/?s=2&used=0' title='100件'>AMD />
+[95] (54,858)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004767/?s=2&used=0' title='16件'>MSI />
+[96] (54,885)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1002853/?s=2&used=0' title='8件'>ASUS />
+[97] (54,911)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004780/?s=2&used=0' title='7件'>GIGABYTE />
+[98] (54,937)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004775/?s=2&used=0' title='7件'>intel />
+[99] (54,964)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1002873/?s=2&used=0' title='4件'>マウスコンピューター />
+[100] (54,990)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004785/?s=2&used=0' title='3件'>玄人志向 />
+[101] (188,206)<label class='final-price-label--jzBLS'>「商品価格＋送料−獲得予定ポイント」で価格表示 />
+[102] (271,206)<span  />
+	[103] (271,206)<input class='control--FQ2nD' id='final-price-switch' role='switch' />
+並べ替え
+[104] (882,206)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='search-sort' />
+表示切替
+[105] (979,206)<a class='item viewtype' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/?s=2&set=view&used=0&v=2' />
+	[106] (978,206)<i  />
+お届け先(離島除く)への最安送料とお届け日を表示しています。
+お届け日は目安のため、正確な情報は注文画面でご確認ください。
+[107] (974,277)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+価格や送料、納期等の詳細は、商品のサイズや色によって異なる場合があります
+[108] (974,317)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+商品のお届けに関するお客様ニーズを幅広く満たす商品に「最強翌日配送」ラベルを表示しています。
+[109] (436,360)<a class='text-container--2tSUW default-size--1kRiQ default-color--2fMVe style-underscore--2T7Fb link--1A1up' href='https://ichiba.faq.rakuten.net/detail/000037270'>詳細を見る />
+[110] (974,360)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+[111] (134,418)<a aria-label='新品' class='button--3YE3u button-ellipsis--34Ga8 size-xs--1qW4M size-xs-pill--3-AVi size-xs-padding--1Ud4D border-radius--11uG4 block--1_kw1 type-tag--ZajN2 active--btVZs' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/?s=2' />
+	[112] (129,418)<span >新品 />
+	[113] (141,418)<span  />
+		[114] (141,418)<div  />
+[115] (169,418)<a aria-label='すべて解除' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius--11uG4 no-padding--287kX type-link--3U8Az' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/?s=2' />
+	[116] (169,418)<span >すべて解除 />
+関連性の高い商品のみ表示中
+[117] (228,460)<a href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/?s=7&used=0'>すべての商品を表示 />
+[118] (179,600)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/es_sl_c512_16g_500g/' />
+	[119] (179,600)<img  />
+[120] (156,677)<div  />
+	[121] (156,677)<div  />
+		[122] (156,677)<span class='reference--4whr_' role='button' />
+			[123] (156,677)<div  />
+				[124] (156,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[125] (156,677)<span  />
+						[126] (156,677)<div  />
+[127] (201,677)<span  />
+	[128] (201,677)<div  />
+		[129] (201,677)<div  />
+			[130] (201,677)<span class='reference--4whr_' role='button' />
+				[131] (201,677)<div  />
+					[132] (201,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[133] (201,677)<span  />
+							[134] (201,677)<div  />
+【国内組立の 新品】デスクトップPC デスクトップ パソコン ビジネス 第14世代 corei7 第12世代 corei3 corei5 Ryzen7 Windows11 SSD256GB〜1TB メモリ8GB〜32GB 1年保証 安い 激安 オフィス業務 事務作業 デスクワーク 動画視聴 おしゃれ 本体のみ
+51,800
+円〜
+送料無料
+470
+ポイント
+(
+1
+倍)
+〜
+256GB
+512GB
+1000GB
+[135] (157,875)<a class='dui-rating-filter _link' href='https://review.rakuten.co.jp/item/1/425218_10000198/1.1/' />
+	[136] (128,874)<span  />
+		[137] (128,874)<i  />
+	[138] (134,874)<span  />
+		[139] (134,874)<i  />
+	[140] (141,874)<span  />
+		[141] (141,874)<i  />
+	[142] (147,874)<span  />
+		[143] (147,874)<i  />
+	[144] (153,874)<span  />
+		[145] (153,874)<i  />
+	[146] (164,874)<span >4.33 />
+	[147] (180,874)<span >(12件) />
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[148] (182,929)<span class='reference--4whr_' role='button' />
+	[149] (182,929)<span  />
+		[150] (182,925)<div  />
+			[151] (182,925)<img  />
+[152] (176,956)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[153] (303,600)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/es_s3b_c512_16g_500g/' />
+	[154] (303,600)<img  />
+[155] (280,677)<div  />
+	[156] (280,677)<div  />
+		[157] (280,677)<span class='reference--4whr_' role='button' />
+			[158] (280,677)<div  />
+				[159] (280,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[160] (280,677)<span  />
+						[161] (280,677)<div  />
+[162] (325,677)<span  />
+	[163] (325,677)<div  />
+		[164] (325,677)<div  />
+			[165] (325,677)<span class='reference--4whr_' role='button' />
+				[166] (325,677)<div  />
+					[167] (325,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[168] (325,677)<span  />
+							[169] (325,677)<div  />
+【国内組立の 新品】デスクトップPC デスクトップ パソコン ビジネス 第14世代 corei7 第12世代 corei3 corei5 Ryzen7 Windows11 SSD256GB〜1TB メモリ8GB〜32GB 1年保証 安い 激安 オフィス業務 事務作業 デスクワーク 動画視聴 おしゃれ 本体のみ
+51,800
+円〜
+送料無料
+470
+ポイント
+(
+1
+倍)
+〜
+256GB
+512GB
+1000GB
+[170] (277,875)<a class='dui-rating-filter _link' href='https://review.rakuten.co.jp/item/1/425218_10000039/1.1/' />
+	[171] (252,874)<span  />
+		[172] (252,874)<i  />
+	[173] (258,874)<span  />
+		[174] (258,874)<i  />
+	[175] (265,874)<span  />
+		[176] (265,874)<i  />
+	[177] (271,874)<span  />
+		[178] (271,874)<i  />
+	[179] (277,874)<span  />
+		[180] (277,874)<i  />
+	[181] (286,874)<span >4.6 />
+	[182] (299,874)<span >(5件) />
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[183] (306,929)<span class='reference--4whr_' role='button' />
+	[184] (306,929)<span  />
+		[185] (306,925)<div  />
+			[186] (306,925)<img  />
+[187] (300,956)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[188] (427,600)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/es_s3w_c512_16g_500g/' />
+	[189] (427,600)<img  />
+[190] (404,677)<div  />
+	[191] (404,677)<div  />
+		[192] (404,677)<span class='reference--4whr_' role='button' />
+			[193] (404,677)<div  />
+				[194] (404,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[195] (404,677)<span  />
+						[196] (404,677)<div  />
+[197] (449,677)<span  />
+	[198] (449,677)<div  />
+		[199] (449,677)<div  />
+			[200] (449,677)<span class='reference--4whr_' role='button' />
+				[201] (449,677)<div  />
+					[202] (449,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[203] (449,677)<span  />
+							[204] (449,677)<div  />
+【国内組立の 新品】デスクトップPC デスクトップ パソコン ビジネス 第14世代 corei7 第12世代 corei3 corei5 Ryzen7 Windows11 SSD256GB〜1TB メモリ8GB〜32GB 1年保証 安い 激安 オフィス業務 事務作業 デスクワーク 動画視聴 おしゃれ 本体のみ
+51,800
+円〜
+送料無料
+470
+ポイント
+(
+1
+倍)
+〜
+256GB
+512GB
+1000GB
+[205] (399,875)<a class='dui-rating-filter _link' href='https://review.rakuten.co.jp/item/1/425218_10000038/1.1/' />
+	[206] (376,874)<span  />
+		[207] (376,874)<i  />
+	[208] (382,874)<span  />
+		[209] (382,874)<i  />
+	[210] (389,874)<span  />
+		[211] (389,874)<i  />
+	[212] (395,874)<span  />
+		[213] (395,874)<i  />
+	[214] (401,874)<span  />
+		[215] (401,874)<i  />
+	[216] (407,874)<span >4 />
+	[217] (417,874)<span >(1件) />
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[218] (430,929)<span class='reference--4whr_' role='button' />
+	[219] (430,929)<span  />
+		[220] (430,925)<div  />
+			[221] (430,925)<img  />
+[222] (424,956)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[223] (551,600)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/s2b_5600g_16g_256g/?variantId=s2b_5600g_16g_256g' />
+	[224] (551,600)<img  />
+[225] (528,677)<div  />
+	[226] (528,677)<div  />
+		[227] (528,677)<span class='reference--4whr_' role='button' />
+			[228] (528,677)<div  />
+				[229] (528,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[230] (528,677)<span  />
+						[231] (528,677)<div  />
+[232] (573,677)<span  />
+	[233] (573,677)<div  />
+		[234] (573,677)<div  />
+			[235] (573,677)<span class='reference--4whr_' role='button' />
+				[236] (573,677)<div  />
+					[237] (573,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[238] (573,677)<span  />
+							[239] (573,677)<div  />
+【最短 当日出荷！国内組立の 新品】デスクトップPC デスクトップパソコン ビジネス Ryzen5 5600GT Windows11 SSD256GB メモリ 8GB 1年保証 激安 ゲーム ゲーミングパソコン ゲーミングPC マインクラフト ヴァロラント eスポーツ 入門用 本体のみ
+59,800
+円
+送料無料
+543
+ポイント
+(
+1
+倍)
+[240] (523,846)<a class='dui-rating-filter _link' href='https://review.rakuten.co.jp/item/1/425218_10000271/1.1/' />
+	[241] (500,845)<span  />
+		[242] (500,845)<i  />
+	[243] (506,845)<span  />
+		[244] (506,845)<i  />
+	[245] (513,845)<span  />
+		[246] (513,845)<i  />
+	[247] (519,845)<span  />
+		[248] (519,845)<i  />
+	[249] (525,845)<span  />
+		[250] (525,845)<i  />
+	[251] (531,845)<span >5 />
+	[252] (541,845)<span >(1件) />
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[253] (554,900)<span class='reference--4whr_' role='button' />
+	[254] (554,900)<span  />
+		[255] (554,896)<div  />
+			[256] (554,896)<img  />
+[257] (548,927)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[258] (675,600)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/es_s3b_c312_8g_256g/?variantId=es_s3w_c312_16g_256g' />
+	[259] (675,600)<img  />
+[260] (653,677)<div  />
+	[261] (652,677)<div  />
+		[262] (652,677)<span class='reference--4whr_' role='button' />
+			[263] (652,677)<div  />
+				[264] (652,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[265] (652,677)<span  />
+						[266] (652,677)<div  />
+[267] (697,677)<span  />
+	[268] (697,677)<div  />
+		[269] (697,677)<div  />
+			[270] (697,677)<span class='reference--4whr_' role='button' />
+				[271] (697,677)<div  />
+					[272] (697,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[273] (697,677)<span  />
+							[274] (697,677)<div  />
+【国内組立の 新品】デスクトップPC デスクトップ パソコン ビジネス 第12世代 corei3 Windows11 10 SSD256GB メモリ 8GB デスクトップPC 1年保証 安い 激安 オフィス業務 事務作業 デスクワーク 高スペック 動画視聴 おしゃれ ★本体のみ★
+60,500
+円
+送料無料
+550
+ポイント
+(
+1
+倍)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[275] (678,876)<span class='reference--4whr_' role='button' />
+	[276] (678,876)<span  />
+		[277] (678,872)<div  />
+			[278] (678,872)<img  />
+[279] (672,903)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[280] (799,600)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/at_5600g_16g_256g/?variantId=at_5600g_16g_256g' />
+	[281] (799,600)<img  />
+[282] (777,677)<div  />
+	[283] (776,677)<div  />
+		[284] (776,677)<span class='reference--4whr_' role='button' />
+			[285] (776,677)<div  />
+				[286] (776,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[287] (776,677)<span  />
+						[288] (776,677)<div  />
+[289] (821,677)<span  />
+	[290] (821,677)<div  />
+		[291] (821,677)<div  />
+			[292] (821,677)<span class='reference--4whr_' role='button' />
+				[293] (821,677)<div  />
+					[294] (821,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[295] (821,677)<span  />
+							[296] (821,677)<div  />
+【国内組立の 新品】新品 デスクトップPC デスクトップパソコン ビジネス Ryzen5 5600GT Windows10 11 SSD256GB メモリ 16GB 1年保証 激安 ゲーム ゲーミングパソコン ゲーミングPC マインクラフト ヴァロラント 原神 eスポーツ おしゃれ 入門用 ★本体のみ★
+66,100
+円
+送料無料
+600
+ポイント
+(
+1
+倍)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[297] (802,876)<span class='reference--4whr_' role='button' />
+	[298] (802,876)<span  />
+		[299] (802,872)<div  />
+			[300] (802,872)<img  />
+[301] (796,903)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[302] (923,600)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/bm_5600g_16g_256g/?variantId=bm_5600g_16g_256g' />
+	[303] (923,600)<img  />
+[304] (901,677)<div  />
+	[305] (900,677)<div  />
+		[306] (900,677)<span class='reference--4whr_' role='button' />
+			[307] (900,677)<div  />
+				[308] (900,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[309] (900,677)<span  />
+						[310] (900,677)<div  />
+[311] (945,677)<span  />
+	[312] (945,677)<div  />
+		[313] (945,677)<div  />
+			[314] (945,677)<span class='reference--4whr_' role='button' />
+				[315] (945,677)<div  />
+					[316] (945,677)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[317] (945,677)<span  />
+							[318] (945,677)<div  />
+【国内組立の 新品】新品 デスクトップPC デスクトップパソコン ビジネス Ryzen5 5600GT Windows10 11 SSD256GB メモリ 16GB 1年保証 激安 ゲーム ゲーミングパソコン ゲーミングPC マインクラフト ヴァロラント 原神 eスポーツ おしゃれ 入門用 ★本体のみ★
+66,100
+円
+送料無料
+600
+ポイント
+(
+1
+倍)
+[319] (895,846)<a class='dui-rating-filter _link' href='https://review.rakuten.co.jp/item/1/425218_10000275/1.1/' />
+	[320] (872,845)<span  />
+		[321] (872,845)<i  />
+	[322] (879,845)<span  />
+		[323] (879,845)<i  />
+	[324] (885,845)<span  />
+		[325] (885,845)<i  />
+	[326] (891,845)<span  />
+		[327] (891,845)<i  />
+	[328] (897,845)<span  />
+		[329] (897,845)<i  />
+	[330] (903,845)<span >5 />
+	[331] (913,845)<span >(1件) />
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[332] (926,900)<span class='reference--4whr_' role='button' />
+	[333] (926,900)<span  />
+		[334] (926,896)<div  />
+			[335] (926,896)<img  />
+[336] (920,927)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+
+</current_dom>

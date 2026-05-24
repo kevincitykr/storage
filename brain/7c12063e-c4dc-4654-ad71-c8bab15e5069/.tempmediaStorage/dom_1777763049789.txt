@@ -1,0 +1,49 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,106)<a href='https://crystalmark.info/en/' title='Crystal Dew World [en]' />
+	[1] (500,57)<img  />
+[2] (786,63)<input class='submit searchsubmit' />
+[3] (248,139)<a class='menu-link' href='/en/'>Home />
+[4] (332,139)<a class='menu-link' href='https://crystalmark.info/en/download/'>Download />
+[5] (416,139)<a class='menu-link' href='https://crystalmark.info/en/software/'>Software />
+[6] (500,139)<a class='menu-link' href='https://crystalmark.info/en/information/'>Information />
+[7] (584,139)<a class='menu-link' href='https://crystalmark.info/en/aoishizuku/'>Official Character />
+[8] (668,139)<a class='menu-link' href='https://crystalmark.info/en/crystalmark-inc/'>CrystalMark Inc. />
+[9] (752,139)<a class='menu-link' href='/ja/'>Japanese />
+[10] (221,184)<a href='https://crystalmark.info/en/' />
+	[11] (221,184)<span  />
+[12] (255,184)<a href='https://crystalmark.info/en/software/' />
+	[13] (255,184)<span >Software />
+[14] (304,184)<a href='https://crystalmark.info/en/software/crystaldiskinfo/' />
+	[15] (304,184)<span >CrystalDiskInfo />
+Quick Download
+[16] (233,317)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalDiskInfoInstaller' title='CrystalDiskInfo'>CDI />
+[17] (274,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalDiskInfoInstallerAoi' title='CrystalDiskInfo Aoi Edition'>CDI Aoi />
+[18] (326,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalDiskInfoInstallerShizuku' title='CrystalDiskInfo Shizuku Edition'>CDI Shizuku />
+[19] (375,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalDiskMarkInstaller' title='CrystalDiskMark'>CDM />
+[20] (419,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalDiskMarkInstallerAoi' title='CrystalDiskMark Aoi Edition'>CDM Aoi />
+[21] (475,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalDiskMarkInstallerShizuku' title='CrystalDiskMark Shizuku Edition'>CDM Shizuku />
+[22] (525,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalMarkRetroInstaller' title='CrystalMark Retro'>CMR />
+[23] (569,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalMarkRetroInstallerAoi' title='CrystalMark Retro Aoi Edition'>CMR Aoi />
+[24] (624,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalMarkRetroInstallerShizuku' title='CrystalMark Retro Shizuku Edition'>CMR Shizuku />
+[25] (680,315)<a class='btn icon-download ft11px' href='/redirect.php?product=CrystalMark3D25Installer' title='CrystalMark 3D25'>CM3D25 />
+[26] (734,315)<a class='btn icon-info-circled ft11px' href='https://crystalmark.info/en/information/development-support/'>DEV Support />
+[2026/02/15] CrystalDiskInfo 9.8.0 | [2026/02/17] CrystalDiskMark 9.0.2 | [2026/03/31] CrystalMark Retro 2.1.0 | [2025/11/20] CrystalMark 3D25 1.0.0
+Development Support
+Please make the amount of each contribution $10 USD or more if possible. Your contributions will be deeply appreciated.
+[27] (678,476)<a href='https://crystalmark.info/en/information/development-support/'>Learn more... />
+[28] (279,522)<select  />
+[29] (245,562)<input alt='PayPal - The safer, easier way to pay online!' />
+[30] (247,604)<a href='https://github.com/sponsors/hiyohiyo'>GitHub Sponsors />
+– Your contributions will be deeply appreciated.
+CrystalDiskInfo
+[31] (358,735)<a href='https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fcrystalmark.info%2Fen%2Fsoftware%2Fcrystaldiskinfo%2F&t=CrystalDiskInfo+%7C+Crystal+Dew+World+%5Ben%5D' />
+	[32] (288,735)<i  />
+	[33] (429,711)<span  />
+[34] (642,735)<a href='https://twitter.com/intent/tweet?original_referer=https%3A%2F%2Fcrystalmark.info%2Fen%2Fsoftware%2Fcrystaldiskinfo%2F&url=https%3A%2F%2Fcrystalmark.info%2Fen%2Fsoftware%2Fcrystaldiskinfo%2F&text=CrystalDiskInfo+%7C+Crystal+Dew+World+%5Ben%5D' />
+	[35] (571,735)<i  />
+	[36] (713,712)<span  />
+
+</current_dom>

@@ -1,0 +1,150 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (52,35)<a href='../main/main.htm' />
+	[1] (52,35)<img  />
+[2] (213,35)<div class='search_bar' />
+	[3] (197,35)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (306,35)<button aria-label='검색' class='search28_3A' />
+[5] (913,35)<a href='javascript:void(0);'>로그인 />
+[6] (944,35)<a href='../member/member_kind.htm'>회원가입 />
+[7] (977,35)<a href='javascript:void(0);'>상담센터 />
+[8] (21,92)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[9] (56,94)<a href='javascript:void(0);'>조립PC />
+[10] (83,94)<a href='javascript:void(0);'>견적 />
+[11] (113,94)<a href='../hotsale/hotsale.htm?bannerid=GNBBannerHotsale'>파격할인 />
+[12] (150,94)<a href='../product/free_delivery.htm?bannerid=GNBBannerFreeDelivery'>무료배송 />
+[13] (189,94)<a href='../product/fastpicup.htm?bannerid=GNBBannerFastpicup'>1시간픽업 />
+[14] (224,94)<a href='../event_zone/eventzone_main.htm?bannerid=GNBBannerEventzone'>이벤트 />
+[15] (270,94)<a href='javascript:void(0);'>컴퓨존추천 />
+[16] (307,94)<a href='javascript:void(0);'>전용관 />
+[17] (337,94)<a href='javascript:void(0);'>매거진 />
+[18] (370,94)<a href='../exc_event/monthly_payment_benefits.htm'>결제혜택 />
+[19] (400,94)<a href='../exc_event/raffle_shopping_main.htm'>래플 />
+[20] (437,94)<a href='javascript:void(0);'>컴퓨존 라이브 />
+[21] (539,92)<div  />
+	[22] (485,92)<p >공식 />
+	[23] (542,92)<div  />
+	[24] (595,92)<i  />
+[25] (927,81)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[26] (927,103)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[27] (950,99)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[28] (979,99)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[29] (969,684)<a href='javascript:void(0);' />
+	[30] (961,684)<span  />
+		[31] (961,684)<img  />
+	[32] (977,684)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+HP노트북
+마스터팩
+Dell
+배민5만원
+황야의
+아스널
+[33] (969,773)<a href='../event_zone/eventzone_view.htm?EventNo=60847&bannerid=QuickMenuRolling' />
+	[34] (969,773)<img  />
+	[35] (969,793)<p >어린이날
+드론 특가 />
+야르하네
+[36] (955,827)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+5
+/
+5
+[37] (982,827)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[38] (969,859)<p class='ntRB12 co6C'>최근 본 상품 />
+[39] (969,899)<a href='javascript:;' />
+	[40] (969,899)<img  />
+[41] (957,959)<a href='javascript:void(0);' />
+	[42] (957,959)<img  />
+[43] (980,959)<a href='javascript:void(0);' />
+	[44] (980,959)<img  />
+연관검색어
+[45] (210,154)<a href='javascript:direct_search_form_submit('rtx 4060 ti'); '>rtx 4060 ti />
+[46] (246,213)<a href='javascript:searchTopMenu(27,'RTX 4060 Ti','','all','small','sale_order',20,0,1,1,'','','',0,0,'','','');'>제품 />
+	[47] (255,215)<em >(27) />
+[48] (415,213)<a href='javascript:search_none();'>이벤트 />
+	[49] (428,215)<em >(0) />
+[50] (585,213)<a href='javascript:search_none();'>기획전 />
+	[51] (597,215)<em >(0) />
+[52] (754,213)<a href='javascript:search_none();'>파격할인 />
+	[53] (770,215)<em >(0) />
+카테고리
+[54] (229,339)<dd class='on' id='cate_list_0'>전체 />
+	[55] (190,339)<em >(27) />
+[56] (229,375)<dd id='cate_list_1'>컴퓨터 부품 />
+	[57] (208,375)<em >(11) />
+[58] (229,411)<dd id='cate_list_2'>데스크탑ㆍ조립PC />
+	[59] (224,411)<em >(4) />
+[60] (229,447)<dd id='cate_list_3'>중고ㆍ리퍼비시 />
+	[61] (217,447)<em >(1) />
+[62] (229,484)<dd id='cate_list_4'>서버ㆍ워크스테이션 />
+	[63] (229,484)<em >(11) />
+제조사
+[64] (800,285)<ul  />
+	[65] (783,285)<li class='arran_on'>상품수순 />
+	[66] (817,285)<li >가나다순 />
+[67] (329,341)<label class='chkMedium2'>HP (2) />
+	[68] (320,340)<i  />
+[69] (414,341)<label class='chkMedium2'>Dell (2) />
+	[70] (404,340)<i  />
+[71] (501,341)<label class='chkMedium2'>IGNIQ (1) />
+	[72] (488,340)<i  />
+[73] (585,341)<label class='chkMedium2'>레노버 (1) />
+	[74] (572,340)<i  />
+[75] (180,682)<label >가격대 />
+[76] (221,682)<input id='MinPrice_input' />
+~
+[77] (279,682)<input id='MaxPrice_input' />
+[78] (347,681)<label >결과 내 재검색 />
+[79] (409,683)<input class='bsearch_Name' id='reSearchText' />
+[80] (469,683)<span class='bsearch_btn'>검색 />
+[81] (595,686)<label class='leftchk chkMedium2 delivery_search' />
+	[82] (595,684)<i  />
+[83] (621,684)<b  />
+	[84] (627,684)<label >1시간픽업 />
+[85] (648,684)<a class='qu_over' />
+[86] (680,686)<label class='chkMedium2 cpz_deli'>컴퓨존 배송 />
+	[87] (663,683)<i  />
+[88] (725,686)<label class='chkMedium2'>무료배송 />
+	[89] (712,683)<i  />
+[90] (764,686)<label class='chkMedium2'>이벤트 />
+	[91] (754,683)<i  />
+[92] (809,686)<label class='chkMedium2'>재고없음 제외 />
+	[93] (789,683)<i  />
+[94] (187,738)<label >선택한 속성 />
+[95] (225,738)<a href='javascript:research_del('16GB')'>16GB × />
+[96] (801,738)<a class='breset_btn' href='javascript:mid_cate_view(0);reset();'>초기화 />
+	[97] (803,738)<span  />
+전체보기
+(총
+6
+개의 상품)
+[98] (696,798)<a class='disp_list list_over' href='javascript:search_ajax_list('small','RTX 4060 Ti 16GB','sale_order',20,0,1,0,'','','0','',0,0,'','','','','','','','','','undefined');' id='disp_list_btn' />
+[99] (681,798)<a class='disp_img ' href='javascript:search_ajax_list('small','RTX 4060 Ti 16GB','sale_order',20,0,1,1,'','','0','',0,0,'','','','','','','','','','undefined');' id='disp_img_btn' />
+[100] (637,798)<a class='btn' href='javascript:show_select();' id='PreOrderA' />
+	[101] (632,798)<span >판매량순 />
+[102] (232,978)<a class='prd_info_main_img' href='../product/product_detail.htm?ProductNo=1156456&BigDivNo=111&MediumDivNo=1006&DivNo=3493' id='prd_info_main_img_1156456' />
+	[103] (232,978)<img  />
+[104] (399,868)<a class='prd_info_name prdTxt' href='../product/product_detail.htm?ProductNo=1156456&BigDivNo=111&MediumDivNo=1006&DivNo=3493'>[HP] Z2 G9R 4N3U8AV i9-14900K (16GB/512GB/Win11Pro) />
+[105] (425,956)<a href='../product/product_detail.htm?ProductNo=1156456&BigDivNo=&MediumDivNo=1006&DivNo=3493'>인텔14세대 / 랩터레이크R / i9-14900K / 16GB DDR5 RAM / 512GB NVMe SSD / 윈도우11프로 / UHD770 / 700W / 미들형 / HP Z2 Series / INTEL / Core i9 / 16GB / SODIMM / 480~512GB SSD / HDD 미포함 / DVD-Writer / VGA미포함 (옵션선택필수) / 내장그래픽 / 1GbE 1Port / Windows 11Pro / 3년A/S />
+[106] (693,867)<span class='compare_bt no-drag VT ' />
+	[107] (687,867)<span  />
+	[108] (698,867)<p >비교 />
+2,689,000
+원
+[109] (618,913)<a href='javascript:void(0);' />
+	[110] (618,912)<div  />
+		[111] (618,912)<span >장바구니 />
+[112] (673,913)<a href='javascript:void(0);' />
+	[113] (673,912)<div  />
+		[114] (673,912)<span >구매하기 />
+[115] (636,959)<a class='icon_blank' href='javascript:void(0)' />
+[116] (661,959)<a class='icon_heart' href='javascript:WishProduct('1156456','login');' id='wish_prd_1156456' />
+[117] (778,895)<a href='../event_zone/eventzone_view.htm?EventNo=61056&bannerid=SearchPageRightBanner3' />
+	[118] (778,893)<img  />
+
+</current_dom>

@@ -1,0 +1,253 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (52,35)<a href='../main/main.htm' />
+	[1] (52,35)<img  />
+[2] (213,35)<div class='search_bar on' />
+	[3] (197,35)<input class='ntRB14' id='HeadSearchKeyword' />
+	[4] (306,35)<button aria-label='검색' class='search28_3A' />
+[5] (497,100)<a class='close24_3A' href='javascript:void(0);' />
+[6] (148,105)<a href='javascript:getSearchList('recent');'>최근 검색어 />
+[7] (205,105)<a href='javascript:getSearchList('my');' id='mySearchList'>내 검색어 />
+	[8] (221,102)<i  />
+저장된 내 검색어가 없습니다.
+급상승 검색어
+73
+19
+73
+308
+170
+127
+203
+55
+841
+119
+1.
+선풍기
+118
+2.
+노트북 받침대
+NEW
+3.
+갤럭시북
+25
+4.
+모니터암
+291
+5.
+b850
+142
+6.
+미니PC
+57
+7.
+LG gram
+27
+8.
+가습기
+46
+9.
+HDD
+54
+10.
+27인치 모니터
+185
+11.
+ram
+73
+12.
+RTX 5080
+19
+13.
+285k
+73
+14.
+ddr4 8g
+308
+15.
+sd카드
+170
+16.
+X870E
+127
+17.
+윈도우
+203
+18.
+h8008
+55
+19.
+노트북 거치대
+841
+20.
+노트북 가방
+119
+1.
+[9] (278,148)<a class='ntRB14' href='javascript:sch_rank_word('선풍기','1')'>선풍기 />
+[10] (360,148)<span aria-label='Next slide' class='right upRed' role='button'>118 />
+2.
+[11] (288,182)<a class='ntRB14' href='javascript:sch_rank_word('노트북 받침대','2')'>노트북 받침대 />
+[12] (358,182)<span aria-label='Next slide' class='right new' role='button'>NEW />
+3.
+[13] (281,216)<a class='ntRB14' href='javascript:sch_rank_word('갤럭시북','3')'>갤럭시북 />
+[14] (362,216)<span aria-label='Next slide' class='right upRed' role='button'>25 />
+4.
+[15] (281,250)<a class='ntRB14' href='javascript:sch_rank_word('모니터암','4')'>모니터암 />
+[16] (360,250)<span aria-label='Next slide' class='right upRed' role='button'>291 />
+5.
+[17] (276,284)<a class='ntRB14' href='javascript:sch_rank_word('b850','5')'>b850 />
+[18] (360,284)<span aria-label='Next slide' class='right upRed' role='button'>142 />
+6.
+[19] (279,318)<a class='ntRB14' href='javascript:sch_rank_word('미니PC','6')'>미니PC />
+[20] (362,318)<span aria-label='Next slide' class='right upRed' role='button'>57 />
+7.
+[21] (281,352)<a class='ntRB14' href='javascript:sch_rank_word('LG gram','7')'>LG gram />
+[22] (362,352)<span aria-label='Next slide' class='right upRed' role='button'>27 />
+8.
+[23] (278,386)<a class='ntRB14' href='javascript:sch_rank_word('가습기','8')'>가습기 />
+[24] (362,386)<span aria-label='Next slide' class='right upRed' role='button'>46 />
+9.
+[25] (276,420)<a class='ntRB14' href='javascript:sch_rank_word('HDD','9')'>HDD />
+[26] (362,420)<span aria-label='Next slide' class='right upRed' role='button'>54 />
+10.
+[27] (292,454)<a class='ntRB14' href='javascript:sch_rank_word('27인치 모니터','10')'>27인치 모니터 />
+[28] (360,454)<span aria-label='Next slide' class='right upRed' role='button'>185 />
+[29] (306,493)<span aria-label='Go to slide 1' class='swiper-pagination-bullet swiper-pagination-bullet-active' role='button' />
+[30] (311,493)<span aria-label='Go to slide 2' class='swiper-pagination-bullet' role='button' />
+[31] (293,493)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[32] (324,493)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+추천 쇼핑 키워드
+[33] (431,151)<a href='https://www.compuzone.co.kr/event_zone/pickup.htm'>10분 내 수령! 바로픽업PC 오픈 />
+[34] (436,189)<a href='../event_zone/eventzone_view.htm?EventNo=55224'>특가PC 타임딜⚡토요일 한정판매 />
+[35] (431,226)<a href='../event_zone/eventzone_view.htm?EventNo=60893'>드롱기 커피머신 브랜드 기획전 />
+[36] (431,263)<a href='../event_zone/eventzone_view.htm?EventNo=60377'>카멜마운트와 설레는 봄의 시작 />
+[37] (432,301)<a href='../event_zone/eventzone_view.htm?EventNo=59906'>HP OMEN 16L 데스크탑 모음전 />
+[38] (431,338)<a href='../event_zone/eventzone_view.htm?EventNo=60912'>현대일렉트릭 멀티탭 파격 혜택 />
+[39] (423,375)<a href='../event_zone/eventzone_view.htm?EventNo=60911'>쿨러 번들팩 할인 이벤트! />
+[40] (851,35)<a class='satur_bnr coFF' href='../indepage/saturday_detail.htm'>토요일 컴퓨존 정상 영업 중 />
+	[41] (887,35)<i  />
+[42] (913,35)<a href='javascript:void(0);'>로그인 />
+[43] (944,35)<a href='../member/member_kind.htm'>회원가입 />
+[44] (977,35)<a href='javascript:void(0);'>상담센터 />
+[45] (21,92)<button aria-label='메뉴전체보기' class='cate_btn menu24_3A' />
+[46] (56,94)<a href='javascript:void(0);'>조립PC />
+[47] (83,94)<a href='javascript:void(0);'>견적 />
+파격할인
+무료배송
+1시간픽업
+이벤트
+컴퓨존추천
+전용관
+매거진
+결제혜택
+래플
+컴퓨존 라이브
+[48] (539,92)<div >공식 />
+	공식
+	[49] (542,92)<div  />
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+		HP 브랜드스토어
+		LG gram & 브랜드스토어
+		[50] (542,92)<div >Microsoft 브랜드스토어 />
+		AMD 브랜드스토어
+		Intel 브랜드스토어
+		RAZER 브랜드스토어
+		PlayStation 브랜드스토어
+		Apple 기업전용관
+	[51] (595,92)<i  />
+[52] (927,81)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+[53] (927,103)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[54] (950,99)<a aria-label='장바구니' href='../bsk/basket_main.htm' />
+[55] (979,99)<a aria-label='마이컴퓨존' href='../mypage/mypage_main.htm' />
+[56] (969,684)<a href='javascript:void(0);' />
+	[57] (961,684)<span  />
+		[58] (961,684)<img  />
+	[59] (977,684)<p >챗봇 />
+어린이날
+드론 특가
+조립PC
+야르하네
+HP노트북
+마스터팩
+Dell
+배민5만원
+[60] (969,773)<a href='../event_zone/eventzone_view.htm?EventNo=60917&bannerid=QuickMenuRolling' />
+	[61] (969,773)<img  />
+	[62] (969,793)<p >황야의
+아스널 />
+어린이날
+드론 특가
+[63] (955,827)<div aria-label='Previous slide' class='swiper-button-prev left' role='button' />
+4
+/
+5
+[64] (982,827)<div aria-label='Next slide' class='swiper-button-next right' role='button' />
+[65] (969,859)<p class='ntRB12 co6C'>최근 본 상품 />
+[66] (969,899)<a href='javascript:;' />
+	[67] (969,899)<img  />
+[68] (957,959)<a href='javascript:void(0);' />
+	[69] (957,959)<img  />
+[70] (980,959)<a href='javascript:void(0);' />
+	[71] (980,959)<img  />
+''
+에 대한 검색결과가 없습니다.
+정확한 검색어인지 확인 후 다시 검색해 주세요.
+일시적으로 상품이 품절되었을 수 있습니다.
+상품판매요청
+을 하시면 빠른 시일 내에 반영되도록 하겠습니다.
+[72] (500,545)<a href='../event_zone/eventzone_view.htm?EventNo=60513&bannerid=NoneSearchPageBottomBanner' />
+[73] (199,603)<a href='../company/index.htm' title='회사소개'>회사소개 />
+[74] (241,603)<a href='../company2013/new_user_agreement.htm' title='이용약관'>이용약관 />
+[75] (282,603)<a href='../customer_manager/partner.htm' title='입점신청'>입점신청 />
+[76] (337,603)<a href='../company2013/new_privacy_policy.htm' title='개인정보처리방침'>개인정보처리방침 />
+[77] (401,603)<a title='청소년보호정책'>청소년보호정책 />
+[78] (448,603)<a href='../customer_manager/customer_login.htm' title='협력사'>협력사 />
+[79] (487,603)<a >광고안내 />
+[80] (534,603)<a href='../company/location.htm' title='찾아오시는길'>찾아오시는길 />
+[81] (586,603)<a href='javascript:void(0)' title='앱 다운로드'>앱 다운로드 />
+㈜ 컴퓨존
+대표이사 : 노인호
+｜
+사업자등록번호 : 106-81-83458
+[82] (365,661)<a class='btn' href='javascript:window_open('http://www.ftc.go.kr/bizCommPop.do?wrkr_no=1068183458','980','620','scrollbars=yes','');'>사업자정보확인 />
+서울특별시 금천구 벚꽃로 278 SJ테크노빌
+｜
+E-mail :
+[83] (354,684)<a href='javascript:cozmail();'>coz_help@compuzone.co.kr />
+｜
+호스팅 제공자 : (주)컴퓨존
+｜
+개인정보보호책임자 : 김종석
+통신판매업신고 : 제 2026-서울금천-0667호
+｜
+분쟁조정기관 : 소비자보호원, 전자거래분쟁중재위원회
+｜
+에스크로 구매안전 서비스 이용가능
+[84] (560,706)<a class='btn' href='javascript:window_open('https://consumer.tosspayments.com/escrow/detail?mertid=compuzone','535','780','scrollbars=yes','');'>자세히보기 />
+[방문상담·구매·A/S]
+가산점:서울특별시 금천구 벚꽃로 278 SJ테크노빌/ 용산점: 서울특별시 용산구 원효로58길 1
+[85] (489,729)<a class='btn' href='javascript:window_open('../delivery_info/businesshours.htm','770','520','scrollbars=no','');'>영업시간 안내 />
+[택배A/S접수]
+서울특별시 금천구 벚꽃로 278 SJ테크노빌 3층 서비스팀
+｜
+[고객센터]
+1588-8377 (팩스번호 02-718-8276)
+[86] (505,752)<a class='btn' href='../cscenter/cs_main.htm'>고객의소리 />
+[87] (536,752)<a class='btn' href='javascript:common_smspop('n','');' title='www2'>문자상담 />
+[88] (790,670)<a href='javascript:window_open('https://consumer.tosspayments.com/escrow/detail?mertid=compuzone','535','780','scrollbars=yes','');' />
+	[89] (790,670)<span  />
+[90] (736,670)<a  />
+[91] (675,670)<a  />
+	[92] (675,670)<span  />
+[93] (610,670)<a  />
+	[94] (610,670)<span  />
+[95] (777,722)<a href='../company/index.htm' />
+	[96] (777,722)<span  />
+[97] (700,722)<a href='../company/index.htm' />
+	[98] (700,722)<span  />
+[99] (633,722)<a href='javascript:window_open('../pop_page/itpp_pop.htm','908','680','scrollbars=no','');' />
+	[100] (633,722)<span  />
+
+</current_dom>

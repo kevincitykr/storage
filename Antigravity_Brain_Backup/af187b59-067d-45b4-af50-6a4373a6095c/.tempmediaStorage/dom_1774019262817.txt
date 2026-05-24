@@ -1,0 +1,151 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Accessibility links
+Skip to main content
+Accessibility help
+Accessibility feedback
+[0] (122,75)<a aria-label='Go to Google Home' href='https://www.google.com/webhp?hl=en&sa=X&ved=0ahUKEwj--brZ4K6TAxXjHbkGHQ8hFvEQPAgJ' id='logo' title='Go to Google Home' />
+[1] (436,74)<textarea aria-label='Search' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (669,74)<div  />
+	[3] (666,74)<div aria-label='Clear' class='M2vV3 vOY7J' role='button' />
+		[4] (666,74)<span  />
+	[5] (690,74)<span  />
+[6] (714,74)<div aria-label='Search by voice' class='XDyW0e' role='button' />
+[7] (752,74)<div aria-label='Search by image' class='nDcEnd' role='button' />
+[8] (797,74)<button aria-label='Search' class='HZVG1b Tg7LZd' />
+	[9] (790,74)<div  />
+		[10] (790,74)<span  />
+[11] (873,74)<a aria-label='Search Labs' class='gb_B' href='https://labs.google.com/search?source=srp' role='button' />
+[12] (919,74)<a aria-label='Google apps' class='gb_B' href='https://www.google.co.kr/intl/en/about/products?tab=wh' role='button' />
+[13] (961,74)<a aria-label='Google Account: 김재훈  
+(jaehoon34769@gmail.com)' class='gb_B gb_0a' href='https://accounts.google.com/SignOutOptions?hl=en&continue=https://www.google.com/search%3Fq%3DCONNECT%2BAI%2BLAB%2B%25EC%2598%2581%25EC%258B%259D%2BSKILL.md&ec=futura_srp_og_si_72236_p' role='button' />
+Filters and topics
+[14] (102,162)<a class='XVMlrc C6AK7c' href='/search?q=CONNECT+AI+LAB+%EC%98%81%EC%8B%9D+SKILL.md&sca_esv=46e17ce658870a9b&sxsrf=ANbL-n4kmjarBiQIU0BebTJS33qGKFUXOA:1774019249364&udm=50&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTXz9awvmwbLijfri5gfg3jJCJPQ0h4oA7srHripsC9qMhOaJO871LC9_g9gX8FjjC7QOYqVE5VoqUcjAy4Pz93LakVvwb14Ynwv1Ht9C6A8cTmo-QxwuAPXTXAIJzK9EBw4DDjvX8CkVW44TR8OZlmJsaKvcsdMbYjKkqMxmBoO3YF4z_hg&aep=1&ntc=1&sa=X&ved=2ahUKEwj--brZ4K6TAxXjHbkGHQ8hFvEQ2J8OegQIDxAE' />
+	[15] (102,162)<div  />
+		[16] (102,175)<div  />
+			[17] (102,167)<span >AI Mode />
+[18] (158,162)<a class='C6AK7c' role='link' />
+	All
+[19] (209,162)<a class='C6AK7c' href='/search?sca_esv=46e17ce658870a9b&sxsrf=ANbL-n4kmjarBiQIU0BebTJS33qGKFUXOA:1774019249364&udm=7&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTXz9awvmwbLijfri5gfg3jJCJPQ0h4oA7srHripsC9qMhOaJO871LC9_g9gX8FjjC7QOYqVE5VoqUcjAy4Pz93LakVvwb14Ynwv1Ht9C6A8cTmo-QxwuAPXTXAIJzK9EBw4DDjvX8CkVW44TR8OZlmJsaKvcsdMbYjKkqMxmBoO3YF4z_hg&q=CONNECT+AI+LAB+%EC%98%81%EC%8B%9D+SKILL.md&sa=X&ved=2ahUKEwj--brZ4K6TAxXjHbkGHQ8hFvEQtKgLegQIFRAB' />
+	[20] (209,162)<div  />
+		[21] (209,175)<span >Videos />
+[22] (275,162)<a class='C6AK7c' href='/search?sca_esv=46e17ce658870a9b&sxsrf=ANbL-n4kmjarBiQIU0BebTJS33qGKFUXOA:1774019249364&udm=2&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTXz9awvmwbLijfri5gfg3jJCJPQ0h4oA7srHripsC9qMhOaJO871LC9_g9gX8FjjC7QOYqVE5VoqUcjAy4Pz93LakVvwb14Ynwv1Ht9C6A8cTmo-QxwuAPXTXAIJzK9EBw4DDjvX8CkVW44TR8OZlmJsaKvcsdMbYjKkqMxmBoO3YF4z_hg&q=CONNECT+AI+LAB+%EC%98%81%EC%8B%9D+SKILL.md&sa=X&ved=2ahUKEwj--brZ4K6TAxXjHbkGHQ8hFvEQtKgLegQIFBAB' />
+	[23] (275,162)<div  />
+		[24] (275,175)<span >Images />
+[25] (349,162)<a class='C6AK7c' href='/search?sca_esv=46e17ce658870a9b&sxsrf=ANbL-n4kmjarBiQIU0BebTJS33qGKFUXOA:1774019249364&udm=28&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTXz9awvmwbLijfri5gfg3jJCJPQ0h4oA7srHripsC9qMhOaJO871LC9_g9gX8FjjC7QOYqVE5VoqUcjAy4Pz93LakVvwb14Ynwv1Ht9C6A8cTmo-QxwuAPXTXAIJzK9EBw4DDjvX8CkVW44TR8OZlmJsaKvcsdMbYjKkqMxmBoO3YF4z_hg&q=CONNECT+AI+LAB+%EC%98%81%EC%8B%9D+SKILL.md&ved=1t:220175&ictx=111' />
+	[26] (349,162)<div  />
+		[27] (349,175)<span >Shopping />
+[28] (438,162)<a class='C6AK7c' href='/search?sca_esv=46e17ce658870a9b&sxsrf=ANbL-n4kmjarBiQIU0BebTJS33qGKFUXOA:1774019249364&udm=39&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTXz9awvmwbLijfri5gfg3jJCJPQ0h4oA7srHripsC9qMhOaJO871LC9_g9gX8FjjC7QOYqVE5VoqUcjAy4Pz93LakVvwb14Ynwv1Ht9C6A8cTmo-QxwuAPXTXAIJzK9EBw4DDjvX8CkVW44TR8OZlmJsaKvcsdMbYjKkqMxmBoO3YF4z_hg&q=CONNECT+AI+LAB+%EC%98%81%EC%8B%9D+SKILL.md&sa=X&ved=2ahUKEwj--brZ4K6TAxXjHbkGHQ8hFvEQs6gLegQIEhAB' />
+	[29] (438,162)<div  />
+		[30] (438,175)<span >Short videos />
+[31] (516,162)<a class='C6AK7c' href='/search?sca_esv=46e17ce658870a9b&sxsrf=ANbL-n4kmjarBiQIU0BebTJS33qGKFUXOA:1774019249364&q=CONNECT+AI+LAB+%EC%98%81%EC%8B%9D+SKILL.md&tbm=nws&source=lnms&fbs=ADc_l-aN0CWEZBOHjofHoaMMDiKpmAsnXCN5UBx17opt8eaTXz9awvmwbLijfri5gfg3jJCJPQ0h4oA7srHripsC9qMhOaJO871LC9_g9gX8FjjC7QOYqVE5VoqUcjAy4Pz93LakVvwb14Ynwv1Ht9C6A8cTmo-QxwuAPXTXAIJzK9EBw4DDjvX8CkVW44TR8OZlmJsaKvcsdMbYjKkqMxmBoO3YF4z_hg&sa=X&ved=2ahUKEwj--brZ4K6TAxXjHbkGHQ8hFvEQ0pQJegQIExAB' />
+	[32] (516,162)<div  />
+		[33] (516,175)<span >News />
+[34] (580,162)<div class='mTpL7c' role='button' />
+	[35] (580,162)<div  />
+		[36] (580,175)<div  />
+			[37] (572,167)<span >More />
+			[38] (596,167)<span  />
+[39] (652,162)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[40] (652,162)<div  />
+		[41] (652,175)<div  />
+			[42] (643,167)<span >Tools />
+			[43] (668,167)<span  />
+Search Results
+Videos
+[44] (167,265)<div aria-label='About this result' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[45] (167,265)<span  />
+		[46] (167,266)<span  />
+[47] (473,371)<a class='rIRoqf' href='https://www.youtube.com/watch?v=trF504_TppI&vl=ko' />
+	[48] (473,371)<div class='V5XKdd' role='heading' />
+		[49] (473,329)<div  />
+			[50] (455,329)<div  />
+				[51] (455,329)<span >Research, business, health... I've spent my entire life solving ... />
+		[52] (473,398)<div  />
+			[53] (473,398)<div  />
+				[54] (473,383)<span  />
+					[55] (266,382)<span >YouTube />
+					[56] (354,382)<span >CONNECT AI LAB />
+						[57] (297,382)<span >· />
+				[58] (473,414)<div  />
+					[59] (280,413)<span >Nov 25, 2025 />
+[60] (435,381)<div aria-label='About this result' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[61] (435,381)<span  />
+		[62] (435,383)<span  />
+[63] (149,371)<a aria-label='Research, business, health... I've spent my entire life solving ... by CONNECT AI LAB on YouTube. Play on YouTube. 7:27' class='rIRoqf' href='https://www.youtube.com/watch?v=trF504_TppI&vl=ko' />
+	[64] (149,371)<div  />
+		[65] (149,371)<div  />
+			[66] (104,404)<div  />
+				[67] (104,403)<span >7:27 />
+[68] (473,524)<a class='rIRoqf' href='https://www.youtube.com/watch?v=7rUVWixjpT4' />
+	[69] (473,524)<div class='V5XKdd' role='heading' />
+		[70] (473,482)<div  />
+			[71] (445,482)<div  />
+				[72] (445,482)<span >(Live) "You're not alone. Let's start together." Mastering AI ... />
+		[73] (473,552)<div  />
+			[74] (473,552)<div  />
+				[75] (473,536)<span  />
+					[76] (266,535)<span >YouTube />
+					[77] (354,535)<span >CONNECT AI LAB />
+						[78] (297,535)<span >· />
+				[79] (473,567)<div  />
+					[80] (275,566)<span >Jan 3, 2026 />
+[81] (435,535)<div aria-label='About this result' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[82] (435,535)<span  />
+		[83] (435,536)<span  />
+[84] (149,524)<a aria-label='(Live) "You're not alone. Let's start together." Mastering AI ... by CONNECT AI LAB on YouTube. Play on YouTube. 33:28' class='rIRoqf' href='https://www.youtube.com/watch?v=7rUVWixjpT4' />
+	[85] (149,524)<div  />
+		[86] (149,524)<div  />
+			[87] (107,557)<div  />
+				[88] (107,557)<span >33:28 />
+[89] (473,677)<a class='rIRoqf' href='https://www.youtube.com/watch?v=iblF19Gesyk' />
+	[90] (473,677)<div class='V5XKdd' role='heading' />
+		[91] (473,635)<div  />
+			[92] (451,635)<div  />
+				[93] (451,635)<span >AI 교육이 필요한 이유 | Connect AI LAB 글로벌 AI 교육 프로젝트 />
+		[94] (473,705)<div  />
+			[95] (473,705)<div  />
+				[96] (473,689)<span  />
+					[97] (266,688)<span >YouTube />
+					[98] (354,688)<span >CONNECT AI LAB />
+						[99] (297,688)<span >· />
+				[100] (473,721)<div  />
+					[101] (274,720)<span >Oct 1, 2023 />
+[102] (435,688)<div aria-label='About this result' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[103] (435,688)<span  />
+		[104] (435,689)<span  />
+[105] (149,677)<div aria-label='AI 교육이 필요한 이유 | Connect AI LAB 글로벌 AI 교육 프로젝트 by CONNECT AI LAB on YouTube. Play on Google. 3:11' class='rIRoqf hXY9cf' role='button' />
+	[106] (149,677)<div  />
+		[107] (149,677)<div  />
+			[108] (104,711)<div  />
+				[109] (104,710)<span >3:11 />
+			[110] (203,644)<div  />
+				[111] (203,644)<span  />
+[112] (473,831)<a class='rIRoqf' href='https://www.youtube.com/watch?v=Z9ZMvzxt16M' />
+	[113] (473,831)<div class='V5XKdd' role='heading' />
+		[114] (473,789)<div  />
+			[115] (449,789)<div  />
+				[116] (449,789)<span >[AI강의] 평범한 직장인들도 사용할 수 있는 AI 업무자동화 '멀티 ... />
+		[117] (473,858)<div  />
+			[118] (473,858)<div  />
+				[119] (473,843)<span  />
+					[120] (266,842)<span >YouTube />
+					[121] (354,842)<span >CONNECT AI LAB />
+						[122] (297,842)<span >· />
+				[123] (473,874)<div  />
+					[124] (279,873)<span >Feb 22, 2025 />
+[125] (435,841)<div aria-label='About this result' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[126] (435,841)<span  />
+		[127] (435,843)<span  />
+[128] (149,831)<div aria-label='[AI강의] 평범한 직장인들도 사용할 수 있는 AI 업무자동화 '멀티 ... by CONNECT AI LAB on YouTube. Play on Google. 0:20' class='rIRoqf hXY9cf' role='button' />
+	[129] (149,831)<div  />
+		[130] (149,831)<div  />
+			[131] (104,864)<div  />
+				[132] (104,863)<span >0:20 />
+			[133] (203,797)<div  />
+				[134] (203,797)<span  />
+[135] (382,941)<span >View all />
+
+</current_dom>

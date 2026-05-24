@@ -1,0 +1,83 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (372,138)<button class='p-0.5 relative disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center flex-1 text-jnGray-900 font-semibold h-[52px] text-16 hover:bg-gray-900/[.05] transition-colors active:bg-gray-900/[12.5%] after:content-[""] after:absolute after:bottom-0 after:left-[1px] after:right-[1px] after:h-[2px] after:bg-gray-900' id='tab-product' role='tab'>상품 />
+[5] (527,138)<button class='p-0.5 relative disabled:opacity-50 disabled:cursor-not-allowed flex items-center justify-center flex-1 text-gray-500 font-medium h-[52px] text-16 hover:bg-gray-900/[.05] transition-colors active:bg-gray-900/[12.5%]' id='tab-store' role='tab'>가게 />
+검색 결과가 없습니다.
+16
+.
+또봇
+17
+.
+건담
+18
+.
+붉은사막
+19
+.
+안스리움
+20
+.
+세이코
+[6] (666,69)<a href='/search/13700%204070%20%EB%B3%B8%EC%B2%B4?sort=RECENT_DESC&minPrice=1500000&maxPrice=1850000&openChat=true' />
+	[7] (666,69)<div  />
+		[8] (649,69)<div  />
+			[9] (649,69)<img  />
+		[10] (675,69)<span >채팅하기 />
+[11] (732,69)<a href='/product/form?type=regist' />
+	[12] (732,69)<div  />
+		[13] (715,69)<div  />
+			[14] (715,69)<img  />
+		[15] (741,69)<span >판매하기 />
+[16] (790,69)<a href='/mystore' />
+	[17] (790,69)<div  />
+		[18] (781,69)<div  />
+			[19] (781,69)<img  />
+		[20] (799,69)<span >마이 />
+[21] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[22] (215,187)<span  />
+		[23] (215,187)<div  />
+			[24] (225,187)<span >카테고리 />
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+13700 4070 본체 중고... | 중고나라 - 안심되는 중고거래
+검색결과
+카테고리
+[25] (253,461)<button  />
+전체
+가격
+~
+적용
+옵션
+[26] (317,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>무료배송 />
+	[27] (297,653)<span  />
+[28] (398,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>인증셀러 상품 />
+	[29] (367,653)<span  />
+[30] (498,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>판매완료 상품 제외 />
+	[31] (457,653)<span  />
+선택한 필터
+전체
+1,500,000원 ~ 1,850,000원
+판매완료 상품 제외
+[32] (792,735)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit h-fit' />
+	[33] (792,735)<span >초기화 />
+	[34] (792,746)<div  />
+검색 상품 가격 요약
+가장 높은 가격
+가장 낮은 가격
+[35] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 bg-white/90 border border-gray-300 rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto' />
+	[36] (854,907)<div  />
+		[37] (841,907)<span >키워드 알림 받기 />
+		[38] (903,907)<div  />
+
+</current_dom>

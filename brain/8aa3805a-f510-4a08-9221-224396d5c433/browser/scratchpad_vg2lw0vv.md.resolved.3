@@ -1,0 +1,13 @@
+# Temu Investigation Plan
+- [x] Open Temu.com
+- [x] Search for products (Encountering bot detection/network errors)
+- [x] Navigate to a product page (Redirected to "sold out" page)
+- [ ] Check for Windly collection button
+- [ ] Identify button selector
+- [ ] Record product URL format
+
+## Findings
+- Temu has strong bot detection; searches often return no results or "out of stock" redirections.
+- Encountered "네트워크 연결을 확인하고 다시 시도하십시오" error, indicating blocking.
+- Product URL format: `https://www.temu.com/goods.html?goods_id=[ID]`
+- Floating buttons found on the right, but Windly collection button (sesame-floating-action-legacy) is not visible on error pages.

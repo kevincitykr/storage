@@ -1,0 +1,92 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+PC구성
+아이웍스PC
+CPU
+메인보드
+메모리
+그래픽카드
+SSD
+HDD
+케이스
+파워
+쿨러/튜닝용품
+모니터
+프린터
+소프트웨어
+주변기기
+조립비/유상AS
+자동선택
+[0] (294,133)<dd class='ls_div on' id='ls_div0' />
+	[1] (239,133)<label >전체 />
+[2] (294,175)<dd class='ls_div ' id='ls_div2036' />
+	[3] (241,175)<label >PC용 />
+[4] (294,217)<dd class='ls_div ' id='ls_div2037' />
+	[5] (247,217)<label >노트북용 />
+[6] (294,259)<dd class='ls_div ' id='ls_div2038' />
+	[7] (243,259)<label >서버용 />
+[8] (294,301)<dd class='ls_div ' id='ls_div2474' />
+	[9] (264,301)<label >XMP/EXPO 메모리 />
+[10] (648,251)<a href='https://www.compuzone.co.kr/cscenter/service_guide.htm?bannerid=OnlineBanner' />
+	[11] (648,251)<img  />
+메모리
+[12] (369,485)<input id='Search_free' />
+무료배송
+[13] (427,485)<input id='Search_Event' />
+행사제품보기
+총
+0
+건
+[14] (328,551)<input id='SearchKeyword' />
+[15] (378,552)<a href='javascript:search_keyword();' />
+[16] (440,551)<select  />
+해당 필터로 검색된 상품이 없습니다.
+총 견적금액
+832,150
+원
+[17] (532,551)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[18] (558,551)<input  />
+[19] (584,551)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[20] (640,551)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[21] (640,552)<span >전체수량변경 />
+[22] (541,647)<label  />
+	[23] (525,646)<span  />
+		[24] (525,646)<input  />
+	[25] (548,646)<span >전체선택 />
+[26] (690,646)<a class='wbtn' href='javascript:add_wish_list();' />
+	[27] (690,646)<span >관심상품추가 />
+[28] (745,646)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[29] (745,646)<span >장바구니담기 />
+[30] (797,646)<a class='wbtn' />
+	[31] (797,646)<span >견적서출력 />
+[32] (848,646)<a class='wbtn' href='javascript:speck_form();' />
+	[33] (848,646)<span >사양검토요청 />
+[34] (893,646)<a class='wbtn' href='javascript:sess_init();' />
+	[35] (893,646)<span >초기화 />
+[36] (526,725)<label  />
+	[37] (526,724)<span  />
+		[38] (525,727)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[39] (556,724)<span >인텔 병행수입 />
+[40] (624,770)<a class='proname' href='javascript:detail_show('1082818')'>[INTEL] [병행] 코어 i7-14700K (14세대/ 랩터레이크 리프레시/ 3.4GHz) [벌크/쿨러 미포함] />
+판매가격
+658,000
+[41] (832,752)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[42] (852,752)<input class='change__ea' id='Amount_1082818' />
+[43] (873,752)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[44] (895,752)<span class='delete' />
+[45] (526,852)<label  />
+	[46] (526,851)<span  />
+		[47] (525,854)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[48] (558,851)<span >인텔 소켓 1700 />
+[49] (624,886)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[50] (669,886)<i  />
+판매가격
+174,150
+[51] (832,868)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[52] (852,868)<input class='change__ea' id='Amount_1118926' />
+[53] (873,868)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[54] (895,868)<span class='delete' />
+
+</current_dom>

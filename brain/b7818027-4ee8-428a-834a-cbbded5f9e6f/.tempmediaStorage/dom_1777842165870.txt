@@ -1,0 +1,290 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (57,62)<div  />
+		[2] (41,62)<div  />
+			[3] (41,60)<button class='normal css-1rv5af9 e2kkri01' />
+				[4] (41,60)<span  />
+		[5] (84,62)<div >해구대 />
+			해구대
+	[6] (94,453)<div class='e1sk302d6 e1gzd8jw0 css-1f7d5cm ex82sv80' scrollable='true' />
+		[7] (91,143)<div  />
+			[8] (91,142)<a href='https://global.windly.cc/view3/main' />
+				[9] (91,142)<div  />
+					[10] (91,142)<div  />
+						[11] (20,142)<div  />
+						[12] (37,142)<div >홈 />
+							홈
+		[13] (91,371)<div  />
+			[14] (91,237)<div  />
+				[15] (58,237)<div  />
+					[16] (58,237)<div  />
+						[17] (67,237)<div >상품 수집 및 검색 />
+							상품 수집 및 검색
+			[18] (91,307)<div  />
+				[19] (91,307)<a href='https://global.windly.cc/view3/product-import' />
+					[20] (91,307)<div  />
+						[21] (91,307)<div  />
+							[22] (60,307)<div >상품 수집 />
+								상품 수집
+			[23] (91,374)<a href='https://global.windly.cc/view3/global-sourcing' />
+				[24] (91,374)<div  />
+					[25] (91,374)<div  />
+						[26] (80,374)<div >AI 전세계 상품 수집 />
+							AI 전세계 상품 수집
+			[27] (91,441)<div  />
+				[28] (91,441)<a href='https://global.windly.cc/view3/search-product' />
+					[29] (91,441)<div  />
+						[30] (91,441)<div  />
+							[31] (73,441)<div >1688 상품 검색 />
+								1688 상품 검색
+			[32] (91,508)<div  />
+				[33] (91,508)<a href='https://global.windly.cc/view3/recommended-product' />
+					[34] (91,508)<div  />
+						[35] (91,508)<div  />
+							[36] (86,508)<div >인기 상품 추천 />
+								인기 상품 추천
+								[37] (118,508)<div >New />
+									New
+		[38] (91,704)<div  />
+			[39] (91,603)<div  />
+				[40] (42,603)<div  />
+					[41] (42,603)<div  />
+						[42] (51,603)<div >상품 관리 />
+							상품 관리
+			[43] (91,673)<a href='/view2/interested-product' />
+				[44] (91,673)<div  />
+					[45] (91,673)<div  />
+						[46] (59,673)<div >수집상품 />
+							수집상품
+			[47] (91,740)<a class='active' href='/view2/registered-product' />
+				[48] (91,740)<div  />
+					[49] (91,740)<div  />
+						[50] (59,740)<div >등록상품 />
+							등록상품
+			[51] (91,806)<div  />
+				[52] (91,806)<a href='https://global.windly.cc/view3/stock-sync' />
+					[53] (91,806)<div  />
+						[54] (91,806)<div  />
+							[55] (69,806)<div >재고 업데이트 />
+								재고 업데이트
+		상품 분석
+		상품 순위 분석
+	[56] (94,858)<button class='css-13zuw62 e14cppar4' />
+		실시간 삭제
+	[57] (94,953)<div >플랜 결제하기 />
+		플랜 결제하기
+	[58] (193,500)<div  />
+		[59] (187,90)<button class='normal css-1rv5af9 e2kkri01' />
+			[60] (187,90)<span  />
+	[61] (927,908)<div >문의 />
+		문의
+	업로드 실패 상품 확인 필요
+	[62] (835,908)<div  />
+		[63] (835,905)<button class='normal egyjy070 css-17xoddl e2kkri01' />
+			[64] (835,905)<span  />
+	[65] (857,908)<div  />
+		[66] (857,905)<button class='normal egyjy070 css-17xoddl e2kkri01' />
+			[67] (857,905)<span  />
+	등록상품
+	[68] (685,47)<div  />
+		[69] (684,47)<div  />
+			[70] (677,47)<span >AI 비서 윈비 />
+			[71] (712,47)<div  />
+	[72] (753,47)<div  />
+		[73] (753,47)<div  />
+			[74] (753,47)<div  />
+	[75] (789,47)<div  />
+		[76] (789,47)<div  />
+			[77] (789,47)<div  />
+	[78] (890,47)<div  />
+		[79] (890,47)<div  />
+			[80] (890,47)<div  />
+				[81] (890,47)<div >kkseob0116@gmail.com />
+					[82] (828,47)<div  />
+	[83] (594,547)<div class='e1g7n8vn1 e1gzd8jw0 css-wj4two ex82sv80' scrollable='true' />
+		[84] (559,180)<input class='css-7c4ua5 e1wcl2rh2' placeholder='상품명 검색' />
+		[85] (944,180)<button class='secondary css-xme2xs e2kkri01' />
+			[86] (944,180)<span >상품 코드 검색 />
+		[87] (353,274)<div  />
+			추가 업로드
+			수정 업로드
+			상품 삭제
+		페이지 이동
+		[88] (683,274)<input class='css-23fa9p e7pwzwn2' />
+		[89] (751,274)<button class='normal ebvjokl1 css-1j4re7y e2kkri01' />
+			[90] (751,274)<span >1 />
+		[91] (768,274)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[92] (768,274)<span >2 />
+		[93] (786,274)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[94] (786,274)<span >3 />
+		[95] (803,274)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[96] (803,274)<span >4 />
+		[97] (821,274)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[98] (821,274)<span >5 />
+		[99] (839,274)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[100] (839,274)<span  />
+		[101] (856,274)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[102] (856,274)<span  />
+		총 22146개
+		[103] (961,274)<button class='css-1mb5vlr e1lwwc7f3'>20개 />
+			20개
+			[104] (981,274)<div  />
+		[105] (232,367)<label class='css-0 e18zhkku2' />
+			[106] (232,367)<div  />
+		0
+		개
+		상품명
+		판매가
+		소싱링크
+		오픈마켓 링크
+		유입수 추적상태
+		[107] (806,367)<div  />
+		유입수
+		상품 등록일
+		상품 메모
+		[108] (604,662)<div class='e1qbfy4s2 e1gzd8jw0 css-14ya487 ex82sv80' scrollable='true' />
+			한국생산 사계절용 10켤레 특가 스니커즈 면 발목 양말
+			상품 코드:
+			235468499
+			15,000원~
+15,000원
+			● 상품 추적중
+			2026-05-03 19:11
+			[프롬산타] 한국생산 스쿨삭스 10켤레 남성 여성 면 무지 학생 발목 양말 흰 검정
+			상품 코드:
+			235468505
+			13,500원~
+13,500원
+			● 상품 추적중
+			2026-05-03 19:08
+			남자 버뮤다 와이드 반바지 남녀공용 루즈핏 여름 밴딩 트레이닝 7부 팬츠 원턱 ZA031
+			상품 코드:
+			235470697
+			25,500원~
+25,500원
+			● 상품 추적중
+			2026-05-03 19:06
+			[109] (232,503)<label class='css-0 e18zhkku2' />
+				[110] (232,503)<div  />
+			[111] (397,502)<div >상품 코드:
+235470716 />
+				[112] (397,481)<div  />
+					[113] (380,481)<a class='css-ovk77c' href='/view2/registered-product/235470716'>알파카 PLUS(엑스) 킥보드 접이식 스쿠터 />
+						알파카 PLUS(엑스) 킥보드 접이식 스쿠터
+				상품 코드:
+				235470716
+			85,500원~
+110,000원
+			[114] (603,503)<div  />
+				[115] (603,503)<div  />
+			[116] (646,482)<div  />
+				[117] (646,482)<div  />
+					[118] (646,482)<img  />
+			[119] (663,482)<div  />
+				[120] (663,482)<div  />
+					[121] (663,482)<img  />
+			[122] (681,482)<div  />
+			[123] (698,482)<div  />
+			[124] (646,523)<div  />
+			[125] (663,523)<div  />
+			[126] (681,523)<div  />
+			[127] (698,523)<div  />
+			[128] (763,502)<div >● 상품 추적중 />
+				● 상품 추적중
+			[129] (832,503)<div  />
+				[130] (832,510)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235470716' />
+			2026-05-03 19:05
+			[131] (952,503)<button class='normal css-psiqzn e2kkri01' />
+				[132] (952,503)<span  />
+			[133] (232,636)<label class='css-0 e18zhkku2' />
+				[134] (232,636)<div  />
+			[135] (397,636)<div >상품 코드:
+235470735 />
+				[136] (397,614)<div  />
+					[137] (397,614)<a class='css-ovk77c' href='/view2/registered-product/235470735'>베이블퓨어리 퍼스트 운전놀이 핸들 레이싱 어드벤처 게임 장난감 />
+						베이블퓨어리 퍼스트 운전놀이 핸들 레이싱 어드벤처 게임 장난감
+				상품 코드:
+				235470735
+			33,500원~
+33,500원
+			[138] (603,636)<div  />
+				[139] (603,636)<div  />
+			[140] (646,616)<div  />
+			[141] (663,616)<div  />
+				[142] (663,616)<div  />
+					[143] (663,616)<img  />
+			[144] (681,616)<div  />
+			[145] (698,616)<div  />
+			[146] (646,656)<div  />
+			[147] (663,656)<div  />
+			[148] (681,656)<div  />
+			[149] (698,656)<div  />
+			[150] (763,636)<div >● 상품 추적중 />
+				● 상품 추적중
+			[151] (832,636)<div  />
+				[152] (832,643)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235470735' />
+			2026-05-03 19:05
+			[153] (952,636)<button class='normal css-psiqzn e2kkri01' />
+				[154] (952,636)<span  />
+			[155] (232,770)<label class='css-0 e18zhkku2' />
+				[156] (232,770)<div  />
+			[157] (397,770)<div >상품 코드:
+235470757 />
+				[158] (397,748)<div  />
+					[159] (397,748)<a class='css-ovk77c' href='/view2/registered-product/235470757'>[CJ웰케어] 바이오코어 건강한 생유산균 500억 60캡슐 2개 />
+						[CJ웰케어] 바이오코어 건강한 생유산균 500억 60캡슐 2개
+				상품 코드:
+				235470757
+			74,000원~
+74,000원
+			[160] (603,770)<div  />
+				[161] (603,770)<div  />
+			[162] (646,750)<div  />
+				[163] (646,750)<div  />
+					[164] (646,750)<img  />
+			[165] (663,750)<div  />
+				[166] (663,750)<div  />
+					[167] (663,750)<img  />
+			[168] (681,750)<div  />
+			[169] (698,750)<div  />
+			[170] (646,790)<div  />
+			[171] (663,790)<div  />
+			[172] (681,790)<div  />
+			[173] (698,790)<div  />
+			[174] (763,770)<div >● 상품 추적중 />
+				● 상품 추적중
+			[175] (832,770)<div  />
+				[176] (832,777)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235470757' />
+			2026-05-03 19:03
+			[177] (232,903)<label class='css-0 e18zhkku2' />
+				[178] (232,903)<div  />
+			[179] (397,903)<div >상품 코드:
+235470774 />
+				[180] (397,881)<div  />
+					[181] (397,881)<a class='css-ovk77c' href='/view2/registered-product/235470774'>[4개월분]순수식품 100억보장 프로바이오틱스 60캡슐 2개월분 X 2박스, 캐나다직수입 17종 생유산균 신바이오틱스 프리바이오틱스 />
+						[4개월분]순수식품 100억보장 프로바이오틱스 60캡슐 2개월분 X 2박스, 캐나다직수입 17종 생유산균 신바이오틱스 프리바이오틱스
+				상품 코드:
+				235470774
+			56,000원~
+56,000원
+			[182] (603,903)<div  />
+				[183] (603,903)<div  />
+			[184] (646,883)<div  />
+				[185] (646,883)<div  />
+					[186] (646,883)<img  />
+			● 상품 추적중
+			2026-05-03 19:04
+		[187] (947,790)<button class='floating_btn_container css-1ko91br el543ow0' />
+[188] (704,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[189] (704,810)<span >홈 />
+[190] (806,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[191] (806,773)<div  />
+		[192] (814,755)<div  />
+	[193] (806,811)<span >대화 />
+[194] (908,788)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[195] (908,810)<span >설정 />
+
+</current_dom>

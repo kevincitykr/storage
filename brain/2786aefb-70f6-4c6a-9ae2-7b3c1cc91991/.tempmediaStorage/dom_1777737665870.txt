@@ -1,0 +1,89 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (349,23)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[1] (536,23)<button class='btn_search'>검색 />
+	검색
+[2] (581,23)<a class='btn_esti_02 btn_srch_reset' href='javascript:;' id='searchProductReset'>검색 초기화 />
+	[3] (562,23)<span  />
+14700K
+에 대한 검색결과입니다.
+[4] (198,148)<label >전체
+(17) />
+	(17)
+[5] (282,148)<label >CPU
+(3) />
+	(3)
+[6] (367,148)<label >SSD
+(14) />
+	(14)
+[7] (202,380)<a >인기상품순 />
+[8] (261,380)<a >신상품순 />
+[9] (321,380)<a >낮은 가격순 />
+[10] (380,380)<a >높은 가격순 />
+[11] (439,380)<a >상품명순 />
+[12] (586,382)<button class='btn__search-detail' id='searchDetailButton'>결과 내 검색 />
+상품에 대한 품목 및 최저가에 대한 리스트입니다.
+상품
+품목
+선택
+[13] (187,437)<a class='btn_compare'>비교 />
+	비교
+[14] (336,447)<a >인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품) />
+[15] (384,471)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 인텔 UHD 770 / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 / 시네벤치R23(싱글):2069 / 시네벤치R23(멀티):34818 />
+[16] (257,504)<div class='ninety_help distribution' />
+	[17] (256,504)<span >다나와유통 />
+[18] (292,504)<a class='icon_style btn_review'>상품의견 />
+판매준비
+[19] (578,493)<a class='btn_choice2 wishAction'>담기 />
+[20] (187,559)<a class='btn_compare'>비교 />
+	비교
+[21] (336,570)<a >인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (벌크) />
+[22] (384,595)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 인텔 UHD 770 / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 />
+[23] (257,628)<div class='ninety_help distribution' />
+	[24] (256,628)<span >다나와유통 />
+646,050
+원
+[25] (578,618)<a class='wishAction btn_clear2'>해제 />
+[26] (187,681)<a class='btn_compare'>비교 />
+	비교
+[27] (343,710)<a >인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (해외구매) />
+[28] (384,734)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 인텔 UHD 770 / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 />
+판매준비
+[29] (578,737)<a class='btn_choice2 wishAction'>담기 />
+[30] (673,20)<a href='javascript:;'>현금 최저가 />
+[31] (776,20)<a href='javascript:;'>카드 최저가 />
+[32] (651,70)<a href='javascript:;' role='button'>견적카트 />
+[33] (741,70)<a class='btn__estimate-login checkLogin' href='javascript:;'>로그인하여 저장한 견적들을 확인해보세요. />
+[34] (724,784)<div class='pd_list_area' scrollable='true' />
+	PC 주요구성
+	[35] (747,127)<a class='btn_close_cell' />
+	[36] (721,179)<a class='pd_item_title' href='#'>CPU />
+	[37] (715,220)<a >인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (벌크) />
+	[38] (654,246)<input class='input_qnt' title='주문수량 선택' />
+	[39] (666,246)<button class='btn_qnt_up' title='수량 증가' />
+	646,050
+	원
+	[40] (798,245)<a class='btn_delete_cell' />
+	[41] (721,301)<a class='pd_item_title' href='#'>쿨러/튜닝 />
+	[42] (721,356)<a class='pd_item_title' href='#'>메인보드 />
+	[43] (675,397)<a >MSI MAG B760M 박격포 II />
+	[44] (654,423)<input class='input_qnt' title='주문수량 선택' />
+	[45] (666,423)<button class='btn_qnt_up' title='수량 증가' />
+	181,390
+	원
+	[46] (798,422)<a class='btn_delete_cell' />
+	[47] (721,478)<a class='pd_item_title' href='#'>메모리 />
+	[48] (721,532)<a class='pd_item_title' href='#'>그래픽카드 />
+	[49] (721,587)<a class='pd_item_title' href='#'>SSD />
+	[50] (721,642)<a class='pd_item_title' href='#'>HDD />
+	[51] (721,697)<a class='pd_item_title' href='#'>케이스 />
+	[52] (721,752)<a class='pd_item_title' href='#'>파워 />
+	[53] (721,807)<a class='pd_item_title' href='#'>소프트웨어 />
+	모니터 및 주변기기
+	[54] (757,880)<a class='btn_close_cell' />
+	[55] (721,932)<a class='pd_item_title' href='#'>모니터 />
+	[56] (721,987)<a class='pd_item_title' href='#'>모니터 받침대 />
+
+</current_dom>

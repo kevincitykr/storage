@@ -1,0 +1,17 @@
+# Temu Investigation Plan
+- [x] Open Temu.com
+- [x] Search for products (Encountering bot detection/network errors)
+- [x] Navigate to a product page (Redirected to "sold out" page)
+- [x] Check for Windly collection button
+- [ ] Identify button selector
+- [ ] Record product URL format
+
+## Findings
+- Temu has strong bot detection; searches often return no results or "out of stock" redirections.
+- Encountered "네트워크 연결을 확인하고 다시 시도하십시오" error, indicating blocking.
+- Product URL format: `https://www.temu.com/goods.html?goods_id=[ID]`
+- Floating buttons found on the right:
+  - Chat icon (`#bg-chat-entry`)
+  - Edit/Sourcing icon (class `_2e0jpr6E`) - **Potential Windly button?**
+  - Up arrow icon (class `_3qsXqZ9V`)
+- Class `sesame-floating-action-legacy` was not found in the DOM on the error/sold-out page.

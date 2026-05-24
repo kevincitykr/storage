@@ -1,0 +1,95 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (87,84)<a class='FgNLaf' href='https://www.google.com/webhp?hl=ko&ictx=0&sa=X&ved=0ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQpYkNCAs' id='_GBvzabj_LdC5wN4PkbXkmQ8_1' />
+[1] (279,84)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (473,84)<div  />
+	[3] (470,84)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (470,84)<span  />
+	[5] (503,84)<span  />
+[6] (536,84)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (536,84)<span  />
+[8] (591,84)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,84)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (708,84)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (699,84)<div  />
+		[12] (699,84)<span  />
+[13] (815,85)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' role='button' />
+[14] (881,85)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (946,85)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25ED%2596%2589%25EB%25B3%25B5%25EC%2587%25BC%25ED%2595%2591&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (85,185)<a class='XVMlrc C6AK7c' href='/search?q=%ED%96%89%EB%B3%B5%EC%87%BC%ED%95%91&sca_esv=e62593e6e2b014e2&sxsrf=ANbL-n48kF11_tEMMLgXsalyr_F9FnLBsQ:1777539864760&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPMi0XvnPAVHvExI6esKeWGt9vmmPIa2KdthPnCi8KD3WX5YkomO3Lusc0CHidCC8nvSOe9NMLrztmOrnw9amZIBhpsCSQ&aep=1&ntc=1&sa=X&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQ2J8OegQIHBAI' />
+	[17] (85,185)<div  />
+		[18] (85,200)<div  />
+			[19] (85,191)<span >AI 모드 />
+[20] (165,185)<a class='C6AK7c' role='link' />
+	전체
+[21] (233,185)<a class='C6AK7c' href='/search?sca_esv=e62593e6e2b014e2&sxsrf=ANbL-n48kF11_tEMMLgXsalyr_F9FnLBsQ:1777539864760&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPMi0XvnPAVHvExI6esKeWGt9vmmPIa2KdthPnCi8KD3WX5YkomO3Lusc0CHidCC8nvSOe9NMLrztmOrnw9amZIBhpsCSQ&q=%ED%96%89%EB%B3%B5%EC%87%BC%ED%95%91&ved=1t:220175&ictx=111' />
+	[22] (233,185)<div  />
+		[23] (233,200)<span >쇼핑 />
+[24] (309,185)<a class='C6AK7c' href='/search?sca_esv=e62593e6e2b014e2&sxsrf=ANbL-n48kF11_tEMMLgXsalyr_F9FnLBsQ:1777539864760&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPMi0XvnPAVHvExI6esKeWGt9vmmPIa2KdthPnCi8KD3WX5YkomO3Lusc0CHidCC8nvSOe9NMLrztmOrnw9amZIBhpsCSQ&q=%ED%96%89%EB%B3%B5%EC%87%BC%ED%95%91&sa=X&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQtKgLegQIIRAB' />
+	[25] (309,185)<div  />
+		[26] (309,200)<span >동영상 />
+[27] (395,185)<a class='C6AK7c' href='/search?sca_esv=e62593e6e2b014e2&sxsrf=ANbL-n48kF11_tEMMLgXsalyr_F9FnLBsQ:1777539864760&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPMi0XvnPAVHvExI6esKeWGt9vmmPIa2KdthPnCi8KD3WX5YkomO3Lusc0CHidCC8nvSOe9NMLrztmOrnw9amZIBhpsCSQ&q=%ED%96%89%EB%B3%B5%EC%87%BC%ED%95%91&sa=X&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQtKgLegQIIBAB' />
+	[28] (395,185)<div  />
+		[29] (395,200)<span >이미지 />
+[30] (471,185)<a class='C6AK7c' href='/search?sca_esv=e62593e6e2b014e2&sxsrf=ANbL-n48kF11_tEMMLgXsalyr_F9FnLBsQ:1777539864760&q=%ED%96%89%EB%B3%B5%EC%87%BC%ED%95%91&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPMi0XvnPAVHvExI6esKeWGt9vmmPIa2KdthPnCi8KD3WX5YkomO3Lusc0CHidCC8nvSOe9NMLrztmOrnw9amZIBhpsCSQ&sa=X&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQ0pQJegQIHxAB' />
+	[31] (471,185)<div  />
+		[32] (471,200)<span >뉴스 />
+[33] (568,185)<a class='C6AK7c' href='/search?sca_esv=e62593e6e2b014e2&sxsrf=ANbL-n48kF11_tEMMLgXsalyr_F9FnLBsQ:1777539864760&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reabDXIIhQQUsoZw8B9coVqKJXCyTPWsOFG8Mj4YXPsKkW-d4fQiCO-qQWqw0JUodyGYSxfZNMzU0zmpvWWj5niWUNHLbAy3jwnZl19PgHLHPMi0XvnPAVHvExI6esKeWGt9vmmPIa2KdthPnCi8KD3WX5YkomO3Lusc0CHidCC8nvSOe9NMLrztmOrnw9amZIBhpsCSQ&q=%ED%96%89%EB%B3%B5%EC%87%BC%ED%95%91&sa=X&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQs6gLegQIHhAB' />
+	[34] (568,185)<div  />
+		[35] (568,200)<span >짧은 동영상 />
+[36] (686,185)<div class='mTpL7c' role='button' />
+	[37] (686,185)<div  />
+		[38] (686,200)<div  />
+			[39] (673,191)<span >더보기 />
+			[40] (712,191)<span  />
+[41] (787,185)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (787,185)<div  />
+		[43] (787,200)<div  />
+			[44] (775,191)<span >도구 />
+			[45] (804,191)<span  />
+검색결과
+광고: 검색 결과
+[46] (290,491)<a class='sVXRqc' href='https://foryoucom.co.kr/' />
+	[47] (290,484)<div class='CCgQ5 vCa9Yd QfkTvb N8QANc MBeuO Va3FIb EE3Upf' role='heading' />
+		[48] (290,487)<span >가성비 게이밍 조립PC - 컴퓨터 저렴한 곳 />
+	[49] (205,426)<div  />
+		[50] (185,426)<span  />
+			[51] (83,426)<span  />
+				[52] (75,424)<span  />
+					[53] (75,426)<div  />
+						[54] (75,426)<img  />
+			[55] (212,426)<span  />
+				[56] (212,411)<span  />
+					[57] (212,411)<div  />
+						[58] (154,410)<span >포유컴퓨터 />
+				[59] (212,442)<span  />
+					[60] (212,442)<span class='x2VHCd OSrXXb ob9lvb' role='text'>https://www.foryoucom.co.kr />
+[61] (338,445)<div aria-label='이 광고가 표시된 이유' class='YMEk9e r2fjmd uYZpsf HbX59e TxG06d' role='button' title='이 광고가 표시된 이유' />
+	[62] (338,443)<span  />
+합리적 가격의 최신 조립PC. 사무용부터 고성능 게임까지. 빠르고 안전한 배송. 최다 플랫폼 입점 및 최고의 판매자. 고객 중심 서비스로 신뢰받는 판매자.
+[63] (487,656)<a class='tNxQIb ynAwRc nEWj3b gpHVGb Cxb6Wc Mywnqb wGP9id' href='/aclk?sa=L&ai=DChsSEwiI0eCBnJWUAxUqK9QBHdpaJVkYACICCAEQChoCb2E&co=1&ase=2&gclid=CjwKCAjw-8vPBhBbEiwAoA39Wv2oBD4su6Jt4QPiClX2ZgD2JZWBMYBYPSEXVCel15D1wzo1higRJBoCNc0QAvD_BwE&cid=CAASugHkaI2ey_O3_fM8Vcu63EfCD4ODj5JcqPRxF1Dd4YE2xq6mc4WIOrQY2gf4SQPJB02mK1uHelF0DNzwM3hOdnJkcxPCuh-1Kq4N6HsQnnHxmKt_aJo_lzaHjrXo4dgZxuSYXJ8foFyi31738LOH-OiHjyaBBDNY1MNPJIU4E1J32zVX_lthh15PrKszNA7Xyj-DvM0-GuEHzBxiifX1pxOTegOGx7dH3PbrTd8nWARlouiaqXsQQCfypeE&cce=2&category=acrcp_v1_32&sig=AOD64_2Rwa4JkbVf2SFrzkVZQ4ZlfALGOQ&q=&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQwgUoAXoECA0QEA&adurl=' />
+	[64] (882,658)<span  />
+	[65] (462,656)<div  />
+		[66] (219,655)<span >100만원 이하 PC 견적 핫딜 />
+[67] (487,739)<a class='tNxQIb ynAwRc nEWj3b gpHVGb Cxb6Wc Mywnqb wGP9id' href='https://www.foryoucom.co.kr/shop/estimatepc.html?sa=X&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQwgUoA3oECA0QEg' />
+	[68] (882,741)<span  />
+	[69] (462,739)<div  />
+		[70] (146,738)<span >온라인견적서 />
+[71] (487,821)<a class='tNxQIb ynAwRc nEWj3b gpHVGb Cxb6Wc Mywnqb wGP9id' href='https://www.foryoucom.co.kr/shop/index_gamepc_new.html?sa=X&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQwgUoBXoECA0QFA' />
+	[72] (882,823)<span  />
+	[73] (462,821)<div  />
+		[74] (205,820)<span >그래픽/게임용 BEST PC />
+[75] (487,904)<a class='tNxQIb ynAwRc nEWj3b gpHVGb Cxb6Wc Mywnqb wGP9id' href='/aclk?sa=L&ai=DChsSEwiI0eCBnJWUAxUqK9QBHdpaJVkYACICCAEQCxoCb2E&co=1&ase=2&gclid=CjwKCAjw-8vPBhBbEiwAoA39Wu_tFRfZ7MOjFko6XQotdhro_uYFMLaCv-7tvi_ezhILYWTTp30OsxoCx-0QAvD_BwE&cid=CAASugHkaI2ey_O3_fM8Vcu63EfCD4ODj5JcqPRxF1Dd4YE2xq6mc4WIOrQY2gf4SQPJB02mK1uHelF0DNzwM3hOdnJkcxPCuh-1Kq4N6HsQnnHxmKt_aJo_lzaHjrXo4dgZxuSYXJ8foFyi31738LOH-OiHjyaBBDNY1MNPJIU4E1J32zVX_lthh15PrKszNA7Xyj-DvM0-GuEHzBxiifX1pxOTegOGx7dH3PbrTd8nWARlouiaqXsQQCfypeE&cce=2&category=acrcp_v1_32&sig=AOD64_3ELqlPn8AGUpVwq0H8HJSVaYuTkg&q=&ved=2ahUKEwi469mBnJWUAxXQHNAFHZEaOfMQwgUoB3oECA0QFg&adurl=' />
+	[76] (882,906)<span  />
+	[77] (462,904)<div  />
+		[78] (169,903)<span >가격대별 PC 제공 />
+[79] (882,988)<span  />
+[80] (181,986)<span >오버워치 가성비 PC />
+
+</current_dom>

@@ -1,0 +1,82 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (104,41)<a class='Nlogo_link _LINK' href='https://m.naver.com/' />
+	[1] (107,41)<span >NAVER />
+[2] (137,41)<a class='_LINK' href='https://m.news.naver.com' />
+	[3] (134,41)<span >뉴스 />
+[4] (171,41)<a class='_LINK' href='https://m.entertain.naver.com' />
+	[5] (171,41)<span >엔터 />
+[6] (206,41)<a class='_LINK' href='https://m.sports.naver.com' />
+	[7] (206,41)<span >스포츠 />
+[8] (241,41)<a href='https://weather.naver.com' />
+	[9] (241,41)<span >날씨 />
+[10] (280,41)<a href='https://contents.premium.naver.com' />
+	[11] (280,41)<span >프리미엄 />
+[12] (885,41)<a class='Ntool_button _SEARCH_CONTENT_TOGGLE_BUTTON' href='javascript:;' />
+	[13] (882,42)<span >검색 />
+[14] (117,123)<a class='Nitem_link' href='https://news.naver.com/' role='tab' />
+	[15] (120,118)<span >언론사별 />
+[16] (163,123)<a class='Nitem_link' href='https://news.naver.com/section/100' role='tab' />
+	[17] (163,118)<span >정치 />
+[18] (197,123)<a class='Nitem_link' href='https://news.naver.com/section/101' role='tab' />
+	[19] (197,118)<span >경제 />
+[20] (230,123)<a class='Nitem_link' href='https://news.naver.com/section/102' role='tab' />
+	[21] (230,118)<span >사회 />
+[22] (275,123)<a class='Nitem_link' href='https://news.naver.com/section/103' role='tab' />
+	[23] (275,118)<span >생활/문화 />
+[24] (327,123)<a class='Nitem_link' href='https://news.naver.com/section/105' role='tab' />
+	[25] (327,118)<span >IT/과학 />
+[26] (367,123)<a class='Nitem_link' href='https://news.naver.com/section/104' role='tab' />
+	[27] (367,118)<span >세계 />
+[28] (401,123)<a class='Nitem_link' href='https://news.naver.com/main/ranking/popularDay.naver?mid=etc&sid1=111' role='tab' />
+	[29] (401,118)<span >랭킹 />
+[30] (444,123)<a class='Nitem_link' href='https://news.naver.com/newspaper/home' role='tab' />
+	[31] (444,118)<span >신문보기 />
+[32] (496,123)<a class='Nitem_link' href='https://news.naver.com/main/opinion/home.naver' role='tab' />
+	[33] (496,118)<span >오피니언 />
+[34] (536,123)<a class='Nitem_link' href='https://news.naver.com/main/tv/index.naver?mid=tvh' role='tab' />
+	[35] (536,118)<span >TV />
+[36] (576,123)<a class='Nitem_link' href='https://news.naver.com/main/factcheck/main.naver' role='tab' />
+	[37] (576,118)<span >팩트체크 />
+[38] (639,123)<a class='Nitem_link' href='https://media.naver.com/algorithm' role='tab' />
+	[39] (639,118)<span >알고리즘 안내 />
+[40] (716,123)<a class='Nitem_link' href='https://news.naver.com/ombudsman/errorArticleList' role='tab' />
+	[41] (713,118)<span >정정보도 모음 />
+[42] (871,116)<a class='Nlnb_menu_my_link' href='https://media.naver.com/my/home' />
+	[43] (871,116)<span >MY />
+[44] (166,269)<a class='media_end_head_top_logo' href='http://www.mt.co.kr/' />
+	[45] (133,269)<div  />
+	[46] (173,269)<span >머니투데이 />
+[47] (594,269)<button class='media_end_head_channel_button _TOGGLE' />
+	[48] (586,267)<i >PICK />
+	[49] (607,269)<i >안내 />
+어제 2조 산 외인 "다시 팔았다" 돌변...가장 많이 판 종목은?
+방윤영 기자
+[50] (176,442)<a class='media_end_head_journalist_box' href='https://media.naver.com/journalist/008/31425' />
+	[51] (176,442)<em >방윤영 기자 />
+입력
+2026.04.09. 오후 4:43
+수정
+2026.04.09. 오후 4:49
+[52] (397,472)<a class='media_end_head_origin_link' href='https://www.mt.co.kr/stock/2026/04/09/2026040914533552520'>원문 />
+	[53] (390,470)<span >기사 />
+[54] (155,555)<a class='media_end_head_cmtcount_button' href='/mnews/article/comment/008/0005342195'>반응 />
+	[55] (163,552)<span >댓글 />
+	반응
+[56] (506,555)<button class='media_end_head_tts_run _TTS_SETTING_BTN' title='텍스트 음성 변환 서비스'>텍스트 음성 변환 서비스 사용하기 />
+	텍스트 음성 변환 서비스 사용하기
+[57] (541,555)<a class='media_end_head_fontsize_set _font_size_config_toggle_btn _FONT_BUTTON' href='#'>글자 크기 변경하기 />
+	글자 크기 변경하기
+[58] (573,555)<a class='u_btn_sns_share naver-splugin spi_sns_share nv_notrans _SHARE_BUTTON' href='#' id='spiButton' />
+	[59] (573,555)<span >SNS 보내기 />
+		SNS 보내기
+[60] (606,555)<a class='media_end_print_link _PRINT_BUTTON' href='#'>인쇄하기 />
+	인쇄하기
+외국인투자자 국내주식 거래 추이/그래픽=이지혜
+미국과 이란의 종전 기대감과 반도체 호황 전망에 지난 8일 국내주식을 2조원어치 사들였던 외국인투자자가 9일 다시 2조원 가까이 내다 팔았다. 휴전 협정의 불안정한 모습을 보이면서 투자자들의 경계심리를 자극한 결과로 풀이된다.
+9일 오후 3시30분 기준(잠정치) 외국인투자자는 코스피에서 1조2596억원, 코스닥에서 4914억원을 순매도(매수보다 매도가 많은 것)하는 등 국내주식을 모두 1조7510억원어치 팔아치웠다. 외국인은 전날 2조원 넘게 순매수했으나 하루 만에 순매도로 돌아섰다.
+구독
+
+</current_dom>

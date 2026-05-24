@@ -1,0 +1,57 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+계정을 선택하세요.
+[0] (681,273)<div class='VV3oRb YZVTmd SmR8' role='link' />
+	[1] (681,273)<div  />
+		[2] (681,273)<div  />
+			[3] (525,273)<div  />
+				[4] (525,273)<img  />
+			[5] (676,273)<div  />
+				[6] (676,259)<div >김광섭 />
+				[7] (676,291)<div >sohwe124@gmail.com />
+			[8] (828,253)<div >로그아웃됨 />
+[9] (681,373)<div class='VV3oRb YZVTmd SmR8' role='link' />
+	[10] (681,373)<div  />
+		[11] (681,373)<div  />
+			[12] (525,373)<div  />
+				[13] (525,373)<img  />
+			[14] (676,373)<div  />
+				[15] (676,358)<div >김광섭 />
+				[16] (676,390)<div >kevincitykr002@gmail.com />
+			[17] (828,353)<div >로그아웃됨 />
+[18] (681,472)<div class='VV3oRb YZVTmd SmR8' role='link' />
+	[19] (681,472)<div  />
+		[20] (681,472)<div  />
+			[21] (525,472)<div  />
+				[22] (525,472)<img  />
+			[23] (676,472)<div  />
+				[24] (676,458)<div >김광섭 />
+				[25] (676,489)<div >kevincitykr001@gmail.com />
+			[26] (828,452)<div >로그아웃됨 />
+[27] (681,571)<div class='VV3oRb YZVTmd SmR8' role='link' />
+	[28] (681,571)<div  />
+		[29] (681,571)<div  />
+			[30] (525,571)<div  />
+				[31] (525,571)<img  />
+			[32] (676,571)<div  />
+				[33] (676,557)<div >김재훈 />
+				[34] (676,588)<div >jaehoon34769@gmail.com />
+			[35] (828,551)<div >로그아웃됨 />
+[36] (681,659)<div class='VV3oRb YZVTmd SmR8' role='link' />
+	[37] (560,659)<div  />
+		[38] (525,659)<div  />
+		[39] (573,659)<div >다른 계정 사용 />
+[40] (681,735)<div class='VV3oRb YZVTmd SmR8' role='link' />
+	[41] (549,735)<div  />
+		[42] (525,735)<div  />
+		[43] (562,735)<div >계정 삭제 />
+[44] (161,895)<div class='VfPpkd-TkwUic' role='combobox' />
+	한국어
+	[45] (161,895)<div  />
+[46] (734,895)<a class='AVAq4d TrZEUc' href='https://support.google.com/accounts?hl=ko&p=account_iph'>도움말 />
+[47] (795,895)<a class='AVAq4d TrZEUc' href='https://accounts.google.com/TOS?loc=KR&hl=ko&privacy=true'>개인정보처리방침 />
+[48] (852,895)<a class='AVAq4d TrZEUc' href='https://accounts.google.com/TOS?loc=KR&hl=ko'>약관 />
+
+</current_dom>

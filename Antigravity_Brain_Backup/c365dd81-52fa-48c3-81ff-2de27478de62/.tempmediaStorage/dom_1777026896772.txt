@@ -1,0 +1,58 @@
+SUNO_OPAL_FACTORY_v4.3_FINAL
+4.3
+OAS
+3.1
+[0] (68,180)<a class='link' href='/openapi.json' />
+	[1] (68,180)<span >/openapi.json />
+[2] (500,309)<h3  />
+	[3] (82,308)<a class='nostyle' href='#/default' />
+		[4] (82,308)<span >default />
+	[5] (935,308)<button class='expand-operation' title='Collapse operation' />
+[6] (500,389)<div  />
+	[7] (484,389)<button class='opblock-summary-control' />
+		[8] (76,389)<span >GET />
+		[9] (525,389)<div  />
+			[10] (131,389)<span  />
+				[11] (131,389)<a class='nostyle' href='#/default/health__get' />
+					[12] (131,389)<span >/ />
+			[13] (167,389)<div >Health />
+	[14] (949,389)<button aria-label='get ​/' class='opblock-control-arrow' />
+[15] (500,475)<div  />
+	[16] (484,475)<button class='opblock-summary-control' />
+		[17] (76,475)<span >GET />
+		[18] (525,475)<div  />
+			[19] (159,475)<span  />
+				[20] (159,475)<a class='nostyle' href='#/default/get_trends_trends_get' />
+					[21] (159,475)<span >/trends />
+			[22] (235,475)<div >Get Trends />
+	[23] (949,475)<button aria-label='get ​/trends' class='opblock-control-arrow' />
+[24] (500,560)<div  />
+	[25] (484,560)<button class='opblock-summary-control' />
+		[26] (76,560)<span >POST />
+		[27] (525,560)<div  />
+			[28] (164,560)<span  />
+				[29] (164,560)<a class='nostyle' href='#/default/refresh_all_refresh_post' />
+					[30] (164,560)<span >/refresh />
+			[31] (244,560)<div >Refresh All />
+	[32] (949,560)<button aria-label='post ​/refresh' class='opblock-control-arrow' />
+[33] (500,647)<div  />
+	[34] (484,646)<button class='opblock-summary-control' />
+		[35] (76,646)<span >POST />
+		[36] (525,646)<div  />
+			[37] (168,646)<span  />
+				[38] (168,646)<a class='nostyle' href='#/default/generate_batch_generate_post' />
+					[39] (168,646)<span >/generate />
+			[40] (268,646)<div >Generate Batch />
+	[41] (949,646)<button aria-label='post ​/generate' class='opblock-control-arrow' />
+[42] (111,715)<div  />
+	[43] (90,715)<h4  />
+		[44] (90,715)<span >Parameters />
+[45] (901,715)<button class='btn try-out__btn cancel'>Cancel />
+No parameters
+Request body
+[46] (832,868)<label id='post_generate_requests_select' />
+	[47] (832,868)<select aria-label='Request content type' class='content-type' id='post_generate_requests_select' />
+[48] (87,956)<li class='tabitem active' role='presentation' />
+	[49] (80,956)<button class='tablinks' id='JktJEXo=' role='tab'>Edit Value />
+[50] (154,956)<li class='tabitem' role='presentation' />
+	[51] (146,956)<button class='tablinks inactive' id='RMBVF9o=' role='tab'>Schema />

@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+새 키 만들기
+close
+키 이름 지정
+가져온 프로젝트 선택
+[0] (500,556)<div  />
+	[1] (500,556)<div  />
+		[2] (500,556)<div  />
+			[3] (500,556)<mat-select class='mat-mdc-select mat-select-open' id='project-select-input' role='combobox' />
+				kevin1231
+				[4] (625,264)<div  />
+					[5] (500,296)<div  />
+						[6] (500,302)<div class='mat-mdc-select-panel mdc-menu-surface mdc-menu-surface--open mat-select-panel-animations-enabled mat-primary ng-star-inserted' id='project-select-input-panel' role='listbox' scrollable='true' />
+							[7] (492,113)<mat-option class='mat-mdc-option mdc-list-item special-project-option ng-star-inserted' id='mat-option-10' role='option' />
+								[8] (335,113)<span  />
+									[9] (335,113)<a class='import-project-button' />
+										[10] (273,113)<span >cloud_download />
+										[11] (349,113)<span >프로젝트 가져오기 />
+							[12] (492,150)<mat-divider class='mat-divider mat-divider-horizontal ng-star-inserted' role='separator' />
+							[13] (492,187)<mat-option class='mat-mdc-option mdc-list-item special-project-option ng-star-inserted' id='mat-option-11' role='option' />
+								[14] (328,187)<span  />
+									[15] (328,187)<a class='create-project-button' />
+										[16] (273,187)<span >add />
+										[17] (342,187)<span >프로젝트 만들기 />
+							[18] (492,253)<mat-option class='mat-mdc-option mdc-list-item mdc-list-item--selected ng-star-inserted mat-mdc-option-active' id='mat-option-12' role='option' />
+								[19] (298,253)<span  />
+									[20] (298,253)<div  />
+										[21] (298,253)<span >kevin1231 />
+							[22] (492,319)<mat-option class='mat-mdc-option mdc-list-item ng-star-inserted' id='mat-option-13' role='option' />
+								[23] (296,319)<span  />
+									[24] (296,319)<div  />
+										[25] (296,319)<span >kevincity />
+							[26] (492,385)<mat-option class='mat-mdc-option mdc-list-item ng-star-inserted' id='mat-option-14' role='option' />
+								[27] (313,385)<span  />
+									[28] (313,385)<div  />
+										[29] (313,385)<span >kevincity1230 />
+							[30] (492,451)<mat-option class='mat-mdc-option mdc-list-item ng-star-inserted' id='mat-option-15' role='option' />
+								[31] (325,451)<span  />
+									[32] (325,451)<div  />
+										[33] (325,451)<span >kevincityyoutube />
+							[34] (492,517)<mat-option class='mat-mdc-option mdc-list-item ng-star-inserted' id='mat-option-16' role='option' />
+								[35] (321,517)<span  />
+									[36] (321,517)<div  />
+										[37] (321,517)<span >My Project 1572 />
+							My Project 20484
+							My Youtube API
+							youtube-shorts-automation
+취소
+키 만들기
+We have updated our
+Terms of Service
+Dismiss
+menu
+[38] (-1,500)<div class='nav-content v3-left-nav nesting-enabled ng-tns-c3997297598-1 ng-trigger ng-trigger-parent collapsed' scrollable='true' />
+	expand_more
+[39] (500,551)<div class='layout-main ng-tns-c3872533921-0' scrollable='true' />
+	API 키
+	docs
+	API 빠른 시작
+	key
+	API 키 만들기
+	그룹화 기준
+	API Key
+	프로젝트
+	필터링 기준
+	모든 프로젝트
+	키
+	프로젝트
+	생성일
+	결제 등급
+	...kRU0
+	Gemini API Key
+	kevin1231
+	gen-lang-client-0762672309
+	2026. 4. 26.
+	결제 설정
+	무료 등급
+	content_copy
+	paid
+	bar_chart
+	more_vert
+	...Ne3k
+	kevincity
+	kevin1231
+	gen-lang-client-0762672309
+	2025. 12. 31.
+	결제 설정
+	무료 등급
+	content_copy
+	paid
+	bar_chart
+	more_vert
+	여기에 API 키가 표시되지 않나요?
+	이 목록에는 Google AI Studio로 가져온 프로젝트의 API 키만 표시됩니다. 연결된 API 키를 관리하려면 다른 프로젝트를 가져오세요. 위에서 새 API 키를 만들 수도 있습니다.
+	자세히 알아보기
+
+</current_dom>

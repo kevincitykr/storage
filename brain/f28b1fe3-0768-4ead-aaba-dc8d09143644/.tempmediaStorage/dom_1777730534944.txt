@@ -1,0 +1,86 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+PC구성
+아이웍스PC
+CPU
+메인보드
+메모리
+그래픽카드
+SSD
+HDD
+케이스
+파워
+쿨러/튜닝용품
+모니터
+프린터
+소프트웨어
+주변기기
+조립비/유상AS
+자동선택
+[0] (268,292)<div class='scroll_ctgr' scrollable='true' />
+	[1] (267,156)<dd class='ls_div on' id='ls_div0' />
+		[2] (207,156)<label >전체 />
+	[3] (267,205)<dd class='ls_div ' id='ls_div2035' />
+		[4] (218,205)<label >AMD 소켓 />
+	[5] (267,253)<dd class='ls_div ' id='ls_div4724' />
+		[6] (227,253)<label >인텔 소켓 1851 />
+	[7] (267,301)<dd class='ls_div ' id='ls_div4560' />
+		[8] (227,301)<label >인텔 소켓 1700 />
+	[9] (267,350)<dd class='ls_div ' id='ls_div4421' />
+		[10] (227,350)<label >인텔 소켓 1200 />
+	[11] (267,398)<dd class='ls_div ' id='ls_div3480' />
+		[12] (234,398)<label >인텔 소켓 1151-V2 />
+	[13] (267,447)<dd class='ls_div ' id='ls_div3209' />
+		[14] (227,447)<label >인텔 소켓 1151 />
+	인텔 소켓 1150/1155
+	인텔 소켓 2066
+	서버/워크스테이션
+	산업용 메인보드
+[15] (666,292)<a href='https://www.compuzone.co.kr/cscenter/service_guide.htm?bannerid=OnlineBanner' />
+	[16] (666,292)<img  />
+메인보드
+[17] (353,564)<input id='Search_free' />
+무료배송
+[18] (418,564)<input id='Search_Event' />
+행사제품보기
+총
+0
+건
+[19] (307,641)<input id='SearchKeyword' />
+[20] (363,643)<a href='javascript:search_keyword();' />
+[21] (433,641)<select  />
+총 견적금액
+576,000
+원
+[22] (536,641)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[23] (565,641)<input  />
+[24] (594,641)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[25] (658,641)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[26] (658,642)<span >전체수량변경 />
+[27] (546,752)<label  />
+	[28] (528,751)<span  />
+		[29] (528,752)<input  />
+	[30] (554,751)<span >전체선택 />
+[31] (713,751)<a class='wbtn' href='javascript:add_wish_list();' />
+	[32] (713,752)<span >관심상품추가 />
+[33] (774,751)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[34] (774,752)<span >장바구니담기 />
+[35] (833,751)<a class='wbtn' />
+	[36] (833,752)<span >견적서출력 />
+[37] (891,751)<a class='wbtn' href='javascript:speck_form();' />
+	[38] (891,752)<span >사양검토요청 />
+초기화
+[39] (529,843)<label  />
+	[40] (529,842)<span  />
+		[41] (528,845)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[42] (563,842)<span >인텔 병행수입 />
+[43] (640,895)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[44] (873,874)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[45] (896,874)<input class='change__ea' id='Amount_1108547' />
+[46] (919,874)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+
+</current_dom>

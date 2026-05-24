@@ -1,0 +1,31 @@
+# Drama Video Generation Walkthrough
+
+We have successfully generated the visual assets for the drama "내 아내는 보스" and initiated the video assembly process.
+
+## 1. Scene Images (Nanobanana Pro 3)
+
+The following 6 scenes were generated based on the script's visual descriptions.
+
+````carousel
+![Chapter 1: Min-su's Duality](/ch_1_scene_1769219269565.png)
+<!-- slide -->
+![Chapter 2: Alleyway Action](/ch_2_scene_1769219286624.png)
+<!-- slide -->
+![Chapter 3: Warehouse Threat](/ch_3_scene_1769219303635.png)
+<!-- slide -->
+![Chapter 4: Scooter Chase](/ch_4_scene_1769219319747.png)
+<!-- slide -->
+![Chapter 5: Tape Measure Action](/ch_5_scene_1769219335389.png)
+<!-- slide -->
+![Chapter 6: Truck Escape](/ch_6_scene_1769219352485.png)
+````
+
+## 2. Video Generation Status
+
+- **Script**: [scripts/create_drama_video.py](file:///c:/Users/ksohw/.gemini/antigravity/scratch/2%EA%B3%B5%EC%9E%A5/legacy_project/scripts/create_drama_video.py)
+- **Audio**: TTS generated for 6 chapters (Korean, Male voice).
+- **Status**: Video assembly is currently running in the background.
+- **Output Path**: [legacy_project/.tmp/output_drama_video.mp4](file:///c:/Users/ksohw/.gemini/antigravity/scratch/2%EA%B3%B5%EC%9E%A5/legacy_project/.tmp/output_drama_video.mp4)
+
+> [!NOTE]
+> The video generation process (FFmpeg) may take a few minutes to complete depending on the system performance. Please check the output folder shortly.

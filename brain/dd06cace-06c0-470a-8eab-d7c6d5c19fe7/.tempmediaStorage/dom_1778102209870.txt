@@ -1,0 +1,163 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (181,30)<li  />
+	[1] (181,30)<button class='gm-tcol-t'>카페정보 />
+[2] (246,30)<li  />
+	[3] (246,30)<button >나의활동 />
+카페정보
+[4] (174,121)<a href='/MyCafeIntro.nhn?clubid=10050146' />
+[5] (221,96)<a class='id mlink gm-tcol-c' href='/f-e/cafes/10050146/members/MokGI1z_orABW9EK8LpfFo6WVvnUzJvKl-gGIbFuTRw' />
+	[6] (221,96)<div  />
+		[7] (221,96)<div >중고나라운영진1 />
+매니저
+[8] (227,123)<a class='gm-tcol-c' href='#'>2003.12.10. 개설 />
+[9] (214,150)<a class='u gm-tcol-c' href='#'>카페소개 />
+[10] (214,210)<a class='gm-tcol-c' href='#'>카페등급 />
+	카페등급
+	[11] (161,208)<span  />
+	[12] (174,208)<em >숲 />
+[13] (214,243)<li >카페멤버수 />
+	카페멤버수
+	[14] (187,243)<a href='#' />
+		[15] (161,242)<img  />
+		[16] (194,243)<em >19,427,916 />
+			[17] (216,243)<span  />
+	닫기
+	[18] (264,243)<a class='link_invite' href='#'>초대 />
+대표 인기카페
+[19] (214,387)<a class='_rosRestrict' href='#'>카페 가입하기 />
+[20] (214,456)<a class='link_chat _tabletRestrict(채팅)' href='#'>카페 채팅 />
+[21] (201,519)<input class='inp' id='topLayerQueryInput' title='카페글 검색어 입력' />
+[22] (266,519)<button class='btn'>검색 />
+[23] (186,571)<a class='gm-tcol-c' href='/ArticleList.nhn?search.clubid=10050146&search.boardtype=L' id='menuLink0'>전체글보기 />
+226,634,439
+[24] (179,605)<a class='gm-tcol-c' href='/f-e/cafes/10050146/popular' id='menuLink-7'>인기글 />
+[25] (205,661)<a class='gm-tcol-c' href='https://tracking.joongna.com/i7wnxt' id='menuLink2771'>💸 빠르게 상품 팔기 />
+[26] (209,696)<a class='gm-tcol-c' href='https://tracking.joongna.com/ir0gte' id='menuLink2766'>📊 중고 시세 확인하기 />
+[27] (209,730)<a class='gm-tcol-c' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=2769&search.boardtype=L' id='menuLink2769'>상품등록 및 판매 팁✅ />
+[28] (216,765)<a class='gm-tcol-c' href='https://vvd.bz/hCWg' id='menuLink2775'>갤럭시 기획전 바로가기↗️ />
+[29] (213,838)<a class='gm-tcol-c' href='https://cafe.naver.com/joonggonara/1117147411' id='menuLink2533'>[필독] 중고나라 상품등록 변경안내 />
+[30] (200,889)<a class='gm-tcol-c' href='https://web.joongna.com/signin?loginType=cafe&callbackUrl=%2Fcafe-help%2Fguide' id='menuLink2223'>중고나라 고객센터 />
+[31] (193,924)<a class='gm-tcol-c' href='https://vvd.bz/cK3S' id='menuLink2401'>셀러 회원 신청 />
+[32] (193,959)<a class='gm-tcol-c' href='https://vvd.bz/dkXU' id='menuLink2450'>광고/제휴 문의 />
+[33] (195,993)<a class='gm-tcol-c' href='https://vvd.bz/W0d' id='menuLink2263'>네이버 쪽지함> />
+[스포츠] 농구용품/의류
+[34] (452,14)<a class='_rosRestrict ico_bookmark' href='#' id='favorite' />
+	[35] (458,-1)<span >즐겨찾는 게시판 등록 />
+[36] (816,22)<a class='btn_type2' href='/NpayTradeHistoryList.nhn?cafeId=10050146'>내 거래내역 보기 />
+[37] (577,75)<label >안전거래 />
+[38] (629,75)<label >판매중 />
+[39] (687,75)<label >공지 숨기기 />
+[40] (744,73)<a class='sort_card ' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=431&search.boardtype=C' />
+	[41] (739,61)<span >카드형 />
+[42] (764,73)<a class='sort_album ' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=431&search.boardtype=I' />
+	[43] (759,61)<span >앨범형 />
+[44] (783,73)<a class='sort_list  is_selected ' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=431&search.boardtype=L' />
+	[45] (779,61)<span >목록형 />
+[46] (826,73)<a class='select_box' href='#'>15개씩 />
+게시물 목록
+제목
+작성자
+작성일
+조회
+[47] (829,142)<a class='sort_likes' href='/ArticleList.nhn?search.clubid=10050146&search.menuid=431&search.boardtype=L&search.useuparticle=true&userDisplay=15'>좋아요 />
+필독
+[48] (416,205)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1117147411'>[필독] 중고나라 상품등록 변경안내 />
+[49] (673,193)<a class='m-tcol-c' href='#'>중고나라카페스탭 />
+2025.09.15.
+35만
+774
+공지
+[50] (450,263)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1129075500'>[이벤트] 내 차 견적 확인하면, 기름값 100만원 지원! />
+new
+[51] (664,264)<a class='m-tcol-c' href='#'>중고나라광고 />
+2026.05.06.
+612
+1
+공지
+[52] (483,324)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1128779636'>★중고나라 회원님들을 위한 위▪대장 내시경&CT검사 정밀 종합건강검진 《19만원》 특별 이벤트★ />
+[53] (465,337)<a class='cmt' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1128779636&commentFocus=true'>[
+] />
+	[54] (465,337)<em >11 />
+[55] (668,324)<a class='m-tcol-c' href='#'>우리베스트내과 />
+2026.04.29.
+1,455
+5
+공지
+[56] (419,387)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1127032277'>[공지] 안전한 거래를 위한 이용 안내 />
+[57] (673,376)<a class='m-tcol-c' href='#'>중고나라카페스탭 />
+2026.03.23.
+4,703
+33
+공지
+[58] (424,451)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1123058014'>[공지] 네이버 카페 문의 운영 변경 안내 />
+[59] (673,439)<a class='m-tcol-c' href='#'>중고나라카페스탭 />
+2026.01.02.
+1.3만
+66
+공지
+[60] (406,514)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1121148280'>중고나라 상품등록 및 판매 팁 />
+[61] (673,502)<a class='m-tcol-c' href='#'>중고나라카페스탭 />
+2025.11.27.
+4.5만
+121
+공지
+[62] (455,577)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1117810716'>카페 판매글 등록 방식 변경, FAQ로 한눈에 확인하세요! />
+[63] (673,565)<a class='m-tcol-c' href='#'>중고나라카페스탭 />
+2025.09.23.
+5만
+70
+공지
+[64] (422,640)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1117147931'>중고나라 이용 정책 (2025.09.15 개정) />
+[65] (673,629)<a class='m-tcol-c' href='#'>중고나라카페스탭 />
+2025.09.15.
+4.8만
+188
+공지
+[66] (431,704)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1115601449'>[안내] 안심결제 서비스 운영정책 변경 안내 />
+[67] (673,692)<a class='m-tcol-c' href='#'>중고나라카페스탭 />
+2025.08.28.
+7,537
+35
+공지
+[68] (413,767)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1111896926'>중고나라가 알려주는 사기 예방법 />
+[69] (673,755)<a class='m-tcol-c' href='#'>중고나라카페스텝 />
+2025.07.17.
+2.5만
+82
+공지
+[70] (433,825)<a class='article' href='/ArticleRead.nhn?clubid=10050146&menuid=431&boardtype=L&page=1&specialmenutype=&userDisplay=15&articleid=1017796073'>중고나라 모든 상품을 한 번에 보고 싶다면? />
+완료
+[71] (660,826)<a class='m-tcol-c' href='#'>중나스태프 />
+2023.10.13.
+144
+0
+게시물 목록
+1117731661
+[72] (386,880)<a class='article' href='/ArticleRead.nhn?clubid=10050146&page=1&menuid=431&boardtype=L&articleid=1117731661&referrerAllArticles=false'>[280] 지티컷1 퍼플 />
+완료
+사진
+[73] (660,879)<a class='m-tcol-c' href='#'>거마조차장 />
+2025.09.22.
+159
+0
+1117729048
+[74] (427,933)<a class='article' href='/ArticleRead.nhn?clubid=10050146&page=1&menuid=431&boardtype=L&articleid=1117729048&referrerAllArticles=false'>아디다스 벨크로형 무릎보호대 사이즈XL />
+완료
+사진
+[75] (652,932)<a class='m-tcol-c' href='#'>dr0908 />
+2025.09.22.
+52
+0
+1117725500
+[76] (382,985)<a class='article' href='/ArticleRead.nhn?clubid=10050146&page=1&menuid=431&boardtype=L&articleid=1117725500&referrerAllArticles=false'>코비6 270사이즈 />
+완료
+사진
+[77] (651,985)<a class='m-tcol-c' href='#'>권범아 />
+2025.09.22.
+204
+1
+
+</current_dom>

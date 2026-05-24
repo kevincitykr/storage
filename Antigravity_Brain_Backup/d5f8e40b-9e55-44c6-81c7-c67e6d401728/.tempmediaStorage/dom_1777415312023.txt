@@ -1,0 +1,69 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (41,46)<a aria-label='DuckDuckGo home' class='header__logo-wrap js-header-logo' href='/' id='header-logo-wrapper' />
+	[1] (55,46)<span  />
+[2] (258,46)<div  />
+	[3] (246,46)<input class='KzVoRLlICt8isnbHKZpL' id='search_form_input' placeholder='개인 정보 노출 없이 검색' role='combobox' />
+	[4] (424,46)<button aria-label='search' class='tre66mmQ79ZU1ithDMXw' />
+DuckDuckGo 브라우저로 업그레이드하세요.
+DuckDuckGo
+브라우저를 사용해 보세요. 빠른 검색. 무료 제공. 개인 정보 보호.
+[5] (913,480)<a class='C68Y1fiPXCZijXmzVAbe fIgpqHfKgUmmk5lqmvL5 cSB3vZZBSZ9GLKeL8ygC ZnNQOO_hk_lz4QfFV3H1' href='https://duckduckgo.com/windows?origin=funnel_browser_searchresults__popover' />
+	[6] (919,480)<span >브라우저 다운로드 />
+무료
+[7] (982,107)<button class='hzexMwfT1kBGpEyFTOy2 lfRwTNN1Hf8R2G1aX9HT' />
+[8] (982,43)<button class='header__button--menu js-side-menu-open' id='header-hamburger-menu-btn'>메뉴 열기 />
+	메뉴 열기
+[9] (500,98)<div  />
+	[10] (99,98)<a class='kFFXe30DOpq5j1hbWU1q SnptgjT2zdOhGYfNng6g wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=site%3Ayoutube.com+%22UColempvnpX_9ql68nsipzOQ%22&ia=web'>모두 />
+	[11] (130,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=site%3Ayoutube.com+%22UColempvnpX_9ql68nsipzOQ%22&ia=images&iax=images'>이미지 />
+	[12] (159,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=site%3Ayoutube.com+%22UColempvnpX_9ql68nsipzOQ%22&ia=videos&iax=videos'>동영상 />
+	[13] (185,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=site%3Ayoutube.com+%22UColempvnpX_9ql68nsipzOQ%22&ia=news&iar=news'>뉴스 />
+	[14] (207,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=site%3Ayoutube.com+%22UColempvnpX_9ql68nsipzOQ%22&iaxm=maps'>지도 />
+	[15] (390,98)<a class='Pd_jmhkZzftl0UtTaw0u FjSJqhByQmoYMVscUoQe VssOcyhy47YNtTsYTdr0 wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=site%3Ayoutube.com+%22UColempvnpX_9ql68nsipzOQ%22&ia=chat'>Duck.ai />
+	[16] (424,98)<button class='Pd_jmhkZzftl0UtTaw0u FjSJqhByQmoYMVscUoQe VssOcyhy47YNtTsYTdr0 gu3Q2GnnzpqybD2PQxoN wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2'>검색 설정 />
+		검색 설정
+		[17] (424,98)<span  />
+			[18] (424,98)<div  />
+				[19] (424,98)<a class='zcm__link dropdown__button js-dropdown-button' />
+[20] (500,328)<div  />
+	[21] (109,143)<div class='UWzy821Y58lvrLxQ7fnz' />
+		[22] (104,143)<span  />
+			[23] (104,143)<div  />
+				[24] (104,143)<div  />
+					[25] (92,144)<div  />
+						[26] (92,143)<div  />
+					[27] (109,143)<span >보호됨 />
+	[28] (169,143)<div class='UWzy821Y58lvrLxQ7fnz WiAwXRBfyDliy0tc5wSj' />
+		[29] (164,143)<span  />
+			[30] (164,143)<div  />
+				[31] (164,143)<div  />
+					[32] (148,143)<div class='BPcpYCZXQg3nCFNSsYt7 aZO4YZYIAXDN6NUwv7yO' role='switch' />
+						[33] (144,143)<span  />
+					[34] (174,143)<a class='GDhvI_gnvGtGgJQNMU64'>대한민국 />
+	[35] (236,143)<div class='UWzy821Y58lvrLxQ7fnz K3OGxmrYmlInVyLTbimt' />
+		[36] (230,143)<span >안전 검색: 보통 />
+	[37] (293,143)<div class='UWzy821Y58lvrLxQ7fnz' />
+		[38] (287,143)<span >모든 날짜 />
+	[39] (257,193)<div  />
+		youtube.com
+		의 결과만 표시
+		[40] (400,184)<button class='Pd_jmhkZzftl0UtTaw0u FjSJqhByQmoYMVscUoQe LksAJNn6s1vdFsIxzU6V wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' />
+			[41] (400,186)<span >모든 결과 보기 />
+	site:youtube.com "UColempvnpX_9ql68nsipzOQ"
+	에 대한 결과가 없습니다
+	추천:
+	철자 검사
+	관련 키워드를 사용해 보세요
+	따옴표 없이 다시 검색해 보세요:
+	[42] (305,380)<a class='wZ4JdaHxSAhGy1HoNVja xrWcR15SIZQFwwZBfYi3 RDtM9fAcGGHRulQKs39C' href='/?q=site%3Ayoutube.com+UColempvnpX_9ql68nsipzOQ'>site:youtube.com UColempvnpX_9ql68nsipzOQ />
+	DuckDuckGo의 비공개 AI 채팅 서비스
+	Duck.ai
+	에 질문해보기:
+	[43] (248,469)<textarea class='bv6Q31k3Hc190HyCs7_H DfBpnT5YZvITDa04inQg' placeholder='Duck.ai에 무엇이든 물어보세요' />
+	[44] (418,469)<button aria-label='Submit to Duck.ai' class='uuIDnYC4qmyFk5dsXOhr fIgpqHfKgUmmk5lqmvL5 ZOfUKr7Y2U26fohV9ohy q1UkhiApBvGYHUQYyG9H COR98ouhDKWLHAPt3uQq' />
+[45] (963,963)<button class='fIgpqHfKgUmmk5lqmvL5 _I0sotAoeGtAJzkzyutg Yy4FVTLlXDKk7XaBX_nT'>피드백 공유 />
+
+</current_dom>

@@ -1,0 +1,79 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+새 폴더
+2026-03-23 16:37:55
+goodtobehere07 기기가 "3" (jp-senior-50gb) 폴더를 공유하길 원합니다.
+새 폴더를 추가하시겠습니까?
+[0] (775,204)<button class='btn btn-sm btn-success ng-scope' />
+	[1] (764,205)<span  />
+	[2] (781,204)<span >추가 />
+[3] (824,204)<button class='btn btn-sm btn-danger' />
+	[4] (813,205)<span  />
+	[5] (829,204)<span >무시 />
+[6] (878,204)<button class='btn btn-sm btn-default' />
+	[7] (862,205)<span  />
+	[8] (883,204)<span >나중에 />
+폴더
+(2)
+[9] (286,432)<button class='btn panel-heading' />
+	[10] (286,432)<h4  />
+		[11] (103,432)<div  />
+			[12] (103,432)<span  />
+		[13] (450,432)<div  />
+			[14] (448,431)<span >최신 상태 />
+		[15] (267,432)<div  />
+			[16] (213,431)<span >Goodtobehere공유폴더 (52GB) />
+[17] (286,511)<button class='btn panel-heading' />
+	[18] (286,511)<h4  />
+		[19] (103,511)<div  />
+			[20] (103,511)<span  />
+		[21] (450,511)<div  />
+			[22] (448,509)<span >최신 상태 />
+		[23] (267,511)<div  />
+			[24] (184,509)<span >Upload2601공유폴더 />
+[25] (292,610)<button class='btn btn-sm btn-default ng-scope' />
+	[26] (260,611)<span  />
+	[27] (298,610)<span >모두 일시 중지 />
+[28] (379,610)<button class='btn btn-sm btn-default ng-scope' />
+	[29] (353,611)<span  />
+	[30] (385,610)<span >모두 재탐색 />
+[31] (455,610)<button class='btn btn-sm btn-default' />
+	[32] (434,611)<span  />
+	[33] (461,610)<span >폴더 추가 />
+현재 기기
+[34] (714,433)<button class='btn panel-heading' />
+	[35] (714,432)<h4  />
+		[36] (529,432)<identicon  />
+		[37] (726,432)<div >Upload_2601 />
+수신 속도
+[38] (885,497)<a class='toggler ng-binding' href='#'>(0 B) />
+	[39] (872,497)<span >0 B/s />
+송신 속도
+[40] (885,541)<a class='toggler ng-binding' href='#'>(0 B) />
+	[41] (872,541)<span >0 B/s />
+현재 기기 상태(합계)
+61,919
+8,949
+~930 MiB
+대기자
+[42] (903,630)<a class='ng-binding text-success'>3/3 />
+탐지
+[43] (903,674)<a class='ng-binding'>4/5 />
+가동 시간
+2시간 23분
+아이디
+[44] (886,762)<a class='ng-binding'>KCACWLR />
+버전
+v2.0.15, Windows (64-bit Intel/AMD)
+다른 기기
+[45] (714,986)<button class='btn panel-heading' />
+	[46] (714,986)<h4  />
+		[47] (846,986)<div  />
+			[48] (834,985)<span >연결 끊김(비활성) />
+			[49] (897,986)<span  />
+				[50] (897,985)<span  />
+		[51] (661,986)<div >goodtobehere07 />
+
+</current_dom>

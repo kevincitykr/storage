@@ -1,0 +1,113 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,36)<button class='_top-banner-large-content_z6lgp_39' />
+		[2] (390,36)<img  />
+		[3] (510,36)<span  />
+			[4] (503,36)<span >앱을 다운로드하고 더 편리한 번개장터를 만나보세요! />
+	[5] (974,36)<button class='_top-banner-large-close_z6lgp_57' />
+	[6] (129,123)<a href='/' />
+		[7] (129,123)<img  />
+	[8] (350,123)<form  />
+		[9] (350,123)<input class='_input_au7f1_17' placeholder='상품명이나 상점명을 검색해주세요' />
+		[10] (497,123)<button class='_reset-button_au7f1_35' />
+	[11] (861,123)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxClassNames_flexShrink__7nn0kn30' href='/login?header=true' />
+		[12] (861,123)<button class='_button_1cw4e_1 _variant-normal_1cw4e_53 _size-M_1cw4e_93' />
+			[13] (861,123)<span >로그인/회원가입 />
+	[14] (124,215)<button  />
+		[15] (124,215)<div  />
+			[16] (132,215)<span >카테고리 />
+	[17] (200,215)<a href='/categories/700' />
+		[18] (200,214)<span >스포츠/레저 />
+	[19] (267,215)<a href='/categories/910' />
+		[20] (267,214)<span >스타굿즈 />
+	[21] (322,215)<a href='/categories/600' />
+		[22] (322,214)<span >디지털 />
+	[23] (372,215)<a href='/categories/930' />
+		[24] (372,214)<span >키덜트 />
+	[25] (427,215)<a href='/categories/310' />
+		[26] (427,214)<span >여성의류 />
+	[27] (814,215)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 _outlink-item_j2slt_1' href='https://mercari.bunjang.co.kr' />
+		[28] (808,215)<span >메루카리 />
+	[29] (877,215)<a class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 _outlink-item_j2slt_1' href='https://seller.bunjang.co.kr' />
+		[30] (871,215)<span >판매자센터 />
+	최근본상품이
+	없어요.
+	[31] (168,336)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+		[32] (117,336)<span >카테고리 />
+		[33] (235,336)<div  />
+	[34] (168,563)<fieldset  />
+		[35] (168,417)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp' />
+			[36] (109,417)<span >디지털 />
+		[37] (168,490)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp' />
+			[38] (119,490)<span >스포츠/레저 />
+		[39] (168,563)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp' />
+			[40] (109,563)<span >키덜트 />
+		[41] (168,637)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp' />
+			[42] (113,637)<span >여성의류 />
+		[43] (168,710)<label class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp' />
+			[44] (113,710)<span >가전제품 />
+	[45] (168,779)<button class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Box_boxClassNames_borderRadius__7nn0kn2l Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv _button_yea1t_1' />
+		[46] (161,779)<span >카테고리 더보기 />
+	[47] (168,880)<button class='Accordion_accordionTriggerStyle__1uxg4wv5 bun-ui-accordion-trigger Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_paddingTop__7nn0kn29 Box_boxClassNames_paddingBottom__7nn0kn2a Box_boxClassNames_width__7nn0kn2d Flex__wsrgth3 Flex_flexRecipe_justify_space-between__wsrgthj Flex_flexRecipe_align_center__wsrgthp Flex_flexClassNames_gap__wsrgthv' />
+		[48] (117,880)<span >상품옵션 />
+		[49] (235,880)<div  />
+	카테고리를 먼저 선택해 주세요.
+	'4070 ' 검색결과
+	[50] (422,340)<button class='bgzt-ui-tooltip-trigger Tooltip_tooltipTriggerStyle__1s6ha560' />
+	상품
+	875
+	[51] (732,450)<button class='_sortTab_1hbq6_21' />
+		[52] (732,450)<span >정확도순 />
+	[53] (776,450)<button class='_sortTab_1hbq6_21' />
+		[54] (776,449)<span >최신순 />
+	[55] (825,450)<button class='_sortTab_1hbq6_21' />
+		[56] (825,449)<span >낮은 가격순 />
+	[57] (883,450)<button class='_sortTab_1hbq6_21' />
+		[58] (883,449)<span >높은 가격순 />
+	[59] (360,751)<a class='_container_15rjm_1' href='/products/405384672' />
+		[60] (360,688)<div  />
+			[61] (360,688)<img  />
+			[62] (416,525)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+		[63] (360,896)<div  />
+		[64] (360,920)<p >3,000,000원 />
+		[65] (360,940)<div  />
+		[66] (360,958)<p >최고사양 데스크탑 본체 / 9800x3d / 4070ti super / />
+		[67] (360,981)<div  />
+		10시간 전
+		1
+	[68] (517,751)<a class='_container_15rjm_1' href='/products/405697503'>라이젠 7800X3D + 4070 SUPER 12GB 본체 />
+		[69] (517,688)<div  />
+			[70] (517,688)<img  />
+			[71] (573,525)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+		[72] (517,896)<div  />
+		[73] (517,920)<p >3,000,000원 />
+		라이젠 7800X3D + 4070 SUPER 12GB 본체
+		4시간 전
+	[74] (674,751)<a class='_container_15rjm_1' href='/products/404847915' />
+		[75] (674,688)<div  />
+			[76] (674,688)<img  />
+			[77] (730,525)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+		[78] (674,896)<div  />
+		[79] (674,920)<p >840,000원 />
+		[80] (674,940)<div  />
+		[81] (674,958)<p >이엠텍 RTX 4070 SUPER 화이트 그래픽카드 />
+		[82] (674,981)<div  />
+		10시간 전
+		3
+		1
+	[83] (830,751)<a class='_container_15rjm_1' href='/products/405452024' />
+		[84] (830,688)<div  />
+			[85] (830,688)<img  />
+			[86] (887,525)<button aria-label='찜하기' class='Box__7nn0kn17 Box_boxRecipe_boxSizing_borderBox__7nn0kn22 Box_boxRecipe_position_absolute__7nn0kn1a Box_boxRecipe_display_flex__7nn0kn1g Box_boxClassNames_padding__7nn0kn28 Box_boxClassNames_top__7nn0kn2u Box_boxClassNames_right__7nn0kn2w Flex__wsrgth3 Flex_flexRecipe_justify_center__wsrgthd Flex_flexRecipe_align_center__wsrgthp' />
+		[87] (830,896)<div  />
+		[88] (830,920)<p >2,200,000원 />
+		[89] (830,940)<div  />
+		[90] (830,958)<p >아수스 제피러스 G14 RTX4070  윈도우11홈 팝니다 />
+		[91] (830,981)<div  />
+		21시간 전
+		1
+
+</current_dom>

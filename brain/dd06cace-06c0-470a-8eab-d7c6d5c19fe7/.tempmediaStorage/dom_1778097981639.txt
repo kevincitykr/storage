@@ -1,0 +1,147 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (324,125)<a class='inline shrink-0' href='/search/%EA%B1%B4%EB%8B%B4' />
+	[6] (324,125)<span >건담 />
+		[7] (317,125)<span >11
+. />
+[8] (373,125)<a class='inline shrink-0' href='/search/%EA%B7%B8%EB%9E%9C%EB%93%9C%EC%84%B8%EC%9D%B4%EC%BD%94' />
+	[9] (373,125)<span >그랜드세이코 />
+		[10] (353,125)<span >12
+. />
+[11] (432,125)<a class='inline shrink-0' href='/search/5700x3d' />
+	[12] (432,125)<span >5700x3d />
+		[13] (416,125)<span >13
+. />
+[14] (478,125)<a class='inline shrink-0' href='/search/%EB%A0%88%EA%B3%A0' />
+	[15] (478,125)<span >레고 />
+		[16] (471,125)<span >14
+. />
+[17] (517,125)<a class='inline shrink-0' href='/search/%ED%94%BC%EA%B7%9C%EC%96%B4' />
+	[18] (517,125)<span >피규어 />
+		[19] (507,125)<span >15
+. />
+[20] (666,69)<a href='/product/228244891?openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[35] (904,329)<button aria-label='최근 본 상품 i7-14700K, RTX 4060 영상 및 게이밍 컴퓨터 PC 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[36] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228244891' />
+	[37] (886,369)<img  />
+[38] (904,462)<button aria-label='최근 본 상품 인텔 i7-13700K / RTX5060 작업용 게이밍 컴퓨터 급처 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[39] (886,502)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/228324710' />
+	[40] (886,502)<img  />
+새 상품은 어떠세요?
+[41] (283,220)<a aria-label='배너 - 1번째 상품 파워게이밍PC 14400F+RTX5060TI 보러가기' class='w-fit flex-1' href='https://ader.naver.com/v1/FbFirnUXWFZrmjpcd4xadBZL-gS7BkI6_hqG2Nyy481pSLgJdcOGkDyYR60hq2pr3CflpCuQI2liyfPorBvZoVYqCfJ57E9YxvMwBAgXglOIh6E0KSBxfgsSboy3Gk4Xgnjtx6e-l2q7HT8B9GvgRyNVw1AxoQnjcmuWFTyorYUJ7Oq4nxVRregFzTK5A7eb2SGKXDasNZuoScxa8cJhYWfG4SH7w-qZgk-ljiLin2H7JIHJeE_RGo29YPXetn5-pmM9gFM0iDBSQ68u5Dk4gl3OZKb0ET4AWPZ1mnWwf1eXcnnX5qmK-Fn2MsJs8f0Im1zcmujHK-KmLPw_WAnTlg==?c=m_joongna.ch6&t=0' />
+	[42] (283,220)<div  />
+		[43] (219,220)<div  />
+			[44] (219,220)<div  />
+		[45] (326,220)<div  />
+			[46] (326,183)<div  />
+				[47] (326,163)<span >파워게이밍PC 14400F+RTX5060TI />
+				[48] (326,213)<div  />
+					[49] (326,213)<div  />
+						[50] (294,213)<span >1,548,000 />
+						[51] (327,215)<span >원 />
+			[52] (326,255)<div  />
+				[53] (326,255)<span >광고 |
+스탠다드피씨 />
+[54] (500,220)<a aria-label='배너 - 2번째 상품 강력한 성능 게이밍PC i5 14400F 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/iMjec7QPvJ0oL49-NjftQH45dpkBv-VPCHMyPji1qROnMrNLZ5YtvRNeM-_ZNC9dC_emeyu6Nf32Y8cRMtn7GickVW1eZMWDrlIJDWWcp3AOwA-VgudjMW9JG09pt4sibFLrnS720WUsNfbGifz_bHryYuUGg8OTjW_1Xe61URwFuq0XQP5I8dv0ekxCrLcWncc5rqjqRg1CwD-WPBC13yx_E5tRYKhDqufHyoME5TpI_QpQqNQpLGsFc2H62E_NxSu6LjDcOrjj3xWCjDnkeZTSC70A8F3MwP1QEIMKtoWAFmKAuVvZQC2SdrybR3_om_3sIJk1PnSe7mp95h1LKA==?c=m_joongna.ch6&t=0' />
+	[55] (500,220)<div  />
+		[56] (436,220)<div  />
+			[57] (436,220)<div  />
+		[58] (543,220)<div  />
+			[59] (543,183)<div  />
+				[60] (543,163)<span >강력한 성능 게이밍PC i5 14400F />
+				[61] (543,213)<div  />
+					[62] (543,213)<div  />
+						[63] (511,213)<span >1,378,000 />
+						[64] (543,215)<span >원 />
+			[65] (543,255)<div  />
+				[66] (543,255)<span >광고 |
+스탠다드피씨 />
+[67] (717,220)<a aria-label='배너 - 3번째 상품 RTX5060 고사양 게이밍컴퓨터 PC방 조립PC 배그 롤 발로란트 게임용 본체 EZ01 보러가기' class='w-fit flex-1 max-md:hidden' href='https://ader.naver.com/v1/uZQ763n6h7Q1xa1g0KpiiFZkXYavG9YD3GypsDhycWjsjZRgrQSz0L5wovtBg_6UI5qzfHhQTvUyjvO9FlMr8B-iZmMe5tAja5AjlRTjlNCRSyDSrAdteExORumohuVrQCVVf_-XXQEuaUVwgEK5qnF7l5nPF2icqzKjJxfkhW7L8Iiw-jzDfF0UYceBbugmkidBc_bLEFfsyKeW3alNjVxq_94XEKcEPcutK6CYlNnINne2Wfh96jAyFEtvu_kHwb2ZDDFrPUB8_ojDoKALVkFpn7Q5k0ayFPSWZ1siL1W_K182NpecJqdcmSZIku0k?c=m_joongna.ch6&NaPm=1' />
+	[68] (717,220)<div  />
+		[69] (653,220)<div  />
+			[70] (653,220)<div  />
+		[71] (760,220)<div  />
+			[72] (760,183)<div  />
+				[73] (760,163)<span >RTX5060 고사양 게이밍컴퓨터 PC방 조립PC 배그 롤 발로란트 게임용 본체 EZ01 />
+				[74] (760,213)<div  />
+					[75] (760,213)<div  />
+						[76] (728,213)<span >1,298,000 />
+						[77] (761,215)<span >원 />
+			[78] (760,255)<div  />
+				[79] (760,255)<span >광고 |
+이지컴플러스 />
+상품 정보
+개인정보(거래정보)를 주고받는 행위는 사기에 노출
+될 수 있으므로 즉시
+[80] (443,564)<a href='jnapps3://?applink=report&targetType=&reportedStore=4353445&reportedProductSeq=228244891' />
+	[81] (443,564)<u >중고나라로 신고 />
+해 주세요
+CPU-Intel Core i7-14700K
+쿨러-Thermalright Peerless Assassin 120 SE
+RAM-삼성 DDR5-5600 (16G)
+메인보드-MSI MAG B760M MORTAR
+GPU-MSI RTX 4060 VENTUS 2X BLACK 8G OC
+SSD-SK hynix Gold P31 NVMe 1TB
+파워-마이크로닉스 Classic 2 풀체인지 700W 80PLUS
+
+윈도우 밀고 다시 설치했고요 본체만 있고 케이블 등 기타비품은 없습니다
+
+정확한 날짜는 모르겠는데 2024년 초쯤 구매를 해서 as잔여 기간들이 남았습니다.
+대부분 3년 정도하니깐 나중에 문제 생기면 부품별 시리얼 번호 확인해서 as받으시면 될 듯 싶습니다~
+[82] (683,520)<a class='flex flex-col md:gap-9 max-md:gap-6' href='/store/4353445' />
+	[83] (683,454)<div  />
+		[84] (683,442)<div  />
+			[85] (569,442)<h2 >가게 정보 />
+		[86] (683,486)<div  />
+	[87] (683,579)<div  />
+		[88] (683,579)<div  />
+			[89] (567,579)<div  />
+				[90] (567,579)<span >지풍랄년 />
+			[91] (802,579)<div  />
+				[92] (802,579)<img  />
+신뢰지수
+665
+1,000
+안심결제
+0
+[93] (683,814)<div class='outline-none flex flex-col justify-start items-center flex-nowrap flex-1 gap-0.5' role='button' />
+	[94] (683,796)<span >거래후기 />
+	[95] (683,830)<span >0 />
+단골
+0
+[96] (589,991)<div  />
+	[97] (589,991)<div  />
+[98] (683,991)<div  />
+	[99] (683,991)<div  />
+[100] (776,991)<div  />
+	[101] (776,991)<div  />
+
+</current_dom>

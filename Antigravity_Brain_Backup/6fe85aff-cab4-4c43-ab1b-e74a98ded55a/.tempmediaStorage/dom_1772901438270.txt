@@ -1,0 +1,34 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (960,33)<button aria-label='도움말 창 열기' class='mdc-icon-button _ngcontent-wtb-6' role='button' />
+	[1] (960,33)<i >help_outline />
+[2] (983,33)<div aria-label='Google 계정' class='trigger _ngcontent-wtb-7' role='button' />
+	[3] (983,33)<div  />
+		[4] (983,33)<img  />
+지금 시작하세요
+내 사이트
+[5] (520,204)<label class='mdc-text-field mdc-text-field--upgraded _ngcontent-wtb-18 mdc-text-field--outlined mdc-text-field--disabled mdc-text-field--label-floating' />
+	웹 사이트
+애드센스를 최대한 활용하기
+[6] (533,333)<material-radio  />
+	[7] (432,333)<div  />
+		[8] (432,333)<input class='mdc-radio__native-control _ngcontent-wtb-20' id='aF0971076-840F-4009-947B-F13D0593E486--0' role='radio' />
+	[9] (542,333)<div  />
+		[10] (542,333)<label class='_ngcontent-wtb-19'>예, 맞춤 도움말 및 실적 개선을 위한 제안을 이메일로 받겠습니다 />
+[11] (552,384)<material-radio  />
+	[12] (432,384)<div  />
+		[13] (432,384)<input class='mdc-radio__native-control _ngcontent-wtb-20' id='a3D6DAA11-A952-4D67-9D32-6E3D9F27F92D--0' role='radio' />
+	[14] (561,384)<div  />
+		[15] (561,384)<label class='_ngcontent-wtb-19'>아니요, 맞춤 도움말 및 실적 개선을 위한 제안을 이메일로 받고 싶지 않습니다 />
+수취인 국가/지역
+[16] (520,486)<div class='button _ngcontent-wtb-24 border' id='aC78362A0-2B4C-4848-BEA6-101E1BCF5743--0' role='button' />
+	[17] (516,486)<span >대한민국 />
+	[18] (603,486)<material-icon  />
+		[19] (603,486)<i class='material-icon-i material-icons-extended _ngcontent-wtb-2' role='img'>arrow_drop_down />
+지급 국가/지역은 현재 위치에 따라 정해집니다. 이 정보는 나중에 변경할 수 없으니 계정 확인을 위해 올바른지 확인하세요.
+[20] (527,614)<a href='https://support.google.com/adsense/answer/7568896?hl=ko'>계정 확인에 대해 자세히 알아보기 />
+애드센스 이용약관
+
+</current_dom>

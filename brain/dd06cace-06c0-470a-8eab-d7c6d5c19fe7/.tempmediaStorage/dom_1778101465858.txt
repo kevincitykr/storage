@@ -1,0 +1,52 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,51)<button class='Header--icon--3kXBo7u' role='link' />
+	[1] (150,51)<img  />
+[2] (850,51)<div  />
+	[3] (796,51)<img  />
+	[4] (860,51)<div >Download the AliExpress app />
+[5] (250,552)<div  />
+	[6] (250,104)<div class='slick-slide slick-active slick-current' />
+		[7] (250,552)<img  />
+		신규 회원 최대 70% 할인
+	첫 주문 시 무료배송
+[8] (109,824)<div  />
+	[9] (65,824)<button >1 />
+	[10] (94,824)<button >2 />
+	[11] (122,824)<button >3 />
+	[12] (151,824)<button >4 />
+[13] (750,552)<div class='_3xUy2' scrollable='true' />
+	패스키로 등록하기
+	귀하의 정보는 안전하게 보관됩니다
+	[14] (745,329)<button aria-label='등록' class='cosmos-btn cosmos-btn-primary cosmos-btn-block' />
+		[15] (745,329)<span >등록 />
+	[16] (745,420)<button aria-label='이미 계정이 있으신가요?' class='cosmos-btn cosmos-btn-block' />
+		[17] (745,420)<span >이미 계정이 있으신가요? />
+	[18] (745,506)<label class='_3XmG8'>다음으로 로그인 />
+	[19] (745,590)<button aria-label='init' class='_1aswi' />
+		[20] (632,591)<a class='_1unVQ _3xbzW' />
+		[21] (745,591)<span >이메일/전화로 로그인 />
+	[22] (745,682)<button aria-label='google' class='_1aswi' />
+		[23] (632,683)<a class='_1unVQ _2vtTC' />
+		[24] (745,683)<span >google />
+	[25] (745,774)<button aria-label='kakao' class='_1aswi' />
+		[26] (632,775)<a class='_1unVQ _1vNAL' />
+		[27] (745,775)<span >kakao />
+	[28] (739,869)<span  />
+		[29] (739,869)<button >다른 방법 />
+	[30] (762,869)<button  />
+		[31] (762,866)<img  />
+	[32] (745,935)<div >지역: />
+		지역:
+		[33] (756,935)<button aria-label='Korea' class='nfm-location-country' />
+			[34] (749,935)<span >Korea />
+			[35] (768,935)<img  />
+	[36] (745,983)<span aria-label='계속하면 성인임을 확인하며, 당사의 AliExpress 무료 멤버십 계약 및 개인정보 보호정책을 읽고 동의했음을 인정합니다. 귀하의 정보는 마케팅 목적으로 사용될 수 있으나, 언제든지 수신 거부할 수 있습니다.'>계속하면 성인임을 확인하며, 당사의
+및
+을 읽고 동의했음을 인정합니다. 귀하의 정보는 마케팅 목적으로 사용될 수 있으나, 언제든지 수신 거부할 수 있습니다. />
+		[37] (779,966)<a class='fm-agreement-new-link-text' href='https://terms.alicdn.com/legal-agreement/terms/suit_bu1_aliexpress/suit_bu1_aliexpress202012311952_76039.html'>AliExpress 무료 멤버십 계약 />
+		[38] (746,975)<a class='fm-agreement-new-link-text' href='https://campaign.aliexpress.com/wow/gcp/app-redirect-terms/index'>개인정보 보호정책 />
+
+</current_dom>

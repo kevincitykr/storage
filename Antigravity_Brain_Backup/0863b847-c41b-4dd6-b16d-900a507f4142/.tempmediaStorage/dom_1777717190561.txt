@@ -1,0 +1,185 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+자동선택
+전체
+AMD CPU
+인텔 정품
+[0] (280,115)<dd class='ls_div on' id='ls_div3452' />
+	[1] (239,115)<label >인텔 병행수입 />
+[2] (280,157)<dd class='ls_div' id='ls_div3280' />
+	[3] (232,157)<label >서버 CPU />
+필터
+초기화
+[4] (663,147)<div class='scroll_opt' scrollable='true' />
+	제조사
+	INTEL
+	[5] (925,122)<a class='btn_toggle' href='javascript:open_opt(1287);' id='btn_toggle1287' />
+	INTEL 세대명
+	[6] (467,127)<input class='ch_bx' id='chk_104194' />
+	[7] (519,127)<label >15세대 애로우레이크 />
+	[8] (574,127)<input class='ch_bx' id='chk_98461' />
+	[9] (626,127)<label >14세대 랩터레이크R />
+	[10] (681,127)<input class='ch_bx' id='chk_89725' />
+	[11] (732,127)<label >13세대 랩터레이크 />
+	[12] (787,127)<input class='ch_bx' id='chk_83027' />
+	[13] (839,127)<label >12세대 엘더레이크 />
+	11세대 로켓레이크
+	10세대 캐스케이드레이크
+	10세대 코멧레이크
+	9세대 커피레이크R
+	8세대 커피레이크
+	7세대 카비레이크
+	3세대 쿠퍼레이크
+	[14] (925,179)<a class='btn_toggle' href='javascript:open_opt(1286);' id='btn_toggle1286' />
+	INTEL 모델명
+	[15] (467,185)<input class='ch_bx' id='chk_10564' />
+	[16] (519,184)<label >코어 i9 />
+	[17] (574,185)<input class='ch_bx' id='chk_10563' />
+	[18] (626,184)<label >코어 i7 />
+	[19] (681,185)<input class='ch_bx' id='chk_10562' />
+	[20] (732,184)<label >코어 i5 />
+	[21] (787,185)<input class='ch_bx' id='chk_10561' />
+	[22] (839,184)<label >코어 i3 />
+	펜티엄
+	셀러론
+	익스트림 시리즈
+	스케일러블
+	E5
+	E3
+	코어 울트라 5
+	코어 울트라 7
+	코어 울트라 9
+	[23] (925,236)<a class='btn_toggle' href='javascript:open_opt(1292);' id='btn_toggle1292' />
+	코어갯수
+	[24] (467,242)<input class='ch_bx' id='chk_10635' />
+	[25] (519,241)<label >헥사(6) 코어 />
+	[26] (574,242)<input class='ch_bx' id='chk_10633' />
+	[27] (626,241)<label >쿼드(4) 코어 />
+	[28] (681,242)<input class='ch_bx' id='chk_10628' />
+	[29] (732,241)<label >듀얼(2) 코어 />
+	[30] (787,242)<input class='ch_bx' id='chk_10631' />
+	[31] (839,241)<label >옥타(8) 코어 />
+	데카(10) 코어
+	도데카(12) 코어
+	테트라데카(14) 코어
+	헥사데카(16) 코어
+	쿼드라코사(24) 코어
+	아이코사(20) 코어
+	INTEL 소켓타입
+	LGA 2066
+	LGA 1700
+	LGA 1200
+	LGA 1151-V2
+	LGA 1151
+	LGA 1150
+	LGA 2011-V3
+	LGA 1851
+	LGA 4677
+	LGA 4189
+	기본클럭
+	2.0 ~ 2.9 GHz
+	3.0 ~ 3.9 GHz
+	4.0 ~ 4.9 GHz
+	5.0 ~ 5.9 GHz
+	6.0 ~ 6.9 GHz
+	패키지
+	박스 (쿨러포함)
+	박스 (쿨러미포함)
+	벌크 (쿨러포함)
+	벌크 (쿨러미포함)
+	L3캐시
+	10MB이하
+	11~20MB
+	21~30MB
+	31~40MB
+	41~50MB
+	51~60MB
+	61MB 이상
+	제조공정
+	7nm
+	10nm
+	14nm
+	22nm
+	3nm
+	INTEL 내장그래픽
+	UHD 770
+	UHD 750
+	UHD 730
+	UHD 710
+	UHD 630
+	UHD 610
+	UHD 530
+	UHD 510
+	HD 그래픽스
+	HD 4400
+	내장그래픽 미포함
+	Xe LPG
+CPU
+[32] (360,340)<input id='Search_free' />
+무료배송
+[33] (423,340)<input id='Search_Event' />
+행사제품보기
+총
+6
+건
+[34] (317,406)<input id='SearchKeyword' />
+[35] (370,408)<a href='javascript:search_keyword();' />
+[36] (436,406)<select  />
+[37] (272,834)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[38] (88,542)<a class='imgbox' href='javascript:detail_show('1108547')' title='[제품코드:1108547]' />
+	[39] (236,561)<a class='imgbox' href='javascript:detail_show('1108547')'>인텔(소켓1700) / 20코어 / 28쓰레드 / 기본 클럭: 2.1GHz / 최대 클럭: 5.4GHz / 캐시: 33MB / PBP: 65W / 메모리 규격: DDR4 / 3200MHz / DDR5 / 5600MHz / 내장그래픽: 탑재 / 랩터레이크 리프레시 / 코어 i7 / 벌크 (쿨러 미포함) />
+		[40] (236,515)<b >[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함][1108547] />
+	판매가격
+	576,000
+	[41] (453,564)<a class='buttons' href='javascript:check_delete_product_ls('1108547','N')' id='basket1108547' />
+		[42] (453,564)<span >해제 />
+	[43] (88,731)<a class='imgbox' href='javascript:detail_show('1108566')' title='[제품코드:1108566]' />
+	[44] (236,750)<a class='imgbox' href='javascript:detail_show('1108566')'>인텔(소켓1700) / 20코어 / 28쓰레드 / 기본 클럭: 2.1GHz / 최대 클럭: 5.4GHz / 캐시: 33MB / PBP: 65W / 메모리 규격: DDR4 / 3200MHz / DDR5 / 5600MHz / 내장그래픽: 미지원 / 랩터레이크 리프레시 / 코어 i7 / 벌크 (쿨러 미포함) />
+		[45] (236,704)<b >[INTEL] [병행] 코어 i7-14700F (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함][1108566] />
+	판매가격
+	478,000
+	[46] (453,753)<a class='buttons' href='javascript:select_basket('1108566','N',1);' id='basket1108566' />
+		[47] (453,753)<span >담기 />
+	[48] (88,920)<a class='imgbox' href='javascript:detail_show('1082818')' title='[제품코드:1082818]' />
+	[49] (236,950)<a class='imgbox' href='javascript:detail_show('1082818')'>인텔(소켓1700) / 10nm(인텔7) / 8+12코어 / 16+12쓰레드 / 기본 클럭: 3.4GHz / 최대 클럭: 5.6GHz / L2 캐시: 28MB / L3 캐시: 33MB / PBP/MTP: 125~253W / PCIe5.0, 4.0 / 메모리 규격: DDR5, DDR4 / 5600, 3200MHz / 내장그래픽: 탑재 / 인텔 UHD 770 / 기술 지원: 하이퍼스레딩 / 쿨러: 미포함 / 시네벤치R23(싱글): 2179 / 시네벤치R23 />
+		[50] (236,893)<b >[INTEL] [병행] 코어 i7-14700K (14세대/ 랩터레이크 리프레시/ 3.4GHz) [벌크/쿨러 미포함][1082818] />
+	판매가격
+	658,000
+	담기
+총 견적금액
+576,000
+원
+[51] (534,406)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[52] (562,406)<input  />
+[53] (590,406)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[54] (650,406)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[55] (650,407)<span >전체수량변경 />
+[56] (544,501)<label  />
+	[57] (526,501)<span  />
+		[58] (526,501)<input  />
+	[59] (551,501)<span >전체선택 />
+[60] (702,501)<a class='wbtn' href='javascript:add_wish_list();' />
+	[61] (702,501)<span >관심상품추가 />
+[62] (760,501)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[63] (760,501)<span >장바구니담기 />
+[64] (815,501)<a class='wbtn' />
+	[65] (815,501)<span >견적서출력 />
+[66] (871,501)<a class='wbtn' href='javascript:speck_form();' />
+	[67] (871,501)<span >사양검토요청 />
+[68] (919,501)<a class='wbtn' href='javascript:sess_init();' />
+	[69] (919,501)<span >초기화 />
+[70] (527,579)<label  />
+	[71] (527,579)<span  />
+		[72] (526,581)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[73] (560,579)<span >인텔 병행수입 />
+[74] (633,624)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[75] (853,606)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[76] (876,606)<input class='change__ea' id='Amount_1108547' />
+[77] (898,606)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[78] (922,606)<span class='delete' />
+
+</current_dom>

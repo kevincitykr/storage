@@ -1,0 +1,168 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+Navigation Menu
+[0] (25,40)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[1] (67,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Platform />
+[2] (118,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Solutions />
+[3] (172,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Resources />
+[4] (233,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Open Source />
+[5] (294,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Enterprise />
+[6] (339,40)<a class='NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM' href='https://github.com/pricing' />
+	[7] (339,40)<span >Pricing />
+[8] (792,40)<button aria-label='Search or jump to…' class='header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none' placeholder='Search or jump to...' />
+	[9] (718,40)<div  />
+	[10] (792,40)<span >Search or jump to... />
+	[11] (868,40)<div  />
+[12] (899,40)<a class='HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fmemory%2Ftree%2Fmain%2F00_Raw'>Sign in />
+[13] (941,40)<a class='HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1' href='/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Ffiles%2Fdisambiguate&source=header-repo&source_repo=wonseokjung%2Fmemory'>Sign up />
+[14] (975,40)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-8bcfb02a-9777-469e-9994-812a2148c37c' />
+[15] (60,113)<a class='url fn' href='/wonseokjung'>wonseokjung />
+/
+[16] (118,113)<a href='/wonseokjung/memory'>memory />
+Public
+[17] (839,112)<a aria-label='You must be signed in to change notification settings' class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' id='repository-details-watch-button'>Notifications />
+[18] (901,112)<a class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' id='fork-button'>Fork />
+	[19] (915,112)<span >0 />
+[20] (957,112)<a aria-label='You must be signed in to star a repository' class='tooltipped tooltipped-sw btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fmemory' />
+	[21] (958,112)<span >Star />
+	[22] (971,112)<span >0 />
+[23] (36,173)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected' href='/wonseokjung/memory' id='code-tab' />
+	[24] (42,173)<span >Code />
+[25] (79,173)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/issues' id='issues-tab' />
+	[26] (85,173)<span >Issues />
+[27] (135,173)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/pulls' id='pull-requests-tab' />
+	[28] (141,173)<span >Pull requests />
+[29] (194,173)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/actions' id='actions-tab' />
+	[30] (200,173)<span >Actions />
+[31] (244,173)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/projects' id='projects-tab' />
+	[32] (250,173)<span >Projects />
+[33] (315,173)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/security' id='security-and-quality-tab' />
+	[34] (321,173)<span >Security and quality />
+[35] (386,173)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/memory/pulse' id='insights-tab' />
+	[36] (392,173)<span >Insights />
+[37] (17,235)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[38] (73,288)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[39] (73,288)<span  />
+		[40] (67,288)<span  />
+			[41] (67,288)<div  />
+				[42] (19,288)<div  />
+				[43] (35,288)<div  />
+					[44] (35,288)<span >main />
+[45] (150,288)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[46] (83,332)<span  />
+	[47] (17,332)<span  />
+	[48] (88,332)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+[49] (79,490)<div  />
+	[50] (79,468)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='00_Raw-item' role='treeitem' />
+		[51] (79,380)<div  />
+			[52] (13,380)<div  />
+			[53] (84,380)<div  />
+				[54] (25,380)<div  />
+					[55] (25,380)<div  />
+				[56] (90,380)<span  />
+					[57] (45,380)<span >00_Raw />
+		[58] (79,415)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='00_Raw/2026-04-18-item' role='treeitem' />
+			[59] (79,415)<div  />
+				[60] (10,415)<div  />
+					[61] (10,415)<div  />
+						[62] (10,415)<div  />
+				[63] (17,415)<div  />
+				[64] (86,415)<div  />
+					[65] (29,415)<div  />
+						[66] (29,415)<div  />
+					[67] (92,415)<span  />
+						[68] (56,415)<span >2026-04-18 />
+		[69] (79,451)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='00_Raw/2026-04-19-item' role='treeitem' />
+			[70] (79,451)<div  />
+				[71] (10,451)<div  />
+					[72] (10,451)<div  />
+						[73] (10,451)<div  />
+				[74] (17,451)<div  />
+				[75] (86,451)<div  />
+					[76] (29,450)<div  />
+						[77] (29,450)<div  />
+					[78] (92,451)<span  />
+						[79] (56,451)<span >2026-04-19 />
+		[80] (79,521)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='00_Raw/2026-04-20-item' role='treeitem' />
+			[81] (79,486)<div  />
+				[82] (10,486)<div  />
+					[83] (10,486)<div  />
+						[84] (10,486)<div  />
+				[85] (17,486)<div  />
+				[86] (86,486)<div  />
+					[87] (29,486)<div  />
+						[88] (29,486)<div  />
+					[89] (92,486)<span  />
+						[90] (56,486)<span >2026-04-20 />
+			[91] (79,521)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='00_Raw/2026-04-20/MrBeast_Premium_10.md-item' role='treeitem' />
+				[92] (79,521)<div  />
+					[93] (13,521)<div  />
+						[94] (13,521)<div  />
+							[95] (10,521)<div  />
+							[96] (15,521)<div  />
+					[97] (88,521)<div  />
+						[98] (33,521)<div  />
+						[99] (94,521)<span  />
+							[100] (82,521)<span >MrBeast_Premium_10.md />
+			[101] (79,557)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='00_Raw/2026-04-20/Sample_Pack___Combat_AI.md-item' role='treeitem' />
+				[102] (79,557)<div  />
+					[103] (13,557)<div  />
+						[104] (13,557)<div  />
+							[105] (10,557)<div  />
+							[106] (15,557)<div  />
+					[107] (88,557)<div  />
+						[108] (33,556)<div  />
+						[109] (94,557)<span  />
+							[110] (91,557)<span >Sample_Pack___Combat_AI.md />
+	[111] (79,592)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='10_Wiki-item' role='treeitem' />
+		[112] (79,592)<div  />
+			[113] (13,592)<div  />
+			[114] (84,592)<div  />
+				[115] (25,592)<div  />
+					[116] (25,592)<div  />
+				[117] (90,592)<span  />
+					[118] (46,592)<span >10_Wiki />
+[119] (167,700)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[120] (191,234)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/memory/tree/main'>memory />
+/
+[121] (233,234)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/wonseokjung/memory/tree/main/00_Raw'>00_Raw />
+/
+2026-04-20
+/
+[122] (325,235)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+Directory actions
+More options
+[123] (983,235)<button class='prc-Button-ButtonBase-9n-Xk CodeViewHeader-module__IconButton__PYSHU prc-Button-IconButton-fyge7' id='_R_16pl3al1d_' title='More options' />
+Latest commit
+Jay
+and
+Jay
+[124] (331,295)<a class='Link--secondary' href='/wonseokjung/memory/commit/0a8d47ed30ba140eb101df90bf9c1f8eb5bb5a20'>Auto-Inject Knowledge [Raw]: MrBeast_Premium_10.md />
+[125] (893,295)<a aria-label='Commit 0a8d47e' class='Link--secondary prc-Link-Link-9ZwDx' href='/wonseokjung/memory/commit/0a8d47ed30ba140eb101df90bf9c1f8eb5bb5a20'>0a8d47e />
+·
+History
+[126] (967,295)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/wonseokjung/memory/commits/main/00_Raw/2026-04-20' />
+	[127] (967,295)<span  />
+		[128] (972,295)<span  />
+			[129] (972,294)<span >History />
+Folders and files
+Name
+Last commit message
+Last commit date
+[130] (584,405)<tr  />
+	parent directory
+	[131] (584,406)<a aria-label='Parent directory' class='DirectoryRow-module__PrimerLink__COEaW prc-Link-Link-9ZwDx' href='/wonseokjung/memory/tree/main/00_Raw' />
+		[132] (584,406)<div >.. />
+[133] (584,450)<tr  />
+	[134] (239,450)<a aria-label='MrBeast_Premium_10.md, (File)' class='Link--primary' href='/wonseokjung/memory/blob/main/00_Raw/2026-04-20/MrBeast_Premium_10.md' title='MrBeast_Premium_10.md'>MrBeast_Premium_10.md />
+	[135] (600,450)<a class='Link--secondary' href='/wonseokjung/memory/commit/0a8d47ed30ba140eb101df90bf9c1f8eb5bb5a20' title='Auto-Inject Knowledge [Raw]: MrBeast_Premium_10.md'>Auto-Inject Knowledge [Raw]: MrBeast_Premium_10.md />
+[136] (584,495)<tr  />
+	[137] (247,495)<a aria-label='Sample_Pack___Combat_AI.md, (File)' class='Link--primary' href='/wonseokjung/memory/blob/main/00_Raw/2026-04-20/Sample_Pack___Combat_AI.md' title='Sample_Pack___Combat_AI.md'>Sample_Pack___Combat_AI.md />
+	[138] (602,495)<a class='Link--secondary' href='/wonseokjung/memory/commit/67b895205c8d14a5b26de0f7ef45d6f77ec2c7f4' title='Auto-Inject Knowledge [Raw]: Sample_Pack___Combat_AI'>Auto-Inject Knowledge [Raw]: Sample_Pack___Combat_AI />
+
+</current_dom>

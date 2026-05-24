@@ -1,0 +1,66 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+DESKTOP-2T9HMFI
+[0] (664,28)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (647,28)<span  />
+	[2] (664,28)<span >Korean />
+	[3] (684,30)<span  />
+[4] (721,28)<a class='dropdown-toggle' href='#' />
+	[5] (705,28)<span  />
+	[6] (722,28)<span >도움말 />
+	[7] (739,30)<span  />
+[8] (773,28)<a class='dropdown-toggle' href='#' />
+	[9] (760,28)<span  />
+	[10] (774,28)<span >동작 />
+	[11] (787,30)<span  />
+폴더
+[12] (468,191)<button class='btn btn-sm btn-default' />
+	[13] (453,192)<span  />
+	[14] (472,191)<span >폴더 추가 />
+현재 기기
+[15] (652,185)<button class='btn panel-heading' />
+	[16] (652,184)<h4  />
+		[17] (521,184)<identicon  />
+		[18] (661,184)<div >DESKTOP-2T9HMFI />
+수신 속도
+[19] (770,229)<a class='toggler ng-binding' href='#'>(118 B) />
+	[20] (756,229)<span >0 B/s />
+송신 속도
+[21] (770,259)<a class='toggler ng-binding' href='#'>(110 B) />
+	[22] (756,259)<span >0 B/s />
+현재 기기 상태(합계)
+0
+0
+~0 B
+대기자
+[23] (787,320)<a class='ng-binding text-success'>3/3 />
+탐지
+[24] (787,350)<a class='ng-binding'>4/5 />
+가동 시간
+26분
+아이디
+[25] (775,411)<a class='ng-binding'>73K7NTN />
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+[26] (652,566)<button class='btn panel-heading' />
+	[27] (652,566)<h4  />
+		[28] (521,566)<identicon  />
+		[29] (752,566)<div  />
+			[30] (743,565)<span >연결됨(미사용) />
+			[31] (783,566)<span  />
+				[32] (783,564)<span  />
+		[33] (620,566)<div >kevincityHQ />
+[34] (630,634)<button class='btn btn-sm btn-default ng-scope' />
+	[35] (607,634)<span  />
+	[36] (634,634)<span >모두 일시 중지 />
+[37] (698,634)<button class='btn btn-sm btn-default' />
+	[38] (674,634)<span  />
+	[39] (703,634)<span >최근 변경 항목 />
+[40] (765,634)<button class='btn btn-sm btn-default' />
+	[41] (742,634)<span  />
+	[42] (769,634)<span >다른 기기 추가 />
+
+</current_dom>

@@ -1,12 +1,33 @@
-# 자동 생성 — Connect AI 1인 기업 모드
-# 시크릿·API 키 보호
-_agents/*/config.md
+node_modules/
+out/
+*.vsix
+.vscode-test/
+preview.html
+.DS_Store
 
-# 외부 API 응답 캐시 (재현 가능)
-_cache/
+# Binaries
+*.exe
 
-# 대용량 임시 산출물
-_tmp/
-*.log
-SyncTrayzorSetup-x64.exe
-pc_check_kit/OCCT.exe
+# Python
+__pycache__/
+*.py[cod]
+
+# Media
+*.mp4
+*.png
+*.webp
+*.jpg
+*.jpeg
+*.safetensors
+*.ckpt
+*.bin
+*.pth
+*.pt
+*.onnx
+
+# AI Engines
+Local_AI_Engines/
+*.dll
+*.pyd
+*.lib
+*.so

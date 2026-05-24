@@ -1,0 +1,57 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Repository files navigation
+[0] (141,35)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (120,35)<span  />
+	[2] (149,35)<span >README />
+[3] (214,35)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[4] (188,35)<span  />
+	[5] (222,35)<span >MIT license />
+[6] (676,34)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_r_r_' />
+🖥️ Run Commands
+npm run build
+,
+git push
+등 터미널 명령을 수행합니다
+📥 Installation (설치 방법)
+[7] (116,115)<a aria-label='Permalink: 📥 Installation (설치 방법)' class='anchor' href='#-installation-설치-방법' id='user-content--installation-설치-방법' />
+A.U 멤버십 유저 (Recommended)
+[8] (116,201)<a aria-label='Permalink: A.U 멤버십 유저 (Recommended)' class='anchor' href='#au-멤버십-유저-recommended' id='user-content-au-멤버십-유저-recommended' />
+상단 탭의
+[9] (210,259)<a href='https://github.com/wonseokjung/connect-ai/releases'>Releases />
+메뉴로 진입.
+최신
+v2.1.30.vsix
+파일을 다운로드.
+VS Code 에서
+Cmd+Shift+P
+→
+Extensions: Install from VSIX
+→ 다운받은 파일 선택
+개발자 빌드 (Build from Source)
+[10] (116,411)<a aria-label='Permalink: 개발자 빌드 (Build from Source)' class='anchor' href='#개발자-빌드-build-from-source' id='user-content-개발자-빌드-build-from-source' />
+git clone https://github.com/wonseokjung/connect-ai.git
+cd
+connect-ai
+npm install
+npm run compile
+npx vsce package
+[11] (657,484)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+⚙️ Engine Setup (엔진 설정 방법)
+[12] (116,735)<a aria-label='Permalink: ⚙️ Engine Setup (엔진 설정 방법)' class='anchor' href='#️-engine-setup-엔진-설정-방법' id='user-content-️-engine-setup-엔진-설정-방법' />
+✅ LM Studio (Apple Silicon, Windows) - 권장
+[13] (116,822)<a aria-label='Permalink: ✅ LM Studio (Apple Silicon, Windows) - 권장' class='anchor' href='#-lm-studio-apple-silicon-windows---권장' id='user-content--lm-studio-apple-silicon-windows---권장' />
+[14] (171,880)<a href='https://lmstudio.ai/'>lmstudio.ai />
+에서 설치
+Gemma 3, Llama 3 또는 Qwen Coder 등 원하는 모델 로드
+Developer 탭(좌측
+<>
+메뉴)
+진입 후
+Start Server
+클릭
+Connect AI의 ⚙️ 채팅방 설정에서 엔진을 "LM Studio"로 선택 (자동 모델 인덱싱 완료)
+
+</current_dom>

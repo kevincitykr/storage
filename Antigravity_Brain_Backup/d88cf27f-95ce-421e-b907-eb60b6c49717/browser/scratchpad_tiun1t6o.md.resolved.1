@@ -1,0 +1,23 @@
+# Domeggook Windly Button Investigation
+
+## Goals
+- [ ] Navigate to Domeggook product page
+- [ ] Locate Windly collection button
+- [ ] Inspect DOM structure (selectors, iframes, Shadow DOM)
+- [ ] Test click reliability
+- [ ] Report findings
+
+## Progress
+- [x] Navigate to Domeggook product page
+- [x] Locate Windly collection button
+- [ ] Inspect DOM structure (selectors, iframes, Shadow DOM)
+- [ ] Test click reliability
+- [ ] Report findings
+
+## Findings
+- Found two blue arrow buttons on the right side.
+- Overseas button (해외구매대행) at approx (961, 227).
+- Domestic button (국내위탁판매) at approx (961, 429).
+- DOM tree shows them as simple `<button>` elements with no obvious ID/class in the simplified view.
+- The bot might be clicking the first one (Overseas) instead of the Domestic one, or vice-versa.
+- The user is interested in domestic sourcing.

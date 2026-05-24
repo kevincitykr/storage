@@ -1,0 +1,154 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (759,24)<a class='link__cw-gnb enuri' href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>에누리 />
+[1] (798,24)<a class='link__cw-gnb malltail' href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>몰테일 />
+[2] (843,24)<a class='link__cw-gnb plto' href='https://www.plto.com/?utm_source=danawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[3] (887,24)<a class='link__cw-gnb makeshop' href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>메이크샵 />
+RTX 4060 : 다나와 통합검색
+[4] (126,144)<a class='logo-ci' href='https://www.danawa.com' />
+	[5] (126,144)<img  />
+[6] (494,139)<fieldset  />
+	[7] (468,144)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[8] (609,144)<button class='search__delete on'>삭제 />
+		삭제
+	[9] (635,144)<button class='search__submit'>검색 />
+		검색
+[10] (783,150)<a class='btn_user btn_user--recent' href='#' role='button' />
+	[11] (782,170)<span >최근 />
+[12] (836,150)<a class='btn_user btn_user--wish' href='https://www.danawa.com/main/wish/wishList.php' role='button' />
+	[13] (836,170)<span >관심 />
+[14] (884,150)<a class='btn_user btn_user--login' href='https://auth.danawa.com/login?url=https%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fquery%3DRTX%2B4060%26tab%3Dmain' role='button' />
+	[15] (884,171)<span >로그인 />
+[16] (103,76)<a class='btn_app' href='#mobile_service_layer' role='button'>다나와 앱 />
+[17] (588,75)<a href='https://auto.danawa.com'>자동차 />
+[18] (622,75)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain'>조립PC />
+[19] (658,75)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti'>PC견적 />
+[20] (701,75)<a href='https://pc26.danawa.com/bbs/?logger_kw=dnw_gnb_pc26'>PC구매상담 />
+[21] (749,75)<a href='https://plan.danawa.com'>쇼핑기획전 />
+[22] (791,75)<a href='https://dpg.danawa.com/bbs'>커뮤니티 />
+[23] (828,75)<a href='https://event.danawa.com/'>이벤트 />
+/
+[24] (854,75)<a href='https://event.danawa.com/experience/'>체험단 />
+[25] (891,75)<a class='more_sevice_click' href='#more_service_layer2'>서비스
+더보기 />
+	서비스
+[26] (127,240)<a class='view_all_category btn_cate_all btn_cate' href='#sectionExplodeLayer' />
+	[27] (121,239)<strong >전체 카테고리 />
+[28] (203,240)<a href='#'>통합검색 />
+[29] (247,240)<a href='#'>상품 />
+[30] (281,240)<a href='#'>장터 />
+[31] (330,240)<a href='#'>쇼핑가이드 />
+[32] (378,240)<a href='#'>뉴스 />
+[33] (422,240)<a href='#'>커뮤니티 />
+[34] (466,240)<a href='#'>리뷰 />
+[35] (506,240)<a href='#'>동영상 />
+[36] (561,240)<a href='#'>다나와Q&A />
+[37] (891,239)<a class='btn_sns_share' href='#' id='share'>공유 />
+	[38] (883,237)<span  />
+연관검색어
+[39] (191,312)<a href='/dsearch.php?query=%EC%A7%80%ED%8F%AC%EC%8A%A4%20rtx%204060%20ti'>지포스rtx4060ti />
+[40] (255,312)<a href='/dsearch.php?query=rtx%204060ti'>rtx4060ti />
+[41] (332,312)<a href='/dsearch.php?query=nvidia%20geforce%20rtx%204060'>nvidiageforcertx4060 />
+[42] (417,312)<a href='/dsearch.php?query=%EC%A7%80%ED%8F%AC%EC%8A%A4%20rtx%204060'>지포스rtx4060 />
+[43] (499,312)<a href='/dsearch.php?query=%EC%A7%80%ED%8F%AC%EC%8A%A4%20rtx%204060ti%2016gb'>지포스rtx4060ti16gb />
+[44] (571,312)<a href='/dsearch.php?query=rtx%203060'>rtx3060 />
+[45] (619,312)<a href='/dsearch.php?query=rtx%204070'>rtx4070 />
+[46] (666,312)<a href='/dsearch.php?query=rtx%203070'>rtx3070 />
+rtx5050
+rtx3060ti
+rtx3080
+rtx306012gb
+rtx2060
+rx7600
+gtx1660super
+rtx4080
+rtx4050
+rtx3050
+rtx3070ti
+라이젠7500f
+[47] (722,314)<a class='btn_rel more' />
+추천 카테고리
+[48] (225,387)<a href='https://prod.danawa.com/list/?cate=112753&searchOption=/innerSearchKeyword=4060'>주요부품 > 그래픽카드(VGA) />
+	[49] (274,387)<span >(4060) />
+이런 상품 어때요?
+[50] (140,611)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS96MzlzMjhRYkp2c1RiQmxyMHFDRlBSU2IwbkVDQ0pSNDU5WFJ3OFE3d0pyY2ViUG13YXc1WHhiR0ExREN6S1VzLUItS0xRSFh0amNGbmpTNXVvMFZKek4xb0Q3YkV0cHVyMGNGMl9kQ2dJcC00STdaYWwxZWJ5RXd0WkN6YWc4OVBfdnFrbWxSMEszUXg5OXFNLVgxMmJ6eEd0U2NzN2RCeVVhbG42Nm13Q2YxNGlaUzFaSGhhU3dwU1JBRl90M21PNDMyZ3FUQUhYY0cwdEMzaFU2aloyaVRhTUNRTGJ4MzZNNjVZVk1HSGd6NzkwdEpmMjJPRDc2bTJyWGNuY0lWNHd1cVVLT1NGTnExSFBoM19kVzBBTElBUU51YTlrZ1JiQ3dBRzdwc3JzckY1Y2xiOTV2Y2lWVWtOUXBpVjhFaTEzM2pwZ0J4Nzk5c2kyRklMamhwdkExSEx2X3hJazExZjEzTnFqYndnT0EycWZLbDhiZGtDUFpTSVBtRnJBRFB0VG1SVEh2ZzRwQXVBVUVWdnVxenhOeDFjUFRkdzdvSEptdWdta2lJVkVLaUVlS3poX29nVnVSb1JLUDZ0Z0QtP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=673000&shipFee=3000&dlvryFee=3000&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search' />
+[51] (140,737)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS96MzlzMjhRYkp2c1RiQmxyMHFDRlBSU2IwbkVDQ0pSNDU5WFJ3OFE3d0pyY2ViUG13YXc1WHhiR0ExREN6S1VzLUItS0xRSFh0amNGbmpTNXVvMFZKek4xb0Q3YkV0cHVyMGNGMl9kQ2dJcC00STdaYWwxZWJ5RXd0WkN6YWc4OVBfdnFrbWxSMEszUXg5OXFNLVgxMmJ6eEd0U2NzN2RCeVVhbG42Nm13Q2YxNGlaUzFaSGhhU3dwU1JBRl90M21PNDMyZ3FUQUhYY0cwdEMzaFU2aloyaVRhTUNRTGJ4MzZNNjVZVk1HSGd6NzkwdEpmMjJPRDc2bTJyWGNuY0lWNHd1cVVLT1NGTnExSFBoM19kVzBBTElBUU51YTlrZ1JiQ3dBRzdwc3JzckY1Y2xiOTV2Y2lWVWtOUXBpVjhFaTEzM2pwZ0J4Nzk5c2kyRklMamhwdkExSEx2X3hJazExZjEzTnFqYndnT0EycWZLbDhiZGtDUFpTSVBtRnJBRFB0VG1SVEh2ZzRwQXVBVUVWdnVxenhOeDFjUFRkdzdvSEptdWdta2lJVkVLaUVlS3poX29nVnVSb1JLUDZ0Z0QtP2M9ZGFuYXdhLmNoOSZ0PTA=&minPrice=673000&shipFee=3000&dlvryFee=3000&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search'>COLORFUL 지포스 RTX 4060 Ti 토마호크 DUO D6 8GB 웨이코스 />
+673,000
+원
+3,000원
+컴퓨터연구소
+[52] (246,611)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9oS19JZlQySjhoVmRiVTFPWUhhbkp2SGppREdTUVphYXE0ZmR5dEpnSzhwNXZPZTBkRVB0azdKSnpDX2FiVGhadHJjWjVMTzhHVDNBdUNDR2RFWnJIVWE3S2IxRzd4dHNhSV96dGtOV0NKX1I5UmxLRnllMDR1OElRaUhBbmthUzdZZ0wzYWFnWkJkZEdCRnlrTWhtMXFWWDRqSkQzeFdobVpKQTJ0ZW9SaDVZNFVnMVdSaXRoU1otazkxM2ZLcjl3SUZiSUwwZkc4dzBTM0pyaHBLZHA1TXQtam9ySEJrVXk2dXRCWWFxOWxtR0pJUThfd3ZHYWJEVmhJUi1GbjRSTlNMbEJyV1BUZ1NWR3dpY2FoTmJVMVVjWmw3Z0VwMHZpcjc5em1hc2RBdGRXd09lT2hXQ1JseGxJbDF5UXRBcT9jPWRhbmF3YS5jaDkmdD0w&minPrice=429900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search' />
+[53] (246,737)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9oS19JZlQySjhoVmRiVTFPWUhhbkp2SGppREdTUVphYXE0ZmR5dEpnSzhwNXZPZTBkRVB0azdKSnpDX2FiVGhadHJjWjVMTzhHVDNBdUNDR2RFWnJIVWE3S2IxRzd4dHNhSV96dGtOV0NKX1I5UmxLRnllMDR1OElRaUhBbmthUzdZZ0wzYWFnWkJkZEdCRnlrTWhtMXFWWDRqSkQzeFdobVpKQTJ0ZW9SaDVZNFVnMVdSaXRoU1otazkxM2ZLcjl3SUZiSUwwZkc4dzBTM0pyaHBLZHA1TXQtam9ySEJrVXk2dXRCWWFxOWxtR0pJUThfd3ZHYWJEVmhJUi1GbjRSTlNMbEJyV1BUZ1NWR3dpY2FoTmJVMVVjWmw3Z0VwMHZpcjc5em1hc2RBdGRXd09lT2hXQ1JseGxJbDF5UXRBcT9jPWRhbmF3YS5jaDkmdD0w&minPrice=429900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search'>ASUS DUAL 지포스 RTX 4060 V2 O8G OC D6 8GB 대원씨티에스 리퍼비시 (AS 27년 10월) />
+429,900
+원
+3,500원
+프라이스포유
+별점
+5.00
+리뷰수
+(
+2
+)
+[54] (352,611)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS83U3pkVW9kYnRybGtDTVYwNHZBc1Nvdk90dWZBLUpSRFNNdDlpRmREN2xsaWprbC1ZN2YxUXJtTGNUSWRlLXp1MWJHUHFnT2RfSm9RYTlKZkwtTE1DV2ZNLXVDQmJkS2ROQi1ucVF0NHVpYmJYVlk1OGZwSE93LV8wMHJXbHNLRV8tRVBDQVRRWHRGQ2V1dWp4QTJKTkM1cDQxRS1uSDU2TFFrVkNLaVF6UlhRbHBuRzRqV0hZdXpqT1hGWnQ3MVVWdHdkVjFYUk11RmozVjZPekQ0TUxsTGwyc1VfTGk0d0d4WW9XdVZVWlFJWlJvSmZTTFYzWHg2dHBuMXEwelpQeXBmYmJGaXo3RlZPaFpIUTRla1lVdlV4bkNmZWNLclh5M21Ha1JMMno0ZnZ4N3BYc1VJbkF6ZjdXUWNzLURYcj9jPWRhbmF3YS5jaDkmdD0w&minPrice=489900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search' />
+[55] (352,737)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS83U3pkVW9kYnRybGtDTVYwNHZBc1Nvdk90dWZBLUpSRFNNdDlpRmREN2xsaWprbC1ZN2YxUXJtTGNUSWRlLXp1MWJHUHFnT2RfSm9RYTlKZkwtTE1DV2ZNLXVDQmJkS2ROQi1ucVF0NHVpYmJYVlk1OGZwSE93LV8wMHJXbHNLRV8tRVBDQVRRWHRGQ2V1dWp4QTJKTkM1cDQxRS1uSDU2TFFrVkNLaVF6UlhRbHBuRzRqV0hZdXpqT1hGWnQ3MVVWdHdkVjFYUk11RmozVjZPekQ0TUxsTGwyc1VfTGk0d0d4WW9XdVZVWlFJWlJvSmZTTFYzWHg2dHBuMXEwelpQeXBmYmJGaXo3RlZPaFpIUTRla1lVdlV4bkNmZWNLclh5M21Ha1JMMno0ZnZ4N3BYc1VJbkF6ZjdXUWNzLURYcj9jPWRhbmF3YS5jaDkmdD0w&minPrice=489900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search'>MANLI 지포스 RTX 4060 Ti Rush D6 8GB 대원씨티에스 리퍼비시 (AS 27년 3월) />
+489,900
+원
+3,500원
+보드나라공구
+[56] (458,611)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9oeW9kOENCWHBlajVuVkNtbjdmNTFzcGdQbkxwRlVZdExwYkpOdHBMY0lvMWU0dHlwOHEta0xEZGlJLWVndFdPQTVhVlg4bzFDb1c0OExzcnBXN2xjN2dLaU0ybHJBdUJPV3hZTGhLemdKX0tjeTU4TEpDVFRkXzhUaGtTeVBDaFlmcXBpUThLZ1pGNzhLalMwaDNCS0s1dzZzN0hUbF9FZU5yN21uT01tdWlndlZ5RGY2TXVHbmxvZDNKZ05rVUhzS0FFemstOFROajAyV3N5eWRCTGFOSWR3RkJyVllIck53Q2tYUDRQNktNcDNfRDdkeE5fTDJrMG5ZeFNJalJEVnpIWDFQOVlIOEZ6Z052eWg1R2lhR1B0amo1R3ctYkRPekZLM25MMURzc1hhV0hYZk13ckhEU0NENm5xWUtEQz9jPWRhbmF3YS5jaDkmdD0w&minPrice=479900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search' />
+[57] (458,737)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9oeW9kOENCWHBlajVuVkNtbjdmNTFzcGdQbkxwRlVZdExwYkpOdHBMY0lvMWU0dHlwOHEta0xEZGlJLWVndFdPQTVhVlg4bzFDb1c0OExzcnBXN2xjN2dLaU0ybHJBdUJPV3hZTGhLemdKX0tjeTU4TEpDVFRkXzhUaGtTeVBDaFlmcXBpUThLZ1pGNzhLalMwaDNCS0s1dzZzN0hUbF9FZU5yN21uT01tdWlndlZ5RGY2TXVHbmxvZDNKZ05rVUhzS0FFemstOFROajAyV3N5eWRCTGFOSWR3RkJyVllIck53Q2tYUDRQNktNcDNfRDdkeE5fTDJrMG5ZeFNJalJEVnpIWDFQOVlIOEZ6Z052eWg1R2lhR1B0amo1R3ctYkRPekZLM25MMURzc1hhV0hYZk13ckhEU0NENm5xWUtEQz9jPWRhbmF3YS5jaDkmdD0w&minPrice=479900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search'>게인워드 지포스 RTX 4060 Ti 고스트 D6 8GB 디앤디컴 리퍼비시 (AS 27년 9월) />
+479,900
+원
+3,500원
+보드나라공구
+[58] (564,611)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9hY3k1MENob1RGaEh4WkVadG5QMU5Wdm83N3AtMDdBOWtpQ2g5THBqaWtEZkMzWHVTVThWR0JEeGVIS0tnbkdzdVJZWk5yMWJ3ZTFwT0h2VnNlX2RULURCR3VXYXZrYXZwa3hkLV9WSTVmWC1oMm5TZkpESVJqY051bzdKQW9vTC0zdDN0Z1dzNlRGUVRzOGhydkJvSUZ6YjgxeUh4NGQ1TEtxVUI1R1l0TUloMTFhUm4wVXZ0WEtwczMzTE43cWptRmtQcnF0NE1PbzRpY0xPamVsaGRjd3Q2R1J3MTRnVlIzUG1GR1hrZzEwOW1hUUQzQmhLMnVETDZkcDA5aG1SbGhXNko4T2c1M0lNTVhhUHlPQlpGanNRVU5PUDkwUFRua0JpTHViamtkbk4yZW1YNkVlLWtfVE0wem9pbmR1LT9jPWRhbmF3YS5jaDkmdD0w&minPrice=409900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search' />
+[59] (564,737)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9hY3k1MENob1RGaEh4WkVadG5QMU5Wdm83N3AtMDdBOWtpQ2g5THBqaWtEZkMzWHVTVThWR0JEeGVIS0tnbkdzdVJZWk5yMWJ3ZTFwT0h2VnNlX2RULURCR3VXYXZrYXZwa3hkLV9WSTVmWC1oMm5TZkpESVJqY051bzdKQW9vTC0zdDN0Z1dzNlRGUVRzOGhydkJvSUZ6YjgxeUh4NGQ1TEtxVUI1R1l0TUloMTFhUm4wVXZ0WEtwczMzTE43cWptRmtQcnF0NE1PbzRpY0xPamVsaGRjd3Q2R1J3MTRnVlIzUG1GR1hrZzEwOW1hUUQzQmhLMnVETDZkcDA5aG1SbGhXNko4T2c1M0lNTVhhUHlPQlpGanNRVU5PUDkwUFRua0JpTHViamtkbk4yZW1YNkVlLWtfVE0wem9pbmR1LT9jPWRhbmF3YS5jaDkmdD0w&minPrice=409900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search'>MANLI 지포스 RTX 4060 Rush D6 8GB 대원씨티에스 리퍼비시 (AS 26년 12월) />
+409,900
+원
+3,500원
+보드나라공구
+[60] (670,611)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9lVU11cVJsekRrVXB5RWNIel9UNmJGYTlRUURIdG5vOTYwMHdGNEgzTE1nME45Ni04VFJmNVdQRVB5M09vMzJURnRsbU1JWWhaTzZ3TzAxSy1PUkFFVlc4SEdFZmxXTUgzX1ZVcTNGRkV5Um9qNGlOYXRjWnZkSTRRZkdLaUhycTN3TXA2bGRVUTJnblMtR3hiTkRnREJuSUVVMWtFSHZBemUyRW03T3FjR1V6LXczVlpWZXVZN3lQZk5YdkxtWW9BYnU4U1otTDB5UGk5OHV1bEFKREEwVEpkY1F0MFA2LVJoY28ta3ZFMDE4RUxJNmlNcTJHbm5HYk9jOTZQVnYyT1FuT2IwNk1ESEFrUFpaLWEwNHVITkgtWFJ1X1hzWjhkbWNrYmt0S1V2Tzk2VDZsTXl0bHF6WTFoZnR1M1BuOD9jPWRhbmF3YS5jaDkmdD0w&minPrice=519900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search' />
+[61] (670,737)<a href='https://prod.danawa.com/bridge/loadingBridgePowerShopping.php?sLink=aHR0cHM6Ly9hZGVyLm5hdmVyLmNvbS92MS9lVU11cVJsekRrVXB5RWNIel9UNmJGYTlRUURIdG5vOTYwMHdGNEgzTE1nME45Ni04VFJmNVdQRVB5M09vMzJURnRsbU1JWWhaTzZ3TzAxSy1PUkFFVlc4SEdFZmxXTUgzX1ZVcTNGRkV5Um9qNGlOYXRjWnZkSTRRZkdLaUhycTN3TXA2bGRVUTJnblMtR3hiTkRnREJuSUVVMWtFSHZBemUyRW03T3FjR1V6LXczVlpWZXVZN3lQZk5YdkxtWW9BYnU4U1otTDB5UGk5OHV1bEFKREEwVEpkY1F0MFA2LVJoY28ta3ZFMDE4RUxJNmlNcTJHbm5HYk9jOTZQVnYyT1FuT2IwNk1ESEFrUFpaLWEwNHVITkgtWFJ1X1hzWjhkbWNrYmt0S1V2Tzk2VDZsTXl0bHF6WTFoZnR1M1BuOD9jPWRhbmF3YS5jaDkmdD0w&minPrice=519900&shipFee=3500&dlvryFee=3500&adKeyword=RTX+4060&prodType=imported&locationType=top&serviceType=search'>ASUS DUAL 지포스 RTX 4060 Ti O8G OC D6 8GB White 인텍앤컴퍼니 (AS 26년 10월) />
+519,900
+원
+3,500원
+프라이스포유
+상세검색
+CM 추천 옵션은
+하이라이트
+로 강조했어요.
+[62] (686,914)<button class='button__research'>사용자의 선택은?! />
+카테고리
+[63] (192,975)<a href='#'>디지털 완제품 />
+[64] (221,975)<button class='btn_more_cate' />
+	[65] (221,975)<span  />
+20,484
+[66] (294,975)<a href='#'>PC 주요 부품 />
+[67] (322,975)<button class='btn_more_cate' />
+	[68] (322,975)<span  />
+1,401
+[69] (397,975)<a href='#'>태블릿/휴대폰 />
+[70] (427,975)<button class='btn_more_cate' />
+	[71] (427,975)<span  />
+280
+[72] (499,975)<a href='#'>공구/산업기계 />
+[73] (529,975)<button class='btn_more_cate' />
+	[74] (529,975)<span  />
+221
+[75] (593,975)<a href='#'>주변기기 />
+[76] (613,975)<button class='btn_more_cate' />
+	[77] (613,975)<span  />
+205
+[78] (704,974)<button class='btn_so_view more'>개 />
+	[79] (694,974)<strong >19 />
+	[80] (715,974)<span  />
+[81] (945,404)<button class='button__floating-vs'>VS검색
+개 담김 />
+	VS검색
+	[82] (965,404)<span >0 />
+	개 담김
+VS
+
+</current_dom>

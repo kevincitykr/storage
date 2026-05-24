@@ -1,0 +1,22 @@
+# PC Selection Task
+
+## Candidates Comparison
+
+| Spec | Candidate 1 (중고나라) | Candidate 2 (중고나라 - 감일동) | New Candidate (Bunjang) |
+| :--- | :--- | :--- | :--- |
+| **Title** | i7-13700KF / 32GB / RTX 5060 | i7-14700K / 16GB / RTX 4060 | i7-14700 GTX1650 32GB 1TB HP |
+| **Price** | 138만원 (Negotiating 130) | 130만원 | 1,099,000원 |
+| **CPU** | i7-13700KF | i7-14700K | i7-14700 |
+| **GPU** | RTX 5060 | RTX 4060? | GTX 1650 |
+| **RAM** | 32GB (DDR4) | 16GB (DDR5) | 32GB |
+| **SSD** | ? | ? | 1TB |
+| **MB** | ? | ? | HP OEM? |
+| **Power** | ? | ? | HP OEM? |
+| **Location** | ? | 감일동 | ? |
+| **Note** | DDR4, Negotiation Target | RAM Error Risk, 16GB | Brand PC (HP), Weak GPU |
+
+## Progress Checklist
+- [x] Identify Candidates 1 & 2 from history
+- [x] Read Bunjang page for basic info
+- [/] Extract full specs for Bunjang candidate (Need more detail)
+- [ ] Compare and summarize for user

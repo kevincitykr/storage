@@ -1,0 +1,49 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (93,78)<a aria-label='home' class='brand-link-block w-nav-brand' href='/' />
+	[1] (93,75)<img  />
+[2] (209,78)<div class='s-nav-dropdown-item w-dropdown-toggle' id='w-dropdown-toggle-0' role='button' />
+	[3] (235,80)<div  />
+	[4] (200,78)<div >Products />
+[5] (297,78)<div class='s-nav-dropdown-item w-dropdown-toggle' id='w-dropdown-toggle-1' role='button' />
+	[6] (324,80)<div  />
+	[7] (289,78)<div >Solutions />
+[8] (389,78)<div class='s-nav-dropdown-item w-dropdown-toggle' id='w-dropdown-toggle-2' role='button' />
+	[9] (417,80)<div  />
+	[10] (380,78)<div >Industries />
+[11] (483,78)<div class='s-nav-dropdown-item w-dropdown-toggle' id='w-dropdown-toggle-3' role='button' />
+	[12] (474,78)<div >Resources />
+	[13] (512,80)<div  />
+[14] (572,78)<div class='s-nav-dropdown-item w-dropdown-toggle' id='w-dropdown-toggle-4' role='button' />
+	[15] (596,80)<div  />
+	[16] (563,78)<div >Support />
+[17] (723,78)<input aria-label='Search query' class='st-default-search-input w-input' id='searchBox' placeholder='Search...' role='combobox' />
+Use the up and down arrows to select a result. Press enter to go to the selected search result. Touch device users can use touch and swipe gestures.
+[18] (894,78)<a class='s-nav-btn-item w-inline-block' href='/active-everywhere-platform/' id='navbarbtn' />
+	[19] (894,78)<div >Resilio for Business />
+By continuing to use this site, you agree to the use of
+[20] (600,949)<a href='/legal/cookie-policy' />
+	[21] (600,950)<strong >cookies />
+.
+[22] (665,950)<a class='cookie-consent-container close-bar w-inline-block' href='#' />
+	[23] (665,950)<div >OK />
+[24] (141,203)<a href='#Overview' id='w-node-_92e29fd7-fec3-3a22-0040-856496d10de2-e0e7beda' />
+	[25] (141,203)<img  />
+[26] (321,203)<a class='subnav-link w-inline-block' href='#Overview' />
+	[27] (321,203)<h6 >OVERVIEW />
+[28] (500,203)<a class='subnav-link w-inline-block w--current' href='#Features' />
+	[29] (500,203)<h6 >FEATURES />
+	[30] (500,243)<div  />
+[31] (679,203)<a class='subnav-link w-inline-block' href='#Resources' id='w-node-_60dffa9d-93fd-5781-9488-dece5382f6f2-e0e7beda' />
+	[32] (679,203)<h6 >RESOURCES />
+[33] (859,203)<a class='subnav-link w-inline-block' href='/sync/register/' id='w-node-_2b9fd0a8-011c-5939-56d0-81d06c2baa09-e0e7beda' />
+	[34] (859,203)<h6 >Get Free License />
+Send photos, videos, movies, or any other large file directly to friends. Cloud free.
+Make Sure Sensitive Data Stays In Your Control
+Change access permissions at any time using
+'Advanced Folders'.
+Assign ownership to another user, revoke access, or change read and write permissions on the fly.
+
+</current_dom>

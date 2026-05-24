@@ -1,0 +1,104 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+데스크탑ㆍ조립PC
+키보드ㆍ마우스ㆍ저장장치
+스마트폰ㆍ액세서리
+가구ㆍ조명ㆍ전기
+모니터ㆍ모니터주변기기
+프린터ㆍ전산소모품
+[0] (103,125)<li class='cate_tab_all pc cate_tab2' id='cate_tab2'>노트북ㆍ태블릿 />
+음향ㆍ영상ㆍ카메라
+자동차ㆍ공구ㆍ안전
+네트워크ㆍ케이블ㆍCCTV
+Apple
+[1] (896,125)<li class='cate_tab_all  cate_tab101' id='cate_tab101'>영상가전 />
+[2] (103,194)<li class='cate_tab_all  cate_tab13' id='cate_tab13'>생활가전 />
+주방가전
+계절가전
+게임ㆍ드론ㆍ완구
+스포츠ㆍ레저
+[3] (896,194)<li class='cate_tab_all  cate_tab89' id='cate_tab89'>중고ㆍ리퍼비시 />
+[4] (103,262)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[5] (896,262)<li  />
+PC구성
+아이웍스PC
+CPU
+메인보드
+메모리
+그래픽카드
+SSD
+HDD
+케이스
+파워
+쿨러/튜닝용품
+모니터
+프린터
+[6] (796,376)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[7] (857,376)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[8] (924,376)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+전체
+PC용
+노트북용
+서버용
+[9] (268,684)<dd class='ls_div' id='ls_div2474' />
+	[10] (235,684)<label >XMP/EXPO 메모리 />
+필터
+초기화
+[11] (672,672)<div class='scroll_opt' scrollable='true' />
+	제조사
+	삼성전자
+	G.SKILL
+	ADATA
+	[12] (803,583)<input class='ch_bx' id='chk_52599' />
+	[13] (857,582)<label >CORSAIR />
+	메모리종류
+	DDR5-REG ECC
+	DDR4-REG ECC
+	메모리용량
+	[14] (466,716)<input class='ch_bx' id='chk_109634' />
+	[15] (520,715)<label >256GB />
+	[16] (578,716)<input class='ch_bx' id='chk_109668' />
+	[17] (632,715)<label >4GB />
+	[18] (690,716)<input class='ch_bx' id='chk_10805' />
+	[19] (745,715)<label >128GB />
+	[20] (803,716)<input class='ch_bx' id='chk_95848' />
+	[21] (857,715)<label >96GB />
+	64GB
+	32GB
+	16GB
+	메모리클럭
+	[22] (466,783)<input class='ch_bx' id='chk_85055' />
+	[23] (520,782)<label >6400MHz (PC5-51200) />
+	[24] (578,783)<input class='ch_bx' id='chk_84654' />
+	[25] (632,782)<label >5600MHz (PC5-44800) />
+	[26] (690,783)<input class='ch_bx' id='chk_10822' />
+	[27] (745,782)<label >4800MHz (PC5-38400) />
+	[28] (803,783)<input class='ch_bx' id='chk_10837' />
+	[29] (857,782)<label >3200MHz (PC4-25600) />
+	2933MHz (PC4-23400)
+	2666MHz (PC4-21300)
+	2400MHz (PC4-19200)
+	방열판유/무
+	방열판 유
+	방열판 무
+메모리
+[30] (353,898)<input id='Search_free' />
+무료배송
+[31] (418,898)<input id='Search_Event' />
+행사제품보기
+총
+32
+건
+[32] (307,975)<input id='SearchKeyword' />
+[33] (363,977)<a href='javascript:search_keyword();' />
+총 견적금액
+750,150
+원
+[34] (594,975)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[35] (658,975)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[36] (658,976)<span >전체수량변경 />
+
+</current_dom>

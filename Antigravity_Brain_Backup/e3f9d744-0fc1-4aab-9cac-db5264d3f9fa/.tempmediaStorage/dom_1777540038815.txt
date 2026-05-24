@@ -1,0 +1,52 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (779,27)<a class='HTTLogBtn' href='//sso.pping.kr'>로그인 />
+[1] (853,27)<a href='//sso.pping.kr/join'>회원가입 />
+[2] (941,28)<a href='//my2.pping.kr/' />
+	[3] (941,28)<span >마이쇼핑 />
+[4] (123,144)<a href='//www.pping.kr' />
+	[5] (123,147)<img  />
+[6] (582,147)<input class='search_input' />
+[7] (900,146)<button class='search_button' />
+	[8] (900,145)<span  />
+[9] (997,147)<button class='search_detail_button '>상세검색 />
+해당 단어 관련 추천어가 없습니다.
+[10] (757,781)<button class='left_auto pr9 dash' id='searchSaveControl'>검색어저장
+끄기 />
+[11] (863,781)<button class='pl9' id='autoCompleteControl'>자동완성
+끄기 />
+[12] (123,277)<button class='GNCAllBtn ' />
+	[13] (31,279)<i  />
+	[14] (117,277)<span >전체 상품분류 />
+PC견적
+표준PC
+무이자24
+게임별PC
+PC검색
+톡톡 커뮤니티
+'
+14700K
+'
+에 대한 통합검색 결과입니다.
+[15] (123,829)<a href='/all/14700K' />
+	[16] (123,829)<span >전체 />
+		[17] (148,832)<span >10000 />
+[18] (367,829)<a href='/compare/14700K' />
+	[19] (367,829)<span >가격비교 />
+		[20] (413,832)<span >10000 />
+[21] (613,829)<a href='/search/14700K' />
+	[22] (613,829)<span >검색상품 />
+		[23] (658,832)<span >0 />
+[24] (69,902)<button class='sc-kxtUkE jdasGd'>인기상품순 />
+[25] (164,902)<button class='sc-kxtUkE kZPeLg'>신상품순 />
+[26] (261,902)<button class='sc-kxtUkE kZPeLg'>높은 가격순 />
+[27] (367,902)<button class='sc-kxtUkE kZPeLg'>낮은 가격순 />
+[28] (464,902)<button class='sc-kxtUkE kZPeLg'>판매점순 />
+[29] (551,902)<button class='sc-kxtUkE kZPeLg'>상품평순 />
+인텔 코어i7-14세대
+14700K
+(랩터레이크 리프레시) (해외구매)
+
+</current_dom>

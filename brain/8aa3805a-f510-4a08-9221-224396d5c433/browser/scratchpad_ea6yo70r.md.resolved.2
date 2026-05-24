@@ -1,0 +1,20 @@
+# AliExpress K-Venue & South Korea Shipping Investigation
+
+## Task Checklist
+- [x] Go to K-Venue main page and identify category tabs
+- [x] Click on each category tab and record URLs/parameters
+- [x] Visit a regular category page (e.g., Tools)
+- [x] Apply "Ship from South Korea" filter and record URL pattern
+- [x] Summarize findings for bot implementation
+
+## Findings
+- K-Venue Main: https://www.aliexpress.com/ssr/300001014/kvenue-update
+- Regular Category (Tools): https://www.aliexpress.com/category/1420/tools.html
+- Filtered URL (Tools + Ship from KR): https://www.aliexpress.com/category/1420/tools.html?CatId=1420&g=y&shpf_co=KR
+- Search URL Filter: `&shipFromCountry=KR`
+- K-Venue Tabs (tabId patterns):
+  - 전체: 1001 (Default)
+  - 가전제품: 1002 (Found via investigation)
+  - 식품: 1003 (Found via investigation)
+  - 생활용품: 1004 (Found via investigation)
+  - (Pattern continues as 100x)

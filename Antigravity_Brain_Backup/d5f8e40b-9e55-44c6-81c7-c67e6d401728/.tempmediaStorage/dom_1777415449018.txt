@@ -1,0 +1,192 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (41,46)<a aria-label='DuckDuckGo home' class='header__logo-wrap js-header-logo' href='/' id='header-logo-wrapper' />
+	[1] (55,46)<span  />
+[2] (258,46)<div  />
+	[3] (246,46)<input class='KzVoRLlICt8isnbHKZpL' id='search_form_input' placeholder='개인 정보 노출 없이 검색' role='combobox' />
+	[4] (424,46)<button aria-label='search' class='tre66mmQ79ZU1ithDMXw' />
+DuckDuckGo 브라우저로 업그레이드하세요.
+DuckDuckGo
+브라우저를 사용해 보세요. 빠른 검색. 무료 제공. 개인 정보 보호.
+[5] (913,480)<a class='C68Y1fiPXCZijXmzVAbe fIgpqHfKgUmmk5lqmvL5 cSB3vZZBSZ9GLKeL8ygC ZnNQOO_hk_lz4QfFV3H1' href='https://duckduckgo.com/windows?origin=funnel_browser_searchresults__popover' />
+	[6] (919,480)<span >브라우저 다운로드 />
+무료
+[7] (982,107)<button class='hzexMwfT1kBGpEyFTOy2 lfRwTNN1Hf8R2G1aX9HT' />
+[8] (982,43)<button class='header__button--menu js-side-menu-open' id='header-hamburger-menu-btn'>메뉴 열기 />
+	메뉴 열기
+[9] (500,98)<div  />
+	[10] (99,98)<a class='kFFXe30DOpq5j1hbWU1q SnptgjT2zdOhGYfNng6g wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=Beat+City+YouTube+c&ia=web'>모두 />
+	[11] (130,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=Beat+City+YouTube+c&ia=images&iax=images'>이미지 />
+	[12] (156,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=Beat+City+YouTube+c&ia=news&iar=news'>뉴스 />
+	[13] (181,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=Beat+City+YouTube+c&ia=videos&iax=videos'>동영상 />
+	[14] (207,98)<a class='kFFXe30DOpq5j1hbWU1q wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=Beat+City+YouTube+c&iaxm=maps'>지도 />
+	[15] (390,98)<a class='Pd_jmhkZzftl0UtTaw0u FjSJqhByQmoYMVscUoQe VssOcyhy47YNtTsYTdr0 wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2' href='/?q=Beat+City+YouTube+c&ia=chat'>Duck.ai />
+	[16] (424,98)<button class='Pd_jmhkZzftl0UtTaw0u FjSJqhByQmoYMVscUoQe VssOcyhy47YNtTsYTdr0 gu3Q2GnnzpqybD2PQxoN wZ4JdaHxSAhGy1HoNVja d26Geqs1C__RaCO7MUs2'>검색 설정 />
+		검색 설정
+		[17] (424,98)<span  />
+			[18] (424,98)<div  />
+				[19] (424,98)<a class='zcm__link dropdown__button js-dropdown-button' />
+[20] (109,143)<div class='UWzy821Y58lvrLxQ7fnz' />
+	[21] (104,143)<span  />
+		[22] (104,143)<div  />
+			[23] (104,143)<div  />
+				[24] (92,144)<div  />
+					[25] (92,143)<div  />
+				[26] (109,143)<span >보호됨 />
+[27] (169,143)<div class='UWzy821Y58lvrLxQ7fnz WiAwXRBfyDliy0tc5wSj' />
+	[28] (164,143)<span  />
+		[29] (164,143)<div  />
+			[30] (164,143)<div  />
+				[31] (148,143)<div class='BPcpYCZXQg3nCFNSsYt7 aZO4YZYIAXDN6NUwv7yO' role='switch' />
+					[32] (144,143)<span  />
+				[33] (174,143)<a class='GDhvI_gnvGtGgJQNMU64'>대한민국 />
+[34] (236,143)<div class='UWzy821Y58lvrLxQ7fnz K3OGxmrYmlInVyLTbimt' />
+	[35] (230,143)<span >안전 검색: 보통 />
+[36] (293,143)<div class='UWzy821Y58lvrLxQ7fnz' />
+	[37] (287,143)<span >모든 날짜 />
+[38] (120,180)<a class='rlkiAscg7L8XDVmbOjmb' href='/?q=Beat%20City%20YouTube'>Beat City YouTube />
+에 대한 결과 포함
+[39] (122,202)<a class='rlkiAscg7L8XDVmbOjmb' href='/?q=Beat%20City%20YouTube%20%22c%22&norw=1'>Beat City YouTube "c" />
+만 검색하시겠습니까?
+[40] (257,339)<article  />
+	[41] (419,257)<div  />
+		[42] (419,257)<button class='cxQwADb9kt3UnKwcXKat uuIDnYC4qmyFk5dsXOhr YZxymVMEkIDA0nZSt_Pm fIgpqHfKgUmmk5lqmvL5 Kupr9ErN7rY_2FrO5WXD LOwJzErTxdlXGS0czM9G COR98ouhDKWLHAPt3uQq' />
+	[43] (257,255)<div  />
+		[44] (159,255)<div  />
+			[45] (96,255)<span  />
+				[46] (96,255)<a href='/?q=Beat%20City%20YouTube%20c+site:www.youtube.com' title='youtube.com 도메인 검색' />
+					[47] (96,255)<div  />
+						[48] (96,255)<img  />
+			[49] (170,255)<div  />
+				[50] (170,245)<p >YouTube />
+				[51] (170,263)<a class='Rn_JXVtoPVAFyGkcaXyK VkOimy54PtIClAT3GMbr' href='https://www.youtube.com/c/BeatCity' />
+					[52] (170,263)<div  />
+						[53] (170,264)<p  />
+							[54] (149,263)<span >https://
+www.youtube.com />
+							[55] (210,263)<span >›
+c › BeatCity />
+	[56] (257,300)<div  />
+		[57] (251,300)<h2  />
+			[58] (251,300)<a class='eVNpHGjtxRBq_gLOfGDr LQNqh2U1kzYxREs65IJu' href='https://www.youtube.com/c/BeatCity' />
+				[59] (135,300)<span >Beat City - YouTube />
+	[60] (257,344)<div  />
+		[61] (257,344)<div  />
+			[62] (257,344)<div  />
+				[63] (257,344)<span  />
+					[64] (251,344)<span >bringing you the dopest Hip Hop
+& Rap Instrumentals! Free
+are free to use for non-profit and evaluation purposes only. Please purchase a lease to gain release rights ... />
+						[65] (95,332)<b >Beat />
+						[66] (112,332)<b >City />
+						[67] (238,332)<b >Beats />
+						[68] (345,332)<b >Beats />
+	[69] (257,402)<div  />
+		[70] (162,407)<a class='f3uDrYrWF3Exrfp1m3Og' href='https://music.youtube.com/watch?v=7kj5K3BxA6s&list=PL6BDA7A21F92E0D60' />
+			[71] (162,384)<h3 >Ferris Bueller's Day Off Soundtrack />
+			[72] (162,418)<p  />
+				[73] (162,418)<span >With the YouTube Music app, enjoy over 100 million songs at your fingertips, plus albums, playlists, remixes, music videos, live performances, covers, and hard-to-find music you can't get anywhere else. />
+[74] (257,541)<article  />
+	[75] (419,496)<div  />
+		[76] (419,496)<button class='cxQwADb9kt3UnKwcXKat uuIDnYC4qmyFk5dsXOhr YZxymVMEkIDA0nZSt_Pm fIgpqHfKgUmmk5lqmvL5 Kupr9ErN7rY_2FrO5WXD LOwJzErTxdlXGS0czM9G COR98ouhDKWLHAPt3uQq' />
+	[77] (257,494)<div  />
+		[78] (161,494)<div  />
+			[79] (96,494)<span  />
+				[80] (96,494)<a href='/?q=Beat%20City%20YouTube%20c+site:www.facebook.com' title='facebook.com 도메인 검색' />
+					[81] (96,494)<div  />
+						[82] (96,494)<img  />
+			[83] (171,494)<div  />
+				[84] (171,484)<p >Facebook />
+				[85] (171,502)<a class='Rn_JXVtoPVAFyGkcaXyK VkOimy54PtIClAT3GMbr' href='https://www.facebook.com/BeatCityTV/' />
+					[86] (171,502)<div  />
+						[87] (171,502)<p  />
+							[88] (151,502)<span >https://
+www.facebook.com />
+							[89] (213,502)<span >›
+BeatCityTV />
+	[90] (257,539)<div  />
+		[91] (251,539)<h2  />
+			[92] (251,539)<a class='eVNpHGjtxRBq_gLOfGDr LQNqh2U1kzYxREs65IJu' href='https://www.facebook.com/BeatCityTV/' />
+				[93] (139,539)<span >Beat City - Facebook />
+	[94] (257,583)<div  />
+		[95] (257,583)<div  />
+			[96] (257,583)<div  />
+				[97] (257,583)<span  />
+					[98] (249,582)<span >. 375 likes.
+bringing you the dopest Hip Hop
+& Rap Instrumentals! Support
+: https://
+.com/beatcity?sub_confirmation=1 />
+						[99] (95,571)<b >Beat />
+						[100] (112,571)<b >City />
+						[101] (161,571)<b >Beat />
+						[102] (178,571)<b >City />
+						[103] (304,571)<b >Beats />
+						[104] (95,594)<b >Beat />
+						[105] (112,594)<b >City />
+						[106] (161,594)<b >youtube />
+[107] (257,717)<article  />
+	[108] (419,660)<div  />
+		[109] (419,660)<button class='cxQwADb9kt3UnKwcXKat uuIDnYC4qmyFk5dsXOhr YZxymVMEkIDA0nZSt_Pm fIgpqHfKgUmmk5lqmvL5 Kupr9ErN7rY_2FrO5WXD LOwJzErTxdlXGS0czM9G COR98ouhDKWLHAPt3uQq' />
+	[110] (257,658)<div  />
+		[111] (167,658)<div  />
+			[112] (96,658)<span  />
+				[113] (96,658)<a href='/?q=Beat%20City%20YouTube%20c+site:beatcity.fandom.com' title='beatcity.fandom.com 도메인 검색' />
+					[114] (96,658)<div  />
+						[115] (96,658)<img  />
+			[116] (178,658)<div  />
+				[117] (178,648)<p >beatcity.fandom.com />
+				[118] (178,666)<a class='Rn_JXVtoPVAFyGkcaXyK VkOimy54PtIClAT3GMbr' href='https://beatcity.fandom.com/wiki/Tutorials' />
+					[119] (178,666)<div  />
+						[120] (178,667)<p  />
+							[121] (153,666)<span >https://
+beatcity.fandom.com />
+							[122] (222,666)<span >›
+wiki › Tutorials />
+	[123] (257,703)<div  />
+		[124] (251,703)<h2  />
+			[125] (251,703)<a class='eVNpHGjtxRBq_gLOfGDr LQNqh2U1kzYxREs65IJu' href='https://beatcity.fandom.com/wiki/Tutorials' />
+				[126] (170,703)<span >Tutorials | Beat City Wiki | Fandom />
+	[127] (257,759)<div  />
+		[128] (257,759)<div  />
+			[129] (257,759)<div  />
+				[130] (257,759)<span  />
+					[131] (256,770)<span >Tutorials are short ways of practicing how to play a minigame before it starts. A tutorial takes place in a completely dark setting, except for the characters, and requires the player to figure out how to play it. There is also a guide showing a tiny DS and stylus showing you what to do. If you mess up, you will get the message "try again!" Then you will have to do it again until you get it ... />
+[132] (257,892)<article  />
+	[133] (419,848)<div  />
+		[134] (419,848)<button class='cxQwADb9kt3UnKwcXKat uuIDnYC4qmyFk5dsXOhr YZxymVMEkIDA0nZSt_Pm fIgpqHfKgUmmk5lqmvL5 Kupr9ErN7rY_2FrO5WXD LOwJzErTxdlXGS0czM9G COR98ouhDKWLHAPt3uQq' />
+	[135] (257,845)<div  />
+		[136] (169,845)<div  />
+			[137] (96,845)<span  />
+				[138] (96,845)<a href='/?q=Beat%20City%20YouTube%20c+site:www.youtube.com' title='youtube.com 도메인 검색' />
+					[139] (96,845)<div  />
+						[140] (96,845)<img  />
+			[141] (180,845)<div  />
+				[142] (180,836)<p >YouTube />
+				[143] (180,853)<a class='Rn_JXVtoPVAFyGkcaXyK VkOimy54PtIClAT3GMbr' href='https://www.youtube.com/@BeatCityArchive' />
+					[144] (180,853)<div  />
+						[145] (180,854)<p  />
+							[146] (149,853)<span >https://
+www.youtube.com />
+							[147] (220,853)<span >›
+@BeatCityArchive />
+	[148] (257,891)<div  />
+		[149] (251,891)<h2  />
+			[150] (251,891)<a class='eVNpHGjtxRBq_gLOfGDr LQNqh2U1kzYxREs65IJu' href='https://www.youtube.com/@BeatCityArchive' />
+				[151] (155,891)<span >Beat City Archive - YouTube />
+	[152] (257,934)<div  />
+		[153] (257,934)<div  />
+			[154] (257,934)<div  />
+				[155] (257,934)<span  />
+					[156] (253,934)<span >DS is the only console game they had ever made. Universomo unfortunately announced its closure on March 2nd, 2010, 50 days before
+DS had come out in North America, April 20th ... />
+						[157] (95,922)<b >Beat />
+						[158] (112,922)<b >City />
+						[159] (238,945)<b >Beat />
+						[160] (254,945)<b >City />
+YouTube
+[161] (963,963)<button class='fIgpqHfKgUmmk5lqmvL5 _I0sotAoeGtAJzkzyutg Yy4FVTLlXDKk7XaBX_nT'>피드백 공유 />
+
+</current_dom>

@@ -1,0 +1,28 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+AI MONETIZE
+[0] (95,215)<li >🖊️ 구글/네이버 생성기 />
+[1] (95,304)<li >🌿 티스토리 (건강/생활) />
+[2] (95,393)<li >📊 분석 대시보드 />
+[3] (95,481)<li >📂 최근 작성 내역 />
+🚀
+                외부 채널 연결
+[4] (95,678)<li class='nav-item'>📝 구글 블로거 />
+[5] (95,767)<li class='nav-item'>🌿 티스토리 홈 />
+[6] (95,855)<li class='nav-item'>📱 쓰레드(SNS) />
+[7] (95,971)<li >⚙️ 계정 및 설정 />
+구글 블로거 ID
+[8] (355,55)<input id='setting-blogger-id' placeholder='Blogger Blog ID (예: 6577533901683534947)' />
+[9] (355,184)<label >구글 블로거 API 토큰 (Access Token) />
+[10] (316,238)<input id='setting-blogger-token' placeholder='ya29.으로 시작하는 토큰 붙여넣기' />
+[11] (424,238)<button class='copy-btn'>토큰 받기 ➔ />
+[12] (355,445)<label >티스토리 계정명 (App ID) />
+[13] (355,510)<input id='setting-tistory-name' placeholder='예: kevincity' />
+[14] (355,639)<label >티스토리 Access Token />
+[15] (316,681)<input id='setting-tistory-token' placeholder='티스토리 API 토큰' />
+[16] (323,848)<button class='generate-btn'>✨ 설정
+                                저장하기 />
+
+</current_dom>

@@ -1,0 +1,558 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (54,6)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1002853/?s=2&used=0' title='8件'>ASUS />
+[1] (54,33)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004780/?s=2&used=0' title='7件'>GIGABYTE />
+[2] (54,59)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004775/?s=2&used=0' title='7件'>intel />
+[3] (54,85)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1002873/?s=2&used=0' title='4件'>マウスコンピューター />
+[4] (54,112)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004785/?s=2&used=0' title='3件'>玄人志向 />
+[5] (54,138)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1004782/?s=2&used=0' title='1件'>パワーカラー />
+[6] (54,188)<div class='header -clickable' role='button' title='CPU製品名' />
+	[7] (96,187)<div  />
+		[8] (97,185)<div  />
+	[9] (51,188)<div >CPU製品名 />
+[10] (54,223)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1017390/?s=2&used=0' title='2件'>AMD Ryzen 5 />
+[11] (54,249)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1017389/?s=2&used=0' title='27件'>AMD Ryzen 7 />
+[12] (54,275)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1005251/?s=2&used=0' title='68件'>Intel Core i3 />
+[13] (54,302)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1005250/?s=2&used=0' title='695件'>Intel Core i5 />
+[14] (54,328)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1005249/?s=2&used=0' title='239件'>Intel Core i7 />
+[15] (54,378)<div class='header -clickable' role='button' title='容量（HDD/SSD）' />
+	[16] (96,377)<div  />
+		[17] (97,375)<div  />
+	[18] (51,378)<div >容量（HDD/SSD） />
+[19] (54,413)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1005229/?s=2&used=0' title='1件'>～ 128GB />
+[20] (54,439)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1005230/?s=2&used=0' title='317件'>129 ～ 256GB />
+[21] (54,465)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1005231/?s=2&used=0' title='707件'>257 ～ 500GB />
+[22] (54,492)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1005232/?s=2&used=0' title='469件'>501GB ～ 1TB />
+カラー
+[23] (15,576)<a aria-label='ブラック' class='dui-color' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1000886/?s=2&used=0' title='ブラック' />
+[24] (30,576)<a aria-label='グレー' class='dui-color' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1000881/?s=2&used=0' title='グレー' />
+[25] (45,576)<a aria-label='ホワイト' class='dui-color -white' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1000873/?s=2&used=0' title='ホワイト' />
+[26] (60,576)<a class='dui-color -silver' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/-/tg1000879/?s=2&used=0' title='シルバー' />
+[27] (54,626)<div class='header -clickable' role='button' title='メモリ容量' />
+	[28] (96,626)<div  />
+		[29] (97,628)<div  />
+	[30] (51,626)<div >メモリ容量 />
+[31] (54,671)<div class='header -clickable' role='button' title='OS' />
+	[32] (96,671)<div  />
+		[33] (97,673)<div  />
+	[34] (51,671)<div >OS />
+[35] (54,716)<div class='header -clickable' role='button' title='ディスプレイ（有/無）' />
+	[36] (96,716)<div  />
+		[37] (97,718)<div  />
+	[38] (51,716)<div >ディスプレイ（有/無） />
+[39] (54,761)<div class='header -clickable' role='button' title='PCケースタイプ' />
+	[40] (96,761)<div  />
+		[41] (97,763)<div  />
+	[42] (51,761)<div >PCケースタイプ />
+[43] (54,806)<div class='header -clickable' role='button' title='記憶装置（HDD/SSD）' />
+	[44] (96,806)<div  />
+		[45] (97,804)<div  />
+	[46] (51,806)<div >記憶装置（HDD/SSD） />
+SSD
+[47] (54,893)<div class='header -clickable' role='button' title='CPUコア数' />
+	[48] (96,893)<div  />
+		[49] (97,895)<div  />
+	[50] (51,893)<div >CPUコア数 />
+配送
+海外
+お届け先
+4.33
+(12件)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[51] (182,53)<span class='reference--4whr_' role='button' />
+	[52] (182,53)<span  />
+		[53] (182,48)<div  />
+			[54] (182,48)<img  />
+[55] (176,80)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+4.6
+(5件)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[56] (307,53)<span class='reference--4whr_' role='button' />
+	[57] (307,53)<span  />
+		[58] (307,48)<div  />
+			[59] (307,48)<img  />
+[60] (301,80)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+4
+(1件)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[61] (432,53)<span class='reference--4whr_' role='button' />
+	[62] (432,53)<span  />
+		[63] (432,48)<div  />
+			[64] (432,48)<img  />
+[65] (426,80)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[66] (557,24)<span class='reference--4whr_' role='button' />
+	[67] (557,24)<span  />
+		[68] (557,20)<div  />
+			[69] (557,20)<img  />
+[70] (551,51)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[71] (682,0)<span class='reference--4whr_' role='button' />
+	[72] (682,0)<span  />
+[73] (676,27)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[74] (807,0)<span class='reference--4whr_' role='button' />
+	[75] (807,0)<span  />
+[76] (801,27)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[77] (932,24)<span class='reference--4whr_' role='button' />
+	[78] (932,24)<span  />
+		[79] (932,20)<div  />
+			[80] (932,20)<img  />
+[81] (926,51)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[82] (179,237)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/wm_5600g_16g_256g/?variantId=wp_5600g_16g_256g' />
+	[83] (179,237)<img  />
+[84] (157,315)<div  />
+	[85] (156,315)<div  />
+		[86] (156,315)<span class='reference--4whr_' role='button' />
+			[87] (156,315)<div  />
+				[88] (156,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[89] (156,315)<span  />
+						[90] (156,315)<div  />
+[91] (202,315)<span  />
+	[92] (202,315)<div  />
+		[93] (202,315)<div  />
+			[94] (202,315)<span class='reference--4whr_' role='button' />
+				[95] (202,315)<div  />
+					[96] (202,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[97] (202,315)<span  />
+							[98] (202,315)<div  />
+【国内組立の 新品】新品 デスクトップPC デスクトップパソコン ビジネス Ryzen5 5600GT Windows10 11 SSD256GB メモリ 16GB 1年保証 激安 ゲーム ゲーミングパソコン ゲーミングPC マインクラフト ヴァロラント 原神 eスポーツ おしゃれ 入門用 ★本体のみ★
+66,100
+円
+送料無料
+600
+ポイント
+(
+1
+倍)
+[99] (155,483)<a class='dui-rating-filter _link' href='https://review.rakuten.co.jp/item/1/425218_10000276/1.1/' />
+	[100] (128,482)<span  />
+		[101] (128,482)<i  />
+	[102] (134,482)<span  />
+		[103] (134,482)<i  />
+	[104] (141,482)<span  />
+		[105] (141,482)<i  />
+	[106] (147,482)<span  />
+		[107] (147,482)<i  />
+	[108] (153,482)<span  />
+		[109] (153,482)<i  />
+	[110] (164,482)<span >4.67 />
+	[111] (178,482)<span >(3件) />
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[112] (182,537)<span class='reference--4whr_' role='button' />
+	[113] (182,537)<span  />
+		[114] (182,533)<div  />
+			[115] (182,533)<img  />
+[116] (176,565)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[117] (304,237)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/bk_5600g_16g_256g/?variantId=s2b_5600g_16g_256g' />
+	[118] (304,237)<img  />
+[119] (282,315)<div  />
+	[120] (281,315)<div  />
+		[121] (281,315)<span class='reference--4whr_' role='button' />
+			[122] (281,315)<div  />
+				[123] (281,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[124] (281,315)<span  />
+						[125] (281,315)<div  />
+[126] (327,315)<span  />
+	[127] (327,315)<div  />
+		[128] (327,315)<div  />
+			[129] (327,315)<span class='reference--4whr_' role='button' />
+				[130] (327,315)<div  />
+					[131] (327,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[132] (327,315)<span  />
+							[133] (327,315)<div  />
+【国内組立の 新品】新品 デスクトップPC デスクトップパソコン ビジネス Ryzen5 5600GT Windows10 11 SSD256GB メモリ 16GB 1年保証 激安 ゲーム ゲーミングパソコン ゲーミングPC マインクラフト ヴァロラント 原神 eスポーツ おしゃれ 入門用 ★本体のみ★
+66,100
+円
+送料無料
+600
+ポイント
+(
+1
+倍)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[134] (307,514)<span class='reference--4whr_' role='button' />
+	[135] (307,514)<span  />
+		[136] (307,509)<div  />
+			[137] (307,509)<img  />
+[138] (301,541)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[139] (429,237)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/es_s3w_c512_8g_256g/?variantId=es_s3w_c512_8g_256g' />
+	[140] (429,237)<img  />
+[141] (407,315)<div  />
+	[142] (406,315)<div  />
+		[143] (406,315)<span class='reference--4whr_' role='button' />
+			[144] (406,315)<div  />
+				[145] (406,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[146] (406,315)<span  />
+						[147] (406,315)<div  />
+[148] (452,315)<span  />
+	[149] (452,315)<div  />
+		[150] (452,315)<div  />
+			[151] (452,315)<span class='reference--4whr_' role='button' />
+				[152] (452,315)<div  />
+					[153] (452,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[154] (452,315)<span  />
+							[155] (452,315)<div  />
+【国内組立の 新品】デスクトップPC デスクトップ パソコン ビジネス 第12世代 corei5 Windows11 10 SSD256GB メモリ 8GB 1年保証 安い 激安 オフィス業務 事務作業 デスクワーク 高スペック 動画視聴 おしゃれ ★本体のみ★
+69,100
+円
+送料無料
+628
+ポイント
+(
+1
+倍)
+12:00までの注文で
+最短5/4(翌日)
+お届け
+[156] (432,514)<span class='reference--4whr_' role='button' />
+	[157] (432,514)<span  />
+		[158] (432,509)<div  />
+			[159] (432,509)<img  />
+[160] (426,541)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[161] (554,237)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/ouchitec/dnzj019a/' />
+	[162] (554,237)<img  />
+[163] (532,315)<div  />
+	[164] (531,315)<div  />
+		[165] (531,315)<span class='reference--4whr_' role='button' />
+			[166] (531,315)<div  />
+				[167] (531,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[168] (531,315)<span  />
+						[169] (531,315)<div  />
+[170] (577,315)<span  />
+	[171] (577,315)<div  />
+		[172] (577,315)<div  />
+			[173] (577,315)<span class='reference--4whr_' role='button' />
+				[174] (577,315)<div  />
+					[175] (577,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[176] (577,315)<span  />
+							[177] (577,315)<div  />
+【2026新登場・RTX4060搭載・2年保証】デスクトップパソコン ゲーミングPC Intel Core i3 i5 i7 8GB 32GB 16GBメモリ 256GB~1TB SSD 高速起動 高フレームレート 高性能 高画質 Windows11搭載 WiFi対応 FPS・ゲーム実況・動画編集・配信対応 コスパ最強 初心者向け
+69,800
+円〜
+送料無料
+634
+ポイント
+(
+1
+倍)
+〜
+256GB
+512GB
+1024GB
+12:00までの注文で最短5/10お届け
+[178] (517,542)<span class='reference--4whr_' role='button' />
+	[179] (517,542)<span  />
+		[180] (517,538)<div  />
+			[181] (517,538)<img  />
+[182] (528,570)<a class='_ellipsis' href='https://www.rakuten.co.jp/ouchitec/'>おうちテック />
+[183] (679,237)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/ouchitec/dnzj019/' />
+	[184] (679,237)<img  />
+[185] (657,315)<div  />
+	[186] (656,315)<div  />
+		[187] (656,315)<span class='reference--4whr_' role='button' />
+			[188] (656,315)<div  />
+				[189] (656,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[190] (656,315)<span  />
+						[191] (656,315)<div  />
+[192] (702,315)<span  />
+	[193] (702,315)<div  />
+		[194] (702,315)<div  />
+			[195] (702,315)<span class='reference--4whr_' role='button' />
+				[196] (702,315)<div  />
+					[197] (702,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[198] (702,315)<span  />
+							[199] (702,315)<div  />
+【2026新登場・RTX4060搭載・2年保証】デスクトップパソコン ゲーミングPC Intel Core i3 i5 i7 8GB 32GB 16GBメモリ 256GB~1TB SSD 高速起動 高フレームレート 高性能 高画質 Windows11搭載 WiFi対応 FPS・ゲーム実況・動画編集・配信対応 コスパ最強 初心者向け
+69,800
+円〜
+送料無料
+634
+ポイント
+(
+1
+倍)
+〜
+256GB
+512GB
+1024GB
+12:00までの注文で最短5/10お届け
+[200] (642,542)<span class='reference--4whr_' role='button' />
+	[201] (642,542)<span  />
+		[202] (642,538)<div  />
+			[203] (642,538)<img  />
+[204] (653,570)<a class='_ellipsis' href='https://www.rakuten.co.jp/ouchitec/'>おうちテック />
+[205] (804,237)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/d-rise/p000000907337/?variantId=p000000907337' />
+	[206] (804,237)<img  />
+[207] (782,315)<div  />
+	[208] (781,315)<div  />
+		[209] (781,315)<span class='reference--4whr_' role='button' />
+			[210] (781,315)<div  />
+				[211] (781,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[212] (781,315)<span  />
+						[213] (781,315)<div  />
+[214] (827,315)<span  />
+	[215] (827,315)<div  />
+		[216] (827,315)<div  />
+			[217] (827,315)<span class='reference--4whr_' role='button' />
+				[218] (827,315)<div  />
+					[219] (827,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[220] (827,315)<span  />
+							[221] (827,315)<div  />
+[222] (804,410)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/d-rise/p000000907337/?variantId=p000000907337' title='★MSI GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS [PCIExp 8GB]【グラフィックボード・ビデオカード】【送料無料】'>★MSI GeForce RTX 5060 Ti 8G VENTUS 2X OC PLUS [PCIExp 8GB]【グラフィックボード・ビデオカード】【送料無料】 />
+79,980
+円
+送料無料
+3,635
+ポイント
+(
+1
+倍+
+4
+倍UP)
+5/7 15:00までの注文で最短5/8お届け
+[223] (767,514)<span class='reference--4whr_' role='button' />
+	[224] (767,514)<span  />
+		[225] (767,509)<div  />
+			[226] (767,509)<img  />
+[227] (794,541)<a class='_ellipsis' href='https://www.rakuten.co.jp/d-rise/'>ディーライズ楽天市場店 />
+[228] (804,578)<a class='dui-button -bestshop -fluid' href='https://search.rakuten.co.jp/search/mall/RTX+4060+Ti+16GB/?ran=30010004711377338868&s=11&used=0'>同じ商品を安い順で見る />
+[229] (929,237)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/kaiteki-item/wm_c512_2060_16g_256g/?variantId=wm_c512_2060_16g_256g' />
+	[230] (929,237)<img  />
+[231] (907,315)<div  />
+	[232] (906,315)<div  />
+		[233] (906,315)<span class='reference--4whr_' role='button' />
+			[234] (906,315)<div  />
+				[235] (906,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[236] (906,315)<span  />
+						[237] (906,315)<div  />
+[238] (952,315)<span  />
+	[239] (952,315)<div  />
+		[240] (952,315)<div  />
+			[241] (952,315)<span class='reference--4whr_' role='button' />
+				[242] (952,315)<div  />
+					[243] (952,315)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[244] (952,315)<span  />
+							[245] (952,315)<div  />
+【RTX2060搭載】【国内組立 新品】ゲーミングPC RTX2060 Core i5 第12世代 メモリ16GB SSD256GB Windows11 デスクトップPC 原神 Apex FF14 VALORANT Minecraft GTA PUBG 配信 動画編集 eスポーツ 初心者 1年保証 ゲーミングパソコン ゲーム 本体のみ
+89,200
+円
+送料無料
+810
+ポイント
+(
+1
+倍)
+12:00までの注文で最短5/6お届け
+[246] (892,514)<span class='reference--4whr_' role='button' />
+	[247] (892,514)<span  />
+		[248] (892,509)<div  />
+			[249] (892,509)<img  />
+[250] (926,541)<a class='_ellipsis' href='https://www.rakuten.co.jp/kaiteki-item/'>快適アイテム生活 楽天市場店 />
+[251] (179,744)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/tales-store/202505110030074988755069014/?variantId=202505110030074988755069014' />
+	[252] (179,744)<img  />
+[253] (157,822)<div  />
+	[254] (156,822)<div  />
+		[255] (156,822)<span class='reference--4whr_' role='button' />
+			[256] (156,822)<div  />
+				[257] (156,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[258] (156,822)<span  />
+						[259] (156,822)<div  />
+[260] (202,822)<span  />
+	[261] (202,822)<div  />
+		[262] (202,822)<div  />
+			[263] (202,822)<span class='reference--4whr_' role='button' />
+				[264] (202,822)<div  />
+					[265] (202,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[266] (202,822)<span  />
+							[267] (202,822)<div  />
+[268] (178,917)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/tales-store/202505110030074988755069014/?variantId=202505110030074988755069014' title='GIGABYTE NVIDIA GeForce RTX4060Ti 搭載 グラフィックボード GDDR6 8GB 国内正規代理店品 GV-N406TWF2OC-8GD'>GIGABYTE NVIDIA GeForce RTX4060Ti 搭載 グラフィックボード GDDR6 8GB 国内正規代理店品 GV-N406TWF2OC-8GD />
+92,250
+円
+送料無料
+838
+ポイント
+(
+1
+倍)
+3〜7営業日以内に発送(店舗休業日を除く)
+[269] (304,744)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/sr-shop/af-375/' />
+	[270] (304,744)<img  />
+[271] (282,822)<div  />
+	[272] (281,822)<div  />
+		[273] (281,822)<span class='reference--4whr_' role='button' />
+			[274] (281,822)<div  />
+				[275] (281,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[276] (281,822)<span  />
+						[277] (281,822)<div  />
+[278] (327,822)<span  />
+	[279] (327,822)<div  />
+		[280] (327,822)<div  />
+			[281] (327,822)<span class='reference--4whr_' role='button' />
+				[282] (327,822)<div  />
+					[283] (327,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[284] (327,822)<span  />
+							[285] (327,822)<div  />
+【2年保証】＼新品／【RTX4060Ti搭載】ゲーミングPC デスクトップパソコン ビジネス デスクトップパソコン デスクトップPC Windows 11 DDR4【 16G+1TB】 SSD i7 i9 16G/32G/64G+256GB/512GB/1TB デスクトップパソコン Intel Corei9 高速 4 静音
+93,800
+円〜
+送料無料
+852
+ポイント
+(
+1
+倍)
+〜
+5/7 15:00までの注文で最短5/14お届け
+[286] (429,744)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/goodwoods/4065130gnr9x3xk/?variantId=4065130gnr9x3xk' />
+	[287] (429,744)<img  />
+[288] (407,822)<div  />
+	[289] (406,822)<div  />
+		[290] (406,822)<span class='reference--4whr_' role='button' />
+			[291] (406,822)<div  />
+				[292] (406,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[293] (406,822)<span  />
+						[294] (406,822)<div  />
+[295] (452,822)<span  />
+	[296] (452,822)<div  />
+		[297] (452,822)<div  />
+			[298] (452,822)<span class='reference--4whr_' role='button' />
+				[299] (452,822)<div  />
+					[300] (452,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[301] (452,822)<span  />
+							[302] (452,822)<div  />
+玄人志向 NVIDIA GeForce RTX 5060 Ti 搭載 グラフィックボード 8GB OCモデル ブラック デュアルファン 国内正規品 GG-RTX5060Ti-E8GB/OC/DF/V2
+94,829
+円
+送料無料
+862
+ポイント
+(
+1
+倍)
+1〜5日営業日内に発送予定
+[303] (554,744)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/nekosansyouten/202410260745264988755069014/?variantId=202410260745264988755069014' />
+	[304] (554,744)<img  />
+[305] (532,822)<div  />
+	[306] (531,822)<div  />
+		[307] (531,822)<span class='reference--4whr_' role='button' />
+			[308] (531,822)<div  />
+				[309] (531,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[310] (531,822)<span  />
+						[311] (531,822)<div  />
+[312] (577,822)<span  />
+	[313] (577,822)<div  />
+		[314] (577,822)<div  />
+			[315] (577,822)<span class='reference--4whr_' role='button' />
+				[316] (577,822)<div  />
+					[317] (577,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[318] (577,822)<span  />
+							[319] (577,822)<div  />
+[320] (553,917)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/nekosansyouten/202410260745264988755069014/?variantId=202410260745264988755069014' title='GIGABYTE NVIDIA GeForce RTX4060Ti 搭載 グラフィックボード GDDR6 8GB 国内正規代理店品 GV-N406TWF2OC-8GD'>GIGABYTE NVIDIA GeForce RTX4060Ti 搭載 グラフィックボード GDDR6 8GB 国内正規代理店品 GV-N406TWF2OC-8GD />
+95,961
+円
+送料無料
+872
+ポイント
+(
+1
+倍)
+3〜7日営業日以内
+[321] (679,744)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/dospara-r/ic523108/?variantId=ic523108' />
+	[322] (679,744)<img  />
+[323] (657,822)<div  />
+	[324] (656,822)<div  />
+		[325] (656,822)<span class='reference--4whr_' role='button' />
+			[326] (656,822)<div  />
+				[327] (656,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[328] (656,822)<span  />
+						[329] (656,822)<div  />
+[330] (702,822)<span  />
+	[331] (702,822)<div  />
+		[332] (702,822)<div  />
+			[333] (702,822)<span class='reference--4whr_' role='button' />
+				[334] (702,822)<div  />
+					[335] (702,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[336] (702,822)<span  />
+							[337] (702,822)<div  />
+[338] (678,917)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/dospara-r/ic523108/?variantId=ic523108' title='Palit(パリット) GeForce RTX 5060 Ti Infinity 3 16GB / NE7506T019T1-GB2061S / グラフィックボード'>Palit(パリット) GeForce RTX 5060 Ti Infinity 3 16GB / NE7506T019T1-GB2061S / グラフィックボード />
+100,980
+円
+送料無料
+918
+ポイント
+(
+1
+倍)
+2〜3営業日で出荷
+[339] (804,744)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/dospara-r/ic548694/?variantId=ic548694' />
+	[340] (804,744)<img  />
+[341] (782,822)<div  />
+	[342] (781,822)<div  />
+		[343] (781,822)<span class='reference--4whr_' role='button' />
+			[344] (781,822)<div  />
+				[345] (781,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[346] (781,822)<span  />
+						[347] (781,822)<div  />
+[348] (827,822)<span  />
+	[349] (827,822)<div  />
+		[350] (827,822)<div  />
+			[351] (827,822)<span class='reference--4whr_' role='button' />
+				[352] (827,822)<div  />
+					[353] (827,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[354] (827,822)<span  />
+							[355] (827,822)<div  />
+[356] (804,905)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/dospara-r/ic548694/?variantId=ic548694' title='Palit NE7506TU19T1-GB2061M (GeForce RTX 5060 Ti White OC 16GB)'>Palit NE7506TU19T1-GB2061M (GeForce RTX 5060 Ti White OC 16GB) />
+101,180
+円
+送料無料
+919
+ポイント
+(
+1
+倍)
+2〜3営業日で出荷
+[357] (929,744)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/nekosansyouten/202406012040084988755066600/?variantId=202406012040084988755066600' />
+	[358] (929,744)<img  />
+[359] (907,822)<div  />
+	[360] (906,822)<div  />
+		[361] (906,822)<span class='reference--4whr_' role='button' />
+			[362] (906,822)<div  />
+				[363] (906,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[364] (906,822)<span  />
+						[365] (906,822)<div  />
+[366] (952,822)<span  />
+	[367] (952,822)<div  />
+		[368] (952,822)<div  />
+			[369] (952,822)<span class='reference--4whr_' role='button' />
+				[370] (952,822)<div  />
+					[371] (952,822)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[372] (952,822)<span  />
+							[373] (952,822)<div  />
+[374] (928,917)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/nekosansyouten/202406012040084988755066600/?variantId=202406012040084988755066600' title='玄人志向 NVIDIA GeForce RTX4060 搭載 グラフィックボード GDDR6 8GB 搭載モデル 国内正規品 GG-RTX4060-E8GB/SF'>玄人志向 NVIDIA GeForce RTX4060 搭載 グラフィックボード GDDR6 8GB 搭載モデル 国内正規品 GG-RTX4060-E8GB/SF />
+102,454
+円
+送料無料
+931
+ポイント
+(
+1
+倍)
+3〜7日営業日以内
+
+</current_dom>

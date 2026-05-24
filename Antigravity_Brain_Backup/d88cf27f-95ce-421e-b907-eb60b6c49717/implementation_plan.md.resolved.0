@@ -1,0 +1,58 @@
+# AliExpress-to-Windly Efficient Sourcing Strategy (Veteran's Edition)
+
+This plan outlines a high-efficiency workflow for sourcing products from AliExpress (specifically K-Venue) and listing them via Windly. As a 10-year veteran in cross-border e-commerce, I recommend moving from "blind mass-collection" to "data-driven precision sourcing."
+
+## 1. Strategy Overview: The "Gold Mine" Formula
+Efficiency isn't just about speed; it's about **Revenue per Click**.
+*   **Target**: AliExpress K-Venue (Domestic Korean stock = Fast shipping = High conversion).
+*   **Niche**: Focus on "Problem-Solving" items or "Trending Lifestyle" items, avoiding saturated high-brand electronics.
+*   **Automation**: Use the existing Playwright + PyAutoGUI hybrid to bypass bot detection.
+
+## 2. Core Implementation Pillars
+
+### A. Data-Driven Selection (Sourcing Intelligence)
+Instead of scraping everything, we will filter for "Winning Products" only.
+- **Criteria**:
+    - Orders > 100 in the last 30 days.
+    - Rating > 4.5 stars.
+    - Not in the `forbidden_master_list.json`.
+    - Price Gap: Target items with a 30%+ margin potential compared to Naver Shopping.
+
+### B. Technical Optimization (The Sourcing Engine)
+We will refine the current Python scripts to handle higher volume with less manual intervention.
+
+#### [MODIFY] [kvenue_auto.py](file:///d:/20260412%20kevincity share/500.%EC%9C%88%EB%93%A4%EB%A6%AC/kvenue_auto.py)
+- **Deep Scan Enhancement**: Extract not just title/price, but also **Review counts** and **Shipping time**.
+- **Category Rotation**: Add functionality to auto-switch between categories (Electronics, Home, Fashion).
+- **Anti-Bot 3.0**: Implement variable mouse movement patterns and "Human-like" scrolling.
+
+#### [NEW] [title_optimizer.py](file:///d:/20260412%20kevincity share/500.%EC%9C%88%EB%93%A4%EB%A6%AC/title_optimizer.py)
+- A script to clean AliExpress's "keyword-stuffed" titles into Korean SEO-friendly titles (e.g., "Portable Blender USB Rechargeable..." -> "휴대용 무선 믹서기 텀블러형").
+
+### C. The Windly Bridge (Auto-Collection)
+Since Windly's extension is tricky to automate directly via Playwright:
+- **PyAutoGUI Clicker 2.0**: Improve `windly_clicker.py` with image recognition to detect the "Collect" button status (Success/Fail).
+- **Batch Processing**: Collect 100 URLs -> Open Browser -> Loop PyAutoGUI clicker -> Close Browser.
+
+## 3. Step-by-Step Execution Plan
+
+### Phase 1: Infrastructure Upgrade
+- Update `forbidden_master_list.json` with a more comprehensive list of restricted brands.
+- Improve `kvenue_auto.py` to support "Filter by Category".
+
+### Phase 2: Quality Control (QC)
+- Implement a script to check if the product is already listed (Duplicate check).
+- Integrate a "Profitability Calculator" into the collection log.
+
+### Phase 3: Fully Automated Pipeline
+- Create a `master_controller.py` that links the Scraper -> Optimizer -> Windly Clicker.
+
+## 4. Veteran's Tips for Success (Secret Sauce)
+1. **IP Compliance is King**: One copyright strike can kill your store. We will add a "Deep Keyword Filter" that checks descriptions, not just titles.
+2. **K-Venue Priority**: Focus on K-Venue because users trust domestic shipping labels more.
+3. **Visual Appeal**: We will prioritize items with high-quality main images (checked via image resolution).
+
+## Open Questions for USER
+1. **Target Volume**: How many products do you aim to collect per day? (e.g., 100, 1000?)
+2. **Niche Focus**: Are there specific categories you want to prioritize?
+3. **Price Range**: Should we filter for specific price points (e.g., 10,000 ~ 50,000 KRW)?

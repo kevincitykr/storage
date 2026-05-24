@@ -1,0 +1,243 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (104,27)<a href='/main/?logger_kw=main_shop_top' />
+[1] (144,26)<a href='https://pc26.danawa.com/bbs/?logger_kw=shop_top_pc26' />
+	[2] (150,24)<span >PC26 />
+[3] (192,26)<a href='https://shop.danawa.com/ssancom/?logger_kw=shop_top_ssancom' />
+	[4] (197,24)<span >싼컴 />
+[5] (244,26)<a href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=194&logger_kw=shop_top_counseling' />
+	[6] (244,24)<span >PC구매상담 />
+[7] (303,26)<a href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=46' />
+	[8] (303,24)<span >기업구매상담 />
+[9] (354,26)<a class='link__login' />
+	[10] (354,24)<span >로그인 />
+[11] (715,27)<a href='//www.danawa.com/?logger_kw=shop_top_danawa'>다나와 />
+[12] (756,27)<a href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>에누리 />
+[13] (798,27)<a href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>몰테일 />
+[14] (845,27)<a href='https://www.plto.com/?utm_source=shopdanawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[15] (895,27)<a href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=shopdanawa'>메이크샵 />
+[16] (180,63)<a href='/main/' />
+	[17] (180,117)<img  />
+[18] (454,123)<fieldset  />
+	[19] (445,123)<input class='search__input' id='gnbSearchKeyword' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[20] (591,123)<button class='search__submit' id='gnbSearchBtn' />
+실시간 PC견적
+[21] (785,128)<a class='link' href='https://shop.danawa.com/pc' />
+	[22] (737,122)<span >[13:26] />
+	[23] (787,128)<span >견적서 요청 />
+	[24] (883,122)<span >3,309,000원 />
+[13:25]
+견적서 요청
+3,309,000원
+[13:01]
+견적 부탁드립니다.
+5,918,000원
+[12:57]
+PC견적 요청의 건
+5,037,000원
+[12:32]
+견적 부탁드립니다
+3,396,000원
+[12:22]
+견적 문의드립니다.
+6,012,000원
+[14:33]
+견적요청합니다
+1,763,000원
+[14:30]
+견적요청합니다
+2,135,000원
+[14:28]
+견적요청합니다
+2,109,000원
+[14:26]
+견적요청합니다
+2,028,000원
+[25] (111,222)<button class='btn_cate' />
+[26] (158,219)<a class='link_nav' href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16'>PC견적 />
+[27] (209,219)<a class='link_nav' href='https://shop.danawa.com/pc/'>역경매 />
+[28] (261,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/'>조립PC />
+[29] (319,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=5'>게임용PC />
+[30] (375,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=12'>노트북 />
+[31] (442,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=25'>가정/사무용PC />
+[32] (520,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=23'>전문가용PC />
+[33] (588,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=36'>무이자PC />
+[34] (646,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=usedMarket'>중고PC />
+[35] (698,219)<a class='link_nav' href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=41'>딜러몰 />
+[36] (760,219)<a class='link_nav' href='https://shop.danawa.com/shopmain/?controller=main&methods=serviceMain&serviceGroupCode=46'>기업구매상담 />
+[37] (827,219)<a class='link_nav' href='https://shop.danawa.com/main/?controller=used&methods=index'>중고매입 />
+[38] (886,219)<a class='link_nav' href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=256'>이벤트 />
+	[39] (901,219)<span >외부 링크 />
+[40] (500,314)<a href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12103' />
+	[41] (500,314)<img  />
+[42] (49,509)<a class='link__banner' href='https://shop.danawa.com/shopmain/?controller=goods&methods=index&categorySeq=12820' />
+	[43] (49,509)<img  />
+[44] (49,757)<img  />
+[45] (946,447)<a class='wing-box__link' href='https://buyer.danawa.com/cart/Carts/cartList' />
+	[46] (946,475)<span >장바구니 />
+	[47] (956,415)<span >0 />
+[48] (946,545)<a class='wing-box__link' href='https://shop.danawa.com/main/?controller=estimate&methods=estimateList' />
+	[49] (946,572)<span >관심상품 />
+최근본
+상품
+상품이
+없습니다.
+[50] (946,838)<a class='sub-wing__link' href='https://buyer.danawa.com/order/Order/shopOrders/viewType/orderList'>주문/배송 />
+[51] (946,884)<a class='sub-wing__link' href='//help.danawa.com/'>고객센터 />
+[52] (947,979)<a class='bnr-wing__link' href='https://pc26.danawa.com/bbs/?controller=board&methods=getBoardList&boardSeq=194' />
+[53] (963,968)<button class='btn_close' id='topDownWingBannerBtnClose' />
+HOT
+[54] (156,404)<a class='smart_banner' />
+	[55] (156,483)<img  />
+NEW
+[56] (295,404)<a class='smart_banner' />
+	[57] (295,483)<img  />
+[58] (435,404)<a class='smart_banner' />
+	[59] (435,483)<img  />
+[60] (574,404)<a class='smart_banner' />
+	[61] (574,483)<img  />
+[62] (626,481)<button class='btn_next' />
+[63] (104,481)<button class='btn_prev' />
+4
+/
+4
+[64] (893,427)<button class='button__control' />
+[65] (896,481)<button aria-label='Next slide' class='btn_next' role='button' />
+[66] (665,481)<button aria-label='Previous slide' class='btn_prev' role='button' />
+[67] (352,647)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[68] (626,647)<button class='btn_search'>검색 />
+	검색
+CPU
+상품개수 :
+1362개
+[69] (600,726)<button class='search_option_all'>옵션 전체보기 />
+제조사
+[70] (189,800)<label class='item_checkbox'>인텔 />
+	인텔
+[71] (275,800)<label class='item_checkbox'>AMD />
+	AMD
+인텔 CPU종류
+[72] (614,834)<button class='btn_item_more'>개 />
+	[73] (604,833)<strong >61 />
+[74] (212,839)<label class='item_checkbox'>코어 울트라9(S2) />
+	코어 울트라9(S2)
+[75] (295,839)<label class='item_checkbox'>코어 울트라7(S2) />
+	코어 울트라7(S2)
+[76] (379,839)<label class='item_checkbox'>코어 울트라5(S2) />
+	코어 울트라5(S2)
+[77] (457,839)<label class='item_checkbox'>코어i9-14세대 />
+	코어i9-14세대
+[78] (540,839)<label class='item_checkbox'>코어i7-14세대 />
+	코어i7-14세대
+코어i5-14세대
+코어i3-14세대
+코어i9-13세대
+코어i7-13세대
+코어i5-13세대
+코어i3-13세대
+프로세서
+코어i9-12세대
+코어i7-12세대
+코어i5-12세대
+코어i3-12세대
+코어i9-11세대
+코어i7-11세대
+코어i5-11세대
+코어i9-10세대
+코어i7-10세대
+코어i5-10세대
+코어i3-10세대
+코어X-시리즈
+코어i9-9세대
+AMD CPU종류
+[79] (614,873)<button class='btn_item_more'>개 />
+	[80] (604,872)<strong >31 />
+[81] (207,877)<label class='item_checkbox'>라이젠9-6세대 />
+	라이젠9-6세대
+[82] (290,877)<label class='item_checkbox'>라이젠7-6세대 />
+	라이젠7-6세대
+[83] (374,877)<label class='item_checkbox'>라이젠5-6세대 />
+	라이젠5-6세대
+[84] (457,877)<label class='item_checkbox'>라이젠9-5세대 />
+	라이젠9-5세대
+[85] (540,877)<label class='item_checkbox'>라이젠7-5세대 />
+	라이젠7-5세대
+라이젠5-5세대
+라이젠7-4세대
+라이젠5-4세대
+라이젠9-4세대
+라이젠3-4세대
+라이젠9-3세대
+라이젠7-3세대
+라이젠5-3세대
+라이젠3-3세대
+라이젠 스레드리퍼 PRO
+라이젠 스레드리퍼
+라이젠7 PRO
+라이젠5 PRO
+라이젠3 PRO
+애슬론 APU
+소켓 구분
+[86] (614,912)<button class='btn_item_more'>개 />
+	[87] (603,910)<strong >26 />
+[88] (208,916)<label class='item_checkbox'>인텔(소켓1851) />
+	인텔(소켓1851)
+[89] (292,916)<label class='item_checkbox'>인텔(소켓1700) />
+	인텔(소켓1700)
+[90] (376,916)<label class='item_checkbox'>인텔(소켓1200) />
+	인텔(소켓1200)
+[91] (460,916)<label class='item_checkbox'>AMD(소켓AM5) />
+	AMD(소켓AM5)
+[92] (544,916)<label class='item_checkbox'>AMD(소켓AM4) />
+	AMD(소켓AM4)
+인텔(소켓4677)
+인텔(소켓4189)
+인텔(소켓3647)
+인텔(소켓2066)
+인텔(소켓1151v2)
+인텔(소켓1151)
+인텔(소켓2011-V3)
+인텔(소켓2011)
+인텔(소켓1366)
+인텔(소켓1150)
+코어 수
+[93] (614,951)<button class='btn_item_more'>개 />
+	[94] (604,949)<strong >21 />
+[95] (194,955)<label class='item_checkbox'>24코어 />
+	24코어
+[96] (278,955)<label class='item_checkbox'>20코어 />
+	20코어
+[97] (360,955)<label class='item_checkbox'>16코어 />
+	16코어
+14코어
+12코어
+10코어
+8코어
+6코어
+4코어
+96코어
+스레드 수
+[98] (614,989)<button class='btn_item_more'>개 />
+	[99] (603,988)<strong >26 />
+[100] (198,994)<label class='item_checkbox'>32스레드 />
+	32스레드
+[101] (281,994)<label class='item_checkbox'>28스레드 />
+	28스레드
+[102] (365,994)<label class='item_checkbox'>24스레드 />
+	24스레드
+20스레드
+16스레드
+[103] (716,643)<a href='javascript:;'>현금 최저가 />
+[104] (845,643)<a href='javascript:;'>카드 최저가 />
+[105] (689,708)<a href='javascript:;' role='button'>견적카트 />
+[106] (801,708)<a class='btn__estimate-login checkLogin' href='javascript:;'>로그인하여 저장한 견적들을 확인해보세요. />
+[107] (781,1644)<div class='pd_list_area' scrollable='true' />
+	PC 주요구성
+	[108] (809,783)<a class='btn_close_cell' />
+	[109] (776,851)<a class='pd_item_title' href='#'>CPU />
+	[110] (776,922)<a class='pd_item_title' href='#'>쿨러/튜닝 />
+	[111] (776,993)<a class='pd_item_title' href='#'>메인보드 />
+
+</current_dom>

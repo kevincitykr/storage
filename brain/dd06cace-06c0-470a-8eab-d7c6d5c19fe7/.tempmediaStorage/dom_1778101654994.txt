@@ -1,0 +1,147 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,46)<a class='link' href='https://www.naver.com' />
+	[1] (150,46)<i  />
+[2] (379,40)<fieldset  />
+	[3] (340,46)<input class='box_window' id='nx_query' placeholder='검색어를 입력해 주세요.' role='combobox' />
+	[4] (575,46)<button class='bt_search' />
+		[5] (572,46)<i  />
+	[6] (530,46)<a class='bt_setkr' href='#' id='ke_kbd_btn' role='button' />
+		[7] (528,46)<i  />
+	[8] (546,44)<a class='bt_atcp _btn_arw' href='#' id='nautocomplete' role='button' />
+		[9] (546,47)<i  />
+[10] (943,46)<a class='gnb_btn_login' href='https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3Dsite%253Adaangn.com%2B%252214700%2522%2B%25EB%25B3%25B8%25EC%25B2%25B4%2B%25EC%2584%259C%25EC%259A%25B8%26ssc%3Dtab.nx.all%26st%3Ddate' id='gnb_login_button' />
+	[11] (943,46)<span >로그인 />
+[12] (975,45)<a class='gnb_service' href='javascript:;' />
+	[13] (975,46)<span  />
+[14] (348,136)<div class='api_flicking_wrap _conveyer_root' role='tablist' scrollable='true' />
+	[15] (164,136)<a class='tab' href='?ssc=tab.blog.all&sm=tab_jum&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8' role='tab'>블로그 />
+	[16] (208,136)<a class='tab' href='?ssc=tab.cafe.all&sm=tab_jum&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8' role='tab'>카페 />
+	[17] (251,136)<a class='tab' href='?ssc=tab.image.all&where=image&sm=tab_jum&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8' role='tab'>이미지 />
+	[18] (294,136)<a class='tab' href='?ssc=tab.clip.all&sm=tab_jum&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8' role='tab'>클립 />
+	[19] (338,136)<a class='tab' href='?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8' role='tab'>지식iN />
+	[20] (396,136)<a class='tab' href='?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8' role='tab'>인플루언서 />
+	[21] (453,136)<a class='tab' href='?ssc=tab.video.all&where=video&sm=tab_jum&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8' role='tab'>동영상 />
+	[22] (497,136)<a class='tab' href='https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8' role='tab'>쇼핑 />
+	뉴스
+	숏텐츠
+	어학사전
+	지도
+	도서
+	지식백과
+	학술정보
+[23] (542,136)<a class='btn' href='#' role='button' />
+	[24] (542,136)<span  />
+		[25] (543,136)<i  />
+[26] (574,136)<a class='nav_more _more_btn' href='#' role='button' />
+	[27] (574,138)<i  />
+[28] (967,137)<a class='spnew2_bf bt_share naver-splugin' href='#' id='spiButton2' role='button'>공유 />
+site:daangn.com "14700" 본체 서울 검색 결과
+'site:daangn.com "14700" 본체 서울'
+에 대한 상세검색 결과를 보시겠습니까?
+[29] (195,286)<a class='more_link' href='?ssc=tab.nx.all&where=nexearch&query=site%3Adaangn.com+%2214700%22+%EB%B3%B8%EC%B2%B4+%EC%84%9C%EC%9A%B8&sm=tab_dgs&qdt=1'>상세 검색결과 보기 />
+[30] (245,393)<a class='fender-ui_228e3bd1 fuEeTheWo1xOLE_hhlBU' href='https://www.daangn.com/kr/community/?in=%EC%96%91%EC%9E%AC2%EB%8F%99-379' />
+	[31] (245,393)<div  />
+		[32] (245,393)<div  />
+			[33] (161,393)<div  />
+				[34] (161,393)<div  />
+					[35] (161,393)<div  />
+						[36] (161,393)<img  />
+			[37] (183,393)<div  />
+				[38] (183,393)<span >당근 />
+			[39] (266,393)<div  />
+				[40] (196,393)<span  />
+				[41] (269,393)<span  />
+					[42] (269,393)<div  />
+						[43] (238,393)<span >www.daangn.com />
+						[44] (280,393)<span >› />
+						[45] (310,393)<span >양재2동-379 />
+[46] (564,393)<button aria-label='옵션 메뉴 열기' class='sds-comps-horizontal-layout sds-comps-inline-layout sds-comps-button sds-comps-icon-button fender-ui_e68fe790 _keep_trigger' />
+[47] (243,444)<a class='fender-ui_228e3bd1 Vs01_8vbOgzyFOyfPRes' href='https://www.daangn.com/kr/community/?in=%EC%96%91%EC%9E%AC2%EB%8F%99-379' />
+	[48] (243,444)<span >특별시 서초구 양재2동 이야기 />
+		[49] (165,444)<mark >서울 />
+[50] (359,525)<a class='fender-ui_228e3bd1 NrNsKK5xRK0ahHLzIJLL' href='https://www.daangn.com/kr/community/?in=%EC%96%91%EC%9E%AC2%EB%8F%99-379' />
+	[51] (359,525)<span >신세계 강남 불가리 셀러 ; 강남구 가구 용달 ; 수리하려고 ; 뉴스킨 어필리에이트 문의 ; Structure reading, Debate and Writing lesson for 8 years old boy ; 카메라 수리 괜찮은 곳 ; 움직이는 편의점 있다 ; 오늘 저녁에 같이 서로 인스타 업로드용 사진 서로 찍어주실분 구합니다 !! ; 통돌이 세탁기 이전 설치 양재 > 역삼(5.6km) ; 네일 너무 맘에들어!😍🥹 />
+[52] (283,641)<a class='fender-ui_228e3bd1 fuEeTheWo1xOLE_hhlBU' href='https://www.daangn.com/kr/buy-sell/%EB%B9%84%EB%B9%84%EC%B4%88-%EA%B0%80%EB%B0%A9-e8iwtj3oshiw/' />
+	[53] (283,641)<div  />
+		[54] (283,641)<div  />
+			[55] (161,641)<div  />
+				[56] (161,641)<div  />
+					[57] (161,641)<div  />
+						[58] (161,641)<img  />
+			[59] (183,641)<div  />
+				[60] (183,641)<span >당근 />
+			[61] (304,641)<div  />
+				[62] (196,641)<span  />
+				[63] (307,641)<span  />
+					[64] (307,641)<div  />
+						[65] (238,641)<span >www.daangn.com />
+						[66] (280,641)<span >› />
+						[67] (303,641)<span >중고거래 />
+						[68] (326,641)<span >› />
+						[69] (372,641)<span >비비초 복조리 가방 />
+[70] (564,641)<button aria-label='옵션 메뉴 열기' class='sds-comps-horizontal-layout sds-comps-inline-layout sds-comps-button sds-comps-icon-button fender-ui_e68fe790 _keep_trigger' />
+[71] (232,693)<a class='fender-ui_228e3bd1 Vs01_8vbOgzyFOyfPRes' href='https://www.daangn.com/kr/buy-sell/%EB%B9%84%EB%B9%84%EC%B4%88-%EA%B0%80%EB%B0%A9-e8iwtj3oshiw/' />
+	[72] (232,693)<span >비비초 복조리 가방 | 여성잡화 />
+[73] (359,739)<a class='fender-ui_228e3bd1 NrNsKK5xRK0ahHLzIJLL' href='https://www.daangn.com/kr/buy-sell/%EB%B9%84%EB%B9%84%EC%B4%88-%EA%B0%80%EB%B0%A9-e8iwtj3oshiw/' />
+	[74] (359,739)<span >경기 수원시 장안구 율전동 근처 인기 중고거래 />
+[75] (359,825)<a class='fender-ui_228e3bd1 NrNsKK5xRK0ahHLzIJLL' href='https://www.daangn.com/kr/buy-sell/%EB%B9%84%EB%B9%84%EC%B4%88-%EA%B0%80%EB%B0%A9-e8iwtj3oshiw/' />
+	[76] (359,825)<div  />
+		[77] (359,785)<div  />
+			[78] (359,785)<div  />
+				[79] (363,785)<span >삼성 980 PRO 500GB NVMe M.2 SSD 팝니다. 75,000원 · 율천동·18시간 전 />
+		[80] (359,825)<div  />
+			[81] (359,825)<div  />
+				[82] (363,825)<span >그레이트북스 이야기꽃할망 전래동화 전집 · 120,000원 · 정자2동·2일 전 />
+		[83] (359,866)<div  />
+			[84] (359,866)<div  />
+				[85] (363,866)<span >2단 파라솔 네이비 · 정자동·2일 전 />
+[86] (296,947)<a class='fender-ui_228e3bd1 fuEeTheWo1xOLE_hhlBU' href='https://www.daangn.com/kr/buy-sell/%ED%83%80%EC%A6%88-%EC%96%91%ED%84%B8-%EC%8A%AC%EB%A6%AC%ED%8D%BC-240mm-fgk1t69k5f1o/' />
+	[87] (296,947)<div  />
+		[88] (296,947)<div  />
+			[89] (161,947)<div  />
+				[90] (161,947)<div  />
+					[91] (161,947)<div  />
+						[92] (161,947)<img  />
+			[93] (183,947)<div  />
+				[94] (183,947)<span >당근 />
+			[95] (317,947)<div  />
+				[96] (196,947)<span  />
+				[97] (320,947)<span  />
+					[98] (320,947)<div  />
+						[99] (238,947)<span >www.daangn.com />
+						[100] (280,947)<span >› />
+						[101] (303,947)<span >중고거래 />
+						[102] (326,947)<span >› />
+						[103] (385,947)<span >타즈 양털 슬리퍼 240mm />
+[104] (564,947)<button aria-label='옵션 메뉴 열기' class='sds-comps-horizontal-layout sds-comps-inline-layout sds-comps-button sds-comps-icon-button fender-ui_e68fe790 _keep_trigger' />
+[105] (261,999)<a class='fender-ui_228e3bd1 Vs01_8vbOgzyFOyfPRes' href='https://www.daangn.com/kr/buy-sell/%ED%83%80%EC%A6%88-%EC%96%91%ED%84%B8-%EC%8A%AC%EB%A6%AC%ED%8D%BC-240mm-fgk1t69k5f1o/' />
+	[106] (261,999)<span >타즈 양털 슬리퍼 240mm | 남성패션/잡화 />
+[107] (747,272)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001' />
+	[108] (642,272)<div  />
+		[109] (642,272)<img  />
+	[110] (758,272)<div  />
+		[111] (758,259)<strong >좋아하는 건 누구나 남기고 싶으니까 />
+		[112] (758,285)<p >클립 올리면 매주 쌓이는 Npay 포인트 />
+[113] (747,373)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2604-shopping-004&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F69b749ff027d292a723a040c%3FlayerId%3DL_260324110101827%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2604-shopping-004' />
+	[114] (642,374)<div  />
+		[115] (642,374)<img  />
+	[116] (758,374)<div  />
+		[117] (758,361)<strong >가정의달+세일 />
+		[118] (758,386)<p >선물에 진심, 혜택에 진심 N+스토어 />
+[119] (747,475)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2509-shopping-007&target=https%3A%2F%2Fshopping.naver.com%2Fns%2Fhome%2Fkurlynmart%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2509-shopping-007' />
+	[120] (642,475)<div  />
+		[121] (642,475)<img  />
+	[122] (758,475)<div  />
+		[123] (758,462)<strong >네이버에서 컬리를 />
+		[124] (758,488)<p >멤버십 2만원 이상 무료배송 />
+[125] (747,577)<a class='spnew_bf item' href='https://naver.me/FWTmTscE' />
+	[126] (642,577)<div  />
+		[127] (642,577)<img  />
+	[128] (758,577)<div  />
+		[129] (758,564)<strong >네이버가 더 편해지는 순간 />
+		[130] (758,590)<p >웨일 브라우저 알아보기 />
+
+</current_dom>

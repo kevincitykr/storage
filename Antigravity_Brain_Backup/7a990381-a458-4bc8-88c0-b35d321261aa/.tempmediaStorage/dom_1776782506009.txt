@@ -1,0 +1,23 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (120,46)<a class='navbar-brand' href='/' id='js-animation-logo' />
+	[1] (120,46)<img  />
+[2] (940,46)<button aria-label='Toggle navigation' class='navbar-toggler' />
+	[3] (940,46)<span  />
+There are many ways to discover products on Aliexpress.
+We could use the
+search
+system to find products we want to scrape or explore many product
+categories
+. Whichever approach we take our key target is all the same - scrape product previews and pagination.
+Let's take a look at Aliexpress listing page that is used in the search or category view:
+If we take a look at the page source of either search or category page we can see that all the product previews are stored in a javascript variable
+window.runParams
+tucked away in the
+<script>
+tag in the HTML source of the page:
+We can see product preview data by exploring page source in our browser
+
+</current_dom>

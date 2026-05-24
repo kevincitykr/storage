@@ -1,0 +1,63 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Repository files navigation
+[0] (136,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[1] (115,27)<span  />
+	[2] (144,27)<span >README />
+[3] (210,27)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[4] (183,27)<span  />
+	[5] (217,27)<span >MIT license />
+[6] (678,26)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[7] (397,413)<div  />
+	4. 🔗 설치형 모델 자동 감지 (Dynamic Model Detection)
+	Ollama 또는 LM Studio에 설치된 모델을 내부 API(
+	v1/models
+	)를 호출하여 자동 감지하고, UI의 스위치 보드(드롭다운)에 연결합니다. 어떤 모델을 쓸지 번거롭게 입력하지 마십시오.
+	⚒️ Agent Capabilities (에이전트 권한)
+	[8] (111,200)<a aria-label='Permalink: ⚒️ Agent Capabilities (에이전트 권한)' class='anchor' href='#️-agent-capabilities-에이전트-권한' id='user-content-️-agent-capabilities-에이전트-권한' />
+	로컬 머신의 파일 시스템과 터미널에 대한 통제권을 인공지능에게 부여합니다. (100% 안전한 권한 승인 기반)
+	Action
+	Description
+	📄 Create Files
+	새로운 파일과 폴더를 생성합니다
+	✏️ Edit Files
+	기존 파일 내의 코드를 수정합니다
+	🗑️ Delete Files
+	불필요한 파일을 즉각 파쇄합니다
+	📖 Read Files
+	마스터의 프로젝트 파일을 읽어 맥락을 파악합니다
+	📂 Browse Directories
+	디렉토리 구조를 분석합니다
+	🖥️ Run Commands
+	npm run build
+	,
+	git push
+	등 터미널 명령을 수행합니다
+	📥 Installation (설치 방법)
+	[9] (111,656)<a aria-label='Permalink: 📥 Installation (설치 방법)' class='anchor' href='#-installation-설치-방법' id='user-content--installation-설치-방법' />
+	A.U 멤버십 유저 (Recommended)
+	[10] (111,724)<a aria-label='Permalink: A.U 멤버십 유저 (Recommended)' class='anchor' href='#au-멤버십-유저-recommended' id='user-content-au-멤버십-유저-recommended' />
+	상단 탭의
+	[11] (206,769)<a href='https://github.com/wonseokjung/connect-ai/releases'>Releases />
+	메뉴로 진입.
+	최신
+	v2.1.30.vsix
+	파일을 다운로드.
+	VS Code 에서
+	Cmd+Shift+P
+	→
+	Extensions: Install from VSIX
+	→ 다운받은 파일 선택
+	개발자 빌드 (Build from Source)
+	[12] (111,886)<a aria-label='Permalink: 개발자 빌드 (Build from Source)' class='anchor' href='#개발자-빌드-build-from-source' id='user-content-개발자-빌드-build-from-source' />
+	git clone https://github.com/wonseokjung/connect-ai.git
+	cd
+	connect-ai
+npm install
+npm run compile
+npx vsce package
+	[13] (659,943)<clipboard-copy aria-label='Copy' class='ClipboardButton btn btn-invisible js-clipboard-copy m-2 p-0 d-flex flex-justify-center flex-items-center' role='button' />
+
+</current_dom>

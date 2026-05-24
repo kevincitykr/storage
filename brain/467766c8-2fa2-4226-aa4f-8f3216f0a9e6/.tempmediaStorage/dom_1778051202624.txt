@@ -1,0 +1,277 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (335,125)<a class='inline shrink-0' href='/search/%EB%A0%88%EA%B3%A0%20%EC%BB%A4%EC%8A%A4%ED%85%80' />
+	[6] (335,125)<span >레고 커스텀 />
+		[7] (317,125)<span >11
+. />
+[8] (391,125)<a class='inline shrink-0' href='/search/%EB%B2%84%EC%A6%884%ED%94%84%EB%A1%9C' />
+	[9] (391,125)<span >버즈4프로 />
+		[10] (375,125)<span >12
+. />
+[11] (436,125)<a class='inline shrink-0' href='/search/%EB%8D%98%EC%8A%A4' />
+	[12] (436,125)<span >던스 />
+		[13] (429,125)<span >13
+. />
+[14] (477,125)<a class='inline shrink-0' href='/search/%EB%AF%B8%EB%8B%88pc' />
+	[15] (477,125)<span >미니pc />
+		[16] (465,125)<span >14
+. />
+[17] (527,125)<a class='inline shrink-0' href='/search/7800x3d' />
+	[18] (527,125)<span >7800x3d />
+		[19] (510,125)<span >15
+. />
+[20] (666,69)<a href='/search?keyword=4070+%EB%B3%B8%EC%B2%B4&minPrice=1300000&maxPrice=1600000&openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+추천순
+최신순
+낮은가격순
+높은가격순
+[35] (239,318)<div  />
+	[36] (239,318)<a class='w-full' href='/product/228220633' />
+		[37] (239,318)<div  />
+			[38] (239,242)<div  />
+				[39] (239,242)<div  />
+				[40] (284,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[41] (239,457)<div  />
+				[42] (239,438)<div  />
+					[43] (239,418)<span >컴퓨터 본체 삽니다 7500f 32g 4070이상 />
+					[44] (239,468)<div  />
+						[45] (239,468)<div  />
+							[46] (208,468)<span >1,300,000 />
+							[47] (241,470)<span >원 />
+				[48] (239,511)<div  />
+					[49] (239,511)<div  />
+						[50] (197,511)<div  />
+							[51] (187,511)<div  />
+								[52] (193,511)<span >1 />
+							[53] (205,511)<div  />
+								[54] (211,511)<span >2 />
+						[55] (218,511)<div  />
+						[56] (237,511)<span >2시간 전 />
+[57] (369,318)<div  />
+	[58] (369,318)<a class='w-full' href='/product/227575281' />
+		[59] (369,318)<div  />
+			[60] (369,242)<div  />
+				[61] (369,242)<div  />
+				[62] (415,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[63] (369,457)<div  />
+				[64] (369,438)<div  />
+					[65] (369,418)<span >7800x3d, 4070ti or 4070 super, 32기가 램 완본체 사요 />
+					[66] (369,468)<div  />
+						[67] (369,468)<div  />
+							[68] (339,468)<span >1,400,000 />
+							[69] (372,470)<span >원 />
+				[70] (369,511)<div  />
+					[71] (369,511)<div  />
+						[72] (327,511)<div  />
+							[73] (318,511)<div  />
+								[74] (324,511)<span >2 />
+							[75] (337,511)<div  />
+								[76] (343,511)<span >1 />
+						[77] (349,511)<div  />
+						[78] (366,511)<span >20일 전 />
+[79] (500,318)<div  />
+	[80] (500,304)<a class='w-full' href='/product/213469594' />
+		[81] (500,304)<div  />
+			[82] (500,242)<div  />
+				[83] (500,242)<div  />
+				[84] (546,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[85] (500,442)<div  />
+				[86] (500,424)<div  />
+					[87] (500,403)<span >게이밍 컴퓨터 본체 (RTX 4070) />
+					[88] (500,439)<div  />
+						[89] (500,439)<div  />
+							[90] (470,439)<span >1,300,000 />
+							[91] (502,441)<span >원 />
+				[92] (500,483)<div  />
+					[93] (500,483)<div  />
+						[94] (463,483)<div  />
+							[95] (452,483)<div  />
+								[96] (457,483)<span >25 />
+							[97] (475,483)<div  />
+								[98] (481,483)<span >19 />
+[99] (631,318)<div  />
+	[100] (631,318)<a class='w-full' href='/product/228081405' />
+		[101] (631,318)<div  />
+			[102] (631,242)<div  />
+				[103] (631,242)<div  />
+				[104] (677,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[105] (631,457)<div  />
+				[106] (631,438)<div  />
+					[107] (631,418)<span >라이젠7500F + RTX4070 미니PC 조립컴퓨터 본체 />
+					[108] (631,468)<div  />
+						[109] (631,468)<div  />
+							[110] (600,468)<span >1,550,000 />
+							[111] (633,470)<span >원 />
+				[112] (631,511)<div  />
+					[113] (631,511)<div  />
+						[114] (589,511)<div  />
+							[115] (580,511)<div  />
+								[116] (585,511)<span >5 />
+							[117] (598,511)<div  />
+								[118] (604,511)<span >1 />
+						[119] (610,511)<div  />
+						[120] (629,511)<span >4시간 전 />
+[121] (761,318)<div  />
+	[122] (761,318)<a class='w-full' href='/product/228241928' />
+		[123] (761,318)<div  />
+			[124] (761,242)<div  />
+				[125] (761,242)<div  />
+				[126] (807,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[127] (761,457)<div  />
+				[128] (761,438)<div  />
+					[129] (761,418)<span >부산 i5 13500 / rtx4070 컴퓨터 본체 데스크탑 pc />
+					[130] (761,468)<div  />
+						[131] (761,468)<div  />
+							[132] (731,468)<span >1,450,000 />
+							[133] (764,470)<span >원 />
+				[134] (761,511)<div  />
+					[135] (761,511)<div  />
+						[136] (720,511)<div  />
+							[137] (711,511)<div  />
+								[138] (716,511)<span >3 />
+							[139] (729,511)<div  />
+								[140] (735,511)<span >1 />
+						[141] (741,511)<div  />
+						[142] (760,511)<span >6시간 전 />
+[143] (239,784)<div  />
+	[144] (239,759)<a class='w-full' href='/product/228247826' />
+		[145] (239,759)<div  />
+			[146] (239,683)<div  />
+				[147] (239,683)<div  />
+				[148] (284,784)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[149] (239,898)<div  />
+				[150] (239,879)<div  />
+					[151] (239,859)<span >7800X3D , 4070TiSUPER PC본체 팝니다 />
+					[152] (239,910)<div  />
+						[153] (239,910)<div  />
+							[154] (208,910)<span >1,300,000 />
+							[155] (241,911)<span >원 />
+				[156] (239,953)<div  />
+					[157] (239,953)<div  />
+						[158] (197,953)<div  />
+							[159] (188,953)<div  />
+								[160] (193,953)<span >4 />
+							[161] (207,953)<div  />
+								[162] (213,953)<span >7 />
+						[163] (219,953)<div  />
+						[164] (238,953)<span >7시간 전 />
+[165] (369,784)<div  />
+	[166] (369,759)<a class='w-full' href='/product/226404083' />
+		[167] (369,759)<div  />
+			[168] (369,683)<div  />
+				[169] (369,683)<div  />
+				[170] (415,784)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[171] (369,898)<div  />
+				[172] (369,879)<div  />
+					[173] (369,859)<span >i7-12700K RTX4070 본체 판매합니다 />
+					[174] (369,910)<div  />
+						[175] (369,910)<div  />
+							[176] (339,910)<span >1,500,000 />
+							[177] (372,911)<span >원 />
+				[178] (369,953)<div  />
+					[179] (369,953)<div  />
+						[180] (328,953)<div  />
+							[181] (319,953)<div  />
+								[182] (324,953)<span >4 />
+							[183] (338,953)<div  />
+								[184] (344,953)<span >2 />
+[185] (500,784)<div  />
+	[186] (500,784)<a class='w-full' href='/product/225659656' />
+		[187] (500,784)<div  />
+			[188] (500,683)<div  />
+				[189] (500,683)<div  />
+				[190] (546,784)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[191] (500,923)<div  />
+				[192] (500,879)<div  />
+					[193] (500,859)<span >i7-12700K RTX4070 32GB 본체 팝니다 />
+					[194] (500,910)<div  />
+						[195] (500,910)<div  />
+							[196] (470,910)<span >1,500,000 />
+							[197] (502,911)<span >원 />
+				[198] (500,977)<div  />
+					[199] (500,953)<div  />
+						[200] (449,953)<div  />
+							[201] (449,953)<div  />
+								[202] (455,953)<span >7 />
+					[203] (500,999)<div  />
+						[204] (456,999)<div  />
+							[205] (456,999)<span >무료배송 />
+[206] (631,784)<div  />
+	[207] (631,784)<a class='w-full' href='/product/225659635' />
+		[208] (631,784)<div  />
+			[209] (631,683)<div  />
+				[210] (631,683)<div  />
+				[211] (677,784)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[212] (631,923)<div  />
+				[213] (631,879)<div  />
+					[214] (631,859)<span >i5-12400F 32GB RTX4070 본체 팝니다 />
+					[215] (631,910)<div  />
+						[216] (631,910)<div  />
+							[217] (600,910)<span >1,300,000 />
+							[218] (633,911)<span >원 />
+				[219] (631,977)<div  />
+					[220] (631,953)<div  />
+						[221] (591,953)<div  />
+							[222] (581,953)<div  />
+								[223] (587,953)<span >11 />
+							[224] (601,953)<div  />
+								[225] (607,953)<span >7 />
+					[226] (631,999)<div  />
+						[227] (587,999)<div  />
+							[228] (587,999)<span >무료배송 />
+[229] (761,784)<div  />
+	[230] (761,759)<a class='w-full' href='/product/222647858' />
+		[231] (761,759)<div  />
+			[232] (761,683)<div  />
+				[233] (761,683)<div  />
+				[234] (807,784)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[235] (761,898)<div  />
+				[236] (761,879)<div  />
+					[237] (761,859)<span >7800x3d rtx4070ti super 게이밍 본체 />
+					[238] (761,910)<div  />
+						[239] (761,910)<div  />
+							[240] (731,910)<span >1,450,000 />
+							[241] (764,911)<span >원 />
+				[242] (761,953)<div  />
+					[243] (761,953)<div  />
+						[244] (725,953)<div  />
+							[245] (713,953)<div  />
+								[246] (719,953)<span >24 />
+							[247] (737,953)<div  />
+								[248] (743,953)<span >56 />
+[249] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[250] (854,907)<div  />
+		[251] (903,907)<div  />
+[252] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[253] (902,799)<span  />
+
+</current_dom>

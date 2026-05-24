@@ -1,0 +1,49 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+(unknown device)
+[0] (698,37)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (675,38)<span  />
+	[2] (697,37)<span >English />
+	[3] (722,41)<span  />
+[4] (765,37)<a class='dropdown-toggle' href='#' />
+	[5] (748,38)<span  />
+	[6] (767,37)<span >Help />
+	[7] (784,41)<span  />
+[8] (834,37)<a class='dropdown-toggle' href='#' />
+	[9] (811,38)<span  />
+	[10] (835,37)<span >Actions />
+	[11] (859,41)<span  />
+Folders
+[12] (456,252)<button class='btn btn-sm btn-default' />
+	[13] (433,254)<span  />
+	[14] (461,251)<span >Add Folder />
+This Device
+[15] (690,243)<button class='btn panel-heading' />
+	[16] (526,243)<identicon  />
+Download Rate
+[17] (843,301)<a class='toggler ng-binding' href='#'>(0 B) />
+	[18] (831,301)<span >0 B/s />
+Upload Rate
+[19] (843,341)<a class='toggler ng-binding' href='#'>(0 B) />
+	[20] (831,341)<span >0 B/s />
+Local State (Total)
+0
+0
+~0 B
+Listeners
+[21] (861,422)<a class='ng-binding'>0/ />
+Uptime
+<1m
+Identification
+Version
+Remote Devices
+[22] (719,715)<button class='btn btn-sm btn-default' />
+	[23] (686,717)<span  />
+	[24] (726,714)<span >Recent Changes />
+[25] (820,715)<button class='btn btn-sm btn-default' />
+	[26] (779,717)<span  />
+	[27] (824,714)<span >Add Remote Device />
+
+</current_dom>

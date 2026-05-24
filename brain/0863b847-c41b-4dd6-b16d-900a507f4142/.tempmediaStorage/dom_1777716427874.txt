@@ -1,0 +1,114 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+총
+561
+건
+[0] (272,428)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[1] (88,136)<a class='imgbox' href='javascript:detail_show('1153605')' title='[제품코드:1153605]' />
+	[2] (236,143)<a class='imgbox' href='javascript:detail_show('1153605')'>DDR5 / 32GB / 6000MHz (PC5-48000) / CL36-38-38-80 / 1.35V / 2개 묶음 / EXPO / XMP / 방열판 유 / 고성능 게임용 메모리 / PC용 / CP2K16G60C36U5W />
+		[3] (236,109)<b >[마이크론] Crucial DDR5 PC5-48000 CL36 PRO Overclocking White 대원씨티에스 [32GB (16GB*2)] (6000)[1153605] />
+	판매가격
+	711,000
+	[4] (453,147)<a class='buttons' href='javascript:select_basket('1153605','N',1);' id='basket1153605' />
+		[5] (453,147)<span >담기 />
+	[6] (88,302)<a class='imgbox' href='javascript:detail_show('1038507')' title='[제품코드:1038507]' />
+	[7] (236,280)<a class='imgbox' href='javascript:detail_show('1038507')'>DDR5 / 32GB / 5600MHz (PC5-44800) / 방열판 무 / PC용 />
+		[8] (236,268)<b >[삼성전자] 삼성 DDR5 PC5-44800 [32GB] (5600)[1038507] />
+	용산점 현장구매 가능 상품
+	가산점 현장구매 가능 상품
+	판매가격
+	727,500
+	[9] (453,302)<a class='buttons' href='javascript:check_delete_product_ls('1038507','N')' id='basket1038507' />
+		[10] (453,302)<span >해제 />
+	[11] (88,446)<a class='imgbox' href='javascript:detail_show('684580')' title='[제품코드:684580]' />
+	[12] (236,424)<a class='imgbox' href='javascript:detail_show('684580')'>DDR4 / 32GB / 3200MHz (PC4-25600) / 방열판 무 / PC용 />
+		[13] (236,413)<b >[삼성전자] 삼성 DDR4 PC4-25600 [32GB] (3200)[684580] />
+	용산점 현장구매 가능 상품
+	가산점 현장구매 가능 상품
+	판매가격
+	512,000
+	[14] (453,446)<a class='buttons' href='javascript:select_basket('684580','N',1);' id='basket684580' />
+		[15] (453,446)<span >담기 />
+	[16] (88,591)<a class='imgbox' href='javascript:detail_show('1153660')' title='[제품코드:1153660]' />
+	[17] (236,609)<a class='imgbox' href='javascript:detail_show('1153660')'>DDR5 / 32GB / 6000MHz (PC5-48000) / 2개 묶음 / 방열판 유 / CL30 / 램타이밍: CL30-40-40-96 / 1.35V / XMP3.0 / 고성능 게임용 메모리 / PC용 / AURA - SYNC / MYSTIC - LIGHT / RGB - FUSION / POLYCHROME - SYNC / F5-6000J3040F16GX2-RM5RK />
+		[18] (236,564)<b >[G.SKILL] DDR5 PC5-48000 CL30 RIPJAWS M5 RGB 블랙 [32GB (16GB*2)] (6000)[1153660] />
+	기획전
+	판매가격
+	879,000
+	[19] (453,632)<a class='buttons' href='javascript:select_basket('1153660','N',1);' id='basket1153660' />
+		[20] (453,632)<span >담기 />
+	[21] (236,790)<b >[삼성전자] 삼성 DDR5 PC5-44800 ECC/REG 서버용 [64GB] (5600)[1205143] />
+	DDR5-REG ECC / 64GB / 5600MHz (PC5-44800) / 방열판 무 / 서버용 / M321R8GA0PB0-CWM / M321R8GA0EB2-CWMKH
+	특송
+	판매가격
+	4,400,000
+	담기
+	[SK hynix] SK하이닉스 DDR5 PC5-44800 [32GB] (5600)[984267]
+	DDR5 / 32GB / 5600MHz (PC5-44800) / 방열판 무 / PC용
+	판매가격
+	733,000
+	담기
+[22] (140,843)<a class='num on' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',0,1);'>1 />
+[23] (165,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',50,2);'>2 />
+[24] (191,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',100,3);'>3 />
+[25] (217,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',150,4);'>4 />
+[26] (242,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',200,5);'>5 />
+[27] (268,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',250,6);'>6 />
+[28] (294,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',300,7);'>7 />
+[29] (319,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',350,8);'>8 />
+[30] (345,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',400,9);'>9 />
+[31] (371,843)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',450,10);'>10 />
+[32] (400,843)<a class='next' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',500,11);' />
+전체수량변경
+[33] (544,95)<label  />
+	[34] (526,94)<span  />
+		[35] (526,95)<input  />
+	[36] (551,94)<span >전체선택 />
+[37] (702,94)<a class='wbtn' href='javascript:add_wish_list();' />
+	[38] (702,95)<span >관심상품추가 />
+[39] (760,94)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[40] (760,95)<span >장바구니담기 />
+[41] (815,94)<a class='wbtn' />
+	[42] (815,95)<span >견적서출력 />
+[43] (871,94)<a class='wbtn' href='javascript:speck_form();' />
+	[44] (871,95)<span >사양검토요청 />
+[45] (919,94)<a class='wbtn' href='javascript:sess_init();' />
+	[46] (919,95)<span >초기화 />
+[47] (527,173)<label  />
+	[48] (527,172)<span  />
+		[49] (526,175)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[50] (560,172)<span >인텔 병행수입 />
+[51] (633,218)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[52] (853,200)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[53] (876,200)<input class='change__ea' id='Amount_1108547' />
+[54] (898,200)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[55] (922,200)<span class='delete' />
+[56] (527,299)<label  />
+	[57] (527,299)<span  />
+		[58] (526,301)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[59] (544,299)<span >PC용 />
+[60] (633,332)<a class='proname' href='javascript:detail_show('1038507')'>[삼성전자] 삼성 DDR5 PC5-44800 [32GB] (5600) />
+판매가격
+727,500
+[61] (853,314)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[62] (876,314)<input class='change__ea' id='Amount_1038507' />
+[63] (898,314)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />
+[64] (922,314)<span class='delete' />
+[65] (527,402)<label  />
+	[66] (527,402)<span  />
+		[67] (526,404)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[68] (562,402)<span >인텔 소켓 1700 />
+[69] (633,436)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[70] (680,437)<i  />
+판매가격
+174,150
+[71] (853,418)<a href='javascript:ea_down2('global_form','2','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',2)' />
+[72] (876,418)<input class='change__ea' id='Amount_1118926' />
+[73] (898,418)<a href='javascript:ea_up('global_form','2','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',2);' />
+[74] (922,418)<span class='delete' />
+
+</current_dom>

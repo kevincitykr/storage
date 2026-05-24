@@ -1,0 +1,243 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (99,37)<div class='x87ps6o x1b7c0jy x1ypdohk notion-sidebar-switcher' role='button' />
+		[2] (98,37)<div  />
+			[3] (20,37)<div  />
+				[4] (20,37)<div  />
+					[5] (20,38)<div  />
+						[6] (20,38)<div aria-label='k ' role='img' />
+							[7] (20,38)<div >k />
+			[8] (109,37)<div  />
+				[9] (109,37)<div  />
+					[10] (94,37)<div  />
+						[11] (94,37)<div  />
+							[12] (94,37)<div >kevincity님의 워크스페이스 />
+		[13] (191,37)<div  />
+	[14] (28,114)<div aria-label='홈' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xe2zdcy x2vl965 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' id='sidebar-tab-home' role='tab' />
+		[15] (20,114)<span  />
+		[16] (39,114)<span  />
+			[17] (39,114)<span  />
+				[18] (35,112)<span >홈 />
+	[19] (65,114)<div aria-label='채팅' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xe2zdcy x2vl965 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' id='sidebar-tab-chats' role='tab' />
+		[20] (65,114)<span  />
+		채팅
+	[21] (90,114)<div aria-label='회의' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xe2zdcy x2vl965 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' id='sidebar-tab-meetings' role='tab' />
+		[22] (90,114)<span  />
+		회의
+	[23] (115,114)<div aria-label='수신함' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xe2zdcy x2vl965 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' id='sidebar-tab-inbox' role='tab' />
+		[24] (115,114)<span  />
+		수신함
+	[25] (177,114)<div aria-label='검색' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+	[26] (99,460)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+		[27] (93,701)<div  />
+			[28] (93,275)<div  />
+				[29] (93,265)<div  />
+					[30] (93,189)<div class='x87ps6o x1b7c0jy x1ypdohk notion-outliner-shared-header' id=':r1ac:' role='button' />
+						[31] (25,189)<span >AI 노트 />
+						[32] (168,189)<div  />
+					[33] (93,290)<div  />
+						[34] (93,240)<div  />
+							[35] (93,240)<div  />
+								[36] (20,240)<div  />
+								[37] (104,240)<div >예정된 이벤트 없음 />
+						[38] (93,290)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+							[39] (93,290)<div  />
+								[40] (20,290)<div  />
+								[41] (104,290)<div >새 AI 노트 />
+						[42] (93,341)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+							[43] (93,341)<div  />
+								[44] (20,341)<div  />
+								[45] (104,341)<div >모두 보기 />
+			[46] (93,453)<div  />
+				[47] (93,453)<div  />
+					[48] (93,443)<div  />
+						[49] (93,417)<div class='x87ps6o x1b7c0jy x1ypdohk notion-outliner-recents-header' id=':r1ae:' role='button' />
+							[50] (29,417)<span >최근 항목 />
+							[51] (159,417)<div  />
+						[52] (93,469)<div class='x78zum5 xdt5ytf' id=':r1ad:' role='tree' />
+							[53] (93,469)<div  />
+								[54] (93,469)<a class='x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq' href='/Notion-34d626b1628e808cabdbed175028be1f?pvs=10' role='treeitem' />
+									[55] (93,469)<div  />
+										[56] (20,469)<div  />
+											[57] (20,469)<div  />
+												[58] (20,469)<div  />
+													[59] (20,469)<div  />
+														[60] (20,469)<div  />
+															[61] (20,469)<div  />
+																[62] (20,469)<img  />
+										[63] (104,469)<div  />
+											[64] (102,469)<div >Notion에 오신 것을 환영합니다! />
+			[65] (93,582)<div  />
+				[66] (93,572)<div  />
+					[67] (93,546)<div class='x87ps6o x1b7c0jy x1ypdohk notion-outliner-agents-header' id=':r1ag:' role='button' />
+						[68] (40,546)<span >에이전트 />
+							[69] (59,546)<span  />
+								[70] (59,546)<div  />
+									[71] (59,546)<a class='x1lliihq x1heor9g x1hl2dhg x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' href='https://www.notion.com/help/custom-agent' role='link' />
+										[72] (59,546)<div >베타 />
+						[73] (168,546)<div  />
+					[74] (93,598)<div  />
+						[75] (93,598)<div class='x78zum5 xdt5ytf' id=':r1af:' role='list' />
+							[76] (93,598)<div aria-label='새 에이전트' class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+								[77] (93,598)<div  />
+									[78] (20,598)<div  />
+									[79] (104,598)<div >새 에이전트 />
+			[80] (93,762)<div  />
+				[81] (93,762)<div  />
+					[82] (93,752)<div  />
+						[83] (93,674)<div class='x87ps6o x1b7c0jy x1ypdohk notion-outliner-private-header' id=':r1ai:' role='button' />
+							[84] (33,674)<span >개인 페이지 />
+							[85] (150,674)<div  />
+						[86] (93,726)<div  />
+							[87] (93,726)<a class='x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq' href='/Notion-34d626b1628e808cabdbed175028be1f?pvs=12' role='treeitem' />
+								[88] (93,726)<div  />
+									[89] (20,726)<div  />
+										[90] (20,726)<div  />
+											[91] (20,726)<div  />
+												[92] (20,726)<div  />
+													[93] (20,726)<div  />
+														[94] (20,726)<div  />
+															[95] (20,726)<img  />
+									[96] (104,726)<div  />
+										[97] (102,726)<div >Notion에 오신 것을 환영합니다! />
+						월별 가계부
+						주간 할 일 목록
+			공유된 페이지
+			공동 작업 시작하기
+	[98] (99,830)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+		[99] (99,830)<div  />
+			[100] (99,830)<div  />
+				[101] (26,813)<span  />
+				[102] (108,830)<div  />
+					[103] (108,830)<div  />
+						[104] (108,813)<div >멤버 초대 />
+						[105] (108,846)<div >팀원들과 협업하세요. />
+		[106] (173,810)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1qx5ct2 x25sj25 x1icxu4v xjwep3j x1t39747 x1wcsgtt x1pczhz8 xfifm61 x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+	[107] (81,940)<div aria-label='새 채팅' class='x87ps6o x1b7c0jy x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ha54eg x1ym9u1z x1gat650 x1t8z4yu x14rh7hd xd54fh8 x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+		[108] (81,940)<span  />
+			[109] (90,940)<span >새 채팅 />
+				[110] (109,940)<span  />
+					[111] (109,940)<span >Ctrl+O />
+	[112] (171,940)<div aria-label='새 페이지' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1td3qas x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+	[113] (201,500)<div aria-label='왼쪽 및 오른쪽 방향키로 크기 조정' role='separator' />
+	[114] (599,500)<div  />
+		[115] (599,37)<header  />
+			[116] (599,37)<div  />
+				[117] (288,37)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+					[118] (218,37)<div  />
+						[119] (218,37)<div  />
+							[120] (218,37)<div  />
+								[121] (218,37)<img  />
+					[122] (298,37)<div >Notion에 오신 것을 환영합니다! />
+				[123] (412,37)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+					[124] (414,37)<span >개인 페이지 />
+				[125] (897,37)<div aria-label='공유' class='x87ps6o x1b7c0jy x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xw09woa xmixu3c x1ha54eg x1ym9u1z x1gat650 x1t8z4yu x14rh7hd x1md70p1 x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-topbar-share-menu' role='button'>공유 />
+				[126] (939,37)<div aria-label='링크 복사하기' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+				[127] (960,37)<div aria-label='즐겨찾기' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-topbar-favorite-button' role='button' />
+				[128] (982,37)<div aria-label='작업' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh notion-topbar-more-button' role='button' />
+		[129] (599,537)<main  />
+			[130] (599,537)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+				[131] (593,623)<div class='whenContentEditable' role='group' />
+					[132] (593,622)<div  />
+						[133] (593,292)<div  />
+							[134] (593,292)<div  />
+								[135] (593,292)<div  />
+									[136] (593,252)<div  />
+										[137] (593,219)<div  />
+											[138] (364,299)<div aria-label='👋 페이지 아이콘 변경' class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+												[139] (364,299)<div  />
+													[140] (364,299)<div  />
+														[141] (364,299)<div  />
+															[142] (364,299)<img  />
+										[143] (593,397)<div  />
+											[144] (593,397)<div  />
+									[145] (593,471)<div  />
+										[146] (593,471)<div  />
+											[147] (593,471)<div  />
+												[148] (593,471)<h1 class='content-editable-leaf-rtl notranslate' id=':r1ba:' placeholder='새 페이지' role='textbox'>Notion에 오신 것을 환영합니다! />
+						[149] (593,698)<div  />
+							[150] (593,698)<div  />
+								[151] (593,567)<div  />
+									[152] (593,567)<div  />
+										[153] (593,571)<div  />
+											[154] (593,571)<div  />
+												[155] (344,571)<div  />
+													[156] (344,571)<div  />
+														[157] (344,571)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+												[158] (603,571)<div  />
+													[159] (603,571)<div  />
+														[160] (603,571)<div class='notion-strikethrough-container content-editable-leaf-rtl notranslate' id=':r1au:' placeholder='할 일' role='textbox'>Notion 계정을 만들어 보세요. />
+								[161] (593,646)<div  />
+									[162] (593,646)<div  />
+										[163] (593,646)<div  />
+											[164] (593,646)<div  />
+												[165] (344,621)<div  />
+													[166] (344,621)<div  />
+														[167] (345,623)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+												[168] (603,646)<div  />
+													[169] (603,621)<div  />
+														[170] (603,621)<div class='content-editable-leaf-rtl notranslate' id=':r1b0:' placeholder='할 일' role='textbox'>아무 곳이나 클릭해
+를
+제목, 표, 할 일 목록 등 추가할 수 있는 항목을 확인해 보세요. />
+															[171] (459,620)<div  />
+																[172] (459,621)<span >/ />
+															[173] (501,620)<span >입력하고 />
+													[174] (603,669)<div  />
+														[175] (603,669)<div  />
+															[176] (603,671)<div  />
+																[177] (603,671)<div  />
+																	[178] (368,671)<div  />
+																		[179] (368,671)<div  />
+																			[180] (369,673)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+																	[181] (612,671)<div  />
+																		[182] (612,671)<div  />
+																			[183] (612,671)<div class='content-editable-leaf-rtl notranslate' id=':r1b2:' placeholder='할 일' role='textbox'>를 입력해
+추가하고 하위 페이지를 자유롭게 만들어 보세요. />
+																				[184] (403,670)<div  />
+																					[185] (403,671)<span >/페이지 />
+																				[186] (502,670)<span >새 페이지를 />
+								[187] (593,721)<div  />
+									[188] (593,721)<div  />
+										[189] (593,721)<div  />
+											[190] (593,721)<div  />
+												[191] (344,721)<div  />
+													[192] (344,721)<div  />
+														[193] (345,723)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+												[194] (603,721)<div  />
+													[195] (603,721)<div  />
+														[196] (603,721)<div class='content-editable-leaf-rtl notranslate' id=':r1b4:' placeholder='할 일' role='textbox'>왼쪽 사이드바에서
+,
+, />
+															[197] (490,720)<span >새 페이지를 찾고 />
+															[198] (557,720)<span >정리하고 />
+															[199] (611,720)<span >추가하세요 />
+															[200] (647,721)<img  />
+								[201] (593,775)<div  />
+									[202] (593,775)<div  />
+										[203] (593,771)<div  />
+											[204] (593,771)<div  />
+												[205] (344,771)<div  />
+													[206] (344,771)<div aria-label='열기' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+												[207] (603,771)<div  />
+													[208] (603,771)<div  />
+														[209] (603,771)<div class='content-editable-leaf-rtl notranslate' id=':r1b6:' placeholder='토글' role='textbox'>이것은 토글 블록입니다. 작은 삼각형을 클릭하면 유용한 팁을 더 확인할 수 있어요! />
+								[210] (593,838)<div  />
+									[211] (593,838)<div  />
+										[212] (593,838)<div  />
+											[213] (593,838)<div  />
+												[214] (593,838)<div  />
+													[215] (593,838)<div class='content-editable-leaf-rtl notranslate' id=':r1b9:' placeholder='AI 기능은 '스페이스 키', 명령어는 '/'를 입력하세요.' role='textbox' />
+	[216] (963,915)<div  />
+		[217] (963,915)<div  />
+			[218] (963,915)<div aria-label='AI' class='x87ps6o x1b7c0jy x1ypdohk notion-ai-button' role='button' />
+				[219] (963,915)<div  />
+					[220] (963,915)<div  />
+						[221] (963,915)<div  />
+							[222] (963,915)<div  />
+								[223] (963,915)<div  />
+									[224] (963,915)<img  />
+
+</current_dom>

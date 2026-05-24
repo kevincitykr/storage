@@ -1,0 +1,119 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (349,23)<input class='total_srch_inpt placeholder' id='searchProduct' placeholder='상품명을 검색하세요.' />
+[1] (536,23)<button class='btn_search'>검색 />
+	검색
+[2] (581,23)<a class='btn_esti_02 btn_srch_reset' href='javascript:;' id='searchProductReset'>검색 초기화 />
+	[3] (562,23)<span  />
+i7 14700
+에 대한 검색결과입니다.
+[4] (201,148)<label >전체
+(737) />
+	(737)
+[5] (284,148)<label >CPU
+(15) />
+	(15)
+[6] (371,148)<label >노트북
+(716) />
+	(716)
+[7] (451,148)<label >베어본
+(6) />
+	(6)
+[8] (202,380)<a >인기상품순 />
+[9] (261,380)<a >신상품순 />
+[10] (321,380)<a >낮은 가격순 />
+[11] (380,380)<a >높은 가격순 />
+[12] (439,380)<a >상품명순 />
+[13] (586,382)<button class='btn__search-detail' id='searchDetailButton'>결과 내 검색 />
+[14] (392,1066)<div class='scroll_box' scrollable='true' />
+	상품에 대한 품목 및 최저가에 대한 리스트입니다.
+	상품
+	품목
+	선택
+	[15] (187,437)<a class='btn_compare'>비교 />
+		비교
+	[16] (335,447)<a >인텔 코어i7-14세대 14700F (랩터레이크 리프레시) (정품) />
+	[17] (384,471)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 미탑재 / 10nm(인텔7) / 기본 클럭:2.1GHz / 최대 클럭:5.4GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:65-219W / PCIe5.0, 4.0 / 5600, 3200MHz / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:인텔 기본쿨러 포함 / 시네벤치R23(싱글):2091 / 시네벤치R23(멀티):32090 />
+	[18] (257,504)<div class='ninety_help distribution' />
+		[19] (256,504)<span >다나와유통 />
+	[20] (295,504)<div class='ninety_help' />
+		[21] (294,504)<span >세이프업+ />
+	[22] (329,504)<a class='icon_style btn_review'>상품의견 />
+	529,300
+	원
+	[23] (578,496)<a class='btn_choice2 wishAction'>담기 />
+	[24] (187,559)<a class='btn_compare'>비교 />
+		비교
+	[25] (338,569)<a >인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품) />
+	[26] (384,593)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:미탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 / 시네벤치R23(싱글):2145 / 시네벤치R23(멀티):35218 />
+	[27] (257,626)<div class='ninety_help distribution' />
+		[28] (256,626)<span >다나와유통 />
+	[29] (295,626)<div class='ninety_help' />
+		[30] (294,626)<span >세이프업+ />
+	[31] (329,626)<a class='icon_style btn_review'>상품의견 />
+	536,060
+	원
+	[32] (578,618)<a class='btn_choice2 wishAction'>담기 />
+	[33] (187,681)<a class='btn_compare'>비교 />
+		비교
+	[34] (333,690)<a >인텔 코어i7-14세대 14700 (랩터레이크 리프레시) (정품) />
+	[35] (384,715)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 탑재 / 10nm(인텔7) / 기본 클럭:2.1GHz / 최대 클럭:5.4GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:65-219W / PCIe5.0, 4.0 / 5600, 3200MHz / 인텔 UHD 770 / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:인텔 기본쿨러 포함 / 시네벤치R23(싱글):2077 / 시네벤치R23(멀티):31928 />
+	[36] (257,748)<div class='ninety_help distribution' />
+		[37] (256,748)<span >다나와유통 />
+	[38] (295,748)<div class='ninety_help' />
+		[39] (294,748)<span >세이프업+ />
+	[40] (329,748)<a class='icon_style btn_review'>상품의견 />
+	635,580
+	원
+	[41] (578,740)<a class='wishAction btn_clear2'>해제 />
+	[42] (187,803)<a class='btn_compare'>비교 />
+		비교
+	[43] (336,812)<a >인텔 코어i7-14세대 14700K (랩터레이크 리프레시) (정품) />
+	[44] (384,837)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 인텔 UHD 770 / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 / 시네벤치R23(싱글):2069 / 시네벤치R23(멀티):34818 />
+	[45] (257,870)<div class='ninety_help distribution' />
+		[46] (256,870)<span >다나와유통 />
+	[47] (295,870)<div class='ninety_help' />
+		[48] (294,870)<span >세이프업+ />
+	[49] (329,870)<a class='icon_style btn_review'>상품의견 />
+	판매준비
+	[50] (578,858)<a class='btn_choice2 wishAction'>담기 />
+	[51] (187,925)<a class='btn_compare'>비교 />
+		비교
+	[52] (338,934)<a >인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (벌크) />
+	[53] (384,959)<a class='spec'>인텔(소켓1700) / P8+E12코어 / 16+12스레드 / 메모리 규격:DDR5, DDR4 / 내장그래픽:미탑재 / 10nm(인텔7) / 기본 클럭:3.4GHz / 최대 클럭:5.6GHz / L2 캐시:28MB / L3 캐시:33MB / PBP-MTP:125-253W / PCIe5.0, 4.0 / 5600, 3200MHz / 기술 지원:SMT(하이퍼스레딩);인텔 XTU;인텔 퀵싱크;인텔 딥러닝부스트 / 쿨러:미포함 />
+	[54] (257,992)<div class='ninety_help distribution' />
+		[55] (256,992)<span >다나와유통 />
+	[56] (295,992)<div class='ninety_help' />
+		[57] (294,992)<span >세이프업+ />
+	[58] (329,992)<a class='icon_style btn_review'>상품의견 />
+	525,600
+	원
+	[59] (578,984)<a class='btn_choice2 wishAction'>담기 />
+[60] (673,20)<a href='javascript:;'>현금 최저가 />
+[61] (776,20)<a href='javascript:;'>카드 최저가 />
+[62] (651,70)<a href='javascript:;' role='button'>견적카트 />
+[63] (741,70)<a class='btn__estimate-login checkLogin' href='javascript:;'>로그인하여 저장한 견적들을 확인해보세요. />
+[64] (724,784)<div class='pd_list_area' scrollable='true' />
+	사운드바
+	스피커
+	[65] (721,139)<a class='pd_item_title' href='#'>PC헤드셋 />
+	[66] (721,194)<a class='pd_item_title' href='#'>이어폰 />
+	[67] (721,249)<a class='pd_item_title' href='#'>공유기/무선랜 />
+	[68] (721,304)<a class='pd_item_title' href='#'>IP공유기/허브 />
+	[69] (721,359)<a class='pd_item_title' href='#'>프린터/복합기 />
+	[70] (721,414)<a class='pd_item_title' href='#'>컴퓨터 의자 />
+	[71] (721,469)<a class='pd_item_title' href='#'>케이블 />
+	[72] (721,524)<a class='pd_item_title' href='#'>컨트롤러 />
+	[73] (721,579)<a class='pd_item_title' href='#'>멀티탭 />
+	저장장치 및 멀티미디어
+	[74] (763,652)<a class='btn_close_cell' />
+	[75] (721,704)<a class='pd_item_title' href='#'>ODD />
+	[76] (721,759)<a class='pd_item_title' href='#'>외장HDD/SSD />
+	[77] (721,813)<a class='pd_item_title' href='#'>USB />
+	[78] (721,868)<a class='pd_item_title' href='#'>메모리카드/리더기 />
+	[79] (721,923)<a class='pd_item_title' href='#'>사운드카드 />
+	[80] (721,978)<a class='pd_item_title' href='#'>캡처보드/웹캠 />
+
+</current_dom>

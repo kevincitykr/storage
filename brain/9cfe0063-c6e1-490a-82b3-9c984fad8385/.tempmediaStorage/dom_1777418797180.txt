@@ -1,0 +1,224 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+Navigation Menu
+[0] (32,40)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[1] (85,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Platform />
+[2] (150,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Solutions />
+[3] (219,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Resources />
+[4] (296,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Open Source />
+[5] (373,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Enterprise />
+[6] (430,40)<a class='NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM' href='https://github.com/pricing' />
+	[7] (430,40)<span >Pricing />
+[8] (736,40)<button aria-label='Search or jump to…' class='header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none' placeholder='Search or jump to...' />
+	[9] (642,40)<div  />
+	[10] (736,40)<span >Search or jump to... />
+	[11] (833,40)<div  />
+[12] (872,40)<a class='HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fconnect-ai%2Fblob%2Fmain%2FREADME.md'>Sign in />
+[13] (926,40)<a class='HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1' href='/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=wonseokjung%2Fconnect-ai'>Sign up />
+[14] (968,40)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-103cb8a6-0493-47b9-bc92-641f2a8cb191' />
+[15] (76,115)<a class='url fn' href='/wonseokjung'>wonseokjung />
+/
+[16] (156,115)<a href='/wonseokjung/connect-ai'>connect-ai />
+Public
+[17] (788,114)<a aria-label='You must be signed in to change notification settings' class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' id='repository-details-watch-button'>Notifications />
+[18] (869,114)<a class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' id='fork-button'>Fork />
+	[19] (886,114)<span >28 />
+[20] (944,114)<a aria-label='You must be signed in to star a repository' class='tooltipped tooltipped-sw btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' />
+	[21] (943,114)<span >Star />
+	[22] (962,114)<span >41 />
+[23] (45,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected' href='/wonseokjung/connect-ai' id='code-tab' />
+	[24] (53,177)<span >Code />
+[25] (100,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/issues' id='issues-tab' />
+	[26] (108,177)<span >Issues />
+[27] (171,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/pulls' id='pull-requests-tab' />
+	[28] (179,177)<span >Pull requests />
+[29] (246,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/actions' id='actions-tab' />
+	[30] (254,177)<span >Actions />
+[31] (310,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/projects' id='projects-tab' />
+	[32] (317,177)<span >Projects />
+[33] (400,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/security' id='security-and-quality-tab' />
+	[34] (407,177)<span >Security and quality />
+[35] (489,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/pulse' id='insights-tab' />
+	[36] (497,177)<span >Insights />
+[37] (21,240)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[38] (93,294)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[39] (93,294)<span  />
+		[40] (85,294)<span  />
+			[41] (85,294)<div  />
+				[42] (24,294)<div  />
+				[43] (44,294)<div  />
+					[44] (44,294)<span >main />
+[45] (190,294)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[46] (106,339)<span  />
+	[47] (22,339)<span  />
+	[48] (111,339)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+[49] (101,664)<div  />
+	[50] (101,388)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.claude-item' role='treeitem' />
+		[51] (101,388)<div  />
+			[52] (16,388)<div  />
+			[53] (106,388)<div  />
+				[54] (32,388)<div  />
+					[55] (32,388)<div  />
+				[56] (114,388)<span  />
+					[57] (57,388)<span >.claude />
+	[58] (101,425)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.secondbrain-item' role='treeitem' />
+		[59] (101,425)<div  />
+			[60] (16,425)<div  />
+			[61] (106,425)<div  />
+				[62] (32,424)<div  />
+					[63] (32,424)<div  />
+				[64] (114,425)<span  />
+					[65] (68,425)<span >.secondbrain />
+	[66] (101,461)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.vscode-item' role='treeitem' />
+		[67] (101,461)<div  />
+			[68] (16,461)<div  />
+			[69] (106,461)<div  />
+				[70] (32,461)<div  />
+					[71] (32,461)<div  />
+				[72] (114,461)<span  />
+					[73] (57,461)<span >.vscode />
+	[74] (101,497)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='assets-item' role='treeitem' />
+		[75] (101,497)<div  />
+			[76] (16,497)<div  />
+			[77] (106,497)<div  />
+				[78] (32,497)<div  />
+					[79] (32,497)<div  />
+				[80] (114,497)<span  />
+					[81] (55,497)<span >assets />
+	[82] (101,533)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[83] (101,533)<div  />
+			[84] (16,533)<div  />
+			[85] (106,533)<div  />
+				[86] (32,533)<div  />
+					[87] (32,533)<div  />
+				[88] (114,533)<span  />
+					[89] (48,533)<span >src />
+	[90] (101,569)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[91] (101,569)<div  />
+			[92] (106,569)<div  />
+				[93] (32,569)<div  />
+				[94] (114,569)<span  />
+					[95] (62,569)<span >.gitignore />
+	[96] (101,605)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.vscodeignore-item' role='treeitem' />
+		[97] (101,605)<div  />
+			[98] (106,605)<div  />
+				[99] (32,605)<div  />
+				[100] (114,605)<span  />
+					[101] (71,605)<span >.vscodeignore />
+	[102] (101,641)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='ARCHITECTURE.md-item' role='treeitem' />
+		[103] (101,641)<div  />
+			[104] (106,641)<div  />
+				[105] (32,641)<div  />
+				[106] (114,641)<span  />
+					[107] (81,641)<span >ARCHITECTURE.md />
+	[108] (101,677)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[109] (101,677)<div  />
+			[110] (106,677)<div  />
+				[111] (32,677)<div  />
+				[112] (114,677)<span  />
+					[113] (59,677)<span >LICENSE />
+	[114] (101,714)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[115] (101,714)<div  />
+			[116] (106,714)<div  />
+				[117] (32,713)<div  />
+				[118] (114,714)<span  />
+					[119] (68,714)<span >README.md />
+	[120] (101,750)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='brain-viz.html-item' role='treeitem' />
+		[121] (101,750)<div  />
+			[122] (106,750)<div  />
+				[123] (32,750)<div  />
+				[124] (114,750)<span  />
+					[125] (70,750)<span >brain-viz.html />
+	[126] (101,786)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='idea1_script_draft.md-item' role='treeitem' />
+		[127] (101,786)<div  />
+			[128] (106,786)<div  />
+				[129] (32,786)<div  />
+				[130] (114,786)<span  />
+					[131] (86,786)<span >idea1_script_draft.md />
+	[132] (101,822)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package-lock.json-item' role='treeitem' />
+		[133] (101,822)<div  />
+			[134] (106,822)<div  />
+				[135] (32,822)<div  />
+				[136] (114,822)<span  />
+					[137] (79,822)<span >package-lock.json />
+	[138] (101,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[139] (101,858)<div  />
+			[140] (106,858)<div  />
+				[141] (32,858)<div  />
+				[142] (114,858)<span  />
+					[143] (69,858)<span >package.json />
+	[144] (101,894)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='system_schema.json-item' role='treeitem' />
+		[145] (101,894)<div  />
+			[146] (106,894)<div  />
+				[147] (114,894)<span  />
+					[148] (83,894)<span >system_schema.json />
+	[149] (101,930)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tsconfig.json-item' role='treeitem' />
+		[150] (101,930)<div  />
+			[151] (106,930)<div  />
+				[152] (114,930)<span >tsconfig.json />
+					tsconfig.json
+[153] (212,704)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[154] (248,240)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/connect-ai/tree/main'>connect-ai />
+/
+README.md
+[155] (362,240)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[156] (979,240)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_R_icql3al1d_' />
+Latest commit
+Jay
+and
+Jay
+[157] (458,302)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/4881a08e6cf27a8d2aac34fa744c314ed32f8e16'>docs: restructure README.md for v2.1.30 P-Reinforce and Agent Univers… />
+[158] (623,302)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[159] (863,302)<a aria-label='Commit 4881a08' class='Link--secondary prc-Link-Link-9ZwDx' href='/wonseokjung/connect-ai/commit/4881a08e6cf27a8d2aac34fa744c314ed32f8e16'>4881a08 />
+·
+History
+[160] (958,302)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/wonseokjung/connect-ai/commits/main/README.md' />
+	[161] (958,302)<span  />
+		[162] (964,302)<span  />
+			[163] (964,301)<span >History />
+File metadata and controls
+[164] (254,371)<button class='prc-SegmentedControl-Button-E48xz' />
+	[165] (254,371)<span  />
+		[166] (254,371)<div >Preview />
+[167] (299,371)<button class='prc-SegmentedControl-Button-E48xz' />
+	[168] (299,371)<span  />
+		[169] (299,371)<div >Code />
+[170] (340,371)<button class='prc-SegmentedControl-Button-E48xz' />
+	[171] (340,371)<span  />
+		[172] (340,371)<div >Blame />
+106 lines (77 loc) · 4.72 KB
+[173] (865,371)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/wonseokjung/connect-ai/raw/refs/heads/main/README.md' />
+	[174] (865,371)<span  />
+		[175] (865,371)<span >Raw />
+[176] (887,371)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[177] (905,371)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[178] (946,371)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_2o_' />
+[179] (969,371)<button class='prc-Button-ButtonBase-9n-Xk tmp-mr-2 TableOfContents-module__IconButton__jrlNM prc-Button-IconButton-fyge7' />
+[180] (606,561)<a href='/wonseokjung/connect-ai/blob/main/assets/icon.png' />
+	[181] (606,501)<img  />
+Connect AI v2 (P-Reinforce)
+[182] (262,625)<a aria-label='Permalink: Connect AI v2 (P-Reinforce)' class='anchor' href='#connect-ai-v2-p-reinforce' id='user-content-connect-ai-v2-p-reinforce' />
+100% Local · 100% Offline · Autonomous Knowledge Engine
+VS Code / Cursor 확장 프로그램으로, 당신의 낡은 IDE를 최상위 에이전트 대학(A.U)의 심장으로 진화시킵니다.
+[183] (466,763)<a href='https://camo.githubusercontent.com/9b30d4aba56a44cf14512fbdb84b135d1184279670a21d35841c7399343acecc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d322e312e33302d626c7565' />
+	[184] (466,759)<img  />
+[185] (526,763)<a href='https://camo.githubusercontent.com/f8df3091bbe1149f398a5369b2c39e896766f9f6efba3477c63e9b4aa940ef14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d677265656e' />
+	[186] (526,759)<img  />
+[187] (611,763)<a href='https://camo.githubusercontent.com/c9f409211413fc295c88f7ea705f30e717d43da26d47d9450385ff0555fcfb98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e746567726174696f6e2d4167656e745f556e69766572736974792d707572706c65' />
+	[188] (611,759)<img  />
+[189] (725,763)<a href='https://camo.githubusercontent.com/393b353dff3a57a9cfdfa3f0cfe45dd892329eb0610fe2be88fe9024212a169c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656e67696e652d4f6c6c616d612532302537432532304c4d25323053747564696f2d6f72616e6765' />
+	[190] (725,759)<img  />
+🌟 Overview: The P-Reinforce Architecture
+[191] (262,852)<a aria-label='Permalink: 🌟 Overview: The P-Reinforce Architecture' class='anchor' href='#-overview-the-p-reinforce-architecture' id='user-content--overview-the-p-reinforce-architecture' />
+Connect AI v2.1.30은 단순한 코딩 에이전트를 넘어섭니다.
+P-Reinforce 아키텍처
+를 기반으로 설계된 이 에이전트는 사용자의 모든 정보와 지시를 받아들여
+스스로 의미를 분석하고, 폴더를 생성하고, 마크다운 위키 파일로 정리하여 클라우드에 자동 백업
+하는 자율 지식 정원사(Autonomous Gardener)입니다.
+
+</current_dom>

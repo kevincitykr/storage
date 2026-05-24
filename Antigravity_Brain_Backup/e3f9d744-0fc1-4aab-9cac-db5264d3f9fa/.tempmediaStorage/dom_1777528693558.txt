@@ -1,0 +1,192 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (764,24)<a class='link__cw-gnb enuri' href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>에누리 />
+[1] (803,24)<a class='link__cw-gnb malltail' href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>몰테일 />
+[2] (848,24)<a class='link__cw-gnb plto' href='https://www.plto.com/?utm_source=danawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[3] (892,24)<a class='link__cw-gnb makeshop' href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>메이크샵 />
+i7-14700K : 다나와 통합검색
+[4] (131,144)<a class='logo-ci' href='https://www.danawa.com' />
+	[5] (131,144)<img  />
+[6] (499,139)<fieldset  />
+	[7] (473,144)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[8] (614,144)<button class='search__delete on'>삭제 />
+		삭제
+	[9] (640,144)<button class='search__submit'>검색 />
+		검색
+[10] (788,150)<a class='btn_user btn_user--recent' href='#' role='button' />
+	[11] (787,170)<span >최근 />
+[12] (840,150)<a class='btn_user btn_user--wish' href='https://www.danawa.com/main/wish/wishList.php' role='button' />
+	[13] (840,170)<span >관심 />
+[14] (889,150)<a class='btn_user btn_user--login' href='https://auth.danawa.com/login?url=https%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fk1%3Di7-14700K%26module%3Dgoods%26act%3DdispMain' role='button' />
+	[15] (889,171)<span >로그인 />
+[16] (108,76)<a class='btn_app' href='#mobile_service_layer' role='button'>다나와 앱 />
+[17] (593,75)<a href='https://auto.danawa.com'>자동차 />
+[18] (627,75)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain'>조립PC />
+[19] (663,75)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti'>PC견적 />
+[20] (706,75)<a href='https://pc26.danawa.com/bbs/?logger_kw=dnw_gnb_pc26'>PC구매상담 />
+[21] (754,75)<a href='https://plan.danawa.com'>쇼핑기획전 />
+[22] (796,75)<a href='https://dpg.danawa.com/bbs'>커뮤니티 />
+[23] (832,75)<a href='https://event.danawa.com/'>이벤트 />
+/
+[24] (859,75)<a href='https://event.danawa.com/experience/'>체험단 />
+[25] (896,75)<a class='more_sevice_click' href='#more_service_layer2'>서비스
+더보기 />
+	서비스
+[26] (132,240)<a class='view_all_category btn_cate_all btn_cate' href='#sectionExplodeLayer' />
+	[27] (126,239)<strong >전체 카테고리 />
+[28] (208,240)<a href='#'>통합검색 />
+[29] (252,240)<a href='#'>상품 />
+[30] (286,240)<a href='#'>장터 />
+[31] (335,240)<a href='#'>쇼핑가이드 />
+[32] (383,240)<a href='#'>뉴스 />
+[33] (427,240)<a href='#'>커뮤니티 />
+[34] (471,240)<a href='#'>리뷰 />
+[35] (511,240)<a href='#'>동영상 />
+[36] (566,240)<a href='#'>다나와Q&A />
+[37] (896,239)<a class='btn_sns_share' href='#' id='share'>공유 />
+	[38] (888,237)<span  />
+연관검색어
+[39] (184,312)<a href='/dsearch.php?query=i7%2013700k'>i713700k />
+[40] (239,312)<a href='/dsearch.php?query=i9-14900k'>i9-14900k />
+[41] (291,312)<a href='/dsearch.php?query=i7%2012700'>i712700 />
+[42] (343,312)<a href='/dsearch.php?query=i9-13900k'>i9-13900k />
+[43] (397,312)<a href='/dsearch.php?query=i7-13700'>i7-13700 />
+[44] (451,312)<a href='/dsearch.php?query=i7-13700k'>i7-13700k />
+[45] (505,312)<a href='/dsearch.php?query=i9%2013900k'>i913900k />
+[46] (558,312)<a href='/dsearch.php?query=i7%2014700k'>i714700k />
+[47] (638,312)<a href='/dsearch.php?query=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20ddr5-5600%2032gb'>삼성전자ddr5-560032gb />
+i713700
+i712700k
+i714700
+13700k
+z790
+msimagb760m박격포ii
+z790aoruselite
+삼성전자ddr4-320032gb
+gigabytez790aoruselite
+i9-12900k
+i9-10900k
+[48] (727,314)<a class='btn_rel more' />
+오늘 봐야 할 추천 상품
+[49] (155,607)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=i7-14700K&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=21800&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q4NjEwNTk3NjcxJTI2aXRlbUlkJTNEMjQ5NzQwODUwOTclMjZ2ZW5kb3JJdGVtSWQlM0Q5MTk3OTYyNzgyMSUyNnRyYWNlaWQlM0RWMC0xNTMtZDFhYmM0MWM5NWMyMzdjOSUyNmNsaWNrQmVhY29uJTNENzNiYTNmYzAtNDQ1OS0xMWYxLTk5ZDEtMGQ2MTYxN2Q3YWU0JTI1N0UzJTI2cmVxdWVzdGlkJTNEMjAyNjA0MzAxNDU3MjA4OTExOTE0OTgzNTElMjZ0b2tlbiUzRDMxODUwQyUyNTdDTUlYRUQmYWR0eXBlPTI%3D' />
+	[50] (155,547)<div  />
+		[51] (155,547)<img  />
+	[52] (155,716)<div  />
+		[53] (155,684)<div >intel 인텔 CPU i5-4590 i5-4690 i5 4세대, intel CPU i5 />
+		[54] (155,720)<div  />
+			[55] (128,720)<div >가격 />
+				가격
+				[56] (123,720)<span >21,800 />
+				[57] (144,720)<span >원 />
+		[58] (155,755)<div  />
+			[59] (124,755)<span  />
+				[60] (124,755)<img  />
+[61] (283,607)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=i7-14700K&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=492900&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q3OTU4NTE4Mzc1JTI2aXRlbUlkJTNEMjE5OTkzNDI2ODAlMjZ2ZW5kb3JJdGVtSWQlM0Q5MzEyNzI3OTU4MSUyNnRyYWNlaWQlM0RWMC0xNTMtNDc0MDM2ZTBkN2Y1ZGY5MCUyNnJlcXVlc3RpZCUzRDIwMjYwNDMwMTQ1NzIwODkxMTkxNDk4MzUxJTI2dG9rZW4lM0QzMTg1MEMlMjU3Q01JWEVEJmFkdHlwZT0y' />
+	[62] (283,547)<div  />
+		[63] (283,547)<img  />
+	[64] (283,716)<div  />
+		[65] (283,684)<div >[INTEL] 코어14세대 i7-14700F 벌크 (랩터레이크 리프레시/2.1GHz/33MB/병행수입) 쿨러 미포함 />
+		[66] (283,720)<div  />
+			[67] (260,720)<div >가격 />
+				가격
+				[68] (255,720)<span >492,900 />
+				[69] (280,720)<span >원 />
+		[70] (283,755)<div  />
+			[71] (251,755)<span  />
+				[72] (251,755)<img  />
+			[73] (312,755)<span  />
+[74] (410,607)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=i7-14700K&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=536000&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q3NjgyMzE1Njk1JTI2aXRlbUlkJTNEMjMwMzY0MTQ3NDQlMjZ2ZW5kb3JJdGVtSWQlM0Q5MDA3MDE1MTUwMCUyNnRyYWNlaWQlM0RWMC0xNTMtODdlNTgyZTY3YjdlNWNlYSUyNnJlcXVlc3RpZCUzRDIwMjYwNDMwMTQ1NzIwODkxMTkxNDk4MzUxJTI2dG9rZW4lM0QzMTg1MEMlMjU3Q01JWEVEJmFkdHlwZT0y' />
+	[75] (410,547)<div  />
+		[76] (410,547)<img  />
+	[77] (410,716)<div  />
+		[78] (410,684)<div >Intel® Core™ i7-14700K 통합 그래픽을 갖춘 새로운 게이밍 데스크탑 프로세서 20개 코어(P 코어 8개   E 코어 12개) - 잠금 해제됨 />
+		[79] (410,720)<div  />
+			[80] (387,720)<div >가격 />
+				가격
+				[81] (382,720)<span >536,000 />
+				[82] (407,720)<span >원 />
+		[83] (410,755)<div  />
+			[84] (379,755)<span  />
+				[85] (379,755)<img  />
+[86] (538,607)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=i7-14700K&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=106000&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q5MTM3MTc1NDgyJTI2aXRlbUlkJTNEMjY4OTMzNDExMjklMjZ2ZW5kb3JJdGVtSWQlM0Q5Mzg2MjgyMzQwNCUyNnRyYWNlaWQlM0RWMC0xNTMtNzNiYjI4MTZiYTRiYmFmZiUyNmNsaWNrQmVhY29uJTNENzNiYTNmYzAtNDQ1OS0xMWYxLWI5YWMtYzUxNzE5YTNjYjBhJTI1N0UzJTI2cmVxdWVzdGlkJTNEMjAyNjA0MzAxNDU3MjA4OTExOTE0OTgzNTElMjZ0b2tlbiUzRDMxODUwQyUyNTdDTUlYRUQmYWR0eXBlPTI%3D' />
+	[87] (538,547)<div  />
+		[88] (538,547)<img  />
+	[89] (538,716)<div  />
+		[90] (538,684)<div >[중고] intel 인텔 CPU i5-9600K 9세대 오버클락 6코어 6스레드 />
+		[91] (538,720)<div  />
+			[92] (514,720)<div >가격 />
+				가격
+				[93] (509,720)<span >106,000 />
+				[94] (534,720)<span >원 />
+		[95] (538,755)<div  />
+			[96] (507,755)<span  />
+				[97] (507,755)<img  />
+[98] (666,607)<a class='link__product' href='https://prod.danawa.com/bridge/loadingBridgeAdSmart.php?adKeyword=i7-14700K&serviceType=search&locationType=replace&prodType=imported&cmpnyc=TP40F&minPrice=525000&sLink=aHR0cHM6Ly9pby5jcGN6YXBpMzhhLmtyL2FkbGFuZGluZy8%2FYWRpZD0xNjk2JnN1YmlkPWRhbmF3YWFkc21hcnRwYzEmbGFuZGluZ191cmw9aHR0cHMlM0ElMkYlMkZsaW5rLmNvdXBhbmcuY29tJTJGcmUlMkZBRkZTRFAlM0ZscHRhZyUzREFGMjg4OTU1NiUyNnN1YmlkJTNEZGFuYXdhYWRzbWFydHBjMSUyNnBhZ2VLZXklM0Q3NjYwMjM5NDE5JTI2aXRlbUlkJTNEMjU2MjY0MzczNDAlMjZ2ZW5kb3JJdGVtSWQlM0Q5NDQ2NjgyNzkyNSUyNnRyYWNlaWQlM0RWMC0xNTMtOTA5YTQxZmQ0NmQwYzU1MiUyNnJlcXVlc3RpZCUzRDIwMjYwNDMwMTQ1NzIwODkxMTkxNDk4MzUxJTI2dG9rZW4lM0QzMTg1MEMlMjU3Q01JWEVEJmFkdHlwZT0y' />
+	[99] (666,547)<div  />
+		[100] (666,547)<img  />
+	[101] (666,716)<div  />
+		[102] (666,684)<div >인텔 코어i7-14세대 14700KF (랩터레이크 리프레시) (정품) />
+		[103] (666,720)<div  />
+			[104] (642,720)<div >가격 />
+				가격
+				[105] (637,720)<span >525,000 />
+				[106] (662,720)<span >원 />
+		[107] (666,755)<div  />
+			[108] (634,755)<span  />
+				[109] (634,755)<img  />
+상세검색
+CM 추천 옵션은
+하이라이트
+로 강조했어요.
+[110] (691,841)<button class='button__research'>사용자의 선택은?! />
+카테고리
+[111] (197,902)<a href='#'>디지털 완제품 />
+[112] (226,902)<button class='btn_more_cate' />
+	[113] (226,902)<span  />
+811
+[114] (299,902)<a href='#'>PC 주요 부품 />
+[115] (327,902)<button class='btn_more_cate' />
+	[116] (327,902)<span  />
+130
+[117] (402,902)<a href='#'>공구/산업기계 />
+[118] (432,902)<button class='btn_more_cate' />
+	[119] (432,902)<span  />
+13
+[120] (504,902)<a href='#'>태블릿/휴대폰 />
+[121] (534,902)<button class='btn_more_cate' />
+	[122] (534,902)<span  />
+5
+[123] (598,902)<a href='#'>주변기기 />
+[124] (618,902)<button class='btn_more_cate' />
+	[125] (618,902)<span  />
+4
+[126] (711,901)<button class='btn_so_view more'>개 />
+	[127] (701,901)<strong >6 />
+	[128] (720,901)<span  />
+CPU 시리즈
+[129] (201,961)<label class='srch_lb' />
+	[130] (209,961)<a class='btn_dic' href='#' />
+		[131] (209,961)<span >코어 14세대 />
+코어울트라 시리즈2
+[132] (323,961)<button class='button__category-info'>코어울트라 시리즈2 />
+	코어울트라 시리즈2
+프로세서
+프로세서
+코어 13세대
+코어 13세대
+코어 12세대
+[133] (630,961)<button class='button__category-info'>코어 12세대 />
+	코어 12세대
+[134] (709,956)<button class='btn_so_view more'>개 />
+	[135] (698,957)<strong >23 />
+	[136] (720,956)<span  />
+[137] (954,404)<button class='button__floating-vs'>VS검색
+개 담김 />
+	VS검색
+	[138] (975,404)<span >0 />
+	개 담김
+VS
+
+</current_dom>

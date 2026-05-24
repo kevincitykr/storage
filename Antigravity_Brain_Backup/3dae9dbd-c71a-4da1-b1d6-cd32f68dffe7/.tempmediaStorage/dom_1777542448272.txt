@@ -1,0 +1,82 @@
+새 키 만들기
+close
+키 이름 지정
+가져온 프로젝트 선택
+[0] (500,555)<div  />
+	[1] (500,555)<div  />
+		[2] (500,555)<div  />
+			[3] (500,555)<mat-select class='mat-mdc-select mat-select-open' id='project-select-input' role='combobox' />
+				Default Gemini Project
+				[4] (665,791)<div  />
+					[5] (500,500)<div  />
+					[6] (500,691)<div  />
+						[7] (500,691)<div class='mat-mdc-select-panel mdc-menu-surface mdc-menu-surface--open mat-select-panel-animations-enabled mat-primary ng-star-inserted' id='project-select-input-panel' role='listbox' />
+							[8] (500,620)<mat-option class='mat-mdc-option mdc-list-item special-project-option ng-star-inserted' id='mat-option-3' role='option' />
+								[9] (388,620)<span  />
+									[10] (388,620)<a class='import-project-button' />
+										[11] (346,620)<span >cloud_download />
+										[12] (397,620)<span >프로젝트 가져오기 />
+							[13] (500,658)<mat-divider class='mat-divider mat-divider-horizontal ng-star-inserted' role='separator' />
+							[14] (500,695)<mat-option class='mat-mdc-option mdc-list-item special-project-option ng-star-inserted' id='mat-option-4' role='option' />
+								[15] (383,695)<span  />
+									[16] (383,695)<a class='create-project-button' />
+										[17] (346,695)<span >add />
+										[18] (392,695)<span >프로젝트 만들기 />
+							[19] (500,762)<mat-option class='mat-mdc-option mdc-list-item mdc-list-item--selected ng-star-inserted mat-mdc-option-active' id='mat-option-5' role='option' />
+								[20] (394,762)<span  />
+									[21] (394,762)<div  />
+										[22] (394,762)<span >Default Gemini Project />
+취소
+키 만들기
+menu_open
+expand_more
+chevron_left
+Dashboard
+API Keys
+프로젝트
+사용량
+비율 제한
+지출
+결제
+로그 및 데이터 세트
+변경 로그
+arrow_outward
+search
+Search
+notifications
+What's new
+key
+Get API key
+settings
+Settings
+kevincityjr@gmail.com
+[23] (581,500)<div class='layout-main ng-tns-c3872533921-0' scrollable='true' />
+	API 키
+	docs
+	API 빠른 시작
+	key
+	API 키 만들기
+	그룹화 기준
+	API Key
+	프로젝트
+	필터링 기준
+	모든 프로젝트
+	키
+	프로젝트
+	생성일
+	결제 등급
+	...K340
+	Default Gemini API Key
+	Default Gemini Project
+	gen-lang-client-0922899114
+	2026. 2. 20.
+	결제 설정
+	사용할 수 없음
+	content_copy
+	paid
+	bar_chart
+	more_vert
+	여기에 API 키가 표시되지 않나요?
+	이 목록에는 Google AI Studio로 가져온 프로젝트의 API 키만 표시됩니다. 연결된 API 키를 관리하려면 다른 프로젝트를 가져오세요. 위에서 새 API 키를 만들 수도 있습니다.
+	자세히 알아보기
+	프로젝트 가져오기

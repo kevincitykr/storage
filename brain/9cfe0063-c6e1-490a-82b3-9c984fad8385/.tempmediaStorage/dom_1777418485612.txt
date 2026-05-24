@@ -1,0 +1,120 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (397,22)<tr  />
+	[1] (163,22)<a aria-label='package-lock.json, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/package-lock.json' title='package-lock.json'>package-lock.json />
+	[2] (490,22)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/82b986f95d3d1550c89b92ab105149973cae215c' title='revert(2.9.1): drop Antigravity vscode.lm integration — wasn't actually exposed
+
+Tested v2.9.0 in Antigravity: vscode.lm.selectChatModels() returns nothing.
+Antigravity does not register its built-in models (Gemini, Claude) through
+the standard VS Code Language Model API after all. So the ⚡ group was
+permanently empty and the dispatch code was dead.
+
+Rather than ship a feature that does nothing while pretending to, reverting
+the entire integration. Status returns to v2.8.4 — local Ollama / LM Studio
+models only, exactly as they were before.
+
+What got rolled back
+- engines.vscode: ^1.95.0 → ^1.80.0 (back to broad VS Code support)
+- @types/vscode: ~1.95.0 → ^1.80.0
+- Removed _streamViaLanguageModelApi() method
+- Removed `lm:`-prefix dispatch in _handlePrompt and _handlePromptWithFile
+- _sendModels() back to flat string[] payload
+- Webview dropdown back to plain <option> list (no <optgroup>)
+
+What stays unchanged
+- Brain menu redesign (지식 공간 terminology + 삭제 submenu) from v2.8.4
+- Status bar, Thinking Mode, citation badges, real graph, terminal capture
+- All v2.8.x improvements
+
+Path forward
+- Either find Antigravity's actual model API (research needed)
+- Or wire up a direct Gemini/Claude API key path (user provides their own key)
+- Or stay local-only and pour the effort into the orchestra Phase 2 instead
+
+Co-Authored-By: Claude Sonnet 4.6 <noreply@anthropic.com>'>revert(2.9.1): drop Antigravity vscode.lm integration — wasn't actual… />
+[3] (397,68)<tr  />
+	[4] (153,68)<a aria-label='package.json, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/package.json' title='package.json'>package.json />
+	[5] (494,68)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/583d30ff08261dfb2e9501913af70c5d8eac10fa' title='feat(2.32.0): connected office floor plan + 10 agents + autonomous chatter
+
+- Custom office map auto-detection at assets/map.jpeg or <brain>/_world/office-map.png
+- Agents expanded to 10 (added Editor, Writer, Researcher) with hand-tuned positions
+- Conversation logging — every command/dispatch/output/confer/report saved to <brain>/00_Raw/conversations/<date>.md
+- CEO planner now reads recent conversations as context for continuity
+- Manual + auto chatter (90s interval when 자율 ON) for living-office feel
+- Conversations tab in office sidebar
+- Stop button now actually cancels in-flight LLM calls via AbortController
+- Smart chat auto-scroll — only sticks to bottom when user is already near it
+- Removed redundant office-panel command bar (sidebar input is single source)
+- Sprites 0.8x scale for less obstruction, side panel collapsible
+- Multiple bug fixes: companyDir registration, ollamaUrl typo recovery,
+  CEO JSON parser robustness for korean/case-mismatched agent ids,
+  500-error detail surfacing with diagnostic hints'>feat(2.32.0): connected office floor plan + 10 agents + autonomous ch… />
+[6] (397,114)<tr  />
+	[7] (168,114)<a aria-label='system_schema.json, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/system_schema.json' title='system_schema.json'>system_schema.json />
+	[8] (450,114)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/7a803148625d45e5d90f4f4d97e78291b081993f' title='feat: Add P-Reinforce 00_Raw Auto-structure logic'>feat: Add P-Reinforce 00_Raw Auto-structure logic />
+[9] (397,160)<tr  />
+	[10] (152,160)<a aria-label='tsconfig.json, (File)' class='Link--primary' href='/wonseokjung/connect-ai/blob/main/tsconfig.json' title='tsconfig.json'>tsconfig.json />
+	[11] (462,160)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/6333ca91b411104450b11d5cdebc78a071c08cda' title='🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트
+
+- 에이전트 코어: 파일 생성, 코드 편집, 터미널 실행
+- 프리미엄 UI: 글래스모피즘, shimmer 로딩, 구문 강조
+- Cmd+L 포커스, 코드 설명(우클릭), 대화 내보내기
+- VS Code Settings 통합 (Ollama URL, 모델, 타임아웃)
+- 대화 기록 영구 저장 (workspaceState)
+- 멀티파일 프로젝트 컨텍스트 자동 분석'>🚀 Connect AI LAB v1.0.0 — 100% 로컬 AI 코딩 에이전트 />
+Repository files navigation
+[12] (136,230)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[13] (115,230)<span  />
+	[14] (144,230)<span >README />
+[15] (210,230)<a class='prc-components-UnderlineItem-7fP-n' href='#' />
+	[16] (183,230)<span  />
+	[17] (217,230)<span >MIT license />
+[18] (678,230)<button aria-label='Outline' class='prc-Button-ButtonBase-9n-Xk OverviewRepoFiles-module__ActionMenu_Button__OKDYV' id='_R_r8ql3al1d_' />
+[19] (397,420)<a href='/wonseokjung/connect-ai/blob/main/assets/icon.png' />
+	[20] (397,360)<img  />
+Connect AI v2 (P-Reinforce)
+[21] (111,484)<a aria-label='Permalink: Connect AI v2 (P-Reinforce)' class='anchor' href='#connect-ai-v2-p-reinforce' id='user-content-connect-ai-v2-p-reinforce' />
+100% Local · 100% Offline · Autonomous Knowledge Engine
+VS Code / Cursor 확장 프로그램으로, 당신의 낡은 IDE를 최상위 에이전트 대학(A.U)의 심장으로 진화시킵니다.
+[22] (256,623)<a href='https://camo.githubusercontent.com/9b30d4aba56a44cf14512fbdb84b135d1184279670a21d35841c7399343acecc/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f76657273696f6e2d322e312e33302d626c7565' />
+	[23] (256,619)<img  />
+[24] (317,623)<a href='https://camo.githubusercontent.com/f8df3091bbe1149f398a5369b2c39e896766f9f6efba3477c63e9b4aa940ef14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c6963656e73652d4d49542d677265656e' />
+	[25] (317,619)<img  />
+[26] (402,623)<a href='https://camo.githubusercontent.com/c9f409211413fc295c88f7ea705f30e717d43da26d47d9450385ff0555fcfb98/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f696e746567726174696f6e2d4167656e745f556e69766572736974792d707572706c65' />
+	[27] (402,619)<img  />
+[28] (516,623)<a href='https://camo.githubusercontent.com/393b353dff3a57a9cfdfa3f0cfe45dd892329eb0610fe2be88fe9024212a169c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f656e67696e652d4f6c6c616d612532302537432532304c4d25323053747564696f2d6f72616e6765' />
+	[29] (516,619)<img  />
+🌟 Overview: The P-Reinforce Architecture
+[30] (111,711)<a aria-label='Permalink: 🌟 Overview: The P-Reinforce Architecture' class='anchor' href='#-overview-the-p-reinforce-architecture' id='user-content--overview-the-p-reinforce-architecture' />
+Connect AI v2.1.30은 단순한 코딩 에이전트를 넘어섭니다.
+P-Reinforce 아키텍처
+를 기반으로 설계된 이 에이전트는 사용자의 모든 정보와 지시를 받아들여
+스스로 의미를 분석하고, 폴더를 생성하고, 마크다운 위키 파일로 정리하여 클라우드에 자동 백업
+하는 자율 지식 정원사(Autonomous Gardener)입니다.
+⚡ Core Features
+[31] (111,911)<a aria-label='Permalink: ⚡ Core Features' class='anchor' href='#-core-features' id='user-content--core-features' />
+1. 🧠 Agent University (A.U) 완벽 연동
+[32] (111,979)<a aria-label='Permalink: 1. 🧠 Agent University (A.U) 완벽 연동' class='anchor' href='#1--agent-university-au-완벽-연동' id='user-content-1--agent-university-au-완벽-연동' />
+[33] (812,43)<a class='Link--primary no-underline Link d-flex flex-items-center' href='/wonseokjung/connect-ai/graphs/contributors'>Contributors />
+	[34] (792,43)<span >2 />
+[35] (733,92)<a class='mr-2' href='https://github.com/claude' />
+	[36] (733,92)<img  />
+[37] (778,92)<a class='Link--primary no-underline flex-self-center' href='https://github.com/claude' />
+	[38] (762,92)<strong >claude />
+	[39] (793,92)<span >Claude />
+[40] (733,137)<a class='mr-2' href='https://github.com/wonseokjung' />
+	[41] (733,137)<img  />
+[42] (808,137)<a class='Link--primary no-underline flex-self-center' href='https://github.com/wonseokjung' />
+	[43] (776,137)<strong >wonseokjung />
+	[44] (837,137)<span >Wonseok Jung />
+Languages
+[45] (761,274)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/wonseokjung/connect-ai/search?l=typescript' />
+	[46] (757,274)<span >TypeScript />
+	[47] (789,274)<span >98.4% />
+[48] (841,274)<a class='d-inline-flex flex-items-center flex-nowrap Link--secondary no-underline text-small tmp-mr-3' href='/wonseokjung/connect-ai/search?l=html' />
+	[49] (839,274)<span >HTML />
+	[50] (861,274)<span >1.6% />
+
+</current_dom>

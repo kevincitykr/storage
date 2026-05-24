@@ -1,0 +1,607 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (99,37)<div class='x87ps6o x1b7c0jy x1ypdohk notion-sidebar-switcher' role='button' />
+		[2] (98,37)<div  />
+			[3] (20,37)<div  />
+				[4] (20,37)<div  />
+					[5] (20,38)<div  />
+						[6] (20,38)<div aria-label='덩 ' role='img' />
+							[7] (20,38)<div >덩 />
+			[8] (109,37)<div  />
+				[9] (109,37)<div  />
+					[10] (62,37)<div  />
+						[11] (62,37)<div  />
+							[12] (62,37)<div >덩치와쪼꼬미 />
+		[13] (191,37)<div  />
+	[14] (28,114)<div aria-label='홈' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xe2zdcy x2vl965 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' id='sidebar-tab-home' role='tab' />
+		[15] (20,114)<span  />
+		[16] (39,114)<span  />
+			[17] (39,114)<span  />
+				[18] (35,112)<span >홈 />
+	[19] (65,114)<div aria-label='채팅' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xe2zdcy x2vl965 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' id='sidebar-tab-chats' role='tab' />
+		[20] (65,114)<span  />
+		채팅
+	[21] (90,114)<div aria-label='회의' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xe2zdcy x2vl965 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' id='sidebar-tab-meetings' role='tab' />
+		[22] (90,114)<span  />
+		회의
+	[23] (115,114)<div aria-label='수신함' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xe2zdcy x2vl965 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' id='sidebar-tab-inbox' role='tab' />
+		[24] (115,114)<span  />
+		수신함
+	[25] (177,114)<div aria-label='검색' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+	[26] (99,427)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+		회의
+		2305 상품 소싱 리스트
+		23년도 워크숍
+		[27] (93,253)<div  />
+			[28] (93,253)<div  />
+				[29] (93,243)<div  />
+					[30] (93,217)<div class='x87ps6o x1b7c0jy x1ypdohk notion-outliner-shared-header' id=':rc:' role='button' />
+						[31] (37,217)<span >공유된 페이지 />
+						[32] (159,217)<div  />
+					[33] (93,269)<div class='notion-outliner-shared' id=':rb:' role='tree' />
+						[34] (93,269)<div  />
+							[35] (93,269)<div  />
+								[36] (93,269)<div  />
+									[37] (93,269)<a class='x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq' href='/AI-2e8140c5dd5d811f9addfb61895eb664?pvs=11' role='treeitem' />
+										[38] (93,269)<div  />
+											[39] (20,269)<div  />
+												[40] (20,269)<div  />
+													[41] (20,269)<div  />
+														[42] (20,269)<div  />
+															[43] (20,269)<div  />
+																[44] (20,269)<div  />
+																	[45] (20,269)<img  />
+											[46] (104,269)<div  />
+												[47] (104,269)<div >AI 이미지·영상 프롬프트 완벽 가이드 />
+		[48] (93,511)<div  />
+			[49] (93,511)<div  />
+				[50] (93,501)<div  />
+					[51] (93,346)<div class='x87ps6o x1b7c0jy x1ypdohk notion-outliner-private-header' id=':rg:' role='button' />
+						[52] (33,346)<span >개인 페이지 />
+						[53] (150,346)<div  />
+					[54] (93,501)<div class='notion-outliner-private' id=':rf:' role='tree' />
+						[55] (93,501)<div  />
+							[56] (93,501)<div  />
+								[57] (93,397)<div  />
+									[58] (93,397)<a class='x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq' href='/2e8140c5dd5d805aa3e6f61e05280823?pvs=12' role='treeitem' />
+										[59] (93,397)<div  />
+											[60] (20,397)<div  />
+												[61] (20,397)<div  />
+													[62] (20,397)<div  />
+														[63] (20,397)<div  />
+															[64] (20,397)<span aria-label='페이지 아이콘 변경' role='img' />
+											[65] (104,397)<div  />
+												[66] (94,397)<div >@2026년 1월 15일 오전 5:31 />
+								[67] (93,449)<div  />
+									[68] (93,449)<a class='x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq' href='/1-2e8140c5dd5d805e90e8cef9b614e7d4?pvs=12' role='treeitem' />
+										[69] (93,449)<div  />
+											[70] (20,449)<div  />
+												[71] (20,449)<div  />
+													[72] (20,449)<div  />
+														[73] (20,449)<div  />
+															[74] (20,449)<span aria-label='페이지 아이콘 변경' role='img' />
+											[75] (104,449)<div  />
+												[76] (63,449)<div >@1월 14일
+(1) />
+								[77] (93,501)<div  />
+									[78] (93,501)<a class='x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq' href='/2e8140c5dd5d809d8b3aeeb0d792a721?pvs=12' role='treeitem' />
+										[79] (93,501)<div  />
+											[80] (20,501)<div  />
+												[81] (20,501)<div  />
+													[82] (20,501)<div  />
+														[83] (20,501)<div  />
+															[84] (20,501)<span aria-label='페이지 아이콘 변경' role='img' />
+											[85] (104,501)<div  />
+												[86] (56,501)<div >@1월 14일 />
+								[87] (93,553)<div  />
+									[88] (93,553)<a class='x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq' href='/4000-2e5140c5dd5d812ea289c66a0a44e367?pvs=12' role='treeitem' />
+										[89] (93,553)<div  />
+											[90] (20,553)<div  />
+												[91] (20,553)<div  />
+													[92] (20,553)<div  />
+														[93] (20,553)<div  />
+															[94] (20,553)<span aria-label='페이지 아이콘 변경' role='img' />
+											[95] (104,553)<div  />
+												[96] (104,553)<div >지금 당장 사용 가능 나노바나나 4000개 />
+								[97] (93,604)<div  />
+									[98] (93,604)<a class='x87ps6o x1b7c0jy x1ypdohk x1heor9g x1hl2dhg x1lliihq' href='/15-2e4140c5dd5d8162b9a1f135afe42f76?pvs=12' role='treeitem' />
+										[99] (93,604)<div  />
+											[100] (20,604)<div  />
+												[101] (20,604)<div  />
+													[102] (20,604)<div  />
+														[103] (20,604)<div  />
+															[104] (20,604)<div  />
+																[105] (20,604)<div  />
+																	[106] (20,604)<img  />
+											[107] (104,604)<div  />
+												[108] (104,604)<div >15초 안에 트렌디한 레고 피규어 만들기 />
+					[109] (93,656)<div  />
+						[110] (93,656)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+							[111] (93,656)<div  />
+								[112] (20,656)<div  />
+								[113] (104,656)<div >더 보기 />
+		Notion 앱
+		Notion 메일
+		Notion 캘린더
+		Notion 데스크톱
+		라이브러리
+	Notion 계속 사용
+	이 워크스페이스의 무료 블록을 모두 사용했습니다.
+	[114] (82,846)<div class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+		[115] (82,846)<div  />
+			[116] (74,846)<div >요금제 업그레이드 />
+	[117] (81,940)<div aria-label='새 채팅' class='x87ps6o x1b7c0jy x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ha54eg x1ym9u1z x1gat650 x1t8z4yu x14rh7hd xd54fh8 x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+		[118] (81,940)<span  />
+			[119] (90,940)<span >새 채팅 />
+				[120] (109,940)<span  />
+					[121] (109,940)<span >Ctrl+O />
+	[122] (171,940)<div aria-label='새 페이지' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1142k65 x9okykr x3hdh8v xr0m5pc xif65rj x1td3qas x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+	[123] (201,500)<div aria-label='왼쪽 및 오른쪽 방향키로 크기 조정' role='separator' />
+	[124] (599,500)<div  />
+		[125] (599,37)<header  />
+		[126] (599,537)<main  />
+			[127] (599,537)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+				[128] (596,121)<div >라이브러리 />
+					라이브러리
+					[129] (890,121)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd x19zyb68 x16lehos xdxgbl4 xayv9eh x19b482l' role='button'>새 페이지 />
+				[130] (593,203)<div  />
+					[131] (593,203)<div  />
+						[132] (593,203)<div  />
+							[133] (558,203)<div role='tablist' />
+								[134] (507,203)<div  />
+									[135] (507,203)<div  />
+										[136] (316,203)<div  />
+											[137] (316,203)<div  />
+												[138] (316,203)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='tab' />
+													[139] (325,203)<span >팀스페이스 />
+										[140] (386,203)<div  />
+											[141] (386,203)<div  />
+												[142] (386,203)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm xt2wqj3' role='tab' />
+													[143] (396,203)<span >최근 />
+										[144] (452,203)<div  />
+											[145] (452,203)<div  />
+												[146] (452,203)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='tab' />
+													[147] (461,203)<span >즐겨찾기 />
+										[148] (538,203)<div  />
+											[149] (537,203)<div  />
+												[150] (537,203)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='tab' />
+													[151] (547,203)<span >공유된 페이지 />
+										[152] (629,203)<div  />
+											[153] (629,203)<div  />
+												[154] (629,203)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='tab' />
+													[155] (638,203)<span >개인 페이지 />
+										[156] (707,203)<div  />
+											[157] (707,203)<div  />
+												[158] (707,203)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='tab' />
+													[159] (716,203)<span >AI 노트 />
+							[160] (880,203)<div  />
+								[161] (877,203)<div  />
+									[162] (862,203)<div  />
+										[163] (862,203)<div aria-label='필터' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+									[164] (882,203)<div aria-label='검색' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+									[165] (903,203)<div  />
+										[166] (903,203)<div  />
+											[167] (903,203)<div aria-label='설정' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 xxk0z11 x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj xvy4d1p x1c1uobl xyri2b xxs79tx x1o1pmfc x2lah0s x1ds2qyl x14rh7hd x16lehos x1f1i3pa x1iazond xayv9eh x1811ece xigsv13 notion-collection-edit-view' role='button' />
+				[168] (593,1098)<div class='xw2csxc x10wlt62 notion-scroller horizontal notion-collection-view-body' scrollable='true' />
+					[169] (726,936)<div  />
+						[170] (726,926)<div  />
+							[171] (726,926)<div  />
+								[172] (726,266)<div  />
+									[173] (726,266)<div  />
+										[174] (726,266)<div  />
+											[175] (726,266)<div  />
+												[176] (726,266)<div  />
+													[177] (729,266)<div  />
+														[178] (261,266)<div  />
+															[179] (261,266)<div  />
+																[180] (261,266)<div  />
+																	[181] (261,266)<label  />
+																		[182] (261,266)<div  />
+																			[183] (261,266)<div  />
+																				[184] (261,268)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+														[185] (720,266)<div  />
+															[186] (720,266)<div  />
+																[187] (428,266)<div  />
+																	[188] (428,266)<div  />
+																		[189] (428,266)<div  />
+																			[190] (428,266)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																				[191] (428,266)<div  />
+																					[192] (286,266)<div  />
+																						[193] (286,266)<div  />
+																							[194] (286,266)<div  />
+																					[195] (322,266)<div >페이지 이름 />
+																[196] (654,266)<div  />
+																	[197] (654,266)<div  />
+																		[198] (654,266)<div  />
+																			[199] (654,266)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																				[200] (654,266)<div  />
+																					[201] (594,266)<div  />
+																						[202] (594,266)<div  />
+																							[203] (594,266)<div  />
+																					[204] (620,266)<div >생성자: />
+																[205] (801,266)<div  />
+																	[206] (801,266)<div  />
+																		[207] (801,266)<div  />
+																			[208] (801,266)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																				[209] (801,266)<div  />
+																					[210] (740,266)<div  />
+																						[211] (740,266)<div  />
+																							[212] (740,266)<div  />
+																					[213] (761,266)<div >출처 />
+																[214] (947,266)<div  />
+																	[215] (947,266)<div  />
+																		[216] (947,266)<div  />
+																			[217] (947,266)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																				[218] (947,266)<div  />
+																					[219] (887,266)<div  />
+																						[220] (887,266)<div  />
+																							[221] (887,266)<div  />
+																					[222] (934,266)<div >마지막 수정 시간: />
+								[223] (726,956)<div  />
+									[224] (269,956)<div  />
+									[225] (726,956)<div  />
+										[226] (726,956)<div  />
+											[227] (726,327)<div  />
+												[228] (726,327)<div  />
+													[229] (720,327)<div  />
+														[230] (720,327)<div  />
+															[231] (261,326)<div  />
+																[232] (261,326)<div  />
+																	[233] (261,326)<div  />
+																		[234] (261,326)<label  />
+																			[235] (261,326)<div  />
+																				[236] (261,326)<div  />
+																					[237] (261,328)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[238] (428,327)<div  />
+																[239] (278,326)<div  />
+																[240] (434,326)<div  />
+																	[241] (434,326)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		작업
+															[242] (654,327)<div  />
+																[243] (654,326)<div  />
+																	kevincity
+															[244] (801,327)<div  />
+																[245] (801,326)<div  />
+																	[246] (801,326)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[247] (801,325)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																			[248] (801,325)<div  />
+																				[249] (801,325)<span  />
+																					[250] (742,325)<div  />
+																						[251] (742,325)<div  />
+																							[252] (742,325)<div  />
+																								[253] (742,325)<img  />
+																					[254] (790,327)<div >Notion 프로젝트 />
+															[255] (947,327)<div  />
+																[256] (947,326)<div  />
+																	2023년 7월 4일
+											[257] (726,389)<div  />
+												[258] (726,389)<div  />
+													[259] (720,389)<div  />
+														[260] (720,389)<div  />
+															[261] (261,388)<div  />
+																[262] (261,388)<div  />
+																	[263] (261,388)<div  />
+																		[264] (261,388)<label  />
+																			[265] (261,388)<div  />
+																				[266] (261,388)<div  />
+																					[267] (261,390)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[268] (428,389)<div  />
+																[269] (278,388)<div  />
+																[270] (434,388)<div  />
+																	[271] (434,388)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[272] (304,387)<div class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+																			[273] (304,387)<div  />
+																				[274] (304,387)<div  />
+																					[275] (304,387)<img  />
+																		AI 이미지·영상 프롬프트 완벽 가이드
+															[276] (654,389)<div  />
+																[277] (654,388)<div  />
+																	kevincity
+															[278] (801,389)<div  />
+																[279] (801,388)<div  />
+																	[280] (801,388)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+															[281] (947,389)<div  />
+																[282] (947,388)<div  />
+																	1월 15일
+											[283] (726,451)<div  />
+												[284] (726,451)<div  />
+													[285] (720,451)<div  />
+														[286] (720,451)<div  />
+															[287] (261,450)<div  />
+																[288] (261,450)<div  />
+																	[289] (261,450)<div  />
+																		[290] (261,450)<label  />
+																			[291] (261,450)<div  />
+																				[292] (261,450)<div  />
+																					[293] (261,451)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[294] (428,451)<div  />
+																[295] (278,450)<div  />
+																[296] (434,450)<div  />
+																	[297] (434,450)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		작업
+															[298] (654,451)<div  />
+																[299] (654,450)<div  />
+																	kevincity
+															[300] (801,451)<div  />
+																[301] (801,450)<div  />
+																	[302] (801,450)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[303] (753,452)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+																			[304] (741,452)<div  />
+																				[305] (741,452)<div  />
+																					[306] (741,452)<div  />
+																						[307] (741,452)<img  />
+																			[308] (763,454)<div >전체 />
+															[309] (947,451)<div  />
+																[310] (947,450)<div  />
+																	2023년 5월 4일
+											[311] (726,512)<div  />
+												[312] (726,512)<div  />
+													[313] (720,512)<div  />
+														[314] (720,512)<div  />
+															[315] (261,512)<div  />
+																[316] (261,512)<div  />
+																	[317] (261,512)<div  />
+																		[318] (261,512)<label  />
+																			[319] (261,512)<div  />
+																				[320] (261,512)<div  />
+																					[321] (261,513)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[322] (428,512)<div  />
+																[323] (280,517)<div  />
+																	[324] (283,512)<div aria-label='열기' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+																[325] (434,512)<div  />
+																	[326] (434,512)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[327] (304,511)<div class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+																			[328] (304,511)<div  />
+																				[329] (304,511)<div  />
+																					[330] (304,511)<img  />
+																		Notion 프로젝트
+															[331] (654,512)<div  />
+																[332] (654,512)<div  />
+																	kevincity
+															[333] (801,512)<div  />
+																[334] (801,512)<div  />
+																	[335] (801,512)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[336] (801,515)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																			[337] (769,511)<div  />
+																				[338] (779,512)<span >개인 페이지 />
+															[339] (947,512)<div  />
+																[340] (947,512)<div  />
+																	2023년 7월 4일
+											[341] (726,574)<div  />
+												[342] (726,574)<div  />
+													[343] (720,574)<div  />
+														[344] (720,574)<div  />
+															[345] (261,573)<div  />
+																[346] (261,573)<div  />
+																	[347] (261,573)<div  />
+																		[348] (261,573)<label  />
+																			[349] (261,573)<div  />
+																				[350] (261,573)<div  />
+																					[351] (261,575)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[352] (428,574)<div  />
+																[353] (278,573)<div  />
+																[354] (434,573)<div  />
+																	[355] (434,573)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[356] (304,572)<div class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+																			[357] (304,572)<span role='img' />
+																		Veo3
+															[358] (654,574)<div  />
+																[359] (654,573)<div  />
+																	kevincity
+															[360] (801,574)<div  />
+																[361] (801,573)<div  />
+																	[362] (801,573)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[363] (801,577)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																			[364] (769,572)<div  />
+																				[365] (779,574)<span >개인 페이지 />
+															[366] (947,574)<div  />
+																[367] (947,573)<div  />
+																	2025년 8월 12일
+											[368] (726,636)<div  />
+												[369] (726,636)<div  />
+													[370] (720,636)<div  />
+														[371] (720,636)<div  />
+															[372] (261,635)<div  />
+																[373] (261,635)<div  />
+																	[374] (261,635)<div  />
+																		[375] (261,635)<label  />
+																			[376] (261,635)<div  />
+																				[377] (261,635)<div  />
+																					[378] (261,637)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[379] (428,636)<div  />
+																[380] (280,640)<div  />
+																	[381] (283,635)<div aria-label='열기' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+																[382] (434,635)<div  />
+																	[383] (434,635)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[384] (304,634)<div class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+																			[385] (304,634)<span role='img' />
+																		시작하기
+															[386] (654,636)<div  />
+																[387] (654,635)<div  />
+																	kevincity
+															[388] (801,636)<div  />
+																[389] (801,635)<div  />
+																	[390] (801,635)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[391] (801,638)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																			[392] (769,634)<div  />
+																				[393] (779,636)<span >개인 페이지 />
+															[394] (947,636)<div  />
+																[395] (947,635)<div  />
+																	2023년 5월 8일
+											[396] (726,698)<div  />
+												[397] (726,698)<div  />
+													[398] (720,698)<div  />
+														[399] (720,698)<div  />
+															[400] (261,697)<div  />
+																[401] (261,697)<div  />
+																	[402] (261,697)<div  />
+																		[403] (261,697)<label  />
+																			[404] (261,697)<div  />
+																				[405] (261,697)<div  />
+																					[406] (261,698)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[407] (428,698)<div  />
+																[408] (278,697)<div  />
+																[409] (434,697)<div  />
+																	[410] (434,697)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[411] (304,696)<div class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+																			[412] (304,696)<span role='img' />
+																		@2026년 1월 15일 오전 5:31
+															[413] (654,698)<div  />
+																[414] (654,697)<div  />
+																	kevincity
+															[415] (801,698)<div  />
+																[416] (801,697)<div  />
+																	[417] (801,697)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[418] (801,700)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																			[419] (769,696)<div  />
+																				[420] (779,698)<span >개인 페이지 />
+															[421] (947,698)<div  />
+																[422] (947,697)<div  />
+																	1월 15일
+											[423] (726,759)<div  />
+												[424] (726,759)<div  />
+													[425] (720,759)<div  />
+														[426] (720,759)<div  />
+															[427] (261,759)<div  />
+																[428] (261,759)<div  />
+																	[429] (261,759)<div  />
+																		[430] (261,759)<label  />
+																			[431] (261,759)<div  />
+																				[432] (261,759)<div  />
+																					[433] (261,760)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[434] (428,759)<div  />
+																[435] (278,759)<div  />
+																[436] (434,759)<div  />
+																	[437] (434,759)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[438] (304,758)<div class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+																			[439] (304,758)<span role='img' />
+																		@1월 14일
+															[440] (654,759)<div  />
+																[441] (654,759)<div  />
+																	kevincity
+															[442] (801,759)<div  />
+																[443] (801,759)<div  />
+																	[444] (801,759)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[445] (801,762)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																			[446] (769,758)<div  />
+																				[447] (779,759)<span >개인 페이지 />
+															[448] (947,759)<div  />
+																[449] (947,759)<div  />
+																	1월 14일
+											[450] (726,821)<div  />
+												[451] (726,821)<div  />
+													[452] (720,821)<div  />
+														[453] (720,821)<div  />
+															[454] (261,820)<div  />
+																[455] (261,820)<div  />
+																	[456] (261,820)<div  />
+																		[457] (261,820)<label  />
+																			[458] (261,820)<div  />
+																				[459] (261,820)<div  />
+																					[460] (261,822)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[461] (428,821)<div  />
+																[462] (278,820)<div  />
+																[463] (434,820)<div  />
+																	[464] (434,820)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[465] (304,820)<div class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+																			[466] (304,820)<span role='img' />
+																		@1월 14일
+																		(1)
+															[467] (654,821)<div  />
+																[468] (654,820)<div  />
+																	kevincity
+															[469] (801,821)<div  />
+																[470] (801,820)<div  />
+																	[471] (801,820)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[472] (801,824)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																			[473] (769,820)<div  />
+																				[474] (779,821)<span >개인 페이지 />
+															[475] (947,821)<div  />
+																[476] (947,820)<div  />
+																	1월 14일
+											[477] (726,883)<div  />
+												[478] (726,883)<div  />
+													[479] (720,883)<div  />
+														[480] (720,883)<div  />
+															[481] (261,882)<div  />
+																[482] (261,882)<div  />
+																	[483] (261,882)<div  />
+																		[484] (261,882)<label  />
+																			[485] (261,882)<div  />
+																				[486] (261,882)<div  />
+																					[487] (261,884)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[488] (428,883)<div  />
+																[489] (278,882)<div  />
+																[490] (434,882)<div  />
+																	[491] (434,882)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[492] (304,881)<div class='x87ps6o x1b7c0jy x1ypdohk notion-record-icon notranslate' role='button' />
+																			[493] (304,881)<span role='img' />
+																		@1월 14일
+																		@1월 14일
+															[494] (654,883)<div  />
+																[495] (654,882)<div  />
+																	kevincity
+															[496] (801,883)<div  />
+																[497] (801,882)<div  />
+																	[498] (801,882)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[499] (801,881)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																			[500] (801,881)<div  />
+																				[501] (741,881)<div  />
+																					[502] (741,881)<div  />
+																						[503] (741,881)<div  />
+																							[504] (741,881)<div  />
+																								[505] (741,881)<img  />
+																					[506] (746,893)<div  />
+																						[507] (746,893)<div  />
+																							[508] (746,893)<div  />
+																								[509] (746,893)<img  />
+																				[510] (763,883)<div >문서 />
+															[511] (947,883)<div  />
+																[512] (947,882)<div  />
+																	1월 14일
+											[513] (726,945)<div  />
+												[514] (726,945)<div  />
+													[515] (720,945)<div  />
+														[516] (720,945)<div  />
+															[517] (261,944)<div  />
+																[518] (261,944)<div  />
+																	[519] (261,944)<div  />
+																		[520] (261,944)<label  />
+																			[521] (261,944)<div  />
+																				[522] (261,944)<div  />
+																					[523] (261,946)<input class='x10l6tqk xg01cxk xh8yej3 x5yr21d x13vifvy x1o0tod x1ypdohk' />
+															[524] (278,944)<div  />
+															문서
+															[525] (654,945)<div  />
+																[526] (654,944)<div  />
+																	kevincity
+															[527] (801,945)<div  />
+																[528] (801,944)<div  />
+																	[529] (801,944)<div class='x87ps6o x1b7c0jy x1ypdohk' role='button' />
+																		[530] (753,946)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+																			[531] (741,946)<div  />
+																				[532] (741,946)<div  />
+																					[533] (741,946)<div  />
+																						[534] (741,946)<img  />
+																			[535] (763,948)<div >전체 />
+															[536] (947,945)<div  />
+																[537] (947,944)<div  />
+																	1월 10일
+											Lilys AI
+											kevincity
+											개인 페이지
+											2025년 7월 16일
+	[538] (963,915)<div  />
+		[539] (963,915)<div  />
+			[540] (963,915)<div aria-label='AI' class='x87ps6o x1b7c0jy x1ypdohk notion-ai-button' role='button' />
+				[541] (963,915)<div  />
+					[542] (963,915)<div  />
+						[543] (963,915)<div  />
+							[544] (963,915)<div  />
+								[545] (963,915)<div  />
+									[546] (963,915)<img  />
+
+</current_dom>

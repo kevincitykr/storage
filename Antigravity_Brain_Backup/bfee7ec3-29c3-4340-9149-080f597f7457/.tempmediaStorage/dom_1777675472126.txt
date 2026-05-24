@@ -1,0 +1,443 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (40,41)<div  />
+		[2] (29,41)<div  />
+			[3] (29,40)<button class='normal css-1rv5af9 e2kkri01' />
+				[4] (29,40)<span  />
+		[5] (60,41)<div >해구대 />
+			해구대
+	[6] (67,469)<div class='e1sk302d6 e1gzd8jw0 css-1f7d5cm ex82sv80' scrollable='true' />
+		[7] (65,94)<div  />
+			[8] (65,93)<a href='https://global.windly.cc/view3/main' />
+				[9] (65,93)<div  />
+					[10] (65,93)<div  />
+						[11] (15,93)<div  />
+						[12] (26,93)<div >홈 />
+							홈
+		[13] (65,244)<div  />
+			[14] (65,156)<div  />
+				[15] (41,156)<div  />
+					[16] (41,156)<div  />
+						[17] (48,156)<div >상품 수집 및 검색 />
+							상품 수집 및 검색
+			[18] (65,202)<div  />
+				[19] (65,202)<a href='https://global.windly.cc/view3/product-import' />
+					[20] (65,202)<div  />
+						[21] (65,202)<div  />
+							[22] (43,202)<div >상품 수집 />
+								상품 수집
+			[23] (65,246)<a href='https://global.windly.cc/view3/global-sourcing' />
+				[24] (65,246)<div  />
+					[25] (65,246)<div  />
+						[26] (57,246)<div >AI 전세계 상품 수집 />
+							AI 전세계 상품 수집
+			[27] (65,290)<div  />
+				[28] (65,290)<a href='https://global.windly.cc/view3/search-product' />
+					[29] (65,290)<div  />
+						[30] (65,290)<div  />
+							[31] (52,290)<div >1688 상품 검색 />
+								1688 상품 검색
+			[32] (65,334)<div  />
+				[33] (65,334)<a href='https://global.windly.cc/view3/recommended-product' />
+					[34] (65,334)<div  />
+						[35] (65,334)<div  />
+							[36] (62,334)<div >인기 상품 추천 />
+								인기 상품 추천
+								[37] (84,334)<div >New />
+									New
+		[38] (65,463)<div  />
+			[39] (65,396)<div  />
+				[40] (30,396)<div  />
+					[41] (30,396)<div  />
+						[42] (36,396)<div >상품 관리 />
+							상품 관리
+			[43] (65,442)<a href='/view2/interested-product' />
+				[44] (65,442)<div  />
+					[45] (65,442)<div  />
+						[46] (42,442)<div >수집상품 />
+							수집상품
+			[47] (65,486)<a class='active' href='/view2/registered-product' />
+				[48] (65,486)<div  />
+					[49] (65,486)<div  />
+						[50] (42,486)<div >등록상품 />
+							등록상품
+			[51] (65,530)<div  />
+				[52] (65,530)<a href='https://global.windly.cc/view3/stock-sync' />
+					[53] (65,530)<div  />
+						[54] (65,530)<div  />
+							[55] (49,530)<div >재고 업데이트 />
+								재고 업데이트
+		[56] (65,637)<div  />
+			[57] (65,593)<div  />
+				[58] (30,593)<div  />
+					[59] (30,593)<div  />
+						[60] (36,593)<div >상품 분석 />
+							상품 분석
+			[61] (65,639)<a href='https://global.windly.cc/view3/keyword-rank' />
+				[62] (65,639)<div  />
+					[63] (65,639)<div  />
+						[64] (50,639)<div >상품 순위 분석 />
+							상품 순위 분석
+			[65] (65,683)<div  />
+				[66] (65,683)<a href='/view2/inflow-analysis' />
+					[67] (65,683)<div  />
+						[68] (65,683)<div  />
+							[69] (46,683)<div >유입수 분석 />
+								유입수 분석
+		[70] (65,856)<div  />
+			[71] (65,745)<div  />
+				[72] (33,745)<div  />
+					[73] (33,745)<div  />
+						[74] (40,745)<div >판매 관리 />
+							판매 관리
+							[75] (54,738)<div  />
+			[76] (65,791)<div  />
+				[77] (65,791)<a href='https://global.windly.cc/view3/order-management?orderStatus=ACCEPT' />
+					[78] (65,791)<div  />
+						[79] (65,791)<div  />
+							[80] (43,791)<div >주문 관리 />
+								주문 관리
+								[81] (59,785)<div  />
+			[82] (65,835)<div  />
+				[83] (65,835)<a href='https://global.windly.cc/view3/customer-support' />
+					[84] (65,835)<div  />
+						[85] (65,835)<div  />
+							[86] (43,835)<div >문의 관리 />
+								문의 관리
+								[87] (59,829)<div  />
+			취소/교환/반품 관리
+			배송대행지
+			통관고유부호 조회
+	[88] (67,907)<button class='css-13zuw62 e14cppar4' />
+		실시간 삭제
+	[89] (67,969)<div >플랜 결제하기 />
+		플랜 결제하기
+	[90] (138,500)<div  />
+		[91] (133,59)<button class='normal css-1rv5af9 e2kkri01' />
+			[92] (133,59)<span  />
+	[93] (948,940)<div >문의 />
+		문의
+	등록상품
+	[94] (776,31)<div  />
+		[95] (775,31)<div  />
+			[96] (770,31)<span >AI 비서 윈비 />
+			[97] (795,31)<div  />
+	[98] (825,31)<div  />
+		[99] (825,31)<div  />
+			[100] (825,31)<div  />
+	[101] (850,31)<div  />
+		[102] (850,31)<div  />
+			[103] (850,31)<div  />
+	[104] (922,31)<div  />
+		[105] (922,31)<div  />
+			[106] (922,31)<div  />
+				[107] (922,31)<div >kkseob0116@gmail.com />
+					[108] (878,31)<div  />
+	[109] (535,119)<input class='css-7c4ua5 e1wcl2rh2' placeholder='상품명 검색' />
+	[110] (888,119)<button class='secondary css-xme2xs e2kkri01' />
+		[111] (888,119)<span >상품 코드 검색 />
+	[112] (309,180)<div  />
+		추가 업로드
+		수정 업로드
+		상품 삭제
+	페이지 이동
+	[113] (702,180)<input class='css-23fa9p e7pwzwn2' />
+	[114] (751,180)<button class='normal ebvjokl1 css-1j4re7y e2kkri01' />
+		[115] (751,180)<span >1 />
+	[116] (763,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[117] (763,180)<span >2 />
+	[118] (776,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[119] (776,180)<span >3 />
+	[120] (788,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[121] (788,180)<span >4 />
+	[122] (801,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[123] (801,180)<span >5 />
+	[124] (813,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[125] (813,180)<span  />
+	[126] (826,180)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+		[127] (826,180)<span  />
+	총 21953개
+	[128] (900,180)<button class='css-1mb5vlr e1lwwc7f3'>20개 />
+		20개
+		[129] (914,180)<div  />
+	[130] (223,241)<label class='css-0 e18zhkku2' />
+		[131] (223,241)<div  />
+	0
+	개
+	상품명
+	판매가
+	소싱링크
+	오픈마켓 링크
+	유입수 추적상태
+	[132] (790,241)<div  />
+	유입수
+	상품 등록일
+	상품 메모
+	[133] (567,615)<div class='e1qbfy4s2 e1gzd8jw0 css-14ya487 ex82sv80' scrollable='true' />
+		[134] (223,308)<label class='css-0 e18zhkku2' />
+			[135] (223,308)<div  />
+		[136] (420,308)<div >상품 코드:
+235462497 />
+			[137] (420,294)<div  />
+				[138] (378,294)<a class='css-ovk77c' href='/view2/registered-product/235462497'>연세우유 세브란스 A2 프로틴 3종 48팩 (초콜릿16 + 커피16 + 오리지널16) />
+					연세우유 세브란스 A2 프로틴 3종 48팩 (초콜릿16 + 커피16 + 오리지널16)
+			상품 코드:
+			235462497
+		55,500원~
+55,500원
+		[139] (646,308)<div  />
+			[140] (646,308)<div  />
+		[141] (676,295)<div  />
+		[142] (688,295)<div  />
+			[143] (688,295)<div  />
+				[144] (688,295)<img  />
+		[145] (701,295)<div  />
+		[146] (713,295)<div  />
+		[147] (676,322)<div  />
+		[148] (688,322)<div  />
+		[149] (701,322)<div  />
+		[150] (713,322)<div  />
+		[151] (759,308)<div >● 상품 추적중 />
+			● 상품 추적중
+		[152] (808,308)<div  />
+			[153] (808,313)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462497' />
+		2026-05-02 07:36
+		[154] (893,308)<button class='normal css-psiqzn e2kkri01' />
+			[155] (893,308)<span  />
+		[156] (223,396)<label class='css-0 e18zhkku2' />
+			[157] (223,396)<div  />
+		[158] (420,396)<div >상품 코드:
+235462519 />
+			[159] (420,382)<div  />
+				[160] (385,382)<a class='css-ovk77c' href='/view2/registered-product/235462519'>[파라고나] 여성 양말 도톰 데일리 10켤레 세트 면88% 통기성 베이직 중목 흰 양말 />
+					[파라고나] 여성 양말 도톰 데일리 10켤레 세트 면88% 통기성 베이직 중목 흰 양말
+			상품 코드:
+			235462519
+		12,500원~
+12,500원
+		[161] (646,396)<div  />
+			[162] (646,396)<div  />
+		[163] (676,383)<div  />
+			[164] (676,383)<div  />
+				[165] (676,383)<img  />
+		[166] (688,383)<div  />
+			[167] (688,383)<div  />
+				[168] (688,383)<img  />
+		[169] (701,383)<div  />
+		[170] (713,383)<div  />
+		[171] (676,409)<div  />
+		[172] (688,409)<div  />
+		[173] (701,409)<div  />
+		[174] (713,409)<div  />
+		[175] (759,396)<div >● 상품 추적중 />
+			● 상품 추적중
+		[176] (808,396)<div  />
+			[177] (808,401)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462519' />
+		2026-05-02 07:33
+		[178] (893,396)<button class='normal css-psiqzn e2kkri01' />
+			[179] (893,396)<span  />
+		[180] (223,484)<label class='css-0 e18zhkku2' />
+			[181] (223,484)<div  />
+		[182] (420,484)<div >상품 코드:
+235462524 />
+			[183] (420,470)<div  />
+				[184] (367,470)<a class='css-ovk77c' href='/view2/registered-product/235462524'>연세우유 세브란스 A2프로틴 초콜릿 16팩 + 오리지널 16팩 (총32팩) />
+					연세우유 세브란스 A2프로틴 초콜릿 16팩 + 오리지널 16팩 (총32팩)
+			상품 코드:
+			235462524
+		39,000원~
+39,000원
+		[185] (646,484)<div  />
+			[186] (646,484)<div  />
+		[187] (676,471)<div  />
+		[188] (688,471)<div  />
+			[189] (688,471)<div  />
+				[190] (688,471)<img  />
+		[191] (701,471)<div  />
+		[192] (713,471)<div  />
+		[193] (676,497)<div  />
+		[194] (688,497)<div  />
+		[195] (701,497)<div  />
+		[196] (713,497)<div  />
+		[197] (759,484)<div >● 상품 추적중 />
+			● 상품 추적중
+		[198] (808,484)<div  />
+			[199] (808,489)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462524' />
+		2026-05-02 07:32
+		[200] (893,484)<button class='normal css-psiqzn e2kkri01' />
+			[201] (893,484)<span  />
+		[202] (223,572)<label class='css-0 e18zhkku2' />
+			[203] (223,572)<div  />
+		[204] (420,572)<div >상품 코드:
+235462525 />
+			[205] (420,558)<div  />
+				[206] (370,558)<a class='css-ovk77c' href='/view2/registered-product/235462525'>유판 세미마이크로 부드러운 차렵이불 여름이불 간절기이불 플라워 이불 />
+					유판 세미마이크로 부드러운 차렵이불 여름이불 간절기이불 플라워 이불
+			상품 코드:
+			235462525
+		27,500원~
+43,500원
+		[207] (646,572)<div  />
+			[208] (646,572)<div  />
+		[209] (676,559)<div  />
+			[210] (676,559)<div  />
+				[211] (676,559)<img  />
+		[212] (688,559)<div  />
+			[213] (688,559)<div  />
+				[214] (688,559)<img  />
+		[215] (701,559)<div  />
+		[216] (713,559)<div  />
+		[217] (676,585)<div  />
+		[218] (688,585)<div  />
+		[219] (701,585)<div  />
+		[220] (713,585)<div  />
+		[221] (759,572)<div >● 상품 추적중 />
+			● 상품 추적중
+		[222] (808,572)<div  />
+			[223] (808,577)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462525' />
+		2026-05-02 07:32
+		[224] (893,572)<button class='normal css-psiqzn e2kkri01' />
+			[225] (893,572)<span  />
+		[226] (223,660)<label class='css-0 e18zhkku2' />
+			[227] (223,660)<div  />
+		[228] (420,660)<div >상품 코드:
+235462553 />
+			[229] (420,645)<div  />
+				[230] (346,645)<a class='css-ovk77c' href='/view2/registered-product/235462553'>❤️ 다크플래쉬 DS900 ARGB 강화유리 (화이트) PC />
+					❤️ 다크플래쉬 DS900 ARGB 강화유리 (화이트) PC
+			상품 코드:
+			235462553
+		86,000원~
+86,000원
+		[231] (646,660)<div  />
+			[232] (646,660)<div  />
+		[233] (676,647)<div  />
+			[234] (676,647)<div  />
+				[235] (676,647)<img  />
+		[236] (688,647)<div  />
+			[237] (688,647)<div  />
+				[238] (688,647)<img  />
+		[239] (701,647)<div  />
+		[240] (713,647)<div  />
+		[241] (676,673)<div  />
+		[242] (688,673)<div  />
+		[243] (701,673)<div  />
+		[244] (713,673)<div  />
+		[245] (759,660)<div >● 상품 추적중 />
+			● 상품 추적중
+		[246] (808,660)<div  />
+			[247] (808,664)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462553' />
+		2026-05-02 07:30
+		[248] (893,660)<button class='normal css-psiqzn e2kkri01' />
+			[249] (893,660)<span  />
+		[250] (223,748)<label class='css-0 e18zhkku2' />
+			[251] (223,748)<div  />
+		[252] (420,748)<div >상품 코드:
+235462559 />
+			[253] (420,733)<div  />
+				[254] (335,733)<a class='css-ovk77c' href='/view2/registered-product/235462559'>NZXT F240 RGB CORE 블랙 쿨링팬 RGB팬 />
+					NZXT F240 RGB CORE 블랙 쿨링팬 RGB팬
+			상품 코드:
+			235462559
+		89,500원~
+89,500원
+		[255] (646,748)<div  />
+			[256] (646,748)<div  />
+		[257] (676,734)<div  />
+		[258] (688,734)<div  />
+			[259] (688,734)<div  />
+				[260] (688,734)<img  />
+		[261] (701,734)<div  />
+		[262] (713,734)<div  />
+		[263] (676,761)<div  />
+		[264] (688,761)<div  />
+		[265] (701,761)<div  />
+		[266] (713,761)<div  />
+		[267] (759,748)<div >● 상품 추적중 />
+			● 상품 추적중
+		[268] (808,748)<div  />
+			[269] (808,752)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462559' />
+		2026-05-02 07:30
+		[270] (893,748)<button class='normal css-psiqzn e2kkri01' />
+			[271] (893,748)<span  />
+		[272] (223,835)<label class='css-0 e18zhkku2' />
+			[273] (223,835)<div  />
+		[274] (420,835)<div >상품 코드:
+235462565 />
+			[275] (420,821)<div  />
+				[276] (343,821)<a class='css-ovk77c' href='/view2/registered-product/235462565'>❤️ 다크플래쉬 DS900 ARGB 강화유리 (블랙) PC />
+					❤️ 다크플래쉬 DS900 ARGB 강화유리 (블랙) PC
+			상품 코드:
+			235462565
+		79,500원~
+79,500원
+		[277] (646,835)<div  />
+			[278] (646,835)<div  />
+		[279] (676,822)<div  />
+			[280] (676,822)<div  />
+				[281] (676,822)<img  />
+		[282] (688,822)<div  />
+			[283] (688,822)<div  />
+				[284] (688,822)<img  />
+		[285] (701,822)<div  />
+		[286] (713,822)<div  />
+		[287] (676,849)<div  />
+		[288] (688,849)<div  />
+		[289] (701,849)<div  />
+		[290] (713,849)<div  />
+		[291] (759,835)<div >● 상품 추적중 />
+			● 상품 추적중
+		[292] (808,835)<div  />
+			[293] (808,840)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462565' />
+		2026-05-02 07:30
+		[294] (893,835)<button class='normal css-psiqzn e2kkri01' />
+			[295] (893,835)<span  />
+		[296] (223,923)<label class='css-0 e18zhkku2' />
+			[297] (223,923)<div  />
+		[298] (420,923)<div >상품 코드:
+235462579 />
+			[299] (420,909)<div  />
+				[300] (318,909)<a class='css-ovk77c' href='/view2/registered-product/235462579'>유판 플라워 미니 러그 침실 카페트 />
+					유판 플라워 미니 러그 침실 카페트
+			상품 코드:
+			235462579
+		21,000원~
+28,000원
+		[301] (646,923)<div  />
+			[302] (646,923)<div  />
+		[303] (676,910)<div  />
+			[304] (676,910)<div  />
+				[305] (676,910)<img  />
+		[306] (688,910)<div  />
+			[307] (688,910)<div  />
+				[308] (688,910)<img  />
+		[309] (701,910)<div  />
+		[310] (713,910)<div  />
+		[311] (676,936)<div  />
+		[312] (688,936)<div  />
+		[313] (701,936)<div  />
+		[314] (713,936)<div  />
+		[315] (759,923)<div >● 상품 추적중 />
+			● 상품 추적중
+		[316] (808,923)<div  />
+			[317] (808,928)<a class='css-1kn95qd emmresw0' href='https://global.windly.cc/view2/inflow-analysis?selected=235462579' />
+		2026-05-02 07:29
+		[318] (893,923)<button class='normal css-psiqzn e2kkri01' />
+			[319] (893,923)<span  />
+		유판 쿨링 소파패드 냉감 소파매트
+		31,000원~
+34,500원
+		2026-05-02 07:29
+[320] (789,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[321] (789,875)<span >홈 />
+[322] (862,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[323] (862,851)<div  />
+		[324] (868,839)<div  />
+	[325] (862,876)<span >대화 />
+[326] (935,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[327] (935,875)<span >설정 />
+
+</current_dom>

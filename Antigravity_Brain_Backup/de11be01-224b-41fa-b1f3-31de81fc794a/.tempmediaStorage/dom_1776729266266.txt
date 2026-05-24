@@ -1,0 +1,55 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (98,44)<div role='button' />
+	[1] (98,44)<a href='/3a4e5da5-0d40-4bab-b386-0f118f722ce9' />
+		[2] (98,44)<div  />
+			[3] (37,44)<div  />
+				[4] (37,44)<div  />
+					[5] (37,44)<div  />
+						[6] (37,44)<img  />
+			[7] (111,44)<div >Windly 사용가이드 />
+/
+[8] (261,44)<div role='button' />
+	[9] (261,44)<a href='/81b7f158-f260-4edf-8fcc-966157df6236' />
+		[10] (261,44)<div  />
+			[11] (201,44)<div  />
+				[12] (201,44)<div  />
+					[13] (201,44)<div  />
+						[14] (201,44)<img  />
+			[15] (275,44)<div >엑셀 상품 수집하기 />
+[16] (797,44)<div aria-label='Search' class='search-button css-nkjb6j' role='button' />
+	[17] (807,44)<span >Search />
+[18] (879,44)<div class='share-button css-ax50c0 e1pzqsz00' role='button' />
+	[19] (890,44)<span >Share />
+[20] (949,51)<label aria-label='Turn on the dark mode' />
+	[21] (949,44)<div  />
+	[22] (937,44)<div  />
+📂
+[23] (492,420)<div  />
+	[24] (492,420)<h1  />
+		[25] (193,420)<span >엑셀 상품 수집하기 />
+엑셀 파일로 상품의 링크와 카테고리 등 정보를 정리하여 수집할 수 있어요.
+최대 300개의 상품을 한꺼번에 수집할 수 있습니다.
+엑셀 수집 시에는
+엑셀 (마이크로소프트) 프로그램만
+사용 가능해요.
+한셀 프로그램으로는 기능 사용이 불가합니다.
+만약 엑셀 프로그램이 없다면, 구글 스프레드 시트를 사용하여 작업해 주세요.
+[26] (726,693)<a class='notion-link-token notion-enable-hover' href='#2788102515df801abc94dfefda91e046' />
+	[27] (726,693)<span >(자세히 보기) />
+[28] (122,810)<div aria-label='unfold' role='button' />
+[29] (589,810)<div  />
+	[30] (376,810)<span >좌측 세모(
+)를 클릭한 후, 항목을 선택하면 해당 위치로 이동해요! />
+		[31] (220,810)<img  />
+		[32] (602,810)<img  />
+엑셀 상품 수집 방법
+1
+.
+윈들리 좌측 '상품 수집 및 검색' > 상품 수집 메뉴에서
+엑셀 수집
+을 클릭해 주세요.
+
+</current_dom>

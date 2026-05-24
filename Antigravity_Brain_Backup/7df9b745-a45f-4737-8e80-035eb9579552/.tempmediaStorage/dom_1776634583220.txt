@@ -1,0 +1,117 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+upload2601 기기가 "kevincity share" (embcu-ntnsc) 폴더를 공유하길 원합니다.
+새 폴더를 추가하시겠습니까?
+[0] (746,82)<button class='btn btn-sm btn-success ng-scope' />
+	[1] (736,84)<span  />
+	[2] (751,81)<span >추가 />
+[3] (789,82)<button class='btn btn-sm btn-danger' />
+	[4] (779,84)<span  />
+	[5] (793,81)<span >무시 />
+[6] (836,82)<button class='btn btn-sm btn-default' />
+	[7] (822,84)<span  />
+	[8] (841,81)<span >나중에 />
+폴더
+[9] (310,290)<button class='btn panel-heading' />
+	[10] (310,290)<h4  />
+		[11] (147,290)<div  />
+			[12] (147,290)<span  />
+		[13] (468,290)<div  />
+			[14] (466,289)<span >탐색 />
+		[15] (305,290)<div  />
+			[16] (206,289)<span >Kevincity Share />
+폴더 아이디
+rlpuk-xkiiv
+폴더 경로
+D:\20260412 kevincity share
+전체 기기 상태
+40,810
+69,947
+~121 GiB
+현재 기기 상태
+4,608
+68,958
+~110 GiB
+[17] (445,505)<a  />
+	[18] (445,506)<i >무시 양식으로 축소됨 />
+동기화 미완료 항목
+[19] (423,545)<a class='ng-binding'>36,130
+, ~10.9 GiB />
+	[20] (415,545)<span >개의 항목 />
+폴더 유형
+송수신
+재탐색
+1시간
+활성화됨
+파일 수신 순서
+무작위
+공유된 기기
+[21] (456,706)<a class='ng-binding ng-scope'>upload2601 />
+	[22] (483,700)<sup >1 />
+최근 탐색
+2026-04-20 06:27:50
+[23] (353,812)<button class='btn btn-sm btn-default ng-scope' />
+	[24] (334,814)<span  />
+	[25] (359,811)<span >일시 중지 />
+재탐색
+[26] (459,812)<button class='btn btn-sm btn-default' />
+	[27] (450,814)<span  />
+	[28] (465,811)<span >편집 />
+[29] (316,909)<button class='btn btn-sm btn-default ng-scope' />
+	[30] (287,911)<span  />
+	[31] (321,908)<span >모두 일시 중지 />
+[32] (393,909)<button class='btn btn-sm btn-default ng-scope' />
+	[33] (370,911)<span  />
+	[34] (398,908)<span >모두 재탐색 />
+[35] (460,909)<button class='btn btn-sm btn-default' />
+	[36] (441,911)<span  />
+	[37] (465,908)<span >폴더 추가 />
+현재 기기
+[38] (690,290)<button class='btn panel-heading' />
+	[39] (690,290)<h4  />
+		[40] (526,290)<identicon  />
+		[41] (701,290)<div >kevincityHQ />
+수신 속도
+[42] (830,348)<a class='toggler ng-binding' href='#'>(9.53 MiB) />
+	[43] (806,348)<span >1 B/s />
+송신 속도
+[44] (830,388)<a class='toggler ng-binding' href='#'>(11.8 MiB) />
+	[45] (806,388)<span >0 B/s />
+현재 기기 상태(합계)
+4,608
+68,958
+~110 GiB
+대기자
+[46] (858,469)<a class='ng-binding text-success'>3/3 />
+탐지
+[47] (858,509)<a class='ng-binding'>4/5 />
+가동 시간
+7시간 57분
+아이디
+[48] (842,590)<a class='ng-binding'>UW5V5CO />
+버전
+v2.0.16, Windows (64-bit Intel/AMD)
+다른 기기
+[49] (690,793)<button class='btn panel-heading' />
+	[50] (526,765)<div  />
+	[51] (690,793)<h4  />
+		[52] (526,793)<identicon  />
+		[53] (799,793)<div  />
+			[54] (754,792)<span >동기화 />
+			[55] (806,792)<span >(9%, 110 GiB) />
+			[56] (853,793)<span  />
+				[57] (853,791)<span  />
+		[58] (635,793)<div >upload2601 />
+[59] (663,883)<button class='btn btn-sm btn-default ng-scope' />
+	[60] (634,885)<span  />
+	[61] (668,882)<span >모두 일시 중지 />
+[62] (747,883)<button class='btn btn-sm btn-default' />
+	[63] (719,885)<span  />
+	[64] (755,882)<span >최근 변경 항목 />
+[65] (832,883)<button class='btn btn-sm btn-default' />
+	[66] (803,885)<span  />
+	[67] (836,882)<span >다른 기기 추가 />
+
+</current_dom>

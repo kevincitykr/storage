@@ -1,0 +1,353 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Loading
+Skip to content
+Navigation Menu
+[0] (32,40)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[1] (85,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Platform />
+[2] (150,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Solutions />
+[3] (219,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Resources />
+[4] (296,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Open Source />
+[5] (373,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Enterprise />
+[6] (430,40)<a class='NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM' href='https://github.com/pricing' />
+	[7] (430,40)<span >Pricing />
+[8] (736,40)<button aria-label='Search or jump to…' class='header-search-button placeholder input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none' placeholder='Search or jump to...' />
+	[9] (642,40)<div  />
+	[10] (736,40)<span >Search or jump to... />
+	[11] (833,40)<div  />
+[12] (872,40)<a class='HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fconnect-ai%2Fblob%2Fmain%2Fsrc%2Fextension.ts'>Sign in />
+[13] (926,40)<a class='HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1' href='/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fblob%2Fshow&source=header-repo&source_repo=wonseokjung%2Fconnect-ai'>Sign up />
+[14] (968,40)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-e5b7dbc2-a6c8-404f-beb0-47335b1e5b66' />
+[15] (76,115)<a class='url fn' href='/wonseokjung'>wonseokjung />
+/
+[16] (156,115)<a href='/wonseokjung/connect-ai'>connect-ai />
+Public
+[17] (788,114)<a aria-label='You must be signed in to change notification settings' class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' id='repository-details-watch-button'>Notifications />
+[18] (869,114)<a class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' id='fork-button'>Fork />
+	[19] (886,114)<span >28 />
+[20] (944,114)<a aria-label='You must be signed in to star a repository' class='tooltipped tooltipped-sw btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fconnect-ai' />
+	[21] (943,114)<span >Star />
+	[22] (962,114)<span >41 />
+[23] (45,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item selected' href='/wonseokjung/connect-ai' id='code-tab' />
+	[24] (53,177)<span >Code />
+[25] (100,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/issues' id='issues-tab' />
+	[26] (108,177)<span >Issues />
+[27] (171,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/pulls' id='pull-requests-tab' />
+	[28] (179,177)<span >Pull requests />
+[29] (246,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/actions' id='actions-tab' />
+	[30] (254,177)<span >Actions />
+[31] (310,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/projects' id='projects-tab' />
+	[32] (317,177)<span >Projects />
+[33] (400,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/security' id='security-and-quality-tab' />
+	[34] (407,177)<span >Security and quality />
+[35] (489,177)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/connect-ai/pulse' id='insights-tab' />
+	[36] (497,177)<span >Insights />
+[37] (21,240)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[38] (93,294)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[39] (93,294)<span  />
+		[40] (85,294)<span  />
+			[41] (85,294)<div  />
+				[42] (24,294)<div  />
+				[43] (44,294)<div  />
+					[44] (44,294)<span >main />
+[45] (190,294)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[46] (106,339)<span  />
+	[47] (22,339)<span  />
+	[48] (103,339)<input aria-label='Go to file' class='prc-components-Input-IwWrt focus-visible' placeholder='Go to file' role='combobox' />
+	[49] (190,339)<span  />
+		[50] (190,339)<button class='prc-Button-ButtonBase-9n-Xk prc-components-Invisible-bKOcl fgColor-muted prc-Button-IconButton-fyge7' />
+[51] (101,700)<div  />
+	.claude
+	.secondbrain
+	.vscode
+	[52] (16,497)<div  />
+	assets
+	[53] (101,569)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[54] (101,533)<div  />
+			[55] (16,533)<div  />
+			[56] (106,533)<div  />
+				[57] (32,533)<div  />
+					[58] (32,533)<div  />
+				[59] (114,533)<span  />
+					[60] (48,533)<span >src />
+		[61] (101,569)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/MrBeast_Premium_10.md-item' role='treeitem' />
+			[62] (101,569)<div  />
+				[63] (13,569)<div  />
+					[64] (13,569)<div  />
+						[65] (13,569)<div  />
+				[66] (109,569)<div  />
+					[67] (37,569)<div  />
+					[68] (117,569)<span  />
+						[69] (99,569)<span >MrBeast_Premium_10.md />
+		[70] (101,605)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src/extension.ts-item' role='treeitem' />
+			[71] (101,605)<div  />
+				[72] (13,605)<div  />
+					[73] (13,605)<div  />
+						[74] (13,605)<div  />
+				[75] (109,605)<div  />
+					[76] (37,605)<div  />
+					[77] (117,605)<span  />
+						[78] (72,605)<span >extension.ts />
+	[79] (101,641)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[80] (101,641)<div  />
+			[81] (106,641)<div  />
+				[82] (32,641)<div  />
+				[83] (114,641)<span  />
+					[84] (62,641)<span >.gitignore />
+	[85] (101,677)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.vscodeignore-item' role='treeitem' />
+		[86] (101,677)<div  />
+			[87] (106,677)<div  />
+				[88] (32,677)<div  />
+				[89] (114,677)<span  />
+					[90] (71,677)<span >.vscodeignore />
+	[91] (101,714)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='ARCHITECTURE.md-item' role='treeitem' />
+		[92] (101,714)<div  />
+			[93] (106,714)<div  />
+				[94] (32,713)<div  />
+				[95] (114,714)<span  />
+					[96] (81,714)<span >ARCHITECTURE.md />
+	[97] (101,750)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[98] (101,750)<div  />
+			[99] (106,750)<div  />
+				[100] (32,750)<div  />
+				[101] (114,750)<span  />
+					[102] (59,750)<span >LICENSE />
+	[103] (101,786)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[104] (101,786)<div  />
+			[105] (106,786)<div  />
+				[106] (32,786)<div  />
+				[107] (114,786)<span  />
+					[108] (68,786)<span >README.md />
+	[109] (101,822)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='brain-viz.html-item' role='treeitem' />
+		[110] (101,822)<div  />
+			[111] (106,822)<div  />
+				[112] (32,822)<div  />
+				[113] (114,822)<span  />
+					[114] (70,822)<span >brain-viz.html />
+	[115] (101,858)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='idea1_script_draft.md-item' role='treeitem' />
+		[116] (101,858)<div  />
+			[117] (106,858)<div  />
+				[118] (32,858)<div  />
+				[119] (114,858)<span  />
+					[120] (86,858)<span >idea1_script_draft.md />
+	[121] (101,894)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package-lock.json-item' role='treeitem' />
+		[122] (101,894)<div  />
+			[123] (106,894)<div  />
+				[124] (114,894)<span  />
+					[125] (79,894)<span >package-lock.json />
+	[126] (101,930)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='package.json-item' role='treeitem' />
+		[127] (101,930)<div  />
+			[128] (106,930)<div  />
+				[129] (114,930)<span >package.json />
+					package.json
+	[130] (101,966)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='system_schema.json-item' role='treeitem' />
+		[131] (101,966)<div  />
+			[132] (106,966)<div  />
+				[133] (32,966)<div  />
+				[134] (114,966)<span  />
+					[135] (83,966)<span >system_schema.json />
+	tsconfig.json
+[136] (212,704)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[137] (248,240)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/connect-ai/tree/main'>connect-ai />
+/
+[138] (294,240)<a class='Breadcrumb-module__directoryLink__kQy_t prc-Link-Link-9ZwDx' href='/wonseokjung/connect-ai/tree/main/src'>src />
+/
+extension.ts
+[139] (387,240)<button class='prc-Button-ButtonBase-9n-Xk ml-2 prc-Button-IconButton-fyge7' />
+[140] (979,240)<button class='prc-Button-ButtonBase-9n-Xk js-blob-dropdown-click NavigationMenu-module__IconButton__HpX3G prc-Button-IconButton-fyge7' id='_r_33_' />
+Latest commit
+Jay
+and
+Jay
+[141] (454,302)<a class='Link--secondary' href='/wonseokjung/connect-ai/commit/583d30ff08261dfb2e9501913af70c5d8eac10fa'>feat(2.32.0): connected office floor plan + 10 agents + autonomous ch… />
+[142] (614,302)<button class='prc-Button-ButtonBase-9n-Xk LatestCommit-module__IconButton__mkJr_ prc-Button-IconButton-fyge7' />
+[143] (861,302)<a aria-label='Commit 583d30f' class='Link--secondary prc-Link-Link-9ZwDx' href='/wonseokjung/connect-ai/commit/583d30ff08261dfb2e9501913af70c5d8eac10fa'>583d30f />
+·
+History
+[144] (958,302)<a class='prc-Button-ButtonBase-9n-Xk d-none d-lg-flex LinkButton-module__linkButton__nFnov flex-items-center fgColor-default' href='/wonseokjung/connect-ai/commits/main/src/extension.ts' />
+	[145] (958,302)<span  />
+		[146] (964,302)<span  />
+			[147] (964,301)<span >History />
+File metadata and controls
+Code
+Blame
+8905 lines (8222 loc) · 473 KB
+[148] (870,371)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/wonseokjung/connect-ai/raw/refs/heads/main/src/extension.ts' />
+	[149] (870,371)<span  />
+		[150] (870,371)<span >Raw />
+[151] (892,371)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[152] (910,371)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[153] (951,371)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_45_' />
+[154] (974,371)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[155] (606,100359)<textarea aria-label='file content' class='react-blob-textarea react-blob-print-hide' id='read-only-cursor-text-area' scrollable='true' />
+[156] (606,100350)<div class='react-code-line-container CodeLines-module__scrollContainerHidden__g7TeZ' scrollable='true' />
+	1
+	2
+	3
+	4
+	[157] (258,507)<div >5 />
+	[158] (258,530)<div >6 />
+	[159] (258,552)<div >7 />
+	[160] (258,575)<div >8 />
+	[161] (258,597)<div >9 />
+	[162] (256,620)<div >10 />
+	[163] (256,642)<div >11 />
+	[164] (256,664)<div >12 />
+	[165] (256,687)<div >13 />
+	[166] (256,709)<div >14 />
+	[167] (256,732)<div >15 />
+	[168] (256,754)<div >16 />
+	[169] (256,777)<div >17 />
+	[170] (256,799)<div >18 />
+	[171] (256,822)<div >19 />
+	[172] (256,844)<div >20 />
+	[173] (256,866)<div >21 />
+		[174] (271,868)<div aria-label='Collapse code section' class='LineNumber-module__codeFoldingChevron__sY2Yt' role='button' />
+	[175] (256,889)<div >22 />
+	[176] (256,911)<div >23 />
+	[177] (256,934)<div >24 />
+	[178] (256,956)<div >25 />
+	[179] (256,979)<div >26 />
+	27
+	import
+	*
+	as
+	vscode
+	from
+	'vscode'
+	;
+	import
+	*
+	as
+	http
+	from
+	'http'
+	;
+	import
+	axios
+	from
+	'axios'
+	;
+	import
+	*
+	as
+	fs
+	from
+	'fs'
+	;
+	import
+	*
+	as
+	path
+	from
+	'path'
+	;
+	import
+	*
+	as
+	os
+	from
+	'os'
+	;
+	import
+	{
+	spawn
+	,
+	spawnSync
+	}
+	from
+	'child_process'
+	;
+	// ============================================================
+	// Security helpers
+	// ============================================================
+	const
+	MAX_HTTP_BODY
+	=
+	5
+	*
+	1024
+	*
+	1024
+	;
+	// 5MB cap on /api/* request bodies
+	const
+	MAX_STREAM_BUFFER
+	=
+	2
+	*
+	1024
+	*
+	1024
+	;
+	// 2MB cap on per-stream line buffer
+	const
+	MAX_FILE_NAME_LEN
+	=
+	200
+	;
+	/**
+	* Run a git subcommand with argv form (no shell interpolation).
+	* Returns stdout on success, throws on failure. Never blocks longer than `timeout`.
+	*/
+	function
+	gitExec
+	(
+	args
+	:
+	string
+	[
+	]
+	,
+	cwd
+	:
+	string
+	,
+	timeout
+	=
+	15000
+	)
+	:
+	string
+	{
+	const
+	res
+	=
+	spawnSync
+	(
+	'git'
+	,
+	args
+	,
+	{
+	cwd
+	,
+	encoding
+	:
+	'utf-8'
+	,
+	timeout
+	,
+	env
+	:
+	{
+	...
+	process
+	.
+	env
+	,
+	GIT_TERMINAL_PROMPT
+	:
+	'0'
+	}
+	// never block on credential prompt
+	}
+	)
+	;
+[180] (606,990)<div class='CodeLines-module__scrollBarContainer__fsxaw' scrollable='true' />
+
+</current_dom>

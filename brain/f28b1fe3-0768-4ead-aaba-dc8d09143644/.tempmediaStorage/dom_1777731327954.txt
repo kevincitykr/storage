@@ -1,0 +1,131 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+자동선택
+전체
+[0] (268,111)<dd class='ls_div' id='ls_div2036' />
+	[1] (209,111)<label >PC용 />
+[2] (268,159)<dd class='ls_div' id='ls_div2037' />
+	[3] (216,159)<label >노트북용 />
+[4] (268,208)<dd class='ls_div on' id='ls_div2038' />
+	[5] (211,208)<label >서버용 />
+[6] (268,256)<dd class='ls_div' id='ls_div2474' />
+	[7] (235,256)<label >XMP/EXPO 메모리 />
+필터
+초기화
+[8] (672,245)<div class='scroll_opt' scrollable='true' />
+	제조사
+	[9] (466,155)<input class='ch_bx' id='chk_52573' />
+	[10] (520,154)<label >삼성전자 />
+	[11] (578,155)<input class='ch_bx' id='chk_52581' />
+	[12] (632,154)<label >G.SKILL />
+	[13] (690,155)<input class='ch_bx' id='chk_52586' />
+	[14] (745,154)<label >ADATA />
+	[15] (803,155)<input class='ch_bx' id='chk_52599' />
+	[16] (857,154)<label >CORSAIR />
+	메모리종류
+	[17] (466,222)<input class='ch_bx' id='chk_97176' />
+	[18] (520,221)<label >DDR5-REG ECC />
+	[19] (578,222)<input class='ch_bx' id='chk_10819' />
+	[20] (632,221)<label >DDR4-REG ECC />
+	[21] (948,282)<a class='btn_toggle' href='javascript:open_opt(1314);' id='btn_toggle1314' />
+	메모리용량
+	[22] (466,289)<input class='ch_bx' id='chk_109634' />
+	[23] (520,288)<label >256GB />
+	[24] (578,289)<input class='ch_bx' id='chk_109668' />
+	[25] (632,288)<label >4GB />
+	[26] (690,289)<input class='ch_bx' id='chk_10805' />
+	[27] (745,288)<label >128GB />
+	[28] (803,289)<input class='ch_bx' id='chk_95848' />
+	[29] (857,288)<label >96GB />
+	64GB
+	32GB
+	16GB
+	[30] (948,349)<a class='btn_toggle' href='javascript:open_opt(1316);' id='btn_toggle1316' />
+	메모리클럭
+	[31] (466,356)<input class='ch_bx' id='chk_85055' />
+	[32] (520,355)<label >6400MHz (PC5-51200) />
+	[33] (578,356)<input class='ch_bx' id='chk_84654' />
+	[34] (632,355)<label >5600MHz (PC5-44800) />
+	[35] (690,356)<input class='ch_bx' id='chk_10822' />
+	[36] (745,355)<label >4800MHz (PC5-38400) />
+	[37] (803,356)<input class='ch_bx' id='chk_10837' />
+	[38] (857,355)<label >3200MHz (PC4-25600) />
+	2933MHz (PC4-23400)
+	2666MHz (PC4-21300)
+	2400MHz (PC4-19200)
+	방열판유/무
+	방열판 유
+	방열판 무
+메모리
+[39] (353,470)<input id='Search_free' />
+무료배송
+[40] (418,470)<input id='Search_Event' />
+행사제품보기
+총
+32
+건
+[41] (307,548)<input id='SearchKeyword' />
+[42] (363,549)<a href='javascript:search_keyword();' />
+[43] (433,548)<select  />
+[44] (259,1047)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[45] (65,706)<a class='imgbox' href='javascript:detail_show('1205143')' title='[제품코드:1205143]' />
+	[46] (221,701)<a class='imgbox' href='javascript:detail_show('1205143')'>DDR5-REG ECC / 64GB / 5600MHz (PC5-44800) / 방열판 무 / 서버용 / M321R8GA0PB0-CWM / M321R8GA0EB2-CWMKH />
+		[47] (221,674)<b >[삼성전자] 삼성 DDR5 PC5-44800 ECC/REG 서버용 [64GB] (5600)[1205143] />
+	[48] (111,781)<span class='evtIco_obj'>특송 />
+	판매가격
+	4,400,000
+	[49] (451,727)<a class='buttons' href='javascript:select_basket('1205143','N',1);' id='basket1205143' />
+		[50] (451,727)<span >담기 />
+	[51] (65,917)<a class='imgbox' href='javascript:detail_show('1205145')' title='[제품코드:1205145]' />
+	[52] (221,912)<a class='imgbox' href='javascript:detail_show('1205145')'>DDR5-REG ECC / 32GB / 5600MHz (PC5-44800) / 방열판 무 / 서버용 / M321R4GA3EB2 - CWMKH />
+		[53] (221,886)<b >[삼성전자] 삼성 DDR5 PC5-44800 ECC/REG 서버용 [32GB] (5600)[1205145] />
+	판매가격
+	1,926,000
+	[54] (451,917)<a class='buttons' href='javascript:select_basket('1205145','N',1);' id='basket1205145' />
+		[55] (451,917)<span >담기 />
+총 견적금액
+750,150
+원
+[56] (536,548)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[57] (565,548)<input  />
+[58] (594,548)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[59] (658,548)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[60] (658,548)<span >전체수량변경 />
+[61] (546,659)<label  />
+	[62] (528,658)<span  />
+		[63] (528,658)<input  />
+	[64] (554,658)<span >전체선택 />
+[65] (713,658)<a class='wbtn' href='javascript:add_wish_list();' />
+	[66] (713,659)<span >관심상품추가 />
+[67] (774,658)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[68] (774,659)<span >장바구니담기 />
+[69] (833,658)<a class='wbtn' />
+	[70] (833,659)<span >견적서출력 />
+[71] (891,658)<a class='wbtn' href='javascript:speck_form();' />
+	[72] (891,659)<span >사양검토요청 />
+초기화
+[73] (529,750)<label  />
+	[74] (529,749)<span  />
+		[75] (528,752)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[76] (563,749)<span >인텔 병행수입 />
+[77] (640,802)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[78] (873,781)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[79] (896,781)<input class='change__ea' id='Amount_1108547' />
+[80] (919,781)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[81] (529,897)<label  />
+	[82] (529,896)<span  />
+		[83] (528,899)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[84] (565,896)<span >인텔 소켓 1700 />
+[85] (640,936)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[86] (690,937)<i  />
+판매가격
+174,150
+[87] (873,915)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[88] (896,915)<input class='change__ea' id='Amount_1118926' />
+[89] (919,915)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />
+
+</current_dom>

@@ -1,0 +1,132 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (150,46)<a class='link' href='https://www.naver.com' />
+	[1] (150,46)<i  />
+[2] (379,40)<fieldset  />
+	[3] (340,46)<input class='box_window' id='nx_query' placeholder='검색어를 입력해 주세요.' role='combobox' />
+	[4] (575,46)<button class='bt_search' />
+		[5] (572,46)<i  />
+	[6] (530,46)<a class='bt_setkr' href='#' id='ke_kbd_btn' role='button' />
+		[7] (528,46)<i  />
+	[8] (546,44)<a class='bt_atcp _btn_arw' href='#' id='nautocomplete' role='button' />
+		[9] (546,47)<i  />
+[10] (943,46)<a class='gnb_btn_login' href='https://nid.naver.com/nidlogin.login?url=https%3A%2F%2Fsearch.naver.com%2Fsearch.naver%3Fquery%3D%25EC%25A4%2591%25EA%25B3%25A0%25EB%2582%2598%25EB%259D%25BC%2Bi7-13700%2B%25EB%25B3%25B8%25EC%25B2%25B4' id='gnb_login_button' />
+	[11] (943,46)<span >로그인 />
+[12] (975,45)<a class='gnb_service' href='javascript:;' />
+	[13] (975,46)<span  />
+[14] (348,136)<div class='api_flicking_wrap _conveyer_root' role='tablist' scrollable='true' />
+	[15] (164,136)<a class='tab' href='?ssc=tab.blog.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>블로그 />
+	[16] (208,136)<a class='tab' href='?ssc=tab.cafe.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>카페 />
+	[17] (251,136)<a class='tab' href='?ssc=tab.image.all&where=image&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>이미지 />
+	[18] (294,136)<a class='tab' href='?ssc=tab.clip.all&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>클립 />
+	[19] (338,136)<a class='tab' href='?ssc=tab.kin.kqna&where=kin&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>지식iN />
+	[20] (396,136)<a class='tab' href='?ssc=tab.influencer.chl&where=influencer&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>인플루언서 />
+	[21] (453,136)<a class='tab' href='?ssc=tab.video.all&where=video&sm=tab_jum&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>동영상 />
+	[22] (497,136)<a class='tab' href='https://search.shopping.naver.com/search/all?where=all&frm=NVSCTAB&query=%EC%A4%91%EA%B3%A0%EB%82%98%EB%9D%BC+i7-13700+%EB%B3%B8%EC%B2%B4' role='tab'>쇼핑 />
+	뉴스
+	숏텐츠
+	어학사전
+	지도
+	도서
+	지식백과
+	학술정보
+[23] (542,136)<a class='btn' href='#' role='button' />
+	[24] (542,136)<span  />
+		[25] (543,136)<i  />
+[26] (574,136)<a class='nav_more _more_btn' href='#' role='button' />
+	[27] (574,138)<i  />
+[28] (967,137)<a class='spnew2_bf bt_share naver-splugin' href='#' id='spiButton2' role='button'>공유 />
+중고나라 i7-13700 본체 검색 결과
+중고나라i7-13700본체
+관련 광고
+[29] (330,266)<a class='api_ad_link' href='javascript:void(0);' role='button' />
+	[30] (332,266)<i  />
+[31] (544,266)<a class='sub_link' href='//saedu.naver.com/adbiz/searchad/clickChoice.naver'>등록 안내 />
+[32] (162,348)<a class='favicon_wrap' href='https://ader.naver.com/v1/V5v1i5KWsXX9dBhjjUzvD1R0TNTqWR-3EZOkTxB_a93G2Kdg0iCEHSMPn1Bg9Lrx8gD-YhkmMx4PQqnKtLfYVdm_VnVJOKn1QV0ysyJ3FlkwrAHZkUxD150qPTLLbShao_toKKlxvwWUWhE3mdcPU5H2poFJwLAy7C6Gi4M8xSu1MGiO99seQIy0_MvdWvfEues2hcFLzYllqEgz5on2USCmEGRntT7PspvMUpwGEu5DbUBfcd0wqT2s4YioR1A7uFFaBHtitqsDK_zhyR60vcz0FgYYh4-T1CUBTb-dhOYl45WSByvG4MJDjKl2caWCL9eWSdvmNqVY35iJmEg0suJNHjtkaR4bgdlzk_m_s3pEAL3YQ_dzHEHURI94ZMVk5yLliHUY0j9TJWVn1OnlPx8IQboqVICT1ABWpEuOA1BGOy1D9Vh8qVcr56NX1Gqc1Lwt5V7kx0jHOGeaDJQNsA6NyrSmsrmOIxlMf8-Dc5pvfSDDZu0m_rWTE61mDgWF?c=naver.search.pc.plsearch&t=0' />
+	[33] (162,348)<img  />
+[34] (183,348)<a class='site' href='https://ader.naver.com/v1/V5v1i5KWsXX9dBhjjUzvD1R0TNTqWR-3EZOkTxB_a93G2Kdg0iCEHSMPn1Bg9Lrx8gD-YhkmMx4PQqnKtLfYVdm_VnVJOKn1QV0ysyJ3FlkwrAHZkUxD150qPTLLbShao_toKKlxvwWUWhE3mdcPU5H2poFJwLAy7C6Gi4M8xSu1MGiO99seQIy0_MvdWvfEues2hcFLzYllqEgz5on2USCmEGRntT7PspvMUpwGEu5DbUBfcd0wqT2s4YioR1A7uFFaBHtitqsDK_zhyR60vcz0FgYYh4-T1CUBTb-dhOYl45WSByvG4MJDjKl2caWCL9eWSdvmNqVY35iJmEg0suJNHjtkaR4bgdlzk_m_s3pEAL3YQ_dzHEHURI94ZMVk5yLliHUY0j9TJWVn1OnlPx8IQboqVICT1ABWpEuOA1BGOy1D9Vh8qVcr56NX1Gqc1Lwt5V7kx0jHOGeaDJQNsA6NyrSmsrmOIxlMf8-Dc5pvfSDDZu0m_rWTE61mDgWF?c=naver.search.pc.plsearch&t=0'>쿠팡 />
+[35] (231,348)<a class='lnk_url' href='https://ader.naver.com/v1/V5v1i5KWsXX9dBhjjUzvD1R0TNTqWR-3EZOkTxB_a93G2Kdg0iCEHSMPn1Bg9Lrx8gD-YhkmMx4PQqnKtLfYVdm_VnVJOKn1QV0ysyJ3FlkwrAHZkUxD150qPTLLbShao_toKKlxvwWUWhE3mdcPU5H2poFJwLAy7C6Gi4M8xSu1MGiO99seQIy0_MvdWvfEues2hcFLzYllqEgz5on2USCmEGRntT7PspvMUpwGEu5DbUBfcd0wqT2s4YioR1A7uFFaBHtitqsDK_zhyR60vcz0FgYYh4-T1CUBTb-dhOYl45WSByvG4MJDjKl2caWCL9eWSdvmNqVY35iJmEg0suJNHjtkaR4bgdlzk_m_s3pEAL3YQ_dzHEHURI94ZMVk5yLliHUY0j9TJWVn1OnlPx8IQboqVICT1ABWpEuOA1BGOy1D9Vh8qVcr56NX1Gqc1Lwt5V7kx0jHOGeaDJQNsA6NyrSmsrmOIxlMf8-Dc5pvfSDDZu0m_rWTE61mDgWF?c=naver.search.pc.plsearch&t=0'>coupang.com />
+[36] (359,394)<a class='lnk_head' href='https://ader.naver.com/v1/V5v1i5KWsXX9dBhjjUzvD1R0TNTqWR-3EZOkTxB_a93G2Kdg0iCEHSMPn1Bg9Lrx8gD-YhkmMx4PQqnKtLfYVdm_VnVJOKn1QV0ysyJ3FlkwrAHZkUxD150qPTLLbShao_toKKlxvwWUWhE3mdcPU5H2poFJwLAy7C6Gi4M8xSu1MGiO99seQIy0_MvdWvfEues2hcFLzYllqEgz5on2USCmEGRntT7PspvMUpwGEu5DbUBfcd0wqT2s4YioR1A7uFFaBHtitqsDK_zhyR60vcz0FgYYh4-T1CUBTb-dhOYl45WSByvG4MJDjKl2caWCL9eWSdvmNqVY35iJmEg0suJNHjtkaR4bgdlzk_m_s3pEAL3YQ_dzHEHURI94ZMVk5yLliHUY0j9TJWVn1OnlPx8IQboqVICT1ABWpEuOA1BGOy1D9Vh8qVcr56NX1Gqc1Lwt5V7kx0jHOGeaDJQNsA6NyrSmsrmOIxlMf8-Dc5pvfSDDZu0m_rWTE61mDgWF?c=naver.search.pc.plsearch&t=0' />
+	[37] (208,393)<span >게이밍
+쿠팡 />
+		[38] (200,393)<strong >중고 />
+		[39] (223,393)<strong >본체 />
+	[40] (331,393)<span >끊김 없는 플레이 즐겨요 />
+[41] (311,431)<a class='link_desc' href='https://ader.naver.com/v1/V5v1i5KWsXX9dBhjjUzvD1R0TNTqWR-3EZOkTxB_a93G2Kdg0iCEHSMPn1Bg9Lrx8gD-YhkmMx4PQqnKtLfYVdm_VnVJOKn1QV0ysyJ3FlkwrAHZkUxD150qPTLLbShao_toKKlxvwWUWhE3mdcPU5H2poFJwLAy7C6Gi4M8xSu1MGiO99seQIy0_MvdWvfEues2hcFLzYllqEgz5on2USCmEGRntT7PspvMUpwGEu5DbUBfcd0wqT2s4YioR1A7uFFaBHtitqsDK_zhyR60vcz0FgYYh4-T1CUBTb-dhOYl45WSByvG4MJDjKl2caWCL9eWSdvmNqVY35iJmEg0suJNHjtkaR4bgdlzk_m_s3pEAL3YQ_dzHEHURI94ZMVk5yLliHUY0j9TJWVn1OnlPx8IQboqVICT1ABWpEuOA1BGOy1D9Vh8qVcr56NX1Gqc1Lwt5V7kx0jHOGeaDJQNsA6NyrSmsrmOIxlMf8-Dc5pvfSDDZu0m_rWTE61mDgWF?c=naver.search.pc.plsearch&t=0'>고사양 게이밍
+, 렉 없이 부드러운 게임과 작업을 경험하세요. />
+	[42] (229,431)<strong >중고 />
+	[43] (250,431)<strong >본체 />
+[44] (180,484)<a class='link' href='https://ader.naver.com/v1/_3JRRVNLu44KZ4NAau6v4Ge04azeuQ35bqOuF4h0IN-0Ki2-I7mLbp8czqtHTLDLduf4rE3IO-nw1Xv_e11A3NiBmipJgFCvE3DyzWZPnHSS0AkN39EG7awemvkH70bauGGmZaQ3uXtSAza2mrYjIgvTcCYHegG-qNxCYkomx1jJ7_RT4e4kMIYDhJqZhxzRuw4WmGD4w6E_ENS37ZkxwE6uRfnM9bfFffklZWOiunKJLT0YTYeaE_ZAVvEPEXjdKgiWQYDE-NHh8Qo8ZUhqMpQLzuNmz5zqUqcKw-ztnINcnRtaYg7j14T61QSjBoU9KZX45ymvigLBz6zAUfalNwOFnE6jPWBBMOgLxOnh2rt0bteZBRyTwFI_yVBLiaFqHippZuTnOY6lgEZ9GLniB0F8mCcmDRVNyLtagLfjBhsVQFa6oEIz25S9pwsu5-Mt7_iRqRnZ2bFH4Czd8vvwX1IY04mu3V6AFawzJjuRyHV045XhMLPZsVJviqqOkVgKn7WsPWTr8KrFdhNKPl45fw==?c=naver.search.pc.plsearch&t=0'>로켓배송 />
+[45] (235,484)<a class='link' href='https://ader.naver.com/v1/Ee6d8YSLNj_bvggyneAUvTDQCNMg5VtdRFMuwnrFuILGL4liyMA-hF3NGq49pDcJRQnOu9_muATaIAUfBNtDmCRmV6k58Iph6418LmqjBrWcjgODSc6Y5wLwkI3tMrrMAVJHvR2i5S7NcVObYWuByJFK13WvmwGLr3s0FVMPE2rEJEAnef2ILOS40DAF70WKZnIQDeVRGxD7gMjjcsKFs1HF-EBB9KmylMZ-ZTbTPovvIdeCXRmGtSijneLZUi8LLzPy8aovdwM9Jni7IQvtgF92a637jeUMfCspoxkZ1rqLtG-BEa6crvmC0DdAyF0UC5bOaCwDfusPrFfH2UT9T5D4oAfHutVcQzjF8IFiWfKmlauNj5SoAuZ6lHnKzXBFFZhyczODkDbXaVGRuWFQZf4aRYqwXzUyOAmQcTxd7_TTbAsPuNdWzlPBLpsaVUA_Y-R_6CSTndJJpeT4i2t2l9IjZxdwRsavgYQmYOXmuBSVb0hmKO_s3wdLu6cuckN6P1rgeb4sAmLwnR-qfhozJw==?c=naver.search.pc.plsearch&t=0'>로켓직구 />
+[46] (290,484)<a class='link' href='https://ader.naver.com/v1/_3JRRVNLu44KZ4NAau6v4CkJDa0hD1SDguKdGUR7QNDrSXSUK9L_2knIMFxV2XwK6bhSKRVhKeMsxuqCC5w4QlDSL9NSOH9BBGgs0nUVmJHOjMUFVx_AvRP6sI4RwF4PQkUvvG8btjqOpif1atJhBNRJY54EtqSZ4XeMMx6MMO3ybZlAivyxdKbRJnCXksTbU4WSePIe1-W0VkXSKK6rRfGFXKoXWhV1Q8rgMQUu3RBW5ouKP1VT7fFw9vR4X_GUfB1aCLbuz5pDFBTijyPICW27OtPDiiozWZ9D_YoG8eTX08qOdd3mLY1R670vhgBfLx4c6of1JZAv5EjHM0HtN5aKDSb-xQj84BcmfXEiSFuMWwQ3ADjViLQuiYOTkyGdDAYd89pnLHfYA1SPZ2yw2E1FLFN5oFsz7VGHNqEGmRA8lDcLipLBh9OIL5GveXZP5TsK7UwdgMk3scRK6YKrX8z6z2ZFN8R-9STcxvblKAAlAFNZTmn1bxElDzKE8fW6vEmxorzEAEmBWnVJ4cbiaw==?c=naver.search.pc.plsearch&t=0'>골드박스 />
+[47] (350,484)<a class='link' href='https://ader.naver.com/v1/1FrTsQYjgTFTLqHWHPqXbh38h9ZJxthpxFl78ySG050hqL59wHoDvnlszZUhMUy-9FpoWOFU6DRpoyo6FPWB2wh8ucDwxpOj6686W2h39pTakwtHIGBOrjTf4nr36-8HPXE_rtHrgiu3MpyTPbRM0DbOLHZGftNQra7i3Aa9niZWjeciUlDQRBDSjIl_WCOOQu6V2AFWjm9NhQPW85k17Gcd1EBPl4sVYOnt_vcbJs36-Gw4U1NTJI8--XiYo1v44Lumn7jBynqmFgrNGzsaHkxHkH9qMSZ5bhDsVA9ydLiIsOMFh6Sv577HKeB5BVcwYa-qXZuFXC4ll0cBu0nf0aMBmHxBhjhz_4xGOo83gcejFoUt2WkmtkVJIINOIFV_hhLKo63Ibhvg4I5Z79cG-qaNLsJ7T0ITk114lUmjKjrolqdYq9cbOWtBdJ6cbqV4PMzyrR2zVLIx2thBJVahdLoz96XUsaVzNN18mO-vVNAjWaNeLBrMzbf_T9S3HAu5xeTBXuxvSP3YC_zvwsUgaqo8DnPo5w0lTU7Ez8UXG-s=?c=naver.search.pc.plsearch&t=0'>로켓프레시 />
+[48] (531,629)<a class='lnk_thumb' href='https://ader.naver.com/v1/egGg8fl7AVkTPGY0cRSLityGkp03jH3FRXLBly6AugCFxIhmfwEzCebLUQCXsp79m-A71PSJgd_ACXPznMv21cJIVoRplFtdOVOq9sof-YPnAoDk039CWWddym3fDW55Ntt6Yt1t4RgO0UY6sXz5k0lq59ZFU60Qblru-R2SJooaf42oP93JUXHs5J97zfUPtYUkRjBDBAtz_Wu1DCUoiLs9zrM9Sqk4TVQPh4nKMTcGA5YWPZHX4etIEZFLCMglfJuhYd8PJ_7ZzP9ow7q4YnQ_RlTqF95pDPl2JpXFjK6qm-S7n8QCkjC88R_g6QHJqFtEnygrQqjFkoiFwz9fKIBICqac6RibhR2VCMJf_DDA8J4Y3V6_pvVtzOOUtPEvbsZ3iUB0pdWI4EAZVUnYCg4doPYfslMOCTMKAd2HfzAx4xYEL2I-f3q135_on4KXdxEzTsIfT8SE0wtmd7-uRMZEhxzD4BEoi2yrikq2stZYU3CEKFm3KTW3AYzh3Sc6?c=naver.search.pc.plsearch&t=0' />
+[49] (162,572)<a class='favicon_wrap' href='https://ader.naver.com/v1/gZpxYpUp9KmRFcvTNZk3cKiLCOvsqh2jyUaHfWVu2k_XDYjC-GROaIOl7jcTPn_eqq1X_HmFMozS6nOiVRRfKz3qrWuPmSGjqtZEt48JzJRYAfvyv2YeLGXLqBahlVnib0M8D04loJOsNhfLRt2NYv2ulN3hUHOg-GysvxEgqFh8_yb2CNBooBNetrlqBgfQQLt8jL02Ihw0ToSBSghLYONkgmj_X-L-altP9d6CDRLzQuMS-tukdAUiy2yEn5n10fRBkFIwWzHJFbQsj_DV6prrYT74dLIbKznMHgXuoLIU2yuZ4EgnYiQzGkFfsuoAw7aswYFXO32SEjZvIZM7Wa4vjoXONAtkWbBNaCV_9Ogt-QaMBRyfRXXZt4exPZkKFZoOY0LSPrU-wbyjWW4BJ0b0Eg45FxAasF5ek-mTNK_wCNXlGju6heF7oXzCStXJRUaVxpKgP82sy-YDZnyrVE4ZUk_2XgFvrYxMHaCfTxaA3aLJOIzzF-L_XHE0OuPM?c=naver.search.pc.plsearch&t=0' />
+	[50] (162,572)<img  />
+[51] (302,572)<button class='sp_nad ico_nlogin'>네이버 로그인 />
+	네이버 로그인
+[52] (188,572)<a class='site' href='https://ader.naver.com/v1/gZpxYpUp9KmRFcvTNZk3cKiLCOvsqh2jyUaHfWVu2k_XDYjC-GROaIOl7jcTPn_eqq1X_HmFMozS6nOiVRRfKz3qrWuPmSGjqtZEt48JzJRYAfvyv2YeLGXLqBahlVnib0M8D04loJOsNhfLRt2NYv2ulN3hUHOg-GysvxEgqFh8_yb2CNBooBNetrlqBgfQQLt8jL02Ihw0ToSBSghLYONkgmj_X-L-altP9d6CDRLzQuMS-tukdAUiy2yEn5n10fRBkFIwWzHJFbQsj_DV6prrYT74dLIbKznMHgXuoLIU2yuZ4EgnYiQzGkFfsuoAw7aswYFXO32SEjZvIZM7Wa4vjoXONAtkWbBNaCV_9Ogt-QaMBRyfRXXZt4exPZkKFZoOY0LSPrU-wbyjWW4BJ0b0Eg45FxAasF5ek-mTNK_wCNXlGju6heF7oXzCStXJRUaVxpKgP82sy-YDZnyrVE4ZUk_2XgFvrYxMHaCfTxaA3aLJOIzzF-L_XHE0OuPM?c=naver.search.pc.plsearch&t=0'>다나와 />
+[53] (238,572)<a class='lnk_url' href='https://ader.naver.com/v1/gZpxYpUp9KmRFcvTNZk3cKiLCOvsqh2jyUaHfWVu2k_XDYjC-GROaIOl7jcTPn_eqq1X_HmFMozS6nOiVRRfKz3qrWuPmSGjqtZEt48JzJRYAfvyv2YeLGXLqBahlVnib0M8D04loJOsNhfLRt2NYv2ulN3hUHOg-GysvxEgqFh8_yb2CNBooBNetrlqBgfQQLt8jL02Ihw0ToSBSghLYONkgmj_X-L-altP9d6CDRLzQuMS-tukdAUiy2yEn5n10fRBkFIwWzHJFbQsj_DV6prrYT74dLIbKznMHgXuoLIU2yuZ4EgnYiQzGkFfsuoAw7aswYFXO32SEjZvIZM7Wa4vjoXONAtkWbBNaCV_9Ogt-QaMBRyfRXXZt4exPZkKFZoOY0LSPrU-wbyjWW4BJ0b0Eg45FxAasF5ek-mTNK_wCNXlGju6heF7oXzCStXJRUaVxpKgP82sy-YDZnyrVE4ZUk_2XgFvrYxMHaCfTxaA3aLJOIzzF-L_XHE0OuPM?c=naver.search.pc.plsearch&t=0'>danawa.com />
+[54] (320,618)<a class='lnk_head' href='https://ader.naver.com/v1/gZpxYpUp9KmRFcvTNZk3cKiLCOvsqh2jyUaHfWVu2k_XDYjC-GROaIOl7jcTPn_eqq1X_HmFMozS6nOiVRRfKz3qrWuPmSGjqtZEt48JzJRYAfvyv2YeLGXLqBahlVnib0M8D04loJOsNhfLRt2NYv2ulN3hUHOg-GysvxEgqFh8_yb2CNBooBNetrlqBgfQQLt8jL02Ihw0ToSBSghLYONkgmj_X-L-altP9d6CDRLzQuMS-tukdAUiy2yEn5n10fRBkFIwWzHJFbQsj_DV6prrYT74dLIbKznMHgXuoLIU2yuZ4EgnYiQzGkFfsuoAw7aswYFXO32SEjZvIZM7Wa4vjoXONAtkWbBNaCV_9Ogt-QaMBRyfRXXZt4exPZkKFZoOY0LSPrU-wbyjWW4BJ0b0Eg45FxAasF5ek-mTNK_wCNXlGju6heF7oXzCStXJRUaVxpKgP82sy-YDZnyrVE4ZUk_2XgFvrYxMHaCfTxaA3aLJOIzzF-L_XHE0OuPM?c=naver.search.pc.plsearch&t=0' />
+	[55] (209,617)<span >CPU 가격비교 다나와 />
+	[56] (320,617)<span >스마트한 쇼핑검색! />
+[57] (315,655)<a class='link_desc' href='https://ader.naver.com/v1/gZpxYpUp9KmRFcvTNZk3cKiLCOvsqh2jyUaHfWVu2k_XDYjC-GROaIOl7jcTPn_eqq1X_HmFMozS6nOiVRRfKz3qrWuPmSGjqtZEt48JzJRYAfvyv2YeLGXLqBahlVnib0M8D04loJOsNhfLRt2NYv2ulN3hUHOg-GysvxEgqFh8_yb2CNBooBNetrlqBgfQQLt8jL02Ihw0ToSBSghLYONkgmj_X-L-altP9d6CDRLzQuMS-tukdAUiy2yEn5n10fRBkFIwWzHJFbQsj_DV6prrYT74dLIbKznMHgXuoLIU2yuZ4EgnYiQzGkFfsuoAw7aswYFXO32SEjZvIZM7Wa4vjoXONAtkWbBNaCV_9Ogt-QaMBRyfRXXZt4exPZkKFZoOY0LSPrU-wbyjWW4BJ0b0Eg45FxAasF5ek-mTNK_wCNXlGju6heF7oXzCStXJRUaVxpKgP82sy-YDZnyrVE4ZUk_2XgFvrYxMHaCfTxaA3aLJOIzzF-L_XHE0OuPM?c=naver.search.pc.plsearch&t=0'>PC 직접 조립하는 당신이 위너! CPU 최저가비교, 추가할인까지 다나와! />
+[58] (320,715)<a class='link_ext_desc' href='https://ader.naver.com/v1/Iq1iWf5b89aroDkvPX2WJx3iU5B9nV03RzMi5V4Z9XKvhS82-NTE6qNOR1Z6xDRnRohtam1Q_dca6QWjQNn26fvIH27bpiXWkehOYqiLGN7LLRGWMTlLi8x78xzRpxlc8b7EJZ_GtQXFXxMbaaMnjtcWPCnG8eLSQ3GJGPsP91B_NSU0K0Al-xZ-zLkWwpYRhyikdGfU5mN-bwS4hvdceRpnYkhUUmV89A5AARAzqNeE-h0EUtPcdLjclJ4pOO6irhBabiq7uUGeuOXGfVvN28uVhC_UN6wE1ZWmcNK2vxIWu1cUyfS1SRzus_55OBq_IRK-zxLUxRSx9S43VWZxDRMWmMjfFFHu7nk0SN8GhyEDL-DJPfgzOty5PNT__d0jMEVzYCwTziET5aTpj87SsFLIsZOryDphOaMs3GEBFAQogQJnbRI7HUoKjuE6SKeEtyFbE50IdvWPlo5oERgSZbaCxY7yz9OcpEMXnawtilxI7263yeLP1lB8W5taU1Za?c=naver.search.pc.plsearch&t=0' />
+	[59] (168,715)<span  />
+		[60] (168,715)<span  />
+	[61] (226,715)<span >상품 가격비교는 다나와 />
+	[62] (476,715)<span aria-label='더보기' class='icon_ext_more' role='img' />
+[63] (162,810)<a class='favicon_wrap' href='https://ader.naver.com/v1/oDw7nI2qhiRT7TKNkJcNyidTOUzZ5GkZcfeRVSMoXhzn9EmCc1sDCXRzgokld3NO1JntqS1kkehBjFFMpzrpvCYeNxjnjqGtgEdrqhYAN2p3RYBU385096D7ID_rD3om5asw2odqV_5D2GmY-GsYHI-MLPH2-BWuSHDMAWbwD5HYTONDZUSQXEdyHDxrMvrJ_pI6LjtBRWeOIRghl104qnln-yNObHHzDg9SutqHbu4StgPUiDKb8Iob8GN8r4A3dpUFqqLKhqtkB30A8MpH15fMo0sGG_FFrSqnxkrWEXi7Ql1bd_8zqFR9i85174dDip6G9dKPwib-k9kedQ2i_9nl4WdHtNkADVmt_d3MYXmMepG1p_fi_eaZLlGoYf4hFvdh2Fz7ZMvk6Ypov-u4EOXyMynHsvFkRnGoPDYCR4Jdm53dTAYwX_oGAVjljKuVwdotw5RQIXudnQZ5lNW9DQ==?c=naver.search.pc.plsearch&t=0' />
+	[64] (162,810)<img  />
+[65] (303,810)<button class='sp_nad ico_nlogin'>네이버 로그인 />
+	네이버 로그인
+[66] (187,810)<a class='site' href='https://ader.naver.com/v1/oDw7nI2qhiRT7TKNkJcNyidTOUzZ5GkZcfeRVSMoXhzn9EmCc1sDCXRzgokld3NO1JntqS1kkehBjFFMpzrpvCYeNxjnjqGtgEdrqhYAN2p3RYBU385096D7ID_rD3om5asw2odqV_5D2GmY-GsYHI-MLPH2-BWuSHDMAWbwD5HYTONDZUSQXEdyHDxrMvrJ_pI6LjtBRWeOIRghl104qnln-yNObHHzDg9SutqHbu4StgPUiDKb8Iob8GN8r4A3dpUFqqLKhqtkB30A8MpH15fMo0sGG_FFrSqnxkrWEXi7Ql1bd_8zqFR9i85174dDip6G9dKPwib-k9kedQ2i_9nl4WdHtNkADVmt_d3MYXmMepG1p_fi_eaZLlGoYf4hFvdh2Fz7ZMvk6Ypov-u4EOXyMynHsvFkRnGoPDYCR4Jdm53dTAYwX_oGAVjljKuVwdotw5RQIXudnQZ5lNW9DQ==?c=naver.search.pc.plsearch&t=0'>G마켓 />
+[67] (237,810)<a class='lnk_url' href='https://ader.naver.com/v1/oDw7nI2qhiRT7TKNkJcNyidTOUzZ5GkZcfeRVSMoXhzn9EmCc1sDCXRzgokld3NO1JntqS1kkehBjFFMpzrpvCYeNxjnjqGtgEdrqhYAN2p3RYBU385096D7ID_rD3om5asw2odqV_5D2GmY-GsYHI-MLPH2-BWuSHDMAWbwD5HYTONDZUSQXEdyHDxrMvrJ_pI6LjtBRWeOIRghl104qnln-yNObHHzDg9SutqHbu4StgPUiDKb8Iob8GN8r4A3dpUFqqLKhqtkB30A8MpH15fMo0sGG_FFrSqnxkrWEXi7Ql1bd_8zqFR9i85174dDip6G9dKPwib-k9kedQ2i_9nl4WdHtNkADVmt_d3MYXmMepG1p_fi_eaZLlGoYf4hFvdh2Fz7ZMvk6Ypov-u4EOXyMynHsvFkRnGoPDYCR4Jdm53dTAYwX_oGAVjljKuVwdotw5RQIXudnQZ5lNW9DQ==?c=naver.search.pc.plsearch&t=0'>gmarket.co.kr />
+[68] (247,874)<a class='lnk_head' href='https://ader.naver.com/v1/oDw7nI2qhiRT7TKNkJcNyidTOUzZ5GkZcfeRVSMoXhzn9EmCc1sDCXRzgokld3NO1JntqS1kkehBjFFMpzrpvCYeNxjnjqGtgEdrqhYAN2p3RYBU385096D7ID_rD3om5asw2odqV_5D2GmY-GsYHI-MLPH2-BWuSHDMAWbwD5HYTONDZUSQXEdyHDxrMvrJ_pI6LjtBRWeOIRghl104qnln-yNObHHzDg9SutqHbu4StgPUiDKb8Iob8GN8r4A3dpUFqqLKhqtkB30A8MpH15fMo0sGG_FFrSqnxkrWEXi7Ql1bd_8zqFR9i85174dDip6G9dKPwib-k9kedQ2i_9nl4WdHtNkADVmt_d3MYXmMepG1p_fi_eaZLlGoYf4hFvdh2Fz7ZMvk6Ypov-u4EOXyMynHsvFkRnGoPDYCR4Jdm53dTAYwX_oGAVjljKuVwdotw5RQIXudnQZ5lNW9DQ==?c=naver.search.pc.plsearch&t=0' />
+	[69] (195,856)<span >-
+G마켓 />
+		[70] (159,856)<strong >I7 />
+		[71] (185,856)<strong >13700 />
+	[72] (242,873)<span >빅스마일데이 한정특가 />
+	[73] (251,890)<span >매일 23만원 쿠폰증정 />
+[74] (247,946)<a class='link_desc' href='https://ader.naver.com/v1/oDw7nI2qhiRT7TKNkJcNyidTOUzZ5GkZcfeRVSMoXhzn9EmCc1sDCXRzgokld3NO1JntqS1kkehBjFFMpzrpvCYeNxjnjqGtgEdrqhYAN2p3RYBU385096D7ID_rD3om5asw2odqV_5D2GmY-GsYHI-MLPH2-BWuSHDMAWbwD5HYTONDZUSQXEdyHDxrMvrJ_pI6LjtBRWeOIRghl104qnln-yNObHHzDg9SutqHbu4StgPUiDKb8Iob8GN8r4A3dpUFqqLKhqtkB30A8MpH15fMo0sGG_FFrSqnxkrWEXi7Ql1bd_8zqFR9i85174dDip6G9dKPwib-k9kedQ2i_9nl4WdHtNkADVmt_d3MYXmMepG1p_fi_eaZLlGoYf4hFvdh2Fz7ZMvk6Ypov-u4EOXyMynHsvFkRnGoPDYCR4Jdm53dTAYwX_oGAVjljKuVwdotw5RQIXudnQZ5lNW9DQ==?c=naver.search.pc.plsearch&t=0'>-
+주말까지 매일매일 빠른배송, 오늘 주문 내일도착 스타배송 />
+	[75] (159,928)<strong >I7 />
+	[76] (182,928)<strong >13700 />
+[77] (385,933)<a class='sublink_item' href='https://ader.naver.com/v1/wAGSCgBzgzRc0xh_ZQqeBvrGsCJjykUiMFsDRRVoZJg1iT2i37QiikGD9wJ4sUemSB-oeQKpVpD-xIg7g8QgCu1kKQtFoYQubOpCzy9BHm14a8Y-EWqXFyKeHRWaR4VnwIBgd64TKO6tGnX2gH6090gUxaLElWYkgGw48380-gQKJ1EyTQQHlqjeRdEFAyIOuBNJoHzA_QVvCppIY2NMsxiIpCcQHrp7loDFj6V7CGFd7_Qno1y3Ln2o9h8lHggp4CUkmCb5MinkhjtY3CV9P0UsqGVlLxRQQ2NxjNRt_36VWRF1xyqSsf5J-IeFEOX07cdpCKpQoucj3EFpjt0eabwNRdkOTDIOOgSAW66zNbbV7afk_xN6Kgs_KkJRs-PlF9szwqDhiQ_fW-O_VeonfsmYmBJxKqfZYKHxmZ1wlDmfO42Zy4XCV7k5xvjoe5sf?c=naver.search.pc.plsearch&t=0' />
+	[78] (385,914)<div  />
+		[79] (385,914)<img  />
+[80] (458,933)<a class='sublink_item' href='https://ader.naver.com/v1/8gvhYCR2aRI0yZv7tsZWbo2uhE-XBFNpvlcC96DlEZ13-s_FwBUUi69j315i--tWZjK1Paozn3X7GnU0gD1C8dTxPMIIL3xbJUDfKTnn3_zt7YqsGnRtrcPoyrsDGVp_8INAeoRY7i4caSetpRL7Y5KpWhAahxR8KAAKT_2aYFrd5PgkNiVi3ksTC_bPV39pgwWn9znucxWO5NCUobGMmjB8QJLhrK-5ozfHLW-UlUaXH12jNvF2i6bhOpbgbiiP1PrPUc_o1FUJuBIfTJ7BfnYS0R7ynx5pcdi2lJKzV37P26y96MlfwnVYKsKuDYFZzuqP8iDkzqBxPn0h1C77I9SDhiRR2CpssBgwOwTpH_nEbfh9RB7rHDTA6uXEQig0hSxSEEX09Nd9U3_bn8t_xi2Cwo1h9mV78PnSRjpKHSbVlUjs8j-ZWxuJQa8vx4TD?c=naver.search.pc.plsearch&t=0' />
+	[81] (458,914)<div  />
+		[82] (458,914)<img  />
+[83] (531,933)<a class='sublink_item' href='https://ader.naver.com/v1/8gvhYCR2aRI0yZv7tsZWbo2uhE-XBFNpvlcC96DlEZ13-s_FwBUUi69j315i--tW_5kFK2ll2KB7yD2s4bCUSgMG1Bgc-bQ_uf5VES65WqlZXeqEOrKxIDNmXdZgHErubQQzRlS2vJMdUDIih8GCuAqx6aCoUNa0E0GH3Ig_A-_vtiEsxmerxQwEFj2BMGGF0n8OsnfBLo1zcorFXJuklQHxaDEN6jalnCxI0GA6TREHOeVebE0B2cFR5EX0y3Q3nr5AX0AKMgZTjhOKfZGP5_ytwp6aMwZoNiVu3Rn1zJmbTokThCSMqZZkQHpNyTlRY8E20rus37qoJDj0mJYp0nB2aEghcYcoXVp56YF1imJ1Aug77PTHLGvH426FFmu5ajn93vYwuMCbwYL2JMm6dJIF2jPU2Q_f5ie2gv9atJdDnqH4OqSRlSPciIXMxSLd?c=naver.search.pc.plsearch&t=0' />
+	[84] (531,914)<div  />
+		[85] (531,914)<img  />
+[86] (747,272)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2603-naverclip-001&target=https%3A%2F%2Fclipcreators.naver.com%2Fpromotion%2Ftoday%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2603-naverclip-001' />
+	[87] (642,272)<div  />
+		[88] (642,272)<img  />
+	[89] (758,272)<div  />
+		[90] (758,259)<strong >좋아하는 건 누구나 남기고 싶으니까 />
+		[91] (758,285)<p >클립 올리면 매주 쌓이는 Npay 포인트 />
+[92] (747,373)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2604-shopping-004&target=https%3A%2F%2Fshopping.naver.com%2Ffesta%2Fgift%2F69b749ff027d292a723a040c%3FlayerId%3DL_260324110101827%26dtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2604-shopping-004' />
+	[93] (642,374)<div  />
+		[94] (642,374)<img  />
+	[95] (758,374)<div  />
+		[96] (758,361)<strong >가정의달+세일 />
+		[97] (758,386)<p >선물에 진심, 혜택에 진심 N+스토어 />
+[98] (747,475)<a class='spnew_bf item' href='https://mkt.naver.com/p1/atrb?channel_id=naver_pcsearchmktbanner&campaign_id=2509-shopping-007&target=https%3A%2F%2Fshopping.naver.com%2Fns%2Fhome%2Fkurlynmart%3Fdtm_source%3Dnaver_pcsearchmktbanner%26dtm_medium%3Dmktatrb_etc%26dtm_campaign%3D2509-shopping-007' />
+	[99] (642,475)<div  />
+		[100] (642,475)<img  />
+	[101] (758,475)<div  />
+		[102] (758,462)<strong >네이버에서 컬리를 />
+		[103] (758,488)<p >멤버십 2만원 이상 무료배송 />
+[104] (747,577)<a class='spnew_bf item' href='https://naver.me/FWTmTscE' />
+	[105] (642,577)<div  />
+		[106] (642,577)<img  />
+	[107] (758,577)<div  />
+		[108] (758,564)<strong >네이버가 더 편해지는 순간 />
+		[109] (758,590)<p >웨일 브라우저 알아보기 />
+
+</current_dom>

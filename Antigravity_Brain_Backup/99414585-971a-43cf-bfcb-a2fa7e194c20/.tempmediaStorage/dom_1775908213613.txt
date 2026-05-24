@@ -1,0 +1,135 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (500,500)<div  />
+		[2] (500,35)<header  />
+			[3] (101,35)<div class='x87ps6o xt0e3qv x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 xxk0z11 x25sj25 x1icxu4v x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn xs83m0k xo1l8bm' role='button' />
+				토큰값 0원! 구글 Gemma 4로 나만의 AI 코딩 에이전트 육성하기 EP.2 (안티그래비티 바이브 + Gemma 4)
+			[4] (820,35)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[5] (848,35)<div aria-label='소셜 미디어에 사이트 공유' class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[6] (876,35)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xuxw1ft x1u7k74 x1fgtraw xmzvs34 xf159sx x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd xeuugli xjnqqgn x2lah0s xo1l8bm x1f1i3pa x1iazond xayv9eh x1811ece xigsv13' role='button' />
+			[7] (901,35)<div aria-label='추가 작업' class='x87ps6o x1b7c0jy x1ypdohk x1md70p1 xdxgbl4 xayv9eh' role='button' />
+			[8] (956,35)<div class='x87ps6o x1ypdohk x3nfvp2 x6s0dn4 xl56j7k xuxw1ft xk50ysn x1u7k74 x10w6t97 x1g0dm76 xpdmqnj x1i5p2am x1whfx0g xr2y4jy x1ihp6rs xif65rj x1ds2qyl x14rh7hd x19zyb68 x16lehos xdxgbl4 xayv9eh x19b482l' role='button'>지금 시작하기 />
+		[9] (500,535)<main  />
+			[10] (500,535)<div class='x6ikm8r x1odjw0f notion-scroller vertical' scrollable='true' />
+				[11] (495,450)<div class='whenContentEditable' role='group' />
+					[12] (495,450)<div  />
+						[13] (495,486)<div  />
+							[14] (495,486)<div  />
+								OLLAMA_HOST
+								=
+								0.0
+								.0.0:11434 ollama serve
+								[15] (495,157)<div  />
+									[16] (495,157)<div  />
+										[17] (495,157)<div  />
+											[18] (495,157)<div  />
+												[19] (246,157)<div  />
+													[20] (246,157)<div  />
+												[21] (504,157)<div  />
+													[22] (504,157)<div  />
+														[23] (504,157)<div  />
+															[24] (266,156)<img  />
+															[25] (357,156)<span >Windows 유저 (일반 CMD 기준): />
+								[26] (495,290)<div  />
+									[27] (495,290)<div  />
+										[28] (495,290)<div role='figure' />
+											[29] (495,290)<div  />
+												[30] (495,290)<div  />
+													[31] (495,290)<div  />
+														[32] (495,290)<div  />
+															[33] (261,274)<span >set />
+															[34] (272,274)<span  />
+															[35] (305,274)<span >OLLAMA_HOST />
+															[36] (338,274)<span >= />
+															[37] (349,274)<span >0.0 />
+															[38] (332,290)<span >.0.0:11434
+ollama serve />
+								[39] (495,424)<div  />
+									[40] (495,424)<div  />
+										[41] (495,424)<div  />
+											[42] (495,424)<div  />
+												[43] (495,424)<div  />
+													[44] (495,424)<div  />
+														[45] (346,423)<span >2. 에이전트 소통 테스트 (새 터미널 열고 입력) />
+								[46] (495,487)<div  />
+									[47] (495,487)<div  />
+										[48] (495,487)<div  />
+											[49] (495,487)<div  />
+												[50] (246,487)<div  />
+													[51] (246,487)<div  />
+												[52] (504,487)<div  />
+													[53] (504,487)<div  />
+														[54] (504,487)<div  />
+															[55] (266,486)<img  />
+															[56] (301,486)<span >Mac 유저: />
+								[57] (495,668)<div  />
+									[58] (495,668)<div  />
+										[59] (495,668)<div role='figure' />
+											[60] (495,668)<div  />
+												[61] (495,668)<div  />
+													[62] (495,668)<div  />
+														[63] (495,668)<div  />
+															[64] (264,604)<span >curl />
+															[65] (278,604)<span  />
+															[66] (283,604)<span >< />
+															[67] (382,604)<span >http://localhost:11434/api/generate />
+															[68] (480,604)<span >> />
+															[69] (494,604)<span >-d />
+															[70] (384,668)<span >'{
+  "model": "gemma4:e2b",
+  "prompt": "ai멘토 제이는 누구야?",
+  "stream": false
+}' />
+								[71] (495,850)<div  />
+									[72] (495,850)<div  />
+										[73] (495,850)<div  />
+											[74] (495,850)<div  />
+												[75] (246,850)<div  />
+													[76] (246,850)<div  />
+												[77] (504,850)<div  />
+													[78] (504,850)<div  />
+														[79] (504,850)<div  />
+															[80] (266,849)<img  />
+															[81] (441,849)<span >Windows 유저 (일반 CMD 기준, 윈도우는 따옴표 규칙이 다릅니다!): />
+								[82] (264,967)<span >curl />
+								[83] (278,967)<span  />
+								[84] (283,967)<span >< />
+								[85] (382,967)<span >http://localhost:11434/api/generate />
+								>
+								-d
+								"{
+								\\
+								"
+								model
+								\
+								\
+								":
+								[86] (592,967)<span >\\ />
+								[87] (601,967)<span >" />
+								[88] (631,967)<span >gemma4:e2b />
+								[89] (661,967)<span >\ />
+								[90] (666,967)<span >\ />
+								[91] (677,967)<span >", />
+								[92] (691,967)<span >\\ />
+								[93] (699,967)<span >" />
+								[94] (718,967)<span >prompt />
+								\
+								\
+								":
+								\\
+								"
+								ai멘토 제이는 누구야?
+								\
+								\
+								",
+								\\
+								"
+								stream
+								\
+								\
+								": false}"
+
+</current_dom>

@@ -1,0 +1,11 @@
+# Task: Open and verify local index.html
+
+## Plan
+1. Try to open the local index.html file.
+2. If blocked, check if there's any other way to access the content.
+3. Verify title, dashboard stats, and '구글 블로거' click functionality.
+
+## Status/Findings
+- Attempted to open `file:///C:/Upload2601%EA%B3%B5%EC%9C%A0%ED%8F%B4%EB%8D%94/%EA%B5%AC%EA%B8%80%EB%B8%94%EB%A1%9C%EA%B7%B8/index.html` but access was blocked.
+- Tried to `view_file` the local file but it's outside the allowlist.
+- `list_browser_pages` shows an open blogspot page, but it's not the requested index.html.

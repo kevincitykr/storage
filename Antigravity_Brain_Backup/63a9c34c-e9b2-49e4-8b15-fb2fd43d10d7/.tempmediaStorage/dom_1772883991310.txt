@@ -1,0 +1,151 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (24,153)<a href='https://domemedb.domeggook.com/index/' id='domeme' title='도매매'>도매매 />
+	[1] (6,152)<img  />
+|
+[2] (93,153)<a href='http://naggama.com/' id='naggama' title='나까마'>나까마 />
+	[3] (75,152)<img  />
+|
+[4] (168,153)<a href='http://campus.domeggook.com/' title='교육센터'>교육센터 />
+	[5] (145,152)<img  />
+|
+[6] (243,153)<a href='https://eggdome.ggook.com/' title='에그돔'>에그돔 />
+	[7] (225,152)<img  />
+[8] (601,153)<a href='/main/member/mem_formLogin.php?back=L21haW4vaXRlbS9pdGVtTGlzdC5waHA%2Fc2ZjPXR0bCZzZj10dGwmc3c9JUJFJUU3JUI4JUJCJmltYWdlX2ZpbGU9' title='로그인'>로그인 />
+[9] (661,153)<a href='/main/member/mem_formNormal.php?back=L21haW4vaXRlbS9pdGVtTGlzdC5waHA%2Fc2ZjPXR0bCZzZj10dGwmc3c9JUJFJUU3JUI4JUJCJmltYWdlX2ZpbGU9' title='회원가입'>회원가입 />
+[10] (736,153)<a href='/main/myPage/my_pageMain.php' title='마이페이지'>마이페이지 />
+	[11] (767,156)<img  />
+[12] (820,153)<a href='/main/myBuy/order/my_orderCart.php' title='장바구니'>장바구니 />
+	[13] (795,152)<img  />
+[14] (912,153)<a href='/sc/' title='상품공급사센터'>상품공급사센터 />
+고객센터
+[15] (83,287)<a href='/main/index.php' />
+	[16] (83,258)<img  />
+[17] (338,267)<div  />
+	[18] (338,267)<div  />
+		[19] (332,259)<span >상품명 />
+		[20] (378,263)<img  />
+[21] (517,260)<input class='kwd' id='searchWordForm' />
+[22] (661,258)<img alt='꾹AI:렌즈' id='lensBtn' title='꾹AI:렌즈' />
+[23] (713,258)<input id='searchWordSubmit' />
+[24] (523,316)<a href='http://domeggook.com/main/mySell/adv/my_psKeywordReg.php'>인기검색어 />
+[25] (642,316)<div  />
+	[26] (642,317)<div  />
+		[27] (642,316)<div  />
+			[28] (578,316)<div >1 />
+			[29] (608,316)<div  />
+				[30] (608,316)<a href='/main/item/itemList.php?sw=%B0%A1%B9%E6&sf=ttl'>가방 />
+			[31] (718,316)<div  />
+				[32] (690,318)<div  />
+					[33] (706,318)<img  />
+					[34] (713,318)<span >1 />
+		2
+		키링
+		1
+		3
+		케이스
+		1
+		4
+		양말
+		1
+		5
+		모자
+		2
+		6
+		겨울
+		3
+		7
+		파우치
+		4
+		8
+		크리스마스
+		6
+		9
+		장갑
+		2
+		10
+		거치대
+		2
+[35] (838,258)<a href='https://domemedb.domeggook.com/index/static/partnerShip.php'>서비스 한눈에 보기 />
+[36] (73,374)<div  />
+	[37] (29,375)<img  />
+	[38] (80,374)<span class='fontSpan'>카테고리 />
+[39] (192,374)<a href='https://1688.domeggook.com/'>1688상품관 />
+[40] (271,374)<a href='/main/item/itemEventBusinessMall.php'>사업자전용 />
+[41] (343,374)<a href='/main/item/itemPackDelivery.php'>묶음배송 />
+[42] (401,374)<a href='/main/item/itemLowestPrice.php'>최저가 />
+[43] (453,374)<a href='/main/item/itemPopular.php'>베스트 />
+[44] (503,374)<a href='/main/item/itemMdPrivate.php'>MD관 />
+[45] (553,374)<a href='/main/item/itemEvent.php?no=866'>땡처리 />
+[46] (605,374)<a href='/main/item/itemEventList.php'>기획전 />
+[47] (657,374)<a href='/main/item/itemSalesPromotion.php'>판촉관 />
+[48] (727,374)<a href='https://domemedb.domeggook.com/index/static/domeggookEvent.php'>이벤트&제휴 />
+[49] (806,374)<a href='/main/item/itemRecomm.php'>추천 />
+	[50] (793,374)<font >꾹AI: />
+[51] (38,443)<li  />
+	[52] (25,442)<a href='/main/'>도매꾹홈 />
+양말
+검색결과
+[53] (144,613)<li  />
+	[54] (50,611)<a href='/main/item/itemList.php?ca=01_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>패션잡화 />
+	[55] (92,614)<img  />
+[56] (394,613)<li  />
+	[57] (294,611)<a href='/main/item/itemList.php?ca=09_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>유아동 />
+	[58] (329,614)<img  />
+[59] (643,613)<li  />
+	[60] (549,611)<a href='/main/item/itemList.php?ca=12_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>생활용품 />
+	[61] (591,614)<img  />
+[62] (893,613)<li  />
+	[63] (808,611)<a href='/main/item/itemList.php?ca=14_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>스포츠/레저 />
+	[64] (858,614)<img  />
+[65] (144,661)<li  />
+	[66] (65,659)<a href='/main/item/itemList.php?ca=11_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>가구/인테리어 />
+	[67] (122,662)<img  />
+[68] (394,661)<li  />
+	[69] (315,659)<a href='/main/item/itemList.php?ca=02_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>의류/언더웨어 />
+	[70] (372,662)<img  />
+[71] (643,661)<li  />
+	[72] (537,659)<a href='/main/item/itemList.php?ca=10_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>문구 />
+	[73] (566,662)<img  />
+[74] (893,661)<li  />
+	[75] (799,659)<a href='/main/item/itemList.php?ca=15_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>건강용품 />
+	[76] (841,662)<img  />
+[77] (144,709)<li  />
+	[78] (53,707)<a href='/main/item/itemList.php?ca=13_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>취미/도서 />
+	[79] (97,710)<img  />
+[80] (394,709)<li  />
+	[81] (294,707)<a href='/main/item/itemList.php?ca=07_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>화장품 />
+	[82] (329,710)<img  />
+[83] (643,709)<li  />
+	[84] (558,707)<a href='/main/item/itemList.php?ca=17_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>디지털/가전 />
+	[85] (609,710)<img  />
+[86] (893,709)<li  />
+	[87] (786,707)<a href='/main/item/itemList.php?ca=08_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>출산 />
+	[88] (816,710)<img  />
+[89] (144,757)<li  />
+	[90] (38,755)<a href='/main/item/itemList.php?ca=16_00_00_00_00&sw=%BE%E7%B8%BB&sf=ttl'>식품 />
+	[91] (67,758)<img  />
+가격대
+[92] (200,931)<input  />
+원 ~
+[93] (395,931)<input  />
+원
+최소구매수량
+개 ~
+개
+[94] (621,877)<button class='radio' />
+[95] (679,875)<label >원산지 전체 />
+[96] (735,877)<button class='radio' />
+[97] (794,875)<label >국산/국내산 />
+[98] (850,877)<button class='radio' />
+[99] (908,875)<label >국외산 />
+[100] (621,966)<button class='radio' />
+[101] (679,965)<label >배송 전체 />
+[102] (735,966)<button class='radio' />
+[103] (794,965)<label >국내배송 />
+[104] (850,966)<button class='radio' />
+[105] (908,965)<label >해외배송 />
+
+</current_dom>

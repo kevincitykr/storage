@@ -1,0 +1,208 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+생활가전
+주방가전
+계절가전
+게임ㆍ드론ㆍ완구
+스포츠ㆍ레저
+중고ㆍ리퍼비시
+서버ㆍ워크스테이션
+PC구성
+[0] (187,181)<li class='cate_tab_all cate0 cate_tab_iworks' id='cate_tab_iwork'>아이웍스PC />
+[1] (240,181)<li class='cate_tab_all cate1 cate_tab1012' id='cate_tab1012'>CPU />
+[2] (288,181)<li class='cate_tab_all cate2 cate_tab1013' id='cate_tab1013'>메인보드 />
+[3] (340,181)<li class='cate_tab_all cate3 cate_tab1014' id='cate_tab1014'>메모리 />
+[4] (396,181)<li class='cate_tab_all cate4 cate_tab1016 ON' id='cate_tab1016'>그래픽카드 />
+[5] (447,181)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[6] (487,181)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[7] (531,181)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[8] (573,181)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[9] (631,181)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[10] (693,181)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[11] (740,181)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[12] (796,181)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[13] (857,181)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[14] (924,181)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+[15] (268,295)<dd class='ls_div' id='ls_div0' />
+	[16] (207,295)<label >전체 />
+[17] (268,343)<dd class='ls_div on' id='ls_div2043' />
+	[18] (235,343)<label >NVIDIA 그래픽카드 />
+[19] (268,391)<dd class='ls_div' id='ls_div2042' />
+	[20] (231,391)<label >AMD 그래픽카드 />
+[21] (268,440)<dd class='ls_div' id='ls_div4682' />
+	[22] (233,440)<label >INTEL 그래픽카드 />
+[23] (268,488)<dd class='ls_div' id='ls_div2044' />
+	[24] (238,488)<label >전문가용 그래픽카드 />
+필터
+[25] (934,317)<a href='javascript:reset_opt();' />
+	[26] (934,317)<span >초기화 />
+[27] (672,477)<div class='scroll_opt' scrollable='true' />
+	[28] (948,381)<a class='btn_toggle' href='javascript:open_opt(4410);' id='btn_toggle4410' />
+	제조사
+	[29] (466,387)<input class='ch_bx' id='chk_52622' />
+	[30] (520,386)<label >MSI />
+	[31] (578,387)<input class='ch_bx' id='chk_52621' />
+	[32] (632,386)<label >GIGABYTE />
+	[33] (690,387)<input class='ch_bx' id='chk_52635' />
+	[34] (745,386)<label >Colorful />
+	[35] (803,387)<input class='ch_bx' id='chk_52620' />
+	[36] (857,386)<label >ASUS />
+	emTek
+	GAINWARD
+	ZOTAC
+	AFOX
+	MANLI
+	inno3D
+	PALIT
+	PNY
+	FORSA
+	MAXSUN
+	TAGER
+	이도디스플레이
+	GALAX
+	STCOM
+	AXLE
+	nVIDIA
+	Leadtek
+	아툼
+	Yeston
+	Advantech
+	ARKTEK
+	NEXIUM
+	벨리온
+	DRAGON FORCE
+	RTX시리즈
+	[37] (466,454)<input class='ch_bx' id='chk_107707' />
+	[38] (520,453)<label >RTX5090 />
+	[39] (578,454)<input class='ch_bx' id='chk_107642' />
+	[40] (632,453)<label >RTX5080 />
+	[41] (690,454)<input class='ch_bx' id='chk_108136' />
+	[42] (745,453)<label >RTX5070Ti />
+	[43] (803,454)<input class='ch_bx' id='chk_108462' />
+	[44] (857,453)<label >RTX5070 />
+	RTX5060Ti
+	RTX5060
+	RTX5050
+	RTX4080 SUPER
+	RTX4070Ti SUPER
+	RTX4070Ti
+	RTX4070 SUPER
+	RTX4070
+	RTX4060Ti
+	RTX4060
+	RTX3090
+	RTX3070Ti
+	RTX3070
+	RTX3060Ti
+	RTX3060
+	RTX3050
+	RTX2060 SUPER
+	RTX3080
+	GTX시리즈
+	[45] (466,521)<input class='ch_bx' id='chk_63013' />
+	[46] (520,520)<label >GTX1660 SUPER />
+	[47] (578,521)<input class='ch_bx' id='chk_10913' />
+	[48] (632,520)<label >GTX1650 />
+	[49] (690,521)<input class='ch_bx' id='chk_10907' />
+	[50] (745,520)<label >GTX1050Ti />
+	기타VGA시리즈
+	[51] (466,588)<input class='ch_bx' id='chk_10940' />
+	[52] (520,587)<label >GT1030 />
+	[53] (578,588)<input class='ch_bx' id='chk_10942' />
+	[54] (632,587)<label >GT730 />
+	[55] (690,588)<input class='ch_bx' id='chk_10941' />
+	[56] (745,587)<label >GT710 />
+	[57] (803,588)<input class='ch_bx' id='chk_10939' />
+	[58] (857,587)<label >G210 />
+	연결방식
+	PCI Express 5.0 x16
+	PCI Express 4.0 x16
+	PCI-Express 4.0
+	PCI-Express 3.0
+	PCI-Express 2.0
+	메모리용량
+	32GB
+	24GB
+	16GB
+	12GB
+	8GB
+	6GB
+	4GB
+	2GB
+	1GB
+	512MB이하
+	메모리종류
+	GDDR7
+	GDDR6X
+	GDDR6
+	GDDR6
+	GDDR5
+	DDR6
+	DDR5
+	DDR4
+	DDR3
+	DDR6X
+	메모리버스
+	512bit
+	384bit
+	256bit
+	192bit
+	128bit
+	96bit
+	64bit이하
+	카드형태
+	일반
+	LP(브라켓포함)
+	LP(브라켓미포함)
+	출력단자(HDMI)
+	1개
+	2개
+	4개
+	3개
+그래픽카드
+[59] (353,702)<input id='Search_free' />
+무료배송
+[60] (418,702)<input id='Search_Event' />
+행사제품보기
+총
+476
+건
+[61] (307,780)<input id='SearchKeyword' />
+[62] (363,781)<a href='javascript:search_keyword();' />
+[63] (433,780)<select  />
+[64] (259,1279)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[65] (65,938)<a class='imgbox' href='javascript:detail_show('1234579')' title='[제품코드:1234579]' />
+	[66] (221,973)<a class='imgbox' href='javascript:detail_show('1234579')'>RTX 5060 Ti / PCIe5.0 / 정격파워600W 이상 / 전원 포트: 8핀 x1 / 가로(길이): 227mm / 베이스클럭: 2407MHz / 부스트클럭: 2602MHz / OC클럭: 2617MHz / 스트림 프로세서: 4608개 / GDDR7 / 출력단자: HDMI2.1 , DP2.1 / 지원정보: 8K 지원 , HDR 지원 , HDCP 2.3 / 사용전력: 180W / 2팬 / 두께: 41mm / 제로팬(0-dB기술) / 백플레이트 / DrMOS / RTX5060 Ti />
+		[67] (221,893)<b >[MSI] 지포스 RTX 5060 Ti 벤투스 2X OC 플러스 D7 8GB [1234579] />
+	판매가격
+	589,000
+	담기
+총 견적금액
+750,150
+원
+[68] (536,780)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[69] (565,780)<input  />
+[70] (594,780)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[71] (658,780)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[72] (658,780)<span >전체수량변경 />
+[73] (546,891)<label  />
+	[74] (528,890)<span  />
+		[75] (528,890)<input  />
+	[76] (554,890)<span >전체선택 />
+[77] (713,890)<a class='wbtn' href='javascript:add_wish_list();' />
+	[78] (713,891)<span >관심상품추가 />
+[79] (774,890)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[80] (774,891)<span >장바구니담기 />
+[81] (833,890)<a class='wbtn' />
+	[82] (833,891)<span >견적서출력 />
+[83] (891,890)<a class='wbtn' href='javascript:speck_form();' />
+	[84] (891,891)<span >사양검토요청 />
+초기화
+인텔 병행수입
+판매가격
+576,000
+
+</current_dom>

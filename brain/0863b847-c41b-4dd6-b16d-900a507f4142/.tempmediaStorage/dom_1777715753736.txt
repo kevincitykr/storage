@@ -1,0 +1,158 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+온라인견적
+[0] (124,134)<li class='cate_tab_all pc cate_tab1' id='cate_tab1'>데스크탑ㆍ조립PC />
+[1] (274,134)<li class='cate_tab_all  cate_tab8' id='cate_tab8'>키보드ㆍ마우스ㆍ저장장치 />
+[2] (424,134)<li class='cate_tab_all  cate_tab88' id='cate_tab88'>스마트폰ㆍ액세서리 />
+[3] (575,134)<li class='cate_tab_all  cate_tab87' id='cate_tab87'>가구ㆍ조명ㆍ전기 />
+[4] (725,134)<li class='cate_tab_all  cate_tab5' id='cate_tab5'>모니터ㆍ모니터주변기기 />
+[5] (876,134)<li class='cate_tab_all  cate_tab11' id='cate_tab11'>프린터ㆍ전산소모품 />
+[6] (124,193)<li class='cate_tab_all pc cate_tab2' id='cate_tab2'>노트북ㆍ태블릿 />
+[7] (274,193)<li class='cate_tab_all  cate_tab7' id='cate_tab7'>음향ㆍ영상ㆍ카메라 />
+[8] (424,193)<li class='cate_tab_all  cate_tab14' id='cate_tab14'>자동차ㆍ공구ㆍ안전 />
+[9] (575,193)<li class='cate_tab_all  cate_tab12' id='cate_tab12'>네트워크ㆍ케이블ㆍCCTV />
+[10] (725,193)<li class='cate_tab_all pc cate_tab3' id='cate_tab3'>Apple />
+[11] (876,193)<li class='cate_tab_all  cate_tab101' id='cate_tab101'>영상가전 />
+[12] (124,252)<li class='cate_tab_all  cate_tab13' id='cate_tab13'>생활가전 />
+[13] (274,252)<li class='cate_tab_all  cate_tab110' id='cate_tab110'>주방가전 />
+[14] (424,252)<li class='cate_tab_all  cate_tab107' id='cate_tab107'>계절가전 />
+[15] (575,252)<li class='cate_tab_all  cate_tab103' id='cate_tab103'>게임ㆍ드론ㆍ완구 />
+[16] (725,252)<li class='cate_tab_all  cate_tab105' id='cate_tab105'>스포츠ㆍ레저 />
+[17] (876,252)<li class='cate_tab_all  cate_tab89' id='cate_tab89'>중고ㆍ리퍼비시 />
+[18] (124,310)<li class='cate_tab_all  cate_tab111' id='cate_tab111'>서버ㆍ워크스테이션 />
+[19] (274,310)<li  />
+[20] (424,310)<li  />
+[21] (575,310)<li  />
+[22] (725,310)<li  />
+[23] (876,310)<li  />
+PC구성
+[24] (203,408)<li class='cate_tab_all cate0 cate_tab_iworks' id='cate_tab_iwork'>아이웍스PC />
+[25] (254,408)<li class='cate_tab_all cate1 cate_tab1012' id='cate_tab1012'>CPU />
+[26] (299,408)<li class='cate_tab_all cate2 cate_tab1013 ON' id='cate_tab1013'>메인보드 />
+[27] (348,408)<li class='cate_tab_all cate3 cate_tab1014' id='cate_tab1014'>메모리 />
+[28] (401,408)<li class='cate_tab_all cate4 cate_tab1016' id='cate_tab1016'>그래픽카드 />
+[29] (450,408)<li class='cate_tab_all cate5 cate_tab1276' id='cate_tab1276'>SSD />
+[30] (487,408)<li class='cate_tab_all cate6 cate_tab1015' id='cate_tab1015'>HDD />
+[31] (529,408)<li class='cate_tab_all cate7 cate_tab1147' id='cate_tab1147'>케이스 />
+[32] (570,408)<li class='cate_tab_all cate8 cate_tab1148' id='cate_tab1148'>파워 />
+[33] (624,408)<li class='cate_tab_all cate9 cate_tab1020' id='cate_tab1020'>쿨러/튜닝용품 />
+[34] (683,408)<li class='cate_tab_all cate10 cate_tab5' id='cate_tab5'>모니터 />
+[35] (728,408)<li class='cate_tab_all cate11 cate_tab11' id='cate_tab11'>프린터 />
+[36] (781,408)<li class='cate_tab_all cate12 cate_tab9' id='cate_tab9'>소프트웨어 />
+[37] (839,408)<li class='cate_tab_all cate13 cate_tab' id='cate_tab'>주변기기 />
+[38] (903,408)<li class='cate_tab_all cate14 cate_tab1021' id='cate_tab1021'>조립비/유상AS />
+자동선택
+[39] (280,622)<div class='scroll_ctgr' scrollable='true' />
+	[40] (279,506)<dd class='ls_div' id='ls_div0' />
+		[41] (222,506)<label >전체 />
+	[42] (279,547)<dd class='ls_div' id='ls_div2035' />
+		[43] (232,547)<label >AMD 소켓 />
+	[44] (279,589)<dd class='ls_div' id='ls_div4724' />
+		[45] (241,589)<label >인텔 소켓 1851 />
+	[46] (279,630)<dd class='ls_div on' id='ls_div4560' />
+		[47] (242,630)<label >인텔 소켓 1700 />
+	[48] (279,672)<dd class='ls_div' id='ls_div4421' />
+		[49] (241,672)<label >인텔 소켓 1200 />
+	[50] (279,713)<dd class='ls_div' id='ls_div3480' />
+		[51] (247,713)<label >인텔 소켓 1151-V2 />
+	[52] (279,755)<dd class='ls_div' id='ls_div3209' />
+		[53] (241,755)<label >인텔 소켓 1151 />
+	인텔 소켓 1150/1155
+	인텔 소켓 2066
+	서버/워크스테이션
+	산업용 메인보드
+필터
+[54] (912,525)<a href='javascript:reset_opt();' />
+	[55] (912,525)<span >초기화 />
+[56] (663,662)<div class='scroll_opt' scrollable='true' />
+	[57] (925,579)<a class='btn_toggle' href='javascript:open_opt(4407);' id='btn_toggle4407' />
+	제조사
+	[58] (467,585)<input class='ch_bx' id='chk_52565' />
+	[59] (519,584)<label >MSI />
+	[60] (574,585)<input class='ch_bx' id='chk_52563' />
+	[61] (626,584)<label >ASUS />
+	[62] (681,585)<input class='ch_bx' id='chk_52564' />
+	[63] (732,584)<label >GIGABYTE />
+	[64] (787,585)<input class='ch_bx' id='chk_52566' />
+	[65] (839,584)<label >ASRock />
+	ECS
+	Colorful
+	BIOSTAR
+	MAXSUN
+	NZXT
+	소켓
+	[66] (467,642)<input class='ch_bx' id='chk_83104' />
+	[67] (519,642)<label >인텔/1700 />
+	[68] (925,694)<a class='btn_toggle' href='javascript:open_opt(1310);' id='btn_toggle1310' />
+	칩셋
+	[69] (467,700)<input class='ch_bx' id='chk_89779' />
+	[70] (519,699)<label >인텔 Z790 />
+	[71] (574,700)<input class='ch_bx' id='chk_91669' />
+	[72] (626,699)<label >인텔 B760 />
+	[73] (681,700)<input class='ch_bx' id='chk_84365' />
+	[74] (732,699)<label >인텔 H610 />
+	[75] (787,700)<input class='ch_bx' id='chk_83101' />
+	[76] (839,699)<label >인텔 Z690 />
+	인텔 B660
+	폼팩터
+	[77] (467,757)<input class='ch_bx' id='chk_10687' />
+	[78] (519,756)<label >ATX />
+	[79] (574,757)<input class='ch_bx' id='chk_10685' />
+	[80] (626,756)<label >M-ATX />
+	[81] (681,757)<input class='ch_bx' id='chk_10682' />
+	[82] (732,756)<label >E-ATX />
+	[83] (787,757)<input class='ch_bx' id='chk_10684' />
+	[84] (839,756)<label >M-iTX />
+	메모리 종류
+	DDR5
+	DDR4
+	메모리 슬롯
+	2개
+	4개
+	전원부
+	4~6페이즈
+	7~8페이즈
+	9~10페이즈
+	11~12페이즈
+	13~14페이즈
+	15~16페이즈
+	17~18페이즈
+	19~20페이즈
+	21~25페이즈
+	26~30페이즈
+	DrMOS/SPS
+	DrMOS
+	SPS
+메인보드
+[85] (360,855)<input id='Search_free' />
+무료배송
+[86] (423,855)<input id='Search_Event' />
+행사제품보기
+총
+12
+건
+[87] (317,921)<input id='SearchKeyword' />
+[88] (370,923)<a href='javascript:search_keyword();' />
+[89] (436,921)<select  />
+[90] (272,1349)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[MSI] PRO B760M-A DDR4 II (인텔B760/M-ATX) [1059922]
+	인텔(소켓1700) / 인텔 B760 / M-ATX (24.4x24.4cm) / 전원부: 14페이즈 / 메모리 DDR4 / 5333MHz (PC4-42600) / 4개 / 메모리 용량: 최대 128GB / XMP / 확장슬롯 VGA 연결: PCIe4.0 x16 / PCIe버전: PCIe4.0, PCIe3.0 / PCIex16: 1개 / PCIex16(at x4): 1개 / PCIex1: 1개 / 저장장치 M.2: 2개 / SATA3: 4개 / M.2 연결: PCIe4.0, PCIe , SATA , SATA 레인공유 / 후면단자 HDMI / DP / USB 3.1 / USB 3.0 / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / 랜/오디오 유선랜 칩셋: Realtek 8125bg / 2.5기가비트 / RJ-45: 1개 / 오디오 칩셋: Realtek ALC897 / 내부I/O I/O 헤더: USB 3.0 헤더 , USB 2.0 헤더 , USB3.0 Type C 헤더 , RGB 12V 4핀 헤더 , ARGB 5V 3핀 헤더 / 시스템팬 4핀: 2개 / USB2.0 헤더: 2개 / USB3.0 헤더: 2개 / 전원부 방열판 / M.2 히트싱크
+	후기
+	판매가격
+	145,000
+	담기
+	[91] (88,991)<a class='imgbox' href='javascript:detail_show('1002367')' title='[제품코드:1002367]' />
+	[MSI] PRO B760M-A WIFI (인텔B760/M-ATX) [1002367]
+	인텔 B760 / 인텔(소켓1700) / DDR5 / VGA 연결: PCIe4.0 x16 / M-ATX (24.4x24.4cm) / 전원부: 12+1+1페이즈 / [메모리] 6800MHz (PC5-54400) / 4개 / XMP3.0 / [확장슬롯] PCIe버전: PCIe4.0, PCIe3.0 / PCIex16: 1개 / PCIex16(at x4): 1개 / PCIex1: 1개 / [저장장치] M.2: 2개 / SATA3: 4개 / M.2 연결: PCIe4.0, NVMe , SATA / [후면단자] HDMI / DP / USB3.x 10Gbps / USB3.x 5Gbps / USB 2.0 / RJ-45 / 오디오잭 / PS/2 / USB A타입: 6개 / [랜/오디오] 유선랜 칩셋: Realtek RTL8125BG / 2.5Gbps / RJ-45: 1개 / Intel / 무선랜(Wi-Fi) / 블루투스 / 오디오 칩셋: Realtek ALC897 / 7.1채널(8ch) / [내부I/O] USB/팬 헤더: USB3.0 헤더 , USB2.0 헤더 , USB3.0 Type C 헤더 , RGB 12V 4핀 헤더 , ARGB 5V 3핀 헤더 / 시스템팬 4핀: 2개
+총 견적금액
+750,150
+원
+[92] (534,921)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[93] (562,921)<input  />
+[94] (590,921)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[95] (650,921)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[96] (650,922)<span >전체수량변경 />
+
+</current_dom>

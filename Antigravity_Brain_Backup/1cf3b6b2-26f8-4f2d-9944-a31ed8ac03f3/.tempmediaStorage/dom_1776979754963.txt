@@ -1,0 +1,269 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (78,59)<a class='relative inline-block h-auto w-full max-w-28 p-2 group-data-[show-content=false]/sidebar:invisible' href='/' />
+[1] (179,58)<button aria-label='Collapse sidebar' class='inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-md aspect-square bg-transparent enabled:hover:before:bg-overlay-on-primary text-foreground-inactive disabled:after:bg-background-primary disabled:after:opacity-50 absolute top-[35px] right-4 z-10 h-8 w-8 p-1 transition-none group-data-[collapsed=true]/sidebar:left-1/2 group-data-[collapsed=true]/sidebar:-translate-x-1/2' />
+	[2] (179,59)<span  />
+[3] (104,150)<button aria-label='Profile menu button' class='group cursor-pointer pt-0 w-full' id='base-ui-_r_7f_' />
+	[4] (104,150)<div  />
+		[5] (104,150)<span  />
+			[6] (36,150)<div  />
+				[7] (36,150)<div  />
+			[8] (119,150)<div  />
+				[9] (102,140)<p >kkseob0116 />
+				[10] (94,160)<p >50 credits />
+[11] (107,213)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 text-[15px] leading-[24px] rounded-full text-foreground-primary bg-transparent before:border-border-primary hover:before:bg-overlay-on-primary w-full group-data-[show-content=false]/sidebar:invisible whitespace-nowrap' href='/account?source=sideNav' />
+	[12] (107,213)<span >Upgrade to Pro />
+[13] (107,287)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md bg-transparent text-foreground-inactive hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full px-2 py-1 text-[16px] leading-[16px]' href='/' />
+	[14] (107,287)<span  />
+		[15] (77,287)<span >Home />
+[16] (107,330)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md bg-transparent text-foreground-inactive hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full px-2 py-1 text-[16px] leading-[16px]' href='/explore' />
+	[17] (107,330)<span  />
+		[18] (82,330)<span >Explore />
+[19] (107,373)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md text-foreground-primary bg-transparent hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full px-2 py-1 text-[16px] leading-[16px]' href='/create' />
+	[20] (107,373)<span  />
+		[21] (79,373)<span >Create />
+[22] (107,416)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md bg-transparent text-foreground-inactive hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full px-2 py-1 text-[16px] leading-[16px]' href='/studio' />
+	[23] (107,416)<span  />
+		[24] (78,416)<span >Studio />
+[25] (107,459)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md bg-transparent text-foreground-inactive hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full px-2 py-1 text-[16px] leading-[16px]' href='/me' />
+	[26] (107,459)<span  />
+		[27] (80,459)<span >Library />
+[28] (75,502)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md bg-transparent text-foreground-inactive hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full px-2 py-1 text-[16px] leading-[16px]' href='/hooks' />
+	[29] (75,502)<span  />
+		[30] (78,502)<span >Hooks />
+[31] (165,502)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[12px] leading-[14px] rounded-full text-foreground-primary bg-background-tertiary hover:before:bg-overlay-on-primary p-1.5 group-data-[show-content=false]/sidebar:hidden' href='/hooks/create' />
+	[32] (165,502)<span >Create />
+[33] (107,545)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md bg-transparent text-foreground-inactive hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full px-2 py-1 text-[16px] leading-[16px] group-data-[collapsed=true]/sidebar:relative' href='/notifications' />
+	[34] (107,545)<span  />
+		[35] (101,545)<span >Notifications />
+Activity
+Video cover art 🤝 Hooks
+Published songs with video cover art are now shown in the Hooks feed. You can edit visibility settings in song actions.
+No notifications here yet
+[36] (107,920)<a class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md bg-transparent text-foreground-inactive hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full px-2 py-1 text-[16px] leading-[16px]' href='/labs' />
+	[37] (107,920)<span  />
+		[38] (72,920)<span >Labs />
+[39] (107,972)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md bg-transparent text-foreground-inactive disabled:after:bg-background-primary disabled:after:opacity-50 hover:before:bg-transparent enabled:hover:before:bg-transparent hover:text-foreground-primary focus-visible:text-foreground-primary w-full text-[16px] leading-[16px] px-2 py-2 pb-4' id='base-ui-_r_7j_' />
+	[40] (107,967)<span  />
+		[41] (73,967)<span >More />
+Archived
+Create New Workspace
+My Workspace
+50
+Songs ·
+1mo, 1w ago
+[42] (263,38)<button aria-label='Credits remaining: 50' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 before:transition before:duration-75 after:transition after:duration-75 select-none py-2 text-[15px] leading-[24px] rounded-full text-foreground-primary bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 px-3 transition-all duration-200 cursor-default' id='base-ui-_r_7l_' />
+	50
+[43] (401,38)<button class='active css-jhj0x4 e2bc4gy0' id='base-ui-_r_j_'>Simple />
+	Simple
+[44] (470,38)<button class='css-jhj0x4 e2bc4gy0' id='base-ui-_r_l_' />
+	[45] (470,38)<span >Advanced />
+[46] (634,38)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 rounded-full text-foreground-primary bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 h-[40px] text-[12px]' id='base-ui-_r_p_' />
+	[47] (634,38)<span >v4.5-all />
+Song Description
+[48] (644,136)<button aria-label='Roll for a random prompt' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 p-3' id='base-ui-_r_1v_' />
+	[49] (644,136)<span  />
+[50] (457,233)<textarea class='w-full resize-none border-none bg-transparent text-base outline-none md:text-sm' placeholder='회의하는 사람들의 생각이 틀렸음을 증명하는 내용의 120bpm 가잘곡' />
+[51] (292,317)<button aria-label='Browse, upload, or record audio' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 py-2 pr-3 pl-2 text-xs' id='base-ui-_r_23_' />
+	[52] (290,317)<span >Audio />
+[53] (385,317)<button aria-label='Add your own lyrics' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 py-2 pr-3 pl-2 text-xs' id='base-ui-_r_25_' />
+	[54] (383,317)<span >Lyrics />
+[55] (602,317)<button aria-label='Check this to generate an instrumental only song' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 rounded-full text-foreground-primary bg-transparent before:border-border-primary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 py-2 pr-4 pl-2 text-xs' id='base-ui-_r_27_' />
+	[56] (598,317)<span >Instrumental />
+Inspiration
+[57] (457,426)<div class='css-1nh29ol e1e55dde2' scrollable='true' />
+	[58] (309,417)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 px-3 py-2 text-xs whitespace-nowrap' />
+		[59] (309,417)<span >미드웨스트 이모 />
+	[60] (403,417)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 px-3 py-2 text-xs whitespace-nowrap' />
+		[61] (403,417)<span >엠비 />
+	[62] (478,417)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 px-3 py-2 text-xs whitespace-nowrap' />
+		[63] (478,417)<span >그런지 록 />
+	[64] (582,417)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 px-3 py-2 text-xs whitespace-nowrap' />
+		[65] (582,417)<span >2000년대 초반 />
+	[66] (673,417)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 px-3 py-2 text-xs whitespace-nowrap' />
+		[67] (673,417)<span >우상 />
+	점프스타일
+	칠아웃
+	다크 판타지
+	헤비 기타 리프
+[68] (457,446)<div  />
+Create
+[69] (700,452)<div  />
+	[70] (700,452)<div  />
+[71] (765,39)<button class='relative inline-block font-sans text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer rounded-md text-gray-950 bg-gray-50/30 backdrop-blur-lg enabled:hover:bg-gray-50/60 disabled:opacity-30 p-0 text-base font-medium' />
+	[72] (765,39)<span >Workspaces />
+My Workspace
+[73] (916,109)<div class='css-1f3pr0f e1sum70d0' scrollable='true' />
+	[74] (828,100)<button class='relative font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 flex items-center justify-center text-xs leading-[24px]' />
+		[75] (828,100)<span >Filters
+(3) />
+	[76] (965,100)<button class='relative font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer px-4 py-2 rounded-full text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 flex items-center justify-center text-xs leading-[24px]' />
+		[77] (965,100)<span >Newest />
+[78] (916,523)<div class='clip-browser-list-scroller css-11nl96j e1jmkiyy2' scrollable='true' />
+	[79] (908,203)<div  />
+		[80] (908,203)<div  />
+			[81] (908,203)<div aria-label='Sunshine Butterfly' class='clip-row css-1y8gys9 e1fsfesb0' role='group' />
+				[82] (865,203)<div  />
+					[83] (731,203)<div  />
+						[84] (731,203)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-md aspect-square p-2 text-foreground-primary bg-transparent enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 hover-only' />
+							[85] (731,203)<span  />
+					[86] (780,203)<div aria-label='Play Sunshine Butterfly' class='clip-image-container cursor-pointer css-oyp14u e1fsfesb2' role='button'>0:47 />
+						[87] (780,203)<div  />
+						0:47
+					[88] (916,203)<div  />
+						[89] (916,170)<div  />
+							[90] (916,170)<div  />
+								[91] (889,170)<div  />
+									[92] (887,170)<div  />
+										[93] (893,170)<a class='hover:underline' href='/song/c73f0b9a-3f01-4ae6-aa5d-2738bcbe08c1'>Sunshine Butterfly />
+								[94] (977,170)<span >v4.5-all />
+						[95] (916,196)<div >Bright cheerful female vocals, uplifting acoustic pop, sunny morning vibes, sparkling bells, 105bpm, happy, cinematic />
+						[96] (916,231)<div  />
+							[97] (850,231)<button aria-label='Like clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[98] (850,231)<span  />
+							[99] (893,231)<button aria-label='Dislike clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[100] (893,231)<span  />
+							[101] (936,231)<button aria-label='Share clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[102] (936,231)<span  />
+	[103] (908,328)<div  />
+		[104] (908,328)<div  />
+			[105] (908,328)<div aria-label='Sunshine Butterfly' class='clip-row css-1y8gys9 e1fsfesb0' role='group' />
+				[106] (865,328)<div  />
+					[107] (731,328)<div  />
+						[108] (731,328)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-md aspect-square p-2 text-foreground-primary bg-transparent enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 hover-only' />
+							[109] (731,328)<span  />
+					[110] (780,328)<div aria-label='Play Sunshine Butterfly' class='clip-image-container cursor-pointer css-oyp14u e1fsfesb2' role='button'>0:51 />
+						[111] (780,328)<div  />
+						0:51
+					[112] (916,328)<div  />
+						[113] (916,296)<div  />
+							[114] (916,296)<div  />
+								[115] (889,296)<div  />
+									[116] (887,296)<div  />
+										[117] (893,296)<a class='hover:underline' href='/song/1b906e0f-d634-40b3-91a5-ca4e3c239718'>Sunshine Butterfly />
+								[118] (977,296)<span >v4.5-all />
+						[119] (916,322)<div >Bright cheerful female vocals, uplifting acoustic pop, sunny morning vibes, sparkling bells, 105bpm, happy, cinematic />
+						[120] (916,357)<div  />
+							[121] (850,357)<button aria-label='Like clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[122] (850,357)<span  />
+							[123] (893,357)<button aria-label='Dislike clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[124] (893,357)<span  />
+							[125] (936,357)<button aria-label='Share clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[126] (936,357)<span  />
+	[127] (908,454)<div  />
+		[128] (908,454)<div  />
+			[129] (908,454)<div aria-label='Sunshine Butterfly' class='clip-row css-1y8gys9 e1fsfesb0' role='group' />
+				[130] (824,454)<div  />
+					[131] (731,454)<div  />
+						[132] (731,454)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-md aspect-square p-2 text-foreground-primary bg-transparent enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 hover-only' />
+							[133] (731,454)<span  />
+					[134] (780,454)<div aria-label='Play Sunshine Butterfly' class='clip-image-container cursor-pointer css-oyp14u e1fsfesb2' role='button'>0:22 />
+						[135] (780,454)<div  />
+						0:22
+					[136] (875,454)<div  />
+						[137] (875,421)<div  />
+							[138] (875,421)<div  />
+								[139] (839,421)<div  />
+									[140] (837,421)<div  />
+										[141] (893,421)<a class='hover:underline' href='/song/a617c564-6a94-4cbb-9d07-ba90c74116eb'>Sunshine Butterfly />
+								[142] (885,421)<span >v5 Preview />
+						[143] (875,447)<div >Bright cheerful female vocals, uplifting acoustic pop, sunny morning vibes, sparkling bells, 105bpm, happy, cinematic />
+						[144] (875,482)<div  />
+							[145] (850,482)<button aria-label='Like clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[146] (850,482)<span  />
+							[147] (893,482)<button aria-label='Dislike clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[148] (893,482)<span  />
+							[149] (936,482)<button aria-label='Share clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[150] (936,482)<span  />
+				Upgrade for full song
+	[151] (908,580)<div  />
+		[152] (908,580)<div  />
+			[153] (908,580)<div aria-label='Sunshine Butterfly' class='clip-row css-1y8gys9 e1fsfesb0' role='group' />
+				[154] (824,580)<div  />
+					[155] (731,580)<div  />
+						[156] (731,580)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-md aspect-square p-2 text-foreground-primary bg-transparent enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 hover-only' />
+							[157] (731,580)<span  />
+					[158] (780,580)<div aria-label='Play Sunshine Butterfly' class='clip-image-container cursor-pointer css-oyp14u e1fsfesb2' role='button'>0:15 />
+						[159] (780,580)<div  />
+						0:15
+					[160] (875,580)<div  />
+						[161] (875,547)<div  />
+							[162] (875,547)<div  />
+								[163] (839,547)<div  />
+									[164] (837,547)<div  />
+										[165] (893,547)<a class='hover:underline' href='/song/ea784f6c-5d0f-44d3-88dc-7dee861f4650'>Sunshine Butterfly />
+								[166] (885,547)<span >v5 Preview />
+						[167] (875,573)<div >Bright cheerful female vocals, uplifting acoustic pop, sunny morning vibes, sparkling bells, 105bpm, happy, cinematic />
+						[168] (875,608)<div  />
+							[169] (850,608)<button aria-label='Like clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[170] (850,608)<span  />
+							[171] (893,608)<button aria-label='Dislike clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[172] (893,608)<span  />
+							[173] (936,608)<button aria-label='Share clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[174] (936,608)<span  />
+				Upgrade for full song
+	[175] (908,706)<div  />
+		[176] (908,706)<div  />
+			[177] (908,706)<div aria-label='Butterfly Healing' class='clip-row css-1y8gys9 e1fsfesb0' role='group' />
+				[178] (865,706)<div  />
+					[179] (731,706)<div  />
+						[180] (731,706)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-md aspect-square p-2 text-foreground-primary bg-transparent enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 hover-only' />
+							[181] (731,706)<span  />
+					[182] (780,706)<div aria-label='Play Butterfly Healing' class='clip-image-container cursor-pointer css-oyp14u e1fsfesb2' role='button'>1:33 />
+						[183] (780,706)<div  />
+						1:33
+					[184] (916,706)<div  />
+						[185] (916,673)<div  />
+							[186] (916,673)<div  />
+								[187] (889,673)<div  />
+									[188] (887,673)<div  />
+										[189] (888,673)<a class='hover:underline' href='/song/ac087055-0c38-4d1f-8710-66cab0f9ea23'>Butterfly Healing />
+								[190] (977,673)<span >v4.5-all />
+						[191] (916,699)<div >Healing female vocals, ethereal ambient pop, soft acoustic guitar, 72bpm, cinematic, emotional />
+						[192] (916,734)<div  />
+							[193] (850,734)<button aria-label='Like clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[194] (850,734)<span  />
+							[195] (893,734)<button aria-label='Dislike clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[196] (893,734)<span  />
+							[197] (936,734)<button aria-label='Share clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[198] (936,734)<span  />
+	[199] (908,831)<div  />
+		[200] (908,831)<div  />
+			[201] (908,831)<div aria-label='Butterfly Healing' class='clip-row css-1y8gys9 e1fsfesb0' role='group' />
+				[202] (865,831)<div  />
+					[203] (731,831)<div  />
+						[204] (731,831)<button class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-md aspect-square p-2 text-foreground-primary bg-transparent enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 hover-only' />
+							[205] (731,831)<span  />
+					[206] (780,831)<div aria-label='Play Butterfly Healing' class='clip-image-container cursor-pointer css-oyp14u e1fsfesb2' role='button'>1:52 />
+						[207] (780,831)<div  />
+						1:52
+					[208] (916,831)<div  />
+						[209] (916,798)<div  />
+							[210] (916,798)<div  />
+								[211] (889,798)<div  />
+									[212] (887,798)<div  />
+										[213] (888,798)<a class='hover:underline' href='/song/342cab66-d4a7-47df-891c-e76ebfccdc15'>Butterfly Healing />
+								[214] (977,798)<span >v4.5-all />
+						[215] (916,824)<div >Healing female vocals, ethereal ambient pop, soft acoustic guitar, 72bpm, cinematic, emotional />
+						[216] (916,860)<div  />
+							[217] (850,860)<button aria-label='Like clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[218] (850,860)<span  />
+							[219] (893,860)<button aria-label='Dislike clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[220] (893,860)<span  />
+							[221] (936,860)<button aria-label='Share clip' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent before:bg-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-[15px] leading-[24px] rounded-full aspect-square p-2 text-foreground-primary bg-background-tertiary enabled:hover:before:bg-overlay-on-primary disabled:after:bg-background-primary disabled:after:opacity-50 clip-interaction-button' />
+								[222] (936,860)<span  />
+	1:00
+	Butterfly Healing
+	v5 Preview
+	Healing female vocals, ethereal ambient pop, soft acoustic guitar, 72bpm, cinematic, emotional
+	Upgrade for full song
+[223] (485,941)<button aria-label='Playbar: Toggle shuffle button' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-sm leading-[24px] rounded-full aspect-square p-0.5 text-current bg-transparent before:bg-current before:opacity-0 opacity-40 enabled:hover:before:opacity-25 disabled:after:bg-background-primary disabled:after:opacity-50' id='base-ui-_r_6_' />
+	[224] (485,941)<span  />
+[225] (679,941)<button aria-label='Playbar: Toggle repeat button' class='relative inline-block font-sans font-medium text-center before:absolute before:inset-0 before:pointer-events-none before:rounded-[inherit] before:border before:border-transparent after:absolute after:inset-0 after:pointer-events-none after:rounded-[inherit] after:bg-transparent after:opacity-0 enabled:hover:after:opacity-100 transition duration-75 before:transition before:duration-75 after:transition after:duration-75 select-none cursor-pointer text-sm leading-[24px] rounded-full aspect-square p-0.5 text-current bg-transparent before:bg-current before:opacity-0 opacity-40 enabled:hover:before:opacity-25 disabled:after:bg-background-primary disabled:after:opacity-50' id='base-ui-_r_8_' />
+	[226] (679,941)<span  />
+[227] (968,952)<div  />
+	[228] (968,952)<span  />
+
+</current_dom>

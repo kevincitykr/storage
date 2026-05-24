@@ -1,0 +1,138 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (70,76)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwjXqo7R5aSUAxUwLtAFHZPOF3kQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (344,75)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (562,75)<div  />
+	[3] (561,75)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,75)<span  />
+	[5] (577,75)<span  />
+[6] (593,75)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (593,75)<span  />
+[8] (619,75)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (645,75)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (675,75)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (670,75)<div  />
+		[12] (670,75)<span  />
+[13] (911,75)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp&authuser=0' />
+[14] (943,75)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,75)<a aria-label='Google 계정: 김광섭  
+(kevincitykr002@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3D%25ED%2595%2598%25EB%2582%25A8%25EC%258B%259C%2B%25EB%258B%25B9%25EA%25B7%25BC%25EB%25A7%2588%25EC%25BC%2593%2B%25EC%25A4%2591%25EA%25B3%25A0%25EA%25B1%25B0%25EB%259E%2598&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (156,164)<a class='XVMlrc C6AK7c' href='/search?q=%ED%95%98%EB%82%A8%EC%8B%9C+%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98&sca_esv=3fc7abff1a42fafb&sxsrf=ANbL-n5xj0_tkNffq2-jW9yXX7CpKWryRg:1778075023157&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjaCEzA_Vv7CS2WT0W4XyDt__5GDyrWFfSIpkLXS9D9LYfPYJl-USGYSFrELtWw4VCwJu7x58X7SNUwLQduTOscBDY7Cb7UdKkciyLIZNgks8tos5Fw&aep=1&ntc=1&sa=X&ved=2ahUKEwjXqo7R5aSUAxUwLtAFHZPOF3kQ2J8OegQIDhAD' />
+	[17] (156,164)<div  />
+		[18] (156,177)<div  />
+			[19] (156,169)<span  />
+				[20] (156,169)<span >AI 모드 />
+[21] (194,164)<a class='C6AK7c' role='link' />
+	전체
+[22] (230,164)<a class='C6AK7c' href='/search?sca_esv=3fc7abff1a42fafb&sxsrf=ANbL-n5xj0_tkNffq2-jW9yXX7CpKWryRg:1778075023157&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjaCEzA_Vv7CS2WT0W4XyDt__5GDyrWFfSIpkLXS9D9LYfPYJl-USGYSFrELtWw4VCwJu7x58X7SNUwLQduTOscBDY7Cb7UdKkciyLIZNgks8tos5Fw&q=%ED%95%98%EB%82%A8%EC%8B%9C+%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98&sa=X&ved=2ahUKEwjXqo7R5aSUAxUwLtAFHZPOF3kQtKgLegQIFBAB' />
+	[23] (230,164)<div  />
+		[24] (230,177)<span >이미지 />
+[25] (267,164)<a class='C6AK7c' href='/search?sca_esv=3fc7abff1a42fafb&sxsrf=ANbL-n5xj0_tkNffq2-jW9yXX7CpKWryRg:1778075023157&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjaCEzA_Vv7CS2WT0W4XyDt__5GDyrWFfSIpkLXS9D9LYfPYJl-USGYSFrELtWw4VCwJu7x58X7SNUwLQduTOscBDY7Cb7UdKkciyLIZNgks8tos5Fw&q=%ED%95%98%EB%82%A8%EC%8B%9C+%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98&ved=1t:220175&ictx=111' />
+	[26] (267,164)<div  />
+		[27] (267,177)<span >쇼핑 />
+[28] (299,164)<a class='C6AK7c' href='/search?sca_esv=3fc7abff1a42fafb&sxsrf=ANbL-n5xj0_tkNffq2-jW9yXX7CpKWryRg:1778075023157&q=%ED%95%98%EB%82%A8%EC%8B%9C+%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjaCEzA_Vv7CS2WT0W4XyDt__5GDyrWFfSIpkLXS9D9LYfPYJl-USGYSFrELtWw4VCwJu7x58X7SNUwLQduTOscBDY7Cb7UdKkciyLIZNgks8tos5Fw&sa=X&ved=2ahUKEwjXqo7R5aSUAxUwLtAFHZPOF3kQ0pQJegQIEhAB' />
+	[29] (299,164)<div  />
+		[30] (299,177)<span >뉴스 />
+[31] (336,164)<a class='C6AK7c' href='/search?sca_esv=3fc7abff1a42fafb&sxsrf=ANbL-n5xj0_tkNffq2-jW9yXX7CpKWryRg:1778075023157&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjaCEzA_Vv7CS2WT0W4XyDt__5GDyrWFfSIpkLXS9D9LYfPYJl-USGYSFrELtWw4VCwJu7x58X7SNUwLQduTOscBDY7Cb7UdKkciyLIZNgks8tos5Fw&q=%ED%95%98%EB%82%A8%EC%8B%9C+%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98&sa=X&ved=2ahUKEwjXqo7R5aSUAxUwLtAFHZPOF3kQtKgLegQIExAB' />
+	[32] (336,164)<div  />
+		[33] (336,177)<span >동영상 />
+[34] (386,164)<a class='C6AK7c' href='/search?sca_esv=3fc7abff1a42fafb&sxsrf=ANbL-n5xj0_tkNffq2-jW9yXX7CpKWryRg:1778075023157&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4rea5XFXsPHwMjGsTekJ1HCohLl5jVfW6Wa1gJhEgNeZVlV4LP4dAIdESdIYW3NQLhYaf0DeSMCChamVTwJBJCeMVAGG5ahG2w21NBTMzP2QSjaCEzA_Vv7CS2WT0W4XyDt__5GDyrWFfSIpkLXS9D9LYfPYJl-USGYSFrELtWw4VCwJu7x58X7SNUwLQduTOscBDY7Cb7UdKkciyLIZNgks8tos5Fw&q=%ED%95%98%EB%82%A8%EC%8B%9C+%EB%8B%B9%EA%B7%BC%EB%A7%88%EC%BC%93+%EC%A4%91%EA%B3%A0%EA%B1%B0%EB%9E%98&sa=X&ved=2ahUKEwjXqo7R5aSUAxUwLtAFHZPOF3kQs6gLegQIEBAB' />
+	[35] (386,164)<div  />
+		[36] (386,177)<span >짧은 동영상 />
+[37] (443,164)<div class='mTpL7c' role='button' />
+	[38] (443,164)<div  />
+		[39] (443,177)<div  />
+			[40] (437,169)<span >더보기 />
+			[41] (455,169)<span  />
+[42] (491,164)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[43] (491,164)<div  />
+		[44] (491,177)<div  />
+			[45] (485,169)<span >도구 />
+			[46] (499,169)<span  />
+검색결과
+웹 검색결과
+[47] (225,292)<a class='zReHs' href='https://www.daangn.com/kr/buy-sell/?in=%EC%8B%A0%EC%9E%A5%EB%8F%99-4820' />
+	[48] (225,320)<h3 >경기도 하남시 신장동 중고거래 />
+	[49] (214,269)<div  />
+		[50] (214,269)<div  />
+			[51] (151,269)<span  />
+				[52] (151,269)<div  />
+					[53] (151,269)<img  />
+			[54] (227,269)<div  />
+				[55] (227,256)<div  />
+					[56] (227,256)<span >당근 />
+				[57] (227,283)<div  />
+					[58] (227,283)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[59] (270,283)<span class='ylgVCe ob9lvb' role='text'>› buy-sell />
+[60] (300,282)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[61] (300,282)<span  />
+		[62] (300,283)<span  />
+당근에서 거래되는 중고거래 매물
+을 소개합니다. 지금 경기도 하남시 신장동에서 거래되고 있는 다양한 매물을 구경해보세요.
+[63] (225,503)<a class='zReHs' href='https://www.daangn.com/kr/buy-sell/?in=%EB%A7%9D%EC%9B%94%EB%8F%99-4814' />
+	[64] (225,531)<h3 >경기도 하남시 망월동 중고거래 />
+	[65] (214,480)<div  />
+		[66] (214,480)<div  />
+			[67] (151,480)<span  />
+				[68] (151,480)<div  />
+					[69] (151,480)<img  />
+			[70] (227,480)<div  />
+				[71] (227,467)<div  />
+					[72] (227,467)<span >당근 />
+				[73] (227,495)<div  />
+					[74] (227,495)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[75] (270,494)<span class='ylgVCe ob9lvb' role='text'>› buy-sell />
+[76] (300,493)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[77] (300,493)<span  />
+		[78] (300,495)<span  />
+당근에서 거래되는 중
+고
+거래 매물을 소개합니다. 지금 경기도 하남시 망월동에서 거래되고 있는 다양한 매물을 구경해보세요.
+[79] (225,714)<a class='zReHs' href='https://www.daangn.com/kr/buy-sell/?in=%ED%92%8D%EC%82%B0%EB%8F%99-1657' />
+	[80] (225,742)<h3 >경기도 하남시 풍산동 중고거래 />
+	[81] (214,692)<div  />
+		[82] (214,692)<div  />
+			[83] (151,692)<span  />
+				[84] (151,692)<div  />
+					[85] (151,692)<img  />
+			[86] (227,692)<div  />
+				[87] (227,679)<div  />
+					[88] (227,679)<span >당근 />
+				[89] (227,706)<div  />
+					[90] (227,706)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[91] (270,705)<span class='ylgVCe ob9lvb' role='text'>› buy-sell />
+[92] (300,704)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[93] (300,704)<span  />
+		[94] (300,706)<span  />
+당근
+에서 거래되는
+중고거래
+매물을 소개합니다. 지금 경기도
+하남시
+풍산동에서 거래되고 있는 다양한 매물을 구경해보세요.
+[95] (265,926)<a class='zReHs' href='https://www.daangn.com/search/%EA%B2%BD%EA%B8%B0%EB%8F%84%20%ED%95%98%EB%82%A8%EC%8B%9C%20%EB%8D%95%ED%92%8D3%EB%8F%99' />
+	[96] (265,954)<h3 >"경기도 하남시 덕풍3동" 검색 결과 - 중고거래 />
+	[97] (247,903)<div  />
+		[98] (247,903)<div  />
+			[99] (151,903)<span  />
+				[100] (151,903)<div  />
+					[101] (151,903)<img  />
+			[102] (260,903)<div  />
+				[103] (260,890)<div  />
+					[104] (260,890)<span >당근 />
+				[105] (260,917)<div  />
+					[106] (260,917)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://www.daangn.com />
+						[107] (302,916)<span class='ylgVCe ob9lvb' role='text'>› search › 경기도 하남시 덕... />
+[108] (365,916)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[109] (365,916)<span  />
+		[110] (365,917)<span  />
+당근에서 거래되고 있는
+경기도 하남시 덕풍3동 중고거래 매물
+을 소개합니다. 지금 당근에서 원하시는 경기도 하남시 덕풍3동 매물을 구경해보세요.
+
+</current_dom>

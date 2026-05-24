@@ -1,0 +1,383 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+ようこそ 楽天市場へ
+[0] (874,27)<a aria-label='ログイン' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/authorize?client_id=rakuten_ichiba_search_web&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4070%252B%2525E3%252582%2525B0%2525E3%252583%2525A9%2525E3%252583%252595%2525E3%252582%2525A3%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%25259C%2525E3%252583%2525BC%2525E3%252583%252589%252B%2525E6%252596%2525B0%2525E5%252593%252581%252F%22%7D' />
+	[1] (874,27)<span >ログイン />
+[2] (909,27)<a aria-label='会員登録' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b no-padding--3cVyl type-link--2dc9e' href='https://login.account.rakuten.com/sso/register?client_id=rakuten_ichiba_search_web&service_id=r19&response_type=code&scope=openid&ui_locales=ja-JP&redirect_uri=https%3A%2F%2Fsearch.rakuten.co.jp%2Flogin-redirect&state=%7B%22redirect%22%3A%22https%253A%252F%252Fsearch.rakuten.co.jp%252Fsearch%252Fmall%252FRTX%252B4070%252B%2525E3%252582%2525B0%2525E3%252583%2525A9%2525E3%252583%252595%2525E3%252582%2525A3%2525E3%252583%252583%2525E3%252582%2525AF%2525E3%252583%25259C%2525E3%252583%2525BC%2525E3%252583%252589%252B%2525E6%252596%2525B0%2525E5%252593%252581%252F%22%7D' />
+	[3] (909,27)<span >会員登録 />
+[4] (964,24)<span class='reference--1B7iW' role='button' />
+	[5] (964,23)<button aria-label='Language' class='button--O2jmn size-xs--3YzBQ size-xs-padding--1OJ_b border-radius--1rtls no-padding--3cVyl type-link--SjlsF variant-gray-darker--KREPV' />
+		[6] (944,23)<span  />
+			[7] (944,23)<div  />
+		[8] (964,23)<span >Language />
+		[9] (984,23)<span  />
+			[10] (984,23)<div  />
+[11] (40,76)<a class='logo--2gpI-' href='https://www.rakuten.co.jp/?l-id=pc_header_logo' />
+	[12] (40,73)<div  />
+[13] (425,76)<input class='input-text--TRaVo' id='common-header-search-input' placeholder='キーワードから探す' />
+[14] (767,77)<div aria-label='すべての入力をクリア' class='clear-button--2KXPD' role='button' />
+[15] (789,76)<a aria-label='検索' class='link--1aOXp' href='https://search.rakuten.co.jp/search/mall' />
+	[16] (789,76)<div  />
+		[17] (789,76)<div  />
+			[18] (789,76)<div  />
+[19] (824,76)<a aria-label='Display notifications button to hover' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://t3.basket.step.rakuten.co.jp/rms/mall/bs/cartall/?l-id=pc_header_func_cart' />
+	[20] (824,67)<span  />
+		[21] (824,67)<div  />
+	[22] (824,91)<span >買い物かご />
+[23] (854,76)<span class='reference--1B7iW' role='button' />
+	[24] (854,76)<div  />
+		[25] (854,76)<button aria-label='お知らせ' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' />
+			[26] (854,67)<span  />
+				[27] (854,67)<div  />
+			[28] (854,91)<span >お知らせ />
+[29] (881,76)<a aria-label='閲覧履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://ashiato.rakuten.co.jp/rms/ashiato/page?l-id=pc_header_func_bh' />
+	[30] (881,67)<span  />
+		[31] (881,67)<div  />
+	[32] (881,91)<span >閲覧履歴 />
+[33] (911,76)<a aria-label='お気に入り' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://my.bookmark.rakuten.co.jp/?l-id=pc_header_func_bookmark' />
+	[34] (911,67)<span  />
+		[35] (911,67)<div  />
+	[36] (911,91)<span >お気に入り />
+[37] (941,76)<a aria-label='購入履歴' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://order.my.rakuten.co.jp/?l-id=pc_header_func_ph' />
+	[38] (941,67)<span  />
+		[39] (941,67)<div  />
+	[40] (941,91)<span >購入履歴 />
+[41] (972,76)<a aria-label='myクーポン' class='button--O2jmn size-m--3jURh size-m-padding--1SCdm border-radius--1rtls type-icon-link--1KY1_ icon-link-size--35rq8' href='https://coupon.rakuten.co.jp/myCoupon/%E6%A5%BD%E5%A4%A9%E5%B8%82%E5%A0%B4?l-id=pc_header_func_coupon' />
+	[42] (972,67)<span  />
+		[43] (972,67)<div  />
+	[44] (972,91)<span >myクーポン />
+すべてのジャンル
+「
+RTX 4070 グラフィックボード 新品
+」の検索結果
+1〜45件 （1,161件）
+お届け先
+[45] (969,144)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='prefecture-filter-select' />
+送料
+[46] (54,229)<label class='item' />
+	[47] (12,227)<input aria-label='すべて' id='shipping-fee-0' role='radio' />
+	[48] (26,229)<span >すべて />
+[49] (54,256)<label class='item' />
+	[50] (12,253)<input aria-label='送料無料' id='shipping-fee-1' role='radio' />
+	[51] (30,256)<span >送料無料 />
+[52] (54,282)<label class='item' />
+	[53] (12,279)<input aria-label='送料無料 + 送料無料ライン' id='shipping-fee-2' role='radio' />
+	[54] (56,282)<span >送料無料 + 送料無料ライン />
+ジャンル
+[55] (55,367)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/100026/' title='パソコン・周辺機器' />
+	[56] (55,367)<div >パソコン・周辺機器 />
+[57] (55,393)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/101164/' title='ホビー' />
+	[58] (55,393)<div >ホビー />
+商品価格
+[59] (10,492)<div class='histogram bar' role='button' />
+[60] (13,492)<div class='histogram bar' role='button' />
+[61] (16,492)<div class='histogram bar' role='button' />
+[62] (19,492)<div class='histogram bar' role='button' />
+[63] (22,492)<div class='histogram bar' role='button' />
+[64] (25,492)<div class='histogram bar' role='button' />
+[65] (28,492)<div class='histogram bar' role='button' />
+[66] (31,492)<div class='histogram bar' role='button' />
+[67] (34,492)<div class='histogram bar' role='button' />
+[68] (37,492)<div class='histogram bar' role='button' />
+[69] (40,492)<div class='histogram bar' role='button' />
+[70] (43,492)<div class='histogram bar' role='button' />
+[71] (46,492)<div class='histogram bar' role='button' />
+[72] (49,492)<div class='histogram bar' role='button' />
+[73] (52,492)<div class='histogram bar' role='button' />
+[74] (55,492)<div class='histogram bar' role='button' />
+[75] (58,492)<div class='histogram bar' role='button' />
+[76] (61,492)<div class='histogram bar' role='button' />
+[77] (64,492)<div class='histogram bar' role='button' />
+[78] (68,492)<div class='histogram bar' role='button' />
+[79] (71,492)<div class='histogram bar' role='button' />
+[80] (74,492)<div class='histogram bar' role='button' />
+[81] (77,492)<div class='histogram bar' role='button' />
+[82] (80,492)<div class='histogram bar' role='button' />
+[83] (83,492)<div class='histogram bar' role='button' />
+[84] (86,492)<div class='histogram bar' role='button' />
+[85] (89,492)<div class='histogram bar' role='button' />
+[86] (92,492)<div class='histogram bar' role='button' />
+[87] (95,492)<div class='histogram bar' role='button' />
+[88] (98,492)<div class='histogram bar' role='button' />
+[89] (9,520)<div aria-label='Decrease price range' class='slider control left' role='slider' />
+[90] (99,520)<div aria-label='Increase price range' class='slider control right' role='slider' />
+[91] (29,560)<input aria-label='min price filter' class='price input' id='min-price-filter' placeholder='円' />
+~
+[92] (79,560)<input aria-label='max price filter' class='price input' id='max-price-filter' placeholder='円' />
+[93] (54,605)<button class='dui-button -fluid'>検索 />
+	[94] (47,607)<i  />
+[95] (54,660)<div class='header -clickable' role='button' title='メーカー' />
+	[96] (96,660)<div  />
+		[97] (97,658)<div  />
+	[98] (51,660)<div >メーカー />
+[99] (54,696)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1004767/' title='54件'>MSI />
+[100] (54,722)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1004776/' title='18件'>AMD />
+[101] (54,748)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1002873/' title='9件'>マウスコンピューター />
+[102] (54,775)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1002853/' title='7件'>ASUS />
+[103] (54,801)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1004780/' title='4件'>GIGABYTE />
+パワーカラー
+玄人志向
+エヌビディア
+[104] (54,906)<a class='item' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1005457/' title='2件'>サーマルティク />
+カラー
+[105] (15,991)<a aria-label='ブラック' class='dui-color' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1000886/' title='ブラック' />
+[106] (30,991)<a aria-label='グレー' class='dui-color' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1000881/' title='グレー' />
+[107] (45,991)<a aria-label='ホワイト' class='dui-color -white' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1000873/' title='ホワイト' />
+[108] (60,991)<a class='dui-color -silver' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/-/tg1000879/' title='シルバー' />
+[109] (188,206)<label class='final-price-label--jzBLS'>「商品価格＋送料−獲得予定ポイント」で価格表示 />
+[110] (271,206)<span  />
+	[111] (271,206)<input class='control--FQ2nD' id='final-price-switch' role='switch' />
+並べ替え
+[112] (888,206)<select class='select--3dzR5 size-s--3zCUs border-radius-all--2LwW9' id='search-sort' />
+表示切替
+[113] (986,206)<a class='item viewtype' href='https://search.rakuten.co.jp/search/mall/RTX+4070+%E3%82%B0%E3%83%A9%E3%83%95%E3%82%A3%E3%83%83%E3%82%AF%E3%83%9C%E3%83%BC%E3%83%89+%E6%96%B0%E5%93%81/?set=view&v=2' />
+	[114] (985,206)<i  />
+価格や送料、納期等の詳細は、商品のサイズや色によって異なる場合があります
+[115] (981,277)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+商品のお届けに関するお客様ニーズを幅広く満たす商品に「最強翌日配送」ラベルを表示しています。
+[116] (436,321)<a class='text-container--2tSUW default-size--1kRiQ default-color--2fMVe style-underscore--2T7Fb link--1A1up' href='https://ichiba.faq.rakuten.net/detail/000037270'>詳細を見る />
+[117] (981,321)<button aria-label='閉じるボタン' class='close-button--3y2cC' />
+[118] (959,368)<div class='disclaimer-trigger--3NWjq' role='button' />
+	[119] (956,368)<div >検索結果に関する注意 />
+	[120] (988,368)<div  />
+		[121] (989,368)<div  />
+[122] (179,508)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/aynwmzrkm7/?variantId=aynwmzrkm7' />
+	[123] (179,508)<img  />
+[124] (157,586)<div  />
+	[125] (156,586)<div  />
+		[126] (156,586)<span class='reference--4whr_' role='button' />
+			[127] (156,586)<div  />
+				[128] (156,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[129] (156,586)<span  />
+						[130] (156,586)<div  />
+[131] (202,586)<span  />
+	[132] (202,586)<div  />
+		[133] (202,586)<div  />
+			[134] (202,586)<span class='reference--4whr_' role='button' />
+				[135] (202,586)<div  />
+					[136] (202,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[137] (202,586)<span  />
+							[138] (202,586)<div  />
+[139] (178,669)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/palmsamerica/aynwmzrkm7/?variantId=aynwmzrkm7' title='MSI グラフィックスボード GeForce RTX 4070 Ti VENTUS 3X 12G OC VD8370'>MSI グラフィックスボード GeForce RTX 4070 Ti VENTUS 3X 12G OC VD8370 />
+255,257
+円
+送料無料
+2,552
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[140] (142,785)<span class='reference--4whr_' role='button' />
+	[141] (142,785)<span  />
+		[142] (142,780)<div  />
+			[143] (142,780)<img  />
+[144] (159,812)<a class='_ellipsis' href='https://www.rakuten.co.jp/palmsamerica/'>パームスアメリカ />
+[145] (304,508)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/americagoodvibes/aynwmzrkm7/?variantId=aynwmzrkm7' />
+	[146] (304,508)<img  />
+[147] (282,586)<div  />
+	[148] (281,586)<div  />
+		[149] (281,586)<span class='reference--4whr_' role='button' />
+			[150] (281,586)<div  />
+				[151] (281,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[152] (281,586)<span  />
+						[153] (281,586)<div  />
+[154] (327,586)<span  />
+	[155] (327,586)<div  />
+		[156] (327,586)<div  />
+			[157] (327,586)<span class='reference--4whr_' role='button' />
+				[158] (327,586)<div  />
+					[159] (327,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[160] (327,586)<span  />
+							[161] (327,586)<div  />
+[162] (303,669)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/americagoodvibes/aynwmzrkm7/?variantId=aynwmzrkm7' title='MSI グラフィックスボード GeForce RTX 4070 Ti VENTUS 3X 12G OC VD8370'>MSI グラフィックスボード GeForce RTX 4070 Ti VENTUS 3X 12G OC VD8370 />
+255,257
+円
+送料無料
+2,552
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[163] (267,785)<span class='reference--4whr_' role='button' />
+	[164] (267,785)<span  />
+		[165] (267,780)<div  />
+			[166] (267,780)<img  />
+[167] (293,812)<a class='_ellipsis' href='https://www.rakuten.co.jp/americagoodvibes/'>アメリカグッドバイブス />
+[168] (429,508)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/ays7d4rkbn/?variantId=ays7d4rkbn' />
+	[169] (429,508)<img  />
+[170] (407,586)<div  />
+	[171] (406,586)<div  />
+		[172] (406,586)<span class='reference--4whr_' role='button' />
+			[173] (406,586)<div  />
+				[174] (406,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[175] (406,586)<span  />
+						[176] (406,586)<div  />
+[177] (452,586)<span  />
+	[178] (452,586)<div  />
+		[179] (452,586)<div  />
+			[180] (452,586)<span class='reference--4whr_' role='button' />
+				[181] (452,586)<div  />
+					[182] (452,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[183] (452,586)<span  />
+							[184] (452,586)<div  />
+MSI Gaming RTX 4070 Super 12G X Slim Graphics Card グラフィックボード 映像カード NVIDIA Super 192-Bit ブーストクロック 2655MHz 12GB GDDR6X 21Gbps HDMI DP Ada Lovelace Architecture 米国直送 個人輸入 rtx4070 グラフィックボード 4070
+289,341
+円
+送料無料
+2,893
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[185] (392,785)<span class='reference--4whr_' role='button' />
+	[186] (392,785)<span  />
+		[187] (392,780)<div  />
+			[188] (392,780)<img  />
+[189] (409,812)<a class='_ellipsis' href='https://www.rakuten.co.jp/palmsamerica/'>パームスアメリカ />
+[190] (554,508)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/lapistores/as4cjres62o7jvrzma3ifiaox4/?variantId=normal-inventory' />
+	[191] (554,508)<img  />
+[192] (532,586)<div  />
+	[193] (531,586)<div  />
+		[194] (531,586)<span class='reference--4whr_' role='button' />
+			[195] (531,586)<div  />
+				[196] (531,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[197] (531,586)<span  />
+						[198] (531,586)<div  />
+[199] (577,586)<span  />
+	[200] (577,586)<div  />
+		[201] (577,586)<div  />
+			[202] (577,586)<span class='reference--4whr_' role='button' />
+				[203] (577,586)<div  />
+					[204] (577,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[205] (577,586)<span  />
+							[206] (577,586)<div  />
+玄人志向 NVIDIA RTX4070Ti SUPER 搭載 グラフィックボード GDDR6X 16GB 搭載モデル 【】 GG-RTX4070TiSP-E16GB/EX/TP
+318,184
+円
+送料無料
+2,892
+ポイント
+(
+1
+倍)
+5/7 12:00までの注文で最短5/14お届け
+[207] (517,785)<span class='reference--4whr_' role='button' />
+	[208] (517,785)<span  />
+		[209] (517,780)<div  />
+			[210] (517,780)<img  />
+[211] (530,812)<a class='_ellipsis' href='https://www.rakuten.co.jp/lapistores/'>LAPPISTORES />
+[212] (679,508)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/aysgt3rkny/?variantId=aysgt3rkny' />
+	[213] (679,508)<img  />
+[214] (657,586)<div  />
+	[215] (656,586)<div  />
+		[216] (656,586)<span class='reference--4whr_' role='button' />
+			[217] (656,586)<div  />
+				[218] (656,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[219] (656,586)<span  />
+						[220] (656,586)<div  />
+[221] (702,586)<span  />
+	[222] (702,586)<div  />
+		[223] (702,586)<div  />
+			[224] (702,586)<span class='reference--4whr_' role='button' />
+				[225] (702,586)<div  />
+					[226] (702,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[227] (702,586)<span  />
+							[228] (702,586)<div  />
+MSI Gaming RTX 4070 Ti Super 16G Ventus 2X OC グラフィックスカード (NVIDIA Super、256ビット、エクストリームクロック:2655MHz、16GB GDRR6X 21Gbps、HDMI/DP、Ada Lovelace Architecture)
+289,513
+円
+送料無料
+2,895
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[229] (642,785)<span class='reference--4whr_' role='button' />
+	[230] (642,785)<span  />
+		[231] (642,780)<div  />
+			[232] (642,780)<img  />
+[233] (659,812)<a class='_ellipsis' href='https://www.rakuten.co.jp/palmsamerica/'>パームスアメリカ />
+[234] (804,508)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/ayzbzjrkwj/?variantId=ayzbzjrkwj' />
+	[235] (804,508)<img  />
+[236] (782,586)<div  />
+	[237] (781,586)<div  />
+		[238] (781,586)<span class='reference--4whr_' role='button' />
+			[239] (781,586)<div  />
+				[240] (781,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[241] (781,586)<span  />
+						[242] (781,586)<div  />
+[243] (827,586)<span  />
+	[244] (827,586)<div  />
+		[245] (827,586)<div  />
+			[246] (827,586)<span class='reference--4whr_' role='button' />
+				[247] (827,586)<div  />
+					[248] (827,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[249] (827,586)<span  />
+							[250] (827,586)<div  />
+[251] (804,669)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/palmsamerica/ayzbzjrkwj/?variantId=ayzbzjrkwj' title='MSI グラフィックスボード GeForce RTX 4070 VENTUS 3X 12G OC VD8470'>MSI グラフィックスボード GeForce RTX 4070 VENTUS 3X 12G OC VD8470 />
+226,927
+円
+送料無料
+2,269
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[252] (767,785)<span class='reference--4whr_' role='button' />
+	[253] (767,785)<span  />
+		[254] (767,780)<div  />
+			[255] (767,780)<img  />
+[256] (784,812)<a class='_ellipsis' href='https://www.rakuten.co.jp/palmsamerica/'>パームスアメリカ />
+[257] (929,508)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/ayzb7qrkds/?variantId=ayzb7qrkds' />
+	[258] (929,508)<img  />
+[259] (907,586)<div  />
+	[260] (906,586)<div  />
+		[261] (906,586)<span class='reference--4whr_' role='button' />
+			[262] (906,586)<div  />
+				[263] (906,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-left--2nGMK border-radius-bottom-left--37H7x block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+					[264] (906,586)<span  />
+						[265] (906,586)<div  />
+[266] (952,586)<span  />
+	[267] (952,586)<div  />
+		[268] (952,586)<div  />
+			[269] (952,586)<span class='reference--4whr_' role='button' />
+				[270] (952,586)<div  />
+					[271] (952,586)<button aria-label='button' class='button--3YE3u size-xs--1qW4M size-xs-padding--1Ud4D border-radius-top-right--O8mV4 border-radius-bottom-right--7mx2C block--1_kw1 no-padding--287kX no-border--EYmX4 type-basic--1zz3X' />
+						[272] (952,586)<span  />
+							[273] (952,586)<div  />
+[274] (929,669)<a class='title-link--3Yuev' href='https://item.rakuten.co.jp/palmsamerica/ayzb7qrkds/?variantId=ayzb7qrkds' title='MSI GeForce RTX 4070 VENTUS 2X 12G OC グラフィックスボード VD8471'>MSI GeForce RTX 4070 VENTUS 2X 12G OC グラフィックスボード VD8471 />
+302,301
+円
+送料無料
+3,023
+ポイント
+(
+1
+倍)
+1-2日以内に発送。到着まで2-12日前後
+[275] (892,785)<span class='reference--4whr_' role='button' />
+	[276] (892,785)<span  />
+		[277] (892,780)<div  />
+			[278] (892,780)<img  />
+[279] (909,812)<a class='_ellipsis' href='https://www.rakuten.co.jp/palmsamerica/'>パームスアメリカ />
+[280] (179,969)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/tales-store/202505151131494988755069465/?variantId=202505151131494988755069465' />
+	[281] (179,969)<img  />
+[282] (304,969)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/ayshd5rkm3/?variantId=ayshd5rkm3' />
+	[283] (304,969)<img  />
+[284] (429,969)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/nekosansyouten/202407210017490751492786414/?variantId=202407210017490751492786414' />
+	[285] (429,969)<img  />
+[286] (679,969)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/ays3qhrkqz/?variantId=ays3qhrkqz' />
+	[287] (679,969)<img  />
+[288] (804,969)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/palmsamerica/aysgt2rktm/?variantId=aysgt2rktm' />
+	[289] (804,969)<img  />
+[290] (929,969)<a class='image-link-wrapper--3XCNg' href='https://item.rakuten.co.jp/americagoodvibes/ays7d4rkbn/?variantId=ays7d4rkbn' />
+	[291] (929,969)<img  />
+
+</current_dom>

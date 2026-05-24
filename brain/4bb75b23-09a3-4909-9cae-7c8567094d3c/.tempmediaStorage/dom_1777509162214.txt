@@ -1,0 +1,77 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+DESKTOP-2T9HMFI
+[0] (610,41)<a class='dropdown-toggle ng-scope' href='#' />
+	[1] (575,41)<span  />
+	[2] (610,40)<span >Korean />
+	[3] (649,44)<span  />
+[4] (725,41)<a class='dropdown-toggle' href='#' />
+	[5] (692,41)<span  />
+	[6] (727,40)<span >도움말 />
+	[7] (761,44)<span  />
+[8] (829,41)<a class='dropdown-toggle' href='#' />
+	[9] (804,41)<span  />
+	[10] (831,40)<span >동작 />
+	[11] (857,44)<span  />
+폴더
+(2)
+[12] (500,269)<button class='btn panel-heading collapsed' />
+	[13] (489,237)<div  />
+	[14] (500,269)<h4  />
+		[15] (152,269)<div  />
+			[16] (152,269)<span  />
+		[17] (768,269)<div  />
+			[18] (701,267)<span >동기화 />
+			[19] (794,267)<span >(97%, 255 MiB) />
+		[20] (419,269)<div  />
+			[21] (258,267)<span >desktop_kevincity />
+폴더 아이디
+rlpuk-xkiiv
+폴더 경로
+E:\desktop_kevincity
+전체 기기 상태
+14,288
+2,011
+~9.28 GiB
+현재 기기 상태
+14,284
+2,011
+~9.12 GiB
+동기화 미완료 항목
+[22] (784,511)<a class='ng-binding'>75
+, ~255 MiB />
+	[23] (755,511)<span >개의 항목 />
+폴더 유형
+송수신
+재탐색
+1시간
+활성화됨
+파일 수신 순서
+무작위
+공유된 기기
+[24] (824,689)<a class='ng-binding ng-scope'>kevincityHQ />
+최근 탐색
+2026-04-30 09:30:06
+최신 변경 항목
+20260428_cfdca9a0_httpswww.youtube.comwatchv=9SB.md 업데이트됨
+[25] (656,851)<button class='btn btn-sm btn-default ng-scope' />
+	[26] (625,852)<span  />
+	[27] (664,851)<span >일시 중지 />
+재탐색
+[28] (827,851)<button class='btn btn-sm btn-default' />
+	[29] (811,852)<span  />
+	[30] (835,851)<span >편집 />
+[31] (500,920)<button class='btn panel-heading' />
+	[32] (500,920)<h4  />
+		[33] (152,920)<div  />
+			[34] (152,920)<span  />
+		[35] (821,920)<div  />
+			[36] (818,918)<span >최신 상태 />
+		[37] (473,920)<div  />
+			[38] (258,918)<span >desktop_kevincity />
+폴더 아이디
+zexhg-dmlyy
+
+</current_dom>

@@ -1,0 +1,165 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (325,125)<a class='inline shrink-0' href='/search/y700' />
+	[7] (325,125)<span >y700 />
+		[8] (316,125)<span >6
+. />
+[9] (366,125)<a class='inline shrink-0' href='/search/%EC%95%84%EC%95%BC%EB%84%A4%EC%98%A4' />
+	[10] (366,125)<span >아야네오 />
+		[11] (352,125)<span >7
+. />
+[12] (409,125)<a class='inline shrink-0' href='/search/5070ti' />
+	[13] (409,125)<span >5070ti />
+		[14] (398,125)<span >8
+. />
+[15] (453,125)<a class='inline shrink-0' href='/search/%EC%88%98%EC%96%B4%ED%94%8C%EB%A3%B8' />
+	[16] (453,125)<span >수어플룸 />
+		[17] (439,125)<span >9
+. />
+[18] (500,125)<a class='inline shrink-0' href='/search/%ED%8F%AC%EC%BC%93%EB%AA%AC%EA%B3%A0' />
+	[19] (500,125)<span >포켓몬고 />
+		[20] (487,125)<span >10
+. />
+[21] (666,69)<a href='/search/i7%2013700%204070?sort=DATE_DESC&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+[36] (904,329)<button aria-label='최근 본 상품 13700k z790 4070ti 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[37] (886,369)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/224785370' />
+	[38] (886,369)<img  />
+[39] (904,462)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[40] (886,502)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[41] (886,502)<img  />
+도서 음반
+뷰티 제품
+새 상품은 어떠세요?
+AD
+[42] (229,535)<a aria-label='쇼핑 - 1 번째 상품 삼성 컴퓨터 게이밍 사무용 6세대 i3 i5 i7 데스크탑 윈도우11 정품 무상 AS 1년 본체 PC, i3-6100/16G/SSD256G/HDD1TB, WIN11 Home, 1TB, 16GB, 블랙 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8726585524&itemId=25351903611&vendorItemId=92346329579&traceid=V0-153-07cab89eb52caa7e&clickBeacon=b1badfd0-4933-11f1-9e1d-b79a56b4b69c%7E3&requestid=20260506190939849032388445&token=31850C%7CMIXED' />
+	[43] (229,535)<div  />
+		[44] (229,460)<div  />
+			[45] (229,460)<div  />
+		[46] (229,652)<div  />
+			[47] (229,634)<div  />
+				[48] (229,614)<span >삼성 컴퓨터 게이밍 사무용 6세대 i3 i5 i7 데스크탑 윈도우11 정품 무상 AS 1년 본체 PC, i3-6100/16G/SSD256G/HDD1TB, WIN11 Home, 1TB, 16GB, 블랙 />
+				[49] (229,665)<div  />
+					[50] (229,665)<div  />
+						[51] (204,665)<span >369,000 />
+						[52] (233,666)<span >원 />
+			[53] (229,706)<div  />
+				[54] (229,706)<span >광고 |
+쿠팡 />
+[55] (337,535)<a aria-label='쇼핑 - 2 번째 상품 LG 슬림 PC Z80GV i7-10700 16/500GB Win11 중고 데스크탑K, 16GB 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9352872942&itemId=27746986691&vendorItemId=94707949339&traceid=V0-153-d41510433b475429&clickBeacon=b1badfd0-4933-11f1-a75b-cb6d527d8087%7E3&requestid=20260506190939849032388445&token=31850C%7CMIXED' />
+	[56] (337,535)<div  />
+		[57] (337,460)<div  />
+			[58] (337,460)<div  />
+		[59] (337,652)<div  />
+			[60] (337,634)<div  />
+				[61] (337,614)<span >LG 슬림 PC Z80GV i7-10700 16/500GB Win11 중고 데스크탑K, 16GB />
+				[62] (337,665)<div  />
+					[63] (337,665)<div  />
+						[64] (312,665)<span >952,000 />
+						[65] (341,666)<span >원 />
+			[66] (337,706)<div  />
+				[67] (337,706)<span >광고 |
+쿠팡 />
+[68] (446,535)<a aria-label='쇼핑 - 3 번째 상품 LG전자 데스크탑 B70 i5 램16G SSD256G Win11 타워형PC [RK], B70, WIN11 Pro, 256GB, 16GB, 블랙 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8826157337&itemId=25719373049&vendorItemId=94532630797&traceid=V0-153-2ac35557d7813472&clickBeacon=b1badfd0-4933-11f1-a216-2abae1f54a34%7E3&requestid=20260506190939849032388445&token=31850C%7CMIXED' />
+	[69] (446,535)<div  />
+		[70] (446,460)<div  />
+			[71] (446,460)<div  />
+		[72] (446,652)<div  />
+			[73] (446,634)<div  />
+				[74] (446,614)<span >LG전자 데스크탑 B70 i5 램16G SSD256G Win11 타워형PC [RK], B70, WIN11 Pro, 256GB, 16GB, 블랙 />
+				[75] (446,665)<div  />
+					[76] (446,665)<div  />
+						[77] (421,665)<span >348,000 />
+						[78] (450,666)<span >원 />
+			[79] (446,706)<div  />
+				[80] (446,706)<span >광고 |
+쿠팡 />
+[81] (554,535)<a aria-label='쇼핑 - 4 번째 상품 HP 엘리트데스크 800 G4 TWR i5-8400 16G SSD 256G UHD 630 윈11 Pro, 엘리트데스크 800 G4, 윈도우 11 프로, 256GB, 16GB, 블랙 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8799135759&itemId=25619310416&vendorItemId=92619655269&traceid=V0-153-5e1862a994180f21&clickBeacon=b1badfd0-4933-11f1-b1ee-f88f949fff96%7E3&requestid=20260506190939849032388445&token=31850C%7CMIXED' />
+	[82] (554,535)<div  />
+		[83] (554,460)<div  />
+			[84] (554,460)<div  />
+		[85] (554,652)<div  />
+			[86] (554,634)<div  />
+				[87] (554,614)<span >HP 엘리트데스크 800 G4 TWR i5-8400 16G SSD 256G UHD 630 윈11 Pro, 엘리트데스크 800 G4, 윈도우 11 프로, 256GB, 16GB, 블랙 />
+				[88] (554,665)<div  />
+					[89] (554,665)<div  />
+						[90] (530,665)<span >408,990 />
+						[91] (558,666)<span >원 />
+			[92] (554,706)<div  />
+				[93] (554,706)<span >광고 |
+쿠팡 />
+[94] (663,535)<a aria-label='쇼핑 - 5 번째 상품 조립 게이밍 PC i7-9700F 16/500GB RTX3060 Win11 고사양 중고 데스크탑K, 1TB, 16GB, 지포스 RTX 3060 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=9309575251&itemId=27584076923&vendorItemId=94465819261&traceid=V0-153-a901818b81d0bb71&clickBeacon=b1badfd0-4933-11f1-8960-ecc5bebf38ff%7E3&requestid=20260506190939849032388445&token=31850C%7CMIXED' />
+	[95] (663,535)<div  />
+		[96] (663,460)<div  />
+			[97] (663,460)<div  />
+		[98] (663,652)<div  />
+			[99] (663,634)<div  />
+				[100] (663,614)<span >조립 게이밍 PC i7-9700F 16/500GB RTX3060 Win11 고사양 중고 데스크탑K, 1TB, 16GB, 지포스 RTX 3060 />
+				[101] (663,665)<div  />
+					[102] (663,665)<div  />
+						[103] (642,665)<span >1,486,000 />
+						[104] (675,666)<span >원 />
+			[105] (663,706)<div  />
+				[106] (663,706)<span >광고 |
+쿠팡 />
+[107] (771,535)<a aria-label='쇼핑 - 6 번째 상품 게이밍컴퓨터 조립PC 데스크탑 본체 보러가기' class='w-fit flex-1' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8501160855&itemId=24608820937&vendorItemId=92610184402&traceid=V0-153-30e68e94cb3373ed&requestid=20260506190939849032388445&token=31850C%7CMIXED' />
+	[108] (771,535)<div  />
+		[109] (771,460)<div  />
+			[110] (771,460)<div  />
+		[111] (771,652)<div  />
+			[112] (771,634)<div  />
+				[113] (771,614)<span >게이밍컴퓨터 조립PC 데스크탑 본체 />
+				[114] (771,665)<div  />
+					[115] (771,665)<div  />
+						[116] (746,665)<span >546,000 />
+						[117] (775,666)<span >원 />
+			[118] (771,706)<div  />
+				[119] (771,706)<span >광고 |
+쿠팡 />
+[120] (229,959)<a aria-label='쇼핑 - 7 번째 상품 조립 컴퓨터 조립PC 게이밍 고사양 게임용 본체 롤 오버워치 메이플 배틀그라운드 팰월드 디아블로 피파 로아 마인크래프트 로블록스 호라이즌 컴퓨터본체 보러가기' class='w-fit flex-1 max-md:hidden' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=8887484689&itemId=25947037099&vendorItemId=92877629355&traceid=V0-153-41c83bbb9eae21d2&requestid=20260506190939849032388445&token=31850C%7CMIXED' />
+	[121] (229,959)<div  />
+		[122] (229,884)<div  />
+			[123] (229,884)<div  />
+[124] (337,959)<a aria-label='쇼핑 - 8 번째 상품 i7 갓성비 대용량 듀얼하드 장착 게이밍 컴퓨터 배그 디아블로4 발로란트 롤 팰월드 발로란트 로블록스 오버워치2 조립 데스크탑 디자인 포토샵 데스크탑 본체 PC 보러가기' class='w-fit flex-1 max-md:hidden' href='https://link.coupang.com/re/AFFSDP?lptag=AF9001246&subid=joongnawebsabt&pageKey=7830109112&itemId=21294015388&vendorItemId=94111628504&traceid=V0-153-cbc80227c70df283&requestid=20260506190939849032388445&token=31850C%7CMIXED' />
+	[125] (337,959)<div  />
+		[126] (337,884)<div  />
+			[127] (337,884)<div  />
+[128] (446,884)<div  />
+	[129] (446,884)<div  />
+[130] (554,884)<div  />
+	[131] (554,884)<div  />
+[132] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[133] (854,907)<div  />
+		[134] (903,907)<div  />
+[135] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[136] (902,799)<span  />
+
+</current_dom>

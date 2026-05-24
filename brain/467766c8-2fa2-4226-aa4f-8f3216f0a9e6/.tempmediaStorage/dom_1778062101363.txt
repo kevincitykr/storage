@@ -1,0 +1,102 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (455,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (607,69)<button class='p-1' />
+[4] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[6] (329,125)<a class='inline shrink-0' href='/search/5060ti' />
+	[7] (329,125)<span >5060ti />
+		[8] (317,125)<span >11
+. />
+[9] (379,125)<a class='inline shrink-0' href='/search/9800x3d' />
+	[10] (379,125)<span >9800x3d />
+		[11] (362,125)<span >12
+. />
+[12] (425,125)<a class='inline shrink-0' href='/search/%ED%8A%9C%EB%8D%94' />
+	[13] (425,125)<span >튜더 />
+		[14] (418,125)<span >13
+. />
+[15] (464,125)<a class='inline shrink-0' href='/search/5090' />
+	[16] (464,125)<span >5090 />
+		[17] (454,125)<span >14
+. />
+[18] (502,125)<a class='inline shrink-0' href='/search/%EB%8B%88%EC%BD%98' />
+	[19] (502,125)<span >니콘 />
+		[20] (496,125)<span >15
+. />
+[21] (666,69)<a href='/search/13700%204070?minPrice=1400000&maxPrice=1750000&openChat=true' />
+	[22] (666,69)<div  />
+		[23] (649,69)<div  />
+			[24] (649,69)<img  />
+		[25] (675,69)<span >채팅하기 />
+[26] (732,69)<a href='/product/form?type=regist' />
+	[27] (732,69)<div  />
+		[28] (715,69)<div  />
+			[29] (715,69)<img  />
+		[30] (741,69)<span >판매하기 />
+[31] (790,69)<a href='/mystore' />
+	[32] (790,69)<div  />
+		[33] (781,69)<div  />
+			[34] (781,69)<img  />
+		[35] (799,69)<span >마이 />
+[36] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[37] (215,187)<span  />
+		[38] (215,187)<div  />
+			[39] (225,187)<span >카테고리 />
+[40] (286,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/event/list?searchType=ING' />
+	[41] (286,190)<span >이벤트 />
+[42] (338,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/fraud' />
+	[43] (338,190)<span >사기조회 />
+[44] (395,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/search-price' />
+	[45] (395,190)<span >시세조회 />
+[46] (452,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/contents' />
+	[47] (452,190)<span >읽을거리 />
+[48] (505,190)<a class='relative flex items-center px-3 mx-1 after:content-[''] after:absolute after:left-0 after:bottom-0 after:h-[2px] after:w-full after:bg-black after:scale-x-0 after:origin-left after:transition-transform after:duration-300 hover:after:scale-x-100' href='/favorite' />
+	[49] (505,190)<span >내 관심 />
+최근 본 상품
+[50] (904,411)<button aria-label='최근 본 상품 RTX 4070 Super + i7-13700F 고사양 게이밍 데스크탑(윈도우 포함) 삭제' class='absolute z-10 w-4 h-4 right-1 top-1' />
+[51] (886,451)<a class='relative block h-20 aspect-square rounded overflow-hidden dim' href='/product/226595875' />
+	[52] (886,451)<img  />
+13700 4070 중고거래 | 중고나라 - 안심되는 중고거래
+'13700 4070'
+검색결과
+총 2개
+카테고리
+[53] (253,461)<button  />
+[54] (298,461)<a role='button'>전체 />
+가격
+[55] (331,557)<input class='bg-transparent border-none outline-none text-[16px] flex-1' placeholder='최소 가격' />
+[56] (378,557)<button class='p-1' />
+~
+[57] (452,557)<input class='bg-transparent border-none outline-none text-[16px] flex-1' placeholder='최대 가격' />
+[58] (500,557)<button class='p-1' />
+[59] (544,557)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700' />
+	[60] (544,557)<span >적용 />
+옵션
+[61] (317,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>무료배송 />
+	[62] (297,653)<span  />
+[63] (398,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>인증셀러 상품 />
+	[64] (367,653)<span  />
+[65] (498,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>판매완료 상품 제외 />
+	[66] (457,653)<span  />
+선택한 필터
+전체
+1,400,000원 ~ 1,750,000원
+판매완료 상품 제외
+[67] (792,735)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit h-fit' />
+	[68] (792,735)<span >초기화 />
+	[69] (792,746)<div  />
+검색 상품 가격 요약
+평균 가격
+가장 높은 가격
+가장 낮은 가격
+[70] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 bg-white/90 border border-gray-300 rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto' />
+	[71] (854,907)<div  />
+		[72] (841,907)<span >키워드 알림 받기 />
+		[73] (903,907)<div  />
+
+</current_dom>

@@ -1,0 +1,171 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (764,24)<a class='link__cw-gnb enuri' href='https://www.enuri.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>에누리 />
+[1] (803,24)<a class='link__cw-gnb malltail' href='https://post.malltail.com/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>몰테일 />
+[2] (848,24)<a class='link__cw-gnb plto' href='https://www.plto.com/?utm_source=danawa&utm_medium=referral&utm_campaign=home&utm_content=top_gnb'>플레이오토 />
+[3] (892,24)<a class='link__cw-gnb makeshop' href='https://www.makeshop.co.kr/?utm_source=onsite&utm_medium=top_gnb&utm_campaign=danawa'>메이크샵 />
+삼성전자 DDR4-3200 16GB : 다나와 통합검색
+[4] (131,144)<a class='logo-ci' href='https://www.danawa.com' />
+	[5] (131,144)<img  />
+[6] (499,139)<fieldset  />
+	[7] (473,144)<input class='search__input' id='AKCSearch' placeholder='검색어를 입력해주세요.' title='검색어 입력' />
+	[8] (614,144)<button class='search__delete on'>삭제 />
+		삭제
+	[9] (640,144)<button class='search__submit'>검색 />
+		검색
+[10] (788,150)<a class='btn_user btn_user--recent' href='#' role='button' />
+	[11] (787,170)<span >최근 />
+[12] (840,150)<a class='btn_user btn_user--wish' href='https://www.danawa.com/main/wish/wishList.php' role='button' />
+	[13] (840,170)<span >관심 />
+[14] (889,150)<a class='btn_user btn_user--login' href='https://auth.danawa.com/login?url=https%3A%2F%2Fsearch.danawa.com%2Fdsearch.php%3Fquery%3D%25EC%2582%25BC%25EC%2584%25B1%25EC%25A0%2584%25EC%259E%2590%2520DDR4-3200%252016GB' role='button' />
+	[15] (889,171)<span >로그인 />
+[16] (108,76)<a class='btn_app' href='#mobile_service_layer' role='button'>다나와 앱 />
+[17] (593,75)<a href='https://auto.danawa.com'>자동차 />
+[18] (627,75)<a href='https://shop.danawa.com/shopmain/?logger_kw=dnw_top_pcmain'>조립PC />
+[19] (663,75)<a href='https://shop.danawa.com/virtualestimate/?controller=estimateMain&methods=index&marketPlaceSeq=16&logger_kw=dnw_top_esti'>PC견적 />
+[20] (706,75)<a href='https://pc26.danawa.com/bbs/?logger_kw=dnw_gnb_pc26'>PC구매상담 />
+[21] (754,75)<a href='https://plan.danawa.com'>쇼핑기획전 />
+[22] (796,75)<a href='https://dpg.danawa.com/bbs'>커뮤니티 />
+[23] (832,75)<a href='https://event.danawa.com/'>이벤트 />
+/
+[24] (859,75)<a href='https://event.danawa.com/experience/'>체험단 />
+[25] (896,75)<a class='more_sevice_click' href='#more_service_layer2'>서비스
+더보기 />
+	서비스
+[26] (132,240)<a class='view_all_category btn_cate_all btn_cate' href='#sectionExplodeLayer' />
+	[27] (126,239)<strong >전체 카테고리 />
+[28] (208,240)<a href='#'>통합검색 />
+[29] (252,240)<a href='#'>상품 />
+[30] (286,240)<a href='#'>장터 />
+[31] (335,240)<a href='#'>쇼핑가이드 />
+[32] (383,240)<a href='#'>뉴스 />
+[33] (427,240)<a href='#'>커뮤니티 />
+[34] (471,240)<a href='#'>리뷰 />
+[35] (511,240)<a href='#'>동영상 />
+[36] (566,240)<a href='#'>다나와Q&A />
+[37] (896,239)<a class='btn_sns_share' href='#' id='share'>공유 />
+	[38] (888,237)<span  />
+연관검색어
+[39] (213,312)<a href='/dsearch.php?query=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20ddr4-3200%20%288gb%29'>삼성전자ddr4-3200(8gb) />
+[40] (325,312)<a href='/dsearch.php?query=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20ddr4-2666%2816gb%29'>삼성전자ddr4-2666(16gb) />
+[41] (436,312)<a href='/dsearch.php?query=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20ddr4-2666%20%288gb%29'>삼성전자ddr4-2666(8gb) />
+[42] (545,312)<a href='/dsearch.php?query=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90%20ddr5-5600%2016gb'>삼성전자ddr5-560016gb />
+[43] (644,312)<a href='/dsearch.php?query=gigabyte%20a520m%20k%20v2'>gigabytea520mkv2 />
+삼성전자ddr4-3200(32gb)
+msiproh610m-eddr4
+삼성전자ddr4-3200(16gb)
+asusprimea520m-k
+amd라이젠5-4세대5600
+i5-12400f
+msimagb760m박격포ii
+인텔코어i5-14세대14400f
+ddr48gb
+삼성전자ddr5-560032gb
+gigabyteb760mds3hd4
+msiprob760m-addr4ii
+ddr43200
+ddr432gb
+인텔코어i5-12세대12400f
+[44] (727,314)<a class='btn_rel more' />
+상세검색
+CM 추천 옵션은
+하이라이트
+로 강조했어요.
+카테고리
+[45] (196,454)<a href='#'>PC 주요 부품 />
+[46] (225,453)<button class='btn_more_cate' />
+	[47] (225,453)<span  />
+6
+제조사/브랜드
+[48] (196,513)<label class='srch_lb'>삼성전자 />
+	삼성전자
+[49] (298,513)<label class='srch_lb'>GUDGA />
+	GUDGA
+배송/가격
+[50] (202,569)<button class='button__fast-shipping ' id='quickProductFilterButton'>빠른배송 />
+검색될 최소 가격 입력
+[51] (523,569)<input class='form__input' id='priceRangeMinPrice' />
+원
+~
+검색될 최대 가격 입력
+[52] (624,569)<input class='form__input' id='priceRangeMaxPrice' />
+원
+[53] (701,569)<button class='button__search' id='priceRangeSearchButton'>검색 />
+[54] (117,660)<a class='allTab' href='#searchOption' title='전체 상품 리스트 보러가기'>전체 />
+	[55] (126,660)<span >(143) />
+[56] (176,660)<a class='vmTab' href='#searchOption' title='가격비교 상품 리스트 보러가기'>가격비교
+(6) />
+	(6)
+[57] (244,660)<a class='vaTab' href='#searchOption' title='검색 상품 리스트 보러가기'>검색 상품 />
+	[58] (262,660)<span >(612) />
+[59] (517,659)<input class='search_input' id='SearchOption_InnerSearch_KeywordInput' placeholder='리스트 내 검색' title='리스트 내 검색' />
+[60] (581,659)<button class='submit_search_list' id='SearchOption_InnerSearch_SubmitButton' />
+[61] (624,659)<a class='btn_detail_srch' id='DetailSearch_ToggleButton'>결과 내 검색 />
+[62] (665,659)<a class='type_list' title='목록 리스트형으로 보기' />
+[63] (683,659)<a class='type_img' title='목록 이미지형으로 보기' />
+[64] (714,659)<select class='qnt_selector' title='목록 개수 선택' />
+[65] (112,731)<a >인기상품순 />
+[66] (177,731)<a >단위환산 최저가순 />
+[67] (214,731)<button class='button__tooltip'>툴팁 보기 />
+	툴팁 보기
+[68] (251,731)<a >낮은가격순 />
+[69] (299,731)<a >높은가격순 />
+[70] (344,731)<a >신상품순 />
+[71] (393,731)<a >상품평 많은순 />
+[72] (557,731)<label >상세옵션펼침 />
+	상세옵션펼침
+	[73] (578,731)<span  />
+[74] (631,731)<label >쿠팡와우할인 />
+	쿠팡와우할인
+	[75] (652,731)<span  />
+[76] (702,731)<label >배송비포함 />
+	배송비포함
+	[77] (720,731)<span  />
+[78] (131,890)<a class='thumb_link click_log_product_standard_img_' href='https://prod.danawa.com/info/?pcode=11790199&keyword=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90+DDR4-3200+16GB&cate=112752' />
+	[79] (131,890)<img  />
+[80] (239,812)<a class='click_log_product_standard_title_' href='https://prod.danawa.com/info/?pcode=11790199&keyword=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90+DDR4-3200+16GB&cate=112752'>- />
+	[81] (199,812)<b >삼성 />
+	[82] (217,812)<b >전자 />
+	[83] (243,812)<b >DDR4 />
+	[84] (275,812)<b >3200 />
+[5월 1주차] RAM 중 VS검색에 세번째로 많이 선택된 상품이에요
+[85] (208,891)<a class='view_dic' href='#'>데스크탑용 />
+/
+[86] (246,891)<a class='view_dic' href='#' />
+	[87] (246,890)<b >DDR4 />
+/
+[88] (310,891)<a class='view_dic' href='#'>MHz (PC4-25600) />
+	[89] (275,890)<b >3200 />
+/
+[90] (377,891)<a class='view_dic' href='#'>램개수 />
+:
+[91] (397,891)<a class='view_dic' href='#'>1개 />
+/
+[92] (426,891)<a class='view_dic' href='#'>히트싱크 />
+:
+[93] (201,917)<a class='view_dic' href='#'>미포함 />
+/
+단종된 모델이므로 중고상품 주의하시기 바랍니다
+[94] (205,950)<button class='button__view-more'>닫기 />
+혜택 최저가
+188,360원 [G마켓] 삼성카드 / 무이자 최대 24개월
+217몰
+[95] (727,950)<label  />
+	[96] (727,950)<input id='prodCompareCheck_11790199' />
+[97] (656,950)<a class='click_log_product_standard_price_' href='https://prod.danawa.com/info/?pcode=11790199&keyword=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90+DDR4-3200+16GB&cate=112752'>원 />
+	[98] (653,950)<strong >198,000 />
+[99] (686,950)<button class='ico i_more' />
+16GB
+[100] (579,950)<a href='https://prod.danawa.com/info/?pcode=11790199&keyword=%EC%82%BC%EC%84%B1%EC%A0%84%EC%9E%90+DDR4-3200+16GB&cate=112752' />
+	[101] (581,950)<span  />
+		[102] (581,950)<em >12,375원/1GB />
+[103] (954,404)<button class='button__floating-vs'>VS검색
+개 담김 />
+	VS검색
+	[104] (975,404)<span >0 />
+	개 담김
+VS
+
+</current_dom>

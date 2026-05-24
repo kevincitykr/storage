@@ -1,0 +1,27 @@
+# Walkthrough - Economy Factory Hub Execution Fix
+
+I have fixed the issues that were preventing the Economy Factory Hub from running correctly.
+
+## Changes Made
+
+### 1. Economy Bot Script Fix
+In [안실장_경제자동봇.py](file:///D:/20260412%20kevincity%20share/000_factory_core/%EC%95%88%EC%8B%A4%EC%9E%A5_%EA%B2%BD%EC%A0%9C%EC%9E%90%EB%8F%99%EB%B4%87.py), I added the missing `import json`. This was causing the script to fail during the visual prompt generation step.
+
+### 2. Server Enhancements
+In [안실장_서버.py](file:///D:/20260412%20kevincity share/000_factory_core/%EC%95%88%EC%8B%A4%EC%9E%A5_%EC%84%9C%EB%B2%84.py):
+- **CORS Enabled**: Added `flask-cors` to allow the dashboard (even if opened as a file) to communicate with the local server.
+- **Smart Routing**: The server now automatically detects and serves `Economy_Factory_Hub_20260419.html` if it's in the current directory, ensuring you always see the correct dashboard.
+
+### 3. Startup Script Optimization
+In [0_서버_및_대시보드_통합실행.bat](file:///D:/20260412%20kevincity%20share/000_factory_core/0_%EC%84%9C%EB%B2%84_%EB%B0%8F_%EB%8C%80%EC%8B%9C%EB%B3%B4%EB%93%9C_%ED%86%B5%ED%95%A9%EC%8B%A4%ED%96%89.bat):
+- **Python Check**: Added a check to warn you if Python is not installed or not in your PATH.
+- **Server-Based Launch**: The dashboard now opens via `http://127.0.0.1:5000`. This is the recommended way to run the system as it avoids browser security restrictions.
+
+## Verification Results
+- **Server Startup**: Verified that the server starts correctly and selects the economy hub dashboard.
+- **Connectivity**: Verified that the server is accessible at `http://127.0.0.1:5000`.
+
+## How to Run
+1. Double-click `0_서버_및_대시보드_통합실행.bat`.
+2. Your browser should automatically open the Economy Factory Hub.
+3. Click **GENERATE SCRIPT** to start the automation.

@@ -1,0 +1,116 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+$300 크레딧으로 무료 체험판을 시작해 보세요. 크레딧을 모두 사용해도 요금이 청구되지 않으니 걱정하지 마세요.
+자세히 알아보기
+닫기
+무료로 시작하기
+기본 콘텐츠로 건너뛰기
+키보드 단축키
+접근성 도움말
+접근성 관련 의견
+Default Gemini Project
+[0] (454,95)<div class='pcc-combobox' role='combobox' />
+	[1] (474,95)<input aria-label='쿼리를 입력하여 리소스, 문서, 제품 등 검색' class='cm-input gmat-mdc-input mat-mdc-input-element pcc-search-input ng-untouched ng-pristine ng-valid cdk-text-field-autofill-monitored cdk-focused cdk-mouse-focused' id='mat-input-0' placeholder='리소스, 문서, 제품 등 검색(/)' />
+Gemini
+AI 컴패니언과 채팅하여 Google Cloud와 관련된 모든 주제에 대한 종합적인 답변을 얻으세요.
+팁:
+Alt G
+단축키를 사용하여 채팅을 열고 닫으세요.
+[2] (351,250)<button class='mat-mdc-chip-action mdc-evolution-chip__action mdc-evolution-chip__action--primary' role='option' />
+	[3] (351,250)<span >Ask Gemini a question />
+		[4] (267,252)<cm-icon  />
+[5] (354,297)<button class='mat-mdc-chip-action mdc-evolution-chip__action mdc-evolution-chip__action--primary' role='option' />
+	[6] (354,297)<span >Help me build a GenAI app />
+[7] (451,344)<button class='mat-mdc-chip-action mdc-evolution-chip__action mdc-evolution-chip__action--primary' role='option' />
+	[8] (451,344)<span >How does Bigtable handle conflicting write requests? />
+[9] (462,391)<button class='mat-mdc-chip-action mdc-evolution-chip__action mdc-evolution-chip__action--primary' role='option' />
+	[10] (462,391)<span >Give me recommendations to reduce my resource costs />
+[11] (402,438)<button class='mat-mdc-chip-action mdc-evolution-chip__action mdc-evolution-chip__action--primary' role='option' />
+	[12] (402,438)<span >List my KMS key with recommendations />
+[13] (306,503)<label class='ng-star-inserted'>권장 검색어 />
+[14] (500,569)<a class='pcc-search-result-option pcc-search-result mat-focus-indicator is-zero-state ng-star-inserted' href='/agent-platform?referrer=search&authuser=1&project=gen-lang-client-0922899114' id='AGENT_PLATFORM_SECTION' />
+	[15] (493,569)<div  />
+		[16] (261,569)<section-icon  />
+			[17] (253,569)<shell-nav-icon  />
+				[18] (253,569)<cm-icon  />
+		[19] (514,569)<div  />
+			[20] (514,569)<div  />
+				[21] (514,548)<div >에이전트 플랫폼 />
+				[22] (514,582)<p  />
+					[23] (499,582)<span >One platform to build, deploy, scale and optimize sophisticated agents and models. />
+[24] (500,640)<a class='pcc-search-result-option pcc-search-result mat-focus-indicator is-zero-state divider ng-star-inserted' href='/compute?referrer=search&authuser=1&project=gen-lang-client-0922899114' id='COMPUTE_SECTION' />
+	[25] (493,640)<div  />
+		[26] (261,641)<section-icon  />
+			[27] (253,641)<shell-nav-icon  />
+				[28] (253,641)<cm-icon  />
+		[29] (514,641)<div  />
+			[30] (345,641)<div  />
+				[31] (345,630)<div >Compute Engine />
+				[32] (345,654)<p  />
+					[33] (345,654)<span >VM, GPU, TPU, 디스크 />
+[34] (500,703)<a class='pcc-search-result-option pcc-search-result mat-focus-indicator is-zero-state divider ng-star-inserted' href='/bigquery?referrer=search&authuser=1&project=gen-lang-client-0922899114' id='search_BIGQUERY_SECTION' />
+	[35] (493,704)<div  />
+		[36] (261,704)<section-icon  />
+			[37] (253,704)<shell-nav-icon  />
+				[38] (253,704)<cm-icon  />
+		[39] (514,704)<div  />
+			[40] (348,704)<div  />
+				[41] (348,694)<div >BigQuery />
+				[42] (348,717)<p  />
+					[43] (348,717)<span >데이터 웨어하우스/분석 />
+[44] (500,767)<a class='pcc-search-result-option pcc-search-result mat-focus-indicator is-zero-state divider ng-star-inserted' href='/iam-admin?referrer=search&authuser=1&project=gen-lang-client-0922899114' id='IAM_ADMIN_SECTION' />
+	[45] (493,768)<div  />
+		[46] (261,768)<section-icon  />
+			[47] (253,768)<shell-nav-icon  />
+				[48] (253,768)<cm-icon  />
+		[49] (514,768)<div  />
+			[50] (335,768)<div  />
+				[51] (335,758)<div >IAM 및 관리자 />
+				[52] (335,781)<p  />
+					[53] (335,781)<span >리소스 액세스 제어 />
+[54] (500,831)<a class='pcc-search-result-option pcc-search-result mat-focus-indicator is-zero-state divider ng-star-inserted' href='/storage?referrer=search&authuser=1&project=gen-lang-client-0922899114' id='STORAGE_SECTION' />
+	[55] (493,832)<div  />
+		[56] (261,832)<section-icon  />
+			[57] (253,832)<shell-nav-icon  />
+				[58] (253,832)<cm-icon  />
+		[59] (514,832)<div  />
+			[60] (341,832)<div  />
+				[61] (341,822)<div >Cloud Storage />
+				[62] (341,845)<p  />
+					[63] (341,845)<span >기업용 객체 스토리지 />
+검색
+[64] (500,564)<cfc-virtual-viewport class='cfc-virtual-scroll-viewport cfc-panel-body cfc-panel-body-flex cfc-panel-disable-border-bottom cfc-virtual-scroll-orientation-vertical' role='presentation' scrollable='true' />
+	시작하기
+	작업 중인 프로젝트:
+	Default Gemini Project
+	프로젝트 번호:
+	436819391954
+	프로젝트 ID:
+	gen-lang-client-0922899114
+	대시보드
+	Cloud Hub
+	Gemini API 키 만들기
+	에이전트 만들기
+	VM 만들기
+	BigQuery에서 쿼리 실행
+	애플리케이션 배포
+	스토리지 버킷 만들기
+	Google Developer Program에 가입하여 무료로 새로운 기술과 개발 도구에 대해 알아보세요.
+	지금 참여하기
+	빠른 액세스
+[65] (98,928)<div class='ap-toolbar-tab-tab' role='tab' />
+	[66] (98,928)<div  />
+		[67] (98,928)<i  />
+[68] (54,909)<div class='ap-toolbar-tab-tab' role='tab' />
+	[69] (54,909)<div  />
+		[70] (54,909)<div  />
+			[71] (54,909)<div class='ap-notification-cover' />
+				[72] (54,909)<img  />
+이제 문서, 리소스 메타데이터, 튜토리얼, API 키를 검색할 수 있습니다.
+[73] (498,157)<button aria-label='설명 닫기' class='mdc-icon-button mat-mdc-icon-button mat-mdc-button-base gmat-mdc-button cfc-callout-close-button cfc-button-small ng-tns-c3730881416-7 mat-unthemed cm-button cfc-tooltip cfc-tooltip-disable-user-select-on-touch-device' />
+	[74] (498,158)<cfc-icon  />
+		[75] (498,158)<mat-icon class='mat-icon notranslate mat-icon-no-color ng-star-inserted' role='img' />
+
+</current_dom>

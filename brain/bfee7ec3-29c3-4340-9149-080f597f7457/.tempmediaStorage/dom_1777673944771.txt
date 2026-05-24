@@ -1,0 +1,367 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,38)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (115,40)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (354,37)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='k8 에어컨 필터' role='searchbox' />
+[3] (572,40)<div  />
+	[4] (572,37)<img  />
+[5] (598,37)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (665,37)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (638,37)<span  />
+	[8] (674,37)<div  />
+		[9] (674,37)<b >AliExpress 앱을 다운로드하세요 />
+[10] (731,37)<div  />
+	[11] (731,37)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[12] (715,37)<span  />
+		[13] (739,37)<div  />
+			[14] (739,26)<span >김해시/
+KO
+/ />
+			[15] (735,44)<b >KRW />
+				[16] (742,45)<span  />
+[17] (786,37)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[18] (771,37)<span  />
+	[19] (795,37)<div  />
+		[20] (795,26)<span >Hi, sohwe />
+		[21] (792,44)<b >계정 />
+			[22] (799,45)<span  />
+[23] (837,37)<div  />
+	[24] (839,37)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[25] (826,37)<span  />
+		[26] (848,37)<div  />
+			[27] (848,23)<div  />
+				[28] (843,24)<span >21 />
+			[29] (848,46)<b >장바구니 />
+[30] (42,141)<div  />
+	[31] (42,141)<img  />
+[32] (42,230)<div  />
+	[33] (42,230)<img  />
+[34] (187,358)<div  />
+	[35] (187,358)<div  />
+카니발 KA4 헤파 활성탄 듀얼 에어컨필터 앞뒤셋트 퓨어에어 [호환]
+[36] (485,147)<div class='es--root--wdlxWrx reviewer--slider--qWpbOtA' scrollable='true' />
+	1 개 판매
+	[37] (485,147)<a class='reviewer--sliderItem--cwGn8yq' href='//ko.aliexpress.com/store/1104719061' />
+		[38] (323,148)<img  />
+		[39] (357,148)<span >퓨어리퍼블릭 스토어 />
+		[40] (391,148)<span >( />
+		[41] (396,148)<img  />
+		[42] (405,148)<strong >4.9 />
+		[43] (414,148)<span >| />
+		[44] (439,148)<span >누적판매 600+ />
+		[45] (464,148)<span >) />
+	1 개 판매
+	퓨어리퍼블릭 스토어
+	(
+	4.9
+	|
+	누적판매 600+
+	)
+₩28,900
+5% 추가 코인 할인
+[46] (485,259)<div  />
+	[47] (481,259)<div  />
+		[48] (481,259)<div  />
+			[49] (339,259)<img  />
+			[50] (496,259)<div >₩30,000 구매 시 ₩4,100 할인 />
+	[51] (642,259)<span  />
+연관 상품
+[52] (337,966)<div  />
+	[53] (77,911)<div class='slick-slide slick-active slick-current' />
+		[54] (77,911)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005011742141434.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=fff08cbe-0137-4e0a-89ff-b10056275ad2&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:fff08cbe-0137-4e0a-89ff-b10056275ad2,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2117900%2117900%21%21%2117900%2117900%21%402102f22c17776738990966683e5421%2112000056408763736%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005011742141434%7C_p_origin_prod%3A' />
+			[55] (77,844)<div  />
+				[56] (77,844)<div  />
+				[57] (97,887)<div  />
+					[58] (97,887)<div  />
+						[59] (97,887)<span  />
+			[60] (77,994)<div  />
+				[61] (77,946)<div aria-label='싼타페 MX5 헤파 활성탄 멀티 에어컨필터 퓨어에어 [호환]' class='_2BLrX' role='heading' title='싼타페 MX5 헤파 활성탄 멀티 에어컨필터 퓨어에어 [호환]' />
+					[62] (77,969)<h3 >싼타페 MX5 헤파 활성탄 멀티 에어컨필터 퓨어에어 [호환] />
+				[63] (77,977)<div aria-label='₩17,900' class='_23lt5' />
+					[64] (60,978)<div  />
+						[65] (43,978)<span >₩ />
+						[66] (52,978)<span >17 />
+						[67] (60,978)<span >, />
+						[68] (71,978)<span >900 />
+				1 판매
+	[69] (181,911)<div class='slick-slide slick-active' />
+		[70] (181,911)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005008455184769.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=fff08cbe-0137-4e0a-89ff-b10056275ad2&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:fff08cbe-0137-4e0a-89ff-b10056275ad2,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22543%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2118500%2118500%21%21%2118500%2118500%21%402102f22c17776738990966683e5421%2112000045211754796%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008455184769%7C_p_origin_prod%3A' />
+			[71] (181,844)<div  />
+				[72] (181,844)<div  />
+				[73] (202,887)<div  />
+					[74] (202,887)<div  />
+						[75] (202,887)<span  />
+			[76] (181,994)<div  />
+				[77] (181,946)<div aria-label='2+1 극초미세먼지 PM0.3 자동차 에어컨 필터 캐빈 필터' class='_2BLrX' role='heading' title='2+1 극초미세먼지 PM0.3 자동차 에어컨 필터 캐빈 필터' />
+					[78] (181,969)<h3 >2+1 극초미세먼지 PM0.3 자동차 에어컨 필터 캐빈 필터 />
+				[79] (181,977)<div aria-label='₩18,500' class='_23lt5' />
+					[80] (164,978)<div  />
+						[81] (147,978)<span >₩ />
+						[82] (157,978)<span >18 />
+						[83] (164,978)<span >, />
+						[84] (175,978)<span >500 />
+				4.9
+	[85] (285,911)<div class='slick-slide slick-active' />
+		[86] (285,911)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005008816906089.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=fff08cbe-0137-4e0a-89ff-b10056275ad2&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:fff08cbe-0137-4e0a-89ff-b10056275ad2,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22587%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2127936%2127936%21%21%2127936%2127936%21%402102f22c17776738990966683e5421%2112000046795033033%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008816906089%7C_p_origin_prod%3A' />
+			[87] (285,844)<div  />
+				[88] (285,844)<div  />
+				[89] (306,887)<div  />
+					[90] (306,887)<div  />
+						[91] (306,887)<span  />
+			[92] (285,994)<div  />
+				[93] (285,946)<div aria-label='1+1 현대 기아 제네시스 전차종 에어컨필터 프리미엄 PM0.3 [호환]' class='_2BLrX' role='heading' title='1+1 현대 기아 제네시스 전차종 에어컨필터 프리미엄 PM0.3 [호환]' />
+					[94] (284,969)<h3 >1+1 현대 기아 제네시스 전차종 에어컨필터 프리미엄 PM0.3 [호환] />
+				[95] (285,977)<div aria-label='₩27,936' class='_23lt5' />
+					[96] (269,978)<div  />
+						[97] (252,978)<span >₩ />
+						[98] (261,978)<span >27 />
+						[99] (269,978)<span >, />
+						[100] (279,978)<span >936 />
+				4.8
+	[101] (390,911)<div class='slick-slide slick-active' />
+		[102] (390,911)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005011754659539.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=fff08cbe-0137-4e0a-89ff-b10056275ad2&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:fff08cbe-0137-4e0a-89ff-b10056275ad2,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%2277%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2113858%2113858%21%21%2113858%2113858%21%402102f22c17776738990966683e5421%2112000056450082045%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005011754659539%7C_p_origin_prod%3A' />
+			[103] (390,844)<div  />
+				[104] (390,844)<div  />
+				[105] (410,887)<div  />
+					[106] (410,887)<div  />
+						[107] (410,887)<span  />
+			[108] (390,994)<div  />
+				[109] (390,946)<div aria-label='1+1 대한 PM0.3 블루 활성탄 차량용 에어컨 필터' class='_2BLrX' role='heading' title='1+1 대한 PM0.3 블루 활성탄 차량용 에어컨 필터'>1+1 대한 PM0.3 블루 활성탄 차량용 에어컨 필터 />
+					1+1 대한 PM0.3 블루 활성탄 차량용 에어컨 필터
+				[110] (390,977)<div aria-label='₩13,858' class='_23lt5' />
+					[111] (373,978)<div  />
+						[112] (356,978)<span >₩ />
+						[113] (365,978)<span >13 />
+						[114] (373,978)<span >, />
+						[115] (384,978)<span >858 />
+				4.9
+				77 판매
+	[116] (494,911)<div class='slick-slide slick-active' />
+		[117] (494,911)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005009260380778.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=fff08cbe-0137-4e0a-89ff-b10056275ad2&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:fff08cbe-0137-4e0a-89ff-b10056275ad2,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%2211%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2122000%2122000%21%21%2122000%2122000%21%402102f22c17776738990966683e5421%2112000048516207276%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005009260380778%7C_p_origin_prod%3A' />
+			[118] (494,844)<div  />
+				[119] (494,844)<div  />
+				[120] (514,887)<div  />
+					[121] (514,887)<div  />
+						[122] (514,887)<span  />
+			[123] (494,994)<div  />
+				[124] (494,946)<div aria-label='1+1 현대모비스 카니발 에어컨 필터 KA4 YP VQ 전차종 순정형' class='_2BLrX' role='heading' title='1+1 현대모비스 카니발 에어컨 필터 KA4 YP VQ 전차종 순정형' />
+					[125] (493,969)<h3 >1+1 현대모비스 카니발 에어컨 필터 KA4 YP VQ 전차종 순정형 />
+				[126] (494,977)<div aria-label='₩22,000' class='_23lt5' />
+					[127] (477,978)<div  />
+						[128] (460,978)<span >₩ />
+						[129] (469,978)<span >22 />
+						[130] (477,978)<span >, />
+						[131] (488,978)<span >000 />
+				5
+				11 판매
+	[132] (598,911)<div class='slick-slide slick-active' />
+		[133] (598,911)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005012124999463.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.14452.491826.0&scm_id=1007.14452.491826.0&scm-url=1007.14452.491826.0&pvid=2644da69-397e-413f-883f-4ac6b49312d3&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.14452.491826.0,pvid:2644da69-397e-413f-883f-4ac6b49312d3,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22-1%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%21887778%21799000%21%21%214000.05%213600.04%21%402102f22c17776738990966683e5421%2112000057592960465%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005012124999463%7C_p_origin_prod%3A&search_p4p_id=202605011518191263889275555717974028_0' />
+			[134] (598,844)<div  />
+				[135] (598,844)<div  />
+				[136] (618,887)<div  />
+					[137] (618,887)<div  />
+						[138] (618,887)<span  />
+			[139] (598,994)<div  />
+				[140] (598,946)<div aria-label='전동 지게차 1톤 2톤 3톤 다기능 신에너지 지게차 중국 공급업체 빠른 배송 맞춤 제작 가능' class='_2BLrX' role='heading' title='전동 지게차 1톤 2톤 3톤 다기능 신에너지 지게차 중국 공급업체 빠른 배송 맞춤 제작 가능'>전동 지게차 1톤 2톤 3톤 다기능 신에너지 지게차 중국 공급업체 빠른 배송 맞춤 제작 가능 />
+					[141] (568,947)<img  />
+					전동 지게차 1톤 2톤 3톤 다기능 신에너지 지게차 중국 공급업체 빠른 배송 맞춤 제작 가능
+				[142] (598,977)<div aria-label='₩799,000' class='_23lt5' />
+					[143] (584,978)<div  />
+						[144] (564,978)<span >₩ />
+						[145] (576,978)<span >799 />
+						[146] (587,978)<span >, />
+						[147] (598,978)<span >000 />
+				₩80,000 구매 시 ₩10,000 할인
+		[148] (633,763)<div >광고 />
+[149] (647,931)<button class='slick-arrow slick-next slick-next-default' />
+[150] (762,135)<a class='store-detail--wrap--IhR4e1j' href='//ko.aliexpress.com/store/1104719061' />
+	[151] (685,135)<div >판매자 />
+	[152] (799,135)<div  />
+		[153] (778,135)<span >퓨어리퍼블릭 스토어 />
+		[154] (826,135)<span >(거래 업체) />
+		[155] (847,135)<span  />
+AliExpress의 약속
+[156] (762,277)<div  />
+	[157] (762,277)<div  />
+		[158] (762,235)<div  />
+			[159] (698,234)<span  />
+				[160] (698,234)<span  />
+					[161] (698,234)<strong >무료 배송 />
+			[162] (718,234)<span >· />
+			[163] (727,234)<span  />
+				[164] (727,234)<img  />
+			[165] (750,234)<span  />
+				[166] (750,234)<span >한국 발송 />
+		[167] (762,263)<div  />
+			[168] (751,261)<span  />
+				[169] (751,262)<span  />
+					[170] (751,264)<strong >배송: 5월 03일- 08일,금요일 이전에 받기 />
+		[171] (762,305)<div  />
+			[172] (698,292)<span  />
+				[173] (698,294)<span >택배회사: />
+			[174] (722,292)<span  />
+				[175] (721,295)<img  />
+			[176] (750,292)<span  />
+				[177] (750,294)<span >CJLogistics />
+			[178] (778,292)<span  />
+				[179] (777,295)<img  />
+			[180] (810,292)<span  />
+				[181] (810,294)<span >Korea ePOST />
+			[182] (689,317)<span  />
+				[183] (688,320)<img  />
+			[184] (709,317)<span  />
+				[185] (709,319)<span >Hanjin />
+			[186] (727,317)<span  />
+				[187] (727,320)<img  />
+			[188] (773,317)<span  />
+				[189] (773,319)<span >Lotte Global Logistics />
+			[190] (824,317)<span  />
+				[191] (824,319)<span >,etc. />
+[192] (762,369)<div  />
+	[193] (677,357)<img  />
+	[194] (762,369)<div  />
+		[195] (762,357)<div  />
+			[196] (701,357)<span >서비스 약속 />
+		[197] (762,380)<div  />
+			[198] (710,381)<div  />
+				[199] (710,381)<div >7일 이내 무료 반품 />
+			[200] (759,381)<div  />
+				[201] (759,381)<div >개인 정보 보호 />
+	[202] (847,370)<span  />
+수량
+[203] (679,464)<div  />
+[204] (695,464)<input class='comet-v2-input-number-input' />
+[205] (712,464)<div  />
+	[206] (712,465)<span  />
+재고수량 50
+[207] (762,546)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large buy-now--buynow--OH44OI8 comet-v2-btn-important' />
+	[208] (762,546)<span >바로 구매 />
+[209] (762,607)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large add-to-cart--addtocart--Qhoji3M add-to-cart--hasBuyNow--QxW176q comet-v2-btn-important' />
+	[210] (762,608)<span >장바구니 담기 />
+[211] (699,669)<a class='share-and-wish--store--Zsc9uDn' href='//ko.aliexpress.com/store/1104719061' />
+	[212] (699,669)<span  />
+[213] (758,669)<div  />
+	[214] (758,669)<span  />
+[215] (821,669)<div  />
+	[216] (818,669)<span  />
+	[217] (827,669)<span >1 />
+[218] (872,917)<a aria-label='survey' class='survey--wrap--wg1Og56' href='https://survey.aliexpress.com/uone/sg/survey/09hOVpomv' />
+[219] (939,587)<div class='infinite-scroll-component comet-v2-infinite-scroll' scrollable='true' />
+	알뜰마트
+	무료 배송까지
+	3
+	개 더 담기
+	[220] (902,272)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[221] (902,272)<span  />
+			[222] (902,272)<span  />
+	[223] (914,301)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008660314411.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2074786%21KRW%2035750%21%21KRW%2035750%21%21%21%402102f0c917776738994866088e8551%2112000046135626885%21ct%21KR%214595490757%21%215%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[224] (914,301)<span  />
+			[225] (914,334)<div >품절 임박 />
+	₩35,750
+	[226] (899,395)<div  />
+		[227] (899,396)<span  />
+	[228] (915,395)<input aria-label='number' class='comet-v2-input-number-input' />
+	[229] (930,395)<div  />
+		[230] (930,396)<span  />
+	[231] (946,272)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[232] (946,272)<span  />
+			[233] (946,272)<span  />
+	[234] (957,301)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005009355572334.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207036%21KRW%202150%21%21KRW%202150%21%21%21%402102f0c917776738994866088e8551%2112000048851956318%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[235] (957,301)<span  />
+			[236] (957,334)<div >품절 임박 />
+	₩2,150
+	[237] (942,395)<div  />
+		[238] (942,396)<span  />
+	[239] (958,395)<input aria-label='number' class='comet-v2-input-number-input' />
+	[240] (974,395)<div  />
+		[241] (974,396)<span  />
+	[242] (902,443)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[243] (902,443)<span  />
+			[244] (902,443)<span  />
+	[245] (914,472)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005007173650980.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%205515%21KRW%202400%21%21KRW%202400%21%21%21%402102f0c917776738994866088e8551%2112000042253953998%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[246] (914,472)<span  />
+			[247] (914,505)<div >6개 남음 />
+	₩2,400
+	[248] (899,566)<div  />
+		[249] (899,568)<span  />
+	[250] (915,566)<input aria-label='number' class='comet-v2-input-number-input' />
+	[251] (930,566)<div  />
+		[252] (930,568)<span  />
+	[253] (946,443)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[254] (946,443)<span  />
+			[255] (946,443)<span  />
+	[256] (957,472)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008521349459.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%203862%21KRW%201650%21%21KRW%201650%21%21%21%402102f0c917776738994866088e8551%2112000045544167512%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[257] (957,472)<span  />
+			[258] (957,505)<div >품절 임박 />
+	₩1,650
+	[259] (942,566)<div  />
+		[260] (942,568)<span  />
+	[261] (958,566)<input aria-label='number' class='comet-v2-input-number-input' />
+	[262] (974,566)<div  />
+		[263] (974,568)<span  />
+	[264] (902,615)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[265] (902,615)<span  />
+			[266] (902,615)<span  />
+	[267] (914,643)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005005770724463.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%209219%21KRW%202400%21%21KRW%202400%21%21%21%402102f0c917776738994866088e8551%2112000034291787603%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[268] (914,643)<span  />
+			[269] (914,676)<div >품절 임박 />
+	₩2,400
+	[270] (899,738)<div  />
+		[271] (899,739)<span  />
+	[272] (915,738)<input aria-label='number' class='comet-v2-input-number-input' />
+	[273] (930,738)<div  />
+		[274] (930,739)<span  />
+	[275] (946,615)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[276] (946,615)<span  />
+			[277] (946,615)<span  />
+	[278] (957,643)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005007010550225.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207084%21KRW%203400%21%21KRW%203400%21%21%21%402102f0c917776738994866088e8551%2112000039050871250%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[279] (957,643)<span  />
+			[280] (957,676)<div >품절 임박 />
+	₩3,400
+	[281] (942,738)<div  />
+		[282] (942,739)<span  />
+	[283] (958,738)<input aria-label='number' class='comet-v2-input-number-input' />
+	[284] (974,738)<div  />
+		[285] (974,739)<span  />
+	[286] (902,786)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[287] (902,786)<span  />
+			[288] (902,786)<span  />
+	[289] (914,814)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008660171757.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2027161%21KRW%208400%21%21KRW%208400%21%21%21%402102f0c917776738994866088e8551%2112000046136151160%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[290] (914,814)<span  />
+			[291] (914,847)<div >품절 임박 />
+	₩8,400
+	[292] (899,909)<div  />
+		[293] (899,910)<span  />
+	[294] (915,909)<input aria-label='number' class='comet-v2-input-number-input' />
+	[295] (930,909)<div  />
+		[296] (930,910)<span  />
+	[297] (946,786)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[298] (946,786)<span  />
+			[299] (946,786)<span  />
+	[300] (957,814)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008830774016.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2027428%21KRW%2011750%21%21KRW%2011750%21%21%21%402102f0c917776738994866088e8551%2112000046865093685%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[301] (957,814)<span  />
+			[302] (957,847)<div >품절 임박 />
+	₩11,750
+	[303] (942,909)<div  />
+		[304] (942,910)<span  />
+	[305] (958,909)<input aria-label='number' class='comet-v2-input-number-input' />
+	[306] (974,909)<div  />
+		[307] (974,910)<span  />
+	[308] (902,957)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[309] (902,957)<span  />
+			[310] (902,957)<span  />
+	[311] (914,986)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005005265418112.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2011503%21KRW%203650%21%21KRW%203650%21%21%21%402102f0c917776738994866088e8551%2112000032435352812%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[312] (914,986)<span  />
+	[313] (946,957)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[314] (946,957)<span  />
+			[315] (946,957)<span  />
+	[316] (957,986)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005009928052981.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%206225%21KRW%202900%21%21KRW%202900%21%21%21%402102f0c917776738994866088e8551%2112000050601640678%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[317] (957,986)<span  />
+₩0
+결제하기
+[318] (939,120)<a class='cart-summary-tocart' href='https://www.aliexpress.com/p/shoppingcart/index.html'>카트로 가기 />
+[319] (965,59)<button class='sesame-floating-action-legacy' />
+
+</current_dom>

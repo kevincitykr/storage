@@ -1,0 +1,86 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (90,25)<div role='button' />
+	[1] (90,25)<a href='/3a4e5da5-0d40-4bab-b386-0f118f722ce9' />
+		[2] (90,25)<div  />
+			[3] (30,25)<div  />
+				[4] (30,25)<div  />
+					[5] (30,25)<div  />
+						[6] (30,25)<img  />
+			[7] (104,25)<div >Windly 사용가이드 />
+[8] (824,25)<div aria-label='검색' class='search-button css-nkjb6j' role='button' />
+	[9] (835,25)<span >검색 />
+[10] (895,25)<div class='share-button css-ax50c0 e1pzqsz00' role='button' />
+	[11] (907,25)<span >공유 />
+[12] (963,33)<label aria-label='다크모드를 켭니다' />
+	[13] (963,25)<div  />
+	[14] (950,25)<div  />
+[15] (500,203)<img  />
+👨‍💻
+[16] (500,465)<div  />
+	[17] (500,465)<h1  />
+		[18] (268,465)<span >Windly 사용가이드 />
+구매대행부터 위탁판매까지, 쉽고 빠른 AI 쇼핑몰 관리 솔루션 -
+[19] (734,538)<a class='notion-link-token notion-enable-hover' href='http://windly.cc' />
+	[20] (734,538)<span >Windly (윈들리) />
+사용가이드입니다.
+윈들리는 앞으로도 계속 업데이트되고 좋아질거에요
+빠른 검색은 우측 상단의
+검색
+버튼을 이용해주세요.
+[21] (289,861)<div  />
+	[22] (289,861)<div  />
+		[23] (289,861)<div  />
+			[24] (289,861)<div  />
+				[25] (289,861)<div  />
+					[26] (289,861)<div  />
+						[27] (289,861)<iframe  />
+윈들리가 처음이신가요?
+[28] (711,839)<a href='/935ad2b6-10be-499c-89f6-d251a1192de6' />
+	[29] (711,839)<div role='button' />
+		[30] (711,839)<div  />
+			[31] (711,839)<div  />
+				[32] (712,839)<div  />
+					[33] (540,839)<div  />
+						[34] (540,839)<div  />
+							[35] (540,839)<div  />
+								[36] (540,839)<div  />
+									[37] (540,839)<img  />
+					[38] (631,839)<div >윈들리 처음 둘러보기 />
+[39] (711,875)<a href='/cb8d7a3b-aacb-4e80-bef1-257ca2f37b26' />
+	[40] (711,875)<div role='button' />
+		[41] (711,875)<div  />
+			[42] (711,875)<div  />
+				[43] (712,875)<div  />
+					[44] (540,875)<div  />
+						[45] (540,875)<div  />
+							[46] (540,875)<div  />
+								[47] (540,875)<div  />
+									[48] (540,875)<img  />
+					[49] (682,875)<div >윈들리가 지원하는 소싱몰/오픈마켓 />
+[50] (711,912)<a href='/5e2d0584-b6e6-4f9b-b279-289dae8e755c' />
+	[51] (711,912)<div role='button' />
+		[52] (711,912)<div  />
+			[53] (711,912)<div  />
+				[54] (712,912)<div  />
+					[55] (540,912)<div  />
+						[56] (540,912)<div  />
+							[57] (540,912)<div  />
+								[58] (540,912)<div  />
+									[59] (540,912)<img  />
+					[60] (635,912)<div >Windly 자주 묻는 질문 />
+[61] (618,950)<a class='notion-page-mention-token notion-text-mention-token notion-enable-hover' href='/da361058-0b2d-43c0-9453-a29914957ca8' />
+	[62] (542,950)<span  />
+		[63] (539,949)<span  />
+			[64] (539,945)<img  />
+	[65] (634,951)<span >Windly 업데이트 노트 />
+[66] (711,986)<a href='/11881025-15df-805b-a87c-ddebbbacf7bd' />
+	[67] (711,986)<div role='button' />
+		[68] (711,986)<div  />
+			[69] (711,986)<div  />
+				[70] (712,986)<div  />
+					[71] (632,986)<div >윈들리 공식 파트너사 />
+
+</current_dom>

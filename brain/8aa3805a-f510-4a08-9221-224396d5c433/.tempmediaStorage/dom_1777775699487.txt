@@ -1,0 +1,230 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (117,52)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (204,54)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (444,51)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='하기스 맥스드라이' role='searchbox' />
+[3] (646,54)<div  />
+	[4] (646,51)<img  />
+[5] (693,51)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (772,51)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (763,51)<span  />
+	[8] (787,51)<span  />
+[9] (830,51)<div  />
+	[10] (830,51)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[11] (821,51)<span  />
+		[12] (841,51)<span  />
+[13] (888,51)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[14] (879,51)<span  />
+	[15] (902,51)<span  />
+[16] (937,51)<div  />
+	[17] (941,51)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[18] (941,51)<span  />
+		[19] (952,39)<span >21 />
+[20] (149,572)<div class='ep_eq' scrollable='true' />
+	[21] (143,180)<div  />
+		[22] (75,180)<span >할인/혜택 />
+		[23] (234,180)<span  />
+	[24] (143,227)<span aria-label='filterCode:bigsale' class='jz_j0 ie_ig' />
+		[25] (54,227)<input class='jz_ar' id='filterCode:bigsale' />
+		[26] (152,227)<label class='jz_it'>세일 />
+			세일
+	[27] (143,322)<div  />
+		[28] (82,322)<span >배송/서비스 />
+		[29] (234,322)<span  />
+	[30] (143,368)<span aria-label='filterCode:xdaydelivery' class='jz_j0 ie_ig' />
+		[31] (54,368)<input class='jz_ar' id='filterCode:xdaydelivery' />
+		[32] (152,368)<label class='jz_it'>5-10일 배송 />
+			5-10일 배송
+	[33] (143,410)<span aria-label='filterCode:choice_atm' class='jz_j0 ie_ig' />
+		[34] (54,410)<input class='jz_ar' id='filterCode:choice_atm' />
+		[35] (152,410)<label class='jz_it'>Choice />
+			Choice
+	[36] (143,505)<div  />
+		[37] (75,505)<span >품질/신뢰 />
+		[38] (234,505)<span  />
+	[39] (143,551)<span aria-label='filterCode:4StarRating' class='jz_j0 ie_ig' />
+		[40] (54,551)<input class='jz_ar' id='filterCode:4StarRating' />
+		[41] (152,551)<label class='jz_it' />
+			이상
+	[42] (143,593)<span aria-label='filterCode:PremiumQuality' class='jz_j0 ie_ig' />
+		[43] (54,593)<input class='jz_ar' id='filterCode:PremiumQuality' />
+		[44] (152,593)<label class='jz_it'>프리미엄 품질 />
+			프리미엄 품질
+	[45] (143,689)<div  />
+		[46] (74,689)<span >발송 국가 />
+		[47] (234,689)<span  />
+	[48] (143,735)<span aria-label='-1' class='ip_iq' />
+		[49] (54,735)<input class='ip_ar ip_is' id='-1' />
+		[50] (152,735)<label class='ip_it'>모든 />
+	[51] (143,776)<span aria-label='KR' class='ip_iq' />
+		[52] (54,776)<input class='ip_ar' id='KR' />
+		[53] (152,776)<label class='ip_it' />
+			대한민국
+	[54] (143,818)<span aria-label='CN' class='ip_iq' />
+		[55] (54,818)<input class='ip_ar' id='CN' />
+		[56] (152,818)<label class='ip_it' />
+			중국
+	[57] (143,914)<div  />
+		[58] (65,914)<span >가격대 />
+		[59] (234,914)<span  />
+	₩
+	[60] (82,963)<input class='comet-input' placeholder='최소' />
+	-
+	₩
+	[61] (159,963)<input class='comet-input' placeholder='최대' />
+	[62] (213,963)<span >OK />
+에 따라 분류
+:
+[63] (759,171)<div  />
+	[64] (759,171)<span >가장 일치하는 내용 />
+[65] (859,171)<div  />
+	[66] (859,171)<span >주문 />
+[67] (921,171)<div  />
+	[68] (915,171)<span >가격 />
+	[69] (935,171)<div  />
+		[70] (934,173)<div  />
+		[71] (941,173)<div  />
+종료시간 :
+5월 7일 23:59
+[72] (402,624)<a class='lw_b h7_ic search-card-item' href='https://www.aliexpress.com/ssr/300000512/kr2024update?productIds=1005009629201994:12000049683166328&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005009629201994%7C_p_origin_prod%3A&pvid=8bdc962e-bbdc-46ad-8677-4c8cadccbe76' />
+	[73] (402,523)<div  />
+		[74] (402,523)<div  />
+			[75] (402,511)<div  />
+				[76] (402,511)<div  />
+			[77] (402,690)<div  />
+				[78] (370,690)<div  />
+				[79] (383,690)<div  />
+				[80] (396,690)<div  />
+				[81] (409,690)<div  />
+				[82] (422,690)<div  />
+				[83] (435,690)<div  />
+	[84] (402,804)<div  />
+		[85] (402,718)<div aria-label='다기능 전기 가위, 금속 시트 및 케이블 절단용 렌치 기능이 있는 압착 와이어 절단 도구' class='lw_an' role='heading' title='다기능 전기 가위, 금속 시트 및 케이블 절단용 렌치 기능이 있는 압착 와이어 절단 도구'>다기능 전기 가위, 금속 시트 및 케이블 절단용 렌치 기능이 있는 압착 와이어 절단 도구 />
+			[86] (319,718)<img  />
+			[87] (352,718)<img  />
+			다기능 전기 가위, 금속 시트 및 케이블 절단용 렌치 기능이 있는 압착 와이어 절단 도구
+		[88] (402,759)<div aria-label='₩7,650' class='lw_el' />
+			[89] (332,761)<div  />
+				[90] (307,761)<span >₩ />
+				[91] (318,761)<span >7 />
+				[92] (326,761)<span >, />
+				[93] (346,761)<span >650 />
+		[94] (402,797)<div  />
+			[95] (340,799)<div  />
+				[96] (307,799)<img  />
+				[97] (318,799)<img  />
+				[98] (329,799)<img  />
+				[99] (340,799)<img  />
+				[100] (351,799)<img  />
+				[101] (368,799)<span >4.8 />
+			[102] (420,799)<span  />
+				[103] (383,800)<span  />
+				[104] (424,799)<span >10,000+ 판매 />
+		[105] (402,842)<div  />
+			[106] (402,826)<div  />
+				[107] (307,826)<img  />
+				[108] (360,826)<span >가격인하 ₩3,514 />
+			[109] (402,858)<div  />
+				[110] (309,858)<img  />
+				[111] (375,858)<span >AliExpress TOP셀러 />
+		[112] (402,893)<div  />
+			[113] (325,893)<span >알뜰마트 />
+			[114] (356,893)<span  />
+[115] (626,624)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005008135475553.html?algo_pvid=8bdc962e-bbdc-46ad-8677-4c8cadccbe76&algo_exp_id=8bdc962e-bbdc-46ad-8677-4c8cadccbe76-1&pdp_ext_f=%7B%22order%22%3A%221731%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%2135600%2117800%21%21%21160.40%2180.20%21%402140c1c317777756953043172e1e4f%2112000044054236052%21sea%21KR%214595490757%21X%211%210%21n_tag%3A-29919%3Bd%3A7f325c34%3Bm03_new_user%3A-29895&curPageLogUid=0HrJNH7NzDio&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005008135475553%7C_p_origin_prod%3A' />
+	[116] (626,523)<div  />
+		[117] (626,523)<div  />
+			[118] (626,511)<div  />
+				[119] (626,511)<div  />
+			[120] (626,690)<div  />
+				[121] (594,690)<div  />
+				[122] (607,690)<div  />
+				[123] (620,690)<div  />
+				[124] (633,690)<div  />
+				[125] (646,690)<div  />
+				[126] (659,690)<div  />
+		[127] (698,610)<div  />
+			[128] (698,610)<div  />
+				[129] (698,610)<span  />
+	[130] (626,804)<div  />
+		[131] (626,718)<div aria-label='HORUSDY 메트릭 스패너 세트 링 오픈 엔드 스패너 CRV, 랙 8-19mm, 12 개' class='lw_an' role='heading' title='HORUSDY 메트릭 스패너 세트 링 오픈 엔드 스패너 CRV, 랙 8-19mm, 12 개' />
+			[132] (543,718)<img  />
+			[133] (576,718)<img  />
+			[134] (624,749)<h3 >HORUSDY 메트릭 스패너 세트 링 오픈 엔드 스패너 CRV, 랙 8-19mm, 12 개 />
+		[135] (626,759)<div aria-label='₩17,800' class='lw_el' />
+			[136] (561,761)<div  />
+				[137] (531,761)<span >₩ />
+				[138] (547,761)<span >17 />
+				[139] (561,761)<span >, />
+				[140] (581,761)<span >800 />
+			[141] (634,761)<div >(
+₩1,483
+/
+개
+) />
+		[142] (626,797)<div  />
+			[143] (564,799)<div  />
+				[144] (531,799)<img  />
+				[145] (542,799)<img  />
+				[146] (553,799)<img  />
+				[147] (564,799)<img  />
+				[148] (576,799)<img  />
+				[149] (592,799)<span >4.8 />
+			[150] (641,799)<span  />
+				[151] (607,800)<span  />
+				[152] (645,799)<span >1,000+ 판매 />
+		[153] (626,842)<div  />
+			[154] (626,826)<div  />
+				[155] (533,826)<img  />
+				[156] (623,826)<span >₩30,000 구매 시 ₩4,100 할인 />
+			[157] (626,858)<div  />
+				[158] (533,858)<img  />
+				[159] (599,858)<span >AliExpress TOP셀러 />
+		[160] (626,890)<div  />
+[161] (851,624)<a class='lw_b h7_ic search-card-item' href='https://www.aliexpress.com/ssr/300000512/kr2024update?productIds=1005005670490661:12000033961061619&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005005670490661%7C_p_origin_prod%3A&pvid=8bdc962e-bbdc-46ad-8677-4c8cadccbe76' />
+	[162] (851,523)<div  />
+		[163] (851,523)<div  />
+			[164] (851,511)<div  />
+				[165] (851,511)<div  />
+			[166] (851,690)<div  />
+				[167] (818,690)<div  />
+				[168] (831,690)<div  />
+				[169] (844,690)<div  />
+				[170] (857,690)<div  />
+				[171] (870,690)<div  />
+				[172] (883,690)<div  />
+	[173] (851,804)<div  />
+		[174] (851,718)<div aria-label='육각 마그네틱 링 스크루 드라이버 드릴 비트, 수공구 연장 막대, 퀵 체인지 홀더 드라이브 가이드, 스크류 드릴 팁, 1/4 인치' class='lw_an' role='heading' title='육각 마그네틱 링 스크루 드라이버 드릴 비트, 수공구 연장 막대, 퀵 체인지 홀더 드라이브 가이드, 스크류 드릴 팁, 1/4 인치'>육각 마그네틱 링 스크루 드라이버 드릴 비트, 수공구 연장 막대, 퀵 체인지 홀더 드라이브 가이드, 스크류 드릴 팁, 1/4 인치 />
+			[175] (768,718)<img  />
+			[176] (800,718)<img  />
+			육각 마그네틱 링 스크루 드라이버 드릴 비트, 수공구 연장 막대, 퀵 체인지 홀더 드라이브 가이드, 스크류 드릴 팁, 1/4 인치
+		[177] (851,759)<div aria-label='₩1,900' class='lw_el' />
+			[178] (780,761)<div  />
+				[179] (755,761)<span >₩ />
+				[180] (766,761)<span >1 />
+				[181] (775,761)<span >, />
+				[182] (794,761)<span >900 />
+		[183] (851,797)<div  />
+			[184] (788,799)<div  />
+				[185] (755,799)<img  />
+				[186] (766,799)<img  />
+				[187] (778,799)<img  />
+				[188] (789,799)<img  />
+				[189] (800,799)<img  />
+				[190] (816,799)<span >4.5 />
+			[191] (862,799)<span  />
+				[192] (831,800)<span  />
+				[193] (866,799)<span >10만+ 판매 />
+		[194] (851,842)<div  />
+			[195] (851,826)<div  />
+				[196] (755,826)<img  />
+				[197] (803,826)<span >가격인하 ₩876 />
+			[198] (851,858)<div  />
+				[199] (757,858)<img  />
+				[200] (823,858)<span >AliExpress TOP셀러 />
+		[201] (851,893)<div  />
+			[202] (774,893)<span >알뜰마트 />
+			[203] (805,893)<span  />
+
+</current_dom>

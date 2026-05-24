@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+Skip to content
+Navigation Menu
+[0] (32,40)<a aria-label='Homepage' class='tmp-mr-lg-3 color-fg-inherit flex-order-2 js-prevent-focus-on-mobile-nav' href='/' />
+[1] (85,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Platform />
+[2] (150,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Solutions />
+[3] (219,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Resources />
+[4] (296,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Open Source />
+[5] (373,40)<button class='NavDropdown-module__button__PEHWX js-details-target'>Enterprise />
+[6] (430,40)<a class='NavLink-module__link__EG3d4 MarketingNavigation-module__navLink__hUomM' href='https://github.com/pricing' />
+	[7] (430,40)<span >Pricing />
+[8] (736,40)<button aria-label='Search or jump to…' class='header-search-button input-button form-control d-flex flex-1 flex-self-stretch flex-items-center no-wrap width-full py-0 pl-2 pr-0 text-left border-0 box-shadow-none placeholder' placeholder='Search or jump to...' />
+	[9] (642,40)<div  />
+	[10] (736,40)<span >Search or jump to... />
+	[11] (833,40)<div  />
+[12] (872,40)<a class='HeaderMenu-link HeaderMenu-link--sign-in HeaderMenu-button flex-shrink-0 no-underline d-none d-lg-inline-flex border border-lg-0 rounded px-2 py-1' href='/login?return_to=https%3A%2F%2Fgithub.com%2Fwonseokjung%2Fnotebooklm-mcp%2Fissues%3Fq%3DConnect%2BAI'>Sign in />
+[13] (926,40)<a class='HeaderMenu-link HeaderMenu-link--sign-up HeaderMenu-button flex-shrink-0 d-flex d-lg-inline-flex no-underline border color-border-default rounded px-2 py-1' href='/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E%2Fissues%2Findex&source=header-repo&source_repo=wonseokjung%2Fnotebooklm-mcp'>Sign up />
+[14] (968,40)<button class='Button Button--iconOnly Button--invisible Button--medium AppHeader-button HeaderMenu-link border' id='icon-button-fe800b81-4202-46f3-8269-0d92a27e508b' />
+[15] (76,115)<a class='url fn' href='/wonseokjung'>wonseokjung />
+/
+[16] (177,115)<a href='/wonseokjung/notebooklm-mcp'>notebooklm-mcp />
+Public
+forked from
+[17] (118,145)<a class='Link--inTextBlock' href='/jacob-bd/notebooklm-mcp-cli'>jacob-bd/notebooklm-mcp-cli />
+[18] (787,114)<a aria-label='You must be signed in to change notification settings' class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fnotebooklm-mcp' id='repository-details-watch-button'>Notifications />
+[19] (867,114)<a class='btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fnotebooklm-mcp' id='fork-button'>Fork />
+	[20] (885,114)<span >24 />
+[21] (943,114)<a aria-label='You must be signed in to star a repository' class='tooltipped tooltipped-sw btn-sm btn' href='/login?return_to=%2Fwonseokjung%2Fnotebooklm-mcp' />
+	[22] (942,114)<span >Star />
+	[23] (961,114)<span >42 />
+[24] (45,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp' id='code-tab' />
+	[25] (53,201)<span >Code />
+[26] (115,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/pulls' id='pull-requests-tab' />
+	[27] (123,201)<span >Pull requests />
+[28] (189,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/actions' id='actions-tab' />
+	[29] (197,201)<span >Actions />
+[30] (253,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/projects' id='projects-tab' />
+	[31] (261,201)<span >Projects />
+[32] (343,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/security' id='security-and-quality-tab' />
+	[33] (351,201)<span >Security and quality />
+[34] (433,201)<a class='UnderlineNav-item no-wrap js-responsive-underlinenav-item js-selected-navigation-item' href='/wonseokjung/notebooklm-mcp/pulse' id='insights-tab' />
+	[35] (440,201)<span >Insights />
+Issues
+Search Issues
+[36] (393,273)<div  />
+	[37] (383,273)<div  />
+		[38] (387,273)<div class='styled-input-container Input-module__Box_0__ShRIW' />
+			Connect
+			AI
+			[39] (387,273)<div  />
+				[40] (387,273)<input class='Input-module__Box_4__AugTt' id='repository-input' placeholder='Search Issues' role='combobox' />
+	[41] (683,273)<button class='prc-Button-ButtonBase-9n-Xk SubmitButton-module__IconButton_0__y66q3 prc-Button-IconButton-fyge7' />
+[42] (729,273)<a class='prc-Button-ButtonBase-9n-Xk' href='/wonseokjung/notebooklm-mcp/labels' />
+	[43] (729,273)<span  />
+		[44] (737,273)<span >Labels />
+[45] (803,273)<a class='prc-Button-ButtonBase-9n-Xk' href='/wonseokjung/notebooklm-mcp/milestones' />
+	[46] (803,273)<span  />
+		[47] (811,273)<span >Milestones />
+[48] (877,273)<a class='prc-Button-ButtonBase-9n-Xk' href='/login?return_to=https://github.com/wonseokjung/notebooklm-mcp/issues?q=Connect+AI' />
+	[49] (877,273)<span  />
+		[50] (877,273)<span >New issue />
+Search results
+[51] (129,336)<a class='SectionFilterLink-module__container__GDiZl prc-Text-Text-9mHv3' />
+	[52] (115,336)<div >Open />
+	[53] (142,336)<div  />
+[54] (191,336)<a class='SectionFilterLink-module__container__GDiZl prc-Text-Text-9mHv3' />
+	[55] (177,336)<div >Closed />
+	[56] (207,336)<div  />
+[57] (501,336)<button aria-label='Filter by author' class='prc-Button-ButtonBase-9n-Xk ListAuthorFilter-module__authorFilterButton__z7cNj' />
+	[58] (501,336)<span  />
+		[59] (493,336)<span >Author />
+[60] (564,336)<button aria-label='Filter by label' class='prc-Button-ButtonBase-9n-Xk ListLabelFilter-module__labelFilterButton__RRvUM' />
+	[61] (564,336)<span  />
+		[62] (556,336)<span >Labels />
+[63] (630,336)<button aria-label='Filter by project' class='prc-Button-ButtonBase-9n-Xk ListProjectFilter-module__projectFilterButton__PTR36' />
+	[64] (630,336)<span  />
+		[65] (622,336)<span >Projects />
+[66] (705,336)<button aria-label='Filter by milestone' class='prc-Button-ButtonBase-9n-Xk ListMilestoneFilter-module__milestoneFilterButton__y9msa' />
+	[67] (705,336)<span  />
+		[68] (697,336)<span >Milestones />
+[69] (784,336)<button aria-label='Filter by assignees' class='prc-Button-ButtonBase-9n-Xk ListAssigneeFilter-module__assigneeFilterButton___xgtC' />
+	[70] (784,336)<span  />
+		[71] (776,336)<span >Assignees />
+[72] (862,336)<button class='prc-Button-ButtonBase-9n-Xk sorting-dropdown-module__sortingMenuButton__j3BcS' id='_r_g_' />
+	[73] (856,336)<span  />
+		[74] (864,336)<span >Sort by
+Newest
+, descending />
+			Sort by
+			, descending
+No results
+Try adjusting your search filters.
+
+</current_dom>

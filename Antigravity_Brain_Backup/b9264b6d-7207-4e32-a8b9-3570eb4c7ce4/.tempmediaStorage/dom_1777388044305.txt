@@ -1,0 +1,194 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+주요 콘텐츠로 이동
+접근성 도움말
+접근성 관련 의견 보내기
+[0] (64,59)<a aria-label='Google 홈페이지로 이동' href='https://www.google.com/webhp?hl=ko&sa=X&ved=0ahUKEwiS5Nqz5pCUAxXa3ckDHY2ZCRAQPAgJ' id='logo' title='Google 홈페이지로 이동' />
+[1] (341,58)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' />
+[2] (563,58)<div  />
+	[3] (561,58)<div aria-label='지우기' class='vOY7J M2vV3' role='button' />
+		[4] (561,58)<span  />
+	[5] (578,58)<span  />
+[6] (594,58)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[7] (594,58)<span  />
+[8] (620,58)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[9] (647,58)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[10] (677,58)<button aria-label='검색' class='HZVG1b Tg7LZd' />
+	[11] (673,58)<div  />
+		[12] (673,58)<span  />
+[13] (910,58)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=srp' role='button' />
+[14] (942,58)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products?tab=wh' role='button' />
+[15] (974,58)<a aria-label='Google 계정: 김광섭  
+(sohwe124@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/search%3Fq%3DConnect%2BAI%2BGitHub%2BCONNECT%2BAI%2BLAB&ec=futura_srp_og_si_72236_p' role='button' />
+[16] (151,128)<a class='XVMlrc C6AK7c' href='/search?q=Connect+AI+GitHub+CONNECT+AI+LAB&sca_esv=61e181f5624ae6e5&sxsrf=ANbL-n4oPW-7DcbndFiWiWJozqwtuq2ldQ:1777388035166&udm=50&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&aep=1&ntc=1&sa=X&ved=2ahUKEwiS5Nqz5pCUAxXa3ckDHY2ZCRAQ2J8OegQIDhAI' />
+	[17] (151,128)<div  />
+		[18] (151,137)<div  />
+			[19] (151,131)<span >AI 모드 />
+[20] (189,128)<a class='C6AK7c' role='link' />
+	전체
+[21] (226,128)<a class='C6AK7c' href='/search?sca_esv=61e181f5624ae6e5&sxsrf=ANbL-n4oPW-7DcbndFiWiWJozqwtuq2ldQ:1777388035166&udm=7&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&q=Connect+AI+GitHub+CONNECT+AI+LAB&sa=X&ved=2ahUKEwiS5Nqz5pCUAxXa3ckDHY2ZCRAQtKgLegQIFBAB' />
+	[22] (226,128)<div  />
+		[23] (226,137)<span >동영상 />
+[24] (268,128)<a class='C6AK7c' href='/search?sca_esv=61e181f5624ae6e5&sxsrf=ANbL-n4oPW-7DcbndFiWiWJozqwtuq2ldQ:1777388035166&udm=2&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&q=Connect+AI+GitHub+CONNECT+AI+LAB&sa=X&ved=2ahUKEwiS5Nqz5pCUAxXa3ckDHY2ZCRAQtKgLegQIExAB' />
+	[25] (268,128)<div  />
+		[26] (268,137)<span >이미지 />
+[27] (305,128)<a class='C6AK7c' href='/search?sca_esv=61e181f5624ae6e5&sxsrf=ANbL-n4oPW-7DcbndFiWiWJozqwtuq2ldQ:1777388035166&udm=28&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&q=Connect+AI+GitHub+CONNECT+AI+LAB&ved=1t:220175&ictx=111' />
+	[28] (305,128)<div  />
+		[29] (305,137)<span >쇼핑 />
+[30] (338,128)<a class='C6AK7c' href='/search?sca_esv=61e181f5624ae6e5&sxsrf=ANbL-n4oPW-7DcbndFiWiWJozqwtuq2ldQ:1777388035166&q=Connect+AI+GitHub+CONNECT+AI+LAB&tbm=nws&source=lnms&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&sa=X&ved=2ahUKEwiS5Nqz5pCUAxXa3ckDHY2ZCRAQ0pQJegQIEBAB' />
+	[31] (338,128)<div  />
+		[32] (338,137)<span >뉴스 />
+[33] (385,128)<a class='C6AK7c' href='/search?sca_esv=61e181f5624ae6e5&sxsrf=ANbL-n4oPW-7DcbndFiWiWJozqwtuq2ldQ:1777388035166&udm=39&fbs=ADc_l-bD_nyrjATWBKup7flJ4reaaA0v6jUEhdhIgoBseexi20F0taotT-f9M3shY3D_-xzxAw8FRkZIaepTuthbVqzprnsvsej0sOGL0GiduRCscdBsp27NeDlKuBzFxKyZWpo45U7RQ6EN2WJlDI3-Il1wrNJ0H7DEU5WiJHWsJ0EshGsV-fwWdc9k6gPrh7zSoTG12-Y9f7arIf_NMu3vG0wqj7DieA&q=Connect+AI+GitHub+CONNECT+AI+LAB&sa=X&ved=2ahUKEwiS5Nqz5pCUAxXa3ckDHY2ZCRAQs6gLegQIERAB' />
+	[34] (385,128)<div  />
+		[35] (385,137)<span >짧은 동영상 />
+[36] (442,128)<div class='mTpL7c' role='button' />
+	[37] (442,128)<div  />
+		[38] (442,137)<div  />
+			[39] (436,131)<span >더보기 />
+			[40] (455,131)<span  />
+[41] (491,128)<div class='mOKdDc' id='hdtb-tls' role='button' />
+	[42] (491,128)<div  />
+		[43] (491,137)<div  />
+			[44] (485,131)<span >도구 />
+			[45] (499,131)<span  />
+검색결과
+웹 검색결과
+[46] (290,224)<a class='zReHs' href='https://github.com/wonseokjung/connect-ai' />
+	[47] (290,249)<h3 >wonseokjung/connect-ai: 100% 로컬 AI 코딩 에이전트 />
+	[48] (230,210)<div  />
+		[49] (230,210)<div  />
+			[50] (146,210)<span  />
+				[51] (146,210)<div  />
+					[52] (146,210)<img  />
+			[53] (243,210)<div  />
+				[54] (243,200)<div  />
+					[55] (243,200)<span >GitHub />
+				[56] (243,221)<div  />
+					[57] (243,221)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://github.com />
+						[58] (274,221)<span class='ylgVCe ob9lvb' role='text'>› wonseokjung › connect-ai />
+[59] (337,220)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[60] (337,220)<span  />
+		[61] (337,221)<span  />
+2026. 4. 15.
+—
+Connect AI v2.1.30은 단순한 코딩 에이전트를 넘어섭니다
+. P-Reinforce 아키텍처를 기반으로 설계된 이 에이전트는 사용자의 모든 정보와 지시를 ...
+동영상
+[62] (194,367)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[63] (194,367)<span  />
+		[64] (194,368)<span  />
+[65] (407,451)<a class='rIRoqf' href='https://www.youtube.com/watch?v=tkMRyB6Q09Q' />
+	[66] (407,451)<div class='V5XKdd' role='heading' />
+		[67] (407,418)<div  />
+			[68] (394,418)<div  />
+				[69] (394,418)<span >[멤버십라이브]100% 로컬에서 AI 회사 굴리는 법 — Connect AI ... />
+		[70] (407,473)<div  />
+			[71] (407,473)<div  />
+				[72] (407,460)<span  />
+					[73] (266,460)<span >YouTube />
+					[74] (326,460)<span >CONNECT AI LAB />
+						[75] (287,460)<span >· />
+				[76] (407,485)<div  />
+					[77] (260,485)<span >1일 전 />
+[78] (382,459)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[79] (382,459)<span  />
+		[80] (382,460)<span  />
+[81] (185,451)<a aria-label='CONNECT AI LAB님이 YouTube에 게시한 [멤버십라이브]100% 로컬에서 AI 회사 굴리는 법 — Connect AI .... YouTube에서 재생. 1:48:34' class='rIRoqf' href='https://www.youtube.com/watch?v=tkMRyB6Q09Q' />
+	[82] (185,451)<div  />
+		[83] (185,451)<div  />
+			[84] (160,477)<div  />
+				[85] (160,477)<span >1:48:34 />
+[86] (407,572)<a class='rIRoqf' href='https://www.youtube.com/watch?v=TAkD3UL0_kE' />
+	[87] (407,572)<div class='V5XKdd' role='heading' />
+		[88] (407,539)<div  />
+			[89] (378,539)<div  />
+				[90] (378,539)<span >0 Tokens! Free distribution of a 'second brain' local AI ... />
+		[91] (407,594)<div  />
+			[92] (407,594)<div  />
+				[93] (407,581)<span  />
+					[94] (266,581)<span >YouTube />
+					[95] (326,581)<span >CONNECT AI LAB />
+						[96] (287,581)<span >· />
+				[97] (407,606)<div  />
+					[98] (260,606)<span >2주 전 />
+[99] (382,580)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[100] (382,580)<span  />
+		[101] (382,581)<span  />
+[102] (185,572)<div aria-label='CONNECT AI LAB님이 YouTube에 게시한 0 Tokens! Free distribution of a 'second brain' local AI .... Google에서 재생. 15:25' class='rIRoqf hXY9cf' role='button' />
+	[103] (185,572)<div  />
+		[104] (185,572)<div  />
+			[105] (157,598)<div  />
+				[106] (157,598)<span >15:25 />
+			[107] (222,545)<div  />
+				[108] (222,545)<span  />
+[109] (407,693)<a class='rIRoqf' href='https://www.youtube.com/watch?v=AZQpkZ8W-mY' />
+	[110] (407,693)<div class='V5XKdd' role='heading' />
+		[111] (407,660)<div  />
+			[112] (400,660)<div  />
+				[113] (400,660)<span >AI Studio, from Vive Coding to deployment and DB. Finish it all ... />
+		[114] (407,715)<div  />
+			[115] (407,715)<div  />
+				[116] (407,703)<span  />
+					[117] (266,703)<span >YouTube />
+					[118] (315,703)<span >G-CREATOR />
+						[119] (287,703)<span >· />
+				[120] (407,727)<div  />
+					[121] (260,727)<span >3주 전 />
+[122] (360,701)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[123] (360,701)<span  />
+		[124] (360,703)<span  />
+[125] (185,693)<div aria-label='G-CREATOR님이 YouTube에 게시한 AI Studio, from Vive Coding to deployment and DB. Finish it all .... Google에서 재생. 36:17' class='rIRoqf hXY9cf' role='button' />
+	[126] (185,693)<div  />
+		[127] (185,693)<div  />
+			[128] (157,719)<div  />
+				[129] (157,719)<span >36:17 />
+			[130] (222,667)<div  />
+				[131] (222,667)<span  />
+[132] (407,814)<a class='rIRoqf' href='https://www.youtube.com/watch?v=dzDM-AuBm5s' />
+	[133] (407,814)<div class='V5XKdd' role='heading' />
+		[134] (407,781)<div  />
+			[135] (316,781)<div  />
+				[136] (316,781)<span >Hello World For AI - Lab Prep />
+		[137] (407,836)<div  />
+			[138] (407,836)<div  />
+				[139] (407,824)<span  />
+					[140] (266,824)<span >YouTube />
+					[141] (352,824)<span >The Art of Network Engineering />
+						[142] (287,824)<span >· />
+				[143] (407,848)<div  />
+					[144] (260,848)<span >6일 전 />
+[145] (434,823)<div aria-label='검색결과에 관한 정보' class='iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[146] (434,823)<span  />
+		[147] (434,824)<span  />
+[148] (185,814)<div aria-label='The Art of Network Engineering님이 YouTube에 게시한 Hello World For AI - Lab Prep. Google에서 재생. 16:17' class='rIRoqf hXY9cf' role='button' />
+	[149] (185,814)<div  />
+		[150] (185,814)<div  />
+			[151] (157,841)<div  />
+				[152] (157,841)<span >16:17 />
+			[153] (222,788)<div  />
+				[154] (222,788)<span  />
+[155] (352,901)<div  />
+	[156] (352,901)<a aria-label='모든 동영상 보기' class='jRKCUd' href='/search?sca_esv=61e181f5624ae6e5&udm=7&sxsrf=ANbL-n4oPW-7DcbndFiWiWJozqwtuq2ldQ:1777388035166&q=Connect+AI+GitHub+CONNECT+AI+LAB&sa=X&ved=2ahUKEwiS5Nqz5pCUAxXa3ckDHY2ZCRAQ8ccDKAJ6BAgZEAQ' />
+		[157] (352,901)<div  />
+			[158] (345,901)<span >모두 보기 />
+			[159] (373,901)<span  />
+Web results
+[160] (202,1000)<a class='zReHs' href='https://github.com/conn-labs' />
+	[161] (202,985)<div  />
+		[162] (202,985)<div  />
+			[163] (146,985)<span  />
+				[164] (146,985)<div  />
+					[165] (146,985)<img  />
+			[166] (215,985)<div  />
+				[167] (215,975)<div  />
+					[168] (215,975)<span >GitHub />
+				[169] (215,997)<div  />
+					[170] (215,997)<cite class='qLRx3b tjvcx GvPZzd cHaqb' role='text'>https://github.com />
+						[171] (246,997)<span class='ylgVCe ob9lvb' role='text'>› conn-labs />
+[172] (282,996)<div aria-label='검색결과에 관한 정보' class='MJ8UF iTPLzd rNSxBe eY4mx lUn2nc' role='button' />
+	[173] (282,996)<span  />
+		[174] (282,997)<span  />
+
+</current_dom>

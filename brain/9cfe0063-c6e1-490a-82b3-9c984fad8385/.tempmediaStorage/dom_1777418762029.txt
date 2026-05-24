@@ -1,0 +1,343 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (21,36)<button class='prc-Button-ButtonBase-9n-Xk position-relative ExpandFileTreeButton-module__expandButton__hDOcv fgColor-muted prc-Button-IconButton-fyge7' />
+Files
+[1] (93,90)<button aria-label='main branch' class='prc-Button-ButtonBase-9n-Xk react-repos-tree-pane-ref-selector width-full ref-selector-class RefSelectorAnchoredOverlay-module__RefSelectorOverlayBtn__a3WK3' id='ref-picker-repos-header-ref-selector' />
+	[2] (93,90)<span  />
+		[3] (85,90)<span  />
+			[4] (85,90)<div  />
+				[5] (24,90)<div  />
+				[6] (44,90)<div  />
+					[7] (44,90)<span >main />
+[8] (190,90)<button class='prc-Button-ButtonBase-9n-Xk SearchButton-module__IconButton__SBlqu prc-Button-IconButton-fyge7' />
+[9] (106,135)<span  />
+	[10] (22,135)<span  />
+	[11] (111,135)<input aria-label='Go to file' class='prc-components-Input-IwWrt' placeholder='Go to file' role='combobox' />
+[12] (101,405)<div  />
+	[13] (101,184)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.github-item' role='treeitem' />
+		[14] (101,184)<div  />
+			[15] (16,184)<div  />
+			[16] (106,184)<div  />
+				[17] (32,184)<div  />
+					[18] (32,184)<div  />
+				[19] (114,184)<span  />
+					[20] (57,184)<span >.github />
+	[21] (101,220)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='docs-item' role='treeitem' />
+		[22] (101,220)<div  />
+			[23] (16,220)<div  />
+			[24] (106,220)<div  />
+				[25] (32,220)<div  />
+					[26] (32,220)<div  />
+				[27] (114,220)<span  />
+					[28] (52,220)<span >docs />
+	[29] (101,256)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='src-item' role='treeitem' />
+		[30] (101,256)<div  />
+			[31] (16,256)<div  />
+			[32] (106,256)<div  />
+				[33] (32,256)<div  />
+					[34] (32,256)<div  />
+				[35] (114,256)<span  />
+					[36] (48,256)<span >src />
+	[37] (101,293)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='tests-item' role='treeitem' />
+		[38] (101,293)<div  />
+			[39] (16,293)<div  />
+			[40] (106,293)<div  />
+				[41] (32,292)<div  />
+					[42] (32,292)<div  />
+				[43] (114,293)<span  />
+					[44] (52,293)<span >tests />
+	[45] (101,329)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.claude_settings.json-item' role='treeitem' />
+		[46] (101,329)<div  />
+			[47] (106,329)<div  />
+				[48] (32,329)<div  />
+				[49] (114,329)<span  />
+					[50] (84,329)<span >.claude_settings.json />
+	[51] (101,365)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='.gitignore-item' role='treeitem' />
+		[52] (101,365)<div  />
+			[53] (106,365)<div  />
+				[54] (32,365)<div  />
+				[55] (114,365)<span  />
+					[56] (62,365)<span >.gitignore />
+	[57] (101,401)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CHANGELOG.md-item' role='treeitem' />
+		[58] (101,401)<div  />
+			[59] (106,401)<div  />
+				[60] (32,401)<div  />
+				[61] (114,401)<span  />
+					[62] (77,401)<span >CHANGELOG.md />
+	[63] (101,437)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='CLAUDE.md-item' role='treeitem' />
+		[64] (101,437)<div  />
+			[65] (106,437)<div  />
+				[66] (32,437)<div  />
+				[67] (114,437)<span  />
+					[68] (67,437)<span >CLAUDE.md />
+	[69] (101,473)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='GEMINI.md-item' role='treeitem' />
+		[70] (101,473)<div  />
+			[71] (106,473)<div  />
+				[72] (32,473)<div  />
+				[73] (114,473)<span  />
+					[74] (66,473)<span >GEMINI.md />
+	[75] (101,509)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='LICENSE-item' role='treeitem' />
+		[76] (101,509)<div  />
+			[77] (106,509)<div  />
+				[78] (32,509)<div  />
+				[79] (114,509)<span  />
+					[80] (59,509)<span >LICENSE />
+	[81] (101,545)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='README.md-item' role='treeitem' />
+		[82] (101,545)<div  />
+			[83] (106,545)<div  />
+				[84] (32,545)<div  />
+				[85] (114,545)<span  />
+					[86] (68,545)<span >README.md />
+	[87] (101,582)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='pyproject.toml-item' role='treeitem' />
+		[88] (101,582)<div  />
+			[89] (106,582)<div  />
+				[90] (32,581)<div  />
+				[91] (114,582)<span  />
+					[92] (72,582)<span >pyproject.toml />
+	[93] (101,618)<li class='PRIVATE_TreeView-item prc-TreeView-TreeViewItem-Ter5f' id='uv.lock-item' role='treeitem' />
+		[94] (101,618)<div  />
+			[95] (106,618)<div  />
+				[96] (32,618)<div  />
+				[97] (114,618)<span  />
+					[98] (56,618)<span >uv.lock />
+[99] (212,500)<div aria-label='Draggable pane splitter' class='prc-PageLayout-DraggableHandle-9s6B4' role='slider' />
+Breadcrumbs
+[100] (271,25)<a class='Breadcrumb-module__repoLink__O2Nbs prc-Link-Link-9ZwDx' href='/wonseokjung/notebooklm-mcp/tree/main'>notebooklm-mcp />
+/
+pyproject.toml
+[101] (964,25)<button class='prc-Button-ButtonBase-9n-Xk FileNameStickyHeader-module__Button__LSEU_ FileNameStickyHeader-module__GoToTopButton__nxAFn' />
+	[102] (964,25)<span  />
+		[103] (971,25)<span >Top />
+File metadata and controls
+[104] (248,75)<button class='prc-SegmentedControl-Button-E48xz' />
+	[105] (248,75)<span  />
+		[106] (248,75)<div >Code />
+[107] (290,75)<button class='prc-SegmentedControl-Button-E48xz' />
+	[108] (290,75)<span  />
+		[109] (290,75)<div >Blame />
+40 lines (36 loc) · 980 Bytes
+[110] (870,75)<a class='prc-Button-ButtonBase-9n-Xk LinkButton-module__linkButton__nFnov BlobViewHeader-module__LinkButton__X9kx2' href='https://github.com/wonseokjung/notebooklm-mcp/raw/refs/heads/main/pyproject.toml' />
+	[111] (870,75)<span  />
+		[112] (870,75)<span >Raw />
+[113] (892,75)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' />
+[114] (910,75)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__downloadButton__ef459 prc-Button-IconButton-fyge7' />
+[115] (951,75)<button class='prc-Button-ButtonBase-9n-Xk prc-Button-IconButton-fyge7' id='_r_2c_' />
+[116] (974,75)<button class='prc-Button-ButtonBase-9n-Xk BlobViewHeader-module__IconButton_2__RyjZg prc-Button-IconButton-fyge7' id='symbols-button' />
+[117] (606,496)<textarea aria-label='file content' class='react-blob-textarea react-blob-print-hide' id='read-only-cursor-text-area' />
+1
+2
+3
+[118] (258,117)<div >4 />
+[119] (258,139)<div >5 />
+[120] (258,162)<div >6 />
+[121] (258,184)<div >7 />
+[122] (258,207)<div >8 />
+[123] (258,229)<div >9 />
+[124] (256,251)<div >10 />
+[125] (256,274)<div >11 />
+[126] (256,296)<div >12 />
+[127] (256,319)<div >13 />
+[128] (256,341)<div >14 />
+[129] (256,364)<div >15 />
+[130] (256,386)<div >16 />
+[131] (256,409)<div >17 />
+[132] (256,431)<div >18 />
+[133] (256,453)<div >19 />
+[134] (256,476)<div >20 />
+[135] (256,498)<div >21 />
+[136] (256,521)<div >22 />
+[137] (256,543)<div >23 />
+[138] (256,566)<div >24 />
+[139] (256,588)<div >25 />
+[140] (256,611)<div >26 />
+[141] (256,633)<div >27 />
+[142] (256,655)<div >28 />
+[143] (256,678)<div >29 />
+[144] (256,700)<div >30 />
+[145] (256,723)<div >31 />
+[146] (256,745)<div >32 />
+[147] (256,768)<div >33 />
+[148] (256,790)<div >34 />
+[149] (256,813)<div >35 />
+[150] (256,835)<div >36 />
+[151] (256,857)<div >37 />
+[152] (256,880)<div >38 />
+[153] (256,902)<div >39 />
+[154] (256,925)<div >40 />
+[
+build-system
+]
+requires
+= [
+"
+hatchling
+"
+]
+build-backend
+=
+"
+hatchling.build
+"
+[
+project
+]
+name
+=
+"
+notebooklm-mcp-server
+"
+version
+=
+"
+0.1.15
+"
+description
+=
+"
+MCP server for NotebookLM (notebooklm.google.com)
+"
+readme
+=
+"
+README.md
+"
+license
+=
+"
+MIT
+"
+requires-python
+=
+"
+>=3.11
+"
+authors
+= [
+{
+name
+=
+"
+Jacob Ben-David
+"
+}
+]
+keywords
+= [
+"
+mcp
+"
+,
+"
+notebooklm
+"
+,
+"
+google
+"
+,
+"
+ai
+"
+,
+"
+research
+"
+]
+classifiers
+= [
+"
+Development Status :: 3 - Alpha
+"
+,
+"
+Intended Audience :: Developers
+"
+,
+"
+License :: OSI Approved :: MIT License
+"
+,
+"
+Programming Language :: Python :: 3.11
+"
+,
+"
+Programming Language :: Python :: 3.12
+"
+,
+]
+dependencies
+= [
+"
+fastmcp>=0.1.0
+"
+,
+"
+httpx>=0.27.0
+"
+,
+"
+websocket-client>=1.6.0
+"
+,
+]
+[
+project
+.
+optional-dependencies
+]
+dev
+= [
+"
+pytest>=8.0.0
+"
+,
+"
+pytest-asyncio>=0.23.0
+"
+,
+]
+[
+project
+.
+scripts
+]
+notebooklm-mcp
+=
+"
+notebooklm_mcp.server:main
+"
+notebooklm-mcp-auth
+=
+"
+notebooklm_mcp.auth_cli:main
+"
+[
+tool
+.
+hatch
+.
+build
+.
+targets
+.
+wheel
+]
+packages
+= [
+"
+src/notebooklm_mcp
+"
+]
+[155] (59,938)<div class='ap-toolbar-tab-tab' role='tab' />
+	[156] (59,938)<div  />
+		[157] (59,938)<i  />
+[158] (33,921)<div class='ap-toolbar-tab-tab' role='tab' />
+	[159] (33,921)<div  />
+		[160] (33,921)<div  />
+			[161] (33,921)<div class='ap-notification-cover' />
+				[162] (33,921)<img  />
+
+</current_dom>

@@ -1,0 +1,98 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+XMP/EXPO 메모리
+메모리
+[0] (360,197)<input id='Search_free' />
+무료배송
+[1] (423,197)<input id='Search_Event' />
+행사제품보기
+총
+96
+건
+[2] (317,263)<input id='SearchKeyword' />
+[3] (370,265)<a href='javascript:search_keyword();' />
+[4] (436,263)<select  />
+[5] (272,691)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	[6] (88,399)<a class='imgbox' href='javascript:detail_show('1037833')' title='[제품코드:1037833]' />
+	[7] (236,396)<a class='imgbox' href='javascript:detail_show('1037833')'>DDR5 / 32GB / 6000MHz (PC5-48000) / 2개 묶음 / 방열판 유 / CL30 / 고성능 게임용 메모리 / CTCED532G6000HC30DC01 />
+		[8] (236,373)<b >[Team Group] T-CREATE DDR5 PC5-48000 CL30 EXPERT 블랙 서린 [32GB (16GB*2)] (6000)[1037833] />
+	판매가격
+	740,000
+	[9] (453,399)<a class='buttons' href='javascript:select_basket('1037833','N',1);' id='basket1037833' />
+		[10] (453,399)<span >담기 />
+	[11] (88,544)<a class='imgbox' href='javascript:detail_show('1060476')' title='[제품코드:1060476]' />
+	[12] (236,540)<a class='imgbox' href='javascript:detail_show('1060476')'>DDR5 / 32GB / 5600MHz (PC5-44800) / 1개 / 방열판 무 / CL46 / 고성능 게임용 메모리 / PC용 />
+		[13] (236,517)<b >[Team Group] DDR5 PC5-44800 CL46 Elite 서린 [32GB] (5600)[1060476] />
+	판매가격
+	647,000
+	[14] (453,544)<a class='buttons' href='javascript:select_basket('1060476','N',1);' id='basket1060476' />
+		[15] (453,544)<span >담기 />
+	[16] (88,688)<a class='imgbox' href='javascript:detail_show('1037832')' title='[제품코드:1037832]' />
+	[17] (236,685)<a class='imgbox' href='javascript:detail_show('1037832')'>DDR5 / 32GB / 6000MHz (PC5-48000) / 2개 묶음 / 방열판 유 / CL30 / 고성능 게임용 메모리  / CTCWD532G6000HC30DC01 />
+		[18] (236,662)<b >[Team Group] T-CREATE DDR5 PC5-48000 CL30 EXPERT 화이트 서린 [32GB (16GB*2)] (6000)[1037832] />
+	판매가격
+	714,210
+	[19] (453,688)<a class='buttons' href='javascript:select_basket('1037832','N',1);' id='basket1037832' />
+		[20] (453,688)<span >담기 />
+	[21] (88,833)<a class='imgbox' href='javascript:detail_show('1060475')' title='[제품코드:1060475]' />
+	[22] (236,829)<a class='imgbox' href='javascript:detail_show('1060475')'>DDR5 / 32GB / 5600MHz (PC5-44800) / 방열판 유 / PC용 />
+		[23] (236,818)<b >[Team Group] DDR5 PC5-44800 CL46 Elite Plus 블랙 서린 [32GB] (5600)[1060475] />
+	판매가격
+	682,000
+	[24] (453,833)<a class='buttons' href='javascript:select_basket('1060475','N',1);' id='basket1060475' />
+		[25] (453,833)<span >담기 />
+	[26] (88,977)<a class='imgbox' href='javascript:detail_show('1012408')' title='[제품코드:1012408]' />
+	[27] (236,996)<a class='imgbox' href='javascript:detail_show('1012408')'>데스크탑용 / DDR5 / 6000MHz (PC5-48000) / 램타이밍: CL48-48-48-96 / 1.10V / 램개수: 2개 / XMP / EXPO / 온다이ECC / 히트싱크: 방열판 / 방열판 색상: 블랙 / 32GB / 2개 묶음 / 방열판 유 / 고성능 게임용 메모리 / CL48 / CTCCD532G6000HC48DC01 />
+		[28] (236,950)<b >[Team Group] T-CREATE DDR5 PC5-48000 CL48 CLASSIC 서린 [32GB (16GB*2)] (6000)[1012408] />
+	판매가격
+	729,280
+	담기
+총 견적금액
+750,150
+원
+[29] (534,263)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[30] (562,263)<input  />
+[31] (590,263)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[32] (650,263)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[33] (650,264)<span >전체수량변경 />
+[34] (544,358)<label  />
+	[35] (526,358)<span  />
+		[36] (526,358)<input  />
+	[37] (551,358)<span >전체선택 />
+[38] (702,358)<a class='wbtn' href='javascript:add_wish_list();' />
+	[39] (702,358)<span >관심상품추가 />
+[40] (760,358)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[41] (760,358)<span >장바구니담기 />
+[42] (815,358)<a class='wbtn' />
+	[43] (815,358)<span >견적서출력 />
+[44] (871,358)<a class='wbtn' href='javascript:speck_form();' />
+	[45] (871,358)<span >사양검토요청 />
+[46] (919,358)<a class='wbtn' href='javascript:sess_init();' />
+	[47] (919,358)<span >초기화 />
+[48] (527,436)<label  />
+	[49] (527,436)<span  />
+		[50] (526,438)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[51] (560,436)<span >인텔 병행수입 />
+[52] (633,481)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[53] (853,463)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[54] (876,463)<input class='change__ea' id='Amount_1108547' />
+[55] (898,463)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[56] (922,463)<span class='delete' />
+[57] (527,562)<label  />
+	[58] (527,562)<span  />
+		[59] (526,564)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[60] (562,562)<span >인텔 소켓 1700 />
+[61] (633,596)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[62] (680,597)<i  />
+판매가격
+174,150
+[63] (853,578)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[64] (876,578)<input class='change__ea' id='Amount_1118926' />
+[65] (898,578)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[66] (922,578)<span class='delete' />
+
+</current_dom>

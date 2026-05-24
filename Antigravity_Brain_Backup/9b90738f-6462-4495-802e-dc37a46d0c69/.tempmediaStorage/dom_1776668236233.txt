@@ -1,0 +1,311 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (82,50)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (143,53)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (377,49)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='디스크 휠' role='searchbox' />
+[3] (583,52)<div  />
+	[4] (583,48)<img  />
+[5] (616,49)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (699,49)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (665,49)<span  />
+	[8] (711,49)<div  />
+		[9] (711,49)<b >AliExpress 앱을 다운로드하세요 />
+[10] (779,49)<div  />
+	[11] (779,49)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[12] (761,49)<span  />
+		[13] (788,49)<div  />
+			[14] (788,36)<span >KO
+/ />
+			[15] (788,59)<b >KRW />
+				[16] (797,58)<span  />
+[17] (860,49)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[18] (824,49)<span  />
+	[19] (872,49)<div  />
+		[20] (872,36)<span >환영합니다! />
+		[21] (872,59)<b  />
+			[22] (866,59)<span >로그인 / 회원가입 />
+			[23] (900,58)<span  />
+[24] (940,49)<div  />
+	[25] (943,49)<a aria-label='0 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[26] (927,49)<span  />
+		[27] (954,49)<div  />
+			[28] (954,31)<div  />
+				[29] (948,33)<span >0 />
+			[30] (954,59)<b >장바구니 />
+[31] (104,569)<div class='ep_eq' scrollable='true' />
+	[32] (99,174)<div  />
+		[33] (53,174)<span >할인/혜택 />
+		[34] (163,174)<span  />
+	[35] (99,219)<span aria-label='filterCode:bigsale' class='jz_j0 ie_ig' />
+		[36] (38,219)<input class='jz_ar' id='filterCode:bigsale' />
+		[37] (106,219)<label class='jz_it'>세일 />
+			세일
+	[38] (99,312)<div  />
+		[39] (57,312)<span >배송/서비스 />
+		[40] (163,312)<span  />
+	[41] (99,357)<span aria-label='filterCode:xdaydelivery' class='jz_j0 ie_ig' />
+		[42] (38,357)<input class='jz_ar' id='filterCode:xdaydelivery' />
+		[43] (106,357)<label class='jz_it'>5-10일 배송 />
+			5-10일 배송
+	[44] (99,398)<span aria-label='filterCode:choice_atm' class='jz_j0 ie_ig' />
+		[45] (38,398)<input class='jz_ar' id='filterCode:choice_atm' />
+		[46] (106,398)<label class='jz_it'>Choice />
+			Choice
+	[47] (99,489)<div  />
+		[48] (53,489)<span >품질/신뢰 />
+		[49] (163,489)<span  />
+	[50] (99,535)<span aria-label='filterCode:4StarRating' class='jz_j0 ie_ig' />
+		[51] (38,535)<input class='jz_ar' id='filterCode:4StarRating' />
+		[52] (106,535)<label class='jz_it' />
+			이상
+	[53] (99,627)<div  />
+		[54] (46,627)<span >브랜드 />
+		[55] (163,627)<span  />
+	[56] (99,672)<span aria-label='-1' class='ip_iq' />
+		[57] (38,672)<input class='ip_ar ip_is' id='-1' />
+		[58] (106,672)<label class='ip_it'>모든 />
+	[59] (99,735)<span aria-label='2250-4201138' class='ip_iq' />
+		[60] (38,735)<input class='ip_ar' id='2250-4201138' />
+		[61] (106,735)<label class='ip_it' />
+			Edifier
+	[62] (99,818)<span aria-label='2250-4203337' class='ip_iq' />
+		[63] (38,818)<input class='ip_ar' id='2250-4203337' />
+		[64] (106,818)<label class='ip_it' />
+			SoundPEATS
+	[65] (99,902)<span aria-label='2250-4203098' class='ip_iq' />
+		[66] (38,902)<input class='ip_ar' id='2250-4203098' />
+		[67] (106,902)<label class='ip_it' />
+			MOONDROP
+	[68] (99,985)<span aria-label='2250-4201530' class='ip_iq' />
+		[69] (38,985)<input class='ip_ar' id='2250-4201530' />
+		[70] (106,985)<label class='ip_it' />
+			QCY
+에 따라 분류
+:
+[71] (832,165)<div  />
+	[72] (832,165)<span >가장 일치하는 내용 />
+[73] (902,165)<div  />
+	[74] (902,165)<span >주문 />
+[75] (945,165)<div  />
+	[76] (940,165)<span >가격 />
+	[77] (955,165)<div  />
+		[78] (954,167)<div  />
+		[79] (959,167)<div  />
+종료시간 :
+4월 24일 23:59
+[80] (280,584)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005010359947805.html?algo_pvid=291f7736-c16a-47f9-bb23-8d6158cdc60e&algo_exp_id=291f7736-c16a-47f9-bb23-8d6158cdc60e-0&pdp_ext_f=%7B%22order%22%3A%224598%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%214449%211502%21%21%2119.99%216.75%21%402140f53817766682253897040efe01%2112000052123218626%21sea%21KR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aab6e88c3%3Bm03_new_user%3A-29895%3BpisId%3A5000000203687443&curPageLogUid=D7MmzffpNmnb&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010359947805%7C_p_origin_prod%3A' />
+	[81] (280,501)<div  />
+		[82] (280,501)<div  />
+			[83] (280,489)<div  />
+				[84] (280,489)<div  />
+			[85] (280,660)<div  />
+				[86] (257,660)<div  />
+				[87] (267,660)<div  />
+				[88] (276,660)<div  />
+				[89] (285,660)<div  />
+				[90] (294,660)<div  />
+				[91] (303,660)<div  />
+		[92] (329,582)<div  />
+			[93] (329,582)<div  />
+				[94] (329,582)<span  />
+	[95] (280,754)<div  />
+		[96] (280,686)<div aria-label='레노버 무선 블루투스 이어버드 미니 인이어 이어폰 화웨이, 안드로이드 및 애플 기기와 호환 초저지연' class='lw_an' role='heading' title='레노버 무선 블루투스 이어버드 미니 인이어 이어폰 화웨이, 안드로이드 및 애플 기기와 호환 초저지연'>레노버 무선 블루투스 이어버드 미니 인이어 이어폰 화웨이, 안드로이드 및 애플 기기와 호환 초저지연 />
+			[97] (220,686)<img  />
+			[98] (243,686)<img  />
+			레노버 무선 블루투스 이어버드 미니 인이어 이어폰 화웨이, 안드로이드 및 애플 기기와 호환 초저지연
+		[99] (280,725)<div aria-label='₩1,502' class='lw_el' />
+			[100] (227,725)<span >-66% />
+			[101] (266,725)<div  />
+				[102] (249,725)<span >₩ />
+				[103] (257,725)<span >1 />
+				[104] (262,725)<span >, />
+				[105] (276,725)<span >502 />
+			[106] (304,725)<div  />
+				[107] (304,725)<span >₩4,449 />
+		[108] (280,763)<div  />
+			[109] (238,765)<div  />
+				[110] (215,765)<img  />
+				[111] (223,765)<img  />
+				[112] (230,765)<img  />
+				[113] (238,765)<img  />
+				[114] (246,765)<img  />
+				[115] (258,765)<span >4.5 />
+			[116] (292,765)<span  />
+				[117] (268,766)<span  />
+				[118] (295,767)<span >4,000+ 판매 />
+		[119] (280,806)<div  />
+			[120] (280,791)<div  />
+				[121] (216,791)<img  />
+				[122] (279,791)<span >₩30,000 구매 시 ₩3,000 할인 />
+			[123] (280,821)<div  />
+				[124] (215,821)<img  />
+				[125] (263,821)<span >신규 회원 ₩2,947 할인 />
+		[126] (280,837)<div  />
+[127] (434,584)<a class='lw_b h7_ic search-card-item' href='https://www.aliexpress.com/ssr/300000512/kr2024update?productIds=1005010515836997:12000052667284580&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005010515836997%7C_p_origin_prod%3A&pvid=291f7736-c16a-47f9-bb23-8d6158cdc60e' />
+	[128] (434,501)<div  />
+		[129] (434,501)<div  />
+			[130] (434,489)<div  />
+				[131] (434,489)<div  />
+			[132] (434,660)<div  />
+				[133] (412,660)<div  />
+				[134] (421,660)<div  />
+				[135] (430,660)<div  />
+				[136] (439,660)<div  />
+				[137] (448,660)<div  />
+				[138] (457,660)<div  />
+	[139] (434,754)<div  />
+		[140] (434,686)<div aria-label='새로운 LP40 새로운 블루투스 V5.0 이어폰 스마트 폰 노트북 컴퓨터 이어 버드와 호환되는 땀 방지 경량 헤드폰' class='lw_an' role='heading' title='새로운 LP40 새로운 블루투스 V5.0 이어폰 스마트 폰 노트북 컴퓨터 이어 버드와 호환되는 땀 방지 경량 헤드폰'>새로운 LP40 새로운 블루투스 V5.0 이어폰 스마트 폰 노트북 컴퓨터 이어 버드와 호환되는 땀 방지 경량 헤드폰 />
+			[141] (378,686)<img  />
+			새로운 LP40 새로운 블루투스 V5.0 이어폰 스마트 폰 노트북 컴퓨터 이어 버드와 호환되는 땀 방지 경량 헤드폰
+		[142] (434,725)<div aria-label='₩5,500' class='lw_el' />
+			[143] (381,725)<span >-48% />
+			[144] (421,725)<div  />
+				[145] (403,725)<span >₩ />
+				[146] (411,725)<span >5 />
+				[147] (417,725)<span >, />
+				[148] (430,725)<span >500 />
+			[149] (461,725)<div  />
+				[150] (461,725)<span >₩10,770 />
+		[151] (434,763)<div  />
+			[152] (392,765)<div  />
+				[153] (369,765)<img  />
+				[154] (377,765)<img  />
+				[155] (385,765)<img  />
+				[156] (392,765)<img  />
+				[157] (400,765)<img  />
+				[158] (412,765)<span >4.2 />
+			[159] (446,765)<span  />
+				[160] (422,766)<span  />
+				[161] (449,767)<span >5,000+ 판매 />
+		[162] (434,791)<div  />
+			[163] (434,791)<div  />
+				[164] (370,791)<img  />
+				[165] (433,791)<span >비슷한 특가 중 혜택 TOP 상품 />
+		[166] (434,825)<div  />
+			[167] (382,825)<span >알뜰마트 />
+			[168] (404,825)<span  />
+[169] (589,584)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005007038491173.html?algo_pvid=291f7736-c16a-47f9-bb23-8d6158cdc60e&algo_exp_id=291f7736-c16a-47f9-bb23-8d6158cdc60e-2&pdp_ext_f=%7B%22order%22%3A%2221833%22%2C%22eval%22%3A%221%22%2C%22orig_sl_item_id%22%3A%221005007038491173%22%2C%22orig_item_id%22%3A%221005011668792580%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%218333%214000%21%21%2137.44%2117.97%21%402140f53817766682253897040efe01%2112000039179866527%21sea%21KR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aab6e88c3%3Bm03_new_user%3A-29895&curPageLogUid=4fOszqg3RwJg&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005007038491173%7C_p_origin_prod%3A1005011668792580' />
+	[170] (589,501)<div  />
+		[171] (589,501)<div  />
+			[172] (589,489)<div  />
+				[173] (589,489)<div  />
+			[174] (589,660)<div  />
+				[175] (566,660)<div  />
+				[176] (575,660)<div  />
+				[177] (584,660)<div  />
+				[178] (593,660)<div  />
+				[179] (602,660)<div  />
+				[180] (611,660)<div  />
+		[181] (637,582)<div  />
+			[182] (637,582)<div  />
+				[183] (637,582)<span  />
+	[184] (589,754)<div  />
+		[185] (589,686)<div aria-label='TWS 블루투스 헤드셋 5.3 무선 공기전도 헤드폰 클립형 이어폰 음악 노이즈 캔슬링 HD 통화 스포츠 게임용 이어폰' class='lw_an' role='heading' title='TWS 블루투스 헤드셋 5.3 무선 공기전도 헤드폰 클립형 이어폰 음악 노이즈 캔슬링 HD 통화 스포츠 게임용 이어폰'>TWS 블루투스 헤드셋 5.3 무선 공기전도 헤드폰 클립형 이어폰 음악 노이즈 캔슬링 HD 통화 스포츠 게임용 이어폰 />
+			[186] (532,686)<img  />
+			TWS 블루투스 헤드셋 5.3 무선 공기전도 헤드폰 클립형 이어폰 음악 노이즈 캔슬링 HD 통화 스포츠 게임용 이어폰
+		[187] (589,725)<div aria-label='₩4,000' class='lw_el' />
+			[188] (535,725)<span >-51% />
+			[189] (575,725)<div  />
+				[190] (558,725)<span >₩ />
+				[191] (565,725)<span >4 />
+				[192] (571,725)<span >, />
+				[193] (584,725)<span >000 />
+			[194] (613,725)<div  />
+				[195] (613,725)<span >₩8,333 />
+		[196] (589,763)<div  />
+			[197] (546,765)<div  />
+				[198] (523,765)<img  />
+				[199] (531,765)<img  />
+				[200] (539,765)<img  />
+				[201] (547,765)<img  />
+				[202] (554,765)<img  />
+				[203] (566,765)<span >4.9 />
+			[204] (603,765)<span  />
+				[205] (576,766)<span  />
+				[206] (606,767)<span >10,000+ 판매 />
+		[207] (589,806)<div  />
+			[208] (589,791)<div  />
+				[209] (537,791)<span >무료 배송 />
+			[210] (589,821)<div  />
+				[211] (562,821)<span >코인으로 추가 2% 할인 />
+		[212] (589,837)<div  />
+[213] (743,584)<a class='lw_b h7_ic search-card-item' href='//ko.aliexpress.com/item/1005012007343294.html?aem_p4p_detail=202604192357056794177922833620001557671&algo_pvid=291f7736-c16a-47f9-bb23-8d6158cdc60e&algo_exp_id=291f7736-c16a-47f9-bb23-8d6158cdc60e-3&pdp_ext_f=%7B%22order%22%3A%22497%22%2C%22eval%22%3A%221%22%2C%22fromPage%22%3A%22search%22%7D&pdp_npi=6%40dis%21KRW%21113714%2139800%21%21%21510.91%21178.82%21%402140f53817766682253897040efe01%2112000057262659877%21sea%21KR%210%21ABX%211%210%21n_tag%3A-29910%3Bd%3Aab6e88c3%3Bm03_new_user%3A-29895&curPageLogUid=SgCNeANoypW8&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005012007343294%7C_p_origin_prod%3A&search_p4p_id=202604192357056794177922833620001557671_1' />
+	[214] (743,501)<div  />
+		[215] (743,501)<div  />
+			[216] (743,489)<div  />
+				[217] (743,489)<div  />
+			[218] (743,660)<div  />
+				[219] (720,660)<div  />
+				[220] (729,660)<div  />
+				[221] (738,660)<div  />
+				[222] (747,660)<div  />
+				[223] (756,660)<div  />
+				[224] (765,660)<div  />
+		[225] (791,582)<div  />
+			[226] (791,582)<div  />
+				[227] (791,582)<span  />
+	[228] (743,754)<div  />
+		[229] (743,686)<div aria-label='업그레이드 프로 버드 3 프로 무선 블루투스 이어폰 노이즈 감소 인이어 무선 충전 TWS 하이파이 사운드 헤드셋 스포츠 이어버드' class='lw_an' role='heading' title='업그레이드 프로 버드 3 프로 무선 블루투스 이어폰 노이즈 감소 인이어 무선 충전 TWS 하이파이 사운드 헤드셋 스포츠 이어버드'>업그레이드 프로 버드 3 프로 무선 블루투스 이어폰 노이즈 감소 인이어 무선 충전 TWS 하이파이 사운드 헤드셋 스포츠 이어버드 />
+			업그레이드 프로 버드 3 프로 무선 블루투스 이어폰 노이즈 감소 인이어 무선 충전 TWS 하이파이 사운드 헤드셋 스포츠 이어버드
+		[230] (743,725)<div aria-label='₩39,800' class='lw_el' />
+			[231] (698,725)<div  />
+				[232] (677,725)<span >₩ />
+				[233] (689,725)<span >39 />
+				[234] (698,725)<span >, />
+				[235] (712,725)<span >800 />
+		[236] (743,763)<div  />
+			[237] (697,765)<div  />
+				[238] (677,765)<img  />
+				[239] (685,765)<img  />
+				[240] (693,765)<img  />
+				[241] (701,765)<img  />
+				[242] (709,765)<img  />
+				[243] (716,765)<span >5 />
+			[244] (741,765)<span  />
+				[245] (723,766)<span  />
+				[246] (744,767)<span >497 판매 />
+		[247] (743,807)<div  />
+[248] (799,357)<div >광고 />
+[249] (897,584)<a class='lw_b h7_ic search-card-item' href='https://www.aliexpress.com/ssr/300000512/kr2024update?productIds=1005006727641626:12000038107647892&pha_manifest=ssr&_immersiveMode=true&disableNav=YES&sourceName=SEARCHProduct&utparam-url=scene%3Asearch%7Cquery_from%3A%7Cx_object_id%3A1005006727641626%7C_p_origin_prod%3A1005010098224898&pvid=291f7736-c16a-47f9-bb23-8d6158cdc60e' />
+	[250] (897,501)<div  />
+		[251] (897,501)<div  />
+			[252] (897,489)<div  />
+				[253] (897,489)<div  />
+			[254] (897,660)<div  />
+				[255] (874,660)<div  />
+				[256] (883,660)<div  />
+				[257] (892,660)<div  />
+				[258] (901,660)<div  />
+				[259] (911,660)<div  />
+				[260] (920,660)<div  />
+	[261] (897,754)<div  />
+		[262] (897,686)<div aria-label='BT 이어폰 클립형 모노럴 인이어 모션 스테레오 골전도 Gd28 비즈니스 무선 이어폰 미니 모노럴 Tws' class='lw_an' role='heading' title='BT 이어폰 클립형 모노럴 인이어 모션 스테레오 골전도 Gd28 비즈니스 무선 이어폰 미니 모노럴 Tws' />
+			[263] (840,686)<img  />
+			[264] (897,717)<h3 >BT 이어폰 클립형 모노럴 인이어 모션 스테레오 골전도 Gd28 비즈니스 무선 이어폰 미니 모노럴 Tws />
+		[265] (897,725)<div aria-label='₩500' class='lw_el' />
+			[266] (844,725)<span >-91% />
+			[267] (878,725)<div  />
+				[268] (866,725)<span >₩ />
+				[269] (881,725)<span >500 />
+			[270] (910,725)<div  />
+				[271] (910,725)<span >₩5,625 />
+		[272] (897,763)<div  />
+			[273] (855,765)<div  />
+				[274] (832,765)<img  />
+				[275] (839,765)<img  />
+				[276] (847,765)<img  />
+				[277] (855,765)<img  />
+				[278] (863,765)<img  />
+				[279] (874,765)<span >4.9 />
+			[280] (911,765)<span  />
+				[281] (885,766)<span  />
+				[282] (914,767)<span >10,000+ 판매 />
+		[283] (897,795)<div  />
+			[284] (844,795)<span >알뜰마트 />
+			[285] (866,795)<span  />
+		[286] (897,823)<div  />
+[287] (645,899)<div >광고 />
+
+</current_dom>

@@ -1,0 +1,374 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 콘텐츠
+[0] (500,46)<input class='style-scope ytcp-omnisearch' id='query-input' placeholder='채널에서 검색하기' />
+내 최근 동영상
+[1] (656,124)<a class='style-scope ytcp-omnisearch' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/videos' id='show-all-link' />
+	[2] (656,124)<ytcp-button class='style-scope ytcp-omnisearch' />
+		[3] (656,124)<ytcp-button-shape  />
+			[4] (656,124)<button aria-label='모두 보기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>모두 보기 />
+				모두 보기
+				[5] (656,124)<yt-touch-feedback-shape  />
+					[6] (656,124)<div  />
+[7] (500,229)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/5JdMVM0vnxQ/edit' id='video-result-0' />
+	[8] (500,229)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[9] (500,229)<div  />
+			[10] (456,228)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[11] (460,228)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[12] (355,228)<div  />
+						[13] (355,228)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[14] (355,228)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/5JdMVM0vnxQ/edit' id='thumbnail-anchor' />
+								[15] (355,228)<div  />
+									[16] (355,228)<ytcp-thumbnail  />
+										[17] (355,228)<div  />
+											[18] (355,228)<ytcp-img-with-fallback  />
+												[19] (355,228)<div  />
+													[20] (355,228)<img  />
+											[21] (375,257)<div  />
+												[22] (375,257)<div >1:13:50 />
+					[23] (493,217)<div  />
+						[24] (499,200)<div  />
+							[25] (499,211)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[26] (499,203)<a aria-label='[Melodist Seoul] - CRYSTAL VIBE V1 | 서울의 밤을 걷는 하이테크 블루 플레이리스트 (73 Min)' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/5JdMVM0vnxQ/edit' id='video-title' />
+									[27] (571,203)<span >[Melodist Seoul] - CRYSTAL VIBE V1 | 서울의 밤을 걷는 하이테크 블루 플레이리스트 (73 Min) />
+						[28] (499,243)<div  />
+							[29] (499,243)<div >🌌 MELODIST SEOUL - [CRYSTAL VIBE V1] FULL ALBUM
+"가장 맑고 차가운 서울의 밤, 데이터의 파편 속에서 피어난 하이테크 블루 사운드."
+
+미래 서울의 새벽 풍경을 18개의 트랙에 담았습니다. 
+차갑지만 투명한 신스 사운드와 함께 끝없는 도시의 리듬 속으로 빠져보세요. 
+작업할 때, 드라이브할 때, 혹은 홀로 밤을 지샐 때 가장 완벽한 배경음악이 되어줄 것입니다.
+
+🎧 Tracklist (타임라인)
+00:00 01. Pixelated Reverie
+04:30 02. Electric Dusk Mirror
+08:45 03. Neural Net Nostalgia
+13:10 04. City's Soft Hum
+17:25 05. Ephemeral Screen Glow
+21:50 06. Circuit Bloom
+26:15 07. Midnight Glow Algorithm
+30:30 08. Invisible Network Heart
+34:55 09. Flic />
+			[30] (656,228)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 27. />
+				[31] (652,231)<div >업로드 날짜 />
+[32] (500,351)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/ajWXcsZqDmU/edit' id='video-result-1' />
+	[33] (500,351)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[34] (500,351)<div  />
+			[35] (456,351)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[36] (460,351)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[37] (355,351)<div  />
+						[38] (355,351)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[39] (355,351)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/ajWXcsZqDmU/edit' id='thumbnail-anchor' />
+								[40] (355,351)<div  />
+									[41] (355,351)<ytcp-thumbnail  />
+										[42] (355,351)<div  />
+											[43] (355,351)<ytcp-img-with-fallback  />
+												[44] (355,351)<div  />
+													[45] (355,351)<img  />
+											[46] (375,379)<div  />
+												[47] (375,379)<div >1:14:35 />
+					[48] (493,339)<div  />
+						[49] (499,322)<div  />
+							[50] (499,333)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[51] (499,325)<a aria-label='[MELODIST_SEOUL] 나른한 오후, 마음을 녹이는 포근한 파스텔 드림 Lofi | 연속 재생 (Full Album)' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/ajWXcsZqDmU/edit' id='video-title' />
+									[52] (575,325)<span >[MELODIST_SEOUL] 나른한 오후, 마음을 녹이는 포근한 파스텔 드림 Lofi | 연속 재생 (Full Album) />
+						[53] (499,365)<div  />
+							[54] (499,365)<div >오늘 하루도 고생 많으셨습니다. 복잡한 도시의 소음에서 잠시 벗어나, 따뜻하고 포근한 파스텔 톤의 꿈속을 걷는 듯한 시간을 선물해 드립니다. ☁️✨
+
+멜로디스트 서울(MELODIST SEOUL)의  [PASTEL DREAM]은 여러분의 지친 일상을 부드럽게 감싸주는 18개의 감성 트랙으로 구성되어 있습니다. 공부할 때, 책 읽을 때, 혹은 깊은 잠에 들기 전 이 선율과 함께해 보세요.
+
+🎵 Tracklist (타임스탬프)
+00:00 - Circuit Bloom 04:35 - Holographic Echo 08:36 - Broken Signal Lullaby 12:55 - Invisible Network Heart 17:43 - Flicker & Fade 21:55 - Electric Dusk Mirror 27:28 - Neon Rain Echoes 32:40 - Dreaming in Data 34:15 - Neural Net Nostalgia 38:27 - Data Stream D />
+			[55] (656,351)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 27. />
+				[56] (652,353)<div >게시됨 />
+[57] (500,473)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/7PeRfu5dgSo/edit' id='video-result-2' />
+	[58] (500,473)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[59] (500,473)<div  />
+			[60] (456,473)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[61] (460,473)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[62] (355,473)<div  />
+						[63] (355,473)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[64] (355,473)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/7PeRfu5dgSo/edit' id='thumbnail-anchor' />
+								[65] (355,473)<div  />
+									[66] (355,473)<ytcp-thumbnail  />
+										[67] (355,473)<div  />
+											[68] (355,473)<ytcp-img-with-fallback  />
+												[69] (355,473)<div  />
+													[70] (355,473)<img  />
+											[71] (381,501)<div  />
+												[72] (381,501)<div >2:25 />
+					[73] (493,461)<div  />
+						[74] (499,444)<div  />
+							[75] (499,455)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[76] (499,447)<a aria-label='[퇴근후 한잔] 오늘 하루도 고생한 당신에게, 김대리의 무한 텐션 충전곡 🍺 | Melodist Seoul  by sohwi' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/7PeRfu5dgSo/edit' id='video-title' />
+									[77] (581,447)<span >[퇴근후 한잔] 오늘 하루도 고생한 당신에게, 김대리의 무한 텐션 충전곡 🍺 | Melodist Seoul  by sohwi />
+						[78] (499,487)<div  />
+							[79] (499,487)<div >지친 하루 끝, 넥타이를 풀어놓고 마시는 시원한 맥주 한 잔. 🍻
+김대리가 전하는 무한 텐션으로 내일의 에너지를 충전하세요!
+
+Melodist Seoul은 서울의 다양한 감성을 소리로 담아냅니다.
+구독과 좋아요는 김대리를 춤추게 합니다! 🕺✨
+
+🎧 Listen more:
+- Melodist Seoul Crystal Vibe (Coming Soon)
+- Melodist Seoul Pastel Dream (Coming Soon)
+
+#MelodistSeoul #김대리텐션 #직장인힐링 #퇴근후맥주 #SeoulVibe #시티팝 #StressRelief />
+			[80] (656,473)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 27. />
+				[81] (652,475)<div >게시됨 />
+[82] (500,595)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/IaZNquj5qY0/edit' id='video-result-3' />
+	[83] (500,595)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[84] (500,595)<div  />
+			[85] (456,595)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[86] (460,595)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[87] (355,595)<div  />
+						[88] (355,595)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[89] (355,595)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/IaZNquj5qY0/edit' id='thumbnail-anchor' />
+								[90] (355,595)<div  />
+									[91] (355,595)<ytcp-thumbnail  />
+										[92] (355,595)<div  />
+											[93] (355,595)<ytcp-img-with-fallback  />
+												[94] (355,595)<div  />
+													[95] (355,595)<img  />
+											[96] (375,623)<div  />
+												[97] (375,623)<div >1:43:51 />
+					[98] (493,583)<div  />
+						[99] (499,566)<div  />
+							[100] (499,577)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[101] (499,569)<a aria-label='[Playlist] 비오는 창가에서 즐기는 고품즈 재즈 | Rainy Night Jazz for Relaxation & Sleep' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/IaZNquj5qY0/edit' id='video-title' />
+									[102] (560,569)<span >[Playlist] 비오는 창가에서 즐기는 고품즈 재즈 | Rainy Night Jazz for Relaxation & Sleep />
+						[103] (499,609)<div  />
+							[104] (499,609)<div >창밖으로 흐르는 빗물과 함께 깊어가는 밤, 
+비트시티(Beat City)가 선사하는 [Rainy Noir] 플레이리스트입니다. 
+
+자극적인 소리는 덜어내고, 오직 비오는 밤의 고요함과 
+나직한 재즈 선율만을 담았습니다. 
+차분하게 머물다 가세요.
+
+[Tracklist]
+00:00 LONDON COFFEE RAIN
+02:50 Spring Rain Awakening
+06:22 Rain & Highway (Full Mix)
+09:27 Misty Morning Meadow Rain
+12:59 Misty Morning by the Thames
+17:09 Morning Mist
+22:23 Morning Mist Over the Lake
+27:41 Rain on a Tin Roof
+31:32 Rain on the Skylight
+35:17 Rainy Afternoon
+40:06 Rainy Window Bookstore
+42:45 Rainy Window Coffee
+45:59 Rainy after />
+			[105] (656,595)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 19. />
+				[106] (652,597)<div >게시됨 />
+[107] (500,717)<a class='entity-link remove-default-style style-scope ytcp-omnisearch-results' href='/video/ClkEklMsn8Y/edit' id='video-result-4' />
+	[108] (500,717)<ytcp-video-row class='style-scope ytcp-omnisearch-results' />
+		[109] (500,717)<div  />
+			[110] (456,717)<div class='cell-body style-scope ytcp-video-row' role='cell' />
+				[111] (460,717)<ytcp-video-list-cell-video class='style-scope ytcp-video-row' />
+					[112] (355,717)<div  />
+						[113] (355,717)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+							[114] (355,717)<a class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/ClkEklMsn8Y/edit' id='thumbnail-anchor' />
+								[115] (355,717)<div  />
+									[116] (355,717)<ytcp-thumbnail  />
+										[117] (355,717)<div  />
+											[118] (355,717)<ytcp-img-with-fallback  />
+												[119] (355,717)<div  />
+													[120] (355,717)<img  />
+											[121] (378,745)<div  />
+												[122] (378,745)<div >55:29 />
+					[123] (493,705)<div  />
+						[124] (499,688)<div  />
+							[125] (499,699)<ytcp-ve class='style-scope ytcp-video-list-cell-video' role='none' />
+								[126] (499,691)<a aria-label='🌙 비오는날 기차타고 여행가는 기분, 카페 감성 플레이리스트 | 집중력 UP, 마음이 차분해지는 음악, 공부할 때, 일할 때, 잠들기 전' class='remove-default-style style-scope ytcp-video-list-cell-video' href='/video/ClkEklMsn8Y/edit' id='video-title' />
+									[127] (627,691)<span >🌙 비오는날 기차타고 여행가는 기분, 카페 감성 플레이리스트 | 집중력 UP, 마음이 차분해지는 음악, 공부할 때, 일할 때, 잠들기 전 />
+						[128] (499,731)<div  />
+							[129] (499,731)<div >☕ 세계 각지의 카페에서 흘러나올 것 같은 감성 BGM 모음입니다.
+공부할 때, 업무에 집중할 때, 혹은 잠들기 전 편안하게 흘려두기 좋은 플레이리스트예요.
+
+─────────────────────────────
+🎵 Tracklist
+─────────────────────────────
+00:00 Berlin Midnight
+00:00 Matcha Twilight Prayer
+00:00 Milan Espresso
+00:00 Reykjavik Night
+00:00 Sahara Breeze
+00:00 San Francisco Mist
+00:00 Scandinavian Birch
+00:00 Seoul Riverfront
+00:00 Shinjuku Matcha Mist
+
+─────────────────────────────
+🌿 이런 분들께 추천해요
+─────────────────────────────
+✔ 공부나 업무에 집중하고 싶을 때
+✔ 카페 감성이 그리울 때
+✔ 잠들기 전 마음을 차 />
+			[130] (656,717)<div class='cell-body tablecell-date style-scope ytcp-video-row' role='cell'>2026. 4. 15. />
+				[131] (652,719)<div >게시됨 />
+만들기
+내 채널
+Melodist Seoul
+[132] (83,614)<ytcp-animatable class='top-section sync-on-transition style-scope ytcp-navigation-drawer' scrollable='true' />
+	대시보드
+	콘텐츠
+	분석
+	커뮤니티
+	자막
+	콘텐츠 감지
+	수익 창출
+	맞춤설정
+	오디오 보관함
+설정
+의견 보내기
+[133] (583,546)<main class='style-scope ytcp-entity-page' id='main' scrollable='true' />
+	채널 콘텐츠
+	아이디어
+	동영상
+	Shorts
+	라이브
+	게시물
+	재생목록
+	팟캐스트
+	강의
+	프로모션
+	컬래버레이션
+	동영상
+	공개 상태
+	제한사항
+	날짜
+	조회수
+	댓글
+	좋아요(싫어요 대비)
+	1:13:50
+	[Melodist Seoul] - CRYSTAL VIBE V1 | 서울의 밤을 걷는 하이테크 블루 플레이리스트 (73 Min)
+	🌌 MELODIST SEOUL - [CRYSTAL VIBE V1] FULL ALBUM
+"가장 맑고 차가운 서울의 밤, 데이터의 파편 속에서 피어난 하이테크 블루 사운드."
+
+미래 서울의 새벽 풍경을 18개의 트랙에 담았습니다. 
+차갑지만 투명한 신스 사운드와 함께 끝없는 도시의 리듬 속으로 빠져보세요. 
+작업할 때, 드라이브할 때, 혹은 홀로 밤을 지샐 때 가장 완벽한 배경음악이 되어줄 것입니다.
+
+🎧 Tracklist (타임라인)
+00:00 01. Pixelated Reverie
+04:30 02. Electric Dusk Mirror
+08:45 03. Neural Net Nostalgia
+13:10 04. City's Soft Hum
+17:25 05. Ephemeral Screen Glow
+21:50 06. Circuit Bloom
+26:15 07. Midnight Glow Algorithm
+30:30 08. Invisible Network Heart
+34:55 09. Flic
+	일부 공개
+	없음
+	2026. 4. 27.
+	업로드 날짜
+	2
+	1
+	100.0%
+	좋아요 2개
+	1:14:35
+	[MELODIST_SEOUL] 나른한 오후, 마음을 녹이는 포근한 파스텔 드림 Lofi | 연속 재생 (Full Album)
+	오늘 하루도 고생 많으셨습니다. 복잡한 도시의 소음에서 잠시 벗어나, 따뜻하고 포근한 파스텔 톤의 꿈속을 걷는 듯한 시간을 선물해 드립니다. ☁️✨
+
+멜로디스트 서울(MELODIST SEOUL)의  [PASTEL DREAM]은 여러분의 지친 일상을 부드럽게 감싸주는 18개의 감성 트랙으로 구성되어 있습니다. 공부할 때, 책 읽을 때, 혹은 깊은 잠에 들기 전 이 선율과 함께해 보세요.
+
+🎵 Tracklist (타임스탬프)
+00:00 - Circuit Bloom 04:35 - Holographic Echo 08:36 - Broken Signal Lullaby 12:55 - Invisible Network Heart 17:43 - Flicker & Fade 21:55 - Electric Dusk Mirror 27:28 - Neon Rain Echoes 32:40 - Dreaming in Data 34:15 - Neural Net Nostalgia 38:27 - Data Stream D
+	공개
+	없음
+	2026. 4. 27.
+	게시됨
+	6
+	1
+	100.0%
+	좋아요 2개
+	2:25
+	[퇴근후 한잔] 오늘 하루도 고생한 당신에게, 김대리의 무한 텐션 충전곡 🍺 | Melodist Seoul  by sohwi
+	지친 하루 끝, 넥타이를 풀어놓고 마시는 시원한 맥주 한 잔. 🍻
+김대리가 전하는 무한 텐션으로 내일의 에너지를 충전하세요!
+
+Melodist Seoul은 서울의 다양한 감성을 소리로 담아냅니다.
+구독과 좋아요는 김대리를 춤추게 합니다! 🕺✨
+
+🎧 Listen more:
+- Melodist Seoul Crystal Vibe (Coming Soon)
+- Melodist Seoul Pastel Dream (Coming Soon)
+
+#MelodistSeoul #김대리텐션 #직장인힐링 #퇴근후맥주 #SeoulVibe #시티팝 #StressRelief
+	공개
+	없음
+	2026. 4. 27.
+	게시됨
+	22
+	1
+	100.0%
+	좋아요 3개
+	1:43:51
+	[Playlist] 비오는 창가에서 즐기는 고품즈 재즈 | Rainy Night Jazz for Relaxation & Sleep
+	창밖으로 흐르는 빗물과 함께 깊어가는 밤, 
+비트시티(Beat City)가 선사하는 [Rainy Noir] 플레이리스트입니다. 
+
+자극적인 소리는 덜어내고, 오직 비오는 밤의 고요함과 
+나직한 재즈 선율만을 담았습니다. 
+차분하게 머물다 가세요.
+
+[Tracklist]
+00:00 LONDON COFFEE RAIN
+02:50 Spring Rain Awakening
+06:22 Rain & Highway (Full Mix)
+09:27 Misty Morning Meadow Rain
+12:59 Misty Morning by the Thames
+17:09 Morning Mist
+22:23 Morning Mist Over the Lake
+27:41 Rain on a Tin Roof
+31:32 Rain on the Skylight
+35:17 Rainy Afternoon
+40:06 Rainy Window Bookstore
+42:45 Rainy Window Coffee
+45:59 Rainy after
+	공개
+	없음
+	2026. 4. 19.
+	게시됨
+	17
+	1
+	100.0%
+	좋아요 3개
+	55:29
+	🌙 비오는날 기차타고 여행가는 기분, 카페 감성 플레이리스트 | 집중력 UP, 마음이 차분해지는 음악, 공부할 때, 일할 때, 잠들기 전
+	☕ 세계 각지의 카페에서 흘러나올 것 같은 감성 BGM 모음입니다.
+공부할 때, 업무에 집중할 때, 혹은 잠들기 전 편안하게 흘려두기 좋은 플레이리스트예요.
+
+─────────────────────────────
+🎵 Tracklist
+─────────────────────────────
+00:00 Berlin Midnight
+00:00 Matcha Twilight Prayer
+00:00 Milan Espresso
+00:00 Reykjavik Night
+00:00 Sahara Breeze
+00:00 San Francisco Mist
+00:00 Scandinavian Birch
+00:00 Seoul Riverfront
+00:00 Shinjuku Matcha Mist
+
+─────────────────────────────
+🌿 이런 분들께 추천해요
+─────────────────────────────
+✔ 공부나 업무에 집중하고 싶을 때
+✔ 카페 감성이 그리울 때
+✔ 잠들기 전 마음을 차
+	공개
+	없음
+	2026. 4. 15.
+	게시됨
+	68
+	2
+	100.0%
+	좋아요 6개
+
+</current_dom>

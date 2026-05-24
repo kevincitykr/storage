@@ -1,0 +1,234 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 대시보드
+[0] (20,35)<ytcp-icon-button aria-label='메뉴 접기' class='ytcpAppHeaderCollapseExpandIcon' role='button' />
+	[1] (20,35)<yt-icon  />
+		[2] (20,35)<span  />
+			[3] (20,35)<div  />
+[4] (65,40)<a class='style-scope ytcp-home-button' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='home-button' title='YouTube 스튜디오 대시보드' />
+	[5] (65,33)<img  />
+[6] (500,35)<input class='style-scope ytcp-omnisearch' id='query-input' placeholder='채널에서 검색하기' />
+[7] (856,35)<ytcp-icon-button aria-label='도움말' class='ytcpAppHeaderHelpIcon' role='button' />
+	[8] (856,35)<yt-icon  />
+		[9] (856,35)<span  />
+			[10] (856,35)<div  />
+[11] (877,35)<ytcp-icon-button aria-label='Ask Studio' role='button' />
+	[12] (877,35)<yt-icon  />
+		[13] (877,35)<span  />
+			[14] (877,35)<div  />
+[15] (898,35)<ytcp-icon-button aria-label='알림' role='button' />
+	[16] (898,35)<yt-icon  />
+		[17] (898,35)<span  />
+			[18] (898,35)<div  />
+[19] (937,35)<button aria-label='만들기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--outline ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>만들기 />
+	만들기
+	[20] (937,35)<yt-touch-feedback-shape  />
+		[21] (937,35)<div  />
+[22] (979,35)<button aria-label='Account' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[23] (979,35)<yt-img-shadow  />
+		[24] (979,35)<img  />
+내 채널
+Melodist Seoul
+[25] (66,325)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='menu-item-0' role='menuitem' />
+	[26] (66,325)<tp-yt-paper-icon-item class='dashboard iron-selected style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-0' role='none' />
+		[27] (19,325)<div  />
+			[28] (19,325)<yt-icon  />
+				[29] (19,325)<span  />
+					[30] (19,325)<div  />
+		[31] (52,325)<div >대시보드 />
+[32] (66,378)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/videos/upload' id='menu-item-1' role='menuitem' />
+	[33] (66,378)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-1' role='none' />
+		[34] (19,378)<div  />
+			[35] (19,378)<yt-icon  />
+				[36] (19,378)<span  />
+					[37] (19,378)<div  />
+		[38] (48,378)<div >콘텐츠 />
+[39] (66,430)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/analytics/tab-overview/period-default' id='menu-item-2' role='menuitem' />
+	[40] (66,430)<tp-yt-paper-icon-item class='analytics style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-2' role='none' />
+		[41] (19,430)<div  />
+			[42] (19,430)<yt-icon  />
+				[43] (19,430)<span  />
+					[44] (19,430)<div  />
+		[45] (45,430)<div >분석 />
+[46] (66,483)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/comments/inbox' id='menu-item-3' role='menuitem' />
+	[47] (66,483)<tp-yt-paper-icon-item class='comments style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-3' role='none' />
+		[48] (19,483)<div  />
+			[49] (19,483)<yt-icon  />
+				[50] (19,483)<span  />
+					[51] (19,483)<div  />
+		[52] (52,483)<div >커뮤니티 />
+[53] (66,536)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/translations' id='menu-item-4' role='menuitem' />
+	[54] (66,536)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-4' role='none' />
+		[55] (19,536)<div  />
+			[56] (19,536)<yt-icon  />
+				[57] (19,536)<span  />
+					[58] (19,536)<div  />
+		[59] (45,536)<div >자막 />
+[60] (66,588)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/copyright' id='menu-item-5' role='menuitem' />
+	[61] (66,588)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-5' role='none' />
+		[62] (19,588)<div  />
+			[63] (19,588)<yt-icon  />
+				[64] (19,588)<span  />
+					[65] (19,588)<div  />
+		[66] (56,588)<div >콘텐츠 감지 />
+[67] (66,641)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/monetization/overview' id='menu-item-6' role='menuitem' />
+	[68] (66,641)<tp-yt-paper-icon-item class='attach-money-icon style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-6' role='none' />
+		[69] (19,641)<div  />
+			[70] (19,641)<yt-icon  />
+				[71] (19,641)<span  />
+					[72] (19,641)<div  />
+		[73] (53,641)<div >수익 창출 />
+[74] (66,694)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/editing/profile' id='menu-item-7' role='menuitem' />
+	[75] (66,694)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-7' role='none' />
+		[76] (19,694)<div  />
+			[77] (19,694)<yt-icon  />
+				[78] (19,694)<span  />
+					[79] (19,694)<div  />
+		[80] (52,694)<div >맞춤설정 />
+[81] (66,746)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/music' id='menu-item-8' role='menuitem' />
+	[82] (66,746)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-8' role='none' />
+		[83] (19,746)<div  />
+			[84] (19,746)<yt-icon  />
+				[85] (19,746)<span  />
+					[86] (19,746)<div  />
+		[87] (60,746)<div >오디오 보관함 />
+[88] (66,912)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='settings-item' role='button' />
+	[89] (19,912)<div  />
+		[90] (19,912)<yt-icon  />
+			[91] (19,912)<span  />
+				[92] (19,912)<div  />
+	[93] (45,912)<div >설정 />
+[94] (66,965)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='send-feedback-item' role='button' />
+	[95] (19,965)<div  />
+		[96] (19,965)<yt-icon  />
+			[97] (19,965)<span  />
+				[98] (19,965)<div  />
+	[99] (56,965)<div >의견 보내기 />
+[100] (567,535)<main class='style-scope ytcp-entity-page' id='main' scrollable='true' />
+	채널 대시보드
+	[101] (726,109)<a class='item style-scope ytcp-quick-actions' />
+		[102] (726,109)<ytcp-icon-button aria-label='동영상 업로드' class='style-scope ytcp-quick-actions' id='upload-icon' role='button' />
+			[103] (726,109)<yt-icon  />
+				[104] (726,109)<span  />
+					[105] (726,109)<div  />
+	[106] (751,109)<a class='item style-scope ytcp-quick-actions' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/livestreaming' />
+		[107] (751,109)<ytcp-icon-button aria-label='라이브 스트리밍 시작' class='style-scope ytcp-quick-actions' id='live-icon' role='button' />
+			[108] (751,109)<yt-icon  />
+				[109] (751,109)<span  />
+					[110] (751,109)<div  />
+	[111] (776,109)<a class='item style-scope ytcp-quick-actions' href='https://www.youtube.com/channel/UC_V52QvV-3O-HIjON4Ck0jA/posts?show_create_dialog=1' />
+		[112] (776,109)<ytcp-icon-button aria-label='게시물 작성' class='style-scope ytcp-quick-actions' id='live-icon' role='button' />
+			[113] (776,109)<yt-icon  />
+				[114] (776,109)<span  />
+					[115] (776,109)<div  />
+	최신 동영상 실적
+	[MELODIST_SEOUL] 나른한 오후, 마음을 녹이는 포근한 파스텔 드림 Lofi | 연속 재생 (Full Album)
+	5
+	1
+	2
+	[116] (334,469)<ytcp-icon-button aria-label='접기' class='style-scope ytcd-entity-snapshot-item' id='collapsable-button' role='button' />
+		[117] (334,469)<yt-icon  />
+			[118] (334,469)<span  />
+				[119] (334,469)<div  />
+	처음 1일 21시간
+	조회수 순위
+	[120] (325,576)<div class='style-scope yta-entity-snapshot' id='table-ranking' role='gridcell' />
+		[121] (318,576)<span >8/10 />
+		[122] (332,576)<yt-icon  />
+			[123] (333,574)<span  />
+				[124] (333,574)<div  />
+	[125] (248,611)<div class='table-row style-scope yta-entity-snapshot' role='button'>조회수 />
+		조회수
+		5
+	[126] (248,646)<div class='table-row style-scope yta-entity-snapshot' role='button'>노출 클릭률 />
+		노출 클릭률
+		3.4%
+	[127] (248,681)<div class='table-row style-scope yta-entity-snapshot' role='button'>평균 시청 지속 시간 />
+		평균 시청 지속 시간
+		13:51
+	[128] (216,736)<button aria-label='Catch me up on this video' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>Catch me up on this video />
+		Catch me up on this video
+		[129] (216,736)<yt-touch-feedback-shape  />
+			[130] (216,736)<div  />
+	[131] (290,739)<a class='remove-default-style link-button style-scope ytcd-entity-snapshot-item' href='/video/ajWXcsZqDmU/analytics/tab-overview/period-default' />
+		[132] (290,736)<ytcp-button class='style-scope ytcd-entity-snapshot-item' id='go-to-video-analytics-button' />
+			[133] (290,736)<ytcp-button-shape  />
+				[134] (290,736)<button aria-label='동영상 분석으로 이동' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-button ytcpButtonShapeImpl--enable-backdrop-filter-experiment' />
+					[135] (290,736)<yt-touch-feedback-shape  />
+						[136] (290,736)<div  />
+	[137] (317,739)<a class='remove-default-style link-button style-scope ytcd-entity-snapshot-item' href='/video/ajWXcsZqDmU/comments/inbox' />
+		[138] (317,736)<ytcp-button class='style-scope ytcd-entity-snapshot-item' id='view-comments-button' />
+			[139] (317,736)<ytcp-button-shape  />
+				[140] (317,736)<button aria-label='댓글 보기(1)' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-button ytcpButtonShapeImpl--enable-backdrop-filter-experiment' />
+					[141] (317,736)<yt-touch-feedback-shape  />
+						[142] (317,736)<div  />
+	게시된 동영상
+	[143] (173,898)<a aria-label='[퇴근후 한잔] 오늘 하루도 고생한 당신에게, 김대리의 무한 텐션 충전곡 🍺 | Melodist Seoul  by sohwi' class='style-scope ytcd-video-list-cell-video-light' href='/video/7PeRfu5dgSo/edit' id='thumbnail-anchor' />
+		[144] (173,898)<div  />
+			[145] (173,898)<ytcp-thumbnail  />
+				[146] (173,898)<div  />
+					[147] (173,898)<ytcp-img-with-fallback  />
+						[148] (173,898)<div  />
+							[149] (173,898)<img  />
+					[150] (184,901)<div  />
+	[퇴근후 한잔] 오늘 하루도 고생한 당신에게, 김대리의 무한 텐션 충전곡 🍺 | Melodist Seoul  by sohwi
+	22
+	1
+	3
+	[151] (173,960)<a aria-label='[Playlist] 비오는 창가에서 즐기는 고품즈 재즈 | Rainy Night Jazz for Relaxation & Sleep' class='style-scope ytcd-video-list-cell-video-light' href='/video/IaZNquj5qY0/edit' id='thumbnail-anchor' />
+		[152] (173,960)<div  />
+			[153] (173,960)<ytcp-thumbnail  />
+				[154] (173,960)<div  />
+					[155] (173,960)<ytcp-img-with-fallback  />
+						[156] (173,960)<div  />
+							[157] (173,960)<img  />
+					[158] (184,962)<div  />
+	[Playlist] 비오는 창가에서 즐기는 고품즈 재즈 | Rainy Night Jazz for Relaxation & Sleep
+	17
+	1
+	3
+	채널 분석
+	현재 구독자 수
+	33
+	지난 28일 동안
+	13 증가
+	요약
+	지난 28일
+	조회수
+	2.1천
+	—
+	시청 시간(단위: 시간)
+	133.7
+	—
+	인기 콘텐츠
+	지난 48시간
+	· 조회수
+	[159] (460,572)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/7PeRfu5dgSo/analytics/tab-overview/period-default'>[퇴근후 한잔] 오늘 하루도 고생한 당신에게, 김대리의 무한 텐션 충전곡 🍺 | Melodist Seoul  by sohwi />
+	[160] (552,572)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/7PeRfu5dgSo/analytics/tab-overview/period-default'>16 />
+	[161] (460,603)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/ajWXcsZqDmU/analytics/tab-overview/period-default'>[MELODIST_SEOUL] 나른한 오후, 마음을 녹이는 포근한 파스텔 드림 Lofi | 연속 재생 (Full Album) />
+	[162] (552,603)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/ajWXcsZqDmU/analytics/tab-overview/period-default'>6 />
+	[163] (460,633)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/cakzqLs1Q-4/analytics/tab-overview/period-default'>[Melodist Seoul] 오전 10시, 커피 향과 함께 스며드는 리듬 ☕ />
+	[164] (552,633)<a class='table-cell remove-default-style style-scope ytcd-channel-facts-item' href='/video/cakzqLs1Q-4/analytics/tab-overview/period-default'>3 />
+	[165] (466,690)<a class='remove-default-style analytics-button style-scope ytcd-channel-facts-item' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/analytics/tab-overview/period-default' />
+		[166] (414,690)<ytcp-button class='style-scope ytcd-channel-facts-item' />
+			[167] (414,690)<ytcp-button-shape  />
+				[168] (414,690)<button aria-label='채널 분석으로 이동' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--tonal ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>채널 분석으로 이동 />
+					채널 분석으로 이동
+					[169] (414,690)<yt-touch-feedback-shape  />
+						[170] (414,690)<div  />
+	댓글
+	@Onhwa_Mindnote
+	•
+	1주 전
+	goooood~~
+	@Life_Reversal-g1u
+	•
+	1주 전
+	😊😊
+	@김소휘-q7b
+	•
+	1주 전
+
+</current_dom>

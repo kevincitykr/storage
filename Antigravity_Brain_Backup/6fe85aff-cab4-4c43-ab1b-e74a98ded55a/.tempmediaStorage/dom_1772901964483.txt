@@ -1,0 +1,184 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (18,33)<button aria-label='기본 메뉴' class='_ngcontent-wun-2 mdc-icon-button' />
+	[1] (18,33)<div  />
+		[2] (18,33)<material-icon  />
+			[3] (18,33)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>menu />
+[4] (91,33)<a aria-label='Google 애드센스' class='header-logo _ngcontent-wun-0' href='/adsense/u/1/pub-4467016835612686/home' role='link' />
+사이트
+[5] (935,33)<button aria-label='도움말' class='_ngcontent-wun-2 mdc-icon-button' />
+	[6] (935,33)<div  />
+		[7] (935,33)<material-icon  />
+			[8] (935,33)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>help />
+[9] (958,33)<notification-bell aria-label='알림' class='acx-notification-bell mixin _nghost-wun-16 _ngcontent-wun-15' role='button' />
+	[10] (958,33)<div  />
+		1
+		[11] (958,33)<material-ripple  />
+[12] (981,33)<div aria-label='Google 계정' class='trigger _ngcontent-wun-5' role='button' />
+	[13] (981,33)<div  />
+		[14] (981,33)<img  />
+home
+picture_in_picture
+drive_site
+not_interested
+assessment
+trending_up
+policy
+settings
+feedback
+[15] (74,106)<a class='title-container _ngcontent-wun-19 indent-level-1' href='/adsense/u/1/pub-4467016835612686/home' role='menuitem' title='홈' />
+	[16] (74,106)<as-sidebar-title  />
+		[17] (5,106)<div  />
+		[18] (17,106)<span  />
+			[19] (17,107)<material-icon  />
+				[20] (17,107)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>home />
+		[21] (84,106)<div >홈 />
+[22] (74,157)<a class='title-container _ngcontent-wun-19 indent-level-1' href='/adsense/u/1/pub-4467016835612686/myads/sites' role='menuitem' title='광고' />
+	[23] (74,157)<as-sidebar-title  />
+		[24] (5,157)<div  />
+		[25] (17,157)<span  />
+			[26] (17,158)<material-icon  />
+				[27] (17,158)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>picture_in_picture />
+		[28] (84,157)<div >광고 />
+[29] (74,207)<a class='title-container _ngcontent-wun-19 indent-level-1' href='/adsense/u/1/pub-4467016835612686/sites/list' role='menuitem' title='사이트' />
+	[30] (74,207)<as-sidebar-title  />
+		[31] (5,207)<div  />
+		[32] (17,207)<span  />
+			[33] (17,209)<material-icon  />
+				[34] (17,209)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>drive_site />
+		[35] (84,207)<div >사이트 />
+[36] (74,275)<a class='title-container _ngcontent-wun-19 indent-level-1' href='/adsense/u/1/pub-4467016835612686/privacymessaging' role='menuitem' title='개인 정보 보호 및 메시지' />
+	[37] (74,275)<as-sidebar-title  />
+		[38] (5,275)<div  />
+		[39] (17,275)<span  />
+		[40] (84,275)<div >개인 정보 보호 및 메시지 />
+[41] (74,326)<a class='title-container _ngcontent-wun-19 indent-level-1' role='menuitem' title='브랜드 안전성' />
+	[42] (74,326)<as-sidebar-title  />
+		[43] (5,326)<div  />
+			[44] (7,326)<material-icon  />
+				[45] (7,326)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>arrow_right />
+		[46] (17,326)<span  />
+			[47] (17,327)<material-icon  />
+				[48] (17,327)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>not_interested />
+		[49] (84,326)<div >브랜드 안전성 />
+[50] (74,377)<a class='title-container _ngcontent-wun-19 indent-level-1' href='/adsense/u/1/pub-4467016835612686/reporting?rt=d' role='menuitem' title='보고서' />
+	[51] (74,377)<as-sidebar-title  />
+		[52] (5,377)<div  />
+		[53] (17,377)<span  />
+			[54] (17,378)<material-icon  />
+				[55] (17,378)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>assessment />
+		[56] (84,377)<div >보고서 />
+[57] (74,428)<a class='title-container _ngcontent-wun-19 indent-level-1' role='menuitem' title='최적화' />
+	arrow_right
+	trending_up
+	최적화
+[58] (74,478)<a class='title-container _ngcontent-wun-19 indent-level-1' href='/adsense/u/1/pub-4467016835612686/policy-center' role='menuitem' title='정책 센터' />
+	[59] (74,478)<as-sidebar-title  />
+		[60] (5,478)<div  />
+		[61] (17,478)<span  />
+			[62] (17,480)<material-icon  />
+				[63] (17,480)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>policy />
+		[64] (84,478)<div >정책 센터 />
+[65] (74,546)<a class='title-container _ngcontent-wun-19 indent-level-1' role='menuitem' title='지급' />
+	[66] (74,546)<as-sidebar-title  />
+		[67] (5,546)<div  />
+			[68] (7,546)<material-icon  />
+				[69] (7,546)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>arrow_right />
+		[70] (17,546)<span  />
+		[71] (84,546)<div >지급 />
+[72] (74,597)<a class='title-container _ngcontent-wun-19 indent-level-1' role='menuitem' title='계정' />
+	[73] (74,597)<as-sidebar-title  />
+		[74] (5,597)<div  />
+			[75] (7,597)<material-icon  />
+				[76] (7,597)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>arrow_right />
+		[77] (17,597)<span  />
+			[78] (17,598)<material-icon  />
+				[79] (17,598)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>settings />
+		[80] (84,597)<div >계정 />
+[81] (74,648)<a class='title-container _ngcontent-wun-19 indent-level-1' href='about:invalid#Safe' role='menuitem' title='의견' />
+	[82] (74,648)<as-sidebar-title  />
+		[83] (5,648)<div  />
+		[84] (17,648)<span  />
+			[85] (17,649)<material-icon  />
+				[86] (17,649)<i class='material-icon-i material-icons-extended _ngcontent-wun-4' role='img'>feedback />
+		[87] (84,648)<div >의견 />
+[88] (69,975)<a class='footer-item material-link material-link-inherit _ngcontent-wun-0' href='https://www.google.com/intl/ko/policies/privacy'>개인정보처리방침 />
+[89] (107,975)<a class='footer-item material-link material-link-inherit _ngcontent-wun-0' href='https://adsense.google.com/adsense/terms?rc=KR&ce=19'>약관 />
+warning_amber
+주의
+우크라이나에서 현재 진행 중인 전쟁으로 인해, 이 전쟁을 부당하게 이용하거나 부정하거나 용인하는 콘텐츠의 수익 창출이 일시중지됩니다.
+[90] (948,102)<material-button class='action null _nghost-wun-26 _ngcontent-wun-24' role='button'>닫기 />
+	닫기
+	[91] (948,102)<material-ripple  />
+내 사이트를 관리합니다.
+애드센스를 통해 수익을 창출하려는 사이트를 추가하세요
+[92] (423,233)<a aria-label='사이트 수익 창출에 대해 자세히 알아보기, 새 탭에서 열기' class='help-link _ngcontent-wkx-5 hover-decoration' href='https://support.google.com/adsense/answer/9130898?hl=ko'>사이트 수익 창출에 대해 자세히 알아보기 />
+[93] (214,333)<button aria-label='새 사이트 추가' class='mdc-button mdc-button--unelevated mdc-button--icon-text new-site _ngcontent-wkx-3'>새 사이트 />
+	add
+	새 사이트
+[94] (580,408)<label class='mdc-text-field mdc-text-field--upgraded _ngcontent-wkx-9 mdc-text-field--filled mdc-text-field--no-label mdc-text-field--with-leading-icon'>검색 />
+	search
+	검색
+	[95] (578,408)<input aria-label='검색' class='mdc-text-field__input _ngcontent-wkx-9' />
+	[96] (960,408)<button aria-label='필터 패널 열기' class='mdc-icon-button filter-toggle _ngcontent-wkx-6' />
+		[97] (960,408)<i >filter_list />
+필터:
+[98] (237,472)<material-chip class='filter themeable _nghost-wkx-13 _ngcontent-wkx-6' role='gridcell' />
+	[99] (237,472)<span >준비됨 />
+[100] (279,472)<material-chip class='filter themeable _nghost-wkx-13 _ngcontent-wkx-6' role='gridcell' />
+	[101] (279,472)<span >준비 중 />
+[102] (326,472)<material-chip class='filter themeable _nghost-wkx-13 _ngcontent-wkx-6' role='gridcell' />
+	[103] (326,472)<span >검토 필요 />
+[104] (376,472)<material-chip class='filter themeable _nghost-wkx-13 _ngcontent-wkx-6' role='gridcell' />
+	[105] (376,472)<span >주의 필요 />
+[106] (268,532)<div aria-label='사이트 URL' class='particle-table-header-cell site-url-column-header particle-sortable default-sort-asc resizable' role='columnheader' />
+	[107] (268,532)<tooltip-header-cell class='_nghost-wkx-23 particle-header-title' role='presentation' />
+		[108] (212,532)<span >사이트 URL />
+[109] (410,532)<div class='particle-table-header-cell site-approval-status-column-header sort-asc particle-sortable default-sort-asc resizable' role='columnheader' />
+	[110] (410,532)<tooltip-header-cell class='_nghost-wkx-23 particle-header-title' role='presentation' />
+		[111] (374,532)<span >승인 상태 />
+		[112] (395,532)<help-tooltip-icon aria-label='승인 상태에 대해 자세히 알아보세요.' class='_ngcontent-wkx-23 _nghost-wkx-24' role='button' />
+			[113] (395,532)<material-icon  />
+				[114] (395,532)<i class='material-icon-i material-icons-extended _ngcontent-wkx-2' role='img'>help_outline />
+[115] (552,532)<div aria-label='상태 세부정보' class='particle-table-header-cell particle-sortable default-sort-asc resizable' role='columnheader' />
+	[116] (552,532)<span class='particle-header-title particle-sortable' role='presentation'>상태 세부정보 />
+[117] (693,532)<div aria-label='Ads.txt 상태      ' class='particle-table-header-cell adstxt-status-column-header particle-sortable default-sort-asc resizable' role='columnheader' />
+	[118] (693,532)<tooltip-header-cell class='_nghost-wkx-23 particle-header-title' role='presentation' />
+		[119] (663,532)<span >Ads.txt 상태 />
+		[120] (689,532)<help-tooltip-icon aria-label='Ads.txt 상태에 대해 자세히 알아보세요.' class='_ngcontent-wkx-23 _nghost-wkx-24' role='button' />
+			[121] (689,532)<material-icon  />
+				[122] (689,532)<i class='material-icon-i material-icons-extended _ngcontent-wkx-2' role='img'>help_outline />
+[123] (836,532)<div aria-label='최종 업데이트      ' class='particle-table-header-cell last-updated-column-header particle-sortable default-sort-asc resizable' role='columnheader' />
+	[124] (836,532)<tooltip-header-cell class='_nghost-wkx-23 particle-header-title' role='presentation' />
+		[125] (782,532)<span >최종 업데이트 />
+		[126] (810,532)<help-tooltip-icon aria-label='최종 업데이트에 대해 자세히 알아보세요.' class='_ngcontent-wkx-23 _nghost-wkx-24' role='button' />
+			[127] (810,532)<material-icon  />
+				[128] (810,532)<i class='material-icon-i material-icons-extended _ngcontent-wkx-2' role='img'>help_outline />
+작업
+[129] (238,575)<a class='_ngcontent-wkx-25' href='/adsense/u/1/pub-4467016835612686/sites/detail/url=no-loss-info.blogspot.com' />
+[130] (940,586)<button aria-label='사이트 삭제' class='_ngcontent-wkx-29 mdc-icon-button' />
+	[131] (940,586)<div  />
+		[132] (940,586)<material-icon  />
+			[133] (940,586)<i class='material-icon-i material-icons-extended _ngcontent-wkx-2' role='img' />
+다음 페이지로 이동:
+[134] (686,644)<label class='input-container _ngcontent-wkx-16' />
+	[135] (686,644)<input aria-label='이동할 페이지 번호를 입력하세요.' class='input input-area _ngcontent-wkx-16' id='aE4D40016-E594-4D46-A81A-087856ADB289--0' role='combobox' />
+/1
+표시할 행 수:
+[136] (784,644)<div aria-label='표시할 행 수: 50 선택됨' class='button _ngcontent-wkx-22 border' id='a534AB549-5C92-4F1F-984B-5D906F76223F--0' role='button' />
+	[137] (778,644)<span >50 />
+	[138] (788,644)<material-icon  />
+		[139] (788,644)<i class='material-icon-i material-icons-extended _ngcontent-wkx-2' role='img'>arrow_drop_down />
+총 1개 중 1~1개
+[140] (887,644)<material-button aria-label='첫 페이지로 이동' class='first _nghost-wkx-20 _ngcontent-wkx-11 is-disabled' role='button' />
+	first_page
+[141] (912,644)<material-button aria-label='이전 페이지로 이동' class='prev _nghost-wkx-20 _ngcontent-wkx-11 is-disabled' role='button' />
+	chevron_left
+[142] (937,644)<material-button aria-label='다음 페이지로 이동' class='next _nghost-wkx-20 _ngcontent-wkx-11 is-disabled' role='button' />
+	chevron_right
+[143] (962,644)<material-button aria-label='마지막 페이지로 이동' class='last _nghost-wkx-20 _ngcontent-wkx-11 is-disabled' role='button' />
+	last_page
+
+</current_dom>

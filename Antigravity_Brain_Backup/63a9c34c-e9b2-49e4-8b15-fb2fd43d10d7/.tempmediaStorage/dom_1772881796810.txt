@@ -1,0 +1,100 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (24,153)<a href='https://domemedb.domeggook.com/index/' id='domeme' title='도매매'>도매매 />
+	[1] (6,152)<img  />
+|
+[2] (93,153)<a href='http://naggama.com/' id='naggama' title='나까마'>나까마 />
+	[3] (75,152)<img  />
+|
+[4] (168,153)<a href='http://campus.domeggook.com/' title='교육센터'>교육센터 />
+	[5] (145,152)<img  />
+|
+[6] (243,153)<a href='https://eggdome.ggook.com/' title='에그돔'>에그돔 />
+	[7] (225,152)<img  />
+[8] (601,153)<a href='/main/member/mem_formLogin.php?back=L21haW4vaW5kZXgucGhw' title='로그인'>로그인 />
+[9] (661,153)<a href='/main/member/mem_formNormal.php?back=L21haW4vaW5kZXgucGhw' title='회원가입'>회원가입 />
+[10] (736,153)<a href='/main/myPage/my_pageMain.php' title='마이페이지'>마이페이지 />
+	[11] (767,156)<img  />
+[12] (820,153)<a href='/main/myBuy/order/my_orderCart.php' title='장바구니'>장바구니 />
+	[13] (795,152)<img  />
+[14] (912,153)<a href='/sc/' title='상품공급사센터'>상품공급사센터 />
+[15] (998,153)<a href='/main/cs/cs_main.php' title='고객센터'>고객센터 />
+[16] (83,287)<a href='/main/index.php' />
+	[17] (83,258)<img  />
+[18] (338,267)<div  />
+	[19] (338,267)<div  />
+		[20] (332,259)<span >상품명 />
+		[21] (378,263)<img  />
+[22] (517,266)<input class='kwd' id='searchWordForm' />
+[23] (661,258)<img alt='꾹AI:렌즈' id='lensBtn' title='꾹AI:렌즈' />
+[24] (713,258)<input id='searchWordSubmit' />
+[25] (523,316)<a href='http://domeggook.com/main/mySell/adv/my_psKeywordReg.php'>인기검색어 />
+[26] (642,316)<div  />
+	[27] (642,316)<div  />
+		[28] (642,317)<div  />
+			[29] (642,317)<div  />
+				[30] (578,316)<div >1 />
+				[31] (608,316)<div  />
+					[32] (608,316)<a href='/main/item/itemList.php?sw=%B0%A1%B9%E6&sf=ttl'>가방 />
+				[33] (718,316)<div  />
+					[34] (690,318)<div  />
+						[35] (706,318)<img  />
+						[36] (713,318)<span >1 />
+			2
+			키링
+			1
+			3
+			케이스
+			1
+			4
+			양말
+			1
+			5
+			모자
+			2
+			6
+			겨울
+			3
+			7
+			파우치
+			4
+			8
+			크리스마스
+			6
+			9
+			장갑
+			2
+			10
+			거치대
+			2
+[37] (838,258)<a href='https://domemedb.domeggook.com/index/static/partnerShip.php'>서비스 한눈에 보기 />
+[38] (73,374)<div  />
+	[39] (29,375)<img  />
+	[40] (80,374)<span class='fontSpan'>카테고리 />
+[41] (192,374)<a href='https://1688.domeggook.com/'>1688상품관 />
+[42] (271,374)<a href='/main/item/itemEventBusinessMall.php'>사업자전용 />
+[43] (343,374)<a href='/main/item/itemPackDelivery.php'>묶음배송 />
+[44] (401,374)<a href='/main/item/itemLowestPrice.php'>최저가 />
+[45] (453,374)<a href='/main/item/itemPopular.php'>베스트 />
+[46] (503,374)<a href='/main/item/itemMdPrivate.php'>MD관 />
+[47] (553,374)<a href='/main/item/itemEvent.php?no=866'>땡처리 />
+[48] (605,374)<a href='/main/item/itemEventList.php'>기획전 />
+[49] (657,374)<a href='/main/item/itemSalesPromotion.php'>판촉관 />
+[50] (727,374)<a href='https://domemedb.domeggook.com/index/static/domeggookEvent.php'>이벤트&제휴 />
+[51] (806,374)<a href='/main/item/itemRecomm.php'>추천 />
+	[52] (793,374)<font >꾹AI: />
+[53] (801,990)<button id='lMainCenterBtnPrev' title='이전' />
+01
+/
+10
+[54] (905,990)<button id='lMainCenterBtnNext' title='다음' />
+[55] (947,989)<button id='lMainCenterBtnPause' title='일시정지' />
+	[56] (947,988)<img  />
+[57] (988,989)<button id='lMainCenterBtnEntire' title='전체보기' />
+[58] (875,928)<div  />
+	[59] (797,928)<img  />
+	[60] (894,928)<span >꾹AI:톡톡24H챗봇상담 />
+
+</current_dom>

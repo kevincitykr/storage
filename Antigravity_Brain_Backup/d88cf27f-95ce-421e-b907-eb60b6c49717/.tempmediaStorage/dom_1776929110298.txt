@@ -1,0 +1,146 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (843,67)<a href='#' />
+	[1] (843,55)<img  />
+[2] (123,138)<a href='https://domemedb.domeggook.com/index/' id='domeme' title='도매매'>도매매 />
+	[3] (113,138)<img  />
+|
+[4] (164,138)<a href='http://naggama.com/' id='naggama' title='나까마'>나까마 />
+	[5] (155,137)<img  />
+|
+[6] (209,138)<a href='http://campus.domeggook.com/' title='교육센터'>교육센터 />
+	[7] (196,138)<img  />
+|
+[8] (254,138)<a href='https://eggdome.ggook.com/' title='에그돔'>에그돔 />
+	[9] (244,138)<img  />
+[10] (660,138)<a href='/main/member/mem_formLogin.php?back=LzU4MDg4NzczP25vPTU4MDg4Nzcz' title='로그인'>로그인 />
+[11] (692,138)<a href='/main/member/mem_formNormal.php?back=LzU4MDg4NzczP25vPTU4MDg4Nzcz' title='회원가입'>회원가입 />
+[12] (732,138)<a href='/main/myPage/my_pageMain.php' title='마이페이지'>마이페이지 />
+	[13] (749,141)<img  />
+[14] (778,138)<a href='/main/myBuy/order/my_orderCart.php' title='장바구니'>장바구니 />
+	[15] (765,138)<img  />
+[16] (828,138)<a href='/sc/' title='상품공급사센터'>상품공급사센터 />
+[17] (875,138)<a href='/main/cs/cs_main.php' title='고객센터'>고객센터 />
+	[18] (888,141)<img  />
+[19] (161,259)<a href='/main/index.php' />
+	[20] (161,234)<img  />
+[21] (390,241)<div  />
+	[22] (390,241)<div  />
+		[23] (387,234)<span >상품명 />
+		[24] (415,238)<img  />
+[25] (502,240)<input class='kwd' id='searchWordForm' />
+[26] (591,232)<img alt='꾹AI:렌즈' id='lensBtn' title='꾹AI:렌즈' />
+[27] (624,233)<input id='searchWordSubmit' />
+[28] (508,284)<a href='http://domeggook.com/main/mySell/adv/my_psKeywordReg.php'>인기검색어 />
+[29] (525,292)<a  />
+[30] (580,284)<div  />
+	[31] (580,284)<div  />
+		[32] (580,285)<div  />
+			[33] (580,285)<div  />
+				[34] (540,284)<div >1 />
+				[35] (558,284)<div  />
+					[36] (558,284)<a href='/main/item/itemList.php?sw=%C5%B0%C4%B8&sf=ttl'>키캡 />
+				[37] (627,284)<div  />
+					[38] (609,281)<div  />
+						[39] (623,283)<img  />
+			2
+			선풍기
+			3
+			키링
+			4
+			양말
+			5
+			텀블러
+			1
+			6
+			어린이날
+			1
+			7
+			카네이션
+			2
+			8
+			모자
+			3
+			9
+			가방
+			2
+			10
+			우산
+			2
+[40] (698,234)<a href='https://domemedb.domeggook.com/index/static/partnerShip.php'>서비스 한눈에 보기 />
+[41] (155,339)<div  />
+	[42] (128,341)<img  />
+	[43] (157,339)<span >카테고리 />
+[44] (230,338)<a href='https://1688.domeggook.com/'>1688상품관 />
+[45] (279,338)<a href='/main/item/itemEventBusinessMall.php'>사업자전용 />
+[46] (322,338)<a href='/main/item/itemPackDelivery.php'>묶음배송 />
+[47] (357,338)<a href='/main/item/itemLowestPrice.php'>최저가 />
+[48] (388,338)<a href='/main/item/itemPopular.php'>베스트 />
+[49] (418,338)<a href='/main/item/itemMdPrivate.php'>MD관 />
+[50] (448,338)<a href='/main/item/itemEvent.php?no=866'>땡처리 />
+[51] (479,338)<a href='/main/item/itemEventList.php'>기획전 />
+[52] (510,338)<a href='/main/item/itemSalesPromotion.php'>판촉관 />
+[53] (553,338)<a href='https://domemedb.domeggook.com/index/static/domeggookEvent.php'>이벤트&제휴 />
+[54] (600,338)<a href='/main/item/itemRecomm.php'>추천 />
+	[55] (592,338)<font >꾹AI: />
+구매완료 상품수
+어제
+400,585
+상품
+오늘(현재)
+310,233
+상품
+[56] (940,785)<a href='https://domemedb.domeggook.com/index/static/newMemberBenefits.php' />
+	[57] (940,688)<img  />
+[58] (940,836)<a href='http://gm.domeggook.com/main/scout/scout_SellerInquiry.php' />
+	[59] (940,824)<div >다양한 입점혜택 />
+	[60] (940,850)<div >공급사입점상담 />
+[61] (940,897)<h4 >고객센터 />
+1588-0628
+[62] (128,399)<li  />
+	[63] (124,397)<a href='/main/'>도매꾹홈 />
+[64] (169,399)<li >패션잡화 />
+[65] (220,399)<li  />
+	[66] (207,397)<a href='/main/item/itemList.php?ca=01_22_00_00_00'>패션소품 />
+[67] (273,399)<li  />
+	[68] (260,397)<a href='/main/item/itemList.php?ca=01_22_15_00_00'>우산 />
+[69] (321,399)<li  />
+	[70] (313,397)<a href='/main/item/itemList.php?ca=01_22_15_02_00'>자동우산 />
+베스트
+[71] (301,847)<a class='thumbLightbox' href='#' title='디자인 특허등록 제품 카라비너 10k 이중창살 강풍 비바람 강한 자동우산' />
+	[72] (301,847)<img  />
+상품번호 : 58088773
+랭킹점수 :
+[73] (869,467)<button class='lBtn'>777,090 />
+점
+[74] (550,471)<button class='lBtn' id='lBtnShowSellerInfo' />
+	[75] (541,468)<b >디아코트레이딩 />
+	[76] (585,468)<img  />
+디자인 특허등록 제품 카라비너 10k 이중창살 강풍 비바람 강한 자동우산
+5,500
+원
+구매수량
+최소구매수량
+1
+개
+[77] (865,846)<a class='lBtn' href='#' />
+	[78] (865,847)<button >흥정하기 />
+		[79] (882,849)<img  />
+배송정보
+익일출고
+(평균출고일
+0.6
+일)
+택배 / 수량별비례 적용 / 주문시결제
+묶음배송 가능 (동일 출고지 상품만 가능)
+[80] (925,936)<div  />
+	[81] (879,936)<img  />
+	[82] (937,936)<span >꾹AI:톡톡24H챗봇상담 />
+해외구매대행
+[83] (961,227)<button  />
+국내위탁판매
+[84] (961,429)<button  />
+
+</current_dom>

@@ -1,0 +1,323 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (372,38)<a class='impression-logged' href='/np/campaigns/82?adType=DA&eventId=LiHv3GfUSyZ09Kiz' />
+	[1] (372,38)<img  />
+[2] (628,38)<a class='impression-logged' href='https://shop.coupang.com/A00067881/243826?source=brandstore_display_ads&adType=DA&eventId=jlEjx9NqlkWPeBru' />
+	[3] (628,38)<img  />
+[4] (818,97)<a href='https://wing.coupang.com/tenants/vendor-signup/signup?utm_source=button_pc_coupang_top_right_cta&utm_medium=non_paid&utm_campaign=seller_registration'>판매자 가입 />
+[5] (788,97)<a href='https://mc.coupang.com/ssr/desktop/contact/faq'>고객센터 />
+[6] (760,97)<a href='https://login.coupang.com/login/memberJoinFrm.pang' title='회원가입'>회원가입 />
+[7] (735,97)<a href='https://login.coupang.com/login/login.pang?rtnUrl=https%3A%2F%2Fwww.coupang.com%2Fnp%2Fpost%2Flogin%3Fr%3Dhttp%253A%252F%252Fwww.coupang.com%252Fnp%252Fsearch%253Fq%253Di7-14700F%252BRTX%252B4060%252BTi%252B16GB%252B%2525EC%2525A1%2525B0%2525EB%2525A6%2525BDPC%2526channe%253Duser' title='로그인'>로그인 />
+[8] (182,97)<a class='bookmark' id='wa-bookmark'>즐겨찾기 />
+[9] (213,97)<a class='dropdown_menu_flag'>입점신청 />
+	[10] (225,99)<i  />
+[11] (190,178)<div  />
+	[12] (190,163)<div  />
+		[13] (190,153)<div  />
+		[14] (190,163)<div  />
+		[15] (190,173)<div  />
+	[16] (190,202)<div >카테고리 />
+[17] (274,167)<a class='fw-mr-[25px] fw-inline-block fw-flex-none' href='https://www.coupang.com' />
+	[18] (274,167)<img  />
+[19] (364,167)<a class='select--category__current rlux:fw-text-bluegray-800' href='#' id='sbSelector_20242140'>전체 />
+[20] (562,168)<input class='headerSearchKeyword coupang-search fw-h-full fw-w-full fw-bg-white fw-indent-[10px] fw-text-[14px] fw-outline-none rlux:fw-text-bluegray-1000 rlux:placeholder:fw-text-bluegray-800 is-speech' placeholder='찾고 싶은 상품을 검색해보세요!' title='쿠팡 상품 검색' />
+[21] (731,167)<a class='speech-mic fw-mr-[12px] fw-hidden fw-flex-none fw-cursor-pointer' />
+[22] (747,167)<button class='headerSearchBtn fw-mr-[12px] fw-inline-block fw-flex-none' title='검색' />
+	[23] (747,167)<img  />
+[24] (784,167)<a href='https://mc.coupang.com/ssr/desktop/order/list' id='wa-mycoupang-link' />
+	[25] (784,159)<img  />
+	[26] (784,192)<div >마이쿠팡 />
+[27] (819,167)<a href='//cart.coupang.com/cartView.pang' id='wa-cart-link' />
+	[28] (819,159)<img  />
+	[29] (828,142)<em  />
+	[30] (819,192)<div >장바구니 />
+[31] (227,226)<a class='gnb-menu-btn gnb-menu-btn-left' />
+[32] (256,226)<a href='https://www.coupangplay.com/catalog' />
+	[33] (241,226)<img  />
+	[34] (262,226)<span >쿠팡플레이 />
+[35] (304,226)<a href='https://www.coupang.com/np/campaigns/82' />
+	[36] (292,226)<img  />
+	[37] (310,226)<span >로켓배송 />
+[38] (353,226)<a href='https://www.coupang.com/np/categories/393760' />
+	[39] (338,226)<img  />
+	[40] (358,226)<span >로켓프레시 />
+[41] (405,226)<a href='https://pages.coupang.com/p/168131' />
+	[42] (389,226)<img  />
+	[43] (407,226)<span >가정의 달 />
+	[44] (424,225)<i  />
+[45] (460,226)<a href='https://www.coupang.com/np/fbi?sourceType=home_section_fbi' />
+	[46] (443,226)<img  />
+	[47] (462,226)<span >다시 구매 />
+	[48] (478,225)<i  />
+[49] (510,226)<a href='https://login.coupang.com/corporation/member/landing-page' />
+	[50] (498,226)<img  />
+	[51] (515,226)<span >쿠팡비즈 />
+[52] (555,226)<a href='https://www.coupang.com/np/coupangglobal' />
+	[53] (543,226)<img  />
+	[54] (561,226)<span >로켓직구 />
+[55] (601,226)<a href='https://pages.coupang.com/p/121237?sourceType=gm_crm_goldbox&subSourceType=gm_crm_gwsrtcut' />
+	[56] (589,226)<img  />
+	[57] (606,226)<span >골드박스 />
+[58] (649,226)<a href='https://pages.coupang.com/p/136938' />
+	[59] (634,226)<img  />
+	[60] (655,226)<span >이달의신상 />
+[61] (700,226)<a href='https://www.coupang.com/np/omp' />
+	[62] (685,226)<img  />
+	[63] (706,226)<span >판매자특가 />
+[64] (754,226)<a href='https://www.coupang.com/np/campaigns/83' />
+	[65] (736,226)<img  />
+	[66] (760,226)<span >와우회원할인 />
+[67] (793,226)<img  />
+이벤트/쿠폰
+반품마켓
+착한상점
+기획전
+쿠팡트래블
+[68] (828,226)<a class='gnb-menu-btn gnb-menu-btn-right gnb-menu-btn-active' />
+	[69] (828,226)<span  />
+장바구니
+최근본상품
+[70] (167,264)<a href='/np/search?q=i7-14700F+RTX+4060+Ti+16GB+%EC%A1%B0%EB%A6%BDPC&channe=user'>전체 />
+'
+i7-14700F RTX 4060 Ti 16GB 조립PC
+'
+필터
+[71] (216,355)<label  />
+	[72] (181,355)<i  />
+	[73] (205,355)<span  />
+		[74] (199,355)<img  />
+만 보기
+[75] (219,428)<label  />
+	[76] (186,429)<i  />
+	[77] (206,429)<span  />
+		[78] (206,429)<img  />
+	[79] (228,428)<span >만 보기 />
+만 보기
+[80] (216,528)<label  />
+	[81] (181,529)<i  />
+	[82] (200,527)<span >무료배송 />
+카테고리
+[83] (183,613)<label  />
+	[84] (183,613)<a href='https://www.coupang.com'>전체 />
+[85] (191,644)<label  />
+	[86] (191,644)<a href='https://www.coupang.com/np/categories/178255'>가전디지털 />
+[87] (189,675)<label  />
+	[88] (189,675)<a href='https://www.coupang.com/np/coupangglobal'>로켓직구 />
+브랜드
+[89] (216,759)<label  />
+	[90] (181,759)<i  />
+	[91] (201,758)<span >리뉴올PC />
+[92] (216,785)<label  />
+	[93] (181,786)<i  />
+	[94] (200,784)<span >삼성전자 />
+상품 상태
+[95] (216,867)<label  />
+	[96] (181,868)<i  />
+	[97] (198,867)<span >새 상품 />
+[98] (216,894)<label  />
+	[99] (181,894)<i  />
+	[100] (194,893)<span >반품 />
+[101] (216,920)<label  />
+	[102] (181,921)<i  />
+	[103] (194,919)<span >중고 />
+메모리용량
+32GB 이상
+'
+i7-14700F RTX 4060 Ti 16GB 조립PC
+'
+에 대한 검색결과
+[104] (312,369)<label class='fw-group fw-relative fw-max-w-fit fw-inline-flex fw-items-center fw-justify-start fw-tap-highlight-transparent fw-select-none' />
+	[105] (312,369)<input class='fw-ui-hidden-input group-data-[readonly=true]:fw-cursor-default' />
+	배송비 포함
+[106] (373,370)<label >쿠팡 랭킹순 />
+[107] (393,369)<div  />
+[108] (422,370)<label >낮은가격순 />
+[109] (461,370)<label >높은가격순 />
+[110] (498,370)<label >판매량순 />
+[111] (529,370)<label >최신순 />
+[112] (346,726)<li  />
+	[113] (346,720)<a href='/vp/products/8866246284?itemId=25858334864&vendorItemId=92844677775&q=i7-14700F RTX 4060 Ti 16GB 조립PC&searchId=0eaaaea71287316&sourceType=search&itemsCount=60&searchRank=0&rank=0' />
+		[114] (346,569)<figure  />
+			[115] (346,569)<img  />
+		[116] (346,821)<div  />
+			[117] (346,699)<div  />
+			[118] (346,740)<div >보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터, WIN11 Home, 1TB, 32GB, 지포스 RTX 5060 Ti, i7-14700F />
+			[119] (346,796)<div  />
+				[120] (346,787)<div  />
+					[121] (306,787)<del >2,799,000원 />
+				[122] (346,809)<div  />
+					[123] (346,809)<div  />
+						[124] (297,809)<div >22
+% />
+						[125] (336,809)<div  />
+							[126] (336,808)<span >2,179,000원 />
+			[127] (346,845)<div  />
+				[128] (346,835)<div  />
+					[129] (318,839)<div  />
+						[130] (318,839)<div  />
+							[131] (310,839)<img  />
+							[132] (339,839)<img  />
+					[133] (373,839)<div  />
+						[134] (361,839)<span >내일(일) />
+						[135] (385,839)<span >도착 보장 />
+				[136] (346,859)<div  />
+					[137] (301,861)<span >무료배송 />
+			[138] (346,879)<div  />
+				[139] (317,882)<div  />
+					[140] (309,882)<div  />
+						[141] (293,882)<div  />
+						[142] (301,882)<div  />
+						[143] (309,882)<div  />
+						[144] (316,882)<div  />
+						[145] (324,882)<div  />
+					[146] (337,882)<div  />
+						[147] (337,883)<span >(
+136
+) />
+			[148] (346,908)<div  />
+				[149] (323,914)<span  />
+					[150] (296,914)<img  />
+					[151] (328,914)<span >최대 50,000원 적립 />
+			[152] (346,946)<div  />
+				[153] (305,946)<strong >단 2개 남음 />
+				[154] (344,946)<span >빨리 주문하세요! />
+			[155] (297,462)<span  />
+[156] (487,726)<li  />
+	[157] (487,720)<a class='impression-logged' href='/vp/products/8866246284?itemId=25858334864&vendorItemId=92844677775&sourceType=srp_product_ads&clickEventId=d2d83a30-45b1-11f1-afe6-4cc873dfe97b&korePlacement=15&koreSubPlacement=1&clickEventId=d2d83a30-45b1-11f1-afe6-4cc873dfe97b&korePlacement=15&koreSubPlacement=1' />
+		[158] (487,569)<figure  />
+			[159] (487,569)<img  />
+		[160] (487,840)<div  />
+			[161] (487,699)<div  />
+			[162] (487,740)<div >보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터, WIN11 Home, 1TB, 32GB, 지포스 RTX 5060 Ti, i7-14700F />
+			[163] (487,796)<div  />
+				[164] (487,787)<div  />
+					[165] (447,787)<del >2,799,000원 />
+				[166] (487,809)<div  />
+					[167] (487,809)<div  />
+						[168] (438,809)<div >22
+% />
+						[169] (477,809)<div  />
+							[170] (477,808)<span >2,179,000원 />
+			[171] (487,845)<div  />
+				[172] (487,835)<div  />
+					[173] (459,839)<div  />
+						[174] (459,839)<div  />
+							[175] (451,839)<img  />
+							[176] (480,839)<img  />
+					[177] (514,839)<div  />
+						[178] (501,839)<span >내일(일) />
+						[179] (525,839)<span >도착 보장 />
+				[180] (487,859)<div  />
+					[181] (442,861)<span >무료배송 />
+			[182] (487,879)<div  />
+				[183] (458,882)<div  />
+					[184] (449,882)<div  />
+						[185] (434,882)<div  />
+						[186] (441,882)<div  />
+						[187] (449,882)<div  />
+						[188] (457,882)<div  />
+						[189] (465,882)<div  />
+					[190] (478,882)<div  />
+						[191] (478,883)<span >(
+136
+) />
+			[192] (487,908)<div  />
+				[193] (464,914)<span  />
+					[194] (437,914)<img  />
+					[195] (468,914)<span >최대 50,000원 적립 />
+			[196] (487,946)<div  />
+				[197] (445,946)<strong >단 2개 남음 />
+				[198] (484,946)<span >빨리 주문하세요! />
+			AD
+[199] (628,726)<li  />
+	[200] (628,720)<a href='/vp/products/9474258117?itemId=28202156855&vendorItemId=95198338809&q=i7-14700F RTX 4060 Ti 16GB 조립PC&searchId=0eaaaea71287316&sourceType=search&itemsCount=60&searchRank=2&rank=2' />
+		[201] (628,569)<figure  />
+			[202] (628,569)<img  />
+		[203] (628,812)<div  />
+			[204] (628,699)<div  />
+			[205] (628,740)<div >왕가PC 게이밍 데스크탑 윈도우 포함 울트라 250KF 270K/ RTX5060Ti 5070Ti 5080 하이엔드 전문가 조립컴퓨터 본체 AI 딥러닝 배그 검은사막 아이온2 롤, 왕가PC 프라임(PRIME) P07번 />
+			[206] (628,797)<div  />
+				[207] (628,788)<div  />
+					[208] (577,788)<span >할인 />
+					[209] (602,788)<del >3,940,000원 />
+				[210] (628,811)<div  />
+					[211] (628,811)<div  />
+						[212] (579,811)<div >16
+% />
+						[213] (617,811)<div  />
+							[214] (617,810)<span >3,297,000원 />
+			[215] (628,848)<div  />
+				[216] (628,837)<div  />
+					[217] (599,842)<div  />
+						[218] (599,842)<div  />
+							[219] (591,842)<img  />
+							[220] (621,842)<img  />
+					[221] (654,842)<div  />
+						[222] (642,842)<span >내일(일) />
+						[223] (666,842)<span >도착 보장 />
+				[224] (628,861)<div  />
+					[225] (582,863)<span >무료배송 />
+			[226] (628,890)<div  />
+				[227] (604,895)<span  />
+					[228] (578,895)<img  />
+					[229] (609,895)<span >최대 50,000원 적립 />
+			[230] (628,928)<div  />
+				[231] (586,928)<strong >단 2개 남음 />
+				[232] (625,928)<span >빨리 주문하세요! />
+			[233] (578,462)<span  />
+[234] (768,726)<li  />
+	[235] (768,720)<a href='/vp/products/8866246284?itemId=25858334939&vendorItemId=92844679074&q=i7-14700F RTX 4060 Ti 16GB 조립PC&searchId=0eaaaea71287316&sourceType=search&itemsCount=60&searchRank=3&rank=3' />
+		[236] (768,569)<figure  />
+			[237] (768,569)<img  />
+		[238] (768,823)<div  />
+			[239] (768,699)<div  />
+			[240] (768,740)<div >보아스컴퓨터 게이밍PC 데스크탑 게임용 고사양 조립컴퓨터 조립PC 하이엔드PC 컴퓨터, WIN11 Home, 2TB, 32GB, 지포스 RTX 5060 Ti, i7-14700F />
+			[241] (768,797)<div  />
+				[242] (768,788)<div  />
+					[243] (718,788)<span >할인 />
+					[244] (742,788)<span >·
+03:07:27 />
+					[245] (777,788)<del >2,859,000원 />
+				[246] (768,811)<div  />
+					[247] (768,811)<div  />
+						[248] (723,811)<div  />
+							[249] (721,811)<div  />
+								[250] (723,812)<div >19
+% />
+						[251] (765,811)<div  />
+							[252] (765,810)<span >2,296,000원 />
+			[253] (768,848)<div  />
+				[254] (768,837)<div  />
+					[255] (740,842)<div  />
+						[256] (740,842)<div  />
+							[257] (732,842)<img  />
+							[258] (761,842)<img  />
+					[259] (795,842)<div  />
+						[260] (782,842)<span >내일(일) />
+						[261] (806,842)<span >도착 보장 />
+				[262] (768,861)<div  />
+					[263] (723,863)<span >무료배송 />
+			[264] (768,882)<div  />
+				[265] (739,884)<div  />
+					[266] (730,884)<div  />
+						[267] (715,884)<div  />
+						[268] (723,884)<div  />
+						[269] (730,884)<div  />
+						[270] (738,884)<div  />
+						[271] (746,884)<div  />
+					[272] (759,884)<div  />
+						[273] (759,885)<span >(
+136
+) />
+			[274] (768,911)<div  />
+				[275] (745,916)<span  />
+					[276] (718,916)<img  />
+					[277] (750,916)<span >최대 50,000원 적립 />
+			[278] (768,949)<div  />
+				[279] (727,949)<strong >단 2개 남음 />
+				[280] (766,949)<span >빨리 주문하세요! />
+			[281] (718,462)<span  />
+
+</current_dom>

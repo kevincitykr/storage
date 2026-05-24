@@ -1,0 +1,139 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (38,52)<button id='back-button' />
+	[1] (38,49)<span >arrow_back />
+[2] (155,52)<input class='sans-flex round w-500' id='tab-title' />
+[3] (464,52)<button class=' sans-flex round w-500 md-body-small selected ' id='canvas'>Editor />
+[4] (544,52)<button class=' sans-flex round w-500 md-body-small ' id='app'>App />
+Saved
+[5] (849,52)<button class=' selected icon round w-500 sans-flex ' />
+	[6] (849,52)<span >more_vert />
+[7] (900,52)<button class=' selected icon round w-500 sans-flex ' />
+	[8] (900,52)<span >settings />
+[9] (956,52)<button id='toggle-user-menu' />
+	[10] (956,52)<span >person />
+[11] (526,553)<div  />
+[12] (39,352)<section  />
+	[13] (39,352)<div  />
+	[14] (39,305)<header  />
+		[15] (36,305)<span >Organize Series Metadata />
+		[16] (87,305)<bb-node-run-control  />
+			[17] (87,305)<button class='node-controls' />
+				[18] (87,305)<span  />
+		[19] (103,304)<button id='connection-trigger' />
+	[20] (39,368)<div  />
+		[21] (39,366)<div  />
+			[22] (39,366)<div  />
+				[23] (39,366)<p >Extract and organize all narrative elements, including scene topics, dialogue scripts, NanoBanana image prompts, and Veo 3.1 video and audio guide... />
+[24] (188,337)<section  />
+	[25] (188,337)<div  />
+	[26] (188,305)<header  />
+		[27] (136,305)<span >photo_spark />
+		[28] (186,305)<span >Generate Sia Character Images />
+		[29] (237,305)<bb-node-run-control  />
+		[30] (252,304)<button id='connection-trigger' />
+	[31] (188,352)<div  />
+		[32] (188,351)<div  />
+			[33] (188,351)<div  />
+				[34] (188,351)<p >Generate four distinct character images for each scene based on the 'series_metadata'. />
+[35] (338,345)<section  />
+	[36] (338,345)<div  />
+	[37] (338,305)<header  />
+		[38] (285,305)<span >videocam_auto />
+		[39] (335,305)<span >Generate Sia Scene Videos />
+		[40] (386,305)<bb-node-run-control  />
+		[41] (401,304)<button id='connection-trigger' />
+	[42] (338,360)<div  />
+		[43] (338,359)<div  />
+			[44] (338,359)<div  />
+				[45] (338,359)<p >Create four cinematic video clips for the 'Sia' series, one for each scene, using the detailed Veo 3.1 video and audio guidelines from the 'series... />
+[46] (188,567)<section  />
+	[47] (188,567)<div  />
+	[48] (188,527)<header  />
+		[49] (136,527)<span >audio_magic_eraser />
+		[50] (186,527)<span >Synthesize Sia Voiceovers />
+		[51] (237,527)<bb-node-run-control  />
+		[52] (252,526)<button id='connection-trigger' />
+	[53] (188,582)<div  />
+		[54] (188,580)<div  />
+			[55] (188,580)<div  />
+				[56] (188,580)<p >Convert the dialogue scripts for each of the four scenes from the 'series_metadata' into high-quality audio voiceovers. />
+[57] (188,781)<section  />
+	[58] (188,781)<div  />
+	[59] (188,748)<header  />
+		[60] (136,748)<span >audio_magic_eraser />
+		[61] (186,748)<span >Generate Background Sounds />
+		[62] (237,748)<bb-node-run-control  />
+		[63] (252,748)<button id='connection-trigger' />
+	[64] (188,796)<div  />
+		[65] (188,795)<div  />
+			[66] (188,795)<div  />
+				[67] (188,795)<p >Generate specific atmospheric music and sound effects for each of the four scenes based on the 'series_metadata'. />
+[68] (487,352)<section  />
+	[69] (487,352)<div  />
+	[70] (487,305)<header  />
+		[71] (435,305)<span >web />
+		[72] (485,305)<span >Compile Production Resources Webpage />
+		[73] (535,305)<bb-node-run-control  />
+		[74] (551,304)<button id='connection-trigger' />
+	[75] (487,368)<div  />
+		[76] (487,366)<div  />
+			[77] (487,366)<div  />
+				[78] (487,366)<p >Assemble all generated production resources—including the structured 'series_metadata' (topics, scripts, image/video/audio guidelines), 'sia_chara... />
+[79] (50,183)<button class=' sans-flex w-500 md-body-small round ask-user '>User Input />
+	[80] (8,183)<span >chat_mirror />
+[81] (196,183)<button class=' sans-flex w-500 md-body-small round generative '>Generate />
+	[82] (153,183)<span >spark />
+[83] (324,183)<button class=' sans-flex w-500 md-body-small round responsive_layout '>Output />
+	[84] (290,183)<span >responsive_layout />
+[85] (470,183)<button class=' selected icon round w-500 sans-flex ' />
+	[86] (417,183)<span >add_box />
+	[87] (486,183)<span >Add Assets />
+[88] (597,209)<button >Pick File />
+[89] (644,262)<button >Create New Document />
+[90] (263,871)<bb-expanding-textarea >send />
+	[91] (263,871)<div  />
+		[92] (213,871)<div  />
+			[93] (213,871)<textarea class=' sans-flex w-500 round md-body-large ' placeholder='Edit these steps' />
+		[94] (456,871)<button aria-label='Submit' id='submit' />
+	[95] (406,871)<bb-speech-to-text  />
+		[96] (406,871)<button  />
+			[97] (406,871)<span >mic />
+	send
+[98] (472,635)<button id='zoom-to-fit' />
+	[99] (472,635)<span >fit_screen />
+[100] (472,715)<button id='zoom-in' />
+	[101] (472,715)<span >add />
+[102] (472,776)<button id='zoom-out' />
+	[103] (472,776)<span >remove />
+undo
+redo
+Opal can make mistakes, so double-check it
+Preview
+[104] (723,159)<button class=' sans-flex w-500 round '>Console />
+[105] (824,159)<button class='sans-flex w-500 round'>Step />
+[106] (919,159)<button class=' sans-flex w-500 round '>Theme />
+[107] (599,263)<button id='menu' />
+	[108] (566,263)<span >menu />
+[109] (927,263)<button id='replay' />
+	[110] (960,263)<span >replay />
+AI Series Creator
+[111] (233,814)<a class='w-400 round md-title-medium' href='https://policies.google.com/terms'>Privacy
+            & Terms />
+	[112] (146,814)<span >shield_person />
+	[113] (340,814)<span >open_in_new />
+[114] (257,913)<a class='w-400 round md-title-medium' href='/'>View more
+Opal
+apps />
+	[115] (146,913)<span >gallery_thumbnail />
+	[116] (389,913)<span >open_in_new />
+[117] (763,639)<h1 >AI Series Creator />
+[118] (763,749)<p >Create a 4-part AI influencer video series. />
+[119] (763,871)<button class='  ' id='run'>Start />
+	[120] (738,871)<span  />
+[121] (756,905)<button id='close' />
+	[122] (756,905)<span  />
+
+</current_dom>

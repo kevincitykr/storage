@@ -1,0 +1,90 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (272,142)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	DDR5 / 32GB / 5600MHz (PC5-44800) / 방열판 무 / PC용
+	용산점 현장구매 가능 상품
+	가산점 현장구매 가능 상품
+	판매가격
+	727,500
+	해제
+	[1] (88,160)<a class='imgbox' href='javascript:detail_show('684580')' title='[제품코드:684580]' />
+	[2] (236,138)<a class='imgbox' href='javascript:detail_show('684580')'>DDR4 / 32GB / 3200MHz (PC4-25600) / 방열판 무 / PC용 />
+		[3] (236,127)<b >[삼성전자] 삼성 DDR4 PC4-25600 [32GB] (3200)[684580] />
+	용산점 현장구매 가능 상품
+	가산점 현장구매 가능 상품
+	판매가격
+	512,000
+	[4] (453,160)<a class='buttons' href='javascript:select_basket('684580','N',1);' id='basket684580' />
+		[5] (453,160)<span >담기 />
+	[6] (88,305)<a class='imgbox' href='javascript:detail_show('1153660')' title='[제품코드:1153660]' />
+	[7] (236,323)<a class='imgbox' href='javascript:detail_show('1153660')'>DDR5 / 32GB / 6000MHz (PC5-48000) / 2개 묶음 / 방열판 유 / CL30 / 램타이밍: CL30-40-40-96 / 1.35V / XMP3.0 / 고성능 게임용 메모리 / PC용 / AURA - SYNC / MYSTIC - LIGHT / RGB - FUSION / POLYCHROME - SYNC / F5-6000J3040F16GX2-RM5RK />
+		[8] (236,278)<b >[G.SKILL] DDR5 PC5-48000 CL30 RIPJAWS M5 RGB 블랙 [32GB (16GB*2)] (6000)[1153660] />
+	기획전
+	판매가격
+	879,000
+	[9] (453,345)<a class='buttons' href='javascript:select_basket('1153660','N',1);' id='basket1153660' />
+		[10] (453,345)<span >담기 />
+	[11] (236,504)<b >[삼성전자] 삼성 DDR5 PC5-44800 ECC/REG 서버용 [64GB] (5600)[1205143] />
+	DDR5-REG ECC / 64GB / 5600MHz (PC5-44800) / 방열판 무 / 서버용 / M321R8GA0PB0-CWM / M321R8GA0EB2-CWMKH
+	특송
+	판매가격
+	4,400,000
+	담기
+	[SK hynix] SK하이닉스 DDR5 PC5-44800 [32GB] (5600)[984267]
+	DDR5 / 32GB / 5600MHz (PC5-44800) / 방열판 무 / PC용
+	용산점 현장구매 가능 상품
+	가산점 현장구매 가능 상품
+	판매가격
+	733,000
+	담기
+	[ADATA] ADATA DDR5 PC5-44800 CL46 파인인포 [32GB] (5600)[1231034]
+	DDR5 / 32GB / 5600MHz (PC5-44800) / CL46-45-45 / 1.10V / 방열판 무 / PC용
+	후기
+	판매가격
+	549,000
+	담기
+	[에센코어] 에센코어 KLEVV DDR5 PC5-44800 CL46 파인인포 [32GB] (5600)[1068471]
+[12] (140,557)<a class='num on' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',0,1);'>1 />
+[13] (165,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',50,2);'>2 />
+[14] (191,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',100,3);'>3 />
+[15] (217,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',150,4);'>4 />
+[16] (242,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',200,5);'>5 />
+[17] (268,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',250,6);'>6 />
+[18] (294,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',300,7);'>7 />
+[19] (319,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',350,8);'>8 />
+[20] (345,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',400,9);'>9 />
+[21] (371,557)<a class='num' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',450,10);'>10 />
+[22] (400,557)<a class='next' href='javascript:$('#sr_list_wrap').scrollTop(0);$('#list').empty();$('#isch').val('Y');ajax_list('4','1014','','recommand','32GB','','N|N',500,11);' />
+PC용
+[삼성전자] 삼성 DDR5 PC5-44800 [32GB] (5600)
+판매가격
+727,500
+[23] (527,116)<label  />
+	[24] (527,116)<span  />
+		[25] (526,118)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[26] (562,116)<span >인텔 소켓 1700 />
+[27] (633,150)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[28] (680,151)<i  />
+판매가격
+174,150
+[29] (853,132)<a href='javascript:ea_down2('global_form','2','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',2)' />
+[30] (876,132)<input class='change__ea' id='Amount_1118926' />
+[31] (898,132)<a href='javascript:ea_up('global_form','2','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',2);' />
+[32] (922,132)<span class='delete' />
+[33] (271,731)<a href='../get_price/get_price.htm' />
+	[34] (271,731)<img  />
+[35] (729,731)<a href='../exc_event/discount_PC.htm' />
+	[36] (729,731)<img  />
+[37] (99,945)<a href='../company/index.htm' title='회사소개'>회사소개 />
+[38] (154,945)<a href='../company2013/new_user_agreement.htm' title='이용약관'>이용약관 />
+[39] (210,945)<a href='../customer_manager/partner.htm' title='입점신청'>입점신청 />
+[40] (282,945)<a href='../company2013/new_privacy_policy.htm' title='개인정보처리방침'>개인정보처리방침 />
+[41] (367,945)<a title='청소년보호정책'>청소년보호정책 />
+협력사
+광고안내
+찾아오시는길
+[42] (615,945)<a href='javascript:void(0)' title='앱 다운로드'>앱 다운로드 />
+
+</current_dom>

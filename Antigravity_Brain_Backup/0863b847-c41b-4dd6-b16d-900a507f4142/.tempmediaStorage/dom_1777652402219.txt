@@ -1,0 +1,405 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (66,38)<a aria-label='AliExpress logo' class='pc-header--logoImg--mDbiT4k pc-header--newLogoImg--2W_qJMt pc-header--koLogoImg--2NtZBzA' href='https://ko.aliexpress.com' />
+[1] (115,40)<div aria-label='모든 카테고리' class='Categoey--iconCategoryTitle--1PLzW4B' role='button' />
+[2] (357,37)<input aria-label='You can type an item name or keyword to search.' class='search--keyword--15P08Ji' id='search-words' placeholder='휴대용 선풍기' role='searchbox' />
+[3] (579,40)<div  />
+	[4] (579,37)<img  />
+[5] (605,37)<input aria-label='You can click this button to search.' class='search--submit--2VTbd-T search--newSubmit--3BlVRKw' role='button' />
+[6] (672,37)<div aria-label='You can scan the QR code to download the AliExpress app.' class='down-load-app--menuItem--3FNru0r down_ko_KR down-load-app--newMenuItem--CZPqC6l' role='button' />
+	[7] (644,37)<span  />
+	[8] (681,37)<div  />
+		[9] (681,37)<b >AliExpress 앱을 다운로드하세요 />
+[10] (738,37)<div  />
+	[11] (738,37)<div aria-label='You can select a country, region or language for shopping on AliExpress kr. The current language is English.' class='ship-to--menuItem--WdBDsYl ship-to--newMenuItem--2Rw-XvE' role='button' />
+		[12] (721,37)<span  />
+		[13] (745,37)<div  />
+			[14] (745,26)<span >김해시/
+KO
+/ />
+			[15] (742,44)<b >KRW />
+				[16] (749,45)<span  />
+[17] (793,37)<div aria-label='You can register, sign in or view more information about your account.' class='my-account--menuItem--1GDZChA my-account--newMenuItem--bSu9Hkj' role='button' />
+	[18] (777,37)<span  />
+	[19] (802,37)<div  />
+		[20] (802,26)<span >Hi, sohwe />
+		[21] (799,44)<b >계정 />
+			[22] (806,45)<span  />
+[23] (844,37)<div  />
+	[24] (846,37)<a aria-label='21 items in cart.' href='//www.aliexpress.com/p/shoppingcart/index.html' />
+		[25] (833,37)<span  />
+		[26] (855,37)<div  />
+			[27] (855,23)<div  />
+				[28] (850,24)<span >21 />
+			[29] (855,46)<b >장바구니 />
+[30] (42,360)<div class='slider--slider--VKj5hty' scrollable='true' />
+	[31] (42,141)<div  />
+		[32] (42,141)<img  />
+	[33] (42,231)<div  />
+		[34] (42,231)<img  />
+	[35] (42,320)<div  />
+		[36] (42,320)<img  />
+	[37] (42,409)<div  />
+		[38] (42,409)<img  />
+	[39] (42,499)<div  />
+		[40] (42,499)<img  />
+	[41] (42,588)<div  />
+		[42] (42,588)<img  />
+[43] (188,360)<div  />
+	[44] (188,360)<div  />
+1+1 남자 여름 아이스 쿨 집업 긴팔 티셔츠 작업복 상의 빅사이즈 95~115
+[45] (489,147)<div class='es--root--wdlxWrx reviewer--slider--qWpbOtA' scrollable='true' />
+	1 개 판매
+	[46] (489,147)<a class='reviewer--sliderItem--cwGn8yq' href='//ko.aliexpress.com/store/1104930366' />
+		[47] (327,148)<img  />
+		[48] (357,148)<span >미루나무 스토어 />
+		[49] (384,148)<span >( />
+		[50] (389,148)<img  />
+		[51] (398,148)<strong >4.8 />
+		[52] (407,148)<span >| />
+		[53] (432,148)<span >누적판매 900+ />
+		[54] (457,148)<span >) />
+	1 개 판매
+	미루나무 스토어
+	(
+	4.8
+	|
+	누적판매 900+
+	)
+원가
+₩28,900
+[55] (363,182)<span  />
+15%
+₩24,565
+5% 추가 코인 할인
+[56] (489,278)<div  />
+	[57] (484,278)<div  />
+		[58] (484,278)<div  />
+			[59] (341,278)<img  />
+			[60] (499,278)<div >₩30,000 구매 시 ₩4,100 할인 />
+	[61] (647,278)<span  />
+색상
+:
+쿨피터_블랙+그레이
+[62] (338,399)<div  />
+[63] (376,399)<div  />
+[64] (413,399)<div  />
+[65] (451,399)<div  />
+[66] (488,399)<div  />
+[67] (526,399)<div  />
+사이즈
+:
+95
+[68] (338,504)<div  />
+	[69] (338,504)<span >95 />
+[70] (376,504)<div  />
+	[71] (376,504)<span >100 />
+[72] (413,504)<div  />
+	[73] (413,504)<span >105 />
+[74] (451,504)<div  />
+	[75] (451,504)<span >110 />
+[76] (488,504)<div  />
+	[77] (488,504)<span >115 />
+연관 상품
+[78] (340,970)<div  />
+	[79] (77,915)<div class='slick-slide slick-active slick-current' />
+		[80] (77,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005007646778505.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=e592e760-4874-44f7-884e-d03d1104bf39&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:e592e760-4874-44f7-884e-d03d1104bf39,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%222381%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2120930%2117342%21%21%2120930%2117342%21%402141131717776523964601663ede97%2112000056046299876%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007646778505%7C_p_origin_prod%3A' />
+			[81] (77,848)<div  />
+				[82] (77,848)<div  />
+				[83] (97,891)<div  />
+					[84] (97,891)<div  />
+						[85] (97,891)<span  />
+			[86] (77,998)<div  />
+				[87] (77,951)<div aria-label='[초특가][3장] 쿨텍스 남성 냉감 반목 반폴라 긴팔 티셔츠(SI4WO2LT059M)' class='_2BLrX' role='heading' title='[초특가][3장] 쿨텍스 남성 냉감 반목 반폴라 긴팔 티셔츠(SI4WO2LT059M)'>[초특가][3장] 쿨텍스 남성 냉감 반목 반폴라 긴팔 티셔츠(SI4WO2LT059M) />
+					[초특가][3장] 쿨텍스 남성 냉감 반목 반폴라 긴팔 티셔츠(SI4WO2LT059M)
+				[88] (77,981)<div aria-label='₩17,342' class='_23lt5' />
+					[89] (53,982)<span >-17% />
+					[90] (89,982)<div  />
+						[91] (71,982)<span >₩ />
+						[92] (81,982)<span >17 />
+						[93] (89,982)<span >, />
+						[94] (99,982)<span >342 />
+					₩20,930
+				4.6
+	[95] (181,915)<div class='slick-slide slick-active' />
+		[96] (181,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005011801954202.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=e592e760-4874-44f7-884e-d03d1104bf39&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:e592e760-4874-44f7-884e-d03d1104bf39,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22281%22%2C%22spu_best_type%22%3A%22price%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2120610%2120610%21%21%2120610%2120610%21%402141131717776523964601663ede97%2112000056604969001%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005011801954202%7C_p_origin_prod%3A' />
+			[97] (181,848)<div  />
+				[98] (181,848)<div  />
+				[99] (202,891)<div  />
+					[100] (202,891)<div  />
+						[101] (202,891)<span  />
+			[102] (181,998)<div  />
+				[103] (181,951)<div aria-label='[1+1 BFL] 남자 기능성 UV차단 냉감 토시 일체형 반목 쿨티 스포츠 짐웨어 러닝 작업복' class='_2BLrX' role='heading' title='[1+1 BFL] 남자 기능성 UV차단 냉감 토시 일체형 반목 쿨티 스포츠 짐웨어 러닝 작업복'>[1+1 BFL] 남자 기능성 UV차단 냉감 토시 일체형 반목 쿨티 스포츠 짐웨어 러닝 작업복 />
+					[1+1 BFL] 남자 기능성 UV차단 냉감 토시 일체형 반목 쿨티 스포츠 짐웨어 러닝 작업복
+				[104] (181,981)<div aria-label='₩20,610' class='_23lt5' />
+					[105] (164,982)<div  />
+						[106] (147,982)<span >₩ />
+						[107] (157,982)<span >20 />
+						[108] (164,982)<span >, />
+						[109] (175,982)<span >610 />
+				4.9
+	[110] (285,915)<div class='slick-slide slick-active' />
+		[111] (285,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005008528960705.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=e592e760-4874-44f7-884e-d03d1104bf39&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:e592e760-4874-44f7-884e-d03d1104bf39,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%221370%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2120930%2117342%21%21%2120930%2117342%21%402141131717776523964601663ede97%2112000056093478168%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005008528960705%7C_p_origin_prod%3A' />
+			[112] (285,848)<div  />
+				[113] (285,848)<div  />
+				[114] (306,891)<div  />
+					[115] (306,891)<div  />
+						[116] (306,891)<span  />
+			[117] (285,998)<div  />
+				[118] (285,951)<div aria-label='[초특가][3장] 쿨가이 남성 냉감 라운드 긴팔 티셔츠(M6WOST32)' class='_2BLrX' role='heading' title='[초특가][3장] 쿨가이 남성 냉감 라운드 긴팔 티셔츠(M6WOST32)' />
+					[119] (284,973)<h3 >[초특가][3장] 쿨가이 남성 냉감 라운드 긴팔 티셔츠(M6WOST32) />
+				[120] (285,981)<div aria-label='₩17,342' class='_23lt5' />
+					[121] (262,982)<span >-17% />
+					[122] (297,982)<div  />
+						[123] (280,982)<span >₩ />
+						[124] (289,982)<span >17 />
+						[125] (297,982)<span >, />
+						[126] (308,982)<span >342 />
+					₩20,930
+				4.7
+	[127] (390,915)<div class='slick-slide slick-active' />
+		[128] (390,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005007353518189.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=e592e760-4874-44f7-884e-d03d1104bf39&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:e592e760-4874-44f7-884e-d03d1104bf39,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%221407%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2114304%219834%21%21%2114304%219834%21%402141131717776523964601663ede97%2112000040391773964%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005007353518189%7C_p_origin_prod%3A' />
+			[129] (390,848)<div  />
+				[130] (390,848)<div  />
+				[131] (410,891)<div  />
+					[132] (410,891)<div  />
+						[133] (410,891)<span  />
+			[134] (390,998)<div  />
+				[135] (390,951)<div aria-label='남성용 긴팔 라운드 넥 티셔츠 1+1 캠핑 등산용 편안한 스포츠 의류 M5OPST11 불쾌제로' class='_2BLrX' role='heading' title='남성용 긴팔 라운드 넥 티셔츠 1+1 캠핑 등산용 편안한 스포츠 의류 M5OPST11 불쾌제로'>남성용 긴팔 라운드 넥 티셔츠 1+1 캠핑 등산용 편안한 스포츠 의류 M5OPST11 불쾌제로 />
+					남성용 긴팔 라운드 넥 티셔츠 1+1 캠핑 등산용 편안한 스포츠 의류 M5OPST11 불쾌제로
+				[136] (390,981)<div aria-label='₩9,834' class='_23lt5' />
+					[137] (366,982)<span >-31% />
+					[138] (398,982)<div  />
+						[139] (384,982)<span >₩ />
+						[140] (390,982)<span >9 />
+						[141] (395,982)<span >, />
+						[142] (406,982)<span >834 />
+					₩14,304
+				4.6
+	[143] (494,915)<div class='slick-slide slick-active' />
+		[144] (494,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005011639644578.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.40050.354490.0&scm_id=1007.40050.354490.0&scm-url=1007.40050.354490.0&pvid=e592e760-4874-44f7-884e-d03d1104bf39&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.40050.354490.0,pvid:e592e760-4874-44f7-884e-d03d1104bf39,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%22116%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2159800%2123322%21%21%2159800%2123322%21%402141131717776523964601663ede97%2112000056128991269%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005011639644578%7C_p_origin_prod%3A' />
+			[145] (494,848)<div  />
+				[146] (494,848)<div  />
+				[147] (514,891)<div  />
+					[148] (514,891)<div  />
+						[149] (514,891)<span  />
+			[150] (494,951)<div aria-label='[초특가][3장] BFL 콜드플레이스 남성 냉감 반목 티셔츠(KP4WO2LT032M)' class='_2BLrX' role='heading' title='[초특가][3장] BFL 콜드플레이스 남성 냉감 반목 티셔츠(KP4WO2LT032M)'>[초특가][3장] BFL 콜드플레이스 남성 냉감 반목 티셔츠(KP4WO2LT032M) />
+				[초특가][3장] BFL 콜드플레이스 남성 냉감 반목 티셔츠(KP4WO2LT032M)
+			[151] (470,982)<span >-61% />
+			₩
+			23
+			,
+			322
+			₩59,800
+			4.9
+	[152] (598,915)<div class='slick-slide slick-active' />
+		[153] (598,915)<a class='_3mPKP _3uAF4 slider-card-item O4Vab' href='//ko.aliexpress.com/item/1005012084865504.html?gps-id=pcDetailTopMoreOtherSeller&scm=1007.14452.491826.0&scm_id=1007.14452.491826.0&scm-url=1007.14452.491826.0&pvid=54c45820-656b-43dd-abad-b767f740141d&_t=gps-id:pcDetailTopMoreOtherSeller,scm-url:1007.14452.491826.0,pvid:54c45820-656b-43dd-abad-b767f740141d,tpp_buckets:668%232846%238114%231999&pdp_ext_f=%7B%22order%22%3A%221%22%2C%22eval%22%3A%221%22%2C%22sceneId%22%3A%2230050%22%2C%22fromPage%22%3A%22recommend%22%7D&pdp_npi=6%40dis%21KRW%2132000%2115998%21%21%2132000%2115998%21%402141131717776523964601663ede97%2112000057474777926%21rec%21KR%214595490757%21XZ%211%210%21n_tag%3A-29919%3Bd%3A46731269%3Bm03_new_user%3A-29895&utparam-url=scene%3ApcDetailTopMoreOtherSeller%7Cquery_from%3A%7Cx_object_id%3A1005012084865504%7C_p_origin_prod%3A&search_p4p_id=2026050109195649639593039058669831_0' />
+			[154] (598,848)<div  />
+				[155] (598,848)<div  />
+				[156] (618,891)<div  />
+					[157] (618,891)<div  />
+						[158] (618,891)<span  />
+			[159] (598,998)<div  />
+				[160] (598,951)<div aria-label='목걸이 선풍기 휴대용 미니 넥팬 360도 풍향 조절 USB 충전 저소음 야외 여행 출퇴근 여름 쿨링' class='_2BLrX' role='heading' title='목걸이 선풍기 휴대용 미니 넥팬 360도 풍향 조절 USB 충전 저소음 야외 여행 출퇴근 여름 쿨링'>목걸이 선풍기 휴대용 미니 넥팬 360도 풍향 조절 USB 충전 저소음 야외 여행 출퇴근 여름 쿨링 />
+					목걸이 선풍기 휴대용 미니 넥팬 360도 풍향 조절 USB 충전 저소음 야외 여행 출퇴근 여름 쿨링
+				[161] (598,981)<div aria-label='₩15,998' class='_23lt5' />
+					[162] (574,982)<span >-50% />
+					[163] (609,982)<div  />
+						[164] (592,982)<span >₩ />
+						[165] (602,982)<span >15 />
+						[166] (609,982)<span >, />
+						[167] (620,982)<span >998 />
+					₩32,000
+				1 판매
+		[168] (633,767)<div >광고 />
+[169] (652,935)<button class='slick-arrow slick-next slick-next-default' />
+[170] (768,135)<a class='store-detail--wrap--IhR4e1j' href='//ko.aliexpress.com/store/1104930366' />
+	[171] (690,135)<div >판매자 />
+	[172] (812,135)<div  />
+		[173] (791,135)<span >미루나무 스토어 />
+		[174] (833,135)<span >(거래 업체) />
+		[175] (854,135)<span  />
+AliExpress의 약속
+[176] (768,277)<div  />
+	[177] (768,277)<div  />
+		[178] (768,235)<div  />
+			[179] (703,234)<span  />
+				[180] (703,234)<span  />
+					[181] (703,234)<strong >무료 배송 />
+			[182] (723,234)<span >· />
+			[183] (733,234)<span  />
+				[184] (733,234)<img  />
+			[185] (755,234)<span  />
+				[186] (755,234)<span >한국 발송 />
+		[187] (768,263)<div  />
+			[188] (756,261)<span  />
+				[189] (756,262)<span  />
+					[190] (756,264)<strong >배송: 5월 05일- 07일,목요일 이전에 받기 />
+		[191] (768,305)<div  />
+			[192] (703,292)<span  />
+				[193] (703,294)<span >택배회사: />
+			[194] (727,292)<span  />
+				[195] (726,295)<img  />
+			[196] (755,292)<span  />
+				[197] (755,294)<span >CJLogistics />
+			[198] (784,292)<span  />
+				[199] (782,295)<img  />
+			[200] (815,292)<span  />
+				[201] (815,294)<span >Korea ePOST />
+			[202] (694,317)<span  />
+				[203] (693,320)<img  />
+			[204] (714,317)<span  />
+				[205] (714,319)<span >Hanjin />
+			[206] (733,317)<span  />
+				[207] (733,320)<img  />
+			[208] (779,317)<span  />
+				[209] (779,319)<span >Lotte Global Logistics />
+			[210] (829,317)<span  />
+				[211] (829,319)<span >,etc. />
+[212] (768,369)<div  />
+	[213] (682,357)<img  />
+	[214] (768,369)<div  />
+		[215] (768,357)<div  />
+			[216] (706,357)<span >서비스 약속 />
+		[217] (768,380)<div  />
+			[218] (715,381)<div  />
+				[219] (715,381)<div >7일 이내 무료 반품 />
+			[220] (764,381)<div  />
+				[221] (764,381)<div >개인 정보 보호 />
+	[222] (854,370)<span  />
+수량
+[223] (684,464)<div  />
+[224] (701,464)<input class='comet-v2-input-number-input' />
+[225] (717,464)<div  />
+	[226] (717,465)<span  />
+재고수량 50
+[227] (768,546)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large buy-now--buynow--OH44OI8 comet-v2-btn-important' />
+	[228] (768,546)<span >바로 구매 />
+[229] (768,607)<button class='comet-v2-btn comet-v2-btn-primary comet-v2-btn-large add-to-cart--addtocart--Qhoji3M add-to-cart--hasBuyNow--QxW176q comet-v2-btn-important' />
+	[230] (768,608)<span >장바구니 담기 />
+[231] (706,669)<a class='share-and-wish--store--Zsc9uDn' href='//ko.aliexpress.com/store/1104930366' />
+	[232] (706,669)<span  />
+[233] (768,669)<div  />
+	[234] (768,669)<span  />
+[235] (830,669)<div  />
+	[236] (830,669)<span  />
+[237] (879,917)<a aria-label='survey' class='survey--wrap--wg1Og56' href='https://survey.aliexpress.com/uone/sg/survey/09hOVpomv' />
+[238] (946,587)<div class='infinite-scroll-component comet-v2-infinite-scroll' scrollable='true' />
+	알뜰마트
+	무료 배송까지
+	3
+	개 더 담기
+	[239] (909,272)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[240] (909,272)<span  />
+			[241] (909,272)<span  />
+	[242] (921,301)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008660314411.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2074786%21KRW%2036000%21%21KRW%2036000%21%21%21%40210156fc17776523967211448e67ad%2112000046135626885%21ct%21KR%214595490757%21%215%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[243] (921,301)<span  />
+			[244] (921,334)<div >품절 임박 />
+	₩36,000
+	[245] (906,395)<div  />
+		[246] (906,396)<span  />
+	[247] (921,395)<input aria-label='number' class='comet-v2-input-number-input' />
+	[248] (937,395)<div  />
+		[249] (937,396)<span  />
+	[250] (952,272)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[251] (952,272)<span  />
+			[252] (952,272)<span  />
+	[253] (964,301)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005009355572334.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207036%21KRW%202150%21%21KRW%202150%21%21%21%40210156fc17776523967211448e67ad%2112000048851956318%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[254] (964,301)<span  />
+			[255] (964,334)<div >품절 임박 />
+	₩2,150
+	[256] (949,395)<div  />
+		[257] (949,396)<span  />
+	[258] (965,395)<input aria-label='number' class='comet-v2-input-number-input' />
+	[259] (980,395)<div  />
+		[260] (980,396)<span  />
+	[261] (909,443)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[262] (909,443)<span  />
+			[263] (909,443)<span  />
+	[264] (921,472)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005007173650980.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%205515%21KRW%202400%21%21KRW%202400%21%21%21%40210156fc17776523967211448e67ad%2112000042253953998%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[265] (921,472)<span  />
+			[266] (921,505)<div >6개 남음 />
+	₩2,400
+	[267] (906,566)<div  />
+		[268] (906,568)<span  />
+	[269] (921,566)<input aria-label='number' class='comet-v2-input-number-input' />
+	[270] (937,566)<div  />
+		[271] (937,568)<span  />
+	[272] (952,443)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[273] (952,443)<span  />
+			[274] (952,443)<span  />
+	[275] (964,472)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008521349459.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%203862%21KRW%201650%21%21KRW%201650%21%21%21%40210156fc17776523967211448e67ad%2112000045544167512%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[276] (964,472)<span  />
+			[277] (964,505)<div >품절 임박 />
+	₩1,650
+	[278] (949,566)<div  />
+		[279] (949,568)<span  />
+	[280] (965,566)<input aria-label='number' class='comet-v2-input-number-input' />
+	[281] (980,566)<div  />
+		[282] (980,568)<span  />
+	[283] (909,615)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[284] (909,615)<span  />
+			[285] (909,615)<span  />
+	[286] (921,643)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005005770724463.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%209219%21KRW%202500%21%21KRW%202500%21%21%21%40210156fc17776523967211448e67ad%2112000034291787603%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[287] (921,643)<span  />
+			[288] (921,676)<div >품절 임박 />
+	₩2,500
+	[289] (906,738)<div  />
+		[290] (906,739)<span  />
+	[291] (921,738)<input aria-label='number' class='comet-v2-input-number-input' />
+	[292] (937,738)<div  />
+		[293] (937,739)<span  />
+	[294] (952,615)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[295] (952,615)<span  />
+			[296] (952,615)<span  />
+	[297] (964,643)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005007010550225.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%207084%21KRW%203400%21%21KRW%203400%21%21%21%40210156fc17776523967211448e67ad%2112000039050871250%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[298] (964,643)<span  />
+			[299] (964,676)<div >품절 임박 />
+	₩3,400
+	[300] (949,738)<div  />
+		[301] (949,739)<span  />
+	[302] (965,738)<input aria-label='number' class='comet-v2-input-number-input' />
+	[303] (980,738)<div  />
+		[304] (980,739)<span  />
+	[305] (909,786)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[306] (909,786)<span  />
+			[307] (909,786)<span  />
+	[308] (921,814)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008660171757.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2027161%21KRW%208650%21%21KRW%208650%21%21%21%40210156fc17776523967211448e67ad%2112000046136151160%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[309] (921,814)<span  />
+			[310] (921,847)<div >품절 임박 />
+	₩8,650
+	[311] (906,909)<div  />
+		[312] (906,910)<span  />
+	[313] (921,909)<input aria-label='number' class='comet-v2-input-number-input' />
+	[314] (937,909)<div  />
+		[315] (937,910)<span  />
+	[316] (952,786)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[317] (952,786)<span  />
+			[318] (952,786)<span  />
+	[319] (964,814)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005008830774016.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2027428%21KRW%2011150%21%21KRW%2011150%21%21%21%40210156fc17776523967211448e67ad%2112000046865093685%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[320] (964,814)<span  />
+			[321] (964,847)<div >품절 임박 />
+	₩11,150
+	[322] (949,909)<div  />
+		[323] (949,910)<span  />
+	[324] (965,909)<input aria-label='number' class='comet-v2-input-number-input' />
+	[325] (980,909)<div  />
+		[326] (980,910)<span  />
+	[327] (909,957)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[328] (909,957)<span  />
+			[329] (909,957)<span  />
+	[330] (921,986)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005005265418112.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%2011503%21KRW%203650%21%21KRW%203650%21%21%21%40210156fc17776523967211448e67ad%2112000032435352812%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[331] (921,986)<span  />
+	[332] (952,957)<label class='comet-v2-checkbox cart-product-checkbox' />
+		[333] (952,957)<span  />
+			[334] (952,957)<span  />
+	[335] (964,986)<a class='cart-product-img-wrap' href='https://www.aliexpress.com/item/1005009928052981.html?mp=1&sourceType=570&pdp_npi=6%40dis%21KRW%21KRW%206225%21KRW%202900%21%21KRW%202900%21%21%21%40210156fc17776523967211448e67ad%2112000050601640678%21ct%21KR%214595490757%21%211%210%21&pdp_ext_f=%7B%22cart2PdpParams%22%3A%7B%22sourceType%22%3A%22570%22%2C%22cartSource%22%3A%22main%22%7D%7D' />
+		[336] (964,986)<span  />
+₩0
+결제하기
+[337] (946,120)<a class='cart-summary-tocart' href='https://www.aliexpress.com/p/shoppingcart/index.html'>카트로 가기 />
+[338] (972,59)<button class='sesame-floating-action-legacy' />
+
+</current_dom>

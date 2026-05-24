@@ -1,0 +1,10 @@
+# Task: Monitor Bot Trajectory
+## Checklist
+- [ ] Open http://127.0.0.1:5000/economy
+- [ ] Monitor logs for "[✓] 주제 분석 요청 완료" and "[STEP 3]"
+- [ ] Capture screenshot at STEP 2
+- [ ] Capture screenshot at STEP 3
+- [ ] Report final status
+
+## Observations
+- [2026-04-20 09:49] Started monitoring.

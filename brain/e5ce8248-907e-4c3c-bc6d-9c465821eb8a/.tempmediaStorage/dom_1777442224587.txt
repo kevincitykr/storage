@@ -1,0 +1,149 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+채널 콘텐츠
+[0] (20,35)<ytcp-icon-button aria-label='메뉴 접기' class='ytcpAppHeaderCollapseExpandIcon' role='button' />
+	[1] (20,35)<yt-icon  />
+		[2] (20,35)<span  />
+			[3] (20,35)<div  />
+[4] (65,40)<a class='style-scope ytcp-home-button' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='home-button' title='YouTube 스튜디오 대시보드' />
+	[5] (65,33)<img  />
+[6] (500,35)<input class='style-scope ytcp-omnisearch' id='query-input' placeholder='채널에서 검색하기' />
+[7] (856,35)<ytcp-icon-button aria-label='도움말' class='ytcpAppHeaderHelpIcon' role='button' />
+	[8] (856,35)<yt-icon  />
+		[9] (856,35)<span  />
+			[10] (856,35)<div  />
+[11] (877,35)<ytcp-icon-button aria-label='Ask Studio' role='button' />
+	[12] (877,35)<yt-icon  />
+		[13] (877,35)<span  />
+			[14] (877,35)<div  />
+[15] (898,35)<ytcp-icon-button aria-label='알림' role='button' />
+	[16] (898,35)<yt-icon  />
+		[17] (898,35)<span  />
+			[18] (898,35)<div  />
+[19] (937,35)<button aria-label='만들기' class='ytcpButtonShapeImplHost ytcpButtonShapeImpl--outline ytcpButtonShapeImpl--mono ytcpButtonShapeImpl--size-m ytcpButtonShapeImpl--icon-leading ytcpButtonShapeImpl--enable-backdrop-filter-experiment'>만들기 />
+	만들기
+	[20] (937,35)<yt-touch-feedback-shape  />
+		[21] (937,35)<div  />
+[22] (979,35)<button aria-label='Account' class='style-scope ytd-topbar-menu-button-renderer' id='avatar-btn' />
+	[23] (979,35)<yt-img-shadow  />
+		[24] (979,35)<img  />
+내 채널
+Melodist Seoul
+[25] (66,325)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA' id='menu-item-0' role='menuitem' />
+	[26] (66,325)<tp-yt-paper-icon-item class='dashboard style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-0' role='none' />
+		[27] (19,325)<div  />
+			[28] (19,325)<yt-icon  />
+				[29] (19,325)<span  />
+					[30] (19,325)<div  />
+		[31] (52,325)<div >대시보드 />
+[32] (66,378)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/videos/upload' id='menu-item-1' role='menuitem' />
+	[33] (66,378)<tp-yt-paper-icon-item class='iron-selected style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-1' role='none' />
+		[34] (19,378)<div  />
+			[35] (19,378)<yt-icon  />
+				[36] (19,378)<span  />
+					[37] (19,378)<div  />
+		[38] (48,378)<div >콘텐츠 />
+[39] (66,430)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/analytics/tab-overview/period-default' id='menu-item-2' role='menuitem' />
+	[40] (66,430)<tp-yt-paper-icon-item class='analytics style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-2' role='none' />
+		[41] (19,430)<div  />
+			[42] (19,430)<yt-icon  />
+				[43] (19,430)<span  />
+					[44] (19,430)<div  />
+		[45] (45,430)<div >분석 />
+[46] (66,483)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/comments/inbox' id='menu-item-3' role='menuitem' />
+	[47] (66,483)<tp-yt-paper-icon-item class='comments style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-3' role='none' />
+		[48] (19,483)<div  />
+			[49] (19,483)<yt-icon  />
+				[50] (19,483)<span  />
+					[51] (19,483)<div  />
+		[52] (52,483)<div >커뮤니티 />
+[53] (66,536)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/translations' id='menu-item-4' role='menuitem' />
+	[54] (66,536)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-4' role='none' />
+		[55] (19,536)<div  />
+			[56] (19,536)<yt-icon  />
+				[57] (19,536)<span  />
+					[58] (19,536)<div  />
+		[59] (45,536)<div >자막 />
+[60] (66,588)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/copyright' id='menu-item-5' role='menuitem' />
+	[61] (66,588)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-5' role='none' />
+		[62] (19,588)<div  />
+			[63] (19,588)<yt-icon  />
+				[64] (19,588)<span  />
+					[65] (19,588)<div  />
+		[66] (56,588)<div >콘텐츠 감지 />
+[67] (66,641)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/monetization/overview' id='menu-item-6' role='menuitem' />
+	[68] (66,641)<tp-yt-paper-icon-item class='attach-money-icon style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-6' role='none' />
+		[69] (19,641)<div  />
+			[70] (19,641)<yt-icon  />
+				[71] (19,641)<span  />
+					[72] (19,641)<div  />
+		[73] (53,641)<div >수익 창출 />
+[74] (66,694)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/editing/profile' id='menu-item-7' role='menuitem' />
+	[75] (66,694)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-7' role='none' />
+		[76] (19,694)<div  />
+			[77] (19,694)<yt-icon  />
+				[78] (19,694)<span  />
+					[79] (19,694)<div  />
+		[80] (52,694)<div >맞춤설정 />
+[81] (66,746)<a class='menu-item-link style-scope ytcp-navigation-drawer' href='/channel/UC_V52QvV-3O-HIjON4Ck0jA/music' id='menu-item-8' role='menuitem' />
+	[82] (66,746)<tp-yt-paper-icon-item class=' style-scope ytcp-navigation-drawer style-scope ytcp-navigation-drawer' id='menu-paper-icon-item-8' role='none' />
+		[83] (19,746)<div  />
+			[84] (19,746)<yt-icon  />
+				[85] (19,746)<span  />
+					[86] (19,746)<div  />
+		[87] (60,746)<div >오디오 보관함 />
+[88] (66,912)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='settings-item' role='button' />
+	[89] (19,912)<div  />
+		[90] (19,912)<yt-icon  />
+			[91] (19,912)<span  />
+				[92] (19,912)<div  />
+	[93] (45,912)<div >설정 />
+[94] (66,965)<tp-yt-paper-icon-item class='style-scope ytcp-navigation-drawer' id='send-feedback-item' role='button' />
+	[95] (19,965)<div  />
+		[96] (19,965)<yt-icon  />
+			[97] (19,965)<span  />
+				[98] (19,965)<div  />
+	[99] (56,965)<div >의견 보내기 />
+채널 콘텐츠
+[100] (164,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='inspiration-tab' role='tab' />
+	[101] (164,173)<div  />
+		[102] (164,173)<ytcp-ve class='style-scope ytcp-content-section' role='none'>아이디어 />
+[103] (212,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-uploads-tab' role='tab' />
+	[104] (212,173)<div >동영상 />
+[105] (258,173)<tp-yt-paper-tab class='style-scope ytcp-content-section iron-selected' id='video-list-shorts-tab' role='tab' />
+	[106] (258,173)<div  />
+		[107] (258,173)<ytcp-ve class='style-scope ytcp-content-section' role='none'>Shorts />
+[108] (304,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-live-tab' role='tab' />
+	[109] (304,173)<div  />
+		[110] (304,173)<ytcp-ve class='style-scope ytcp-content-section' role='none'>라이브 />
+[111] (350,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='content-list-post-tab' role='tab' />
+	[112] (350,173)<div  />
+		[113] (350,173)<ytcp-ve class='style-scope ytcp-content-section' role='none'>게시물 />
+[114] (397,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='playlist-list-tab' role='tab' />
+	[115] (397,173)<div  />
+		[116] (397,173)<ytcp-ve class='style-scope ytcp-content-section' role='none'>재생목록 />
+[117] (447,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='podcast-list-tab' role='tab' />
+	[118] (447,173)<div  />
+		[119] (447,173)<ytcp-ve class='style-scope ytcp-content-section' role='none'>팟캐스트 />
+[120] (495,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='courses-list-tab' role='tab' />
+	[121] (495,173)<div  />
+		[122] (495,173)<ytcp-ve class='style-scope ytcp-content-section' role='none'>강의 />
+[123] (542,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='content-list-promotions-tab' role='tab' />
+	[124] (542,173)<div  />
+		[125] (542,173)<ytcp-ve class='style-scope ytcp-content-section' role='none' />
+			[126] (542,173)<div  />
+				[127] (542,173)<span >프로모션 />
+[128] (599,173)<tp-yt-paper-tab class='style-scope ytcp-content-section' id='video-list-collabs-tab' role='tab' />
+	[129] (599,173)<div  />
+		[130] (599,173)<ytcp-ve class='style-scope ytcp-content-section' role='none'>컬래버레이션 />
+Shorts 동영상
+공개 상태
+제한사항
+날짜
+조회수
+댓글
+좋아요(싫어요 대비)
+
+</current_dom>

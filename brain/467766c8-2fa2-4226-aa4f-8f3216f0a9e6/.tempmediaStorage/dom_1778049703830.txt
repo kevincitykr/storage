@@ -1,0 +1,97 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+최근 검색어
+[3] (587,154)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10' />
+	[4] (587,154)<span >전체삭제 />
+	[5] (587,166)<div  />
+[6] (333,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[7] (333,227)<span >13700 R... />
+[8] (418,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[9] (418,227)<span >13700F ... />
+[10] (503,227)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[11] (503,227)<span >14700K ... />
+[12] (332,308)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[13] (332,308)<span >4060 Ti... />
+[14] (417,308)<button class='rounded inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 bg-white border border-gray-400 text-gray-900 active:border-gray-900 [&>span]:inline-flex [&>span]:gap-2 [&>span]:items-center' />
+	[15] (417,308)<span >13700F ... />
+최근 가게 검색어
+최근 검색 내역이 없습니다.
+11
+.
+스타벅스
+12
+.
+메탈빌드
+13
+.
+스팀덱
+14
+.
+노트북
+15
+.
+레고 커스텀
+[16] (666,69)<a href='/search/13700%20RTX%204070?openChat=true' />
+	[17] (666,69)<div  />
+		[18] (649,69)<div  />
+			[19] (649,69)<img  />
+		[20] (675,69)<span >채팅하기 />
+[21] (732,69)<a href='/product/form?type=regist' />
+	[22] (732,69)<div  />
+		[23] (715,69)<div  />
+			[24] (715,69)<img  />
+		[25] (741,69)<span >판매하기 />
+[26] (790,69)<a href='/mystore' />
+	[27] (790,69)<div  />
+		[28] (781,69)<div  />
+			[29] (781,69)<img  />
+		[30] (799,69)<span >마이 />
+[31] (215,187)<button class='inline-flex justify-center items-center gap-2 px-4 py-3 min-w-[75px] h-11 text-white bg-gray-900 border active:border-gray-700 rounded-md mt-1 mb-2' />
+	[32] (215,187)<span  />
+		[33] (215,187)<div  />
+			[34] (225,187)<span >카테고리 />
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+13700 RTX 4070 중... | 중고나라 - 안심되는 중고거래
+'13700 RTX 4070'
+검색결과
+총 8개
+카테고리
+[35] (253,461)<button  />
+전체
+가격
+~
+적용
+옵션
+[36] (317,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>무료배송 />
+	[37] (297,653)<span  />
+[38] (398,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>인증셀러 상품 />
+	[39] (367,653)<span  />
+[40] (498,653)<label class='relative [&>input]:hidden flex gap-2 cursor-pointer'>판매완료 상품 제외 />
+	[41] (457,653)<span  />
+선택한 필터
+전체
+판매완료 상품 제외
+[42] (792,735)<button class='inline-flex p-0.5 rounded relative justify-start items-center gap-0.5 text-gray-900 hover:bg-gray-900/5 active:bg-gray-900/10 min-w-fit h-fit' />
+	[43] (792,735)<span >초기화 />
+	[44] (792,746)<div  />
+검색 상품 가격 요약
+평균 가격
+가장 높은 가격
+가장 낮은 가격
+[45] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 bg-white/90 border border-gray-300 rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto' />
+	[46] (854,907)<div  />
+		[47] (841,907)<span >키워드 알림 받기 />
+		[48] (903,907)<div  />
+
+</current_dom>

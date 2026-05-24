@@ -1,0 +1,6 @@
+{
+  "artifactType":  "ARTIFACT_TYPE_IMPLEMENTATION_PLAN",
+  "summary":  "Local AI Workspace (Connect AI) Setup Plan.\nProposes installing VS Code, Ollama, and configuring a lightweight model.\nHighlights hardware limitations (8GB RAM, 2GB VRAM).",
+  "updatedAt":  "2026-04-28T15:06:14.409683100Z",
+  "requestFeedback":  true
+}

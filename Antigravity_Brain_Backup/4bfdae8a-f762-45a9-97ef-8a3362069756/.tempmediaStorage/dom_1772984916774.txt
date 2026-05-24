@@ -1,0 +1,74 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (143,86)<a href='/' id='logo' />
+	[1] (143,58)<img  />
+[2] (64,174)<span >OAuth 2.0 />
+Playground
+[3] (242,175)<a class='op-button' id='resetAllSettings' />
+	[4] (242,173)<img  />
+[5] (813,175)<a class='op-button' id='helpButton' />
+	[6] (813,173)<img  />
+[7] (877,175)<a class='op-button' id='deeplinkButton' />
+	[8] (877,173)<img  />
+[9] (941,175)<a class='op-button' id='oauthConfigButton' />
+	[10] (941,173)<img  />
+[11] (183,262)<h3  />
+	[12] (11,261)<span  />
+	[13] (36,261)<span >Step 1 />
+	[14] (121,261)<span >Select & authorize APIs />
+Select the scope
+for the APIs you would like to access or input your own OAuth scopes below. Then
+click the "Authorize APIs" button
+.
+[15] (179,592)<ul class='op-menulist' id='apisSelect' scrollable='true' />
+	[16] (165,443)<li  />
+		[17] (16,443)<span  />
+		[18] (30,444)<img  />
+		[19] (125,445)<span >AI Platform Training & Prediction API v1 />
+	[20] (165,492)<li  />
+		[21] (16,492)<span  />
+		[22] (30,493)<img  />
+		[23] (84,494)<span >API Gateway API v1 />
+	[24] (165,541)<li  />
+		[25] (16,541)<span  />
+		[26] (30,542)<img  />
+		[27] (76,543)<span >API Keys API v2 />
+	[28] (165,590)<li  />
+		[29] (16,590)<span  />
+		[30] (30,591)<img  />
+		[31] (104,592)<span >API Management API v1alpha />
+	[32] (165,639)<li  />
+		[33] (16,639)<span  />
+		[34] (30,640)<img  />
+		[35] (73,641)<span >API hub API v1 />
+	[36] (165,688)<li  />
+		[37] (16,688)<span  />
+		[38] (30,689)<img  />
+		[39] (91,690)<span >Access Approval API v1 />
+	[40] (165,737)<li  />
+		[41] (16,737)<span  />
+		[42] (30,738)<img  />
+		[43] (109,739)<span >Access Context Manager API v1 />
+	Ad Exchange Buyer API II v2beta1
+	AdMob API v1
+	AdSense Management API v2
+	AdSense Platform API v1
+	AdWords API
+[44] (133,814)<input id='scopes' placeholder='Input your own scopes' />
+Authorize APIs
+[45] (183,889)<h3  />
+	[46] (11,889)<span  />
+	[47] (36,889)<span >Step 2 />
+	[48] (163,889)<span >Exchange authorization code for tokens />
+[49] (183,962)<h3  />
+	[50] (11,961)<span  />
+	[51] (36,961)<span >Step 3 />
+	[52] (124,961)<span >Configure request to API />
+Request / Response
+No request.
+[53] (378,962)<input id='wrapLines' />
+[54] (411,963)<span >Wrap Lines />
+
+</current_dom>

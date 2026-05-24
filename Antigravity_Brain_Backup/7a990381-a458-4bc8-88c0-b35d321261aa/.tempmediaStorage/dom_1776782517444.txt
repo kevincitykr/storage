@@ -1,0 +1,153 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (120,46)<a class='navbar-brand' href='/' id='js-animation-logo' />
+	[1] (120,46)<img  />
+[2] (940,46)<button aria-label='Toggle navigation' class='navbar-toggler' />
+	[3] (940,46)<span  />
+[4] (500,-258)<table class='highlight tab-size js-file-line-container' scrollable='true' />
+	print
+	(
+	'found {} pages, but only scraping {} pages'
+	.
+	format
+	(
+	total_pages
+	,
+	max_pages
+	))
+	remaining_pages
+	=
+	[
+	ScrapeConfig
+	(
+	url
+	+
+	f"?page=
+	{
+	page
+	}
+	"
+	,
+	**
+	BASE_CONFIG
+	)
+	for
+	page
+	in
+	range
+	(
+	2
+	,
+	max_pages
+	+
+	1
+	)
+	]
+	async
+	for
+	result
+	in
+	SCRAPFLY
+	.
+	concurrent_scrape
+	(
+	remaining_pages
+	):
+	product_data
+	=
+	parse_category_page
+	(
+	result
+	)[
+	'product_data'
+	]
+	all_product_data
+	.
+	extend
+	(
+	product_data
+	)
+	print
+	(
+	f"discovered
+	{
+	len
+	(
+	all_product_data
+	)
+	}
+	products from
+	{
+	url
+	}
+	"
+	)
+	return
+	all_product_data
+	async
+	def
+	main
+	():
+	data
+	=
+	await
+	find_aliexpress_products
+	(
+	url
+	=
+	"https://www.aliexpress.com/category/5090301/cellphones.html"
+	,
+	# if max_pages is not provided, all pagination pages will be scraped
+	max_pages
+	=
+	2
+	)
+	# save the data into a json file
+	with
+	open
+	(
+	"category_products.json"
+	,
+	"w"
+	,
+	encoding
+	=
+	"utf-8"
+	)
+	as
+	f
+	:
+	json
+	.
+	dump
+	(
+	data
+	,
+	f
+	,
+	indent
+	=
+	2
+	,
+	ensure_ascii
+	=
+	False
+	)
+	if
+	__name__
+	==
+	"__main__"
+	:
+	asyncio
+	.
+	run
+	(
+	main
+	())
+Above, we request Aliexpress category pages and extract the
+script
+tag containing product preview data as JSON. Then, we use regex to extract a clean JSON dataset.
+
+</current_dom>

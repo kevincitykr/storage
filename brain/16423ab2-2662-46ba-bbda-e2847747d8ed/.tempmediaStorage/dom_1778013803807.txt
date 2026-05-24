@@ -1,0 +1,110 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (181,30)<button class='Sidebar_btn_tab__cK2KB' role='tab'>카페정보 />
+[1] (246,30)<button class='Sidebar_btn_tab__cK2KB' role='tab'>나의활동 />
+[2] (174,121)<a class='Sidebar_thumb__Qdq8s' href='https://cafe.naver.com/joonggonara' />
+[3] (221,96)<a class='Sidebar_nickname__EAtDX' href='https://cafe.naver.com/f-e/cafes/10050146/members/MokGI1z_orABW9EK8LpfFo6WVvnUzJvKl-gGIbFuTRw'>중고나라운영진1 />
+매니저
+[4] (227,123)<a class='Sidebar_link__gAh1M' href='https://cafe.naver.com/f-e/cafes/10050146/introduction/history'>2003.12.10.
+개설 />
+[5] (214,147)<a class='Sidebar_link__gAh1M' href='https://cafe.naver.com/CafeProfileView.nhn?clubid=10050146'>카페소개 />
+[6] (214,210)<a class='Sidebar_link__gAh1M' href='https://cafe.naver.com/f-e/cafes/10050146/introduction/ranking'>카페등급 />
+	카페등급
+	[7] (161,208)<span  />
+	[8] (175,208)<em >숲 />
+[9] (187,243)<button class='Sidebar_link__gAh1M Sidebar_link_member__hahZP' title='멤버목록 비공개 카페' />
+	[10] (161,243)<span >카페멤버수 />
+		카페멤버수
+	[11] (195,243)<em >19,428,438 />
+[12] (264,243)<a class='Sidebar_link_invite___V0jY' href='https://cafe.naver.com/joonggonara?iframe_url=/CafeInviteCheck.nhn?m=check&clubid=10050146'>초대 />
+대표
+인기
+카페
+[13] (214,384)<button class='Sidebar_btn__8YLxw'>카페 가입하기 />
+[14] (214,452)<button class='Sidebar_btn_talk__rBSal'>카페 채팅 />
+[15] (201,516)<input class='input_text' title='카페글 검색어 입력' />
+[16] (266,514)<button class='btn'>검색 />
+[17] (186,568)<a class='Sidebar_link__gAh1M Sidebar_isSelected__3xsnZ' href='/f-e/cafes/10050146/menus/0' role='menuitem'>전체글보기 />
+226,606,427
+[18] (182,602)<a class='Sidebar_link__gAh1M' href='/f-e/cafes/10050146/popular' role='menuitem'>인기글 />
+[19] (205,658)<a class='Sidebar_link__gAh1M' href='https://tracking.joongna.com/i7wnxt' role='menuitem'>💸 빠르게 상품 팔기 />
+[20] (209,693)<a class='Sidebar_link__gAh1M' href='https://tracking.joongna.com/ir0gte' role='menuitem'>📊 중고 시세 확인하기 />
+[21] (209,727)<a class='Sidebar_link__gAh1M' href='/f-e/cafes/10050146/menus/2769' role='menuitem'>상품등록 및 판매 팁✅ />
+[22] (216,762)<a class='Sidebar_link__gAh1M' href='https://vvd.bz/hCWg' role='menuitem'>갤럭시 기획전 바로가기↗️ />
+[23] (213,835)<a class='Sidebar_link__gAh1M' href='https://cafe.naver.com/joonggonara/1117147411' role='menuitem'>[필독] 중고나라 상품등록 변경안내 />
+[24] (200,887)<a class='Sidebar_link__gAh1M' href='https://web.joongna.com/signin?loginType=cafe&callbackUrl=%2Fcafe-help%2Fguide' role='menuitem'>중고나라 고객센터 />
+[25] (193,921)<a class='Sidebar_link__gAh1M' href='https://vvd.bz/cK3S' role='menuitem'>셀러 회원 신청 />
+[26] (193,956)<a class='Sidebar_link__gAh1M' href='https://vvd.bz/dkXU' role='menuitem'>광고/제휴 문의 />
+[27] (195,990)<a class='Sidebar_link__gAh1M' href='https://vvd.bz/W0d' role='menuitem'>네이버 쪽지함> />
+[28] (357,55)<button class='button type_skin type_round'>전체기간 />
+[29] (467,55)<button class='button type_skin type_round'>전체 게시판 />
+[30] (578,55)<button class='button type_skin type_round'>제목만 />
+[31] (694,55)<input class='input_text' placeholder='검색어를 입력해주세요' />
+[32] (765,55)<button class='btn_search' title='검색' />
+[33] (810,55)<button class='MoreArrowButton'>내용 닫기 />
+	[34] (806,55)<span >상세검색 />
+	내용 닫기
+[35] (332,170)<button class='button type_skin type_round'>전체 게시글 />
+[36] (750,170)<button class='button type_skin type_round'>최신순 />
+[37] (822,170)<button class='button type_skin type_round'>15개씩 />
+게시글 목록
+제목
+작성자
+작성일
+조회수
+등록된 게시글이 없습니다.
+페이징 이동
+[38] (572,740)<button class='btn number'>1 />
+[39] (402,819)<button class='button type_skin type_round'>전체기간 />
+[40] (539,819)<button class='button type_skin type_round'>제목만 />
+[41] (695,819)<input class='input_text' placeholder='검색어를 입력해주세요' />
+[42] (793,819)<button class='btn_search' title='검색' />
+파워링크
+[43] (815,955)<a class='sub_link pcol3' href='https://help.naver.com/service/5622/contents/4299?lang=ko&osType=COMMONOS' />
+	[44] (809,955)<span >광고 />
+[45] (342,1066)<a class='lnk_thumb' href='https://ader.naver.com/v1/Z7kQ7LyVpSwny6h9TclVdyRxnolXWab25H802kMT7YPB5cYkeOu_Ly4reokoy_V5LyXBsBZwCRvV5lQunVY79jZ20kH9xL1x7XOVkLv_BaLqu67Ll-Y8JEjBOnC31MIoT__wSIt697YTh4Fz1jSw3CPj_Bv2EbMM2CDIktbs7vnMm6ZXFzXfvhfMujofIOjqeH_NihH3x2m8NL0neHgzCRMqwWkhr9n2ATano8XI9DVFZXdkVI4EyOYOmXDdwqwM_5oB1ArS4ezPKq8Lg0JqICCtinK-1X2xJ_aT30yB9Mi3m1PXuS54fvixD7RuPl4mleYGNDxsZOecefDNqEetKhj7DN0kV4KOMBWe3IVR0whS4kvRmrkAGaUMR7iMeEfu2XUsJxm4Id9sJR8tVVrSaY9WWHtjEVstmDJz8LQVloFzSdWLpywcPbv4yqajjUbj?c=pncafe.new&t=0' />
+	[46] (342,1066)<img  />
+[47] (390,1017)<a class='favicon_wrap' href='https://ader.naver.com/v1/8Mr7QJfMClWTKQz6MT5C-30Z6i0Xhb53YfpdOgY-fIf8rsEXi_o8WkaiSMLGClfzFSlQe1EWx3eACMAI4uJnCPk5lCVjmUNmQLcU3awW3ZyWpbpmNlmLLOrM7hlGe-Qse0A74dSxN0hclpycA_OTn_hSc23fVssaWKXvu7qHCHhc3Cv_6OFlgt78wzgGq_3KZ4eW_CWz_o3_wBLAEAIFU6dNp1RpLuTWSq5DZRNDWQ6LVhnXu1g93yABnxehI6_JR6aYzO0qXwCmposD18zPjWGcOfZ3Oc8CdU4Sp6LYskb0k6QeRr2sESnm7VO-HQqoPZpFct4Ynx8aB7dkbipdGdE5dWLjgnCJF5CdDW7jF-XCv091oYmO2C32T51SE2g9xNnwPRNn1P9LMZgI19gwrnnWNiGOoK_-W1zDhBJVAtA=?c=pncafe.new&t=0' />
+	[48] (390,1017)<img  />
+[49] (451,1017)<a class='lnk_url_area' href='https://ader.naver.com/v1/8Mr7QJfMClWTKQz6MT5C-30Z6i0Xhb53YfpdOgY-fIf8rsEXi_o8WkaiSMLGClfzFSlQe1EWx3eACMAI4uJnCPk5lCVjmUNmQLcU3awW3ZyWpbpmNlmLLOrM7hlGe-Qse0A74dSxN0hclpycA_OTn_hSc23fVssaWKXvu7qHCHhc3Cv_6OFlgt78wzgGq_3KZ4eW_CWz_o3_wBLAEAIFU6dNp1RpLuTWSq5DZRNDWQ6LVhnXu1g93yABnxehI6_JR6aYzO0qXwCmposD18zPjWGcOfZ3Oc8CdU4Sp6LYskb0k6QeRr2sESnm7VO-HQqoPZpFct4Ynx8aB7dkbipdGdE5dWLjgnCJF5CdDW7jF-XCv091oYmO2C32T51SE2g9xNnwPRNn1P9LMZgI19gwrnnWNiGOoK_-W1zDhBJVAtA=?c=pncafe.new&t=0&p=1'>콜라박스
+               · 
+              colabox.com/ko/ />
+[50] (607,1056)<a class='lnk_head pcol3' href='https://ader.naver.com/v1/8Mr7QJfMClWTKQz6MT5C-30Z6i0Xhb53YfpdOgY-fIf8rsEXi_o8WkaiSMLGClfzFSlQe1EWx3eACMAI4uJnCPk5lCVjmUNmQLcU3awW3ZyWpbpmNlmLLOrM7hlGe-Qse0A74dSxN0hclpycA_OTn_hSc23fVssaWKXvu7qHCHhc3Cv_6OFlgt78wzgGq_3KZ4eW_CWz_o3_wBLAEAIFU6dNp1RpLuTWSq5DZRNDWQ6LVhnXu1g93yABnxehI6_JR6aYzO0qXwCmposD18zPjWGcOfZ3Oc8CdU4Sp6LYskb0k6QeRr2sESnm7VO-HQqoPZpFct4Ynx8aB7dkbipdGdE5dWLjgnCJF5CdDW7jF-XCv091oYmO2C32T51SE2g9xNnwPRNn1P9LMZgI19gwrnnWNiGOoK_-W1zDhBJVAtA=?c=pncafe.new&t=0&p=0' />
+	[51] (519,1055)<span  />
+		[52] (444,1055)<span >프리미엄 방음부스! 콜라박스 />
+		[53] (543,1055)<span >· 100% 국내생산 />
+		[54] (618,1055)<span >· 유해물질 ZERO! />
+[55] (607,1091)<a class='link_desc' href='https://ader.naver.com/v1/8Mr7QJfMClWTKQz6MT5C-30Z6i0Xhb53YfpdOgY-fIf8rsEXi_o8WkaiSMLGClfzFSlQe1EWx3eACMAI4uJnCPk5lCVjmUNmQLcU3awW3ZyWpbpmNlmLLOrM7hlGe-Qse0A74dSxN0hclpycA_OTn_hSc23fVssaWKXvu7qHCHhc3Cv_6OFlgt78wzgGq_3KZ4eW_CWz_o3_wBLAEAIFU6dNp1RpLuTWSq5DZRNDWQ6LVhnXu1g93yABnxehI6_JR6aYzO0qXwCmposD18zPjWGcOfZ3Oc8CdU4Sp6LYskb0k6QeRr2sESnm7VO-HQqoPZpFct4Ynx8aB7dkbipdGdE5dWLjgnCJF5CdDW7jF-XCv091oYmO2C32T51SE2g9xNnwPRNn1P9LMZgI19gwrnnWNiGOoK_-W1zDhBJVAtA=?c=pncafe.new&t=0'>공사 없이 당일 설치, 즉시 사용! 조립식 부스로 하루만에
+중국산 저가 부스, 후회하면 늦어요! />
+	[56] (637,1090)<strong >워크스테이션 />
+[57] (404,1140)<a class='link pcol3' href='https://ader.naver.com/v1/s0ZqEbI9mm3-Q4m9Q1IuriVcbP-clQ5JVIT_ivSxcdpif4Dq7f6IOIbjPJMvniQ42fZOsv5N4k1VWGPLRpyFo_ezo12UPrlgzdbEOu1d9ZBspY72RxPqT7KWyeVsUczFCnuw1-Ca1eDaVDdT_BjG3oYJxwG6sqpdXAh54HSj0X-lEczrOdc0VMjHLRn_5JHveYNmtRnxdoKTIAccvCFQE2mJzainHKnBAvETQWX2fitoRbNe-n0O68GDdLlFRBMHWMkp0TtZ3AEJXtaQ8z9kuIjc5rZSnBK06q58Kognls8RxlSEOytxOG6HYaMna7ME-lKFTILpzSEUPUb_9zPRi7F2czq8j41eRBigYQDWcDsBq_uvgYnhSpDE5r9lrtfk5zDAdYTRrvu7CSCYsPJzTay4bDcU08L8Vl5Kjcrsh_d1bKMFKD-FqE6i77qsm7n_?c=pncafe.new&t=0'>회의실 />
+[58] (459,1140)<a class='link pcol3' href='https://ader.naver.com/v1/s0ZqEbI9mm3-Q4m9Q1IuroVqBG3oa-58SMghlUh7h02LC9yy-YTbc_wBHsaNT5qTtyBo931nzp3qk5Z47jEyoLdAC-tRfIKqsYquY6uzR9EjoMU-HV2ZJM7NCfgI24OlvXhgV0QBZXWSz3SsGngxA81zh-EOYTRpgiP7FHEDLJKKVBlz7NfJY62pe3LFOTxJJlj9CCLj_qPILYBrQFai-X4ubfhTrMka7bfyuny23zaOwAsDsKQoFphn1MIs6GtE5v8sSqZA7pC6Jm_aRjVQ0I-ASPtU8DYwF1pvn_nd4nx0gxwUat4uvo3NcgLBky8gliHFIMnpuNLpxBqrrzcBCd3PGF1JnkYI6E1159rFftu9urlXNYg741IF3f9xuYVFod0bFbZY6MkV3ff8nD3_ZDVCnhGtrKTeUUq1We8M6f7U1NbRBu5Xkm53JTcmt64V?c=pncafe.new&t=0'>화상회의실 />
+[59] (518,1140)<a class='link pcol3' href='https://ader.naver.com/v1/s0ZqEbI9mm3-Q4m9Q1Iurvx4sU9h-PiirpZDSZelvZkbWc_EAiKpcNMXk5Tt5Kuyuz19EJHTZT8DviUlzX5gQmXmS_3klfR4vb3hm_MRjS6HUGDvxqFnYfDrqoZbPSCmCC4MSVq_T-Pq79vnwTEUESyzbxLvf86FykjhSjz8Bd28rEJnUcXjW6jubmxypErj45EhGF6g8KWFPUwMuwNktuGShOOLOdhK3e1z5dlbN1B8xuOhKOonLVSH2mDMTGlVp-jikwg27d3fPZuMkiz-9d0z2E9LKYc7BvkIjdSndwDme9feyonavsKhEVVkVz84k_zb9-zjVFg16d0okZ3tRGeW_w2lv7M_IXTgTvT9xGC-I8LpU7ff0JfgT_rR9gNuaIBZfpPZt21OVkSKYkUcNLbhQXC2OUj9rgN_YpzbUivUpKKNP5gJVJhP8cJCbNOP?c=pncafe.new&t=0'>전화부스 />
+[60] (582,1140)<a class='link pcol3' href='https://ader.naver.com/v1/Z7kQ7LyVpSwny6h9TclVd6cJaFWFV8tmV8qFw9bjSiXjyYEfTSNefeepmS_shYYCLC9VyCFz33FVtU3NRM_iNw9esVuezSOD3k8JYFm3fVYjJ1EnL9P8tBbvt5kv4piqKyTW5-iuHv7Uj0BPE_IFSofv1LS79M-K1ilWvdaVLuiDQhOvaPkKEHbMFkqiM_ebVdbsqxdBB_jbpDwRkK2kJ2UurECrsFfTA92y47gRFQvnLwl9527ptrlHIpLXZOctJnausUmYSxidkHX6Q8WZHW_QVn-QPkS8VMYlQ7-mYwjA99bdnOBIydMAmiLmKJRY5uZ7pGTy3vcunRycLR-Z1kYbQhUEdho3mZ2LJju7DDsCQ9Fg6dPoUX_deIWzIruPTVw56gPPkvJj-PGyEo4_o704cz549HHcjMewa8B9HHe4RjFwB21rKFgT8Uj0pQye?c=pncafe.new&t=0'>방음부스렌탈 />
+[61] (342,1259)<a class='lnk_thumb' href='https://ader.naver.com/v1/xuRwksewu53uphEvXdexC1bF_nt09myQuJHUb0TFHqqsK-Jag2jCzKzvihZ5z0OfjK5g9QLDRgfKu7pDDS0cxrucWtygLc9BQuqEdNiNPUflqHGvjowSQgzB3Uuy1QAlHVMGpvCqh2B1Vw_sTGjEk4ANpcvavEAMUMP99K7OkD9FRwKsv6B_AbLeJurOdKF7g_VwPrjfgN7SsjNeYzbs6lQ684jmBxWxVpBQgcLoI1_C9GHZUREaQh9X2J_s4E4oyuSbK20UTRMIAApnRWZ1qw==?c=pncafe.new&t=1' />
+	[62] (342,1259)<img  />
+[63] (390,1210)<a class='favicon_wrap' href='https://ader.naver.com/v1/cSjaLWmBf4W9zops4SaS7qoshrBA6p-kR43OVxs-3ouGJ-cmOqVkM8aHal12d9O57twwJWTK70UDhPGrEIfR81oc9dvSKGC_GY7g69sC2sOZF8Pj2a3Fs3Ed3rOayZHiZx62P4fQ3dGRKTM6hEuZ-E7RujnVKnYpJQFJUB1V2_Xp51FLTHCHroR5RF0ttKHpkMUHe4uGhmhvA92vBSs3_eNGK9Wu4ik_ro2cONBiE0XCk8t0QWb1KRuHjEQ-T-cv?c=pncafe.new&t=1' />
+	[64] (390,1210)<img  />
+[65] (448,1210)<a class='lnk_url_area' href='https://ader.naver.com/v1/cSjaLWmBf4W9zops4SaS7qoshrBA6p-kR43OVxs-3ouGJ-cmOqVkM8aHal12d9O57twwJWTK70UDhPGrEIfR81oc9dvSKGC_GY7g69sC2sOZF8Pj2a3Fs3Ed3rOayZHiZx62P4fQ3dGRKTM6hEuZ-E7RujnVKnYpJQFJUB1V2_Xp51FLTHCHroR5RF0ttKHpkMUHe4uGhmhvA92vBSs3_eNGK9Wu4ik_ro2cONBiE0XCk8t0QWb1KRuHjEQ-T-cv?c=pncafe.new&t=1&p=1'>인터아이코리아
+               · 
+              iikr.co.kr />
+[66] (607,1249)<a class='lnk_head pcol3' href='https://ader.naver.com/v1/cSjaLWmBf4W9zops4SaS7qoshrBA6p-kR43OVxs-3ouGJ-cmOqVkM8aHal12d9O57twwJWTK70UDhPGrEIfR81oc9dvSKGC_GY7g69sC2sOZF8Pj2a3Fs3Ed3rOayZHiZx62P4fQ3dGRKTM6hEuZ-E7RujnVKnYpJQFJUB1V2_Xp51FLTHCHroR5RF0ttKHpkMUHe4uGhmhvA92vBSs3_eNGK9Wu4ik_ro2cONBiE0XCk8t0QWb1KRuHjEQ-T-cv?c=pncafe.new&t=1&p=0' />
+	[67] (435,1248)<span >HP 총판 인터아이코리아 />
+[68] (607,1284)<a class='link_desc' href='https://ader.naver.com/v1/cSjaLWmBf4W9zops4SaS7qoshrBA6p-kR43OVxs-3ouGJ-cmOqVkM8aHal12d9O57twwJWTK70UDhPGrEIfR81oc9dvSKGC_GY7g69sC2sOZF8Pj2a3Fs3Ed3rOayZHiZx62P4fQ3dGRKTM6hEuZ-E7RujnVKnYpJQFJUB1V2_Xp51FLTHCHroR5RF0ttKHpkMUHe4uGhmhvA92vBSs3_eNGK9Wu4ik_ro2cONBiE0XCk8t0QWb1KRuHjEQ-T-cv?c=pncafe.new&t=1'>HP
+/3D프린터 국내총판, HP공인서비스협력사,Cloud-i 솔루션 />
+	[69] (421,1283)<strong >워크스테이션 />
+[70] (418,1333)<a class='link pcol3' href='https://ader.naver.com/v1/cR5lrfMe_Z8zRHpCnDfriY7WQQgCUB6wtNNeNmVX-Y_v-9dIANDuujdhKCgJEoLblpT6NRZpaCjkjm01x9rLxJmgiYsawtm0_d0H7TqHRECP1ojkP2FJNO7B6HgL_8nMG134_B6A5V2wDnZWziKcySUkmTYjl8HPhyUdhji4Hm6HSU71nZWsNbOoVFWjpTl8xqxV6VdQCGU344b9Kb8qfBk-4XOVtY5l4XHyngpXlv56Dc5L3eIc4a1XsIWKQFzVgN_XGcGVB4CG_Yw3CFse7kaa4LSQpw8U9kF6RLn5pEW2jN3mtHs3cncN1w_3YC23?c=pncafe.new&t=1'>워크스테이션 />
+[71] (483,1333)<a class='link pcol3' href='https://ader.naver.com/v1/NpMU7q0T12XPMoQ0OMWD6wByXCYFb_kqGNRrByBaslqE0hTQ5sDAQ0AzB_TeveIP8GRbhvsJrD1PhUVLm5WvsGmQNknaDiPFBkNQqFdAM9h0PZVWSU-N0zeD0DaRNIvLCTKa0Hq6ku2bxaW5J7E0yQ7eNLQYx4jeskQ-ubgjslW8vKoFIKXvmvvQsmfYa31dkz2lcQRtHJ9JOBgGreKBz6lVfGpOrLtBzYR8ZyonDaOb2bbkOsg4p_g1W1YpaGNan4kEEtgj1wNAoB7LfnW6sqgoKD6j-eqqYTRmylqKqbA=?c=pncafe.new&t=1'>3D프린팅 />
+[72] (543,1333)<a class='link pcol3' href='https://ader.naver.com/v1/NbKHCbMK_WrUSzviKeGrnTkFdy4JVM5hkBY9NB4mWL68zIHVuN9-OEcR-wLU0B8x7DuyVz29y-a_5qFht2PagDMMwoKUp-3wu_ldMCplJ2UXSbN2nwZWf6XAYWRhibd9aEZG3gXmWM3COd81SpHtNHPTMwX2WjFDCYo4YdV5mImyMhkFBwYqCIQzmdV2wSTImQFHRQ0QRBqrw8RhR5jrTKn8a89AkkbaLadV4R1KIfMyXv7eNXi_0Cojt0wnOAWzh0WMTZw6T4fGjn_Lia5DbdV11uxoQm805ulVsaFd0mE=?c=pncafe.new&t=1'>문의및견적 />
+[73] (320,1403)<a class='favicon_wrap' href='https://ader.naver.com/v1/69Dku8Jp82ooMTPb4cGLauAKPS6NMymgJOXRiMqqT-YvrGEiLQJiq55YPtTvu4IdsfmqCwPgApIVqzSVvqyjzYNknesFD5GtNu6AeyPJ2807wm4lpQj-cmuqzk1WjSZzeP4bkshWWWwK6EN1vB6gbf0vgu2EnNCxNAG80mgLUVMiMgzLbIOfGDqHYmpVsB87ec4hRwSnQeG7rxgymfqvDMzM7bR9XGMoxSiOuIN6Nbx0eeW44Ej8dhdPEtYowmRAicSPNDyUZUCqgRyx_mfnPhsEE_h9cyfYVgnwRvYtoTc9JcjibCj9cCQ_F2Q_qKG017h0aIoG5CN8WwNWMrdwTL2wRCf-lR3eabbrkNrl5xEiQKfq1pYqGko1p_M525Gn6CChwzevcYFWuPggiAHR_GdXxA8HbHu7puvfKIasU6Q-BGyulVqO3UmgFrL2oHSm?c=pncafe.new&t=0' />
+	[74] (320,1403)<img  />
+[75] (398,1403)<a class='lnk_url_area' href='https://ader.naver.com/v1/69Dku8Jp82ooMTPb4cGLauAKPS6NMymgJOXRiMqqT-YvrGEiLQJiq55YPtTvu4IdsfmqCwPgApIVqzSVvqyjzYNknesFD5GtNu6AeyPJ2807wm4lpQj-cmuqzk1WjSZzeP4bkshWWWwK6EN1vB6gbf0vgu2EnNCxNAG80mgLUVMiMgzLbIOfGDqHYmpVsB87ec4hRwSnQeG7rxgymfqvDMzM7bR9XGMoxSiOuIN6Nbx0eeW44Ej8dhdPEtYowmRAicSPNDyUZUCqgRyx_mfnPhsEE_h9cyfYVgnwRvYtoTc9JcjibCj9cCQ_F2Q_qKG017h0aIoG5CN8WwNWMrdwTL2wRCf-lR3eabbrkNrl5xEiQKfq1pYqGko1p_M525Gn6CChwzevcYFWuPggiAHR_GdXxA8HbHu7puvfKIasU6Q-BGyulVqO3UmgFrL2oHSm?c=pncafe.new&t=0&p=1'>마이크로웨이시스템
+               · 
+              microway.co.kr />
+[76] (572,1442)<a class='lnk_head pcol3' href='https://ader.naver.com/v1/69Dku8Jp82ooMTPb4cGLauAKPS6NMymgJOXRiMqqT-YvrGEiLQJiq55YPtTvu4IdsfmqCwPgApIVqzSVvqyjzYNknesFD5GtNu6AeyPJ2807wm4lpQj-cmuqzk1WjSZzeP4bkshWWWwK6EN1vB6gbf0vgu2EnNCxNAG80mgLUVMiMgzLbIOfGDqHYmpVsB87ec4hRwSnQeG7rxgymfqvDMzM7bR9XGMoxSiOuIN6Nbx0eeW44Ej8dhdPEtYowmRAicSPNDyUZUCqgRyx_mfnPhsEE_h9cyfYVgnwRvYtoTc9JcjibCj9cCQ_F2Q_qKG017h0aIoG5CN8WwNWMrdwTL2wRCf-lR3eabbrkNrl5xEiQKfq1pYqGko1p_M525Gn6CChwzevcYFWuPggiAHR_GdXxA8HbHu7puvfKIasU6Q-BGyulVqO3UmgFrL2oHSm?c=pncafe.new&t=0&p=0' />
+	[77] (371,1441)<span >슈퍼마이크로 마이크로웨이 />
+[78] (572,1477)<a class='link_desc' href='https://ader.naver.com/v1/69Dku8Jp82ooMTPb4cGLauAKPS6NMymgJOXRiMqqT-YvrGEiLQJiq55YPtTvu4IdsfmqCwPgApIVqzSVvqyjzYNknesFD5GtNu6AeyPJ2807wm4lpQj-cmuqzk1WjSZzeP4bkshWWWwK6EN1vB6gbf0vgu2EnNCxNAG80mgLUVMiMgzLbIOfGDqHYmpVsB87ec4hRwSnQeG7rxgymfqvDMzM7bR9XGMoxSiOuIN6Nbx0eeW44Ej8dhdPEtYowmRAicSPNDyUZUCqgRyx_mfnPhsEE_h9cyfYVgnwRvYtoTc9JcjibCj9cCQ_F2Q_qKG017h0aIoG5CN8WwNWMrdwTL2wRCf-lR3eabbrkNrl5xEiQKfq1pYqGko1p_M525Gn6CChwzevcYFWuPggiAHR_GdXxA8HbHu7puvfKIasU6Q-BGyulVqO3UmgFrL2oHSm?c=pncafe.new&t=0'>슈퍼마이크로 한국 공식수입원, GPU, Xeon Phi, 스토리지, 서버, 솔루션 />
+
+</current_dom>

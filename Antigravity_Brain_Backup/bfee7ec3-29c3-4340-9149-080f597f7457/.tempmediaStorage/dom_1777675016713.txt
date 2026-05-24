@@ -1,0 +1,414 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (500,500)<div  />
+	[1] (40,41)<div  />
+		[2] (29,41)<div  />
+			[3] (29,40)<button class='normal css-1rv5af9 e2kkri01' />
+				[4] (29,40)<span  />
+		[5] (60,41)<div >해구대 />
+			해구대
+	[6] (67,469)<div class='e1sk302d6 e1gzd8jw0 css-1f7d5cm ex82sv80' scrollable='true' />
+		[7] (65,94)<div  />
+			[8] (65,93)<a href='https://global.windly.cc/view3/main' />
+				[9] (65,93)<div  />
+					[10] (65,93)<div  />
+						[11] (15,93)<div  />
+						[12] (26,93)<div >홈 />
+							홈
+		[13] (65,244)<div  />
+			[14] (65,156)<div  />
+				[15] (41,156)<div  />
+					[16] (41,156)<div  />
+						[17] (48,156)<div >상품 수집 및 검색 />
+							상품 수집 및 검색
+			[18] (65,202)<div  />
+				[19] (65,202)<a href='https://global.windly.cc/view3/product-import' />
+					[20] (65,202)<div  />
+						[21] (65,202)<div  />
+							[22] (43,202)<div >상품 수집 />
+								상품 수집
+			[23] (65,246)<a href='https://global.windly.cc/view3/global-sourcing' />
+				[24] (65,246)<div  />
+					[25] (65,246)<div  />
+						[26] (57,246)<div >AI 전세계 상품 수집 />
+							AI 전세계 상품 수집
+			[27] (65,290)<div  />
+				[28] (65,290)<a href='https://global.windly.cc/view3/search-product' />
+					[29] (65,290)<div  />
+						[30] (65,290)<div  />
+							[31] (52,290)<div >1688 상품 검색 />
+								1688 상품 검색
+			[32] (65,334)<div  />
+				[33] (65,334)<a href='https://global.windly.cc/view3/recommended-product' />
+					[34] (65,334)<div  />
+						[35] (65,334)<div  />
+							[36] (62,334)<div >인기 상품 추천 />
+								인기 상품 추천
+								[37] (84,334)<div >New />
+									New
+		[38] (65,463)<div  />
+			[39] (65,396)<div  />
+				[40] (30,396)<div  />
+					[41] (30,396)<div  />
+						[42] (36,396)<div >상품 관리 />
+							상품 관리
+			[43] (65,442)<a class='active' href='/view2/interested-product' />
+				[44] (65,442)<div  />
+					[45] (65,442)<div  />
+						[46] (42,442)<div >수집상품 />
+							수집상품
+			[47] (65,486)<a href='/view2/registered-product' />
+				[48] (65,486)<div  />
+					[49] (65,486)<div  />
+						[50] (42,486)<div >등록상품 />
+							등록상품
+			[51] (65,530)<div  />
+				[52] (65,530)<a href='https://global.windly.cc/view3/stock-sync' />
+					[53] (65,530)<div  />
+						[54] (65,530)<div  />
+							[55] (49,530)<div >재고 업데이트 />
+								재고 업데이트
+		[56] (65,637)<div  />
+			[57] (65,593)<div  />
+				[58] (30,593)<div  />
+					[59] (30,593)<div  />
+						[60] (36,593)<div >상품 분석 />
+							상품 분석
+			[61] (65,639)<a href='https://global.windly.cc/view3/keyword-rank' />
+				[62] (65,639)<div  />
+					[63] (65,639)<div  />
+						[64] (50,639)<div >상품 순위 분석 />
+							상품 순위 분석
+			[65] (65,683)<div  />
+				[66] (65,683)<a href='/view2/inflow-analysis' />
+					[67] (65,683)<div  />
+						[68] (65,683)<div  />
+							[69] (46,683)<div >유입수 분석 />
+								유입수 분석
+		[70] (65,856)<div  />
+			[71] (65,745)<div  />
+				[72] (33,745)<div  />
+					[73] (33,745)<div  />
+						[74] (40,745)<div >판매 관리 />
+							판매 관리
+							[75] (54,738)<div  />
+			[76] (65,791)<div  />
+				[77] (65,791)<a href='https://global.windly.cc/view3/order-management?orderStatus=ACCEPT' />
+					[78] (65,791)<div  />
+						[79] (65,791)<div  />
+							[80] (43,791)<div >주문 관리 />
+								주문 관리
+								[81] (59,785)<div  />
+			[82] (65,835)<div  />
+				[83] (65,835)<a href='https://global.windly.cc/view3/customer-support' />
+					[84] (65,835)<div  />
+						[85] (65,835)<div  />
+							[86] (43,835)<div >문의 관리 />
+								문의 관리
+								[87] (59,829)<div  />
+			취소/교환/반품 관리
+			배송대행지
+			통관고유부호 조회
+	[88] (67,907)<button class='css-13zuw62 e14cppar4' />
+		실시간 삭제
+	[89] (67,969)<div >플랜 결제하기 />
+		플랜 결제하기
+	[90] (138,500)<div  />
+		[91] (133,59)<button class='normal css-1rv5af9 e2kkri01' />
+			[92] (133,59)<span  />
+	[93] (948,940)<div >문의 />
+		문의
+	[94] (567,500)<div class='e1g7n8vn1 e1gzd8jw0 css-wj4two ex82sv80' scrollable='true' />
+		수집상품
+		[95] (769,31)<div  />
+			[96] (768,31)<div  />
+				[97] (763,31)<span >AI 비서 윈비 />
+				[98] (789,31)<div  />
+		[99] (818,31)<div  />
+			[100] (818,31)<div  />
+				[101] (818,31)<div  />
+		[102] (843,31)<div  />
+			[103] (843,31)<div  />
+				[104] (843,31)<div  />
+		[105] (915,31)<div  />
+			[106] (915,31)<div  />
+				[107] (915,31)<div  />
+					[108] (915,31)<div >kkseob0116@gmail.com />
+						[109] (871,31)<div  />
+		[110] (457,101)<input class='css-7c4ua5 e1wcl2rh2' placeholder='상품명 검색' />
+		[111] (791,101)<button class='secondary css-xme2xs e2kkri01' />
+			[112] (791,101)<span >상품 코드 검색 />
+		[113] (868,101)<div  />
+			[114] (868,101)<div  />
+				[115] (868,101)<button class='primary css-mylvdg e2kkri01' />
+					[116] (868,101)<span >일괄 수집 />
+		[117] (939,101)<div  />
+			[118] (939,101)<button class='primary css-mylvdg e2kkri01' />
+				[119] (939,101)<span >상품 수동 추가 />
+		[120] (161,171)<label class='css-0 e18zhkku2' />
+			[121] (161,171)<div  />
+		0
+		개
+		[122] (258,171)<div  />
+			[123] (201,171)<div  />
+			[124] (223,171)<div  />
+			[125] (246,171)<div  />
+			[126] (269,171)<div  />
+			[127] (292,171)<div  />
+		[128] (683,171)<button class='active e1ffbmpl1 css-1uhqbcf e2kkri01' />
+			[129] (683,171)<span >카드뷰 />
+				카드뷰
+		[130] (738,171)<button class='secondary e1ffbmpl1 css-1uhqbcf e2kkri01' />
+			[131] (738,171)<span >목록뷰 />
+				목록뷰
+		[132] (802,171)<button class='normal ebvjokl1 css-1j4re7y e2kkri01' />
+			[133] (802,171)<span >1 />
+		[134] (815,171)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[135] (815,171)<span >2 />
+		[136] (827,171)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[137] (827,171)<span >3 />
+		[138] (840,171)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[139] (840,171)<span >4 />
+		[140] (852,171)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[141] (852,171)<span >5 />
+		[142] (865,171)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[143] (865,171)<span  />
+		[144] (877,171)<button class='normal ebvjokl1 css-1x7pjr4 e2kkri01' />
+			[145] (877,171)<span  />
+		총 174개
+		[146] (947,171)<button class='css-1mb5vlr e1lwwc7f3'>20개 />
+			20개
+			[147] (961,171)<div  />
+		[148] (250,418)<div  />
+			[149] (250,418)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462496' />
+				[150] (250,233)<div  />
+					[151] (228,233)<label class='css-w5tc8z ej8pw3r17' />
+						[152] (226,233)<div  />
+							[153] (226,233)<label class='css-0 e18zhkku2'>235462496 />
+								[154] (204,233)<div  />
+								235462496
+					[155] (297,233)<div  />
+				[156] (250,444)<div  />
+					[157] (250,369)<img  />
+					[158] (250,524)<div  />
+						[159] (250,524)<span >연세우유 더클래식 멸균우유 180ml 24팩+저당 아몬드&잣 두유 190ml 24팩 />
+							[160] (202,509)<img  />
+					[161] (250,589)<div  />
+						[162] (211,589)<div >34,000
+~
+34,000
+원 />
+						[163] (296,589)<div  />
+							[164] (296,589)<div  />
+								[165] (296,589)<div  />
+									[166] (296,589)<div  />
+		[167] (375,418)<div  />
+			[168] (375,418)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462492' />
+				[169] (375,233)<div  />
+					[170] (353,233)<label class='css-w5tc8z ej8pw3r17' />
+						[171] (351,233)<div  />
+							[172] (351,233)<label class='css-0 e18zhkku2'>235462492 />
+								[173] (329,233)<div  />
+								235462492
+					[174] (422,233)<div  />
+				[175] (375,444)<div  />
+					[176] (375,369)<img  />
+					[177] (375,524)<div  />
+						[178] (375,524)<span >연세우유 저당 두유 190ml 72팩 (검은콩&고칼슘 48팩+아몬드&잣 24팩) />
+							[179] (327,509)<img  />
+					[180] (375,589)<div  />
+						[181] (336,589)<div >48,500
+~
+48,500
+원 />
+						[182] (421,589)<div  />
+							[183] (421,589)<div  />
+								[184] (421,589)<div  />
+									[185] (421,589)<div  />
+		[186] (501,418)<div  />
+			[187] (501,418)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462489' />
+				[188] (501,233)<div  />
+					[189] (479,233)<label class='css-w5tc8z ej8pw3r17' />
+						[190] (477,233)<div  />
+							[191] (477,233)<label class='css-0 e18zhkku2'>235462489 />
+								[192] (455,233)<div  />
+								235462489
+					[193] (548,233)<div  />
+				[194] (501,444)<div  />
+					[195] (501,369)<img  />
+					[196] (501,524)<div  />
+						[197] (501,524)<span >[진웰스] 홍삼정스틱프리미엄_10g X 30포 />
+							[198] (453,509)<img  />
+					[199] (501,589)<div  />
+						[200] (462,589)<div >60,000
+~
+60,000
+원 />
+						[201] (547,589)<div  />
+							[202] (547,589)<div  />
+								[203] (547,589)<div  />
+									[204] (547,589)<div  />
+		[205] (626,418)<div  />
+			[206] (626,418)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462485' />
+				[207] (626,233)<div  />
+					[208] (604,233)<label class='css-w5tc8z ej8pw3r17' />
+						[209] (602,233)<div  />
+							[210] (602,233)<label class='css-0 e18zhkku2'>235462485 />
+								[211] (580,233)<div  />
+								235462485
+					[212] (673,233)<div  />
+				[213] (626,444)<div  />
+					[214] (626,369)<img  />
+					[215] (626,524)<div  />
+						[216] (626,524)<span >달콤하고 고소한 뉴질랜드 고당도 단호박 2통 />
+							[217] (578,509)<img  />
+					[218] (626,589)<div  />
+						[219] (587,589)<div >12,500
+~
+12,500
+원 />
+						[220] (672,589)<div  />
+							[221] (672,589)<div  />
+								[222] (672,589)<div  />
+									[223] (672,589)<div  />
+		[224] (752,418)<div  />
+			[225] (752,418)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462482' />
+				[226] (752,233)<div  />
+					[227] (730,233)<label class='css-w5tc8z ej8pw3r17' />
+						[228] (728,233)<div  />
+							[229] (728,233)<label class='css-0 e18zhkku2'>235462482 />
+								[230] (706,233)<div  />
+								235462482
+					[231] (799,233)<div  />
+				[232] (752,444)<div  />
+					[233] (752,369)<img  />
+					[234] (752,524)<div  />
+						[235] (752,524)<span >[일화본사직영] 일화차시 호박팥차 350ml X 24 />
+							[236] (704,509)<img  />
+					[237] (752,589)<div  />
+						[238] (713,589)<div >23,000
+~
+23,000
+원 />
+						[239] (798,589)<div  />
+							[240] (798,589)<div  />
+								[241] (798,589)<div  />
+									[242] (798,589)<div  />
+		[243] (877,418)<div  />
+			[244] (877,418)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462480' />
+				[245] (877,233)<div  />
+					[246] (855,233)<label class='css-w5tc8z ej8pw3r17' />
+						[247] (853,233)<div  />
+							[248] (853,233)<label class='css-0 e18zhkku2'>235462480 />
+								[249] (831,233)<div  />
+								235462480
+					[250] (924,233)<div  />
+				[251] (877,444)<div  />
+					[252] (877,369)<img  />
+					[253] (877,524)<div  />
+						[254] (877,524)<span >NEW 캐츠랑 키튼&주니어 8kg />
+							[255] (829,509)<img  />
+					[256] (877,589)<div  />
+						[257] (838,589)<div >43,000
+~
+43,000
+원 />
+						[258] (923,589)<div  />
+							[259] (923,589)<div  />
+								[260] (923,589)<div  />
+									[261] (923,589)<div  />
+		[262] (250,858)<div  />
+			[263] (250,858)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462479' />
+				[264] (250,673)<div  />
+					[265] (228,673)<label class='css-w5tc8z ej8pw3r17' />
+						[266] (225,673)<div  />
+							[267] (225,673)<label class='css-0 e18zhkku2'>235462479 />
+								[268] (204,673)<div  />
+								235462479
+					[269] (297,673)<div  />
+				[270] (250,884)<div  />
+					[271] (250,810)<img  />
+					[272] (250,964)<div  />
+						[273] (250,964)<span >켈로그 시리얼 콘푸로스트 다크초코550g + 아몬드 푸레이크600g + 미니30g />
+							[274] (202,950)<img  />
+		[275] (375,858)<div  />
+			[276] (375,858)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462441' />
+				[277] (375,673)<div  />
+					[278] (353,673)<label class='css-w5tc8z ej8pw3r17' />
+						[279] (351,673)<div  />
+							[280] (351,673)<label class='css-0 e18zhkku2'>235462441 />
+								[281] (329,673)<div  />
+								235462441
+					[282] (422,673)<div  />
+				[283] (375,884)<div  />
+					[284] (375,810)<img  />
+					[285] (375,964)<div  />
+						[286] (375,964)<span >[농협안심한우] 1등급 한우 등심 300g />
+							[287] (327,950)<img  />
+		[288] (501,858)<div  />
+			[289] (501,858)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462438' />
+				[290] (501,673)<div  />
+					[291] (479,673)<label class='css-w5tc8z ej8pw3r17' />
+						[292] (477,673)<div  />
+							[293] (477,673)<label class='css-0 e18zhkku2'>235462438 />
+								[294] (455,673)<div  />
+								235462438
+					[295] (548,673)<div  />
+				[296] (501,884)<div  />
+					[297] (501,810)<img  />
+					[298] (453,950)<img  />
+					이카스틱오징어18g (오발) *10개
+		[299] (626,858)<div  />
+			[300] (626,858)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462436' />
+				[301] (626,673)<div  />
+					[302] (604,673)<label class='css-w5tc8z ej8pw3r17' />
+						[303] (602,673)<div  />
+							[304] (602,673)<label class='css-0 e18zhkku2'>235462436 />
+								[305] (580,673)<div  />
+								235462436
+					[306] (673,673)<div  />
+				[307] (626,884)<div  />
+					[308] (626,810)<img  />
+					[309] (626,964)<div  />
+						[310] (626,964)<span >○바삭바삭 크리스피 오징어입깡 100g/200g 과자 스낵 주전부리 안주 />
+							[311] (578,950)<img  />
+		[312] (752,858)<div  />
+			[313] (752,858)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462432' />
+				[314] (752,673)<div  />
+					[315] (730,673)<label class='css-w5tc8z ej8pw3r17' />
+						[316] (728,673)<div  />
+							[317] (728,673)<label class='css-0 e18zhkku2'>235462432 />
+								[318] (706,673)<div  />
+								235462432
+					[319] (799,673)<div  />
+				[320] (752,884)<div  />
+					[321] (752,810)<img  />
+					[322] (752,964)<div  />
+						[323] (752,964)<span >캐츠랑 고양이캔 고메디쉬 4가지맛 콤보 160g 4종류*12 총48캔 />
+							[324] (704,950)<img  />
+		[325] (877,858)<div  />
+			[326] (877,858)<a class='css-1cy5b0r ej8pw3r19' href='/view2/interested-product/235462429' />
+				[327] (877,673)<div  />
+					[328] (855,673)<label class='css-w5tc8z ej8pw3r17' />
+						[329] (853,673)<div  />
+							[330] (853,673)<label class='css-0 e18zhkku2'>235462429 />
+								[331] (831,673)<div  />
+								235462429
+					[332] (924,673)<div  />
+				[333] (877,884)<div  />
+					[334] (877,810)<img  />
+					[335] (877,964)<div  />
+						[336] (877,964)<span >수제 한돈 고추장 불고기 300g*1팩 2팩 4팩 />
+							[337] (829,950)<img  />
+[338] (789,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 jpRGYL' href='/home' />
+	[339] (789,875)<span >홈 />
+[340] (862,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/user-chats' />
+	[341] (862,851)<div  />
+		[342] (868,839)<div  />
+	[343] (862,876)<span >대화 />
+[344] (935,861)<a class='NavigationBarstyled__Link-ch-front__sc-1kd54kd-1 cCdtAQ' href='/setting' />
+	[345] (935,875)<span >설정 />
+
+</current_dom>

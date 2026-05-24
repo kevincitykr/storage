@@ -1,0 +1,90 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+전문가용 그래픽카드
+[0] (672,4)<div class='scroll_opt' scrollable='true' />
+	쿨링팬
+	부가기능
+	Dual-Link
+	FANLED
+	제로팬(0-dB기술)
+그래픽카드
+[1] (353,230)<input id='Search_free' />
+무료배송
+[2] (418,230)<input id='Search_Event' />
+행사제품보기
+총
+11
+건
+[3] (307,307)<input id='SearchKeyword' />
+[4] (363,309)<a href='javascript:search_keyword();' />
+[5] (433,307)<select  />
+[6] (259,806)<div class='search_product' id='sr_list_wrap' scrollable='true' />
+	RTX 4060 Ti / 4nm / 베이스클럭: 2310MHz / 부스트클럭: 2550MHz / 스트림 프로세서: 4352개 / PCIe4.0x16(at x8) / GDDR6 / 출력단자: HDMI2.1 , DP1.4 / 지원정보: 8K 지원 , HDR 지원 , HDCP 2.3 / 사용전력: 160W / 정격파워 550W 이상 / 전원 포트: 8핀 x1 / 2팬 / 가로(길이): 237mm / 두께: 41mm / 제로팬(0-dB기술) / 백플레이트 /  / RTX4060Ti / PCI Express 4.0 x16 / 8GB / 128bit / 일반 / 1개 / 3개 / DisplayPortx3개 / HDMIx1개 / 8Pin / VGA231~250mm / 550W / LED-LIGHT / 방열판+팬(일반) / 히트파이프+팬 / 팬2개
+	무료배송
+	판매가격
+	650,000
+	재입고알림
+	[7] (221,434)<a class='imgbox' href='javascript:detail_show('1156813')'>[GALAX] GALAX 지포스 RTX 4060 Ti DUAL OC D6 8GB [1156813]
+RTX 4060 Ti / 4nm / 베이스클럭: 2310MHz / 부스트클럭: 2550MHz / 스트림 프로세서: 4352개 / PCIe4.0x16(at x8) / GDDR6(DDR6) / 출력단자: HDMI , DP / 지원기능: 제로팬(0-dB기술) , 8K 지원 , 4K 지원 , HDCP 2.3 / 사용전력: 165W / 정격파워 550W 이상 / 전원 포트: 8핀 x1 / 2팬 / 가로(길이): 238mm / 두께: 39mm / 백플레이트 / L / RTX4060Ti / PCI Express 4.0 x16 / 8GB / GDDR6 / 128bit / 일반 / 8Pin / 1개 / 3개 / DisplayPortx3개 / HDMIx1개 / VGA231~250mm / 히트파이프+팬 / 팬2개 />
+		[GALAX] GALAX 지포스 RTX 4060 Ti DUAL OC D6 8GB [1156813]
+	무료배송
+	판매가격
+	568,000
+	[8] (451,460)<a class='buttons' href='javascript:void(0)' />
+		[9] (451,460)<span >재입고알림 />
+	[10] (65,716)<a class='imgbox' href='javascript:detail_show('1281843')' title='[제품코드:1281843]' />
+	[11] (221,751)<a class='imgbox' href='javascript:detail_show('1281843')'>RTX 4060 Ti/PCIe4.0x16(at x8)/정격파워550W 이상/전원 포트:8핀 x1/가로(길이):251mm/베이스클럭:2310MHz/부스트클럭:2640MHz/스트림 프로세서:4352개/GDDR6/출력단자:HDMI2.1,DP1.4/지원정보:8K 지원,HDR 지원,HDCP 2.3/사용전력:160W/2팬/두께:40mm/제로팬(0-dB기술)/백플레이트/LED 라이트/XTREME TUNER/A/S 3년/25년 3월부로 백플레이트 디자인 변경 />
+		[12] (221,671)<b >[GALAX] GALAX 지포스 RTX 4060 Ti EX WHITE OC V2 D6 8GB [1281843] />
+	무료배송
+	판매가격
+	604,000
+	[13] (451,777)<a class='buttons' href='javascript:void(0)' />
+		[14] (451,777)<span >재입고알림 />
+	[15] (221,975)<b >[GIGABYTE] 지포스 RTX 4060 Ti EAGLE OC ICE D6 8GB 피씨디렉트 [1166556] />
+총 견적금액
+750,150
+원
+[16] (536,307)<a href='javascript:ea_down('global_form','0','allEa[]');' />
+[17] (565,307)<input  />
+[18] (594,307)<a href='javascript:ea_up('global_form','0','allEa[]');' />
+[19] (658,307)<a class='price_btn7' href='javascript:change_ea('change_ea_user');' />
+	[20] (658,308)<span >전체수량변경 />
+[21] (546,418)<label  />
+	[22] (528,417)<span  />
+		[23] (528,418)<input  />
+	[24] (554,417)<span >전체선택 />
+[25] (713,417)<a class='wbtn' href='javascript:add_wish_list();' />
+	[26] (713,418)<span >관심상품추가 />
+[27] (774,417)<a class='wbtn' href='javascript:delivery_check(); ' />
+	[28] (774,418)<span >장바구니담기 />
+[29] (833,417)<a class='wbtn' />
+	[30] (833,418)<span >견적서출력 />
+[31] (891,417)<a class='wbtn' href='javascript:speck_form();' />
+	[32] (891,418)<span >사양검토요청 />
+[33] (942,417)<a class='wbtn' href='javascript:sess_init();'>초기화 />
+	초기화
+[34] (529,509)<label  />
+	[35] (529,508)<span  />
+		[36] (528,511)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[37] (563,508)<span >인텔 병행수입 />
+[38] (640,561)<a class='proname' href='javascript:detail_show('1108547')'>[INTEL] [병행] 코어 i7-14700 (14세대/ 랩터레이크 리프레시/ 2.1GHz) [벌크/쿨러 미포함] />
+판매가격
+576,000
+[39] (873,540)<a href='javascript:ea_down2('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0)' />
+[40] (896,540)<input class='change__ea' id='Amount_1108547' />
+[41] (919,540)<a href='javascript:ea_up('global_form','0','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',0);' />
+[42] (529,656)<label  />
+	[43] (529,656)<span  />
+		[44] (528,658)<input class=' CSelectedProductNo CartPrNo select__product__no' />
+[45] (565,656)<span >인텔 소켓 1700 />
+[46] (640,696)<a class='proname' href='javascript:detail_show('1118926')'>[MSI] MAG B760M 박격포 II (인텔B760/M-ATX) />
+	[47] (690,697)<i  />
+판매가격
+174,150
+[48] (873,675)<a href='javascript:ea_down2('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1)' />
+[49] (896,675)<input class='change__ea' id='Amount_1118926' />
+[50] (919,675)<a href='javascript:ea_up('global_form','1','ea[]');price_sum();ajax_change_ea('ajax_change_ea_user',1);' />
+
+</current_dom>

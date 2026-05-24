@@ -1,0 +1,192 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (220,75)<a class='flex items-center mt-2 gap-1' href='/' />
+	[1] (231,75)<img  />
+[2] (464,69)<input class='bg-transparent border-none outline-none text-[16px]' placeholder='어떤 상품을 찾으시나요? 카페 상품, 앱 상품 모두 검색' />
+[3] (287,125)<button aria-label='이전 인기 검색어' class='border border-jnGray-200 rounded' />
+[4] (298,125)<button aria-label='다음 인기 검색어' class='border border-jnGray-200 rounded' />
+[5] (328,125)<a class='inline shrink-0' href='/search/%EC%95%84%EC%9D%B4%ED%8F%B0' />
+	[6] (328,125)<span >아이폰 />
+		[7] (318,125)<span >16
+. />
+[8] (367,125)<a class='inline shrink-0' href='/search/%EC%A4%8C%EB%B0%94' />
+	[9] (367,125)<span >줌바 />
+		[10] (360,125)<span >17
+. />
+[11] (413,125)<a class='inline shrink-0' href='/search/%EC%A0%84%EA%B8%B0%EC%9E%90%EC%A0%84%EA%B1%B0' />
+	[12] (413,125)<span >전기자전거 />
+		[13] (396,125)<span >18
+. />
+[14] (459,125)<a class='inline shrink-0' href='/search/%EC%8B%9C%EA%B3%84' />
+	[15] (459,125)<span >시계 />
+		[16] (452,125)<span >19
+. />
+[17] (496,125)<a class='inline shrink-0' href='/search/%ED%83%80%EC%9E%84' />
+	[18] (496,125)<span >타임 />
+		[19] (489,125)<span >20
+. />
+[20] (666,69)<a href='/search?keyword=i7-14700&sort=RECENT_SORT&minPrice=1300000&maxPrice=1600000&openChat=true' />
+	[21] (666,69)<div  />
+		[22] (649,69)<div  />
+			[23] (649,69)<img  />
+		[24] (675,69)<span >채팅하기 />
+[25] (732,69)<a href='/product/form?type=regist' />
+	[26] (732,69)<div  />
+		[27] (715,69)<div  />
+			[28] (715,69)<img  />
+		[29] (741,69)<span >판매하기 />
+[30] (790,69)<a href='/mystore' />
+	[31] (790,69)<div  />
+		[32] (781,69)<div  />
+			[33] (781,69)<img  />
+		[34] (799,69)<span >마이 />
+카테고리
+이벤트
+사기조회
+시세조회
+읽을거리
+내 관심
+최근 본 상품
+최근 본 상품이 없습니다.
+추천순
+최신순
+낮은가격순
+높은가격순
+[35] (239,342)<div  />
+	[36] (239,318)<a class='w-full' href='/product/228244891' />
+		[37] (239,318)<div  />
+			[38] (239,242)<div  />
+				[39] (239,242)<div  />
+				[40] (284,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[41] (239,457)<div  />
+				[42] (239,438)<div  />
+					[43] (239,418)<span >i7-14700K, RTX 4060 영상 및 게이밍 컴퓨터 PC />
+					[44] (239,468)<div  />
+						[45] (239,468)<div  />
+							[46] (208,468)<span >1,300,000 />
+							[47] (241,470)<span >원 />
+				[48] (239,511)<div  />
+					[49] (239,511)<div  />
+						[50] (196,511)<div  />
+							[51] (187,511)<div  />
+								[52] (193,511)<span >1 />
+							[53] (205,511)<div  />
+								[54] (211,511)<span >1 />
+						[55] (217,511)<div  />
+						[56] (232,511)<span >2일 전 />
+[57] (369,342)<div  />
+	[58] (369,342)<a class='w-full' href='/product/227481548' />
+		[59] (369,342)<div  />
+			[60] (369,242)<div  />
+				[61] (369,242)<div  />
+				[62] (415,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[63] (369,481)<div  />
+				[64] (369,438)<div  />
+					[65] (369,418)<span >빅터스 고사양 노트북 판매합니다 i7 14700hx / rtx4070 />
+					[66] (369,468)<div  />
+						[67] (369,468)<div  />
+							[68] (339,468)<span >1,300,000 />
+							[69] (372,470)<span >원 />
+				[70] (369,536)<div  />
+					[71] (369,511)<div  />
+						[72] (327,511)<div  />
+							[73] (318,511)<div  />
+								[74] (323,511)<span >1 />
+							[75] (336,511)<div  />
+								[76] (342,511)<span >5 />
+						[77] (349,511)<div  />
+						[78] (364,511)<span >2일 전 />
+					[79] (369,557)<div  />
+						[80] (325,557)<div  />
+							[81] (325,557)<span >무료배송 />
+[82] (500,342)<div  />
+	[83] (500,342)<a class='w-full' href='/product/226496225' />
+		[84] (500,342)<div  />
+			[85] (500,242)<div  />
+				인증셀러
+				[86] (500,242)<div  />
+				[87] (546,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[88] (500,481)<div  />
+				[89] (500,438)<div  />
+					[90] (500,418)<span >[단기전시] 삼성 데스크탑 DM501TGA (i7-14700/8G/S256G/윈11Pro) />
+					[91] (500,468)<div  />
+						[92] (500,468)<div  />
+							[93] (470,468)<span >1,390,000 />
+							[94] (502,470)<span >원 />
+				[95] (500,536)<div  />
+					[96] (500,511)<div  />
+						[97] (449,511)<div  />
+							[98] (449,511)<div  />
+								[99] (455,511)<span >1 />
+					[100] (500,557)<div  />
+						[101] (456,557)<div  />
+							[102] (456,557)<span >무료배송 />
+[103] (631,342)<div  />
+	[104] (631,342)<a class='w-full' href='/product/226496223' />
+		[105] (631,342)<div  />
+			[106] (631,242)<div  />
+				인증셀러
+				[107] (631,242)<div  />
+				[108] (677,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[109] (631,481)<div  />
+				[110] (631,438)<div  />
+					[111] (631,418)<span >[단기전시] 삼성 데스크탑 DM501SGA (i7-14700/16G/S256G/윈11Pro) />
+					[112] (631,468)<div  />
+						[113] (631,468)<div  />
+							[114] (601,468)<span >1,490,000 />
+							[115] (633,470)<span >원 />
+				[116] (631,536)<div  />
+					[117] (631,511)<div  />
+						[118] (580,511)<div  />
+							[119] (580,511)<div  />
+								[120] (585,511)<span >2 />
+					[121] (631,557)<div  />
+						[122] (587,557)<div  />
+							[123] (587,557)<span >무료배송 />
+[124] (761,342)<div  />
+	[125] (761,342)<a class='w-full' href='/product/214208094' />
+		[126] (761,342)<div  />
+			[127] (761,242)<div  />
+				[128] (761,242)<div  />
+				[129] (807,343)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[130] (761,481)<div  />
+				[131] (761,438)<div  />
+					[132] (761,418)<span >i7-14700k, asusZ790, 수랭쿨러, 램 />
+					[133] (761,468)<div  />
+						[134] (761,468)<div  />
+							[135] (731,468)<span >1,300,000 />
+							[136] (764,470)<span >원 />
+				[137] (761,536)<div  />
+					[138] (761,511)<div  />
+						[139] (724,511)<div  />
+							[140] (713,511)<div  />
+								[141] (718,511)<span >10 />
+							[142] (735,511)<div  />
+								[143] (741,511)<span >17 />
+					[144] (761,557)<div  />
+						[145] (718,557)<div  />
+							[146] (718,557)<span >무료배송 />
+[147] (239,808)<div  />
+	[148] (239,808)<a class='w-full' href='/product/213113598' />
+		[149] (239,808)<div  />
+			[150] (239,732)<div  />
+				[151] (239,732)<div  />
+				[152] (284,833)<button aria-label='찜하기' class='absolute bottom-0 right-0' />
+			[153] (239,947)<div  />
+				[154] (239,928)<div  />
+					[155] (239,908)<span >MSI 소드 17 HX B14VFKG i7-14700H />
+					[156] (239,959)<div  />
+						[157] (239,959)<div  />
+							[158] (208,959)<span >1,300,000 />
+							[159] (241,960)<span >원 />
+				8
+				8
+[160] (854,907)<button class='transition-all duration-300 overflow-hidden fixed bottom-10 border rounded-full z-20 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-198px)] xl:right-auto border-transparent bg-transparent' />
+	[161] (854,907)<div  />
+		[162] (903,907)<div  />
+[163] (902,799)<button aria-label='맨 위로 가기' class='gap-2 px-4 py-3 text-white active:border-gray-700 fixed bottom-6 min-w-0 z-50 w-12 h-12 bg-white border-2 border-gray-300 rounded-full shadow-lg hover:bg-gray-50 hover:border-gray-400 transition-all duration-200 flex items-center justify-center opacity-80 max-xl:right-5 max-xl:left-auto xl:left-[calc((100vw-1024px)/2+1024px+32px+98px-48px)] xl:right-auto md:bottom-[116px] max-md:bottom-[104px]' />
+	[164] (902,799)<span  />
+
+</current_dom>

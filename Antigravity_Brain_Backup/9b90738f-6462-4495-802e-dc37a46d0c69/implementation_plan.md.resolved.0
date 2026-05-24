@@ -1,0 +1,36 @@
+# 상품 수집 및 브랜드 필터링 자동화 업그레이드 계획
+
+기존의 단순 링크 수집 북마클릿을 고도화하여, 상세페이지의 내용을 분석하고 '재판매 금지' 또는 '브랜드 보호' 상품을 자동으로 걸러내는 기능을 구현합니다.
+
+## User Review Required
+
+> [!IMPORTANT]
+> **CORS 제약 사항**: 북마클릿(`fetch` 방식)은 현재 실행 중인 사이트와 상세페이지의 도메인이 같아야만 내용을 읽어올 수 있습니다. (예: 알리 검색 페이지에서 알리 상품 상세 읽기는 가능). 다른 도메인일 경우 Playwright 기반의 Python 스크립트 사용을 권장합니다.
+
+## Proposed Changes
+
+### [Component] Upgraded Bookmarklet (V2)
+
+#### [NEW] [deep_scraper_v2.js](file:///d:/20260412%20kevincity%20share/500.%EC%9C%88%EB%93%A4%EB%A6%AC/deep_scraper_v2.js)
+- **UI**: 화면 우측 상단에 진행 상황을 보여주는 플로팅 패널 (Glassmorphism 디자인).
+- **필터 키워드**: `무단 도용 금지`, `재판매 금지`, `저작권`, `Copyright`, `상표권`, `공식 판매`, `Authorized` 등.
+- **동작**: 
+    1. 현재 페이지의 모든 `/item/` 링크 추출.
+    2. 설정된 동시 작업 수만큼 상세페이지 `fetch`.
+    3. 키워드 검출 시 해당 링크 제외.
+    4. 최종 '안전' 링크만 클립보드 복사.
+
+### [Component] Playwright Scraper (Python)
+
+#### [NEW] [deep_filter_scraper.py](file:///d:/20260412%20kevincity%20share/500.%EC%9C%88%EB%93%A4%EB%A6%AC/deep_filter_scraper.py)
+- 브라우저를 직접 제어하여 JavaScript로 로드되는 상세페이지 내용까지 완벽하게 스캔.
+- 북마클릿보다 훨씬 빠르고 안정적임.
+
+## Verification Plan
+
+### 시뮬레이션
+1. `browser_subagent`를 사용하여 실제 쇼핑몰 페이지에서 키워드 필터링 로직 테스트.
+2. 필터링된 결과와 원본 결과를 비교하여 정확도 확인.
+
+### Manual Verification
+- 사용자가 직접 북마클릿을 실행하여 UI 동작 및 클립보드 결과 확인.

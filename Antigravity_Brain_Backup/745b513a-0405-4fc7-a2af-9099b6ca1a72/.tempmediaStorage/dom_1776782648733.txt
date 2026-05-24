@@ -1,0 +1,29 @@
+<current_dom_explanation>
+This is a temporary snapshot of the current page's DOM structure. The DOM will change if you navigate to or interact with another page. Use a tool like browser_get_dom to capture and preserve the DOM in your trajectory if needed for later reference.
+</current_dom_explanation>
+<current_dom>
+[0] (68,34)<a class='MV3Tnb' href='https://about.google/?fg=1&utm_source=google-KR&utm_medium=referral&utm_campaign=hp-header'>Google 정보 />
+[1] (151,34)<a class='MV3Tnb' href='https://store.google.com/KR?utm_source=hp_header&utm_medium=google_ooo&utm_campaign=GS100042&hl=ko-KR'>스토어 />
+[2] (754,32)<a aria-label='Gmail ' class='gb_4' href='https://mail.google.com/mail/&ogbl'>Gmail />
+[3] (807,32)<a aria-label='이미지 검색 ' class='gb_4' href='https://www.google.com/imghp?hl=ko&ogbl'>이미지 />
+[4] (864,32)<a aria-label='Search Labs' class='gb_C' href='https://labs.google.com/search?source=hp' role='button' />
+[5] (916,32)<a aria-label='Google 앱' class='gb_C' href='https://www.google.co.kr/intl/ko/about/products' role='button' />
+[6] (968,32)<a aria-label='Google 계정: 김더케빈  
+(kkseob0116@gmail.com)' class='gb_C gb_5a' href='https://accounts.google.com/SignOutOptions?hl=ko&continue=https://www.google.com/&ec=futura_exp_og_si_72776762_e' role='button' />
+[7] (456,455)<textarea aria-label='검색' class='gLFyf' id='APjFqb' role='combobox' title='검색' />
+[8] (697,455)<div aria-label='입력 도구' class='Umvnrc' role='button' />
+	[9] (697,455)<span  />
+[10] (740,455)<div aria-label='음성 검색' class='XDyW0e' role='button' />
+[11] (783,455)<div aria-label='이미지로 검색' class='nDcEnd' role='button' />
+[12] (417,538)<input aria-label='Google 검색' class='gNO89b' role='button' />
+[13] (565,539)<input aria-label='I’m Feeling Lucky' class='RNmpXc' />
+대한민국
+[14] (198,972)<a class='pHiOh' href='https://www.google.com/intl/ko_kr/ads/?subid=ww-ww-et-g-awa-a-g_hpafoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpafooter&fg=1'>광고 />
+[15] (272,972)<a class='pHiOh' href='https://www.google.com/services/?subid=ww-ww-et-g-awa-a-g_hpbfoot1_1!o2&utm_source=google.com&utm_medium=referral&utm_campaign=google_hpbfooter&fg=1'>비즈니스 />
+[16] (369,972)<a class='pHiOh' href='https://google.com/search/howsearchworks/?fg=1'>검색의 원리 />
+[17] (640,972)<a class='pHiOh' href='https://policies.google.com/privacy?hl=ko&fg=1'>개인정보처리방침 />
+[18] (742,972)<a class='pHiOh' href='https://policies.google.com/terms?hl=ko&fg=1'>약관 />
+[19] (802,972)<div class='CcNe6e' role='button' />
+	[20] (802,972)<div >설정 />
+
+</current_dom>
